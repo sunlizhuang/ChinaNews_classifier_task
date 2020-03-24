@@ -1,0 +1,9 @@
+Home » Nation
+
+A TEAM of Chinese doctors has successfully conducted the country’s first robot-assisted brain angiography in Beijing hospital, the Science and Technology Daily reported yesterday.
+
+The doctors accurately performed brain angiography surgery on a woman by remotely commanding Luban, China’s self-developed minimally invasive vascular interventional surgery robot.
+
+Angiography is an X-ray technique that injects contrast media into arteries to dynamically reveal the condition of major blood vessels in the brain, usually exposing medical staff to radiation throughout the surgery. A surgery robot could protect medical staff from radiation risks.
+
+Developed by researchers from the Beijing Tiantan Hospital and Beijing Institute of Technology, the robot will soon be used in clinical practice. With 5G, Luban will be able to perform trans-regional surgeries.

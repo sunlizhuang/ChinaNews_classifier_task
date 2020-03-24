@@ -1,0 +1,97 @@
+A picture made available on 30 June of Hook the pangolin resting on a tree stump while zoo keeper Suman looks on in the Singapore Zoo, 29 June 2008. EPA/HOW HWEE YOUNG
+
+As the death toll climbs in the China pandemic, researchers reveal new origins for the coronavirus in Earth’s most threatened mammal.
+
+The deadly novel coronavirus pandemic has been traced to pangolins, the world’s most trafficked and endangered mammal, according to researchers from the Baylor College of Medicine in Houston, Texas. This had been confirmed by researchers at the South China Agricultural University.
+
+Today we can reveal that DNA analysed by the Baylor researchers appears to offer a near-perfect match for the current outbreak of novel coronavirus (nCoV-2019), an acute respiratory disease that has killed hundreds.
+
+The Baylor analysis, based on a separate study of 21 Malayan pangolins (Manis javanica) at a wildlife rescue centre in China’s Guangdong province, shows that highly endangered pangolins are vectors for the viral strain nCoV-2019. The outbreak has unleashed a global health emergency.
+
+China has temporarily placed a ban on the sale of wildlife and wildlife products, but this is the best reason to make the ban permanent.
+
+Malayan pangolins are listed as critically endangered by the IUCN Red List of Threatened Species.
+
+Importantly, the analysis also shows that nCoV-2019 may be present in trafficked pangolins beyond the outbreak epicentre in Wuhan, a metropolis of 11-million people in Hubei province, where market wildlife is thought to have infected traders. The analysis found it in pangolins in Guangdong.
+
+Hubei province and Guangdong province are both major nerve centres for China’s pangolin trade.
+
+It is probable that the virus originated in bats, with pangolins being the vector into humans. In past epidemics, vectors have been pigs, chickens, ducks and camels.
+
+At least 16 of the 21 Malayan pangolins handed to the Guangdong rescue centre by anti-smuggling authorities in March last year died after extensive rescue efforts, according to the separate study.
+
+Published by a Guangdong-based research team in 2019, the study reveals that “most of the dead pangolins had a swollen lung which contained a frothy liquid, as well as the symptom of pulmonary fibrosis”.
+
+This research is significant for being the first report on the viral diversity of pangolins. It also provides insight into the “diversity of viruses that may be capable of directly or indirectly crossing over into other mammals”.
+
+Redrawing the novel coronavirus map?
+
+The seventh member of the coronavirus family, nCoV-2019 was isolated by the Chinese Centre for Disease Control and Prevention in environmental samples from the Wuhan Seafood Market. The name, however, was a misnomer, because the market sold a vast smorgasbord of exotic animals for consumption — from live wolf pups and snakes, to bats and pangolins — before authorities shut it as part of the ban. The market has been widely criticised for keeping wildlife in unhygienic and overcrowded cages, where fluid exchange or aerosolisation between animals and humans may have initially passed nCoV-2019 to market traders.
+
+Although the carrier species for nCoV-2019 had not been confirmed, bats are the probable “natural reservoir host”, given that the genome sequences of coronavirus family members have often matched bat coronavirus with 96% accuracy.
+
+In 2017, scientists also traced the 2002-03 SARS epidemic — another coronavirus member — to bats, this time to cave-dwelling horseshoe bats in Yunnan province.
+
+But now the Baylor team believes bat coronavirus may have “recombined” in a pangolin, a charismatic, armadillo-like species covered in keratinised scales, which is popular in traditional medicine.
+
+“Many of the pandemic scares we’ve seen in the 21st century are the result of viruses that exist in nature being able to suddenly ‘jump’ and infect humans,” said Professor Joseph F. Petrosino, Baylor chair in the department of molecular virology and microbiology. “This ‘jumping’ occurs as a result of viral mutational change as well as through sharing viral genetic components.”
+
+Petrosino further explained that “‘hybrid’ viruses get genetic material from two pre-existing viruses. This latter phenomenon is what can lead to significant changes in viral host specificity, virulence [and] immune system/drug resistance very quickly — and it is what we think has happened with regard to the pandemic coronavirus strain based on our recent analyses.”
+
+It all started when Professor Matthew C. Wong, a talented computer scientist in Petrosino’s lab, launched a search for “existing genomic data [for coronaviruses] from animals known to be in [China], in particular those that match the pandemic strain”.
+
+A coronavirus looks like a bouncy ball with tiny handles fused across its surface. Each of these “handles” or “spikes” is a receptor protein. During mutation, the spikes can morph into a new shape to hook up to a potential host’s cells — and it is among these little spikes that Wong’s gimlet eye ring-fenced an interesting anomaly.
+
+Drawing on the pangolin data from the Guangdong researchers, Wong found the “genome of a coronavirus whose receptor gene matched the pandemic strain nearly 100% — pointing to the likelihood that the bat virus and pangolin virus at some point were in the same animal and had the chance to share genetic material … leading to the hybridisation [recombination] event that resulted in the pandemic strain”.
+
+A ‘devastating recombination event’
+
+Petrosino and other experts suggested that, in the wild, pangolins may already be infected — and yet all eight species of pangolin are at the centre of a roaring culinary and medicinal trade that places people as well as these severely threatened animals at heightened risk.
+
+To try and contain nCoV-2019, which on Friday had climbed to 31,990+ global cases with 630+ confirmed dead in China, authorities have slapped a nation-wide ban on the trade and consumption of all wildlife.
+
+However, the popularity of the pangolin trade does not necessarily offer meaningful respite under this ban, especially since this intervention is only temporary while authorities figure out how to control and, ideally, better understand nCoV-2019.
+
+As it is, the trade in four African and four Asian pangolin species is supposed to be strictly controlled under the Convention on International Trade in Endangered Species. Yet, every year, as many as 2.7-million wild pangolins are plucked from central Africa’s forests alone. Pangolin meat is popular as a high-end restaurant delicacy and, in 2019, in just two seizure events, Singapore authorities flushed out an eyewatering 26 tons in scales.
+
+A 2016 report by the China Biodiversity Conservation and Green Development Foundation shows that provincial authorities have issued approval codes to more than 200 pharmaceutical companies to extract exotic medicines from the scales of supposedly captive-bred animals — although it is an open secret that a variety of wild contraband, from rhino parts to live chimps, are laundered through the system.
+
+Tens of countries are involved in the illegal trade of wild pangolins, but Asian countries — and the dirty, “pressure-cooker” conditions of wildlife markets of China, in particular — are the most prolific consumers.
+
+“In general, bringing animals together in close proximity increases the chances of viruses crossing between animals and being able to share genetic information, thus creating viruses that can potentially threaten animal populations and humans,” said Petrosino. “In this case, it appears a pangolin virus and bat virus found themselves in the same animal, which led to a devastating recombination event, creating the pandemic strain. This may have happened in the wild, or where these animals were brought together in unnaturally close proximity.”
+
+Petrosino was quick to caution that the researchers did not “know the order, or even where, the recombination events took place — whether it was in a bat, or pangolin, or even whether there were other animals involved in the process that have yet to be discovered.
+
+“All we can say for sure is that a virus that is known to exist in bats and a virus that was found in a pangolin-virus sample appeared to have recombined to form nCoV-2019. But, some viruses can be transmitted between mammals relatively easily, so there’s no way to tell whether there is another animal where these two viruses perhaps coexisted. More surveillance of animals in the region is necessary.”
+
+However, Asian pangolins “would indeed pick up a virus from a bat even in the wild state”, said Ray Jansen, a professor at Tswane University of Technology’s natural sciences department in Pretoria.
+
+Jansen also heads the African Pangolin Working Group. He was not involved in the Baylor study. To him, it was not unlikely that the host pangolins may have initially “fed on either arboreal or terrestrial ant nests that could have been infected with fresh faecal matter from a bat”.
+
+This, he noted, was because pangolins “forage pretty much ‘blindly’. Their long tongue waves around in the nest randomly and collects ants and termites on its sticky surface. This creates a very high likelihood of infection from bat faeces. Of course, the cross-contamination could also very well have taken place in the market itself where the meat of both species was prepared on the same chopping board … However, the mutated virus was very likely in the pangolin already.”
+
+Jansen added that the Baylor team’s initial findings had “huge implications for the consumption of pangolins in Asian countries such as Malaysia, Vietnam, India, Nepal and mainland China”.
+
+African pangolins, he underlined, were “frequently consumed in central and west Africa and similar threats would also then exist”.
+
+Few, if any, countries in the world would have the capacity to match China’s monumental response to a pandemic such as the nCoV-2019 outbreak.
+
+In a matter of days, Chinese authorities erected 1,000-bed pop-up hospitals specialising in infectious diseases, with reports of medical staff struggling to cope. In Africa, possible viruses that jump from wildlife to humans may place an undue burden on public-health systems.
+
+Jansen said that a zoonotic disease such as nCoV-2019 could even survive in a dead pangolin, “as long as the environment is liquid and moist and the animal hasn’t dried out completely. Then that virus is almost certainly alive.”
+
+That means the virus could jump from pangolins to humans descaling an animal that is still moist.
+
+“This is how Ebola originated in West Africa from bats — selling bats in markets. So the rule of thumb is you don’t eat predators. End of story,” said Jansen. “It’s highly likely that [coronavirus] was transferred from a dead pangolin to someone who consumed it.”
+
+Since the outbreak of nCoV-2019, wildlife organisations and campaigners across the globe have called on China to ban its trade in wildlife permanently.
+
+Humane Society International-Africa’s Audrey Delsink warned that the research should be harnessed to make measured conservation-based decisions.
+
+“We do not want pangolins to be persecuted any further, because there is a fear that they carry coronavirus,” she said in an email. Nonetheless, she suggested that the research may serve as a deterrent to stop eating pangolins.
+
+Peter J Li, Houston-based China Policy specialist for Humane Society International, last week called on China “to choose between the narrow interests of wildlife businesses and the national interest of public health”.
+
+Writing in South China Morning Post, he said that the country could not “allow a minority of wildlife traders and exotic food lovers to hijack the public interest”. DM
+
+Don Pinnock and Tiara Walters Follow Save More

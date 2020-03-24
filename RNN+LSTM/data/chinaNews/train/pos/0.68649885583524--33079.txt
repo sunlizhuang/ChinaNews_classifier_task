@@ -1,0 +1,13 @@
+Global consulting firm Accenture has been contracted to work on a new state cryptocurrency by the central bank of Sweden. Accenture will help Riksbank to design the consumer-facing features of an e-krona, in a piloting project that could last up to seven years.
+
+An initial coin offering (ICO) is a means of crowdfunding centred around cryptocurrency, which can be a source of capital for start-up companies. In an ICO, some quantity of the crowdfunded cryptocurrency is pre-allocated to investors in the form of "tokens," in exchange for legal tender or other cryptocurrencies such as Bitcoin or Ethereum. These tokens become functional units of currency if or when the ICO's funding goal is met and the project launches.
+
+One problem for cryptocurrency is that due to its sudden emergence, regulators have been thrown into turmoil as to how to best adapt their operations to continue monitoring their respective industries. While it has almost always been the case that laws play catch-up to innovation during periods of change, when it comes to cryptocurrency and its related technologies, regulators have been caught particularly flat-footed. Citing security risks, in 2017 this saw South Korea and China ban the use of anonymous bank accounts for trading in the ICO market from the end of January 2018.
+
+With the cryptocurrency scene continuing to offer new opportunities for investment, governments are quickly shedding this suspicion to adapt cryptocurrency to their own ends. Russia has been developing its own asset-backed ‘stable-coins’, while China has also announced its own state-digital-currency. Following this trend, Sweden’s central bank has announced plans to create a pilot platform for a digital currency known as the e-krona.
+
+International consulting firm Accenture is set to build the e-krona’s consumer-facing features. While it remains unclear what technology Accenture’s proposed e-krona will utilise, as Riksbank has classified the procurement process as a matter “important to national security,” the firm will work to devise the manner in which users will pay with e-krona on various mobile platforms, while running them in a test environment with “simulated stores.”
+
+A 2018 report from the bank also stated “an e-krona should be able to interact with Distributed Ledger Technology solutions,” so it will likely be compatible with Blockchain.
+
+Accenture is one of the most experienced consultancies in terms of central bank digital currency (CBDC). To date most of its public work has focused on wholesale or institutional currency trials, such as with experiments and reports for Canada and Singapore.

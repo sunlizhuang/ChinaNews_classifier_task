@@ -1,0 +1,33 @@
+Huawei CEO: Our new OS could be 60% faster than Android Huawei sets to work on creating an app store alternative to Google Play.
+
+Huawei launched a charm campaign in London this week in an effort to persuade UK and Irish developers into creating new apps for Huawei Mobile Services (HMS), the platform that the Chinese company is presenting as the alternative to Google's Android Play Store.
+
+The phone manufacturer announced during its first developer conference that it would splash out £20 million ($26 million) as an incentive for developers to work on apps for HMS. The investment will go towards rewarding the teams that successfully download an app to the platform by the end of this month.
+
+To further inspire its audience, Huawei launched 24 developer open-access kits covering a range of functions such as location-tracking, health or language services.
+
+"We have announced our £20 million investment plan to recognize and incentivize our partners, so that we can build an outstanding ecosystem together," said Anson Zhang, managing director of Huawei UK.
+
+In the current context, it seems that the company actually has very little choice but to aggressively pitch the benefits of HMS to developers. Last May, Google decided to suspend Huawei's use of some parts of the Android operating system after the US Department of Commerce added the Chinese manufacturer to its "Entity" list. As a result, Huawei's recent and future devices cannot use some Android services such as the Play Store, Maps or YouTube.
+
+As a result of the blacklisting, Huawei has had to resort to an open-source version of Google's Android operating system, which runs without Google's key apps. The OS is already powering HMS on the company's latest smartphone, the Mate 30 – and will also run on upcoming devices for the foreseeable future.
+
+Ben Wood, analyst at CCS Insight, told ZDNet: "What Huawei is trying to achieve is pretty straight-forward: if Google won't let them have the apps, then they're going to make them themselves."
+
+"They need to appeal to the developers' community to make sure that all the apps available on other phones have a credible alternative on Huawei devices. And very clearly, they are banking on money to make these developers come to them."
+
+As Wood notes, the strategy does not have a history of paying off. Various companies tried to break into the two horse race between Android and Apple's iOS in the smartphone world – Windows 10 Mobile, BlackBerry, Samsung's Tizen OS among them – and none of them were exactly crowned with success.
+
+And even if Huawei does manage to get the right apps on its platform, the company will then have to make sure that those apps are regularly maintained and updated. "Huawei needs to get the apps at the point of launch and also make sure they get regularly updated," said Wood. "Users need the regular Android updates, the security patches and so on."
+
+The Chinese manufacturer, however, doesn't only have the money card to play: the company also boasted a 600 million-wide base of active users across 170 countries. Domestically, the US's ban did not impact sales; Huawei sold almost seven million devices in 2019 and is the second largest phone manufacturer.
+
+SEE: Huawei eyes AI prowess, invests in compute power
+
+That is no small opportunity for developers in Europe, who traditionally struggle to penetrate the Chinese market. For Wood, it is evident that giving developers the opportunity to access Huawei's large home market is a huge bonus point – although it remains to be seen whether apps designed for Western markets will be attractive to Chinese users.
+
+As for its international customers, Huawei is up against Google's giant user base, which can be counted in billions. "It's a very tough situation for Huawei and quite frankly, until they are removed from the Entity list, they will continue to struggle," said Wood.
+
+"I have big doubts that Huawei will be able to get most of the apps they need," he added. "They have no other option, however, but to keep pushing. This is absolutely a global offensive to try and get developer support for HMS."
+
+The Chinese manufacturer has already announced initiatives to engage with developers in India, and more conferences are likely to take place around the world in the coming months. Unless, of course, a political solution is found to put an end to the US and China trade war – an outcome that would certainly put an end to many of Huawei's woes.

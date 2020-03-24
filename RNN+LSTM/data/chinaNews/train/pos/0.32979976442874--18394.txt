@@ -1,0 +1,129 @@
+Operator: Standby for today’s conference, we will begin in just a few moments. Know if you are standing by, all lines will be listen only. You can press start and 1 to ask a question on the phone line. This call is being recorded if you have objections, you can continue next disconnect at this time. You may begin.
+
+Ben Haynes: Thank you, Sarah, and thank you for joining us for today regarding the CDC 2019 novel coronavirus response. We are joined today by Dr. Nancy Messonnier, director of CDC’s National Center for Immunization and Respiratory Disease and health officials from the state of Washington. Dr. Messonnier will provide opening remarks before taking your questions. I will now turn the call over to Dr. Messonnier.
+
+Nancy Messonnier: Good afternoon and thank you all for joining us. During our briefing last Friday, I foreshadowed that we could see a novel coronavirus infection in the United States, most likely in a traveler from Wuhan. Today I am joined by representatives from the state of Washington to announce that we have now confirmed the first case of novel coronavirus in the United States.
+
+CDC has been proactively preparing for an introduction of the virus here. We know that today’s news is concerning. I’m grateful with the work being done at all levels within the federal government and at the state and local level to prepare and respond. Based on international reports, there are now close to 300 people who have been confirmed with this novel coronavirus in China, and there have been travel associated introductions in Thailand, Japan, Taiwan, and South Korea. Additional deaths have also been reported. Human to human spread has been confirmed. How easily or sustainably this virus is spreading remains unknown. These new developments further emphasize CDC’s proactive approach in responding to this evolving outbreak.
+
+In terms of our response: Over the weekend CDC finalized development of a real time Reverse Transcription-Polymerase Chain Reaction – abbreviated as rRT-PCR – test that can diagnose this new virus. We used this test to quickly confirm our first U.S. case. Right now, testing for this virus must take place at CDC, but in the coming weeks, we anticipate sharing these tests with domestic and international partners through the agency’s International Reagent Resource. Yesterday, we activated our Emergency Operations Center in response to the newest developments. I know a lot of you are likely wondering about the entry screening that we started on Friday at San Francisco airport, New York JFK, and LAX airport. So far, CDC staff have screened over 1,200 passengers. However, no individuals have been referred to a hospital or discovered yet through entry screening. This is an evolving situation and again, we do expect additional cases in the United States and globally. This week CDC will add entry health screening at two more airports – Atlanta Hartsfield-Jackson and Chicago O’Hare. Today, we will also be raising our travel health notice from a level 1 to a level 2. Preliminary information suggests that older adults with underlying health conditions may be at increased risk for severe disease.
+
+I’m now going to hand the briefing over to my colleague, Washington State Secretary of Health, John Wiesman, who will introduce key players in Washington state and outline what the public health system is doing in response to the case. Dr. Wiesman.
+
+John Wiesman: Great, thank you Dr. Messonnier. I appreciate that. Hello, I am John Wiesman, Secretary of Health for the state of Washington. I first want to begin by recognizing the quick, collaborative work being done with our local and federal public health and healthcare partners. Over the holiday weekend, this group of people quickly identified a possible risk, coordinated the patient care, sent samples to CDC, and CDC tested them immediately. Together we are implementing actions to ensure the public’s health is protected. I am also thankful that the man who tested positive for this virus acted so quickly to seek treatment. Because of that we were able to isolate him from the public. His actions gave us a head start. All of this work means we believe the risk to the public is low. It’s true that we are learning more about the new coronavirus. We have a strong public health team here in Snohomish county and Washington state. And together with our partners at CDC, we will share any additional information as we learn it. To give you information about the situation, I’ll hand it over to our state infectious disease epidemiologist, Dr. Scott Lindquist and Dr. Chris Spitters, the health officer from Snohomish Health District, who will tell you more about the current situation. Dr. Lindquist.
+
+Scott Lindquist: Thanks, this is Scott Lindquist, the state epidemiologist for Washington state. And just want to remind everyone how we had anticipated screening, so our system was ready despite a holiday weekend. I’m thrilled to say we were able to detect this gentleman early. This is a man in his 30s in a county north of Seattle, Snohomish county, and we have been in close contact, thanks to the CDC’s Emergency Operations Center helping direct the appropriate specimen collection, isolation, and investigation procedures with the local health jurisdiction. So, I’ll turn it over to our local health officer, Dr. Chris Spitters, who can give us some details of where they’re working on this patient right now. Chris.
+
+Chris Spitters: Thank you Scott. Last night, the Snohomish Health District coordinated with the Snohomish county emergency medical system to safely transport the patient to Providence Regional Medical Center in Everett. That facility is following our jointly developed infectious disease protocols to ensure prevention of transmission in the facility. As stated earlier, the risk to the general public is low. We are working with the medical center to ensure that the small number of healthcare workers and patients that may have been exposed are notified for symptom watch and monitored. No one wants to be the first in the nation in these types of situations, but these are the types of situations that public health and its partners train and prepare for. Because of this, everything has been going along quite smoothly and on behalf of the Snohomish Health District, I’d like to thank the Centers for Disease Control, the Washington State Department of Health, and Providence Regional Medical Center, as well as all of our local partners in Snohomish county for their support and collaboration in this effort.
+
+Nancy Messonnier: Thank you all. I just wanted to add briefly that a CDC team has been deployed to support the ongoing investigation in the state of Washington, including tracing close contacts to determine if anyone else has become ill. As always, we stand by to help out state, local, and global partners in any way we can. As I mentioned on Friday, we have faced similar challenges before – with SARS and MERS. Those outbreaks were complex and required a comprehensive public health response. Because of that experience, we know it’s crucial to be proactive and prepared. The confirmation that human to human spread with this virus is occurring in Asia certainly raises our level of concern about this virus, but we continue to believe the risk of this novel coronavirus to the American public at large remains low at this time. Activation of the EOC and the enhanced airport entry screening reflect the continuation of CDC’s very aggressive public health response strategy. Enhanced airport screening is just one part of a layered approach to increasing the public health and healthcare delivery system to raising its awareness to properly detect the cases early. This individual had a level of concern that enabled him to seek medical care promptly and his clinicians appropriately evaluated and reported the patient. I want to remind everyone that we are still in the early days of this investigation – both domestically and abroad. We are monitoring the situation closely and working to keep you informed every step of the way. I want to take a moment to thank our colleagues in Washington at both the state and local level, as well as the healthcare staff that have been fully engaged and collaborating with us since yesterday when this case was discovered and tested as novel coronavirus. Our ability to coordinate and react this quickly is entirely dependent on these collaborations. We are aware that this situation could change quickly. Therefore, we at CDC are taking a cautious approach to this outbreak and are prepared to respond to any new developments.
+
+Ben Haynes: Thank you doctor, we are now ready for questions.
+
+Operator: The first question is from Helen Branswell with STAT, your line is open.
+
+Helen Branswell: Could we get something clear off the top. This was supposed to be an embargoed press conference, but this news is out. We can assume the embargo has lifted, yes?
+
+Nancy Messonnier: I understand the answer to that is yes.
+
+Helen Branswell: Thank you very much. In this case with this individual, can you give us information about his condition? Is he ill? Do you know if he had contact with people who were contagious?
+
+Nancy Messonnier: Washington state we will let you answer that.
+
+Chris Spitters: So, regarding the patient’s condition, they are in good condition and again, they’re currently hospitalized out of an abundance of precaution and for short term monitoring. Not because there was severe illness. At this point, the individual has reported that he did not visit any of those implicated markets and did not know anyone who was ill. He was just traveling from that area.
+
+Ben Haynes: Next question please.
+
+Operator: Thank you, our next question from Evan Brown with Fox News, your line is open.
+
+Evan Brown: Thank you very much. Just thinking back a number of years to the Ebola incident in Dallas. We saw a real push to not only have that individual placed in isolation as well as the other folks who became ill with very strict isolated standards. Is this a scenario where this same contingency is needed? Or no? What type of care is given to the patient for this? Are they isolating him and what type of medications can he get? Or, is it a matter of supportive care?
+
+Nancy Messonnier: This is CDC, maybe we’ll give a general answer and then we’ll turn it over to Washington for you all to talk specifically about this patient. Thank you for that question. It’s actually important to clarify that the precautions for this patient are standard isolation precautions. This is something many hospitals know how to do and we’re grateful that in this region in Washington state they were quite prepared for this contingency. So this is not a situation like the Dallas one. This is something where most hospitals in the region should have a hospital that can utilize these kinds of precautions. Washington?
+
+This is CDC, maybe I’ll also say this is a hugely important issue and the health of our healthcare workers is very important to all of us. And we are practicing very, we are being proactive at all levels to make sure that as much as possible the people taking care of this patient are careful and cautious. And CDC will be working closely with the state health department on the particulars of this patient’s care.
+
+Scott Lindquist: Just regarding the Dallas or the Texas incident, this is again, not the same situation and plus this is an area of the state that has drilled recently on transporting a person in the ambulance and what types of isolation they should require. And there’s no question that there is isolation equipment available to the hospital. Again, we are very comfortable that this patient is isolated, poses a very little risk to the staff or the general public in this current situation. And again, because of an abundance of caution, we have used pretty strict isolation requirements and hospitalization because it is the first person in the United States. We will likely learn from this and future cases and we will adjust our recommendations accordingly.
+
+Ben Haynes: The next question please.
+
+Operator: Our next question comes from Lena Sun with the Washington Post.
+
+Lena Sun: Hi, can someone go over the basics with us. When did this person arrive? Did they arrive through one of the airport screening locations? Were they on a direct flight from Wuhan? What was the timeframe? Is this person a resident of the United States he went to China for business or pleasure and is now back in the United States?
+
+Scott Lindquist: We can give you the detail we know and that’s our priority today is really all the details of flight numbers, seat numbers, and people that would have been exposed. What we know currently is he proceeded the institution of the screening at the airports. He came in before that screening was done and was actually not with symptoms when he came to the United States. But this was a very astute gentleman that is looking at internet activity and had actually researched this and shared this information with his provider. We know it was not a direct flight from Wuhan to Sea-Tac, which is our local airport. And that’s really our challenge coming forward. We had talked about this on Friday that while we weren’t screening at Sea-Tac, we potentially could have a traveler that came through many routes. So we decided to activate and be ready before all the screening airports were set into motion. So, this gentleman kind of preceded and slipped around that type of screening, but because the public health system was aware and because this is a really agreeable gentleman who was looking out for his health care, we were able to detect it early and really minimize ongoing exposure to anybody.
+
+Lena Sun: So I have a follow-up question that I want to understand. So, this gentleman came to Seattle and you’re not sure how. It was not a direct flight and because he was monitoring the internet and did not have symptoms, when he started to get symptoms, he proactively reached out to providers or health officials?
+
+Scott Lindquist: Correct, that’s exactly how he did it. Chris, is there anything you would like to add?
+
+Chris Spitters: Just to add on that he has been fully cooperative.
+
+Lena Sun: Okay, is he a resident of the United States?
+
+Chris Spitters: Yes, a resident of the U.S.
+
+Nancy Messonnier: Before we move on, I just want to say that as this situation and as the information has been accumulating over the weekend, CDC has been thinking and rethinking our stance and we made some decisions on Sunday even in advance of this case. And Dr. Marty Cetron, who many of you know, is just going to tell us where we are on that screening.
+
+Marty Cetron: First I want to highlight the fact that, leave not doubt, entry screening is just one part of a multilayered system. The point is to alert the system. Individuals are often very empowered to make good decisions if they are informed. Healthcare systems and public health departments, as you just heard, are being alerted. The entry screening is one part of that with notices going out. The screening system started after the Seattle case, this gentleman was indirect, not through a direct flight. Over the weekend with the increasing cases, we decided to move into this full on 100% coverage strategy which means adding additional airports and instructing on Sunday the Department of Homeland Security and the Department of Transportation to begin our funneling approach and redirect all the traffic to the airports that have screening so the benefit of the alert can be more completely covered. So that plan is in place, the new airports will be rolling online this week and the operationalizing of the funneling, which is a very complex process involves reissuing tickets and rerouting passengers from all over the globe through connecting and direct flights. All of that is part of the strategy that was acutally initiated before we even heard about this case to compete that coverage.
+
+Lena Sun: I have another follow-up question. The reporter would like to know the date of when this gentleman came to Seattle?
+
+Marty Cetron: Our best understanding is on the 15th of January. The screening initiated on the 17th.
+
+Lena Sun: When did he reach out to providers?
+
+Scott Lindquist: Yeah, he actually reached out on the 16th. This is Scott Lindquist. He actually reached out to his medical provider on the 19th. We were in communication with the CDC Emergency Operations Center coordinating specimens that were shipped overnight and had the results the following day, incredibly fast.
+
+Ben Haynes: Next question, please.
+
+Operator: The next question comes from USA Today. Your line is open.
+
+Grace Hauch: Hi there. I wonder if this gentleman came through Sea-Tac why there is an screening there and at Chicago, has screening begun or is it about to begin? Are there other airports considering?
+
+Marty Cetron: Yeah, no, the kind of active screen isn’t in place at Sea-Tac and as I indicated last Friday, when we spoke, you have to go down to a lot of airports to do this across the country, for every single possible flight. So, we concentrate that by volume and when we get to the top five as we are looking at here in this regard, that we begin to redistribute the flights so they can be concentrated in the airports. However, all 14 airports that had passengers had notices and had been put on alert, had been working from the airport quarantine stations with their public health partners. So, again, it’s a multistep process. It rolls out and, in fact, this idea of funneling means redirecting and reissuing tickets so all the arriving passengers from Wuhan would come in to the airports where we can surge this capacity at. All the airports are doing other steps, particularly passenger education, as which you can see if very important in this regard. And that education is in both English and Mandarin.
+
+Ben Haynes: Next question, please.
+
+Operator: The next question from Ryan with the Seattle Times, your line is open.
+
+Ryan Blethen: Hi, I wasn’t let onto the phone call until the question- and-answer period and I may be asking about things already covered. Where in Washington state is this man? You can start with that.
+
+I am curious as to where he is in Washington in which hospital he is at? And what are hospitals doing in Washington now to look for this? Also, on the screening question, is Sea-Tac going to be one of the airports that will be screening for this now?
+
+Chris Spitters: So the gentleman is a Snohomish county resident and he is currently at Providence Medical Center. This is Chris, I am the health officer for the Snohomish Health District.
+
+Marty Cetron: I think it’s important to point out that all the quarantine stations do enhanced education and respond to any illness report. I indicated that active screening, which is where every passenger is questioned and has a temperature check is going on at the top three airports right now – JFK, San Francisco which has direct flights and LAX which has most of the indirect flights. Additional screening will be added to Chicago and Atlanta this week and rolled out as soon as the capacity. And the rest of the airports, all of the people who originate in Wuhan and travel into the United States, all of those tickets, passengers will be rerouted into these five.
+
+Scott Lindquist: And this is Scott Lindquist, the state epidemiologist for Washington state. This is part of our larger plan of preparing the hospitals and the healthcare system for all hazard preparedness which means Ebola, SARS, MERS, or in this case, the novel coronavirus. Most of these hospitals have been prepared with infection control with how to sample, how to isolate. And we were well prepared as this hospital is one of the hospitals that recently did a drill as well as our ambulance system for transporting this patients.
+
+John Wiesman: And just sort of reinforcing the layered approach here, hospitals need to be prepared with patient education. In this case we don’t believe even if we had active screening at the airport that this patient would have been picked because at the time, we don’t believe the patient had symptoms or a fever. So, this is the important piece about having a strong public health system all across this country that is prepared for this kind of biosecurity approach.
+
+Ben Haynes: Two more questions. Our next question comes from Roni Rabin with the New York Times.
+
+Roni Rabin: I also came in very late and right now what is being done to secure or what steps is the CDC doing about that? You have people in China who are working with the Chinese authority.
+
+Nancy Messonnier: This is CDC. As you say, there is new information hour by hour, day by day that we are tracking and following closely. We do have staff in China and Thailand and they have long term placements there working closely with the ministries of health. We also have staff at WHO and certainly have collaborated with global health leaders worldwide. We and the global health community are really working together to understand the situation. Information is rapidly evolving and we hope that over the next coming days, the situation will become clearer and certainly as you point out, the key issue that we all need to understand is how easily or sustainably the virus is spread form human to human and that is information we don’t completely have nailed down yet. But we’re continuing to work globally with all our partners to better understand it.
+
+Roni Rabin: Thank you. Can you still hear me? In the case of the Washington patient –? Just a reminder of the timeline.
+
+Scott Lindquist: Just a reminder of the timeline. This gentleman presented on Sunday, specimens were obtained, and the results were learned on Monday. And today, Tuesday, our priority is doing contact investigation and tracing. So, we have had three people assigned to us from CDC that are here and that is our priority to determine what it means to be at risk, who those people are, doing the contact investigations all the way from China to his home here in Snohomish county. That’s exactly what our priority is right now early in this investigation.
+
+Nancy Messonnier: Just to add that we are grateful that the patient is doing well and that is clinically not ill and he has been so cooperative. Things have been moving quickly and the health department has appropriately been prioritizing their activities. But there will be a whole set of activities to come in the coming days. But their first priority was clearly making sure this patient was healthy and being appropriately treated as we move on to the next phase.
+
+Ben Haynes: Last question.
+
+Operator: The last question comes from Julie Steenhuysen with Reuters, your line is open.
+
+Julie Steenhuysen: Are you coordinating with the world health organization in terms of how to treat this patient? What are you using at this point?
+
+Nancy Messonnier: There is a global effort to share information about potential treatments. That’s globally among the community of people that have dealt with similar issues with MERS and SARS, as well as inter-governmentally within the United States. So all those conversations are ongoing and very active. That being said, as our collaborators in Washington state said, the gentleman is right now very healthy. I think that it would be characterized that he is getting supportive care and monitoring.
+
+Chris Spitters: That’s absolutely correct, I have nothing to add.
+
+Julie Steenhuysen: One more follow-up, is CDC working with NIH to develop a vaccine and where is that effort?
+
+Nancy Messonnier: NIH has always been very active in this area and there is early work early and early conversations. As you know, the development of a vaccine is a complex process. It’s not something that’s going to be available tomorrow. But there are active conversations about vaccines as well as diagnostics [editor’s note: therapeutics should replace diagnostics].
+
+Ben Haynes: Thank you Dr. Messonnier, Dr. Cetron and colleagues from the state of Washington. I’d also like to thank you all for joining us for today’s briefing. Please visit the 2019 novel coronavirus webpage for continued updates. If you have further questions, please call the CDC media line at 404-639-3286 or email media@cdc.gov.
+
+Operator: That does conclude today’s call. Thank you for participating. You may disconnect your lines at this time.

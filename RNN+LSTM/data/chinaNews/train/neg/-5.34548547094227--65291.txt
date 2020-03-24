@@ -1,0 +1,46 @@
+A grand jury in Atlanta returned a nine-count indictment against PLA operatives Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei on Jan. 28, charging them with wire fraud, economic espionage, conspiracy to commit computer fraud and other offenses.
+
+FBI Deputy Director David Bowdich described the Equifax breach as “the largest theft of sensitive [personally identifying information] by state-sponsored hackers ever recorded.”
+
+The Equifax breach, disclosed in September 2017, exposed the sensitive financial records of nearly 150 million Americans and many other foreigners. After nearly two years of state and federal lawsuits, the company agreed to pay a settlement of at least $650 million.
+
+“The scale of the theft was staggering,” Barr said.
+
+The hackers first gained access to Equifax’s network no later than May 13, 2017, according to the indictment. They exploited a flaw in the software, known as Apache Struts, that powered Equifax’s dispute resolution portal, which let them steal login credentials for other parts of the network.
+
+They then allegedly spent several weeks hunting for sensitive data, running approximately 9,000 search queries that turned up sensitive data such as Social Security numbers and passport photos. Once they identified the files they wanted to take, they packaged them in a manner designed to avoid detection and transmitted them to overseas computer servers.
+
+“They routed traffic through approximately 34 servers located in nearly 20 countries to obfuscate their true location, used encrypted communication channels within Equifax’s network to blend in with normal network activity, and deleted compressed files and wiped log files on a daily basis in an effort to eliminate records of their activity,” the Justice Department said in a press release.
+
+The alleged thefts, which also targeted trade secrets such as Equifax’s proprietary methods of assembling and storing its data, continued through July 30, 2017.
+
+The gargantuan hack prompted the resignation of Equifax’s then-CEO Richard Smith, launched a wave of litigation and prompted multiple congressional hearings during which lawmakers excoriated Smith and other company representatives.
+
+Cybersecurity experts and members of Congress lambasted Equifax for ignoring warnings about the vulnerability that initially opened the door for the hackers, and a House Oversight Committee report subsequently described the intrusion as “entirely preventable.”
+
+Equifax “failed to prioritize cybersecurity and failed to follow basic procedures that would have prevented or mitigated the impact of the breach,” the office of Sen. Elizabeth Warren (D-Mass.) concluded in its own report.
+
+Warren and other lawmakers said the Equifax breach reflected the urgent need for comprehensive data security legislation that would require companies to meet higher security standards and clarify when and how they had to report breaches.
+
+Consumer activists also said the hack highlighted the dangers of letting a handful of credit-reporting firms amass huge vaults of information about virtually all Americans without their permission.
+
+Nearly two and a half years later, however, Congress has not enacted any legislation tightening security requirements on credit-reporting companies or restructuring their industry to address the widespread concerns.
+
+Chinese spies have ramped up espionage-focused hacking in recent years. Their targets — including the Office of Personnel Management and the health insurance titan Anthem — reflect Beijing’s desire to amass dossiers on Americans, especially those with security clearances, in the hope of compromising them.
+
+The Justice Department charged two Chinese hackers with the Anthem breach, and U.S. officials have privately blamed China for the devastating OPM intrusion. Intelligence officials have also linked Beijing to other major cyberattacks, including the Marriott hack that exposed the personal data of roughly 500 million people.
+
+“At the FBI we’ve been saying for years that China will do anything it can to replace the United States as the world’s leading superpower,” Bowdich said. “This indictment is about more than targeting just an American business. It’s about the brazen theft of sensitive personal information of nearly 150 million Americans.”
+
+The U.S. does not have evidence that Beijing or anyone else has begun exploiting the stolen information, Bowdich told reporters.
+
+If the previous cases are any indication, there’s little chance the hackers blamed for the Equifax breach will be apprehended by U.S. officials anytime soon.
+
+Officials routinely acknowledge as much when announcing charges against state-backed hackers, but they say that the charges put bad actors on notice and curtail their ability to live normal lives.
+
+“We’ll keep putting pressure on these bad actors, making sure they understand the risks and the consequences of their actions,” Bowdich said.
+
+Equifax said in a statement that it was “grateful” to the U.S. government for the new charges, which it described as “another positive step forward in helping us turn the page on the cybersecurity attack.” The company promised that it had significantly improved its security since the breach.
+
+“The attack on Equifax was an attack on U.S. consumers as well as the United States,” said Equifax CEO Mark Begor.
+

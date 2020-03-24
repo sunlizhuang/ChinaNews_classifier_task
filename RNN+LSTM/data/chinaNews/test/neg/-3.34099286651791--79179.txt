@@ -1,0 +1,71 @@
+Can AI flag disease outbreaks faster than humans? Not quite
+
+In this Thursday, Feb. 13, 2020 photo, Kyle Martin, a worker at HealthMap, a system using artificial intelligence to monitor global disease outbreaks, mines health data to keep the system up to date in a work area at Boston Children's Hospital in Boston. Early warnings of an emerging epidemic, some of them collected by HealthMap, showed AI's potential for giving global health experts a head start when bureaucratic hurdles and language barriers might get in the way. A screen behind displays a world map with colored dots marking cases of the disease known as COVID-19. less In this Thursday, Feb. 13, 2020 photo, Kyle Martin, a worker at HealthMap, a system using artificial intelligence to monitor global disease outbreaks, mines health data to keep the system up to date in a work ... more Photo: Steven Senne, AP Photo: Steven Senne, AP Image 1 of / 4 Caption Close Can AI flag disease outbreaks faster than humans? Not quite 1 / 4 Back to Gallery
+
+BOSTON (AP) — Did an artificial-intelligence system beat human doctors in warning the world of a severe coronavirus outbreak in China?
+
+In a narrow sense, yes. But what the humans lacked in sheer speed, they more than made up in finesse.
+
+Early warnings of disease outbreaks can help people and governments save lives. In the final days of 2019, an AI system in Boston sent out the first global alert about a new viral outbreak in China. But it took human intelligence to recognize the significance of the outbreak and then awaken response from the public health community.
+
+What's more, the mere mortals produced a similar alert only a half-hour behind the AI systems.
+
+For now, AI-powered disease-alert systems can still resemble car alarms — easily triggered and sometimes ignored. A network of medical experts and sleuths must still do the hard work of sifting through rumors to piece together the fuller picture. It's difficult to say what future AI systems, powered by ever larger datasets on outbreaks, may be able to accomplish.
+
+The first public alert outside China about the novel coronavirus came on Dec. 30 from the automated HealthMap system at Boston Children's Hospital. At 11:12 p.m. local time, HealthMap sent an alert about unidentified pneumonia cases in the Chinese city of Wuhan. The system, which scans online news and social media reports, ranked the alert's seriousness as only 3 out of 5. It took days for HealthMap researchers to recognize its importance.
+
+Four hours before the HealthMap notice, New York epidemiologist Marjorie Pollack had already started working on her own public alert, spurred by a growing sense of dread after reading a personal email she received that evening.
+
+“This is being passed around the internet here," wrote her contact, who linked to a post on the Chinese social media forum Pincong. The post discussed a Wuhan health agency notice and read in part: “Unexplained pneumonia???"
+
+Pollack, deputy editor of the volunteer-led Program for Monitoring Emerging Diseases, known as ProMed, quickly mobilized a team to look into it. ProMed's more detailed report went out about 30 minutes after the terse HealthMap alert.
+
+Early warning systems that scan social media, online news articles and government reports for signs of infectious disease outbreaks help inform global agencies such as the World Health Organization — giving international experts a head start when local bureaucratic hurdles and language barriers might otherwise get in the way.
+
+Some systems, including ProMed, rely on human expertise. Others are partly or completely automated.And rather than competing with one another, they are often complementary — HealthMap is intertwined with ProMed and helps run its online infrastructure.
+
+“These tools can help hold feet to the fire for government agencies," said John Brownstein, who runs the HealthMap system as chief innovation officer at Boston Children's Hospital. “It forces people to be more open."
+
+The last 48 hours of 2019 were a critical time for understanding the new virus and its significance. Earlier on Dec. 30, Wuhan Central Hospital doctor Li Wenliang warned his former classmates about the virus in a social media group — a move that led local authorities to summon him for questioning several hours later.
+
+Li, who died Feb. 7 after contracting the virus, told The New York Times that it would have been better if officials had disclosed information about the epidemic earlier. "There should be more openness and transparency,” he said.
+
+ProMed reports are often incorporated into other outbreak warning systems. including those run by the World Health Organization, the Canadian government and the Toronto startup BlueDot. WHO also pools data from HealthMap and other sources.
+
+Computer systems that scan online reports for information about disease outbreaks rely on natural language processing, the same branch of artificial intelligence that helps answer questions posed to a search engine or digital voice assistant.
+
+But the algorithms can only be as effective as the data they are scouring, said Nita Madhav, CEO of San Francisco-based disease monitoring firm Metabiota, which first notified its clients about the outbreak in early January.
+
+Madhav said that inconsistency in how different agencies report medical data can stymie algorithms. The text-scanning programs extract keywords from online text, but may fumble when organizations variously report new virus cases, cumulative virus cases, or new cases in a given time interval. The potential for confusion means there's almost always still a person involved in reviewing the data.
+
+“There’s still a bit of human in the loop,” Madhav said.
+
+Andrew Beam, a Harvard University epidemiologist, said that scanning online reports for key words can help reveal trends, but the accuracy depends on the quality of the data. He also notes that these techniques aren't so novel.
+
+“There is an art to intelligently scraping web sites,” Beam said. "But it’s also Google’s core technology since the 1990s."
+
+Google itself started its own Flu Trends service to detect outbreaks in 2008 by looking for patterns in search queries about flu symptoms. Experts criticized it for overestimating flu prevalence. Google shut down the website in 2015 and handed its technology to nonprofit organizations such as HealthMap to use Google data to build their own models.
+
+Google is now working with Brownstein's team on a similar web-based approach for tracking the geographical spread of tick-borne Lyme disease.
+
+Scientists are also using big data to model possible routes of early disease transmission.
+
+In early January, Isaac Bogoch, an infectious disease physician and researcher at Toronto General Hospital, analyzed commercial flight data with BlueDot founder Kamran Khan to see which cities outside mainland China were most connected to Wuhan.
+
+Wuhan stopped outbound commercial air travel in late January — but not before an estimated 5 million people had fled the city, as the Wuhan mayor later told reporters.
+
+“We showed that the highest volume of flights from Wuhan were to Thailand, Japan, and Hong Kong,” Bogoch said. “Lo and behold, a few days later we started to see cases pop up in these places.”
+
+In 2016, the researchers used a similar approach to predict the spread of the Zika virus from Brazil to southern Florida.
+
+Now that many governments have launched aggressive measures to curb disease transmission, it's harder to build algorithms to predict what's next, Bogoch said.
+
+Artificial intelligence systems depend on vast amounts of prior data to train computers how to interpret new facts. But there are no close parallels to the way China is enforcing quarantine zones that impact hundreds of millions of people.
+
+___
+
+Larson reported from Washington.
+
+___
+
+The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education. The AP is solely responsible for all content.

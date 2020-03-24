@@ -1,0 +1,13 @@
+Source: Xinhua| 2020-01-14 09:43:50|Editor: Wang Yamei
+
+Video Player Close
+
+BEIJING, Jan. 14 (Xinhua) -- A Chinese research institute released a 34-year dataset of the global surface solar radiation, according to the Chinese Academy of Sciences (CAS) Monday.
+
+The dataset, which provides data on the global surface solar radiation from July 1983 to June 2017, has a high resolution of up to 10 km. It has the field's longest time series of the country, said Tang Wenjun, a researcher of the dataset from the Institute of Tibetan Plateau Research under CAS.
+
+Users can download the data for free on the institute's website, according to the CAS.
+
+The dataset has a function of providing basic data for land surface process simulations including glacier, hydrology, ecology and agriculture. It can also contribute to photovoltaic applications and solar power station site selection.
+
+The research result has been published in the journal Earth System Science Data.

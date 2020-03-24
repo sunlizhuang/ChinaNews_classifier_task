@@ -1,0 +1,69 @@
+The world is watching with alarm as China struggles to contain a dangerous new virus, now being called SARS-CoV-2. It has quarantined entire cities, and the US has put a blanket ban on travellers who’ve been there. Health officials are scrambling to understand how the virus is transmitted and how to treat patients.
+
+But in one University of North Carolina lab, there’s a different race. Researchers are trying to create a copy of the virus. From scratch.
+
+Led by Ralph Baric, an expert in coronaviruses—which get their name from the crown-shaped spike they use to enter human cells—the North Carolina team expects to recreate the virus starting only from computer readouts of its genetic sequence posted online by Chinese labs last month.
+
+The remarkable ability to “boot up” viruses from genetic instructions is made possible by companies that manufacture custom DNA molecules, such as Integrated DNA Technology, Twist Bioscience, and Atum. By ordering the right genes, which cost a few thousand dollars, and then stitching them together to create a copy of the coronavirus genome, it’s possible to inject the genetic material into cells and jump-start the virus to life.
+
+The ability to make a lethal virus from mail-order DNA was first demonstrated 20 years ago. It’s enough of a bioterrorism concern that companies carefully monitor who is ordering which genes. But it’s also an important way to respond to a sudden outbreak, since synthetic virus recipes give researchers powerful ways to study treatments, vaccines, and how mutations could make it more dangerous.
+
+When a synthetic virus is better than the real thing
+
+Baric’s North Carolina lab, which specializes in engineering viruses, has previously butted heads with Washington agencies over the work, which has included synthesizing new, never before seen coronaviruses that can infect mice. In 2014, the National Institutes of Health froze funding to several labs, including Baric’s, over concerns that such research was too risky. The funding was later reinstated.
+
+For the China virus, Baric said in a telephone interview, his team placed an order for matching DNA from a manufacturer last month. Their first step was to go online and look at genetic sequences of the virus. They then compared several available sequences, which differ slightly, and picked a “consensus” version to have manufactured.
+
+Once Baric gets his DNA, something that could take a month, he plans to inject the genetic instructions into cells. If things go as planned, the cells should begin making actual infectious viral particles.
+
+A image of cornaviruses present in the cells of the first US case of a new pneumonia-causing disease. CDC
+
+By rolling their own germs, scientists can get hold of viruses even if they can’t obtain them directly from a country, especially one that’s in the grip of an epidemic. Baric says so far samples of the live virus from patients have not been made widely available from China. “This is the future in terms of how the medical research community responds to a new threat,” says Baric.
+
+The real virus and the synthetic one should be basically identical. But with the synthetic one, “we have a DNA copy that we can go back to over and over and over again, to make genetically identical viruses,” says Timothy Sheahan, a researcher at UNC who works with Baric. Starting from these copies, scientists can remove genes, add others, and figure out things like what makes the germ spread and how it gains access to human cells. Sheahan wants to try infecting mice with the virus and giving them various drugs to see what stops it.
+
+Artificial copies may also help scientists keep up with the outbreak’s unpredictable path. “I worry this virus is going to mutate in the course of the epidemic, and this would allow me to study what effects those mutations have,” says Stanley Perlman, a microbiologist who works on coronaviruses at the University of Iowa. “The synthetic virus is just a substitute for the actual virus, but with the DNA clone you can manipulate it and find the weak points and develop a therapy.”
+
+During past outbreaks, scientists would have had to wait months or years to get a look at the germ behind an outbreak. But with SARS-CoV-2 it took only weeks until its genetic sequence was posted online. Immediately, some scientists began analyzing the genetic data, comparing it to viruses from bats, snakes and pangolins; they concluded it could have begun circulating last November.
+
+Biotech companies, governments, and universities also quickly started ordering physical copies of particular genes found in the virus. DNA manufacturers say they have been deluged with orders for virus parts, including those useful for verifying diagnostic tests and others needed to make potential vaccines.
+
+“It’s been a pretty dramatic uptick, starting with the publication of the genome,” says Adam Clore, technical director of synthetic biology at IDT, based in Iowa, and one of the world’s largest sellers of DNA. “It’s high priority. There are a number of institutions that are devoting nearly all their energy working on detection or vaccines.”
+
+Still, most researchers need only one or two genes from the virus to carry forward work on tests and vaccines. Baric’s lab in North Carolina is the only one in the US known to be trying to re-create the virus completely from ordered DNA parts.
+
+How to keep deadly viruses out of the wrong hands
+
+It was in the early 2000s that scientists first showed that synthetic DNA strands could be used to “resurrect” viruses just from their genetic code. A team in New York State did it with polio, producing infectious material from DNA they ordered online.
+
+The technology immediately created bio-weapon worries. What if terrorists used the technique to resurrect smallpox? That hasn’t happened, but it does mean that scourges like polio, smallpox—and now the Chinese coronavirus—cannot now ever be truly wiped out. Researchers at the US Centers for Disease Control and Prevention (CDC) drove that point home in 2005 when they resurrected the influenza virus that killed tens of millions in 1918-1919.
+
+To keep the technology out of the hands of evil-doers, companies that manufacture DNA banded together a few years ago to limit access to dangerous genes. The big US players have all agreed to compare incoming DNA orders to a database of about 60 lethal germs and toxins called “select agents” so that only authorized labs can ever obtain the DNA needed to resurrect them.
+
+A CDC staff microbiologist examines a reconstructed 1918 pandemic influenza virus. CDC
+
+At our request, Battelle, a scientific R&D company whose software ThreatSEQ can make those comparisons, ran the scenario of someone trying to order a copy of SARS-CoV-2. According to Craig Bartling, a senior research scientist at Battelle, the software flagged both the entire virus, and most of its genes individually, “at the highest threat level.” Bartling says the alerts went off because the virus is highly similar to the original SARS, a related virus that sparked a global outbreak starting in 2002.
+
+Research into the new virus is seen as risky enough that manufacturers of DNA hurried last week to meet and formulate a policy about who should be able buy complete versions of the new germ’s genome. In a statement released on February 11, the International Gene Synthesis Consortium, a trade group, struck a cautious position. It said it would treat the new Chinese virus as if it were SARS, a germ added to the select agent list in 2012 and whose possession is tightly monitored by the US government.
+
+That means anyone who wants a complete synthetic copy of SARS-CoV-2 would need to undergo “specific and detailed vetting” and prove they are already registered by the CDC to work with SARS, as the North Carolina researchers are.
+
+However, companies that manufacture DNA still have discretion over what they sell and to whom, and not all of them think they should make the whole genome of this virus. Claes Gustaffson, founder and chief commercial officer of Atum, a DNA supplier in California, says he’s gotten orders from eight companies for parts of the virus genome and has personally approved a request by a US government agency to make 90% of its genes—likely to create an attenuated (i.e., harmless) version of it.
+
+“They probably want to figure out how to make a vaccine as quickly as possible,” says Gustaffson. “But if someone wanted the whole thing, I wouldn’t make it. Some things, like polio, you don’t want to make, no matter who is asking.”
+
+Ralph Baric UNC Gillings School of Public Health
+
+Not everyone thinks synthesizing the new coronavirus is particularly dangerous. “I don’t really see a huge amount of risk,” says Nicholas G. Evans, who studies biothreats at the University of Massachusetts, Lowell. “Right now, a lot of people are spending a lot of time on how this coronavirus works. I think the risks are outweighed by the benefits.”
+
+The outbreak, which appears to have begun in a live animal market in the city of Wuhan, had caused more than 64,000 cases and 1,350 deaths in China by February 14, so it’s even worse than SARS, which killed 774 people.
+
+Still, the US has not yet declared the new virus to be a select agent. According to Baric, the decision to add a new virus to the most-dangerous list “is not made in the expanding outbreak, because it slows down research.”
+
+Scaring people
+
+For now, only a very few sophisticated centers can actually re-boot a virus; there’s no chance a nut working from a garage could do it. “We are at the point where the best of the best can start to synthesize this new virus contemporaneously with the outbreak. But that is just a few labs,” says Evans. “Fortunately, we are still far from the point when lots of people can synthesize anything.”
+
+The advanced state of synthetic virus research, and the ability to genetically engineer germs, inevitably feeds fears, and conspiracy theories. Social media and some blog sites have been full of groundless speculation that the new virus was accidentally released from a Chinese bioweapon lab located outside of Wuhan. There’s no evidence that is the case, and substantial evidence it is not, but the rumor caused a diplomatic breach with China after it was repeated in the US Congress by a senator, Tom Cotton of Arkansas.
+
+Baric says he doesn’t see a particular danger to synthesizing the new virus at this stage of the outbreak, especially because the virus is still circulating in the wild. The important thing is to figure out what it does and stop it. “Whether you get it from a cell or synthesize it, it ends up the same thing,” says Baric.

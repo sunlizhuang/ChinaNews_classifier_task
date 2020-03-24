@@ -1,0 +1,19 @@
+Ongoing coverage of the novel coronavirus, and its impact on Seattle and the technology industry. See all special coverage.
+
+The man being treated for what was initially the first known case of coronavirus in the United States is being cared for in a specially designed room at Providence Regional Medical Center in Everett, Wash., and a robot is aiding in the process.
+
+According to reports in The Guardian, CNN and the Everett Herald newspaper, the man in his 30s is a Snohomish County resident who had traveled recently to Wuhan, China, where the virus originated. He was transported to the hospital north of Seattle by ambulance and was in a protective gurney, called an Isopod before being placed in a protective room.
+
+Inside the room, the man has been tended to by a robot, equipped with a stethoscope which takes his vitals and allows doctors to communicate with him through a large screen, according to Dr. George Diaz, chief of the infectious disease division at the hospital.
+
+“The nursing staff in the room move the robot around so we can see the patient in the screen, talk to him,” Diaz told CNN. The use of the robot minimizes exposure of medical staff to the infected man.
+
+The two-bed isolated area is reportedly away from other units at the hospital and has a separate air filter, according to the Herald. It was set up about five years ago during the Ebola crisis, and this is the first time it’s been used in a real-life scenario.
+
+Meanwhile, at Fred Hutchinson Cancer Research Center in Seattle, more specialists are lending their expertise in tracking the evolution of the virus in real time.
+
+Dr. Trevor Bedford, an associate member of the Vaccine and Infectious Diseases Division at Fred Hutch, uses powerful computers and complex statistical methods to study the rapid spread and evolution of viruses. He and colleagues have created visuals of a phylogenic tree and map tracking the evolution of SARS-like betacoronaviruses, including samples from the current outbreak.
+
+Bedford collaborates with colleagues globally to track evolutionary changes in infectious diseases. Previous projects (which can all be found on the open-source website, nextstrain) have followed Ebola, MERS, influenza and Zika, to name a few.
+
+The coronavirus epidemic is growing, according to figures in The New York Times’ ongoing live updates on the subject. The death toll in China has climbed above 80 and 110 people in the U.S. are being evaluated.

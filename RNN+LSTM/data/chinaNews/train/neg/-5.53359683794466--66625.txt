@@ -1,0 +1,45 @@
+BEIJING/CALIFORNIA (Caixin Global): As fears mount that an existing test to identify the coronavirus is failing to catch many of those infected, California-based diagnostics firm Cepheid said on Monday (Feb 10) that it is developing an automated molecular test that is expected to deliver results in about 30 minutes.
+
+Once the product is finalised, Cepheid intends to use the US Food and Drug Administration's Emergency Use Authorisation pathway for regulatory approval and make the test available globally. The company did not say when the new test would be available.
+
+China's ability to control the rapidly spreading coronavirus thought to have originated in Wuhan, Hubei province, has been under additional strain as problems with so-called nucleic acid tests (NATs) widely used to confirm new cases make it likely that many infections are going uncounted.
+
+Authorities are still struggling to ascertain the true extent of the epidemic, which had infected more than 43,000 people and killed over 1,000 worldwide as of Tuesday (Feb 11).
+
+Health officials have recommended cheap, abundant, and generally accurate NATs as one of two main methods to confirm the presence of the coronavirus in humans.
+
+The technique involves collecting samples from patients and testing them for specific kinds of molecules that appear in the genetic material of the new coronavirus. If those molecules are present in the sample, the patient is isolated for treatment.
+
+But there is growing concern that those NATs are producing large numbers of false negatives.
+
+In an interview with Chinese state broadcaster CCTV last week, Professor Wang Chen, an expert in critical diseases and director of the Chinese Academy of Medical Sciences, said one characteristic of the virus was that "not all of those infected by it return positive NATs."
+
+"Even patients who definitely have the disease only come back positive 30 per cent to 50 per cent of the time," Prof Wang said.
+
+"Testing throat swabs [from potentially infected people] also returns a lot of false negatives."
+
+Tests like NATs are especially important in people that may have contracted the virus but have not yet shown symptoms. Emerging trends in local infections mean that many such patients may have been sent home by hospitals after their NATs came back negative, doctors told Caixin.
+
+"At the moment, more and more cases in Wuhan are flaring up collectively in family groups, and the majority are of the concealed onset type," said Dr Zhang Xiaochun, a deputy director of the medical imaging department at Zhongnan Hospital of Wuhan University, one of the institutions at the centre of the outbreak.
+
+"They may have undergone one or even several NATs and shown no clinical symptoms, but keeping them under observation at home is bound to spread the disease further."
+
+A doctor in the imaging department of another major Wuhan hospital, who spoke on condition of anonymity, told Caixin that previously some patients whose CT scans clearly showed signs of viral infection but whose NATs tested negative were "released" back into their communities due to a shortage of hospital berths.
+
+NATs are by nature an imperfect mechanism for determining the presence of a given organism.
+
+For instance, because the genetic material they test for usually only exists in tiny amounts, many NATs include a step called amplification, which makes many copies of it. A shortcoming of amplification is that it also copies any contaminating DNA in the sample, potentially causing misleading results.
+
+"All experienced doctors know that NATs contain flaws," the doctor said.
+
+Aside from NATs, health officials have also recommended the use of gene sequencing to confirm coronavirus infections.
+
+But that method has its own problems. Although gene sequencing is comparatively accurate, it is also expensive, and not all affected hospitals have the necessary facilities.
+
+Additionally, at the start of the outbreak, many hospitals had to gain permission from higher authorities to conduct such tests, a rule that has since been relaxed.
+
+Experts have previously called for the inclusion of CT scanning as a key basis for diagnosing coronavirus infections, as well as rapid hospital admission and isolation.
+
+In response to calls from medical professionals on the frontlines of the epidemic, the National Health Commission last week relaxed the clinical criteria for reporting suspected coronavirus cases, with extra leeway granted to people in Hubei.
+
+Outside the stricken province, medical professionals should now suspect coronavirus infection in patients with radiographic evidence of pneumonia, fever and/or breathing problems, and a low-to-normal white blood cell count or a low lymphocyte count. Within Hubei, only two of the three criteria are required. - Caixin Global

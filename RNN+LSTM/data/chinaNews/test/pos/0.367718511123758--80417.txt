@@ -1,0 +1,57 @@
+(CNN) — As an activist, Nandini Jammi has become accustomed to getting harassed online, often by faceless social media accounts. But this time was different: a menacing tweet was sent her way from an account with a profile picture of a woman with blonde hair and a beaming smile.
+
+The woman went only by a first name, “Jessica,” and her short Twitter biography read: “If you are a bully I will fight you.” In her tweet sent to Jammi last July, she said: “why haven’t you cleaned your info from Adult Friend Finder? It’s only been three years.”
+
+The implication seemed clear. “Jessica” was claiming to have potentially embarrassing information from an old online dating profile about Jammi, a social media activist and co-founder of Sleeping Giants, a group that campaigns for companies not to run ads on websites that allow the spread of discrimination and hate. Jammi told CNN Business she never actively used the online dating account. “Jessica” also tweeted a reference to an old dating profile at E.J. Gibney, an independent researcher who has participated in Sleeping Giants campaigns.
+
+What set “Jessica” apart from other Twitter users, however, was that the woman smiling in the account’s profile picture seemingly never existed. The image was created using new sophisticated artificial intelligence technology, multiple experts who reviewed the image told CNN Business.
+
+Online trolls will sometimes run dozens or hundreds of accounts at the same time and use them to flood their targets’ social media feeds with messages of hate and harassment. This is usually done under a cloak of online anonymity.
+
+In an attempt to look like genuine accounts, anonymous online trolls will often use pictures stolen from other users’ accounts as their profile pictures. “Jenna Abrams,” an account that presented the persona of an American conservative woman, amassed more than 70,000 followers before eventually being removed by Twitter in 2017. The account was run by a Russian government-linked troll group and the picture the account was using actually belonged to a 26-year-old Russian woman who said she was not aware her image was being used in this way until she was contacted by CNN in 2017.
+
+Most of the major social media platforms have rules against using other people’s pictures in this way and have an option for people to make impersonation complaints if their identity is being used. But by using AI-generated faces of people that do not exist, trolls can potentially avoid being reported for impersonation.
+
+“Jessica” was part of a coordinated network of around 50 accounts that were run by the same person or people, Twitter confirmed to CNN Business. The accounts were used to harass activists, according to details gathered by Gibney and shared with CNN Business. Similar pictures, appearing to show different people on other accounts used as a part of the campaign, were also created using AI, experts told CNN Business.
+
+The technology enabling this has developed rapidly in recent years and allows people to create realistic fake videos and images — often referred to as deepfakes. While deepfake videos have arguably captured more attention in recent months, the use of fake faces like “Jessica” shows how AI-generated images can potentially help lend credibility to online harassment campaigns as well as coordinated information campaigns.
+
+In December, Facebook said it had taken down accounts using AI-generated faces in an attempt to game the company’s systems. The accounts were part of a network that generally posted in support of President Donald Trump and against the Chinese government, experts who reviewed the accounts said.
+
+Artificially-generated media, like deepfakes, are already on the radar of the US government. The Pentagon has invested in research to detect deepfakes. Last year, the US intelligence community warned in its Worldwide Threat Assessment, “Adversaries and strategic competitors probably will attempt to use deepfakes or similar machine-learning technologies to create convincing—but false—image, audio, and video files to augment influence campaigns directed against the United States and our allies and partners.”
+
+Coordinated harassment
+
+Last summer, Gibney began diligently documenting a network of accounts, including “Jessica,” that were harassing him and his fellow activists.
+
+CNN Business asked two of the country’s top visual forensic experts to review the pictures used for about a dozen accounts believed by Gibney to be part of the same campaign. Both experts agreed that the majority of the dozen or so images they reviewed, including the image used on the “Jessica” account, showed evidence of having been generated using AI — specifically through a method known as generative adversarial networks.
+
+Hany Farid, a professor at University of California, Berkeley, pointed to a “highly distorted” earring on Jessica’s left ear and said the reflections in the left and right eyes were not consistent.
+
+Jeff Smith, the associate director of the National Center for Media Forensics at the University of Colorado in Denver, made similar observations and also pointed to how the wall in the background of the picture appeared to be warped.
+
+In addition, Siwei Lyu, a professor of computer science at the State University of New York at Albany, reviewed the picture of “Jessica.” Lyu has built a system to detect manipulated and synthetic images. It determined with “high confidence” that the picture of “Jessica” had been created using AI. (There is, as of yet, no single system to detect faked images like this with 100% accuracy.)
+
+Gibney reported the accounts to Twitter as they became active and targeted him and his colleagues last July. (One of the accounts used the address of the building next to Gibney’s home as its username.) Twitter says it removed dozens of the accounts at the time — but removed more, including the account with the address, after being contacted by CNN Business. The company confirmed to CNN it removed approximately 50 accounts that appeared to be operated by the same person or people.
+
+The fakes
+
+Though they can appear sophisticated, fake AI-generated images are easy to access online.
+
+Last year, Phil Wang, a former software engineer at Uber, created a website called “This person does not exist.” Every time you visit the site you see a new face, which in most cases looks like a real person. However, the faces are created using AI.
+
+The people, as the site’s name suggests, literally do not exist. Wang’s goal, he told CNN Business, is to show people what the technology can do. By exposing people to these fake faces, he hopes the site will “vaccinate them against this future attack.”
+
+There are other sites similar to Wang’s where people can download fake images. Fun and illuminating, Wang’s site lets people see this new technology in an accessible way. But it also reflects a wide ethical dilemma for Silicon Valley: Just because the technology exists and can do something, does that mean technologists should make it accessible to everyone?
+
+Nathaniel Gleicher, who leads Facebook’s team that tackles coordinated disinformation campaigns, including those linked to the Russian and Iranian governments, said that developers need to think through how making tools like this accessible could be used by bad actors.
+
+“Building these sets is critical for research, but just as important that we think through the consequences as we build,” Gleicher tweeted in reaction to the release of a dataset of fake faces released earlier this year.
+
+After looking at the photo of “Jessica,” Wang couldn’t say if it was created through his site — he doesn’t save images as they are generated. He was certain “Jessica” was not real, pointing, like others, to the earring. The AI system, he said, “hasn’t seen enough jewelry to learn it properly.”
+
+But he also cautioned that fake faces like “Jessica” may just be a small sign of what’s to come.
+
+“Faces are just the tip of the iceberg,” he said. “Eventually the underlying technology can synthesize coherent text, voices of loved ones, and even video. Those social media companies that have AI researchers should allocate some time and research funds into this ever growing problem.”
+
+(Copyright (c) 2019 CNN. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.)

@@ -1,0 +1,37 @@
+The Associated Press
+
+Britain faces a crucial choice on Tuesday over whether to allow China's Huawei Technologies to build its next-generation wireless networks. The decision has implications for the country's diplomatic relations with the United States, which is pushing allies to shun the Chinese company over cyber-security concerns. And Britain's choice will feed into a wider battle between the US and China over technological supremacy that has seen the world's two biggest economies engage in a damaging trade war.
+
+What's happening?
+
+Britain's National Security Council is poised to decide whether to allow Huawei to build parts of its new high-speed cellular network known as 5G, an infrastructure program the country sees as critical to its economic future. But Huawei has come under scrutiny because of worries that communist leaders in Beijing could, under China's 2017 national intelligence law, compel the company to carry out cyber espionage. The United States has been pressing allies to shun Huawei and has threatened to cut off intelligence cooperation with Britain if it gives Huawei access. Supporters say Britain needs Huawei's expertise and that security issues can be managed. The company denies it would give data access to the Chinese government.
+
+Why is this so important?
+
+Days away from leaving the European Union and desperately needing to secure its future outside of the trading bloc, Britain is now caught in the middle of a geopolitical battle between the US and China — both important trading partners.
+
+Prime Minister Boris Johnson's government finds itself in the awkward position of risking the fury of its closest ally at just the moment it really needs President Donald Trump's administration to quickly strike a trade deal. Britain is also loathe to insult Beijing. The UK made a point of courting Chinese investment with the State Visit of Xi Jinping in 2015, a gilded affair meant to underline the dawn of a new era.
+
+Johnson hinted Monday that he wants to thread a middle route. “The way forward for us clearly is to have a system that delivers for people in this country the kind of consumer benefits that they want through 5G technology or whatever, but does not in any way compromise our critical national infrastructure, our security or jeopardise our ability to work together with other intelligence powers around the world,” he said. “We are going to come up with a solution that enables us to achieve both those objectives and that's the way forward."
+
+What is 5G?
+
+Don't be fooled by the name. The fifth generation of cellular networks is not merely an upgrade from existing 4G wireless network technology. It's billed as a radical transformation delivering ultrafast download speeds combined with a vastly reduced signal lag — the slight delay that occurs between, say, tapping out a command on your phone and getting a response. The other difference is that it will be built into thousands of new devices, like thermostats and sensors in medical devices. The aim is for 5G to be instrumental for self-driving cars or for telemedicine, allowing doctors to control robots in remote surgery on patients thousands of miles away. Underpinning all this new connectivity will be a lot more software that can lead to more vulnerabilities.
+
+Why is 5G important?
+
+It's not just about letting smartphone users download a high-definition movie in seconds instead of minutes. This next generation of mobile infrastructure promises to usher in a new wave of innovation that can drive economic growth. Supporters say Huawei, the world's biggest maker of networking equipment such as switches and antennas, can help countries meet that goal because it makes cheap, good-quality gear that appeals to wireless carriers. Banning Huawei puts Britain at risk of falling behind economically, they say. Complicating matters, some British wireless carriers have already started installing Huawei 5G gear and don't want to spend more money ripping it out.
+
+What are the cyber-security risks?
+
+Cell networks have traditionally consisted of two parts. There's the “radio access network” made up of antennas and base stations on rooftops and masts. There's also the “core,” the brain keeping track of smartphones connecting to the network so account holders can be billed along with managing data traffic flowing across the entire network. With 5G, US officials worry that the core will run extensively on software. Millions of lines of computer code would present a huge “attack surface” and it could be nearly impossible to spot an accidental vulnerability or a malicious “backdoor” that can be used for siphoning information or crippling vital connected infrastructure like a power grid. These fears aren't entirely unfounded. Huawei equipment has for years been inspected at a lab overseen by British officials, who said in their latest annual report that the company's software was buggy.
+
+Aren't there other options?
+
+Not many. Huawei mainly competes with two Scandinavian rivals, Finland's Nokia and Sweden's Ericsson, for wireless infrastructure contracts. South Korea's Samsung and Cisco in the US are smaller competitors. A big reason the Huawei decision has become so fraught is that the global telecom equipment industry has been whittled down to just a handful of players. UK security officials have been hesitant to ban Huawei completely because they want to maintain a diverse range of suppliers to guard against risks. One less company means the security risks are concentrated in the remaining players.
+
+Is it just Britain?
+
+A similar debate has been playing out in Germany, Europe's biggest economy, whose decision could influence smaller neighbours. And the European Union's executive Commission is set to release on Wednesday non-binding guidelines for 5G. Europe is Huawei's biggest market outside China and it has effectively been barred in the US.
+
+Find latest and upcoming tech gadgets online on Tech2 Gadgets. Get technology news, gadgets reviews & ratings. Popular gadgets including laptop, tablet and mobile specifications, features, prices, comparison.

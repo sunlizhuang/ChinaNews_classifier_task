@@ -1,0 +1,51 @@
+Shortly after initial news emerged that a new coronavirus has been identified in Wuhan's unexplained pneumonia outbreak, Chinese scientists close to the investigation revealed a few more details via Chinese media, including that they isolated the virus from one patient sample and fully sequenced its genome.
+
+The World Health Organization (WHO) in a statement today acknowledged China's preliminary findings and praised the country's speed in identifying the new virus.
+
+Wuhan health officials haven't announced any new cases since Jan 5, keeping the outbreak total at 59 cases, 7 of them listed as serious. Meanwhile, other countries and regions have stepped up health screening in travelers coming from Wuhan, but so far no cases tied to the outbreak have been identified.
+
+Tests identify virus in 15 patients
+
+In a China Central Television (CCTV) interview yesterday, Xu Jianguo, who is leading the investigation and is with the Chinese Academy of Engineering, said the virus isolated from one patient was examined microscopically and found to be a coronavirus, and the initial analysis from sequencing suggests that it is a new coronavirus. The report from CCTV, mainland China's main public television network, was translated and posted by FluTrackers, an infectious disease news message board.
+
+Xu said the sample found in the Wuhan investigation is different from other human coronaviruses and that more research is needed to further understand the findings.
+
+Samples from 15 patients were positive for the virus on nucleic acid testing, according to Xu, who said the expert group believes the new coronavirus is the cause of Wuhan's mystery pneumonia outbreak. According to the report, he said the next steps are to proceed with epidemiologic and clinical investigations.
+
+WHO says more info needed
+
+In its statement, the WHO said that early information from China last week on the Wuhan pneumonia cases—including occupation, location, and symptoms—pointed to coronavirus as the outbreak's possible cause.
+
+The agency noted that human illness from known coronaviruses can range from mild to severe, with some viruses transmitting easily. "According to Chinese authorities, the virus in question can cause severe illness in some patients and does not transmit readily between people," the WHO said.
+
+Novel coronaviruses emerged in 2002 with severe acute respiratory syndrome (SARS) and in 2012 with Middle East respiratory syndrome coronavirus (MERS-CoV), and several types that circulate in animals haven't yet infected people, the WHO said. It added that more coronaviruses are likely to be identified as surveillance improves.
+
+China has strong public health capacity to respond to and manage respiratory disease outbreaks, the agency said, and for now, its focus is on contact tracing, environmental assessment at the seafood market, and investigation into the new pathogen.
+
+More comprehensive information is needed in the coming weeks to understand the epidemiology of the disease and the clinical picture, and more investigation is needed to pinpoint the source, transmission modes, and extent of infection and impact of countermeasures, the WHO said. Officials added in the statement that the WHO and its partners are prepared to provide any needed technical support.
+
+Questions about spread, virus source
+
+Marion Koopmans, DVM, PhD, an expert on zoonotic virus spread and a virologist at Erasmus Medical Center in the Netherlands, said it's a bit problematic for the scientific community to assess information about the virus from unusual channels without firsthand verification.
+
+She said, however, that it looks like virus confirmation is clear of a coronavirus not found before in humans. "China has excellent scientists, so I think this is credible, though it is customary to have confirmatory testing in these kind of events," she added.
+
+The virus seems to group with betacoronaviruses, the genus that includes the SARS virus and MERS-CoV, Koopmans said. She added that exact details are needed so that specialized labs outside of China can assess whether the tests they have can be used to test sick travelers.
+
+A big question is whether the virus will spread further, Koopmans said. Reports from Wuhan suggest no human-to-human transmission, which could be good news and wouldn't be out of the question. "MERS is really not that transmissible either, outside hospitals. But we do have to be cautious about conclusions there," she said.
+
+Koopmans said in-depth epidemiologic work is needed and is probably already under way in China.
+
+Another major question is about the source, she added. "What happened at that market that led to infection of so many people at the same time? And is that source contained—with the closing and cleaning of the market?"
+
+Andrew Rambaut, PhD, professor of molecular evolution at the University of Edinburgh, said on Twitter yesterday that detection of the new coronavirus probably signals exposure to live animals, likely mammals, in an urban environment, but it's not clear how many of the 59 patients were exposed to the source. He noted that most new MERS-CoV cases are linked to camel exposure.
+
+Citing an early report that the Wuhan strain is similar to bat coronaviruses that were precursors to SARS, Rambaut said knowing how closely the virus is related to SARS may provide clues on how it will behave.
+
+See also:
+
+Jan 9 WHO statement
+
+FluTrackers thread
+
+Andrew Rambaut Twitter feed

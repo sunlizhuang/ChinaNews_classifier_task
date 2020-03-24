@@ -1,0 +1,61 @@
+BEIJING (China Daily/ANN): In a mine in Qingdao, Shandong province, an automatic electric locomotive loaded with gold ore runs smoothly as workers on the surface, about 500m above the vehicle, monitor operations via real-time video cameras.
+
+This is the first such application of fifth-generation wireless technology in underground mines in China, as part of the nation's broader push to employ technologies to ensure safety in a sprawling industry.
+
+Thanks to 5G, mines, which have traditionally struggled with connectivity, are becoming safer and more efficient.
+
+Liu Pengnan, a technician at Shandong Gold Mining (Laixi) Co, which runs the Qingdao mine, said: "The superfast 5G allows radio signals to pass through thick walls, ceilings and floors. We can access a peak downloading speed of 800 megabytes per second and an uploading speed of 100 Mb/s, making it possible for us to remotely control underground equipment, a big improvement in safety for frontline workers such as me."
+
+The mine, where 5G network coverage was introduced in late November, offers a glimpse of the progress made by China in the past year to commercialise the superfast wireless technology.
+
+The nation is pioneering cutting-edge technologies, despite global trade uncertainties and efforts by the United States to contain the rise of tech pioneers such as Huawei Technologies Co.
+
+For example, Chinese companies have enabled the world's first 5G-powered remote surgery on a human brain, transmitted ultrahigh-definition television content through 5G networks and piloted the operation of self-driving buses and automobiles in many cities.
+
+The country boasts the world's largest 5G deployment, with more than 130,000 base stations constructed.
+
+Its telecom carriers provide 5G services in more than 50 cities, securing a total of 3 million subscribers in just two months after the technology was officially commercialised, according to the Ministry of Industry and Information Technology.
+
+Wang Zhiqin, deputy head of the China Academy of Information and Communications Technology, a government think tank, said,"China has maintained its 5G deployment momentum in the face of challenges."
+
+She said the technology can enable countless devices and equipment to connect to the internet and "talk" to each other, which will make the long-predicted era of the internet of things a reality.
+
+"This year, we will see large-scale construction of 5G networks, a kaleidoscope of industrial applications emerging and 5G smartphones rapidly becoming popular in China," Wang added.
+
+Huawei estimates that some 400,000 new 5G base stations will be built in China by the end of the year, with services available in more than 300 cities.
+
+In its latest report, US investment bank Goldman Sachs painted an even more optimistic picture, forecasting that the country would build about 1 million new 5G base stations this year, up from its original prediction of 600,000.
+
+Wang Jianzhou, senior consultant with the Global System for Mobile Communications Association, said: "Despite the different estimates, there is a consensus that the rapid deployment of 5G in China will offer a sound digital infrastructure for more efforts to generate concrete benefits for both businesses and consumers. It will inject new vitality into the push for high-quality growth."
+
+He said 5G is not a simple technology. It is a platform to link the telecom industry with other sectors -- the fundamental difference between 4G and 5G.
+
+"The whole world is fascinated with 5G. It is high time to turn this overwhelming enthusiasm toward the new technology into concrete efforts to promote its wider use," Wang Jianzhou added.
+
+A wide variety of industries－mining, transportation, education, healthcare, manufacturing, agriculture and others－are scrambling to team up with Chinese tech companies for innovative 5G applications.
+
+Significant progress has been made. For example, in March, the world's first 5G-based remote surgery on a human brain was conducted on a patient with Parkinson's disease.
+
+With technological support from Huawei and China Mobile Ltd, a doctor in Sanya, Hainan province, remotely operated surgical instruments to implant a deep brain stimulator, known as a "brain pacemaker", into the patient in Beijing, about 2,500km away.
+
+Ling Zhipei, chief physician at the First Medical Center of the Chinese PLA General Hospital, conducted the three-hour surgery.
+
+"The 5G network has solved problems like video lag and remote control delay experienced under the 4G network, ensuring a near-real-time operation," Ling said.
+
+Hospitals in China have since conducted a string of 5G-enabled remote surgeries, as they strive to tap the latest technologies to solve problems such as insufficient medical resources in poor regions.
+
+Derek O'Halloran, head of Shaping the Future of Digital Economy and New Value Creation at World Economic Forum, said China is one of the most active 5G markets in the world. It is at the forefront of applying the technology in manufacturing, healthcare, media and other sectors.
+
+Chen Hong, chairman of Hina Group, a Chinese investment company that has recently funded 5G-related startups, said that as the technology deepens integration between digital technologies and traditional sectors, it will also play a new role in spurring China's burgeoning digital economy to a new development stage.
+
+"4G has triggered a boom in China's consumer internet applications. But the nation has no star companies that excel in using digital technologies to serve businesses. That is in sharp contrast to the US, where consumer internet companies and enterprise internet companies are thriving in tandem," Chen said.
+
+The landscape in China will be reshaped by 5G, which will trigger the use of digital technologies in enterprises, according to Chen.
+
+Such optimism is in line with the latest report from the China Academy of Information and Communications Technology. The think tank forecasts that the commercialisation of 5G in China is expected to generate direct economic output of 10.6 trillion yuan (US$1.5 trillion) from this year to 2025, and indirect economic output of about 24.8 trillion yuan.
+
+But whatever gigantic numbers are used to showcase the benefits of 5G, the technology first needs to bring benefits to frontline workers such as Liu, from the gold mine in Shandong.
+
+He said that many people are visiting the mine to see how 5G is being used to upgrade the traditional industry.
+
+"I have taken many phone calls to answer questions from our peers. They are all eager to embrace the technology, because once properly used, 5G can save our lives in an emergency," Liu said. - China Daily/Asia News Network

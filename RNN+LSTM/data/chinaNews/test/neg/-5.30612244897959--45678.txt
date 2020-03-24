@@ -1,0 +1,61 @@
+As public health officials around the world remain on high alert, epidemiologists are already much further ahead in their ability to track the current coronavirus outbreak than they were during the 2003 SARS crisis.
+
+"This virus, we think, has probably circulated in human populations for eight to 10 weeks or so. So it's truly a brand new virus," said Dr. David Fisman in conversation with Quirks & Quarks host Bob McDonald. Fisman is an infectious disease physician and professor of epidemiology at the University of Toronto's Dalla Lana School of Public Health.
+
+The 'baddies' that we've been experiencing over the last 20 years — the beta coronaviruses — are really animal viruses that jump from animal species to humans. - Dr. David Fisman, University of Toronto
+
+When the SARS coronavirus was spreading around the world, public health officials were still in the dark about what kind of infectious disease pathogen they were dealing with. Even three to four months into the outbreak they still didn't know if it was a bacteria or virus.
+
+"We're in a very different place with this virus because quite rapidly, within a couple of weeks of the start of the outbreak, scientists in China had not only sequenced this virus, but they'd made those sequences public," said Fisman.
+
+The virus behind the current outbreak, officially known as 2019-nCoV, is in the same virus family as those that started previous coronavirus outbreaks such as SARS in 2003 or the MERS outbreak in 2012 which has been contained in the Middle East.
+
+Coronavirus context for the current outbreak
+
+The viruses behind these recent epidemics are not the same as the human coronaviruses scientists have known about since the mid 1960s — one of the causes behind the common cold.
+
+"As someone who trained in infectious diseases in the 1990s, coronavirus would sort of be shorthand for a lightweight pathogen — not a particularly worrisome infectious disease," said Fisman.
+
+But those are "alpha" coronaviruses, which he said are quite different than the viruses responsible for SARS, MERS and now 2019-nCoV, which can result in much more severe health outcomes, even death.
+
+"The 'baddies' that we've been experiencing over the last 20 years, the 'beta' coronaviruses, are really animal viruses that jump from animal species to humans," said Fisman.
+
+He said the emerging concern with the virus that originated in Wuhan, China, is its particular combination of features.
+
+"This virus may have sort of hit the sweet spot between virulence and transmissibility," he said.
+
+A security guard is seen wearing a mask at the international arrivals area at the Toronto Pearson Airport in Toronto on January 26, 2020. (Cole Burston/AFP via Getty Images)
+
+Much more sophisticated epidemiological toolbox
+
+Not only are scientists better equipped with rapid molecular diagnostic tools that allow them to genetically sequence the virus much more quickly than they were with SARS, but computational power has also given them new ways to use that genetic information to understand the disease and its spread.
+
+The virus slowly mutates as it spreads through populations. These mutations can be used to construct family trees for the virus, which Fisman said can be used to track how the virus moves around a population.
+
+"Say we have one person infected in one part of China, one person infected in another part of China: We can use a 'mutation clock' to back-estimate how far those infections must be from each other in terms of how many people [the virus] passaged through," said Fisman.
+
+He said this powerful tool can not only describe and track the current spread of the virus, but it can also inform epidemiologists if they may have missed some cases in their surveillance efforts based on the evolutionary distance between samples of the virus.
+
+"We couldn't do that in 2003 — it wasn't a thing," said Fisman.
+
+Thai nurses and doctors check temperatures of travellers coming from Hong Kong at the Bangkok International Airport April 22, 2003 in Bangkok, Thailand. (Paula Bronstein/Getty Images)
+
+Public health reality check
+
+It is still early in the current epidemic, but Fisman said public health officials already have a pretty good idea of the seriousness of this virus compared to past outbreaks.
+
+The number of people dying from 2019-nCoV appears to be "quite a bit higher" than seasonal influenza, yet lower than SARS or MERS.
+
+Fisman describes the risk from the current coronavirus to Canadians — as of Thursday, January 30 — as "zero."
+
+As Albert Camus said, people always think that plagues and wars or things that happen in times other than their own. And that really holds us back in terms of investing when times are good and we have resources. - Dr. David Fisman, University of Toronto
+
+"I think people do overestimate the risk of emerging infectious diseases," Fisman said. He pointed to work done by cognitive scientists that suggests people perceive risks to be greater when the risk is novel or something unknown.
+
+"It doesn't get much more novel, and much more unknown, than a virus that emerged 10 weeks ago that we don't really know very much about," he added.
+
+We still have a lot to learn about the coronavirus behind the current outbreak, but Fisman said one of the lessons we can already learn is we need to be more proactive in investing in preventative measures like vaccines.
+
+He points out that the WHO already knows a great deal about the families of infectious diseases likely to cause outbreaks, but nations invest relatively little in the kind of work necessary to prevent them. Most action and investment happen after a crisis has occurred.
+
+"As Albert Camus said, people always think that plagues and wars or things that happen in times other than their own," Fisman said. "And that really holds us back in terms of investing when times are good and we have resources."

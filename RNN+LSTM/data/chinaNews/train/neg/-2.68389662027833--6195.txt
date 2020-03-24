@@ -1,0 +1,11 @@
+If you use Mozilla Firefox, you should update the web browser right now
+
+Mozilla has pushed-out an urgent update to its hugely-popular Firefox web browser to patch a security flaw that could enable hackers to take control of your computer – letting them trawl through your private documents, change your settings and install dangerous malware. Thankfully, those who use Firefox on a mobile device need not worry – the security flaw only impacts the desktop version of the web browser. According to Mozilla, the flaw has been exploited in the wild. That means cybercriminals are aware of the compromise and how to use it to their advantage. As such, the threat for those who use Firefox every day isn’t academic, but something they seriously need to protect themselves against.
+
+Those who use Firefox on their desktop machine definitely need to be on alert. It’s worth noting the worrying security flaw is also present in Firefox ESR, which is a separate version of the app designed to be used by system administrators who control multiple users’ machines, including businesses, government, or schools. The security flaw is patched in the latest version of the Mozilla web browser, Firefox version 72.0.1. The must-have update should be installed automatically the next time you restart your browser, since Mozilla enables automatic updates on its client. These are triggered when you restart the software.
+
+Mozilla has branded the latest security update as "critical"
+
+If you’re unsure about which version of Firefox you’re currently running, you’ll need to open the Firefox menu, then tap the Help icon – if you’re unsure, this is a question mark inside a circle. Select About Firefox and a dialogue box with a bevy of different information on the browser should appear, including the version number. If your Firefox isn’t updating automatically as planned, Mozilla enables users to manually force an update to the latest version of the browser by entering about:preferences#general in the address bar.
+
+Trending

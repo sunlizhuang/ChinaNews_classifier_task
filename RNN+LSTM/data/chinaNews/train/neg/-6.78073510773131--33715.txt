@@ -1,0 +1,69 @@
+Prime Minister Scott Morrison announced today that “isolated and vulnerable” Australians at the epicentre of the Coronavirus outbreak in China will be evacuated and quarantined on Christmas island for 14 days.
+
+Dr Neela Janakiramanan has penned this comprehensive piece on whether “offshore quarantining” is really necessary, or if the announcement is more political posturing aiming to make use of a facility that was controversially (and expensively) re-opened.
+
+**This piece was first published on the 29th January. An update was published at the bottom of this piece on the 2nd February to reflect the evolving nature of this epidemic.
+
+The background
+
+On December 31, 2019, the World Health Organisation (WHO) was notified of a number of cases of pneumonia in the city of Wuhan, China. Although the involved virus was unknown, the source of this infection seemed to be the Huanan Seafood Wholesale Market. Initial fears that this was a recurrence of the severe acute respiratory syndrome (SARS) virus that killed at least 770 people worldwide in 2002-2003 were ruled out by the first week of January.
+
+On January 7, this new virus, named 2019-nCoV, was identified by the WHO.
+
+Slowly, as Australian eyes were largely turned to the bushfire crisis at home, the virus was identified in returned travellers around the world – Thailand on January 13; Japan on January 16; and multiple countries including the US, Australia, France, and multiple locations in South East Asia over the following week.
+
+To date, over 6000 cases have been identified globally, 132 people are known to have died of the disease as of writing, and multiple cities in the Hubei region of China have had travel restrictions placed on them, leaving both Chinese residents and international travellers unable to leave.
+
+On this side of the planet, the Australian government has been considering plans to evacuate Australian caught up in the travel restrictions, with Prime Minister Scott Morrison announcing today that the immigration detention facility on Christmas Island would be used to house those evacuated from China for two weeks following their return.
+
+In the midst of undoubtedly a global public health emergency, the question must be raised whether quarantine on Christmas Island is a reasonable public health measure, or whether this is merely political posturing to make use of a facility that was re-opened in a controversial and expensive manner, and which has sat nearly empty for almost a year.
+
+When a new virus is identified, public health officials around the world work to identify the most important features of that virus – can it be spread from person-to-person, or will the cases be limited to those who likely caught it from an animal vector; what is the R nought value of the virus, which denotes the number of people who are infected by any single person with the disease; how sick does it make people and what are their main symptoms; what is the case fatality rate, which denotes the number of people who will die as a consequence of catching the infection?
+
+At this stage, the WHO has not declared a Public Health Emergency of International Concern (PHEIC), but are acting expediently and comprehensively to investigate and control this outbreak. On Tuesday, the Director-General of the WHO, Dr Tedros Adhanom Ghebreyesus, WHO Regional Director, Dr Takeshi Kasai, and Executive Director of the WHO Health Emergencies Programme, Dr Mike Ryan, travelled to China and met with President Xi Jinping, Minister of Foreign Affairs Wang Yi, and Minister of Health Ma Xiaowei. At this meeting, the National Health Commission of China presented to the WHO their comprehensive plan to treat, isolate, investigate and manage this outbreak. This includes ongoing measure to contain the bulk of the infection to Wuhan, setting up additional public health measures in other cities, and a commitment to ongoing sharing of information, data and biological material.
+
+The WHO, which has been previously criticised for arguably slow and ineffectual responses to other public health concerns, such as the Western African Ebola virus epidemic of 2013-2016, is clearly taking comprehensive early response to this outbreak.
+
+At this stage, we know that the 2019-nCoV coronavirus does transmit from person-to-person, with an R nought value that is thought to be in the range 1.4-2.4. It is possible that this number will rise and contact tracing has currently only been completed for around 5% of known cases. As a comparison to other infectious diseases, the R nought value is 1.5-2 for Ebola, 4 for SARS and 12-18 for measles. As such, this is a virus with infectious potential, especially in high population environments.
+
+The WHO has likewise identified that at this stage, 80% of infections appear to be mild, with the remaining 20% of patients having severe illness that require hospitalisation and supportive care. Initial reports of severe infection and death were higher, representing the fact that only hospital admissions were tested for the virus in the first weeks, and contact tracing has now identified additional cases in the community, with milder symptoms not requiring presentation for medical care. Overall, the case fatality rate is not yet known for sure, but at this stage is being reported at around 3%, which compares to around 10% for SARS, and 37% for MERS, the other well-known coronavirus-type outbreaks. Most of those who have died seem to have other underlying health conditions.
+
+In dispute at this stage is whether people are infectious before they are symptomatic. This is important to know because it is easy to quarantine those who are symptomatic, and this is why measures such as temperature scanning at airports was an effective way to control SARS. If, theoretically, people become infectious before they are symptomatic, then the only way to control spread of infection is to quarantine all contacts for a period of time.
+
+Limitation of liberties necessary?
+
+While limitation of liberties is one of many tools in the public health toolbox, most of us would agree that, like any intervention, it should be used only with strong evidence that it is necessary or helpful.
+
+In some early analyses published by The Lancet, it is clear that there is an incubation period, as with most infections. This seems to range from 4-8 days, with a median of 7 days. While there is a single case report of a single family from Shenzhen who contracted 2019-nCoV while in Wuhan, the timelines are not clear as to where and from whom the family members contracted the virus, and so any definitive conclusion that the virus is transmissible while people are asymptomatic would be premature.
+
+There has been concern that the flow of information from China on the numbers affected, severity of infection, and other information of concern has been limited. Whether there has been any sort of malicious cover up, or whether the slow collection of information simply represents the usual difficulties of dealing with an entirely new infection is not known.
+
+The lack of information does increase the justification for responding more aggressively in measures to limit the spread of the infection, but even then, offshore quarantine does seem to be a rather medieval response, with little more that political opportunism to justify it at this stage.
+
+Australia is privileged to have an exceptional public health system, with infectious diseases and public health physicians working hand in hand to combat many deadly infections. At a time of declining immunisations rates, the government has fallen short of compulsory vaccination for measles and whooping cough, both diseases with higher transmissibility values than what is thought to be the R nought value for 2019-nCoV coronavirus.
+
+As a junior hospital doctor during the SARS outbreak, I watched the public health system work to set up surveillance, isolation and quarantine and treatment facilities for SARS. Similar plans and facilities were equally set up for the MERS outbreak. This is not the first respiratory illness that has the risk of infecting large parts of the population. Indeed, returned travellers present to hospital with contagious infections every day; our health system is designed to and does manage these issues with little fanfare on a daily basis, and the plans already exist for scaling up these resources to deal with mass events.
+
+Offshore or facility based quarantine has not historically featured in the public health response of any nation affected by either SARS or MERS, with at-home quarantine working extremely well in industrialised countries and densely populated countries such as Singapore. It does not currently feature in the public health policy of any nation, industrialised, middle income or developing, in response to the current threats posed by 2019-nCoV coronavirus. Citizens of the US have been returned to multiple states, with home-based quarantine, or hospital-based isolation depending on their medical state.
+
+While it is expected of any nation with the capacity to evacuate citizens who find themselves in the midst of emergencies or disasters to remove them from danger, it is unheard of to link evacuation to prolonged offshore quarantine. To access an offshore facility, many hours flight from tertiary level medical care, when dealing with a population that may become severely ill is overly draconian.
+
+That said, these policies of fearmongering and punitive, often racist, decision making for the purposes of making themselves look like an effective government has absolutely been a hallmark of Australian government for some decades. While it is easy to apply a fearful lens to this crisis, and tolerate the incarceration of a population that is predominantly of Chinese ethnic background, we should all be much more fearful of a government willing to quarantine evacuated Australians offshore with little evidence to support this extreme measure, than we should of this coronavirus.
+
+** Update: 2nd February 2020
+
+As with all epidemics, the 2019-nCoV coronavirus epidemic is an evolving situation. Knowledge about the virus and the consequent response does change rapidly.
+
+Since the time of writing there is greater evidence that the virus may be contagious at a time when people are asymptomatic. This makes the argument for institutional quarantine more compelling, and these measures have since been instituted by France, the UK, and the US, with France quarantining evacuates from Wuhan at a resort, and the US and UK undertaking similar quarantine at military bases.
+
+Countries such as Singapore and Japan continue to quarantine evacuees from Wuhan at home.
+
+No country is quarantining evacuees offshore, in a setting without appropriate medical facilities.
+
+As the virus has spread outside the Hubei district, recommendations around the world are that those travelling from China quarantine themselves for fourteen days at home, and some countries such as Italy and Australia have closed their borders to those who have travelled from or through China.
+
+Through this time, reports of xenophobia against those of ethnic Chinese background continue to be reported globally.
+
+While quarantine continues to be an important public health measure for controlling epidemics, and has the full support of this author, it remains crucial that people are not vilified or their liberties curtailed in ways that are unsafe or unpleasant. To this end, this author, along with the AMA and many doctors in Australia, continues to consider the use of Christmas Island as a quarantine facility to be inappropriate.
+
+The bigger unanswered questions are why Australia no longer has an appropriate onshore infectious diseases hospital/quarantine facility; and why there seems to be a shortage of appropriate protective equipment for health care professionals after the medical stockpile supplies of P2 masks were released weeks ago during the bushfire crisis, with the Health Minister instead publicising the delivery of entirely inappropriate surgical face masks to front line primary care health professionals.

@@ -1,0 +1,47 @@
+Critical Infrastructure Security , Cyberwarfare / Nation-State Attacks , Endpoint Security
+
+Senators Field Legislation to Build Huawei 5G Alternatives
+
+Proposed Fund Would Drive More Than $1 Billion Into Western-Based Alternatives
+
+One gaping hole in the U.S. government's push to counter Chinese-built 5G telecommunications gear remains the lack of alternatives. But a bipartisan group of senators is seeking to create a $1 billion fund to create trusted, Western-built options.
+
+See Also: Live Webinar | Lessons on Defeating Ransomware for Business and Tech Leaders
+
+On Tuesday, senators Richard Burr, R-N.C., and Mark Warner, D-Va., introduced the Utilizing Strategic Allied Telecommunications Act, which would award at least $750 million to firms developing 5G and create a separate $500 million fund for "working with our foreign partners, available for 10 years to accelerate the adoption of trusted and secure equipment globally."
+
+"Every month that the U.S. does nothing, Huawei stands poised to become the cheapest, fastest, most ubiquitous global provider of 5G, while U.S. and Western companies and workers lose out on market share and jobs," says Warner, who co-founded wireless firm Nextel before entering public service. He's the senior Democrat on the Senate Select Committee on Intelligence.
+
+"It is imperative that Congress address the complex security and competitiveness challenges that Chinese-directed telecommunication companies pose," he says. "We need to move beyond observing the problem to providing alternatives for U.S. and foreign network operators."
+
+Sen. Marco Rubio joined Sen. @MarkWarner & their colleagues in introducing legislation to develop American 5G alternatives to #Huawei & #ZTE, #China's state-directed telecoms firms that threaten the economic & national security of the U.S. & our allies.https://t.co/pZ9hKI4JV6 — Senator Rubio Press (@SenRubioPress) January 14, 2020
+
+Marco Rubio, R-Fla., one of the bill's co-sponsors, says: "We are at a critical point in history for defining the future of the U.S.-China relationship in the 21st century, and we cannot allow Chinese state-directed telecommunications companies to surpass American competitors. "It is not only in our national security interests to support American competition in the 5G market, but it is also in our economic interests."
+
+Perhaps unsurprisingly, given the massive potential funds that would be on offer, multiple large U.S. firms, including AT&T, Verizon and VMware, have signaled their support for the Utilizing Strategic Allied Telecommunications Act, .
+
+Trump Administration Pushes for Global Ban
+
+For the past year, the U.S. has been pushing its allies, including the Five Eyes intelligence alliance - comprising Australia, Canada, New Zealand, the U.K. and the U.S. - to not use Chinese-built networking equipment in their national 5G rollouts or any "sensitive" networks.The fear is that Chinese networking gear could serve as a platform for state-sponsored surveillance campaigns. While there has been no "smoking gun" that this has ever happened, officials have said it would always be a risk.
+
+"All of us are pretty certain that we're not going to use those technologies in our most sensitive networks," Rob Joyce, the senior cybersecurity strategy adviser to the director of the National Security Agency, said at a Five Eyes panel in Scotland in April 2019. But what is a sensitive network? The U.S. government, Joyce said, remained keen to answer that question correctly to avoid potentially giving Beijing a "loaded gun" (see: Huawei's Role in 5G Networks: A Matter of Trust).
+
+As part of the ongoing U.S.-China trade war, President Donald Trump banned Chinese gear from government networks, also citing national security concerns. The Federal Communications Commission last November, meanwhile, announced that its $8.5 billion Universal Service Fund - meant to ensure consistent coverage across the country, even in rural areas - can no longer be used by U.S. telecommunications firms to purchase gear from Huawei and other Chinese vendors.
+
+In addition, the FCC is weighing forcing telecommunications firms to rip and replace Chinese gear. Proposed bipartisan legislation would create a $1 billion replacement fund to help smaller carriers do just that (see: Support for Expunging Huawei Gear From Carrier Networks Grows).
+
+Blacklisting Huawei: Minimal Impact
+
+Last May, the Commerce Department blacklisted Huawei, restricting its access to U.S.-made chips and other technology, and asked 61 other nations to do the same. But analysts say the ban has been largely ineffective because of the Trump administration's diplomatic isolation, the New Yorker reports. So far only, Australia and Japan have fully banned Huawei.
+
+U.S. firms have warned of an economic hit as China switches to other suppliers. Partially in response, the U.S. government has also issued multiple exemptions to its Huawei blacklist (see: Google Restricts Huawei's Access to Android).
+
+China is continuing to pressure other countries, including the Netherlands, to use its products. Many U.S. allies have said they will make their own decisions about what, if any, role that Huawei will play in their national 5G networks. But those decisions, for example in Germany, still remain under discussion.
+
+The White House push to keep Chinese gear out of western telecommunications network has been stymied, in part, because western leaders say the Trump administration is offering them no viable alternatives. Furthermore, not adopting gear from the world's largest 5G manufacturer - Huawei - could delay national rollouts, which officials are keen to avoid.
+
+"The Trump administration's lecturing of our allies about the dangers of relying on the Chinese for 5G is no replacement for the development of 5G alternatives," says Sen. Bob Menendez, D-NJ, one of the co-sponsors of the Utilizing Strategic Allied Telecommunications Act.
+
+Allies Seek Viable Alternatives
+
+British Prime Minister Boris Johnson said as much on Tuesday, in the wake of a U.S. national security delegation meeting with their British counterparts in London to push the country to not adopt Huawei, ZTE or other Chinese manufacturers as part of their national 5G rollouts (see: 5G Security in the Balance as Britain Navigates Brexit). "They have to tell us what's the alternative," Johnson told the BBC in a Tuesday interview. "On the other hand, let's be clear, I don't want, as the U.K. prime minister, to put in any infrastructure that is going to prejudice our national security or our ability to cooperate with Five Eyes intelligence partners."

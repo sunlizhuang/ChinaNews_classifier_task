@@ -1,0 +1,61 @@
+A man in his 30s, who was the first U.S. case of a novel coronavirus spreading in China, was treated at Providence Regional Medical Center in Everett, Wash.
+
+Precautions are in place. Now U.S. hospitals and states ready for more cases of novel virus from China
+
+It seemed like it was only a matter of time.
+
+Even before the first U.S. case of a novel coronavirus that’s broken out in China was confirmed Tuesday, American health officials and hospitals were braced to respond. Hospitals and clinics were adapting their screening protocols to ask about travel to Wuhan, the city where the spread has been centered. State health departments were relaying messages to local providers, alerting them to be on the lookout for the infection’s symptoms. Labs were set to collect patient samples and ship them off for diagnostic testing.
+
+Even though this is a new virus, health officials said this was the type of situation they anticipated. They’ve prepared before for other emerging infectious diseases, including Zika and Ebola, as well as other coronaviruses like SARS and MERS. For this current outbreak, federal health officials have already issued recommendations for surveillance, testing, and care of patients, and hospitals have been following those guidelines.
+
+advertisement
+
+“It’s not that we shouldn’t be concerned, but we should keep things in context,” said Dr. Howard Zucker, New York state’s health commissioner. “The most important thing is that we’ve been here before, we’ve seen these challenges before. We’ve been able to identify them and work through them and we will do the same here as a collaborative effort on this task.”
+
+There are some particular obstacles with the coronavirus, which is provisionally being called 2019-nCoV but has yet to get a permanent name. For one, it presents as a respiratory infection, leading to fever, cough, and shortness of breath — meaning it can look like the flu.
+
+“It’s flu season, so everyone has respiratory symptoms,” said Dr. Theresa Madaline, hospital epidemiologist at Montefiore Health System in New York.
+
+That leads to the second challenge: While labs around the country can test for influenza, the only way at the moment to confirm an infection of the novel coronavirus in the U.S. is to ship samples off to the Centers for Disease Control and Prevention in Atlanta. CDC officials have said they are currently testing samples of other patients in the U.S. to determine if they have the virus, which in China has sickened more than 570 and killed at least 17.
+
+The CDC is also working on developing a diagnostic test that it can deploy to states, but with a new virus like this, “it can take three to six weeks,” said Scott Becker, the executive director of the Association of Public Health Laboratories. “My hope is that it’s on the lower end of that. We know they’re throwing all kinds of assets at it at CDC.”
+
+Kelly Wroblewski, APHL’s director of infectious disease, said it’s important to expand the number of sites that can diagnose the virus should it start spreading widely among people here. If that were to happen, testing demand could overwhelm any one location, which would delay confirming who has the virus.
+
+She said current recommendations include sending a nasal swab and samples of phlegm from the lungs and blood serum to the CDC to test for the coronavirus and distinguish it from other viruses.
+
+Earlier this week, the CDC held a call with state health officials, who asked the same types of questions that experts around the world have been scrambling to figure out, said Dr. Marcus Plescia, the chief medical officer of the Association of State and Territorial Health Officials. Those unknowns include the animal source from which the virus jumped to humans, whether people are infectious if they are not yet showing symptoms, and how easily the virus spreads among people.
+
+“What states are doing right now is gearing up surveillance, and trying to understand what the constellation of symptoms is and where cases are coming from,” Plescia said.
+
+A new virus has been causing respiratory illnesses in China. Officials are still unclear about how this one will spread between people. There are two ways this outbreak could pan out. Hyacinth Empinado/STAT
+
+Federal health officials have started screening passengers arriving from Wuhan at five U.S. airports, looking for people who have fevers. Several hospitals around the John F. Kennedy Airport in New York are prepared to help with any cases that may emerge from screenings, Zucker said. The city’s public health department has also said it is ready to safely transport any patients. While experts say that these airport screenings are unlikely to catch anyone who is actively showing symptoms of disease — especially since the disease has an incubation period of at least a few days — these checks could remind passengers to seek medical care if they do start to show symptoms.
+
+At clinics and hospitals, the first step is identifying patients who need additional screening for the virus. According to the CDC’s guidelines, providers should ask patients with fever and a cough or shortness of breath if they’ve traveled to Wuhan recently or been in contact with anyone who might have the coronavirus.
+
+But it’s a bit of a balancing act, experts said. Clinicians need to be informed so they can spot a rare pathogen, but at the end of the day, the likelihood in the U.S. for now is that a respiratory infection is going to be a case of cold or flu.
+
+“It’s better to be somewhat overprepared than underprepared,” said Dr. Eric Toner, a public health preparedness scientist at Johns Hopkins University’s Center for Health Security. “You don’t want to go overboard by treating every patient as though they have Ebola. It’s prudent to use some caution, but the extremely high levels of care that needed to be implemented for Ebola — like special ways of incinerating every material that touched a patient and how you handled waste — aren’t yet warranted here.”
+
+Some hospitals have started to incorporate coronavirus-specific questions into their electronic health records system, but others have found it’s much simpler to have the person who first sees the patient conduct a quick survey of their symptoms and travel history.
+
+“Getting the changes in place through health systems IT is challenging,” said Dr. John Lynch, an infectious disease specialist at Harborview Medical Center, part of the University of Washington’s medical system in Seattle. “A lot of the [electronic health records] are not really nimble, and we end up just going back to the basic system of having the staff and nurses ask this question.”
+
+Hospitals also have choreographed routines to guide patients safely through their facilities, to reduce the chance the virus spreads there. That includes taking them to a private room, where a more detailed screening can take place. (At this point, human-to-human transmission has only been confirmed in China, not in any of the other countries that travelers have carried the virus to, including Japan, South Korea, and Thailand, according to the World Health Organization.)
+
+If there were a suspected case at Harborview, Lynch said, “We’d get a surgical mask on them and then get them out of waiting rooms into some other space — that’s really the most important step.”
+
+At the University of California, San Francisco, clinicians can take patients to a room that was built just for people possibly infected with an emerging pathogen — an addition inspired by the 2014-2016 West African Ebola outbreak.
+
+“The room is isolated to reduce the chance of transmission,” said Dr. Charles Chiu, an infectious disease physician at UCSF. Chiu noted that more than a dozen health workers in China had been infected with the novel coronavirus. “It’s worrisome,” he said.
+
+One primary concern is the safety of immunocompromised patients, including those who have been through chemotherapy or have received organ transplants. These patients are “very susceptible” to developing pneumonia from coronaviruses, Chiu said. “I think this is going to be a test for our public health surveillance systems and infrastructure,” he said.
+
+In Washington state, where the first U.S. case of the virus was confirmed, health officials framed the response as an example of how it should be done.
+
+The patient, a man in his 30s who traveled back to his home north of Seattle from China on Jan. 15, fell ill on Jan. 16. He sought out medical care on Jan. 19, and his clinicians realized this could be a case of the coronavirus. They isolated the man, took samples from him and shipped them off to the CDC, and told him to stay at home so he wouldn’t risk spreading the virus. State and county officials were alerted, and by the time the CDC confirmed the infection on Jan. 21, they were ready to transport him safely to a hospital, where he could be treated in isolation by a team that took the proper precautions to avoid contracting the virus.
+
+Health officials have since identified 16 people the man had contact with when he had the virus, and have begun reaching out to them.
+
+“We think this has been a very rapid response,” Washington Gov. Jay Inslee said Tuesday.

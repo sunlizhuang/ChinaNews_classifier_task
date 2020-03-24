@@ -1,0 +1,81 @@
+1. What makes this virus so bad?
+
+It has been described as “insidious” because a large portion of infected people are well enough to go about their daily business, potentially spreading it to others. In just two months, the number of confirmed cases surpassed the 8,096 SARS cases recorded in that entire epidemic, which ran more than a year. Most cases of the new virus have been in Wuhan and surrounding Hubei province. Around a fifth overall have been severe, and many people have died. As of late January the mortality rate was about 2%, but such numbers aren’t reliable in the early stages of an outbreak. It’s likely the virus has caused only mild or no symptoms in a large number of people.
+
+AD
+
+AD
+
+2. What’s a coronavirus?
+
+Coronaviruses are named for their crown-like shape. There’s a large family of them. Some transmit easily from person to person, while others do not. There’s growing recognition of the role of coronaviruses in severe cases of pneumonia. The World Health Organization says that new coronaviruses emerge periodically in different areas globally, and several known versions are circulating in animals and haven’t infected humans. They tend to morph and mutate, which means the level of risk they pose can change the longer they circulate in a humans. Diseases transmissible from animals to humans, sometimes referred to as “zoonoses,” comprise a large percentage of all newly identified infectious diseases.
+
+3. How does this compare with other outbreaks?
+
+AD
+
+Various studies have found that 2019-nCov is at least 70% similar in its genetic makeup to the SARS virus but “appears clinically milder” in terms of severity and fatality rate. With SARS, about 9% of reported cases died. A related virus, known as MERS-CoV, that’s been spreading since 2012, has led to death in 34% of the 2,499 cases reported. By contrast, an estimated 50 million people died in the 1918 influenza pandemic that had a case-fatality ratio of less than 5%, but infected up to a third of the world’s population.
+
+AD
+
+4. How do people contract the virus?
+
+Most likely by coming into contact with virus-containing droplets that could be emitted by an infected person’s cough and transferred to their hands or surfaces and objects. There’s a theoretical risk that it could spread through fine aerosol particles and feces. Chinese authorities have said it’s possible people who are still incubating the virus and show no symptoms may spread it. One such case emerged in Germany linked to a company training event that was attended by an employee visiting from China who had no symptoms of disease during her stay. There have been cases reported where the virus has spread along a four-person chain, indicating that it’s more transmissible than earlier thought.
+
+AD
+
+5. How infectious is it?
+
+Epidemiologists try to gauge contagiousness by estimating the number of new cases a person who is infected is likely to generate. That measurement, called a basic reproduction number, is one indicator of how difficult an epidemic is to control. The preliminary reproduction number of 2019-nCoV is 1.4 to 2.5, according to the WHO, meaning that every case could infect 1.4 to 2.5 people. (For comparison’s sake, the reproduction number of SARS was 2.76 in Beijing and 3.01 in Guangzhou.) Neil Ferguson, renowned for his work measuring the spread of emerging infectious diseases, and his colleagues at Imperial College London estimated the number for 2019-nCoV to be 2.6, making it similar to SARS and more infectious than flu. If that’s correct, controlling the outbreak would require preventing at least 60% of cases from spreading to another person. Another group from the Chinese Academy of Sciences in Beijing estimated the number to be 4.08.
+
+AD
+
+6. What does the virus do?
+
+AD
+
+Infections appear to cause a mild illness in children, adolescents and younger adults, and more severe disease in older people. Frequently reported early signs are fever, dry cough and tiredness -- but not the sneezing and runny nose typical of a cold. Studies suggest the virus invades cells in the lower respiratory tract and migrates from there to the lungs, causing difficulty breathing and the inflammation and congestion associated with pneumonia. In an early study, more than a quarter of hospitalized patients developed a potentially fatal complication known as acute respiratory distress syndrome. Septic shock, respiratory failure and the failure of other organs have also been noted in severe cases. Fatalities have mostly been reported in people older than 60, many of whom have had chronic illnesses, such as cardiovascular disease or diabetes.
+
+7. Where did it come from?
+
+AD
+
+Wuhan, where the virus emerged in early December, is an industrial city of 11 million. Early attention focused on a seafood market where live animals were also sold, but about 13 of the first 41 cases were found to have no link to it. Maria Van Kerkhove, head of the Outbreak Investigation Task Force at the Institut Pasteur and an adviser to the WHO, said animal tests at the market came back negative, while some environmental samples were positive. The viral genome has been sequenced, and these results in conjunction with other reports show that 2019-nCoV is 75% to 80% identical to SARS-CoV and even more closely related to several coronaviruses found in bats.
+
+AD
+
+8. How alarming is the emergence of a new virus?
+
+There is always concern when a new pathogen emerges in people because they typically lack immunity to it and there usually aren’t specific treatments or vaccines available. Novel coronaviruses, those not seen in humans before, represent a particular concern because they have been known to spark complicated outbreaks that have sickened thousands of people, like SARS did as it swept across the globe from southern China.
+
+AD
+
+9. What happened with SARS?
+
+The SARS outbreak that began in late 2002 in Guangdong province is thought to have spread indirectly from bats to humans via masked palm civets and other species in live-animal markets. The WHO issued a global health alert in March 2003 and didn’t declare the outbreak contained until that July. China’s tourism, transportation and retail sectors were heavily hit as people stayed home; domestic consumption fell sharply, as did real estate prices and financial markets. The epidemic subtracted an estimated 0.8 percentage point from gross domestic product growth in China in 2003, according to a China Daily report that cited a National Bureau of Statistics official. A 2003 academic study estimated the global economic cost at close to $40 billion or more.
+
+AD
+
+10. How worried should I be?
+
+AD
+
+The U.S. State Department advised people not to travel to China and said those already in the country should consider leaving. Richard Horton, editor of The Lancet medical journal, said the outbreak could strain the capacity of health care systems. An early study of the first 41 hospitalized patients in China found 13 (32%) needed intensive care; four required invasive mechanical ventilation and two were put on a heart-lung bypass machine in a last-ditch effort to keep them alive. Six died. Across Hubei, thousands of people have been hospitalized in isolation wards and hundreds are being treated in intensive care units, creating what officials there have described as an “extreme, severe and abrupt public health crisis.”
+
+11. What are authorities doing?
+
+AD
+
+The WHO has declared the outbreak a global health emergency, a designation that can help mobilize international responses, provide more resources and focus government attention. China’s government imposed aquarantine on Wuhan and more than a dozen other cities in the region, a travel ban covering in excess of 50 million people. Authorities dispatched medical personnel from the military to help out at hospitals. Patients were isolated to prevent any spread. Health officials are looking for, screening and monitoring people the patients had contact with. Hong Kong, the international financial center that functions with some autonomy from China, announced travel restrictions from the mainland. Outside China, airports began screening some arriving passengers for symptoms.
+
+AD
+
+12. Will drugs and vaccines be available?
+
+Doctors in China have started using a combination of AbbVie Inc.’s HIV drugs ritonavir and lopinavir at hospitals. A clinical trial is assessing whether the combination, sold under the brand name Kaletra, is more effective in treating patients than an antiviral medicine known as interferon-alpha 2b. Other medications, including some already on the market for fighting HIV and preventing organ rejection, show promise in lab studies against a number of coronaviruses. Pharmaceutical companies including Moderna Inc. and Novavax Inc. say they have begun work on a potential vaccine. Health officials say a version might be available for the first stages of human testing in as little as three months. But developing an effective vaccine generally takes years.
+
+--With assistance from Dong Lyu, Hannah Dormido, John Lauerman and James Paton.
+
+To contact the reporter on this story: Jason Gale in Melbourne at j.gale@bloomberg.net
+
+To contact the editors responsible for this story: Michael Patterson at mpatterson10@bloomberg.net, Paul Geitner

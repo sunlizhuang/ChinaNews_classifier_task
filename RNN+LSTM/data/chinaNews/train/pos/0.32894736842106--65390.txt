@@ -1,0 +1,25 @@
+Inspur is taking over China’s server market as it gained significant share over its two largest competitors in the region: Dell EMC and Huawei.
+
+Dell has witnessed its global server sales drop double-digits every quarter in 2019 with officials sighting large revenue decreases in China. “We have a good relationship and a good business there, but clearly the U.S.-China trade tensions are a bit of an overhang on the business,” said Tom Sweet, Dell Technologies’ chief financial officer during an quarterly earnings call in 2019. “China is an important market for us, it’s our second largest market.”
+
+Inspur, which now ranks No. 3 in worldwide server market share, saw the largest revenue and market share growth on both a global front and in China during the third quarter of 2019 as the Chinese government began ramping up fiscal and monetary stimulus to support growth last year, according to data from research firm IHS Markit.
+
+[Related: Dell Partner Program Enhancements: 10 New Incentives And Tools]
+
+China-based Inspur captured 39 percent of China’s overall $5 billion server market in the third quarter 2019, up 7 points year over year from its 32 percent share in third quarter 2018, according to data from IHS Markit. Inspur is now 25 percentage points ahead of second place Huawei, whose China server share decreased to 14 percent in the third quarter, down from 16 percent year over year.
+
+Dell EMC’s share in the country dropped to 8 percent in the third quarter, down from 14 percent share year over year.
+
+Since the U.S.-China trade war heated up in 2018, China has been pushing businesses in the region to buy IT from Chinese-based vendors. Inspur has been able to expand its presence to more than 100 counties across the globe with R&D facilitates in America, Japan and Hong Kong as well as branches and demo centers in 25 foreign countries.
+
+Overall, China’s $5 billion server sales in the third quarter represented a 22 percent increase sequentially, following quarter-to-quarter declines of 13 percent in the first quarter and 5 percent in the second quarter.
+
+“Poor macroeconomic conditions spurred by the U.S.-China trade war impacted the Chinese server market in the first half of 2019,” said Vladimir Galabov, principal analyst at IHS Markit in a statement. “The sequential rise in China server revenue in the third quarter was driven by enterprises and communications service providers (CSPs), which managed to take advantage of favorable government financing policies. Earlier in 2019, the Chinese government began to gradually ramp up fiscal and monetary stimulus to support growth, resulting in a boost to spending on IT equipment.”
+
+
+
+Inspur sales jump partly due to strong demand for servers that integrate programmable co-processors such as general purpose graphics processing units (GPGPUs), according to IHS Markit. These types of co-processors are being used to process next-generation applications including artificial intelligence and machine learning. Co-processor servers have higher average selling prices compared other servers and generated more than $94 million in sales for Inspur in the third quarter of 2019, driving about 5 percent of the company’s revenue in China.
+
+On the Dell front, CEO and founder Michael Dell told CRN that he expects server sales to rebound in 2020.
+
+“It’s going to be a better year [in 2020]” Dell said. “[2018] was rather extraordinary for servers if you recall. We were posting quarters where we were up 30 percent, 40 percent, in a huge industry space. We remain No. 1 in servers in both revenue and units. We’re also doing a lot in our blade servers with our MX platform and integrating networking and servers together. [2018] was huge in servers. [In 2019] there’s been a bit of a digesting in all of those server investments. [In 2020] I think we’ll see it pick back up again.”

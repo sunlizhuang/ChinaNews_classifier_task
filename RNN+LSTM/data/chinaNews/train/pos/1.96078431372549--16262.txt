@@ -1,0 +1,11 @@
+The Amazing Spider-Man might not be a human in real-life, but it can definitely be a robot
+
+If you know who Spider-Man is, then you have probably thought about how cool it would be to scale buildings like the web-head. Researchers thought about the same thing and decided to create the first robot that can do exactly that.
+
+Researchers Xin Li and Kaige Shi from Zhejiang University in China have created a wall-climbing robot using a specially designed vacuum suction unit. Until now, climbing surfaces using suction required the surface to be unbroken, such as glass or marble. This was a requirement because the vacuum would leak through the gaps in the texture of the surface, leading to a complete loss of suction.
+
+Scientists have solved this problem by implementing a high-speed rotating water ring that coats the space between the surface and the suction cup. This film of rotating water allows for the vacuum's suction to be unbroken, which means that suction levels are kept at an optimal rate for climbing. Li said, "There are many applications of our design, but we think the wall-climbing robot will be the most useful. Compared to other wall-climbing robots, the robot with our ZPD-based suction unit achieves surprising improvement in performance."
+
+Li also said, "The next step in this research is to cut down the water consumption. If the water consumption can be reduced, the suction unit will work for a very long time with little water so that the wall-climbing robot could carry its own water instead of being connected to a supply".
+
+Last updated: Jan 22, 2020 at 06:11 am CST

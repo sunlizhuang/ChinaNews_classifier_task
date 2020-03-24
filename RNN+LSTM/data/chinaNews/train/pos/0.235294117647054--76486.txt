@@ -1,0 +1,53 @@
+Bertolt Meyer, a professor by day and DJ by night, was born without the lower half of his left arm.
+
+His prosthetic is designed with two electrodes that sit on the skin and pick up signals from his muscles in order to move the hand and fingers at the end, but the design makes it difficult to control a synthesizer.
+
+With the help of engineers, Meyer designed the the SynLimb - a custom circuit board that attaches to the prosthetic and reads his muscle signals to tweak the synthesizer knobs.
+
+Jacks are used to connect the circuit board and synthesizer that use the signals from his muscles, allowing Meyer to control the pitch and sequences with his mind.
+
+Scroll down for video
+
+With the help of engineers, Meyer designed the the SynLimb - a custom circuit board that attaches to the prosthetic and reads his muscle signals to tweak the synthesizer knobs
+
+'The SynLimb thus allows me to plug my prosthesis directly into my synthesizer so that I can control its parameters with the signals from my body that normally control the hand,' Meyer shared on his YouTube channel.
+
+'For me, this feels like controlling the synth with my thoughts.'
+
+Meyer received the high-tech prosthetic in 2009, but he still struggled working the synthesizer.
+
+‘As useful as this hand is, it is really difficult to control the synthesizer with it,' Meyer shared in a video he posted on his YouTube channel.
+
+After finding the electrode voltages of his prosthetic were too week, he used a Koma Electronic Field Kit (pictured), an analog audio workstation normally used for field recordings, which can amplify the signals.
+
+'All the tiny nobs you need to tweak and you need to tweak them fast with precision, and it is really difficult to do that with a prosthesis like this.’
+
+His prosthetic is designed with two electrodes that sit on the skin and pick up signals from his muscles in order to move the hand and fingers at the end, but makes it difficult to control the synthesizer while DJing
+
+The nobs on a synthesizer can be remote controlled with a voltage in the range of zero to 10 volts and Meyer always wondered if he could use the signals from his prosthetic to control the knobs' functions.
+
+After years of pondering, he decided it was time to see for himself.
+
+He took apart an old prosthetic that was some 20 years old and found it had an attachment on the end that could fit into his current prosthetic and a circuit.
+
+After finding the electrode voltages of his prosthetic were too week, he used a Koma Electronic Field Kit, an analog audio workstation normally used for field recordings, which can amplify the signals.
+
+‘When I actually plugged the signal I got from my prosthesis into here [the KOMA Elektronik Kit], it did exactly the amplification that I needed,' Meyer said.
+
+'I also realized that the battery in the prosthesis provides nine volts as an operating voltage, and the KOMA Electronik Field Kit runs on nine volts.'
+
+He took apart an old prosthetic that was some 20 years old and found it had an attachment on the end that could fit into his current prosthetic and a circuit
+
+Now that he had an idea in place, Meyer sought the help of engineers to assist with the design of the device. The team had a custom circuit board made in China and Meyer’s husband, Daniel, used a 3D printer to make an adapter that attaches the unit to his wrist
+
+Jacks are used to connect the circuit board and synthesizer, allowing Meyer to control the pitch and sequences with his mind.
+
+Now that he had an idea in place, Meyer sought the help of engineers to assist with the design of the device.
+
+The team had a custom circuit board made in China and Meyer’s husband, Daniel, used a 3D printer to make an adapter that attaches the unit to his wrist.
+
+‘I control the synthesizer with my prosthesis and for me, that is such a natural thing to do I don’t have to think about it’
+
+‘I just do it. It’s zero effort because I ‘m so used to producing this muscle signal.’
+
+‘For me, this feels like I’m controlling the filter with my thoughts.’

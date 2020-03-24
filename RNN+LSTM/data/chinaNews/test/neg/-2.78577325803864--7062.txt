@@ -1,0 +1,23 @@
+Chennai, Jan 13 : A search engine company that searches and unites missing persons with their long-lost families? Well, that is one of the facets of the Chinese search engine company Baidu which is using Artificial intelligence (AI)-based facial recognition technology.
+
+"Our Baidu 'AI Xunren' has reunited about 10,000 missing persons with their families," in China, a company official told IANS on the condition of anonymity recently here.
+
+According to the official, Baidu's AI programme can identify missing people from old pictures of a person regardless of his/her age.
+
+In other words, even if the photo of a person is taken during his childhood, it can be matched with the same person's photo taken several years later, through Baidu's AI programme.
+
+The company official said a person can upload his/her picture or the picture of the missing person in the family, regardless of the year the picture was taken.
+
+The photo can be uploaded on China's Ministry of Civil Affairs' website for missing persons or on other channels like the Baidu 'AI Xunren website, the Baidu AI Xuren Smart Mini Programme on the Baidu App or through various non-governmental organisations (NGO) working in the field, the official said.
+
+Baidu's 'AI Xunren' then takes over and compares the pictures that are uploaded and identifies a suitable match.
+
+The accuracy rate for Baidu's facial recognition technology has reached 99.7 per cent.
+
+Remarkably, Baidu's cross-age facial recognition technology can identify missing people from old photos, so it can find people who went missing a long time ago, even if their appearances have changed significantly, the official said.
+
+The official said there was a case where a boy was lost at the age of four and when he was 25 years of age, he was identified as a missing person.
+
+Baidu also uses AI to help visually-impaired people in massage parlours.
+
+The Baidu 'Xiaodu' smart speakers are there in several massage parlours and the massage therapists who are visually impaired can use voice to control air conditioning, control the curtains and a lot of Internet of Things (IoT) devices which makes their life easier.

@@ -1,0 +1,59 @@
+Al Gore’s 1992 forecast of a Digital Earth — where satellites beam data to reveal all the planet’s environmental dynamics – has gained momentum with the publication of the Manual of Digital Earth last month. The major anthology is sponsored by the Chinese Academy of Sciences. It’s a mark of the importance China attaches to what is now a United Nations-led project named the Global Earth Observation System of Systems (GEOSS).
+
+GEOSS seems like medical science’s worldwide collaborations to map the human genome and the human brain – but at a much bigger magnitude. Scientists want to data-visualise the whole Earth. The project’s scope ranges from deep subterranean core samples, volcanic tremors, ocean surface temperatures, flooding and solar storms to urban populations, migrations and sprawls.
+
+A recent Australian contribution to the Digital Earth vision is the online mapping of bushfires. This includes the Digital Earth Australia Hotspots map run by Geoscience Australia and the New South Wales Rural Fire Service’s Fire Map.
+
+GEOSS began operating in 2005 (the same year as Google Earth) and is accelerating with the most tumultuous technology revolution in the history of cartography. It goes way beyond the satellite mapping we see on TV weather reports. And it relies on the grid of globally networked computers to access and crunch massive lakes and banks of geotagged data stored in high-security bunkers.
+
+China’s digital ‘religion’
+
+Huadong Guo of the Chinese Academy of Sciences is honorary president of the International Society for Digital Earth. Author provided
+
+China’s support for the Digital Earth and GEOSS movement has become entwined with its foreign policy. Chinese authors wrote many papers in the 26-chapter manual. And the Chinese Academy of Sciences operates the secretariat and journal of the International Society for Digital Earth (ISDE).
+
+Recent ISDE conferences have included invitation-only workshops on how to evolve China’s Digital Belt and Road program. It’s the high-tech aspect of China’s Belt and Road Initiative to expand its historical Silk Road trading links. China’s map of desired international paths and connections now includes non-Silk Road destinations, including the Malaysian peninsula, Ukraine, Germany, England, Portugal and Morocco.
+
+A Geneva-based Australian pioneer of supercomputing and environmental simulations, Bob Bishop, welcomed the Manual of Digital Earth. He suggested to me it “somewhat proves” that:
+
+the religion of China in the 21st century is ‘science’ and their particular denomination is ‘digital’. China made Buddhism universal by documenting a previously oral philosophy coming from India. It seems China could make Digital Earth universal by documenting fragmented ideas coming from the US and the rest of the world.
+
+The manual explains, in more than 250,000 illustrated words, what has been done, and what needs to be done, to develop different parts of Gore’s vast ambition. Science now has all the basic capabilities to deliver a GEOSS/Digital Earth. These include:
+
+grid computing
+
+ubiquitous sensors to monitor environmental variables
+
+machine learning and robotics to automate processes
+
+good expertise with remote sensing data and imagery
+
+broadband networks to enable citizen scientists to add and access information
+
+international protocols and standards for writing, using and storing metadata and for exchanging data across different hardware and software systems.
+
+Challenges remain
+
+Bob Bishop has pointed out the scale of the challenge of processing and storing data on such a scale. Author provided
+
+More questionable is whether there is enough processing speed and data-storage capacity to deliver the vision yet. Bishop has suggested we probably will need to look beyond still-nascent quantum computing to far-ahead neuromorphic engineering (imitating the human nervous system at a very large scale) to evolve an effective sim-planet system. That’s because, as Gore predicted, vast amounts of environmental data will need to be processed in real time.
+
+The intergovernmental Group on Earth Observations (GEO) secretariat in the World Meteorological Organisation tower on the UN campus in Geneva is co-ordinating GEOSS. Leading space, meteorological, geoscience, surveying and UN technical agencies are among its more than 200 member organisations.
+
+The Manual of Digital Earth is the world’s first comprehensive book of scholarly papers about Digital Earth/GEOSS theories, technologies, advances and applications. (It builds on a 2013 GEO-sponsored report edited by ISDE members.)
+
+The book summarises recent advances and the current status of many relevant technologies. It highlights the challenge of how to smoothly transition scales during continuous zooming. It also discusses applications (including climate change, disaster mitigation and the UN Sustainable Development Goals); regional and national development (in Europe, Russia, China and Australia); and education and ethics.
+
+Who’s who in Digital Earth studies?
+
+ISDE founder Michael Goodchild has authored some of its most influential papers. Author provided
+
+More than 100 experts from 18 countries contributed to the anthology. It was edited by three leaders of the International Society for Digital Earth: Huadong Guo of the Chinese Academy of Sciences, who is a professor at its Institute of Remote Sensing and Digital Earth (RADI); Michael F. Goodchild, emeritus professor of geography at the University of California Santa Barbara; and Alessandro Annoni, head of the Digital Economy Unit at the European Commission’s Joint Research Centre in Ispra, Italy.
+
+ISDE president Alessandro Annoni co-authored a European Union report that urged Europe and the US to keep up with China’s high-tech ambitions. Author provided
+
+Annoni is the ISDE’s president, Guo is the honorary president and Goodchild is an ISDE founder and a lead author of its most influential papers – including a next-generation Digital Earth vision statement in 2012.
+
+The ISDE secretariat is based at the RADI in Beijing, although its presidents and senior members work in various countries. It’s closely involved with the GEOSS in Europe and with the UN’s Global Geospatial Information Management group in New York.
+
+A 2019 European Union report, China: Challenges and Prospects from an Industrial and Innovation Powerhouse, examined China’s escalating industrial capabilities and international ambitions. Annoni and other senior European policy leaders were authors. The report said Europe and the United States needed to boost their industrial, research and innovation performances to compete with China in key high-tech sectors.

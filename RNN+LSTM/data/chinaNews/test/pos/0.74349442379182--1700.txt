@@ -1,0 +1,13 @@
+Lenovo has announced, among other things, the world's first 5G laptop at CES 2020.
+
+The new Lenovo Yoga 5G, the device supports both millimetre wave full-band and sub-6GHz 5G networks.
+
+It's a 2-in-1 ultra-portable machine, powered by Qualcomm's Snapdragon 8cx 5G Compute Platform and runs the Ardeno 680 GPU. It weighs 1.3kg and allows its users to log in either through the fingerprint scanner, or via infrared camera. Lenovo says the device's battery can last up to 24 hours, but that statement is yet to be put to the test.
+
+The Lenovo Yoga 5G comes sporting a 14-inch Full HD IPS touch display, with 400 nits brightness and narrow bezels on all sides. As with all Yoga devices, this one too comes with the digital pen.
+
+Expect it to hit the stores in spring this year, for around $1,499.
+
+5G, as the latest and greatest in mobile internet technology, is set to give the idea of a connected world another push. IoT, industrial IoT, connected cars, video streaming, video conferencing, smart cities, those are just some of the solutions which rely heavily on the existence of high-speed mobile internet.
+
+5G is currently available in a handful of locations. Also, there are currently very few devices capable of connecting to 5G. The technology is also being used as a tool in the trade war between the US and China, with the former accusing the latter of using 5G as means of possible espionage. Chinese Huawei, as one of the world’s leading 5G infrastructure builders, is banned from working on the network in the US.

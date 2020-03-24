@@ -1,0 +1,47 @@
+Correction (14:40 UTC, Feb. 12, 2020): An earlier version of this article misstated the chronology of events: bitcoin started rising to above $10,300 just before Jerome Powell’s speech, not after.
+
+Bitcoin’s (BTC) price is trending solidly back above the five-digit figure mark.
+
+At around 15:00 UTC on Feb. 11, the price of BTC rose back above $10,000 from around $9,850 to $10,351 within an hour after succumbing to a small sell-off beneath the $10,000 level on Feb. 10, CoinDesk BPI data show.
+
+The peak figure represents BTC’s highest point in over five months and offers a shift in trend from bearish-to-bullish in the mid-term as it continues to print new highs in 2020.
+
+The rise in BTC’s price came minutes before Federal Reserve Chairman Jerome Powell’s testimony to the U.S. House Financial Services Committee on Tuesday in which he discussed the need for privacy among digital currencies when seen through the lens of China's digital yuan.
+
+"A ledger where you know everybody's payments is not something that would be particularly attractive in the context of the U.S.," Powell told the committee.
+
+Bitcoin price Source: CoinDesk BPI
+
+David Freuden, blockchain innovation and cryptocurrency adviser at Monsterplay, and a proponent for privacy coins, told CoinDesk that while Powell’s comments are “somewhat bullish,” the concern is the U.S. government will insist on creating “back doors” on all major technology innovations.
+
+“The U.S. government has the misguided assumption that it would be the only government that would request or coerce a back door," Freuden said.
+
+Besides Powell’s recent comments, the sudden surge in value may be attributed to three catalysts including increased institutional and retail demand for cryptocurrencies, BTC’s halving event and macro developments, with a focus on the uncertainty surrounding the coronavirus outbreak, analysts and traders said.
+
+Joshua Green, a cryptocurrency derivatives trader operating in Australia, told CoinDesk a combination of “bullish sentiment” around BTC’s halving event, altcoin sentiment “dragging everything higher” and coronavirus concerns supporting the macro perspective are key factors.
+
+“A lot of buying seems to be physical in nature, which is good,” Green said.
+
+Bitcoin halving
+
+BTC’s halving event, an occurrence every four years where the bitcoin network undergoes a 50 percent reduction in its mining rewards, has been spurring bullish sentiment reflected in both the spot and derivatives markets.
+
+Data from Skew analytics demonstrates how institutional buying pressure continues to provide a solid base of support for the world’s largest crypto by market cap, reflected in a legitimate increase in derivatives volume and open interest.
+
+Open Interest Source: Skew Analytics
+
+Analysts like to keep track of changes in open interest to determine the strength of certain price moves. An uptick in price along with a rise in open interest is telling of the strength behind the move to higher prices. A trend is said to be lacking substance when the two metrics move in opposite directions.
+
+In addition, spot volume on major exchanges like Binance are up 13 percent over the last 24 hours, data at Nomics show.
+
+Macro view
+
+The sentiment of "BTC as a safe haven asset" continues to hold water as major world events such as last month’s debacle with Iran and the U.S. helped drive prices higher, according to Tim Shaler, chief economist and professional trader at iTrustCapital.
+
+“We believe one of the key drivers over the past five weeks or so of the rapid rise of BTC/USD may have been the threat of war with Iran,” Shaler said.
+
+Simon Peters, analyst at eToro, said if the price of BTC remains above $10,000 then it would likely give investors confidence and “stoke” increased buying activity.
+
+“There clearly seems to be more interest in bitcoin and other crypto-assets as potential safe havens for investors worried by the volatility of the stock markets as the coronavirus crisis continues,” Peters said.
+
+Altcoins are also experiencing increased bullish sentiment as major names like ether (ETH), tezos (XTZ) and EOS (EOS) were up 10 to 12 percent on a 24-hour basis ahead of Powell’s comments, while privacy coins such as ZCash and Monero rose between 7 to 9 percent.

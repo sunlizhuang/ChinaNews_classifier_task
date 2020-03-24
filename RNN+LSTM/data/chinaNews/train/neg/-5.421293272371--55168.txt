@@ -1,0 +1,85 @@
+The World Health Organisation (WHO) is not quick to declare global public health emergencies.
+
+From 2007 through 2019, the United Nations agency did so on only five occasions. The rapidly spreading new coronavirus that originated in December in China's Wuhan makes a sixth.
+
+The fallout from the organisation's Jan 30 call has spread rapidly. Four days later, the total number of countries placing border restrictions on Chinese travellers has surged to 60. They include Australia, India, Indonesia, Singapore, New Zealand, Russia and North Korea, and many countries have evacuated or are attempting to evacuate their citizens from Hubei province at the epidemic's epicentre.
+
+"Our greatest concern is the potential for the virus to spread to countries with weaker health systems" than China's, WHO director-general Tedros Adhanom Ghebreyesus said in a tweet. "I am declaring a public health emergency of international concern… not because of what is happening in China, but because of what is happening in other countries."
+
+The new coronavirus, known as 2019-nCoV, can lead to severe and often deadly pneumonia. Even as the number of infections and deaths rapidly mounted in Hubei's capital Wuhan and cases appeared in a growing number of other countries, the WHO took a deliberate approach to evaluating the danger.
+
+The agency's emergency committee, in meetings on Jan 22-23, initially decided not to designate it a global crisis pending collection of more data. A week later, the WHO declared the coronavirus the first global public health emergency originating in China. Such a designation did not apply to even the severe acute respiratory syndrome (Sars) epidemic 17 years ago.
+
+A look at how the organisation reached its decision shows some of the inner workings of the global system for preventing and managing the spread of dangerous new diseases.
+
+The system relies on the rapid sharing of information among national health systems and the global public health organisation. Although some Chinese officials have drawn criticism internally and abroad for initially trying to downplay the crisis, the WHO's Dr Tedros maintains China was quick to share information, enhancing the global response.
+
+"In many ways, China is setting a new standard for outbreak response," Dr Tedros said at a press conference. "We would have seen many more cases outside China by now, and probably deaths, if not for the government's efforts."
+
+Data from China on the pathogen allowed Japan, South Korea and Thailand to diagnose similar cases quickly, he said. For example, a Chinese laboratory warned the German government of an infected person returning to Germany.
+
+Dr Tedros, an Ethiopian public health expert, arrived on Jan 27 in Beijing to meet Chinese officials. During his visit, President Xi Jinping called on the country to be transparent in working with the rest of the world and agreed to allow the WHO to send a group of international experts into the country to study the new strain of coronavirus alongside Chinese counterparts.
+
+Related Story China's response to Wuhan virus outbreak is a stunning exercise in mass mobilisation
+
+Related Story Interactive: Places impacted by the coronavirus so far
+
+Those data-gathering steps helped fill the information gap that kept the WHO's emergency panel from issuing its global warning sooner.
+
+Before the Jan 22-23 meetings, the lack of information on the virulence, infectiousness, severity and clinical symptoms of the coronavirus made reaching a consensus difficult, WHO emergency committee member John Mackenzie told media company Caixin.
+
+The global organisation had evidence of transmission of the virus within a household, but that is not unusual for a respiratory disease. The experts were looking for "third-or fourth-generation infections", referring to how many times a disease has been passed on, an indication of virulence. That evidence came quickly, laying the groundwork for the emergency committee to issue its global warning.
+
+Some argue that compared with the 2003 Sars crisis, the Chinese government has been much more transparent about the current coronavirus.
+
+"Before we start pointing the finger at China, we need to recognise there are genuine sensitivities around sharing data around new diseases," said Dr Mike Ryan, director of the WHO's health emergencies programme who accompanied Dr Tedros to Beijing. "I believe in this case the countries that have been affected, including China, have been remarkably transparent."
+
+According to US Health and Human Services Secretary Alex Azar, China's compliance with international health regulations and uploading of the genetic sequence of the virus enabled the Americans to develop a test kit to screen for infections.
+
+WEIGHING THE DESIGNATION
+
+Under the WHO-administered International Health Regulations, a global public health emergency applies to "an extraordinary event which is determined to constitute a public health risk to other states through the international spread of disease and to potentially require a coordinated international response".
+
+Since 2007, the WHO has declared public health emergencies in response to the 2009 H1N1 influenza pandemic, the 2014 setbacks in global polio eradication efforts, the 2014 West Africa Ebola epidemic, the 2016 Zika virus outbreak and the 2018-2019 Kivu Ebola epidemic.
+
+The organisation's emergency committee, which makes the call, is made up of epidemiologists, virologists and infectious disease experts. Among them, at least one expert comes from the country where the epidemic began.
+
+Related Story WHO launches campaign against misinformation on coronavirus
+
+The panel can also make recommendations to foreign governments on measures such as travel or trade restrictions.
+
+Even during serious crises, the WHO is conservative in its pronouncements. Through July last year, the Kivu Ebola epidemic killed 1,500 and infected more than 2,300 after appearing in the Democratic Republic of Congo in August 2018 and spread to nearby countries. The disease was not declared an international public health emergency until the WHO's fourth emergency committee meeting last July.
+
+Three factors weighed on the current WHO decision, according to Professor Didier Houssin, chairman of the WHO emergency committee. They were the rising number of cases in China, the growing number of countries with confirmed infections and the spread of questionable measures by some nations involving travellers.
+
+While the emergency committee does not encourage travel or trade restrictions, it acknowledges that such steps can be useful at times, such as when response capabilities are limited or when there is a large likelihood of infection among vulnerable groups.
+
+Under the International Health Regulations, countries are required to report travel restrictions to the WHO, and they are barred from taking steps that encourage discrimination.
+
+FOREIGN REACTIONS
+
+After news broke of the coronavirus that originated in Wuhan, many countries imposed increasingly stringent measures. In addition to posting travel warnings and tightening border controls, several counties implemented preliminary screening measures using their own public health organisations to diagnose those who may have come into contact with the virus even before they showed symptoms.
+
+The United States reacted especially quickly. On Jan 17, four days after Thailand reported its first case, the Centres for Disease Control and Prevention (CDC) said it would screen passengers arriving from Wuhan at major airports in New York, Los Angeles and San Francisco. At the time, the US had not reported any cases of the disease. After it did so, the country expanded screenings of Chinese passengers to 20 airports while also advising against all travel to China.
+
+Last Friday, the US declared the coronavirus epidemic a public health emergency and temporarily closed its borders to foreign nationals who had travelled to China in the previous two weeks and are not immediate family members of US citizens or permanent residents. The government also imposed mandatory two-week quarantines for those who were in China's Hubei province during that time span.
+
+As she confirmed Europe's first case of the coronavirus on Jan 24, French Health Minister Agnes Buzyn promised total transparency and daily updates to combat misinformation. She said sharing epidemic information with the public was the best barrier to its spread.
+
+Even though China shared the virus' genome sequence on Jan 11, researchers do not yet have a full grasp of its characteristics and routes of transmission, according to the WHO.
+
+Because developing a vaccine or treatment requires significant time and resources, all countries - including China and the US - should pool their efforts, said Dr Richard Hatchett, chief executive of the Coalition for Epidemic Preparedness Innovations (Cepi), an international epidemiology group.
+
+Cepi, made up of public and private entities, said on Jan 23 that it was funding research into three separate efforts to develop a vaccine for the coronavirus with the aim of shortening development time to several months.
+
+The US National Institutes of Health started research on vaccines after receiving the virus' genetic sequencing, Dr Anthony Fauci, director of the US National Institute of Allergy and Infectious Diseases, told CNN on Jan 20. He cautioned that the development process can last months or years, so controlling the epidemic will require "traditional" public health measures.
+
+So long as there is no vaccine, the only available measures for slowing the spread of the disease are quarantine, delaying resumption of work and schools and restricting travel, Dr Hatchett said last month at the World Economic Forum in Davos, Switzerland. He cautioned that the cost of these measures is high and difficult to sustain.
+
+From studying non-medical interventions in the 1980s, the US found that disease prevention is more effective when a city implements various interventions during the onset of an outbreak, Dr Hatchett said.
+
+As a US government public health official in 2005, Dr Hatchet helped draft the country's epidemic response plan in the light of the outbreak of the H5N1 influenza.
+
+• Xu Heqian, Wu Hongyuran, Qu Yunxu, Fu Lin, Zhang Qi, Chen Lixiong and Li Xin contributed to this article.
+
+• This article was first published by Caixin Global.

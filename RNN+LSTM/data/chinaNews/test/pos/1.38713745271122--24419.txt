@@ -1,0 +1,13 @@
+The cloud computing and software services division of e-commerce giant Amazon, Amazon Web Services, will build a data infrastructure hub in Jakarta by the end of next year or in early 2022. It will be the biggest investment in Indonesia’s information and technology sector, the country’s industry minister Agus Gumiwang said after a meeting with Amazon representatives at the 2020 World Economic Forum in Davos, Switzerland.
+
+The hub, which Amazon calls “region,” is a physical location where its data centers are clustered. Each region consists of multiple, isolated and physically separate “availability zones” within an area. Jakarta will join Hong Kong, Beijing and Ningxia in China, Mumbai, Seoul, Singapore, Tokyo and Sydney as “regions” in Asia-Pacific. There are 14 other regions across the globe.
+
+“This investment can boost Indonesia to become a strategic digital hub,” the minister said, adding that the data centers would also accelerate the transformation of the nation’s small and medium companies, as well as big corporations in various sectors toward the digital industry 4.0 and also help create more jobs and companies, particularly startups, in the technology sector. The government will also partner with Amazon Web Services to provide cloud computing training for “hundreds of thousands of Indonesians” by 2025, he noted.
+
+Qualcomm seeks investment in 5G technology
+
+Another US technology firm, Qualcomm, also said it was interested in investing in Indonesia, The multinational semiconductor and telecommunications equipment company is seeking to work with the Indonesian government to develop infrastructure for 5G, the latest wireless broadband technology, and extend cooperation in other fields of information technology in the country.
+
+Both Amazon and Qualcomm have further been invited by Indonesia to invest in the country’s $34-billion project to build a new smart capital city in East Kalimantan.
+
+The value of the Indonesia’s digital economy was projected to reach $40 billion in 2019, up from $27 billion a year before, according to the annual e-Conomy SEA 2019 report by Google, Singaporean state investment holding Temasek and management consulting firm Bain & Company. The value is expected to triple to $130 billion by 2025.

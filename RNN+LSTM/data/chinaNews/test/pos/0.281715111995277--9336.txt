@@ -1,0 +1,75 @@
+Businesses Revisit IT Spending as Economic and Political Uncertainty Lessens
+
+STAMFORD, Conn.–(BUSINESS WIRE)–Worldwide IT spending is projected to total $3.9 trillion in 2020, an increase of 3.4% from 2019, according to the latest forecast by Gartner, Inc. Global IT spending is expected to cross into $4 trillion territory next year.
+
+“Although political uncertainties pushed the global economy closer to recession, it did not occur in 2019 and is still not the most likely scenario for 2020 and beyond,” said John-David Lovelock, distinguished research vice president at Gartner. “With the waning of global uncertainties, businesses are redoubling investments in IT as they anticipate revenue growth, but their spending patterns are continually shifting.”
+
+Software will be the fastest-growing major market this year, reaching double-digit growth at 10.5% (see Table 1). “Almost all of the market segments with enterprise software are being driven by the adoption of software as a service (SaaS),” said Mr. Lovelock. “We even expect spending on forms of software that are not cloud to continue to grow, albeit at a slower rate. SaaS is gaining more of the new spending, although licensed-based software will still be purchased and its use expanded through 2023.”
+
+Table 1. Worldwide IT Spending Forecast (Billions of U.S. Dollars)
+
+2019 Spending 2019 Growth (%) 2020 Spending 2020 Growth (%) 2021
+
+
+
+Spending 2021
+
+
+
+Growth (%) Data Center Systems 205 -2.7 208 1.9 212 1.5 Enterprise Software 456 8.5 503 10.5 556 10.5 Devices 682 -4.3 688 0.8 685 -0.3 IT Services 1,030 3.6 1,081 5.0 1,140 5.5 Communications Services 1,364 -1.1 1,384 1.5 1,413 2.1 Overall IT 3,737 0.5 3,865 3.4 4,007 3.7
+
+Source: Gartner (January 2020)
+
+Growth in enterprise IT spending for cloud-based offerings will be faster than growth in traditional (noncloud) IT offerings through 2022. Organizations with a high percentage of IT spending dedicated to cloud adoption is indicative of where the next-generation, disruptive business models will emerge.
+
+“Last quarter, we introduced the ‘and’ dilemma where enterprises are challenged with cutting costs and investing for growth simultaneously. Maturing cloud environments is an example of how this dilemma is alleviated: Organizations can expect a greater return on their cloud investments through cost savings, improved agility and innovation, and better security. This spending trend isn’t going away anytime soon.”
+
+The headwind coming from a strong U.S. dollar has become a deterrent to IT spending on devices and data center equipment in effected countries. “For example, mobile phone spending in Japan will decline this year due to local average selling prices going up as a result of the U.S. dollar increasing. The U.K.’s spending on PCs, printers, servers and even external storage systems is expected to decline by 3%, too,” said Mr. Lovelock.
+
+Despite last quarter showing the sharpest decline within the device market among all segments, it will return to overall growth in 2020 due to the adoption of new, less-expensive phone options from emerging countries. “The almost $10 billion increase in device spending in Greater China and Emerging Asia/Pacific is more than enough to offset the expected declines in Western Europe and Latin America,” said Mr. Lovelock.
+
+More detailed analysis on the outlook for the IT industry is available in the complementary webinar “IT Spending Forecast, 4Q19 Update: Emerging Technologies in 2020.”
+
+Gartner’s IT spending forecast methodology relies heavily on rigorous analysis of sales by thousands of vendors across the entire range of IT products and services. Gartner uses primary research techniques, complemented by secondary research sources, to build a comprehensive database of market size data on which to base its forecast.
+
+The Gartner quarterly IT spending forecast delivers a unique perspective on IT spending across the hardware, software, IT services and telecommunications segments. These reports help Gartner clients understand market opportunities and challenges. The most recent IT spending forecast research is available to Gartner clients in “Gartner Market Databook, 4Q19 Update.” This quarterly IT spending forecast page includes links to the latest IT spending reports, webinars, blog posts and press releases.
+
+Mr. Lovelock will provide further analysis on the key drivers of the IT market at the Gartner Tech Growth & Innovation Conference taking place May 11-13 in San Diego, CA and May 18-19 in London. Follow news and updates from the conference on Twitter using #GartnerTGI.
+
+About Gartner
+
+Gartner, Inc. (NYSE: IT) is the world’s leading research and advisory company and a member of the S&P 500. We equip business leaders with indispensable insights, advice and tools to achieve their mission-critical priorities and build the successful organizations of tomorrow.
+
+Our unmatched combination of expert-led, practitioner-sourced and data-driven research steers clients toward the right decisions on the issues that matter most. We are a trusted advisor and objective resource for more than 15,000 organizations in more than 100 countries — across all major functions, in every industry and organization size.
+
+To learn more about how we help decision makers fuel the future of business, visit www.gartner.com.
+
+Contacts
+
+Katie Costello
+
+
+
+Gartner
+
+
+
++ 1 571 444 1091
+
+
+
+katie.costello@gartner.com
+
+Meghan Rimol
+
+
+
+Gartner
+
+
+
++1 571 303 4009
+
+
+
+meghan.rimol@gartner.com

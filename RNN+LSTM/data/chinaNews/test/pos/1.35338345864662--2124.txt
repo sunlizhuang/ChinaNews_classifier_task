@@ -1,0 +1,25 @@
+Angela Lang/CNET
+
+CES 2020
+
+The Pebble Watch is long dead, absorbed by Fitbit, which was then eaten by Google, but its spirit lived on in the Amazfit Bip. A watch nobody knew, by a company no one recognized, became one of the most loved watches on Amazon over the last few years.
+
+I didn't expect the Bip to be back at this year's CES, but it is, in a new model called the Bip S. It's the global debut of what was previously called "Amazfit Bip 2," and adds a few key extras: 5 ATM water resistance, swim tracking, added exercise modes and Bluetooth music controls.
+
+The Amazfit Bip is made by Chinese health tech company Huami, a former manufacturer of wearables for Xiaomi. You still might not know who Huami is. Huami sold over 4 million Amazfit Bips, making it the company's biggest hit.
+
+But Huami also has a ton of other health devices this year: a rugged outdoor GPS mega-watch called the Amazfit T-Rex, two heart rate sensing earbuds (one for exercise, one for sleep and mindfulness, called the Amazfit PowerBuds and ZenBuds), and... an aspiration Peloton-like treadmill with full mirror display?
+
+Huami CEO Huang Wang sat with me in a long, high-ceilinged hallway in the back of the Wynn hotel lobby, talking with me before the company's latest product announcement on how Huami intends to keep becoming a fitness and health tech powerhouse... and why connected gym equipment and earbuds are part of the next step.
+
+Huami's concept for home gym equipment -- a smart treadmill called the Amazfit HomeStudio -- is a little hard to read, and it's not a full product yet. But Amazfit wants to be a home gym brand. "We do think Peloton is the pioneer," Wang says. "But we really think Peloton is very expensive, and we really want to provide better service and equipment to our users. With our technology and our supply chain and company resources, we can bring the price down, so people can afford it."
+
+Angela Lang/CNET
+
+Wang explains that Huami's path was inspired by a 2013 trip to CES, which happens to coincide with when Pebble watches were at their peak. In fact, maybe in an alternate universe, Pebble could have been a Huami product. "Before Pebble was acquired by Fitbit, Pebble CEO Eric Migicovsky came to us first: he came to Beijing," Wang shares with me. "We talked a long time. He wanted us to acquire them, and they showed us the next generation of the Pebble watch. And I was saying, oh, actually, you know, this is what we have already, we're about ready for market." The Bip was already being developed. According to Wang, Huami already felt it would be superior to whatever Pebble had planned in the Pebble 2. Fitbit made to the move to acquire Pebble at the end of 2016. The Amazfit Bip arrived in the US in early 2018.
+
+Huami also is planning FDA-cleared health devices. The company announced a partnership with AliveCor, a maker of FDA-cleared ECG-detecting medical devices, last fall. I ask Wang about possible blood pressure detection in its new earbuds, much like what Valencell is promising this year. Wang tells me Huami uses Valencell's heart rate-sensing optical PPG tech in its products. While he wouldn't comment on possibilities, it seems highly likely.
+
+The Amazfit Bip and Huami's other fitness watches connect to Huami's own app ecosystem, not Google's Wear OS. But a future Google partnership wouldn't necessarily be out of the question, says Wang. "We're open to Google if they want to partner with us in terms of something, definitely, why not."
+
+The information contained in this article is for educational and informational purposes only and is not intended as health or medical advice. Always consult a physician or other qualified health provider regarding any questions you may have about a medical condition or health objectives.

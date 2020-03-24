@@ -1,0 +1,23 @@
+Researchers led by Prof. WANG Feng at the Dalian Institute of Chemical Physics (DICP) of the Chinese Academy of Sciences have reported that photocatalytic decarboxylation is an efficient alternate pathway for converting biomass-derived fatty acids into alkanes under mild conditions of ambient temperature and pressure. This finding was published in Nature Catalysis.
+
+
+
+
+
+Schematic representation of photocatalytic decarboxylation strategy for alkane production from biomass-derived fatty acids. (Image by HUANG Zhipeng).
+
+Long-chain alkanes are the major component of diesel and jet fuel. Production of these alkanes from renewable biomass—such as biomass-derived fatty acids instead of fossil resources—could contribute significantly toward developing a sustainable energy supply. However, most established catalytic systems require harsh operating conditions (i.e., high temperature and pressure) and excessive hydrogen consumption.
+
+The researchers found that under illumination, the decarboxylation of fatty acids could be easily induced by photo-generated holes on the semiconductor TiO 2 , subsequently generating alkyl radical intermediates. However, due to the uncontrollable reactivity of alkyl radicals, the production of desired alkanes was characterized by low selectivity.
+
+Rationally controlling the conversion of radical intermediates for preferential hydrogen termination is the key to high selectivity in obtaining alkane products. —Prof. WANG
+
+The scientists discovered that when exposing the catalyst Pt/TiO 2 to H 2 atmosphere with light, the interaction between the catalyst and H 2 generated a hydrogen-rich surface, so photo-generated radicals could be rapidly terminated by surface hydrogen species, thus greatly inhibiting oligomerization.
+
+These results show that C n-1 alkanes can be obtained from biomass-derived C 12 -C 18 fatty acids in high yields (greater than or equal to 90%) under mild conditions (30 °C, H 2 pressure less than or equal to 0.2 MPa) with 365 nm LED irradiation. Moreover, the average production rates are comparable to those of thermocatalytic systems operating under harsh reaction conditions.
+
+Tall oil and soybean fatty acids are the low-value byproducts of the pulp and soybean oil refining industries, respectively. The researchers conducted conversion of these two industrial fatty acid mixtures, obtaining alkane products in high yields (up to 95%).
+
+Such a green and environmentally friendly process is promising. It bridges photosynthetic chemistry and industrial catalysis, and extends the photoenergy utilization chain. It is particularly promising considering the abundant available low-quality fatty acids in China. —Prof. WANG
+
+Resources

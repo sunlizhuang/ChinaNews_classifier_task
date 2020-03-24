@@ -1,0 +1,25 @@
+Germany's top politicians are defying the country's reputation for Teutonic efficiency through a repeated failure to arrive at a clear decision about Huawei, a controversial Chinese equipment vendor that US authorities have slammed as a threat to national security.
+
+Authorities in Europe's biggest economy have spent much of the past year pondering Huawei's future role in Germany's 5G networks. In the latest development, Chancellor Angela Merkel has asked policymakers to wait until after an EU summit in March before they decide, according to a Reuters report this week that cites sources involved in the talks.
+
+An outright ban on the company would prove unpopular with German telecom operators, which rely heavily on Huawei's products. They have argued that a comprehensive ban would hinder 5G deployment and drive up network costs, with nasty consequences for the German economy.
+
+A ban could also endanger relations between China and the European Union, hitting German exports. In recent years, China has overtaken the US to become Germany's largest trading partner, buying cars, machine tools and engineering equipment from German companies. According to a recent Reuters report, China's share of German exports has grown from 0.6% in 1990 to 7.1% last year.
+
+These factors partly explain why a Huawei decision is fraught with difficulty. Political divisions are not helping, either. The CDU/CSU, the party of Merkel, is currently in a power-sharing coalition with the SPD. Merkel and some politicians in the CDU/CSU are wary of excluding specific companies, even if they support tough new security measures. But the SPD has tabled a proposal to ban Huawei that has been backed by some members of Merkel's party.
+
+According to Huawei's opponents, allowing the Chinese vendor to help build Germany's 5G networks would be risky. Its products, they say, could feature "backdoors" enabling Chinese authorities to spy on Germany or even carry out cyber attacks. There may also be sympathy with US criticisms that Huawei flouts international rules on trade and rips off Western innovation.
+
+Merkel is evidently looking to other European countries for support and keen to avoid any EU fragmentation on such a critical issue. Different regulatory approaches across the region would undoubtedly complicate matters for its telecom operators, some of which are active in numerous European markets. Those include Deutsche Telekom, Germany's partly state-owned national incumbent, which operates networks across a swathe of central and eastern Europe. The harmonization of telecom rules may be essential if Europe is to keep pace with China and the US in 5G: A regulatory divide over Huawei would hardly be helpful.
+
+
+
+Light Reading. Want to know more about 5G? Check out our dedicated 5G content channel here onLight Reading.
+
+While set to leave the EU at the end of this month, the UK might provide a steer for Germany and take some pressure off Merkel. As a member of "Five Eyes," a US-led spy club that also includes Australia, Canada and New Zealand, the UK is being hounded by the Trump administration to jettison Huawei. Under a compromise designed to mollify China and its own service providers, it seems likely to exclude Huawei from the sensitive 5G "core" but not the radio access network. Unless this de facto rejection of calls for an outright ban met with a stern US response, it could be a guide for other European governments eager to minimize disruption.
+
+That said, UK service providers have already taken steps to exclude Chinese vendors from their core networks. The same cannot be said for some other European operators, which have grown heavily reliant on Huawei in the 4G era. The Chinese might not care -- most of the 5G money is in radios -- but operators will not be silenced so easily: In terms of complexity, extracting a vendor from the core is more like brain surgery than dentistry, they say.
+
+Related posts:
+
+ Iain Morris, International Editor, Light Reading

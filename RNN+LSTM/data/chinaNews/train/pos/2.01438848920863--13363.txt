@@ -1,0 +1,45 @@
+The goal of this article is to teach you how to use price to earnings ratios (P/E ratios). We'll show how you can use China New Town Development Company Limited's (HKG:1278) P/E ratio to inform your assessment of the investment opportunity. China New Town Development has a P/E ratio of 7.71, based on the last twelve months. In other words, at today's prices, investors are paying HK$7.71 for every HK$1 in prior year profit.
+
+View our latest analysis for China New Town Development
+
+How Do I Calculate A Price To Earnings Ratio?
+
+The formula for P/E is:
+
+Price to Earnings Ratio = Price per Share (in the reporting currency) ÷ Earnings per Share (EPS)
+
+Or for China New Town Development:
+
+P/E of 7.71 = CNY0.16 (Note: this is the share price in the reporting currency, namely, CNY ) ÷ CNY0.02 (Based on the trailing twelve months to June 2019.)
+
+Is A High P/E Ratio Good?
+
+The higher the P/E ratio, the higher the price tag of a business, relative to its trailing earnings. That isn't a good or a bad thing on its own, but a high P/E means that buyers have a higher opinion of the business's prospects, relative to stocks with a lower P/E.
+
+Does China New Town Development Have A Relatively High Or Low P/E For Its Industry?
+
+The P/E ratio essentially measures market expectations of a company. The image below shows that China New Town Development has a higher P/E than the average (7.1) P/E for companies in the real estate industry.
+
+SEHK:1278 Price Estimation Relative to Market, January 17th 2020 More
+
+China New Town Development's P/E tells us that market participants think the company will perform better than its industry peers, going forward. Clearly the market expects growth, but it isn't guaranteed. So investors should always consider the P/E ratio alongside other factors, such as whether company directors have been buying shares.
+
+How Growth Rates Impact P/E Ratios
+
+When earnings fall, the 'E' decreases, over time. That means even if the current P/E is low, it will increase over time if the share price stays flat. So while a stock may look cheap based on past earnings, it could be expensive based on future earnings.
+
+China New Town Development increased earnings per share by an impressive 12% over the last twelve months. In contrast, EPS has decreased by 2.9%, annually, over 3 years.
+
+Remember: P/E Ratios Don't Consider The Balance Sheet
+
+One drawback of using a P/E ratio is that it considers market capitalization, but not the balance sheet. Thus, the metric does not reflect cash or debt held by the company. Hypothetically, a company could reduce its future P/E ratio by spending its cash (or taking on debt) to achieve higher earnings.
+
+Such spending might be good or bad, overall, but the key point here is that you need to look at debt to understand the P/E ratio in context.
+
+Is Debt Impacting China New Town Development's P/E?
+
+China New Town Development has net cash of CN¥822m. This is fairly high at 52% of its market capitalization. That might mean balance sheet strength is important to the business, but should also help push the P/E a bit higher than it would otherwise be.
+
+The Bottom Line On China New Town Development's P/E Ratio
+
+China New Town Development's P/E is 7.7 which is below average (10.6) in the HK market. Not only should the net cash position reduce risk, but the recent growth has been impressive. The relatively low P/E ratio implies the market is pessimistic.

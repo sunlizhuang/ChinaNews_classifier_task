@@ -1,0 +1,73 @@
+White House tests its AI policy in the desert
+
+
+
+
+
+Quick Fix
+
+— Trump admin pitches its new AI approach: U.S. Chief Technology Officer Michael Kratsios took the stage at CES to walk through the administration’s light-touch approach to getting the private sector to build fair, transparent artificial intelligence systems.
+
+— Chao speaks out: Transportation Secretary Elaine Chao told your hosts that tech companies should be wary of spurning consumers’ expectations on privacy, security and safety — if they want to keep them. And she sees a role for regulators too.
+
+Advertisement
+
+— Q&A on Section 230: Jeff Kosseff, a top guru on one of the internet’s little-known but most important laws, predicts that changes to the statute are “inevitable.”
+
+GOOD WEDNESDAY FROM VEGAS, where your hosts have realized that smart CES strategy is fueling up in the morning, not counting on there being time between all the sessions and patrolling the exhibition halls to grab some lunch. Or dinner. Or snacks of any sort. (Oh, to be a robot.) If you haven't subscribed yet to our pop-up POLITICO newsletter live from CES, you can sign up here. You can also dip into CES firsthand via the conference's live video feed. Send Nancy and Cristiano your tips, questions and shortcuts between the Las Vegas Convention Center’s North and South Halls to nscola@politico.com and clima@politico.com or on Twitter @nancyscola and @viaCristiano.
+
+What's big at the big show
+
+WHITE HOUSE PITCHES CES ON ITS NEW AI APPROACH — Kratsios appeared onstage Wednesday morning to give the CES crowd the elevator version of the draft guidelines on artificial intelligence that the White House rolled out this week. The proposal instructs federal agencies to consider factors like fairness and transparency when writing regulations approving or governing AI-powered products, while avoiding “preemptive, burdensome or duplicative” regulations.
+
+— “We want to make sure that we have a regulatory system in the U.S. that encourages innovation in artificial intelligence, that doesn’t stifle it, but encourages it in a way that still respects the very important civil liberties and other concerns Americans hold dear,” explained Kratsios.
+
+— That sort of trickle-down approach is an easy sell among the industry-centric CES crowd. But Nancy caught up with deputy U.S. CTO Lynne Parker, an expert in AI, to get her read on how exactly the new rules would constrain the private sector’s building and deployment of AI. She said the key is that federal departments would have new leverage to shape innovation in the industries they regulate.
+
+— “Think about some sort of decision-making tool being used to make a decision as to whether somebody gets access to a mortgage loan,” said Parker. Under the administration’s approach, regulators could require a company using the tool “to demonstrate that they can explain how decisions are being made.”
+
+CHAO: TECH SHOULD BE WARY OF LOSING THE PUBLIC ON PRIVACY, SECURITY — Before taking the stage at CES this morning to debut the Transportation Department’s latest plan for autonomous vehicles, Chao spoke to Cristiano about how the government is approaching consumer worries about safety, privacy and security. Chao said regulators and private actors alike have a “responsibility” to “address these legitimate concerns.” And she warned innovators in Silicon Valley and beyond about the perils of losing the public’s trust.
+
+— “I have always challenged Silicon Valley, the developers, the innovators that they have got to share their enthusiasm and confidence in the new technologies that they are touting, because unless they bring along the American public and instill within them a confidence of all this new technology, their great ideas will not come to fruition,” she said during a phone interview. “Consumer acceptance will be the constraint to their growth.”
+
+— But why debut the new autonomous vehicle plan, which Chao described as a “road map” and “guidance document,” in the desert instead of D.C.? Chao said the venue is the perfect place “to capture the attention of this high-tech world.”
+
+SPOTTED AT CHAO’S SPEECH: U.S. Patent and Trademark Office director Andrei Iancu, hanging out by the door and appearing to be listening closely.
+
+SECTION 230 WONK SAYS CHANGES ARE ‘INEVITABLE’ — Jeff Kosseff, a cybersecurity law professor who has emerged as a leading expert on one of the internet’s most important laws, told us today that it’s only a matter of time until Congress amends the 1996 statute, Section 230 of the Communications Decency Act.
+
+— “I think that it’s inevitable that there’s going to be some sort of amendment to Section 230,” Kosseff told Cristiano, just prior to taking the stage to discuss his book on the law, “The Twenty-Six Words That Created the Internet.” (The law shields digital services from lawsuits over user-generated content and over any good faith efforts to take down noxious material. It has helped fuel the rise of platforms like Facebook and Twitter, among many others.)
+
+— The thing is, Kosseff said, nobody knows what changes might pick up steam in D.C. That’s in large part because lawmakers have many conflicting complaints about the online industry — Republicans say companies are taking down too much content, and restricting conservative speech in the process, while Democrats argue that the companies need to crack down on things like hate speech. “The criticism of 230 is so all over the place, it’s so scattered,” he said.
+
+— In a nod to his book title, we asked Kosseff to describe the debate in 26 words. His take: “Some critics say platforms don’t moderate enough. Some critics say platforms moderate too much. Platforms say little that is coherent. Section 230 hangs in the balance.”
+
+— Don’t expect the 230 issue to die down, predicted one official. “I think it’s going to be a live topic for a long time,” Rebecca Kelly Slaughter, a Democratic commissioner at the Federal Trade Commission, forecasted at a CES panel on Tuesday.
+
+Nancy Scola/POLITICO
+
+OOH, HUAWEI — China’s Huawei might be company non grata in Washington over concerns that its tech could be used to spy on or otherwise sabotage America’s telecommunications infrastructure. But at CES, Huawei’s a hot, hot gadget vendor. The company is a major presence in the convention center’s exhibition hall, where midday Wednesday, a crowd swarmed a demo of its Mate X, a phone that folds out into a sleek square tablet. A company floor rep told POLITICO the reception at CES has been “really great.” Also on prominent display: Huawei fitness trackers and in-home Wi-Fi routers.
+
+— And Huawei’s hardly the only Chinese company in the spotlight here. Others on the display floor include the Shenzhen TV maker Konka, the Sichuan consumer electronics company Changhong, and the Nanjing-based smart-car maker Byton.
+
+Nancy Scola/POLITICO
+
+AN UNLIKELY COVER MODEL — One sign that politics has really come to CES? The front of Wednesday’s “CES Daily” handed out by the thousands to attendees on Wednesday was a full-color shot of FCC chairman Ajit Pai. “‘Neutrality Working,’” it reads, in a nod to the Obama-era net neutrality rule that Pai and his agency repealed in 2017. “More Americans Connected Than Ever Before.” (A red splash banner notes, “PAI’S FIRST APPEARANCE AT CES.”)
+
+Protocol at CES
+
+Protocol's Janko Roettgers was at the launch of Quibi, the mobile video service from Jeffrey Katzenberg and Meg Whitman. It’s massively bankrolled, star-studded, and kind of a mashup of HBO, Snapchat, IGTV and Netflix, with all content lasting 10 minutes or less. The response among industry insiders? Analyst Matthew Ball said it best: "Right or wrong, it has an actual thesis versus just trying to do what Netflix does, but later to market, and with corporate IP."
+
+Will people pay $5 a month for this? At least initially, it almost doesn’t matter. When Quibi launches in April, T-Mobile will bundle it with most of its plans, guaranteeing millions of users and healthy initial revenue. “Quibi is the next big thing, and we are delighted to be a part of it,” said incoming T-Mobile CEO Mike Sievert.
+
+About that name: Before settling on Quibi — short for “quick bites” — Katzenberg briefly considered calling it Omakase. (Japanese for "I'll leave it up to you.") And the company's hybrid vertical landscape video tech is named Turnstyle. Here's hoping the shows are better than the names.
+
+While Quibi is making a splash, some of the CES old guard are scaling back. One source told us that in years, past Intel paid north of $5 million for its glitzy booths on the main floor; this year it rented out a restaurant for the week. Meanwhile Qualcomm, another huge-booth mainstay, has relegated itself to the automotive section of the convention center.
+
+Meanwhile, spotted at an Amazon party: Guy Fieri and Shaquille O'Neal, mixing a cocktail for the audience. And yes, the secret ingredient was BBQ sauce.
+
+Coming Attractions
+
+UP NEXT AT CES: We’re past the halfway mark of this year’s summit, but Thursday’s lineup is slated to delve into several policy topics largely unexplored at panels to this point, including antitrust concerns in the tech industry and the use of drones.
+
+On deck: “Should Big Tech be Broken Up?” including representatives from the Information Technology and Innovation Foundation, the Lincoln Network, the Mercatus Center and Public Knowledge; “Drones Making an Impact Globally,” featuring Jay Merkle of the Federal Aviation Administration; “Protecting Privacy and Security in an AI World,” with André Hentz and Melissa Oh of the Department of Homeland Security.

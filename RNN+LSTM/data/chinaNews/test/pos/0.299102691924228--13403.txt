@@ -1,0 +1,87 @@
+Gro Intelligence Terms of Service
+
+Please read these Terms of Service (collectively with Gro Intelligence’s , the “Terms of Service”) fully and carefully before using www.gro-intelligence.com (the “Site”) and the services, features, content or applications offered by Gro Intelligence, Inc. (“we”, “us” or “our”) (together with the Site, the “Services”). These Terms of Service set forth the legally binding terms and conditions for your use of the Site and the Services.
+
+1.
+
+a. By using the Services in any manner, including but not limited to visiting or browsing the Site, you agree to these Terms of Service and all other operating rules, policies and procedures that may be published from time to time on the Site by us, each of which is incorporated by reference and each of which may be updated from time to time without notice to you.
+
+2.
+
+a.. For purposes of these Terms of Service, the term “Content” includes, without limitation, information, data, text, photographs, videos, audio clips, written posts and comments, software, scripts, graphics, and interactive features generated, provided, or otherwise made available on or through the Services.
+
+b.. The Services may contain Content specifically provided by us or our partners and such Content is protected by copyrights, trademarks, service marks, patents, trade secrets or other proprietary rights and laws. You shall abide by and maintain all copyright notices, information, and restrictions contained in any Content accessed through the Services. Unless otherwise indicated, these Terms of Service and all Content provided by us are copyright © 2018 Gro Intelligence, Inc. All rights reserved.
+
+c.. Subject to these Terms of Service, we grant each user of the Services a worldwide, non-exclusive, non-sublicensable and non-transferable license to use (i.e., to download and display locally) Content solely for purposes of using the Services. Use, reproduction, modification, distribution or storage of any Content for other than purposes of using the Services is expressly prohibited without prior written permission from us. You shall not sell, license, rent, or otherwise use or exploit any Content for commercial use or in any way that violates any third party right.
+
+d.. We do not guarantee that any Content will be made available on the Site or through the Services. We reserve the right to, but do not have any obligation to, (i) remove, edit or modify any Content in our sole discretion, at any time, without notice to you and for any reason (including, but not limited to, upon receipt of claims or allegations from third parties or authorities relating to such Content or if we are concerned that you may have violated these Terms of Service), or for no reason at all and (ii) to remove or block any Content from the Services.
+
+3.
+
+a. As a condition of use, you represent, warrant and covenant not to use the Services for any purpose that is prohibited by these Terms of Service or applicable laws, rules and regulations applicable to you. You are responsible for all of your activity in connection with the Services.
+
+b. You shall not (directly or indirectly):
+
+i. take any action that imposes or may impose (as determined by us in our sole discretion) an unreasonable or disproportionately large load on our (or our third party providers’) infrastructure;
+
+ii. interfere or attempt to interfere with the proper working of the Services or any activities conducted on the Services;
+
+iii. bypass, circumvent or attempt to bypass or circumvent any measures we may use to prevent or restrict access to the Services (or other accounts, computer systems or networks connected to the Services);
+
+iv. use manual or automated software, devices, or other processes to “crawl” or “spider” any page of the Site;
+
+v. harvest or scrape any Content from the Services;
+
+vi. otherwise take any action in violation of our guidelines and policies;
+
+vii. decipher, decompile, disassemble, reverse engineer or otherwise attempt to derive any source code or underlying ideas or algorithms of any part of the Services (including without limitation any application), except to the limited extent applicable laws specifically prohibit such restriction;
+
+viii. modify, translate, or otherwise create derivative works of any part of the Services; or
+
+ix. copy, rent, lease, distribute, or otherwise transfer any of the rights that you receive hereunder.
+
+c. We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to:
+
+i. satisfy any applicable law, regulation, legal process or governmental request;
+
+ii. enforce these Terms of Service, including investigation of potential violations hereof;
+
+iii. detect, prevent, or otherwise address fraud, security or technical issues;
+
+iv. respond to user support requests; or
+
+v. protect the rights, property or safety of us, our users and the public.
+
+4.. The Services may permit you to link to other websites, services or resources on the Internet, and other websites, services or resources may contain links to the Services. When you access third party resources on the Internet, you do so at your own risk. These other resources are not under our control, and you acknowledge that we are not responsible or liable for the content, functions, accuracy, legality, appropriateness or any other aspect of such websites or resources. The inclusion of any such link does not imply our endorsement or any association between us and their operators. You further acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such website or resource.
+
+5.. We may terminate your access to all or any part of the Services at any time, with or without cause, with or without notice, effective immediately. All provisions of these Terms of Service which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+
+6.
+
+a. You release us from all liability for you having acquired or not acquired Content through the Services. We make no representations concerning any Content contained in or accessed through the Services, and we will not be responsible or liable for the accuracy, copyright compliance, or legality of material or Content contained in or accessed through the Services.
+
+b. THE SERVICES AND CONTENT ARE PROVIDED “AS IS”, “AS AVAILABLE” AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED. WE, AND OUR DIRECTORS, EMPLOYEES, AGENTS, SUPPLIERS, PARTNERS AND CONTENT PROVIDERS DO NOT WARRANT THAT: (I) THE SERVICES WILL BE SECURE OR AVAILABLE AT ANY PARTICULAR TIME OR LOCATION; (II) ANY DEFECTS OR ERRORS WILL BE CORRECTED; (III) ANY CONTENT AVAILABLE AT OR THROUGH THE SERVICES IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (IV) THE RESULTS OF USING THE SERVICES WILL MEET YOUR REQUIREMENTS.
+
+7.. IN NO EVENT SHALL WE, NOR OUR DIRECTORS, EMPLOYEES, AGENTS, PARTNERS, SUPPLIERS OR CONTENT PROVIDERS, BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL OR EQUITABLE THEORY WITH RESPECT TO THE SERVICES FOR ANY (I) LOST PROFITS, DATA LOSS, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, COMPENSATORY OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER, SUBSTITUTE GOODS OR SERVICES (HOWEVER ARISING), (II) BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE (REGARDLESS OF THE SOURCE OF ORIGINATION), OR (III) DIRECT DAMAGES IN EXCESS OF $50.00.
+
+8.. These Terms of Service shall be governed by and construed in accordance with the laws of the State of New York, including its conflicts of law rules, and the United States of America. You agree that any dispute arising from or relating to the subject matter of these Terms of Service shall be governed by the exclusive jurisdiction and venue of the state and Federal courts of New York County, New York.
+
+9.
+
+a.. We reserve the right, in our sole discretion, to modify or replace any of these Terms of Service, or change, suspend, or discontinue the Services at any time. Your continued use of the Services following notification of any changes to these Terms of Service constitutes acceptance of those changes.
+
+b.. These Terms of Service are the entire agreement between you and us with respect to the Services, including use of the Site, and supersede all prior or contemporaneous communications and proposals (whether oral, written or electronic) between you and us with respect to the Services. If any provision of these Terms of Service is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that these Terms of Service will otherwise remain in full force and effect and enforceable. The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder
+
+c.. We shall not be liable for any failure to perform our obligations hereunder where such failure results from any cause beyond our reasonable control, including, without limitation, mechanical, electronic or communications failure or degradation.
+
+d.. These Terms of Service are personal to you, and are not assignable, transferable or sublicensable by you except with our prior written consent. We may assign, transfer or delegate any of our rights and obligations hereunder without consent.
+
+e.. No agency, partnership, joint venture, or employment relationship is created as a result of these Terms of Service and neither party has any authority of any kind to bind the other in any respect.
+
+f.. Unless otherwise specified in these Term of Service, all notices under these Terms of Service will be in writing and will be deemed to have been duly given when received, if personally delivered or sent by certified or registered mail, return receipt requested; when receipt is electronically confirmed, if transmitted by facsimile or e-mail; or the day after it is sent, if sent for next day delivery by recognized overnight delivery service. Electronic notices should be sent to support@gro-intelligence.com
+
+g.. Our failure to enforce any part of these Terms of Service shall not constitute a waiver of our right to later enforce that or any other part of these Terms of Service. Waiver of compliance in any particular instance does not mean that we will waive compliance in the future. In order for any waiver of compliance with these Terms of Service to be binding, we must provide you with written notice of such waiver through one of our authorized representatives.
+
+h.. The section and paragraph headings in these Terms of Service are for convenience only and shall not affect their interpretation.
+
+. You may contact us at the following address: 1156 6th Ave, 7th Floor, New York, NY 10036.

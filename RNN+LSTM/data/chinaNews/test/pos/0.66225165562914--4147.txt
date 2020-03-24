@@ -1,0 +1,31 @@
+[SHANGHAI] China's Internet firms have fallen behind global peers in sourcing energy from clean, renewable sources, with soaring use of Internet data driving up energy demand and carbon emissions, environmental group Greenpeace said in a report on Thursday.
+
+As capacity rises rapidly, the Internet data sector could account for a third of total global power demand within two decades, putting tech giants in China and elsewhere under heavy pressure to find cleaner sources of electricity.
+
+But while some of China's tech firms are procuring clean energy through rooftop solar installations or via a pilot green power certificate scheme, most have failed to match the commitments made by overseas rivals, Greenpeace said.
+
+"Power consumption from China's Internet industry is skyrocketing, and it's imperative that Chinese Internet giants lead the sector to break away from its reliance on coal," said Ye Ruiqi, a Greenpeace climate and energy campaigner.
+
+In an evaluation of 15 major firms, Greenpeace said only one - the digital service provider Chindata - had pledged to deliver 100 per cent of its energy needs via renewable sources, matching long-term commitments made by global giants like Apple and Google.
+
+Stay updated with
+
+BT newsletters Terms & conditions Sign up
+
+Among companies heavily reliant on cloud computing, e-commerce giant Alibaba was ranked the best performer in Greenpeace's survey, which also looked at "government and industry influence" and data transparency, as well as emissions levels. Tencent was second, followed by Baidu and Huawei.
+
+Tencent was the only major firm to disclose energy consumption and carbon emission levels but it has "made almost no progress" on renewable energy procurement, Greenpeace said, while Huawei was the only firm to set emission reduction targets.
+
+Huawei already has its own solar plants at some facilities and has pledged to minimise power demand throughout its supply chain, a company spokesman said, adding that it was now working on new long-term emissions targets.
+
+An Alibaba Cloud spokesman said the company was "committed to making energy efficiency a core part of our technology", with the firm already using solar panels as well as smart heating and cooling systems at some data centres.
+
+Tencent and Baidu declined to comment on the survey.
+
+China's Internet data sector produced 99 million tonnes of CO2 in 2018 and consumed 161 terawatt-hours (TWh) of power, 2.35 per cent of the national total, a previous Greenpeace study showed, adding that 73 per cent of electricity used by the sector was supplied using coal.
+
+Power consumption from the sector was expected to reach 267 TWh by 2023, more than Australia's total electricity demand, it added.
+
+Chinese data centres, which consume significantly more power on average than in other countries, must bring energy consumption down to "advanced international levels" by 2022, according to government guidelines published last year.
+
+REUTERS

@@ -1,0 +1,39 @@
+Updated LG Electronics has withdrawn from the Mobile World Congress trade show, held at the end of this month, citing concerns over the new virulent and deadly coronavirus.
+
+“With the safety of its employees, partners and customers foremost in mind, LG has decided to withdraw from exhibiting and participating in MWC 2020 later this month in Barcelona, Spain,” the company said in a press release on Tuesday.
+
+“This decision removes the risk of exposing hundreds of LG employees to international travel which has already become more restrictive as the virus continues to spread across borders."
+
+The 2019 novel coronavirus epidemic has resulted in the deaths of more than 490 victims, with at least 23,000 officially confirmed infections. The vast majority of cases have occurred in China, where the virus was first identified. The death rate is, according to Beijing's numbers, about two per cent, and the vast majority of those killed over the age of 60 or already suffering other illnesses.
+
+The bio-nasty – which manifests primarily as a respiratory illness, and, in severe cases, can result in kidney failure – is transmitted through the vapor droplets produced by coughs and sneezes.
+
+Mobile World Congress is arguably the most important event in the telecommunications industry calendar. Each year, more than 100,000 people flock to Barcelona’s expansive Fira exhibition center from around the world, in order to demonstrate their latest wares. It attracts companies in all segments of the mobile industry, from individual handset handset makers, to coders and dongle designers, to those working on the infrastructure side of things.
+
+Earlier today, the GSMA, which organizes the annual shindig, announced that MWC 2020 will “proceed as planned.”
+
+In an attempt to reassure delegates and exhibitors, the GSMA pledged additional medical support at this year’s event, in addition to an education and sanitization program. It’s also encouraging attendees to adopt a “no-handshake policy.”
+
+LG’s absence at MWC will be keenly felt. The firm routinely uses the event to announce new products and comes at a time when LG is actively trying to revive interest in its handset business, which has declined in recent years in the face of competition from Apple and Samsung, as well as upstart rivals like OPPO and Xiaomi.
+
+In the press release, LG says it will hold separate events in the “near future” to announce its new mobile products.
+
+Shouldn't Uber freeze app accounts to prevent spread of coronavirus by drivers and fares? Oh, OK, it already is READ MORE
+
+The recent coronavirus strain promises to cause massive disruption to the tech industry, having already forced some factories to temporarily suspend production. In face of the virus, the Chinese government has extended the annual New Year holiday, which sees many urban-dwelling factory workers return to their rural hometowns.
+
+Meanwhile, this weekend, the US government announced strict new travel restrictions which will result in entry being refused to any foreign national who has visited China in the previous fourteen days.
+
+It’s not clear whether any other vendors will follow LG’s lead and withdraw from this year’s MWC convention, although ZTE has reportedly said it too won't be attending and we're checking other manufacturers. In the face of a virus that has already killed at least hundreds of people, and shows no sign of slowing down, many suppliers may choose to take the safer option and give this year’s event a miss.
+
+The Register has contacted the GSMA, LG Electronics, and ZTE for comment. If we hear back, we’ll update this article. ®
+
+Updated to add
+
+GMSA has sent us a statement:
+
+We have spoken to LG and regret not to see them at this year’s MWC20 Barcelona. As we stated yesterday, we can confirm that there is minimal impact on the event thus far and MWC Barcelona 24-27 February 2020, will proceed as planned.
+
+ZTE has made contact to confirm the Devices Press Conference has been cancelled but bizarrely, it will still cram its staff into an aircraft hanger with thousands of other MWC goers. Devices will be demonstrated at the ZTE booth as planned.
+
+Sponsored: Quit your addiction to storage

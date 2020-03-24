@@ -1,0 +1,47 @@
+Scientists have developed a bandage which helps diagnose bacterial infections by changing colour.
+
+The 'smart bandage' senses which bacteria are present in the body and releases medication to kill it in response.
+
+Researchers in China say their work could help pave the way for 'rational use' of antibiotics.
+
+Normally, antibiotics are dolled out as a precautionary measure until results come back, contributing to misuse.
+
+A colour-changing bandage which helps diagnose bacterial infections (stock)
+
+Test on mice with E.coli showed the bandage changed from green to yellow (top) when drug resistant bacteria were present. And when drug-resistant bacteria were present, the bandage turned red (bottom)
+
+Bacteria can naturally become resistant to antibiotics over time. However drugs' misuse in humans and animals is accelerating the process.
+
+Antibiotic resistance is one of the biggest threats to global health, with an estimated 700,000 deaths worldwide every year, according to The World Health Organisation (WHO).
+
+Official figures suggest 5,000 deaths are caused every year in the UK because antibiotics no longer work for some infections.
+
+Tools that help early detection of bacterial infections are essential for reducing 'guess work'.
+
+A team of scientists in China say each bacterial infection has a unique microenvironment of toxins, enzymes and pH level.
+
+WHAT IS ANTIBIOTIC RESISTANCE? Antibiotics have been doled out unnecessarily by GPs and hospital staff for decades, fueling once harmless bacteria to become superbugs. The World Health Organization (WHO) has previously warned if nothing is done the world is heading for a 'post-antibiotic' era. It claimed common infections, such as chlamydia, will become killers without immediate solutions to the growing crisis. Bacteria can become drug resistant when people take incorrect doses of antibiotics or if they are given out unnecessarily. Former chief medical officer Dame Sally Davies claimed in 2016 that the threat of antibiotic resistance is as severe as terrorism. Figures estimate that superbugs will kill 10 million people each year by 2050, with patients succumbing to once harmless bugs. Around 700,000 people already die yearly due to drug-resistant infections including tuberculosis (TB), HIV and malaria across the world. Concerns have repeatedly been raised that medicine will be taken back to the 'dark ages' if antibiotics are rendered ineffective in the coming years. In addition to existing drugs becoming less effective, there have only been one or two new antibiotics developed in the last 30 years. In September, the WHO warned antibiotics are 'running out' as a report found a 'serious lack' of new drugs in the development pipeline. Without antibiotics, C-sections, cancer treatments and hip replacements will become incredibly 'risky', it was said at the time.
+
+Dr Xiaogang Qu and colleagues at the Chinese Academy of Sciences developed a material which can assess microenvironments.
+
+The researchers incorporated the material into bandages and tested them on wounds in mice.
+
+The mice were infected with either drug-sensitive or drug-resistant Escherichia coli (E.coli) bacteria.
+
+In the case of drug-sensitive E.coli, the bandage changed from green to yellow and released an antibiotic that killed the microbes.
+
+And when drug-resistant bacteria were present, the bandage turned red after coming into contact with an enzyme specifically produced by the resistant microbes.
+
+When the bacteria were detected, the researchers exposed the bandage to light, causing the material to release a chemical that weakened the bacteria, making them more susceptible to medicine.
+
+The researchers say that sensing and treating bacterial infections quickly could help improve patients' recovery as well curb the spread of antibiotic-resistant microbes.
+
+Writing in the paper ACS Central Science, the authors note: 'Sensing bacterial infections and monitoring drug resistance are very important for the selection of treatment options.
+
+'This work develops a new way for the rational use of antibiotics.'
+
+The team see their bandages as a low-cost option to the 'common methods of sensing resistance'.
+
+Traditional methods are limited because they are time consuming and require expensive instruments.
+
+'Given the low cost and easy operation of this point-of-care device, it can be developed for practical applications,' the team said.

@@ -1,0 +1,112 @@
+China turns to AI, data in fight against virus
+
+
+
+By Eva XIAO
+
+
+
+Beijing (AFP) Feb 8, 2020
+
+
+
+A man who had travelled to Wuhan -- the central city at the heart of China's coronavirus crisis -- was surprised when police showed up at his door after he returned home, asking to check his temperature.
+
+The man, who had quarantined himself at home in Nanjing, eastern Jiangsu province, said he had not told anyone about his recent trip to the city.
+
+But by trawling through travel data from Wuhan, local authorities were able to identify him and dispatch officers to his home last week, according to a newspaper article posted by the Nanjing government.
+
+As Chinese authorities race to contain the spread of a new virus, which has infected more than 30,000 people and killed more than 600 in China, Beijing is turning to a familiar set of tools to find and prevent potential infections: data tracking and artificial intelligence.
+
+Several Chinese tech firms have developed apps to help people check if they have taken the same flight or train as confirmed virus patients, scraping data from lists published by state media.
+
+In Guangzhou, southern Guangdong province, robots at one public plaza have even been deployed to scold passersby who are not wearing masks, according to the state-run Global Times.
+
+And in Beijing, one neighbourhood committee responsible for an apartment complex of about 2,400 households said they used flight and train data to keep track of everyone's recent travel record.
+
+"Use big data technology to track, screen priority (cases), and effectively forecast the development of the epidemic in real time," China's National Health Commission (NHC) told local governments in an online statement Tuesday.
+
+"Strengthen the information link between... public security and transportation, and other departments," it said, urging them to share train, flight, communication, and medical data.
+
+- Fever tech -
+
+As Chinese authorities search for potential infections, a point of focus has been detecting fevers, a common symptom of the disease.
+
+While neighbourhoods and office buildings rely primarily on hand-held thermometers, public transport hubs are also trialling fever detection systems that use artificial intelligence and infrared cameras.
+
+In Beijing, a system developed by Chinese search giant Baidu screens travellers at the Qinghe railway station using infrared and face detection technology, which automatically photographs each person's face.
+
+If someone has a body temperature of 37.3 degrees Celsius (99 degrees Fahrenheit) or above, the system sets off an alarm -- prompting a secondary check by station staff.
+
+On Thursday, railway personnel, clutching red-and-white megaphones, ordered passengers arriving from northern Shanxi province to slow down as they passed by Baidu's system.
+
+According to the company, its system can check more than 200 people a minute, far faster than the thermal scanners used at airports.
+
+Megvii, an AI firm that was blacklisted by the US in October over alleged rights abuses, has developed a similar system, which is currently being used at a subway station in Beijing.
+
+"Having a team of nearly 100 people working together remotely from home hasn't been easy," said a spokesperson at Megvii in an emailed statement.
+
+"All of them are working around the clock during Lunar New Year public holidays," said the company, adding that the team had to optimise its models to "effectively detect temperature with only the forehead exposed."
+
+- Five million travellers -
+
+Besides fever detection, Chinese tech firms have raced to develop a wide variety of services to help with epidemic control efforts, from preparing drone deliveries of medical supplies to mapping the spread of the virus from Wuhan.
+
+Although the city has been under effective quarantine since January 23, some five million travellers left Wuhan during the Lunar New Year festival, according to the city mayor -- galvanising a nationwide search for recent Wuhan visitors.
+
+Still, the majority of tracking carried out by local authorities in China requires a lot of manpower, though some are entering data online to help with registration, especially as residents return after the holiday.
+
+In Beijing, some neighbourhoods are prompting residents to scan a QR code to fill out personal details, such as their phone number and hometown address.
+
+One form also prompted participants to fill out details on their mode of transport, such as their licence plate or flight number, if they had travelled.
+
+It also asked if they had "recently" visited central Hubei province -- where Wuhan is located -- or come into contact with anyone from the hard-hit region.
+
+
+
+Related Links
+
+Epidemics on Earth - Bird Flu, HIV/AIDS, Ebola
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Beijing (AFP) Feb 7, 2020
+

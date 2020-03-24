@@ -1,0 +1,33 @@
+Sign up to FREE email alerts from Daily Star - Daily News Subscribe Thank you for subscribing See our privacy notice Invalid Email
+
+China is using a network of cameras powered by artificial intelligence to find the latest victims of coronavirus.
+
+The Chinese Ministry of Industry has urged AI firms to help combat the virus outbreak by using the technology to detect anyone with a fever.
+
+Tech companies have revealed how their unique systems are able to scan the streets to detect fever-riddled citizens - even if they are wearing a mask.
+
+Facial recognition specialists Megvii claim their new “AI temperature measurement system” uses thermal cameras to spot a fever by using body and face data to identify individuals.
+
+Meanwhile rival firm SenseTime says they can identify people wearing face masks.
+
+It comes after video emerged of Chinese drones reportedly using thermal imaging drones to track down victims.
+
+(Image: Barcroft Media via Getty Images)
+
+Another company says their technology is able to detect fevers to an accuracy of just 3 degrees C.
+
+Zhu Jianmsheng from the China Academy of Railway Sciences explained how technology will be used to identify infected people on trains.
+
+He said: “We will retrieve relevant information about the passenger, including the train number carriage number and information on passengers who were close to the person, such as people sitting three rows of seats before and after the person.
+
+“We will extract the information and then provide it to relevant epidemic prevention departments.”
+
+Epidemiologist Li Lanjuan said: “In the era of big data and internet, the flow of each person can be clearly seen.
+
+(Image: PETER DASILVA/EPA-EFE/REX)
+
+“With such new technologies, we should make full use of them to find the source of infection and contain the source of infection.”
+
+Other technologies introduced to tackle the outbreak include mobile apps that can let people know if they shared any transportation with infected passengers, and maps that can identify where people with Coronavirus live.
+
+If someone with the killer virus boards a train in China, their “real name” system - which requires citizens to link all online accounts to their official government ID - is able to identify people sitting nearby.

@@ -1,0 +1,27 @@
+A light-driven rotary micromotor has been demonstrated by scientists from the Faculty of Physics of the University of Warsaw, in collaboration with researchers from Poland and China. They achieved this by using liquid crystal elastomer technology.
+
+Photo of the 5.5 mm diameter micromotor rotor made of specially oriented polymer film, on a pencil tip. Image Credit: UW Physics, Piotr Wasylczyk.
+
+The 5-mm diameter ring, powered and manipulated by a laser beam, has the ability to rotate and carry out work, for example, by rotating another element mounted on the same axis.
+
+Although the rotational movement is extremely rare in nature, it is omnipresent in human civilization. Although it is possible to build a wide range of rotary motors, they are often made of several elements, rendering them difficult to miniaturize.
+
+But there is a class of materials that allow the development of small, moving, and/or mobile devices called liquid crystal elastomers (LCE). The focus of studies on these materials is mainly over the design of LCE shape and its modification upon illuminated by laser (for example, bending and shrinking).
+
+Liquid crystal elastomers are intelligent materials that can change their shape in a fast, macroscopic, and reversible manner under various stimuli, such as illumination with visible light. They can be prepared in different forms in the micro- and millimeter scales and, through molecular orientation engineering, they can carry out intricate modes of actuation.
+
+At present, researchers at the University of Warsaw in collaboration with researchers from the Department of Mathematical Sciences at Xi’an Jiaotong-Liverpool University in Suzhou, China; Institute of Applied Physics at Military University of Technology in Warsaw; and Centre of Polymer and Carbon Materials of Polish Academy of Science in Zabrze, Poland, have created a micromotor that rotates by virtue of the moving deformation of the soft material, induced by the laser beam and its interaction with the ground.
+
+The rotor—which is the main part—is a 5-mm ring. Suitable design of the arrangement of the elastomer molecules ensures stable performance of the micromotor or can increase the rotation speed.
+
+Despite low speed, around one rotation per minute, our motor allows us to look at the micromechanics of intelligent soft materials from a different perspective and gives food for thought when it comes to their potential use. Dr Klaudia Dradrach, Photonic Nanostructure Facility, Faculty of Physics, University of Warsaw
+
+The design of the motor has been prompted by ring piezoelectric motors, usually found in autofocus mechanisms of photographic lenses.
+
+The contribution of researchers from the Polish Academy of Sciences in Zabrze and the Military University of Technology was vital to the creation of the reproducible fabrication method for making LCE miniature components. Specifically, young researchers, including Mikołaj Rogóż and Przemysław Grabowski, PhD students from the Faculty of Physics of the University of Warsaw, contributed to the study.
+
+According to scientists who have already demonstrated a light-driven snail robot that moves similar to its natural relatives, integration of new smart materials with sophisticated fabrication methods will enable them to develop further miniature components and drives.
+
+Studies on polymer actuators and soft microrobots is financially supported by the National Science Center (Poland) within the project “Micro-scale actuators based on photo-responsive polymers,” by the Polish Ministry of Science and Higher Education with “Diamentowy Grant” awarded to M. Rogóż, Ministry of National Defense (Poland), and Xi’an Jiaotong-Liverpool University funds.
+
+Source: https://www.fuw.edu.pl/

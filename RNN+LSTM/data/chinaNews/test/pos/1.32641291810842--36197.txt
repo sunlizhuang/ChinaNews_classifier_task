@@ -1,0 +1,83 @@
+Taken together, cell and gene therapy could be called Philadelphia’s signature industry, and soon it may have its signature project.
+
+Courtesy of The Discovery Labs
+
+A rendering of the Center for Breakthrough Medicines, a cell and gene therapy manufacturing facility at The Discovery Labs in King of Prussia, Pa.
+
+On Jan. 23, The Discovery Labs announced it will soon build a $1.1B, 680K SF contract development and manufacturing facility within its 1.6M SF campus in King of Prussia, as part of a joint venture with New York-based Deerfield Management. This Center for Breakthrough Medicines would take up the majority of the 1M SF former GlaxoSmithKline lab and manufacturing complex at 411 Swedeland Road that is part of Discovery Labs.
+
+It will employ 2,000 people and become easily the largest contract development and manufacturing organization in the world.
+
+Though industry consensus is that cell and gene therapy needs more manufacturing capability to keep growing and to speed up crucial development timelines, multiple sources told Bisnow that the Discovery Labs’ plan for CBM might be too ambitious in scale, price and timeline.
+
+An unprecedented price tag for investors
+
+Currently, the title for the largest cell and gene therapy manufacturing facility is held by Lonza, which opened a 300K SF building in the Houston suburb of Pearland, Texas, in 2018. Lonza says it employs over 200 full-time staffers at the facility. In the Philadelphia region, the only CDMO of any size is Wuxi AppTec’s 287K SF complex at the Philadelphia Navy Yard. The new facility in King of Prussia has much larger ambitions.
+
+“[CBM] would service the world,” Discovery Labs Executive Managing Director Audrey Greenberg said. “What’s great about the King of Prussia location and the region, not just from the perspective of talent, is we’re very close to Europe on the East Coast. So we’ll be able to supply viral vectors and plasmids to much of the U.S., Europe and possibly even Asia Pacific, South America and the Middle East.”
+
+Discovery Labs co-founder Brian O’Neill, who also owns development firm MLP Ventures, is putting up initial funding for CBM, with some help from Deerfield and additional investors to join in later, Greenberg said. If O’Neill needs to raise even half of the $1.1B price tag from outside investors, he may have a hard time finding anybody willing to put up the requisite cash.
+
+Both Greenberg and Jim Daly, a project director for biotech architecture and design firm CRB specializing in cell and gene therapy, believe that the pool of potential investors for the fledgling industry is deep and actively searching for deals.
+
+“I am amazed at the amount of capital that is behind so many companies, some of which didn’t exist a year ago,” Daly said. “[But] that’s a pretty rich number to try to get folks to step up for.”
+
+Courtesy of DIGSAU
+
+A rendering of Iovance Biotherapeutics' lab, office and cell therapy manufacturing facility at the Philadelphia Navy Yard.
+
+Raising funds is “the hardest part” about bringing a manufacturing facility online, whether a CDMO or a company’s own build-to-suit, Gattuso Development Partners President John Gattuso said. Gattuso is developing a 136K SF build-to-suit lab and manufacturing facility in the Navy Yard for Iovance Biotherapeutics. Until that is ready, Iovance contracts its production to Wuxi.
+
+Amicus Therapeutics, which recently took space at uCity Square in University City, contracts with Wuxi, Daly said. Spark Therapeutics, the darling of Philadelphia’s gene therapy scene for getting multiple therapies FDA-approved, contracts out its manufacturing as well.
+
+The University of Pennsylvania and Children’s Hospital of Philadelphia, the academic birthplace of Philly’s gene and cell therapy startups, both have their own production needs met on campus, Daly said.
+
+Before a company's therapy gets Food and Drug Administration approval, it relies on venture capital investment and grants to fund its research and development. Having a facility that can service many of them fills a gap in the market, Gattuso said, but a 680K SF facility may be considered too large to depend on non-revenue producers.
+
+“If you just think about how to finance a large facility filled with nothing but early, noncredit companies, it’s hard to imagine," Gattuso said.
+
+Meeting the specific needs of a new, niche industry
+
+Gene and cell therapy have material needs that require specialized manufacturing at every stage, from early research to commercial production for patients. Currently, no single contract facility has the manufacturing capability to meet those needs “from bench to bedside,” Greenberg said.
+
+To research and develop new gene therapies, labs need plasmids (simple, circular strands of DNA) and viral vectors (benign containers for introducing new genes in a body) for every stage. Once a therapy is developed and can be used in clinical trials and eventually distributed to patients, then a company needs to effectively reproduce the finished product. All of these processes need to be done in highly sterilized “clean room” environments that are more complex and expensive than even most lab environments.
+
+At full build-out, CBM is set to contain 36 suites for cell therapy processing, 10 for the production of plasmids, 20 for the production of viral vectors, and 20 for testing, process development and cell banking (or the storage of live cells needed for future batches). The suites will have a modular design so they can adapt to a changing client base and future advancements in production.
+
+Courtesy of The Discovery Labs
+
+A partial rendering of The Discovery Labs, MLP Ventures' planned biotech and life sciences coworking community in the Philadelphia suburb of King of Prussia.
+
+Cell and gene therapy are both at such an early stage until some of those advancements come to pass, it is prohibitively expensive for a company to scale up to the point where it can fill and afford its own dedicated facility. Gene therapy can be produced in batches that can be only so large before the cell lines break down, and cell therapy is still dependent on autologous treatment, which means that each iteration only can serve one patient.
+
+Those challenges and costs associated with project size are exactly what CBM is hoping to address, but multiple sources agreed that if a company has the resources, it will virtually always prefer to have its own facility to better control both the manufacturing process and its intellectual property.
+
+“Once you get to a certain scale, we see a strong desire on the part of certain firms to really control their own environment and be in their own building,” Gattuso said. “It’s not just having the facility available, it’s about who controls that facility and how the IP is handled inside the facility.”
+
+Greenberg estimates there is five times more demand than supply for manufacturing in the gene and cell therapy industries nationwide, and that in three years that could explode to 5,000% more demand than supply. Multiple sources in the industry agree that there is a substantial bottleneck in procuring the plasmids and viral vectors needed for even the early phases of research, but beyond that it is an unsettled issue.
+
+The uncertain next steps
+
+Though more than 200 "investigational new drug" permits have been issued in the past couple of years by the FDA, those only fast-track the clinical testing of methods for treating diseases and conditions so rare that few, if any, alternatives exist for sufferers.
+
+Since two gene therapies and one cell therapy were fully approved by the FDA in 2017, only three more have gained approval since, Dark Horse Consulting founder Anthony Davies said at the Phacilitate conference in Miami on Jan. 22, according to BioProcess International. The first approved cell therapy, made by Novartis, has been halted by the FDA for manufacturing issues for over a year, Davies said.
+
+Courtesy of The Discovery Labs
+
+An interior rendering of gene and cell therapy hub The Discovery Labs in King of Prussia, Pa.
+
+That frustration doesn't dampen CBM's prospects, as even therapies that will eventually fail need manufacturing capability. But if startups stuck in limbo between their earliest phases and full commercialization are in CBM's sweet spot, then a breakthrough that opens the floodgates could lead to those same companies instead opting for their own space, Daly said.
+
+“Part of the reason we’re seeing the bottleneck is in the supply side, and that would suggest that this is only a temporary phenomenon," Daly said. "As the Iovances of the world start to build out and manufacture their own plasmids and vectors, that demand will wane. That side’s not super complicated or difficult; it’s more about what they’re prioritizing now.”
+
+Discovery Labs is in the design phase for CBM as of the end of January, but expects to begin gutting and renovating the former GSK facility within the next three months and bringing its first suites online by the end of this year. Greenberg estimates the first phase to open will amount to 50K to 75K SF of clean room space and about 100K SF for testing and development, which will require about 175 to 200 employees to staff.
+
+Even working with a pre-existing facility that has many of the specialized needs for gene and cell therapy manufacturing, CBM's timeline of less than a year stretches credibility, multiple sources told Bisnow. Meeting the high standards for sterilization and IP protection is an exacting process that requires construction labor more specialized than for the average office building, though Gattuso said Philadelphia is maybe the best market in the country for finding that specific labor.
+
+Staffing the building once operational will be an even taller task; sources estimate that training and getting clean room certification for technicians could take months on its own. The Discovery Labs hopes to address that by opening up its own training school, the Science University of Experiential Learning, within its grounds, but that won't be ready for that first wave of employees CBM will need by year's end.
+
+Because of how much success Penn and CHOP have had in producing talent for gene and cell therapy production, the Philadelphia region makes sense as a place to try building something unprecedented. But despite the area's pride and optimism in its burgeoning industry's growth potential, CBM may be too much, too soon.
+
+CORRECTION, JAN. 30, 2:49 P.M. ET: An earlier version of this story said CBM will not be producing its own intellectual property. According to a spokesperson, it will be developing its own IP in the form of proprietary cell lines, processes, know-how and trade secrets related to manufacturing and platform processes. The center may also have patents from pending acquisitions.
+
+CORRECTION, JAN. 31, 9:46 A.M. ET: A quote from Greenberg has been updated to reflect her estimation demand will be 5,000% higher than supply, not explode to 5,000 times more demand than supply.

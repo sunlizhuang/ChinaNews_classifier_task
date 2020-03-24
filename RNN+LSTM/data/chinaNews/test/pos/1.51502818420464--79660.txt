@@ -1,0 +1,27 @@
+This story was delivered to Business Insider Intelligence Payments & Commerce subscribers earlier this morning.
+
+To get this story plus others to your inbox each day, hours before they're published on Business Insider, click here.
+
+The card network is collaborating with transport organizations to potentially authenticate consumers based on their face or gait, per MarketWatch.
+
+Business Insider Intelligence
+
+Once a system identified a consumer through one of these methods, they'd be allowed to pass a barrier and would be charged via an account they'd set up previously. Facial recognition is already being used for transit payments in parts of China, but tracking the unique way a person walks may be a more novel biometric authentication option.
+
+The card network appears to be interested in a variety of potential biometric identifiers with use cases that could expand well beyond transit.
+
+Mastercard is reportedly looking at echocardiogram and vein patterns as ways to identify consumers. Additionally, how consumers hold their phones and how their fingers touch a phone's buttons is unique to a consumer, CEO Ajay Bhalla said in an interview with MarketWatch. All of these different details could help payments companies build a full biometric profile of consumers so they can confidently use the information to authenticate transactions.
+
+Bhalla also mentioned that a consumer "could wear a band around their wrist that measures the pulse" that constantly authenticates them, and such technology could bring biometric authentication to all kinds of purchases rather than just transit payments.
+
+Biometric identifiers like the ones Mastercard is considering could be a valuable tool for fighting fraud and should also help limit friction as transactions begin to require multiple forms of authentication.
+
+Merchants are increasingly concerned about fraud across channels, and biometric authentication could help address the problem if providers can overcome consumers' worries about biometrics. Sixty-six percent of US merchants surveyed in 2019 by American Express agreed they were vulnerable to payments fraud via point-of-sale (POS) payments, up from 55% in 2018.
+
+And the situation may be worse online, as 82% of merchants felt they were vulnerable through mobile transactions and 79% said the same for transactions on their websites. Biometric details like pulse, facial recognition, and fingerprints should be difficult for hackers to mimic, especially all at once, so employing authentication methods that use this information could lower fraud and endear Mastercard to merchants — but only if the card network can convince consumers to adopt biometric payment processes despite potential concerns about the security of their information.
+
+Requirements for more complicated authentication are on the way and could frustrate consumers, but passive biometric readings like pulse tracking could help mitigate the issue. Strong Customer Authentication (SCA) requirements, which make consumers provide two out of three specific elements to authenticate transactions, will go into effect in most of the EU at the end of the year.
+
+This could lead to consumers regularly having to take multiple steps to authenticate transactions. However, because biometrics can count as an element for authentication, if merchants can collect that information through cameras or wearables they can lessen the work a consumer needs to do. So, merchants may be eager to work with firms like Mastercard as they develop new biometric identification options.
+
+Want to read more stories like this one? Here's how to get access:

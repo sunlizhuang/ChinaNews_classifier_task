@@ -1,0 +1,67 @@
+Alternative work models have been a topic of much discussion within many professions. Architecture isn’t any different. With talks of 4 day work weeks, addressing burnout, and providing healthy flexibility for modern professionals to navigate their personal lives, alternative ways of working are pushing to the forefront of workplace discussions. What about working remotely? It may seem to be an impossibility in this fast-paced and demanding profession, but Boston-based Saam Architecture has been running strong for years on a remote work model, operating under an ideology they’ve called radical flexibility. Archinect had the pleasure to connect with Principal and Co-founder of Saam, Diana Nicklaus to discuss her team’s unique operational structure, the challenges that come with it, and how radical flexibility can augment the way design professionals work together.
+
+What inspired you to start your own architecture firm?
+
+My partner, Koos Louw, and I had been working at an employee-owned firm that was acquired by a large publicly-owned E/A company. Our team had a great culture - we were like a family. After being acquired, it was clear that there were other company goals and objectives that made it difficult to maintain our culture. We also wanted to represent a firm that was not so sector-driven, allowing us to work on a wide variety of project types.
+
+Your approach to work is highly unique in the field of architecture. Can you talk about Saam’s remote work model?
+
+When we founded Saam, we wanted to maintain the ability to work remotely. While we had this tool at the previous company, we knew we wanted to take the model to a new level. In setting up our office, we invested in large-screen laptops and a VPN-enabled server that allowed any team member the ability to work remotely. For us, remote work is one of the tools that provides a level playing field for employees to pursue their personal goals alongside their professional goals. Based on trust, strong communication skills, and coordination of team schedules, our view of office versus remote work time means that people are not penalized if they are in the office less than others. Our team is committed to helping one another maintain ownership of their work, regardless of location.
+
+Many believe that remote work in architecture isn’t possible. How would you respond to this assumption?
+
+I would challenge that assumption for many reasons. So many other team-based professions have incorporated remote models successfully, and there are great lessons to be learned from those. Our own profession requires that we leave the office for many reasons, be it construction administration tasks, client/consultant meetings, colocation, travel for remote clients...most of us manage to stay in touch with our offices and are equipped with the technology to do so.
+
+Have you faced any challenges as a firm leader with a team that’s entirely remote?
+
+To clarify, our team is not entirely remote. We enable everyone to work remotely, but we maintain an office in Boston. It is furnished much like a traditional architecture studio with a finishes library and space to build physical models. The majority of the staff comes in on Mondays for a team meeting, and coordinates schedules for the rest of the week – we typically see roughly 1/3 of the office space full for the remainder of the week. With that said, there are certainly challenges to the remote work model. At times, we face small technical challenges like VPN dysfunction and employees with slower at-home internet connections. One of the larger challenges is in hiring junior staff. We have recognized that these individuals must have exceptional communication skills, be very willing to ask questions through different channels and to execute tasks independently. As a result, we make an effort to provide more active mentorship when teams are in the physical office. When important conversations happen in the office, we routinely connect the remote team member(s) to maintain inclusivity.
+
+Image courtesy of Saam Architecture.
+
+If someone wanted to transition their team to a remote working model, what characteristics would you say are crucial to have?
+
+As I mentioned above, there must be a strong sense of mutual trust amongst every member on the team, as well as consistent communication. We rely on our commitment to being in the office on Mondays as a way to collectively connect and collaborate in person. Some type of plan for face-to-face time is an important piece for the success of any model – keeping in mind this type of meeting could also be located at a Starbucks or gathering at a coworking space.
+
+What kinds of tools does your team use to facilitate work in various locations?
+
+The technology we use to accomplish remote collaboration is fairly standard: Slack, GoToMeeting, ToDoist, Microsoft, Adobe, Bluebeam, Revit Server, and at times, BIM 360. Our team uses their personal cell phones as business phones so that colleagues and clients can reach us at any time.
+
+Saam boasts unlimited vacation. Doesn’t this get taken advantage of?
+
+We really have not felt abuse of the unlimited vacation policy. The reality is, we have all learned to blend our personal and professional worlds through the use of smartphones. Employees are able to be on vacation and remain connected to their clients and committed to their work, should they so choose. We witness two employees who annually practice this methodology and travel to China and Spain for three weeks each year, Saam laptop in hand. Setting aside dedicated family and vacation time while away, they are readily available and able to handle any project related “emergencies” from abroad. In general, with our team’s strong communication and work/life balance skills, each member works to support the other in being able to take vacation time of their choice, regardless of the duration.
+
+How does time off work? Can employees customize their daily schedules?
+
+We practice what we call “radical flexibility.” Provided that they first meet their client and team obligations, communicate their schedule to their colleagues and do good work, radical flexibility means that one can work on any day of the week and customize their hours as they would like. We have observed that individuals experience their best working hours during different times of the day, and we like people to capitalize on that. Our studio is made up of early-birds, night-owls, city and suburban dwellers – many of whom complete their work at atypical hours. Many of us commute at off-hours in order to increase valuable work or personal time (which is also more sustainable). Our studio also includes some 32-hour/week employees who spread their hours across the week in a way that supports both the clients’ and their personal goals.
+
+Provided that they first meet their client and team obligations, communicate their schedule to their colleagues and do good work, radical flexibility means that one can work on any day of the week and customize their hours
+
+In support of radical flexibility, we not only share our calendars, but we also use a shared office calendar where staff post if they are out for a morning, if they are working from home, or taking a vacation. After many external inquiries about how this degree of flexibility works, we performed a study to track how staff hours actually fall in a day. It was surprising how the majority of the team did most of their work between 8 and 5, even with access to such broad flexibility.
+
+Diana Nicklaus. Image courtesy of Saam Architecture.
+
+How can leadership keep track of productivity if staff isn’t in the office? Where is the accountability?
+
+Because our profession is deliverable-based, it is clear if individuals are not getting their work done. Employee accountability is directly linked to communication. We remain in touch and establish awareness early on, tracking who owns which portions of the work. It is our experience that team members who have the ability to work remotely are often more productive. We often see people adjust their schedules during the day for personal commitments and then jump back into work later in the day - with the flexibility of doing so from any location.
+
+Because our profession is deliverable-based, it is clear if individuals are not getting their work done. Employee accountability is directly linked to communication
+
+It seems that trust is a large part of a remote working model. How are your hiring decisions influenced leading Saam in comparison to your past experience in more traditionally run firms?
+
+We really have not changed our hiring approach from that of our previous firm. As we did there, we spend a lot of time describing how our model works and specifically mention that flexibility is only effective if it “works both ways”. This means that if we need a team member to attend a meeting or be present for collaboration, they are required to have back-up for personal commitments in order to satisfy the project demands.
+
+Additionally and as discussed above, hiring young people requires more discussion around communication skills.
+
+Has Saam’s work model influenced employee retention and satisfaction?
+
+Definitely. We have recruited team members from some of Boston’s largest and most prestigious firms, often because they felt their professional options were limited in those environments due to personal reasons. Naturally, staff appreciates the ability to work remotely and the flexibility that we have built into our practice, which they know is difficult to find elsewhere. We feel a strong spirit of mutual support and inclusivity based on low hierarchy, which is also difficult to find elsewhere.
+
+How do project teams collaborate with one another?
+
+In addition to being present weekly for the Monday meetings, teams often plan other days of the week as present team-based collaboration days. Depending on deliverables, this can mean that two to three other days a week are spent present in the office. We use the remote collaboration tool GoToMeeting quite frequently, as we are able to share drawings and active screens, use sketching tools, and see one another’s work. Slack has also been a great tool for our culture. We have dedicated project channels and group chats to support our remote collaboration.
+
+Isn’t it hard to service clients when everyone is working remotely?
+
+We get asked this question a lot. Because we have a physical office, team members are present when they are required to finalize deliverables, such as models, drawings sets, presentations, and proposals. Again, we all support each other as needed to accomplish these tasks.
+
+Clients can find all of our cell phone numbers directly on our website, and are made aware that they can call or text us at any time. We have open discussions with our clients about how we work because clients themselves often have alternative schedule needs, both professional and personal. We feel that we are better equipped to service them.

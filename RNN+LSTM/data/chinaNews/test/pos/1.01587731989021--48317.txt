@@ -1,0 +1,87 @@
+Late last year, SunPower announced it would be spinning off its high-efficiency manufacturing business into a new company, Maxeon Solar Technologies. Maxeon products have historically led the industry as the world’s highest-efficiency solar modules.
+
+Tianjin Zhonghuan Semiconductor (TZS), one of the world’s largest silicon wafer makers, is pouring $298 million into Maxeon Solar.
+
+pv magazine spoke with the SunPower brain trust: CEO Tom Werner, EVP of Corporate Strategy and Business Development Peter Aschenbrenner, and the new CEO of Maxeon, Jeff Waters, about this massive change in the company’s structure and strategy. In this, part 1 of the interview, Werner covers the drivers of integrating and disintegrating a solar company and SunPower’s move into energy storage.
+
+This interview has been edited and condensed.
+
+pv magazine: As a reporter, I’ve covered SunPower for more than ten years. But the SunPower of 2010 is a very different beast from the 2020 SunPower. Can you talk about the transformation and where you are today?
+
+Tom Werner: I was attracted to the solar industry back in 2003 for a number of reasons. At the time, the global solar industry was about two gigawatts, and three, four or five bucks a watt — and I thought it was a good industry.
+
+Today, it’s 130 gigawatts – the market is 65-times as big.
+
+As an industry gets bigger, there’s specialization in the value chain — Clayton Christensen wrote in The Innovator’s Dilemma and in The Innovator’s Solution about why you vertically integrate and why you disintegrate as an industry gets bigger. [Editors’ note: News of business consultant Clayton Christensen’s death came a few hours after this interview.]
+
+You have more standardization of parts in the value chain – and when you can write the spec — then you have specialization. We didn’t have that when the industry was two gigawatts.
+
+When Dr. Swanson created our high efficiency module, the market responded and said, “Wow, that’s unique. That’s hard. Maybe you shouldn’t get a premium. Maybe we should get a discount because this is going to be difficult for us.”
+
+That’s how fragmentation and a lack of scale showed up back then. So — we vertically integrated.
+
+pv magazine: It forced you to vertically integrate.
+
+Tom Werner: Let’s say it motivated us to vertical integration. We moved from the cell to the module to the components system and vertically integrated in the channels.
+
+As the market get 65 times as big, you have massive polysilicon producers, you have huge cell producers. But downstream, it was kind of anomalous to be vertically integrated.
+
+I don’t believe there are any other vertically integrated solar companies — First Solar, maybe, although they’re rumored to be getting out of development. So, we’re an anomaly being vertically integrated — and several years ago we realized that the financial performance of the company isn’t what we’d like it to be.
+
+We concluded that we needed to split into two companies.
+
+The upstream company would need to sell its product 100% to the open market and get whatever price they could get — and the downstream company would have to differentiate on more than just the module. We can create an intense focus by splitting into two companies — and that’s consistent with a very large market that’s standardizing.
+
+Investors on the upstream side had said, “That’s a far east game and I’m a western investor – so, no thank you.” The far east has different investment criteria and is more willing to invest through downturns, more willing to scale at all costs. A western investor doesn’t want to put that kind of capital to work.
+
+And so, by splitting, we get pools of capital that could be attracted to those two businesses that are unique — the Chinese partner that’s investing in upstream. And now that we’re in the process or creating a pure downstream play, there are inbound calls – from western money that likes that cash-generating business model.
+
+The other thing we found, counter-intuitively, was that we could have more efficient overhead. You’d think you could scale your overhead across two entities, and you have one accounting department, one tax department – and it would cost less. But we found that you had this corporate entity on top of these businesses that would want more people and had its own needs, and instead of being a service, it started to be its own department, its own company.
+
+We took those central functions, put them in the business, and suddenly you’re closer to your end customer, you’re closer to your P&L and suddenly, maybe we can make do with a few less people or implement a productivity improvement faster.
+
+I think we have the opportunity to create two top-tier No 1 or No. 2 companies in those parts of the value chain.
+
+When we do split — Jeff Waters will be the CEO of Maxeon and I’ll be the CEO of new SunPower.
+
+Energy storage as a service
+
+pv magazine: Marco Mangelsdorf, a solar installer in Hawaii, said 70% of new solar customers are requesting storage — up from 60% last year. Where does the new SunPower stand on energy storage?
+
+Tom Werner: It’s our belief that most solar systems will have storage — and it’s not that far away.
+
+At SunPower commercial, one in three customers has storage. In residential, you have Marco’s data point, and you have Sunrun, to their credit, with attach rates of 40-plus-percent in California.
+
+Combine that with PG&E’s Planned Safety Power Shutoff — turning off your power, along with the cost of storage coming down.
+
+pv magazine: Solar installer Barry Cinnamon said that PG&E was doing the best marketing job for solar-plus-storage that any marketing department could possibly be doing.
+
+Tom Werner: Exactly. We think storage being 100% attached or close to it is inevitable – so, being a leader in storage and services is required.
+
+I’m focused on how we create a solar energy-as-a-service company. That opportunity to focus on one vision really unleashes a ton of energy and new thinking.
+
+We’re converting from a hardware orientation to a software orientation. We’re still a technology company, but a software technology company. Our Equinox storage solution will back up more load than the competitors. It will have all the comms in one box so we can monitor the solar system and monitor battery health.
+
+That’s rev one. What we’d like to do is a soft configure in the summer to back-up, say, my air conditioning. And then back-up my refrigerator or whatever might be critically needed in the winter.
+
+In software we’d like to be the Amazon of residential solar, where you can design your system online, hit “buy,” and it just happens.
+
+pv magazine: But rooftops are a hard thing to tame. Every house is different and comes with complicated roofs.
+
+Tom Werner: Or trees grow and shade the roof.
+
+But we do have better software that does machine learning, so that every time you do a design, humans correct it, and the software learns. The more we design, the better it’s going to be.
+
+pv magazine: In terms of battery sourcing, there’s already a lithium ion battery infrastructure and supply chain — you just have to spec, select, and second-source vendors. Is that the way it goes? Or do you intend on buying a battery company anytime soon?
+
+Tom Werner: We’re not going to be the hardware guy. We’re the software guy, we’re the software interface to the customer and to the grid. We don’t even want to do battery management software. We think of services. We think about the future of energy-as-a-service.
+
+Imagine how important resiliency is today in California. Micro-grids in the Northeast. This is becoming policy. If you have a well-oriented house and a lot of roof space, you could overproduce. Can you monetize that?
+
+So we think of services as O&M, asset management — and then another group of services — how do we optimize the customer’s bill? That could be rate arbitrage or in a commercial case — demand charge. And then of course grid services, such as frequency control.
+
+It’s what we’ve talked about for many years — it makes sense to produce energy where you use it. And it makes sense that it would be intelligent and easily optimized. The new SunPower will focus exclusively on accomplishing that.
+
+***
+
+Part 2 of this interview, scheduled for later this week, covers the intricacies of Maxeon Solar’s manufacturing and sales operation.

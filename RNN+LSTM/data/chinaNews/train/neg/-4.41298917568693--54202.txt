@@ -1,0 +1,63 @@
+The World Health Organisation (WHO) has declared a global emergency after a new coronavirus causing severe lung disease emerged in the Chinese city of Wuhan and began to spread across the country and internationally.
+
+The new addition to the coronavirus family causes a fever, followed by a dry cough and shortness of breath. Only one in five cases are thought to be severe and generally healthy people can expect to make a full recovery from infection, but the elderly and immunocompromised may not be so fortunate. Nearly 500 people have died in China since the initial outbreak of the disease in December, which has been codenamed 2019-nCoV.
+
+Confirmed cases of 2019-nCoV have now bypassed 24,000.
+
+The new virus is moderately infectious, with each infected person expected to pass it onto two or three other people. As such, the main way to prevent people who have become infected from spreading the virus to others involves limiting their movement and treating them in isolation.
+
+As such, many patients suspected to have 2019-nCoV have been placed under quarantine to minimise the spread of the disease. China has taken the decision to restrict travel in and out of cities in Hubei province, of which Wuhan is the capital.
+
+
+
+Access to quarantined patients
+
+Doctors in the US have been using a telehealth machine to treat the first person in the country admitted to hospital with 2019-nCoV. The man is currently being held in a specially designed two-bed isolated area at Providence Regional Medical Center in Washington.
+
+The room was set up five years ago during the Ebola crisis, but this is the first time it’s ever been used. It is away from other units at the hospital and even has a separate air filter. There is only one entry point for the unit which is guarded by security officers and visitors are required to wear full-body protection including a controlled air purifying respirator helmet.
+
+To what extent do you think a lack of widespread access to diagnostic testing has exacerbated the spread of Covid-19 (coronavirus)? Greatly exacerbated spread
+
+Somewhat exacerbated spread
+
+Not a significant factor in spread
+
+Not sure View Results
+
+Loading ... Loading ...
+
+Using a robot equipped with a camera, microphone and stethoscope, the patient has been able to consult with clinicians without coming into direct contact with them.
+
+Providence Regional Medical Center chief of infectious diseases Dr George Diaz told CNN: “The nursing staff in the room move the robot around so we can see the patient in the screen, talk to him.”
+
+This isn’t the only robot that’s being used to interact with quarantined people. A hotel in Hangzhou is being used to isolate more than 300 people suspected to have the virus, and has been using a robot to deliver food to their bedrooms. The hotel guests were on the same flight as travellers from Wuhan, and will remain in the hotel for two weeks as a precautionary measure.
+
+Multiple food delivery robots have been deployed on all 16 stories of the hotel.
+
+Likewise in Guangzhou City, at the Guangdong Provincial People’s Hospital, autonomous delivery robots are being used to transport drugs around the hospital. The robots are loaded up with medicines and given instructions of where in the hospital to go to, and then head to their destination unaided. They’re able to open and close doors and take the lift without any human assistance.
+
+One robot is able to carry out the delivery tasks of three people, making the entire drug delivery process faster and reducing the risk of clinical staff contracting 2019-nCoV and spreading it throughout the hospital.
+
+Keeping it clean
+
+As well helping to minimise the potential spread of infection, robotics are being used for disinfection purposes.
+
+Xenex robots, which are manufactured in San Antonio, use pulsed xenon ultraviolet-C (UVC) light to wipe out pathogens. The company says its devices are currently being used to clean hospital rooms where there have been suspected cases of the new coronavirus. The robot can clean a room in as little as five minutes.
+
+Speaking to Forbes, Xenex spokesperson Melinda Hart said: “Our science team has been on the phone non-stop with hospitals to discuss protocols for disinfecting rooms and areas where suspect patients have been and are being treated. We’ve also been in contact with government contacts in China and the US to explore how quickly we could export robots to China.”
+
+Meanwhile LA-based Dimer UVC Innovations, which has developed a germ-killing robot designed to sanitise aeroplanes, has offered its services to three US airports to address the coronavirus outbreak.
+
+Known as GermFalcon, the robot also uses UVC light to kill viruses and bacteria. It’s designed to be pushed down the aisle of an aeroplane and has wings which hang over the seats to expose all surfaces to the light. GermFalcon is now being used at the Los Angeles International Airport, San Francisco International Airport and John F. Kennedy International Airport as part of their emergency response efforts.
+
+Is this all worth it?
+
+Noble though these efforts are, there’s a chance they might not all be entirely necessary. Many of the people quarantined, such as those in the Hangzhou hotel, aren’t displaying symptoms of the disease.
+
+The jury’s still out on whether 2019-nCoV can spread before a patient is symptomatic. Previous epidemic coronaviruses like severe acute respiratory syndrome (SARS) could not be spread by a carrier of the disease before they began to feel unwell. However, a woman from Shanghai on a business trip to Germany is believed to have passed the disease onto her European colleagues, despite not becoming ill until she was on her flight home.
+
+Even if the coronavirus can be spread by people with no symptoms, who may be infected for two to 14 days before they start to feel sick, people who are sneezing and coughing are far more likely to spread the disease. Quarantining people for weeks on end who may not be ill, and going so far as to have a robot deliver their meals, may be a recipe for social tension.
+
+Additionally, the US Centers for Disease Control and Prevention (CDC) note that health workers interacting with 2019-nCoV patients should be able to protect themselves with a gown, gloves, eye protection and an N95 face mask. Isolating patients within hospitals makes perfect sense, but the risk of a clinician contracting coronavirus is minimal and casts Guangdong Provincial People’s Hospital’s drug delivery robots in a slightly different light. Technology can be lifesaving, but its overuse can breed fear and misunderstanding among patients and clinicians alike.
+
+Robots are flashy and advanced, and if they can help contribute to stopping a global outbreak of a serious disease then their contributions should be welcomed. But doubling down on practices like handwashing, and reinforcing the importance of clear international communication, will be more important to stopping 2019-nCoV’s spread than all the UVC light in the world.

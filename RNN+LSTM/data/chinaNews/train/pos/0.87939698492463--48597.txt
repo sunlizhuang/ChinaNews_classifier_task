@@ -1,0 +1,75 @@
+The information you need to start your day, from PaymentsSource and around the web:
+
+Going national
+
+Starbucks has added nearly three dozen cities to its UberEats delivery program, a partnership that initially began in Miami in 2018 as part of the coffee chain's return to delivery after an earlier test with Postmates.
+
+The UberEats expansion will give Starbucks delivery nearly full national coverage, reports Food on Demand , an industry news site.
+
+Starbucks has also launched delivery in the U.K. and Asian markets.
+
+Square deal
+
+UPS will support fulfillment for Square's online store for merchants, giving sellers a venue to ship supplies.
+
+It's a service that could be particularly useful for Square's strategy to be a supply chain source for its small business clientele.
+
+Square has expanded its online store, adding products in the U.K., and spent $365 million in 2018 to acquire Weebly , a deal designed to accelerate Square's menu of business products beyond payment acceptance.
+
+Rideshare battle
+
+Indian ride sharing firm Ola plans to launch in London this month, providing a fresh market for its product and geographic expansion, as Ola adds a payment card and new financial services, and draws millions in new investment from VCs.
+
+Ola hopes to gain share from Uber and Grab while avoiding some of the pitfalls ride-sharing companies face, reports TechCrunch . Ola has publicized its safety and security features in the U.K., where Uber has faced rampant regulatory challenges.
+
+Ride-sharing apps have been adding new services to generate new revenue sources while taking advantage of their large bases of users with enrolled payment credentials. Ola is already live in other U.K. cities such as Birmingham and provided more than 3 million rides in those cities in the year it's been live, TechCrunch reports.
+
+Smart window
+
+The Nationwide Building Society is testing a poster that allows contactless charitable payments.
+
+Called a "smart window," the posters support a card tap to send funds to Julian House, a U.K. charity for the homeless.
+
+iZettle has deployed similar technology in the U.K., and has found cashless donations have increased overall charitable giving.
+
+Less controversy
+
+Facebook's faced a lot of bad headlines, ranging from partners bailing out of its Libra project to security challenges . But it is making progress on some fronts.
+
+WhatsApp Pay should be available across all of India within the next six months, reports Entrepreneur , adding Facebook will offer the product to businesses and direct to consumers, using national rails like India's United Payment Interface to add scale.
+
+WhatsApp Pay should boost UPI's already fast-growing volume.
+
+From the Web
+
+Most Japan consumers to continue cashless payments when rebate program ends: survey
+
+THE JAPAN TIMES | Sun February 2, 2020
+
+Over 86 percent of Japanese consumers plan to continue making cashless purchases even after the government’s points-based rebate system concludes in June, a recent study by a Tokyo-based marketing research company has shown. The Japanese government implemented the reward program for cashless payments to encourage consumption and cushion the negative effects of its two-point sales tax hike to 10 percent last October.
+
+The Cashless Revolution Is Happening—in Asia
+
+PCMAG | Fri January 31, 2020
+
+According to the 2019 World Payments Report, the number of non-cash transaction from 2016 to 2017 shot up 32 percent in Asian countries compared with other regions around the world. Europe increased by just 7.5 percent and North America by only 5 percent, with the Middle East, Africa, and Latin America far behind.
+
+FBI warns of new online threat to personal, credit card information
+
+CNBC | Sat February 1, 2020
+
+Federal authorities have a consumer warning for shoppers. Hidden skimming devices (commonly thought to be attached to gas station pumps and ATMs) have gone high-tech: a new type of skimming called Magecart is being used by cybercriminals to gain access to your personal and credit card information in a number of ways. They can break into a web server directly or break into a common server that supports many online shopping websites to compromise them all and once a site has been compromised, the shopper can’t spot the difference.
+
+More from PaymentsSource
+
+What 'Google Checking' means for community banks
+
+What Google ultimately does with its Google Checking service for banks will have a major effect on how mobile payments at all levels — from point of sale, to e-commerce, P2P and bill pay — will move forward.
+
+JCB, Oceanpayment partner for cross-border e-commerce payments
+
+Oceanpayment, a payment service provider launched six years ago in Shenzhen, China that specializes in global online e-commerce transactions, has agreed to provide merchant acquiring services for JCB, Japan’s top credit card brand.
+
+Google to change payment API in Chrome iOS
+
+The World Wide Web Consortium pushed for an answer two years ago to the mounting problem of mobile and online payment fraud in its release of the Payment Request API, designed to secure the exchange of payment requests and verifications on browsers.

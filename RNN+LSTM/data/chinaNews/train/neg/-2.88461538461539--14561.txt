@@ -1,0 +1,25 @@
+Article
+
+Author: Financial Times
+
+“Chinese companies get to grips with tougher ESG disclosures”, 14 January 2020
+
+The ethical investment trend that has swept the developed world is making its mark in China, where authorities are urging companies to say more about their environmental, social and governance (ESG) risks. The effort is in keeping with President Xi Jinping’s call for the development of “green finance”, including the mandatory release of environmental data…
+
+That could be a struggle for companies, some of which have already objected to early moves from Hong Kong’s stock exchange, saying such reports are a waste of time. But analysts say some kind of standardisation is essential. For now, they say, the quality of information is uneven, making it hard for investors with an ESG mandate to make judgments on suitability… Hong Kong made the first move… requiring that, from fiscal years starting in July 2020, all exchange-listed companies produce a statement setting out the board’s consideration of ESG risks, as well as how it determines what ESG matters are material to the business. That materiality assessment is significant, according to Morgan Stanley analysts, because it is likely to force executives to fully integrate such disclosures into their business strategy “instead of merely a box-ticking requirement”.
+
+The stock exchanges of Shanghai and Shenzhen are expected to follow Hong Kong’s lead this year, and require all issuers to increase ESG disclosures. The China Securities Regulatory Commission (CSRC) has announced such a plan, but has yet to provide details for the more than 3,000 companies affected…
+
+… In 2013, the Hong Kong Stock Exchange recommended ESG reporting and three years later, the CSRC required heavily-polluting companies to disclose certain information on their environmental impacts. But some issuers appear to have provided that information through gritted teeth. In its response to the Hong Kong Stock Exchange’s ESG proposal, conglomerate CK Hutchison, which has assets spanning retail, ports, oil and telecoms, said many of its individual shareholders “view such reporting as wasting company resources”. One company that chose to remain anonymous said it worried that its board would be “overloaded” by the requirement. Another said that consideration of ESG matters was “common sense” for a management team, and that mandatory disclosure would not “motivate companies to improve”.
+
+Even under the gentler rules, reporting has been patchy. When Morgan Stanley analysts dug into disclosures from Guangdong Electric Power Development, a coal-dependent power provider, they found that the information offered was incomplete and inconsistent. In a November report, the analysts noted that the company “used to disclose some of the key environmental data, but then changed to qualitative description of the implementation and targets from 2017”. Guangdong Electric could not be reached for comment.
+
+Issuers of bonds, too, are under some pressure to tighten standards. China has embraced the trend for “green bonds” — whose proceeds are supposed to be used to fund environmentally-friendly projects…
+
+But some foreign investors remain wary. In the third quarter of 2019, only 40 per cent of green bonds from Chinese issuers were in line with international norms on the use of proceeds, according to the Climate Bonds Initiative, a London-based non-profit organisation…
+
+James Donald, a managing director and head of emerging markets at Lazard, said it might be tough for some companies to make convincing ESG arguments to investors, given that the nation relies so heavily on coal. Still, he added, the government “appears to be aware that ESG has suddenly become an enormously important issue”.
+
+[Also referred to SynTao Green Finance, China Asset Management and BNP Paribas Asset Management]
+
+Read the full post here

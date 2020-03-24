@@ -1,0 +1,13 @@
+KUDO announces integration with Microsoft Teams KUDO’s mission is to make meetings more accessible, on every level. The integration with Teams is a major push forward in that direction.
+
+KUDO, a cloud-based platform for multilingual meetings with real-time language interpretation, just announced its integration to Microsoft’s collaboration hub. As a result, enterprise clients relying on Microsoft Teams will now have the ability to join multilingual meetings and participate fully while speaking their own language.
+
+The new integration makes meetings more diverse and efficient by removing the language barrier. KUDO accommodates an unlimited number of languages into any meeting, with users being free to select the one they want to listen in –and speak—at the click of a tap. It also offers support to the deaf and those who are hearing impaired, by superimposing the video of a sign language interpreter straight on the users’ computer or smartphone. All done on-demand, and through a Teams Tab accessible within Microsoft Teams AppSource.
+
+Teams users will have access to a roster of over 1,300 KUDO Certified interpreters spanning virtually every language and time zones around the world. The multilingual platform is also optimized for users in mainland China, and it has been successfully vetted against a vast array of security provisions and compliance program.
+
+The new integration has many benefits for end-users. the integration signals an important milestone towards a bigger goal: Inclusion. “KUDO’s mission is to make meetings more accessible, on every level. The integration with Teams is a major push forward in that direction.” Adds Fardad Zabetian, Founder and CEO of KUDO ‘KUDO meetings, with live translation, will make it easy for multinational partners on Microsoft Teams to reach out to global co-workers and partners’
+
+About KUDO
+
+KUDO is a cloud-based solution for multilingual business collaboration. It allows you to meet more effectively across geographic and language barriers. KUDO streams real-time language interpretation to your meetings and live conferences, so everyone can use their own language. Participants can join through their own computers or smart devices. Speakers, attendees and interpreters can be in the room or half a world across. More info http://www.kudoway.com

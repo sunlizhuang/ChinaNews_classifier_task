@@ -1,0 +1,145 @@
+Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley. If you don't already, be sure to sign up for our newsletter with this LINK.
+
+Welcome! Follow the cyber team, Maggie Miller (@magmill95), and the tech team, Emily Birnbaum (@birnbaum_e) and Chris Mills Rodrigo (@chrisismills).
+
+ADVERTISEMENT
+
+UNDER PRESSURE: The Department of Justice, backed by President Trump Donald John TrumpTrump to award Medal of Freedom to golfers Annika Sorenstam and Gary Player Democratic senator requests classified briefing ahead of Burisma-related subpoena vote Poll finds both Republicans and Democrats describe Trump as 'self-centered' MORE and a cohort of bipartisan lawmakers, is turning up the heat on Apple as the U.S. government presses the tech giant to unlock the phones of the Pensacola, Fla., shooter authorities say was a terrorist.
+
+The clash comes as top U.S. officials, including Attorney General William Barr William Pelham BarrSurveillance deal elusive as deadline looms Vulnerable Republicans dodge questions on support for ObamaCare lawsuit Hillicon Valley: Barr offers principles to prevent online child exploitation | Facebook removes misleading Trump census ads | House passes bill banning TSA use of TikTok MORE, have been pushing large tech companies to give law enforcement special access to private devices, like cellphones and computers, amid criminal investigations.
+
+Barr has been beating the drum against Big Tech for months, arguing the companies are kneecapping vital criminal investigations as they insist on keeping their devices locked down. But the tech industry sees Barr -- alongside Republican and Democratic allies -- as unfairly seizing on the Pensacola investigation to bring the issue to the forefront again.
+
+Trump jumps in: In a tweet on Tuesday, Trump lashed out at Apple, knocking the company for refusing to unlock phones "used by killers" after the company declined to unlock devices used by the gunman at last month's shooting.
+
+"We are helping Apple all of the time on TRADE and so many other issues, and yet they refuse to unlock phones used by killers, drug dealers and other violent criminal elements," Trump tweeted Tuesday evening, echoing comments made earlier in the week by Barr.
+
+During a press conference on Monday, Barr accused Apple of failing to provide "substantial assistance" to the FBI in its investigation of the Pensacola shooting, which killed three U.S. Navy sailors and injured eight more in early December. He said investigators have determined it was an "act of terrorism."
+
+Apple's response: Apple has pushed back against Barr’s assessment of the situation, pointing out the company already turned over reams of data about the shooter to the government, including “iCloud backups, account information and transactional data for multiple accounts.”
+
+ADVERTISEMENT
+
+Apple said it has been assisting with the FBI’s investigation since December but that it only received a subpoena related to information on the shooter’s second phone on Jan. 8, “which we responded to within hours.”
+
+Read more here.
+
+LEAVING HUAWEI OUT OF IT: Treasury Secretary Steven Mnuchin Steven Terner MnuchinOn The Money: Coronavirus threatens record stretch of job growth | US added 273K jobs in February before outbreak fears | Kudlow floats 'targeted' economic relief | IRS taps new fraud enforcement chief New documents show Trump Organization has charged Secret Service 8,000 since 2017 The Hill's Morning Report - Presented by the APTA - Biden riding high as Sanders laments Super Tuesday MORE said that negotiations between the U.S. and China over issues around telecommunications giant Huawei are "ongoing," stressing the Chinese company will not be used as a "chess piece" in the trade deal that was signed Wednesday.
+
+"I don't view Huawei as a chess piece," Mnuchin said during an interview on CNBC's "Squawk Box." "What I do think, and we have said this repeatedly across the administration: our national security issues are our primary concern. So, when it comes to our government networks, when it comes to sophisticated business networks, military networks and networks of all of our allies, we want to make sure that those networks are fully secure."
+
+Mnuchin's comments came hours before U.S. officials signed a "phase one" trade deal with China. A second deal, addressing issues such as cybersecurity and tech – including potentially Huawei – is still to come.
+
+"Huawei is not part of the economic dialogue, it is part of the national security dialogue, which is ongoing," Mnuchin told CNBC. "These are going to be negotiated separately."
+
+Federal concerns around Huawei have built over the past year, as the Trump administration and bipartisan members of Congress have taken steps against the telecommunications company, which is one of the largest telecom product manufacturers in the world.
+
+Read more here.
+
+To read more on the trade deal signing, click here.
+
+GUESS WHO'S BACK, BACK AGAIN: Congressional Democrats are raising fresh concerns about 2020 election security following a report this week that Russian military officers hacked Burisma Holdings, the Ukrainian gas company at the center of President Trump's impeachment.
+
+Several Democratic lawmakers are viewing the incident, reported by The New York Times on Monday night, as the first major sign that Moscow is gearing up for a repeat of its 2016 election interference. They cited what they call similarities between the Burisma attack and the Democratic National Committee hack four years ago.
+
+Sen. Gary Peters Gary Charles PetersDemocratic senator requests classified briefing ahead of Burisma-related subpoena vote Romney to vote for Burisma subpoena McConnell on Burisma, Biden probe: 'I think it's worth taking a look at' MORE (Mich.), the top Democrat on the Senate Homeland Security Committee, said the hack confirmed that Russia will be back to interfere in U.S. elections this year.
+
+"The Russians are actively engaged in hacking all sorts of sites and businesses, and I am sure there was a political motivation behind it. We know the Russians are going to be actively involved in trying to cause problems in the 2020 election, and this is just a further confirmation of their active involvement in American politics," Peters told The Hill.
+
+House Homeland Security Committee Chairman Bennie Thompson Bennie Gordon ThompsonMini-Super Tuesday: Where Biden and Sanders stand in polls 'Easy access' to Biden allowed protester to rush stage at rally Secret Service pushes back on 'categorically false' accusations questioning preparation to protect candidates MORE (D-Miss.) said the latest Kremlin-backed cyberattack spells trouble for Election Day.
+
+"The 2020 election is likely to be the most consequential election in modern American history, and I am alarmed by new reports that Russia recently hacked into the Ukrainian gas company at the center of the impeachment trial, as well as Russia's plans to once again meddle in our elections and in our democracy," Thompson said in a statement.
+
+Rep. Adam Schiff Adam Bennett SchiffSurveillance deal elusive as deadline looms Could America's diplomats function under President Sanders? Dems unlikely to subpoena Bolton MORE (D-Calif.), the chairman of the House Intelligence Committee, tweeted that Russians "appear to be at it again."
+
+Read more here.
+
+QUESTIONS ABOUT IRANIAN CYBER THREATS: The Democratic leaders of the House Energy and Commerce Committee on Wednesday requested briefings from two key federal agencies on efforts to secure the nation's telecommunications against potential Iranian cyberattacks, as another House committee also put the spotlight on Iranian cyber threats.
+
+ADVERTISEMENT
+
+House Energy and Commerce Committee Chairman Frank Pallone (D-N.J.) and Rep. Mike Doyle Michael (Mike) F. DoyleBottom Line Hillicon Valley: Trump turns up heat on Apple over gunman's phone | Mnuchin says Huawei won't be 'chess piece' in trade talks | Dems seek briefing on Iranian cyber threats | Buttigieg loses cyber chief House Democrats request briefings on Iranian cyber threats from DHS, FCC MORE (D-Pa.), the chair of the subcommittee on communications and technology, sent letters to the Department of Homeland Security (DHS) and the Federal Communications Commission (FCC) asking for briefings on what steps have been taken to "warn telecommunications providers of potential cyberattacks on critical communications networks and how the providers should prepare for and defend against such attacks."
+
+Congressional concern over potential cyberattacks from Iran have spiked this month after President Trump ordered the targeting and killing Iranian Gen. Qassem Soleimani.
+
+Iran is widely regarded to be among the most dangerous threats to the U.S. in cyberspace alongside Russia, North Korea, and China. According to the most recent Worldwide Threat Assessment put out by former Director of National Intelligence Daniel Coats, Iran has the ability to cause "temporary disruptive effects" on U.S. infrastructure through a cyberattack.
+
+DHS issued a bulletin last week warning of Iran's ability to attack the U.S. in cyberspace, and separately sent a bulletin to law enforcement in conjunction with the FBI noting their belief that Iran would attempt to target the U.S. through a cyberattack.
+
+Read more here.
+
+MAYOR PETE LOSES CYBER CHIEF: The top cybersecurity official on former South Bend, Ind., Mayor Pete Buttigieg Pete ButtigiegSanders's brother: 'Bernard is Trump's nightmare' The 'No Super PAC' oath is dead Biden, Sanders set for key battle in Michigan MORE's presidential campaign has resigned.
+
+ADVERTISEMENT
+
+Mick Baccio, who served as Buttigieg's chief information security officer, told the news outlet CyberScoop that he left the campaign earlier this month due to "fundamental philosophical differences with the campaign management regarding the architecture and scope of the information security program."
+
+Baccio's resignation comes amid renewed concerns of foreign interference in the 2020 U.S. elections. Just this week, The New York Times reported that Russian military officials hacked the Ukrainian gas company at the center of President Trump's impeachment proceedings.
+
+Baccio, a former cyber official in the Obama administration, was hired by Buttigieg's campaign last summer to help protect it from hackers and other online threats. The hire made Buttigieg's campaign the first to bring on a full-time staff member to oversee cybersecurity.
+
+Baccio did not elaborate on the disagreements that led to his resignation when reached by The Hill. A spokesperson for Buttigieg confirmed that he had resigned and said that the campaign had retained a new security firm.
+
+Read more here.
+
+GOOD NEWS FOR CAMPAIGNS: California-based security company Cloudflare announced Wednesday that it will offer free cybersecurity assistance to U.S. political campaigns and others around the world as concerns mount about the potential for increased cyber threats against campaigns in 2020.
+
+The new "Cloudflare for Campaigns" program will offer free cybersecurity services including firewall protection and and internal data management for campaigns. It will also assist staffers with access to internal systems from accidentally being exposed to malware and other viruses.
+
+"Given the increase and sophistication of foreign election interference efforts, there is a clear need to help campaigns improve the security of not only their websites and other public-facing assets, but also their internal data security systems and teams," Matthew Prince, co-founder and CEO of Cloudflare, said in a statement. "This is our way of providing best practices and no-brainer solutions to not only large campaigns, but also smaller, but equally important campaigns that may have limited resources."
+
+In order to provide cyber assistance to campaigns, Cloudflare is collaborating with the nonprofit group Defending Digital Campaigns (DDC), which was approved by the Federal Election Commission (FEC) last year to provide free cybersecurity assistance to federal campaigns and national party committees.
+
+At the time that the DDC was approved to provide cybersecurity services, FEC Chairwoman Ellen Weintraub wrote in the opinion that the request was approved due to the "current threat of foreign cyberattacks" posing a "highly unusual and serious threat."
+
+Read more here.
+
+#NEVERWARREN TRENDS: A spat between Sen. Bernie Sanders Bernie SandersJane Fonda endorses Sanders Virginia lawmakers pass lowest insulin price cap in nation at a month Durbin endorses Biden: He 'can start to heal the wounds of this divided nation' MORE (I-Vt.) and Sen. Elizabeth Warren Elizabeth WarrenHillicon Valley: Harris presses Facebook over census misinformation | Austin cancels SXSW over coronavirus fears | Surveillance deal elusive as deadline nears | FTC sends warnings to Cardi B, other influencers Krystal Ball and Saagar Enjeti: Elizabeth Warren still aggrieved about mean Bernie bros Mini-Super Tuesday: Where Biden and Sanders stand in polls MORE (D-Mass.) over whether Sanders said he believed a woman could not be elected president spilled on to Twitter after Tuesday's Democratic primary debate in Iowa, causing the hashtag #NeverWarren to trend in the top three on Twitter in the United States.
+
+The trending topic comes after Sanders and Warren publicly disagreed over whether Sanders had made the remark that a woman could not win the White House in a private meeting with Warren in December 2018. Sanders vehemently denied that he made the statement, while Warren stuck to her claim that the exchange occurred.
+
+Following the debate, Sanders supporters lambasted Warren on social media over the claim.
+
+Supporters of Warren and others who simply called for Democratic Party unity piled on to the hashtag Wednesday morning as it trended, urging Democrats to agree to support whomever is the eventual nominee.
+
+Read more here.
+
+ROBOCALLS ON THE RISE: Roughly 58.5 billion robocalls were made in the U.S. last year, according to new research, marking a 22 percent increase from 2018.
+
+YouMail, a company that provides a service to block robocalls, estimated that the average American received 178.3 robocalls during the year.
+
+"We've now had well over 100 billion robocalls in the past two years," YouMail CEO Alex Quilici said in a statement. "It's no wonder that an anti-robocall bill passed Congress overwhelmingly and was signed by the President on December 31, 2019."
+
+President Trump in late December signed a bill aimed at reducing the number of robocalls made in the U.S., an issue that had united both chambers and both parties in Congress.
+
+The Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence (TRACED) Act requires phone companies to block robocalls without charging customers anything extra and mandates most carriers in the U.S. to ensure that calls are coming from real numbers. It also grants government regulators increased authority to find and punish scammers, which could include fines of up to $10,000 per call.
+
+Read more here.
+
+GOODBYE GRINDR: Twitter suspended Grindr from its ad network on Tuesday after a study alleged that the world's most popular gay dating app shared personal data with marketing partners without notifying users.
+
+A spokesperson from the social media network confirmed to The Hill that it is "currently investigating this issue to understand the sufficiency of Grindr's consent mechanism."
+
+While that investigation unfolds, Grindr's account on the Twitter ad inventory manager MoPub will be disabled, according to the spokesperson.
+
+Grindr was one of 10 dating and health apps singled out in a report from the Norwegian Consumer Council, a government-funded nonprofit organization in Oslo. The report alleges that the apps shared user data in a way that violates privacy laws, including the European Union's General Data Protection Regulation (GDPR).
+
+Companies can be fined up to 4 percent of their yearly revenue for violations of the GDPR.
+
+The report alleges that Grindr transmitted data on its more than three million users – including IP addresses, gender, age and location data – to more than a dozen companies, including MoPub.
+
+Read more here.
+
+A LIGHTER CLICK: No comment
+
+AN OP-ED TO CHEW ON: Next phase in the U.S. confrontation with Iran: Moving the battle to the cyber domain
+
+NOTABLE LINKS FROM AROUND THE WEB:
+
+60 percent of U.S. politicians have not updated their cybersecurity since 2016 (MIT Technology Review / Patrick Howell O'Neill)
+
+Facebook's problems moderating deepfakes will only get worse in 2020 (Verge / James Vincent)
+
+A top Away executive quit on the same day the startup's embattled founder said she was returning as CEO (Recode / Jason Del Rey)
+
+A black market for life-saving insulin thrives on social media (OneZero / David Schultz)

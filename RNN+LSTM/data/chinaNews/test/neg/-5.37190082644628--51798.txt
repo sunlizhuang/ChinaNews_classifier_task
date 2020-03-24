@@ -1,0 +1,15 @@
+Credit: CC0 Public Domain
+
+A team of researchers from a host of institutions in Singapore and China has found that there are genetic differences between some lung cancer tumors in East Asians versus Europeans. In their paper published in the journal Nature Genetics, the group describes their analysis of tumors from East Asian and European lung cancer patients and what they found.
+
+Lung cancer is the deadliest type of cancer worldwide and prior studies have shown that it exhibits strong ancestral disparities. In this new effort, the researchers sought to isolate such differences to find out if doing so might lead to new therapies for the different tumor types.
+
+The work by the team involved sequencing the transcriptomes and exomes from tumors removed from 213 Chinese lung cancer patients being treated in Singapore. They combined their results with genetic tumor data for 92 additional Chinese patients from a BGI cohort. They then compared the genetic information from the combined set with similar data for 305 Europeans in the Cancer Genome Atlas. Doing so revealed what the researchers describe as differences in "tumor mutational burden (TMB)." TMB is a biomarker identified as having a major impact on cancer immunotherapy. The marker is a measure of the number of mutations found in a tumor. More specifically, the researchers found that the tumors from the East Asian patients had fewer genetic alterations—they had an average TMB of 2.04 per Mb, whereas the Europeans had an average TMB of 5.08 per Mb. They note that the TMB averages were different for patients who smoked, but were still lower for the East Asian patients. They also found that the nature of driver mutations and their number also differed between tumors from the two groups of patients.
+
+The transcriptomic profiles of the tumor samples also showed that two of three cancer subclusters were similar to terminal respiratory unit and proximal inflammatory subclusters that had been seen in European patients before. The third subcluster was specific to just East Asian patients. This finding suggests that it might be possible to identify which patients would respond better to different therapies. The researchers also found that genetic differences could be linked to predictions of survival rates. Predictions for those with East Asian tumor characteristics were more accurate than for those with European characteristics—likely because they had tumors with a more stable genome.
+
+Explore further Revealed an alteration related to the loss of effectiveness of a treatment in lung cancer
+
+More information: Jianbin Chen et al. Genomic landscape of lung adenocarcinoma in East Asians, Nature Genetics (2020). Journal information: Nature Genetics Jianbin Chen et al. Genomic landscape of lung adenocarcinoma in East Asians,(2020). DOI: 10.1038/s41588-019-0569-6
+
+© 2020 Science X Network

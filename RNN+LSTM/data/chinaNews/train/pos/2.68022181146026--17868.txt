@@ -1,0 +1,53 @@
+4 min read
+
+The small city of Trikala, Greece offers some quintessential provincial scenes: bustling farmers’ markets with vibrant colors and old men with bushy mustaches chatting on park benches.
+
+Delve deeper and you’ll discover public wifi, smart parking facilities, and coming soon, driverless buses. Trikala has become Greece’s first smart city thanks to the roll-out of multiple digital initiatives. With technology delivered straight from China, the city is set to commission (in Greek) the world’s first operational pilot for autonomous buses in real traffic conditions downtown.
+
+Chinese state-owned vehicle manufacturer Weichai will provide the driverless buses which will operate for at least two years. This is the first time that China-made driverless vehicles will hit the roads in Europe.
+
+The buses will automatically avoid obstacles and pedestrians and offer an on-demand service. They will provide customized options for passengers that deviate slightly from original routes to better serve their needs. 5G networks will support operations with lower latency and quicker connection speeds to the control center.
+
+“There was great interest from European manufacturers. Weichai participated through a local subsidiary called Amani Swiss,” Odysseas Raptis, chief executive at e-Trikala, the company responsible for procurement, told TechNode. The most important factor was the technology and know-how of candidates, he said.
+
+The project received funding from the Greek government and the European Union. The two governmental authorities handed out rounds of funding last summer and announced a procurement tender.
+
+A team of five to seven engineers and experts from Weichai will accompany the driverless buses to the city for about nine months. During the first phase, the team will work with local engineers to map out a route. This phase is expected to last two to three months, Raptis said.
+
+The driverless buses will then operate for six months while the Weichai team trains local staff. After that point, passenger operations will start and the program will run for an additional two years.
+
+A team from Greece’s Institute of Communications and Computer Science from the National Technical University Department will also support the experiment, Raptis said.
+
+“Globally, our program is synonymous with pioneering innovation,” said Yannis Kotoulas, president of e-Trikala told TechNode. “We will be able to see how passengers and people living with the experiment react to the buses,” he said, describing the partnership with Weichai as a “huge pleasure.”
+
+Weichai Group is a Chinese state-owned corporation that specializes in the design and manufacture of diesel engines and vehicles. It has clients in 110 countries around the world, according to its website.
+
+“We believe not only in this particular move, but in close collaboration with them [Weichai] to take steps that the global automotive market needs,” Raptis said, referring to the bypassing of obstacles and on-demand service.
+
+Shanghai-based DeepBlue AI was also involved in the design and manufacture of the vehicles, people familiar with the matter told TechNode.
+
+If it wasn’t for a DeepBlue event in Athens last June, this deal may never have gone through,. Trikala Mayor Dimitris Papastergiou told TechNode that it was after this promotional event that he informed DeepBlue of the tender.
+
+Small city, big ambitions
+
+Primarily agricultural with little industry in the heart of Greece’s biggest valley, Trikala had fallen on hard times competing with international product prices and volumes.
+
+Over time, it became, at best, a stop over for tourists on the way to Meteora, a UNESCO world heritage site featuring monasteries built on towering rocks reaching 550meters in height. While tourists from Russia, the Balkans, and beyond continued to flock to the important religious landmark, Trikala’s economy was dwindling.
+
+Technology offered the city not only an opportunity to better the lives of residents but also to nurture tourism and create jobs. Tours to Meteora now stop at Trikala to see the city’s smart infrastructure and try out the free public electric vehicles.
+
+“We need to create our own opportunities and not wait for the state,” the mayor said. He said the municipality had submitted over 1,000 applications to international institutions for technology funds.
+
+Trikala has gained a reputation on the European stage as the country’s first smart city. The Ministry of Economics and Finance named the city Greece’s first digital city in 2004. By 2009, it was listed in the world’s top 21 smart cities worldwide by the Intelligent Community Forum, a global network of smart communities.
+
+The local municipality has integrated several intelligent features into the city’s infrastructure, including sensors on car parking spots, smart waste management and a pilot 5G network, one of three in the country. Chinese technology has been key to at least one of these, the engineers working on the project told TechNode.
+
+The smart waste system was designed by local engineers and manufactured in China. The system monitors key pumps in the city’s waste pipes and alerts the control room if the pumps are under stress or in need of maintenance.
+
+Without the option to manufacture cheap and quality hardware in China, implementing the system would have been far more difficult, the engineers said.
+
+In 2015 and 2016, Trikala ran another driverless bus pilot funded by the European Union. Among the seven cities that participated in the project, Trikala was the only one to launch the project downtown. It served well as a tourist attraction, e-Trikala President Kotoulas said.
+
+Results from the EU study showed that passengers at Trikala were unique in using the driverless bus regularly, as opposed to just out of curiosity. This data concurs with what local authorities told TechNode. The city’s residents are used to high tech applications and are proud to be part of a community that innovates.
+
+The municipality anticipates further collaboration with Weichai in automated and sustainable mobility in the near future.

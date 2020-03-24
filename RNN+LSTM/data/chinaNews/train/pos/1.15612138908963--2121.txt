@@ -1,0 +1,87 @@
+[Photo/VCG]
+
+Nation accelerates blockchain technology development
+
+This year, as the world eagerly awaits news of the first government-issued digital currency in a major economy, eyes are turning to China, which is accelerating development of blockchain, the underlying technology required for e-money.
+
+In the past 12 months, all announcements by the People's Bank of China, the central bank, about updates to its proposed digital currency have attracted global media attention.
+
+No matter which large economy it is generated in, the world's first central bank digital currency, or CBDC, will change the basic rules of the global monetary system.
+
+"The top-level design of China's central bank digital currency, as well as the standards and testing processes, have almost been completed," Mu Changchun, director-general of the central bank's Institute of Digital Currency, said in December.
+
+The next step is to choose pilot areas for testing, including the application scenarios and scope of service, to optimize and enrich the functions of the digital yuan and promote research on this form of money, Mu said.
+
+There will not be an exchange for trading digital currency and electronic payments, or DC/EP, as is the case with other crypto-assets, Mu said. "The digital yuan is for spending, not for speculative investment."
+
+In 2014, the central bank started to research a digital currency. Two years later, it opened the Institute of Digital Currency and in 2017 established a special work team to experiment with DC/EP.
+
+Money: Global headlines prompt complex questions
+
+In 2016, a paper from the PBOC Digital Currency Research Group was published in the central bank magazine China Finance. The paper stated that in the early stages of launching DC/EP, "one or two closed-application scenarios, such as the commercial bill market, can be selected (as a pilot)," and then use of DC/EP can later be expanded to the whole country.
+
+The paper said: "We should realize that the use of both digital money and cash will run parallel for quite a long time," with the former gradually replacing the latter. "Later, the transaction costs for cash will gradually rise. For example, there may be a charge for cash withdrawals. Thus, with an incentive mechanism, more people will prefer to use digital currency."
+
+However, behind many of the global headlines, complex questions about CBDC have been raised in relation to monetary policy, central banking operations and payment systems, as well as financial stability and legal foundations and regulations.
+
+International Monetary Fund experts Tommaso Mancini-Griffoli and Tobias Adrian wrote in an article on the IMF website in December, "We have seen an increase in central banks' interest in CBDC following the announcement by Facebook of its Libra initiative as well as reports of a possible launch of a CBDC by the PBOC.
+
+"Each country will have to weigh the pros and cons of the case for CBDC depending on its particular circumstances."
+
+According to PBOC officials, the operating framework for DC/EP will be a two-tier structure, involving the central bank and some nongovernmental institutions jointly running the system.
+
+The IMF also suggested the option of public-private partnerships, and this model envisions private sector companies issuing digital coins to the public — either in the form of accounts or tokens.
+
+An IMF research note said: "These firms would thus be responsible for doing what they do best — innovating and interfacing with customers. The central bank, instead, would provide trust to the system by requiring that coins be fully backed by central bank reserves, and by supervising the coin issuers. At the same time, this limits costs for the central bank, as well as some of the risks."
+
+In any mention of digital currency, it is hard to avoid reference to blockchain, especially as the Chinese leadership in October stated its intention of leading the global development of this nascent technology.
+
+Blockchain is a system in which a record of transactions made in bitcoin or another cryptocurrency are maintained across several computers linked in a peer-to-peer network.
+
+It has been described as "an immutable and tamper-proof public ledger of activity, which is also decentralized". New bitcoins are made through the process of "mining", which is carried out by running extremely powerful computers that race against other "miners".
+
+Distributed ledger technology, or DLT, supports the decentralized network, allowing simultaneous access, validation and updating of records.
+
+In China, financial regulators have not identified crypto-assets as a type of currency. In 2017, they blocked trading in bitcoins and closed all public crypto-asset exchanges. The same year, the government also banned so-called initial coin offerings, or ICOs; a way for startups to raise funds by selling off newly created digital currencies.
+
+According to Mu, the central bank official, the basic regulatory tone for cypto-assets has remained unchanged.
+
+Turning to Stablecoins, defined by the IMF as an electronic version of fiat money, or e-money, Mu said, "We still need time to figure out whether Stablecoins can be seen as currencies," adding that some types of Stablecoins may have an impact on the yuan, especially in cross-border payments and settlements.
+
+Wang Xin, head of the PBOC's Research Bureau, said last month that in the digital era countries can be expected to compete in a race to create government-backed digital currencies.
+
+Some of these currencies issued by the private sector, such as Facebook's Libra, will find it hard to compete with state-issued digital money, Wang said.
+
+"The right to issue money is important for the government, as it is one of the fundamental measures for it to raise funds and implement macroeconomic adjustments," Wang added. If there is a financial crisis, the central bank can inject liquidity and stabilize the system through flexible adjustments to money supply, a function that is hard to achieve for privately issued money, he said.
+
+In October, President Xi Jinping delivered a speech stating that blockchain is an "important breakthrough in independent innovation of core technologies" and China should seize the opportunities of developing it.
+
+Garrick Hileman, head of research at cryptocurrency exchange and trading platform Blockchain, said in an interview with CNBC, "This is an extremely significant development, not just for China but for the broader world.
+
+"Countries are racing to identify strategic technologies and develop sustainable competitive advantages in areas like artificial intelligence and robotics. With Xi's speech, blockchain technology can now be added to this list."
+
+Exchange platform plan
+
+In China, blockchain technology was initially applied in areas such as finance. About five years ago, the country's financial regulators recognized that blockchain could improve the efficiency of commercial paper transactions and reduce regulatory costs.
+
+Xu Zhong, former director of the PBOC Research Bureau, said, "If we introduce the digital currency into the 'commercial paper chain', we will be able to supervise the direction of capital flows in real time, or create new business models based on real-time financing."
+
+In December 2016, the Shanghai Commercial Paper Exchange Corp, a national institution supervised by the central bank, published a plan for an exchange platform based on blockchain, aimed at reducing fake information and controlling illegal transactions.
+
+The State Administration of Foreign Exchange has a cross-border blockchain platform — the nation's high-level and largest blockchain application to date. In March, the platform started a pilot program, providing financial services covering exports and recording companies' cross-border credit information.
+
+This platform also provides cross-system information sharing, including enterprises' collateral and bank loans, which can help ease financing for small and medium-sized companies. More than 170 commercial banks have joined the pilot program, according to SAFE.
+
+In September 2018, the central bank established a blockchain platform for the finance trade in ­Shenzhen, Guangdong province. The platform provides services including both supply chain and cross-border financing and regulation of international trade funds.
+
+By the end of October, there were 1,898 companies on the platform, with business worth about 75 billion yuan ($10.7 billion), according to the PBOC's Shenzhen branch.
+
+Shu Li, who heads China Minsheng Bank's Beijing branch, said blockchain technology is likely to provide the foundations on which to design the financial system for the Guangdong-Hong Kong-Macao Greater Bay Area.
+
+As three currencies (the yuan, Hong Kong dollar and the Macao pataca) are used in the Bay Area, blockchain will help expand transactions and lower financial trading costs, with the aim of building a credible and orderly financial system by coordinating various mechanisms, Shu said.
+
+However, some experts have warned against exaggerating the advantages of blockchain. They said that a good way to assess whether a new technology can be a truly useful addition is to step back and review the fundamental roles of the global financial and economic system, and past examples of failed attempts to create new technologies.
+
+Xu, the former PBOC official, said: "In recent years, there have been some cases that have proved that some blockchain applications are not feasible. In particular, the modern financial system continues to absorb various technological innovations in the development process."
+
+In a research paper Xu wrote that as long as technological innovation helps improve the efficiency of financial resource allocation, security and convenience of transactions, blockchain can be integrated into the financial system.

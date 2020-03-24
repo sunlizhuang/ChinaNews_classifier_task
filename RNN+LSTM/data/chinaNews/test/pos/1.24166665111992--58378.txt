@@ -1,0 +1,53 @@
+The US Federal Communications Commission (FCC) has proposed to provide a group of satellite companies up to $14.7 billion in exchange for freeing up spectrum that could be used for 5G services.
+
+executive guide What is 5G? Everything you need to know about the new wireless revolution It's a capital improvement project the size of the entire planet, replacing one wireless architecture created this century with another one that aims to lower energy consumption and maintenance costs. Read More
+
+Announced on Thursday, FCC chairman Ajit Pai explained that the plan [PDF] would entail satellite companies giving up mid-band spectrum, known as the C-band, which would then be put up for auctions to telcos.
+
+According to Pai, the C-Band spectrum -- which is in the 3.7-4.2GHz range of frequencies -- is important as it provides wider geographic coverage than high-band spectrum, enabling ultra-high-speed, gigabit-plus wireless connectivity.
+
+"Midband spectrum is appealing for 5G largely because of physics: It combines good geographic coverage with good capacity," Pai explained.
+
+In the proposal, Pai wants to provide satellite companies with funds, which could range from $3 billion to $5 billion, as compensation for abandoning the C-band spectrum and moving to another frequency in order for the airwaves to be auctioned for 5G services.
+
+In addition, the FCC is also proposing to provide "accelerated relocation payments", valued up to $9.7 billion, to satellite operators if they are able to free up 100MHz of the C-band by September 2021 and another 180MHz of the C-band by September 2023.
+
+According to Pai, this would be four years and two years faster, respectively, than the September 2025 timeframe that the FCC expects it would take if satellite operators were to relocate at a normal pace.
+
+The C-band spectrum is currently used by satellite companies, including Intelsat and SES, primarily to beam content to video and audio broadcasters, cable systems, and other content distributors.
+
+"The issuance of the draft order represents a significant milestone in a process that we began in 2017. We look forward to reviewing the draft order, once issued, to place Chairman Pai's comments in full context. We note with appreciation the hard work of all stakeholders to get to this juncture," Intelsat CEO Steve Spengler said.
+
+If the proposal is accepted, the FCC said it would hold an auction for the C-band spectrum on December 8. The auction would make 280MHz of the C-band spectrum available for telcos to use.
+
+Telcos such as Verizon, AT&T, and T-Mobile are expected to bid for the freed frequencies, with Verizon CEO Hans Vestberg labelling the proposal as a "monumental" moment for the rollout of 5G networks in the US.
+
+"Today is a monumental day in our nation's efforts to maintain wireless leadership in 5G. Chairman Pai's historic announcement sets forth a bold vision for bringing much needed mid-band spectrum to auction this year," Vestberg said.
+
+"Most importantly, his plan ensures that this critical spectrum is not only auctioned quickly, but cleared on an accelerated basis. This speedy transition will undoubtedly ensure that the US will preserve its global leadership in 5G and will produce hundreds of billions of dollars in economic benefits for the country."
+
+Addressing the sum of money that would be paid to satellite companies under the proposal, Pai added that the amount paid would not exceed the amount captured in the 5G auction.
+
+"Accelerated relocation payments are designed to capture the value to auction winners of satellite operators clearing spectrum quickly. Therefore, those payments shouldn't exceed the amount that wireless carriers would be willing to pay in a free-market transaction if one could solve the holdout and free-rider problems that would be inherent in any such negotiations," Pai said.
+
+Congress has also been pushing for the FCC to reallocate the C-band spectrum for 5G services. A bipartisan Bill was introduced into the Senate last week calling for 280MHz of C-band spectrum to be made available for flexible use.
+
+The outcome of the proposal is expected to be released at the end of this month.
+
+Related Coverage
+
+Huawei legally challenges FCC's Universal Service Fund ban
+
+Chinese giant has labelled the ban a violation of US federal law.
+
+FCC announces $9 billion 5G fund for rural America
+
+FCC chairman Ajit Pai said the fund will be available to carriers deploying advanced 5G mobile wireless services in hard-to-serve areas.
+
+FCC publishes approval of merger of T-Mobile and Sprint
+
+After last month's closed-door vote, the FCC publishes its formal approval of the $26 billion deal.
+
+Many rural Americans still lacking broadband access (TechRepublic)
+
+The digital divide is closing, says the FCC, but a provider is partnering with local communications service entities to make it feasible to offer high-speed services.

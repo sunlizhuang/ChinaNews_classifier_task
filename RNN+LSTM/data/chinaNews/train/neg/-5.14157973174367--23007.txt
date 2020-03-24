@@ -1,0 +1,99 @@
+Quick Take
+
+Multiple social media posts are spreading a bogus conspiracy theory about the deadly Wuhan virus. The posts falsely claim that the virus has been patented and a vaccine is already available. That’s not true; the patents the posts refer to pertain to different viruses.
+
+Full Story
+
+Following the outbreak of a respiratory disease caused by a new coronavirus in Wuhan, China in December 2019, and the announcement of the first American case on Jan. 21, several groups and individuals are circulating false rumors on Facebook about the mystery pathogen.
+
+Numerous posts claim the virus has been patented — and some even suggest, incorrectly, that the virus was made in a lab and a vaccine already exists.
+
+“The new fad disease called the ‘coronavirus’ is sweeping headlines,” one Facebook post, taken from Twitter, reads. “Funny enough, there was a patent for the coronavirus was filed in 2015 and granted in 2018.”
+
+Another, which was shared by others, and is part of a series of false coronavirus posts, proclaims that the virus is “‘new’ yet it was lab created and patented in 2015 (in development since 03’).”
+
+Yet another proposes a similar conspiracy. “So.. patent on this ‘new’ Corona virus expired on the 22nd, today,” the post says. “We have a sudden outbreak. There’s magically already a vaccine available.”
+
+In fact, there is no vaccine yet available for the new coronavirus, which for now goes by the unwieldy moniker of 2019 novel coronavirus, or 2019-nCoV. And there is no patent related to the new virus, either.
+
+All of the posts link to patents that are related to two different viruses in the coronavirus family.
+
+Coronaviruses are a group of viruses that tend to cause respiratory illnesses in humans and a variety of other illnesses in animals, the Centers for Disease Control and Prevention explains on its website. The name comes from the crown, or corona-like appearance of infective viruses when seen under a microscope.
+
+One patent is for a genetic sequence of the virus that causes SARS, or severe acute respiratory syndrome, a disease that spread to dozens of countries in 2003, sickening more than 8,000 people and killing 774.
+
+“The sequencing was done at the CDC during the SARS outbreak and they were the ones that filed the patent,” Matthew Frieman, a coronavirus researcher at the University of Maryland, explained in an email.
+
+The CDC told the Associated Press in 2003 that the agency was claiming ownership to ensure access, and to prevent others from controlling the technology. In a phone interview, Columbia law professor Harold Edgar told us that following a U.S. Supreme Court case decided in 2013, U.S. patent law no longer allows for patents on viral sequences as they exist in nature.
+
+The other supposedly related patent is for a mutated form of avian infectious bronchitis virus, or IBV, which infects poultry, but not people. The patent was filed by the Pirbright Institute, a research institute in the U.K. whose mission is to prevent and control “viral diseases of livestock.” The mutations were created to attenuate, or weaken, the virus, so that it could be used as a vaccine to protect chickens from the disease.
+
+“Neither of these has anything to do with the new 2019-nCoV virus,” said Frieman. “This is clearly a bogus theory that this virus was created in a lab, patented and has a vaccine already made to it.”
+
+Researchers are still working to understand the origin, spread and severity of the latest coronavirus. The outbreak began in early December in Wuhan, a city of around 11 million people in central China.
+
+Evidence suggests the virus likely spilled over to humans from an as-yet-unidentified animal, as has happened in the past for other coronaviruses. The SARS virus, for instance, is thought to have come from bats, and then spread to humans through civets, a cat-like animal eaten as a delicacy in Asia. The SARS virus then proved to be transmissible from person to person.
+
+A similar story played out in 2012 with the virus responsible for Middle East Respiratory Syndrome, or MERS, which may also have originated in bats, and then spread to humans via camel.
+
+Cases of the new respiratory illness were first reported in people who had connections to a fish market in Wuhan that also sold a variety of live animals. National Institute of Allergy and Infectious Diseases director Anthony Fauci told Scientific American on Jan. 22 that the new virus “almost certainly” came from an animal.
+
+It is now clear that the new coronavirus can also pass from person to person, although it is not known how easily it spreads. It’s possible the disease may not be as severe as SARS, but health officials say it is too early to know for sure. Symptoms include fever, cough and shortness of breath.
+
+As of early Jan. 24, at least 26 people have died, all in China, out of nearly 900 confirmed cases worldwide. Deaths have primarily occurred in older people or those who had other health conditions. Cases have also been reported in Thailand, Taiwan, Japan and South Korea. The U.S. patient had recently traveled from Wuhan and is in good condition, according to the CDC.
+
+As for a vaccine, the CDC says it is already working on one with the NIH, but that it is still early in the process. Fauci explained in his Scientific American interview that the agency is partnering with Moderna, a biotech company, to create a messenger RNA-based vaccine.
+
+“We will likely have a candidate in early phase I trials for safety in about three months,” he said. “That doesn’t mean we will have a vaccine ready for use in three months; even in an emergency, that would take a year or more. But we’re already on it.”
+
+So while efforts have begun to make a vaccine, in part thanks to Chinese researchers who have already shared the sequence of the new virus, it is not true that a vaccine already exists — just as claims that the virus previously had a patent and was manufactured in a lab are also false.
+
+Editor’s note: FactCheck.org is one of several organizations working with Facebook to debunk misinformation shared on social media. Our previous stories can be found here.
+
+Sources
+
+“First Travel-related Case of 2019 Novel Coronavirus Detected in United States.” Press release. CDC. 21 Jan 2020.
+
+Lewis, Tayna. “Infectious Disease Expert Discusses What We Know about the New Chinese Virus.” Scientific American. 22 Jan 2020.
+
+Branswell, Helen. “It’s been sequenced. It’s spread across borders. Now the new pneumonia-causing virus needs a name.” STAT. 23 Jan 2020.
+
+2019 Novel Coronavirus, Wuhan, China. CDC. Accessed 23 Jan 2020.
+
+Severe Acute Respiratory Syndrome (SARS). CDC. Accessed 23 Jan 2020.
+
+Coronavirus. CDC. Accessed 23 Jan 2020.
+
+Coronavirus isolated from humans. U.S. Patent, no. 7220852B1.
+
+Bickerton, et. al. U.S. Patent, no. 10130701. 2018.
+
+Frieman, Matthew. Associate Professor, Microbiology and Immunology, University of Maryland School of Medicine. Email sent to FactCheck.org. 22 Jan 2020.
+
+“Scientists race to patent SARS virus.” Associated Press. Updated 4 Nov 2003.
+
+Edgar, Harold. Julius Silver Professor Emeritus of Law, Science and Technology, Columbia Law School. Interview with FactCheck.org. 23 Jan 2020.
+
+Novel Coronavirus in Wuhan, China. CDC. Accessed 23 Jan 2020.
+
+Davies, Will and Stephen Tan. “The Age, Sex and Symptoms of All the Coronavirus Victims.” Bloomberg. 22 Jan 2020, updated 23 Jan 2020.
+
+Taylor, Adam. “Wuhan: The Chinese mega-city at the center of coronavirus outbreak.” Washington Post. 23 Jan 2020.
+
+Jackwood, Mark W. “Infectious Bronchitis in Poultry.” Merck Veterinary Manual. Accessed 23 Jan 2020.
+
+SARS (Severe Acute Respiratory Syndrome). World Health Organization. Accessed 23 Jan 2020.
+
+Sample, Ian and John Gittings. “In China the civet cat is a delicacy – and may have caused Sars.” The Guardian. 23 May 2003.
+
+Middle East Respiratory Syndrome (MERS). CDC. Accessed 23 Jan 2020.
+
+Frequently asked questions on Middle East respiratory syndrome coronavirus (MERS‐CoV). World Health Organization. Updated 21 Jan 2019.
+
+Middle East respiratory syndrome coronavirus (MERS-CoV). World Health Organization. 11 Mar 2019.
+
+“Moderna Announces Funding Award from CEPI to Accelerate Development of Messenger RNA (mRNA) Vaccine Against Novel Coronavirus.” Press release. Moderna. 23 Jan 2020.
+
+Transcript of Update on 2019 Novel Coronavirus (2019-nCoV). CDC. 21 Jan 2020.
+
+Wuhan Coronavirus (2019-nCoV) Global Cases. Data visualization by Johns Hopkins University. Accessed 24 Jan 2020.

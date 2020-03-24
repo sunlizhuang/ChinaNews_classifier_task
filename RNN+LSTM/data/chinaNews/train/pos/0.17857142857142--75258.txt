@@ -1,0 +1,37 @@
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+There have been headlines that give the impression that a Chinese institute, Wuhan Institute of Virology, may be moving in on a US company's experimental antiviral drug. For example:
+
+"China's Drug Patent Grab Makes Coronavirus Scary for Pharma" - Bloomberg
+
+"China Wants to Patent a U.S. Drug to Fight Coronavirus" - Globalnews.ca
+
+However, what the Chinese institute is doing by trying to patent a new, specific use of a known drug compound is fair game. It is not uncommonly done by companies and labs worldwide.
+
+The Drug
+
+The drug attracting attention is called remdesivir. It is a novel chemical compound designed, tested and patented by the company Gilead Sciences, Inc., with help from various research partners. Remdesivir is not yet licensed or approved anywhere globally and it has not been demonstrated to a government regulator be safe or effective for any medical use. It was originally developed for treatment of Ebola virus and Marburg virus1. The results from further clinical testing were not strong enough for the company to seek regulatory approval.
+
+Gilead later ran experiments to show the usefulness of the compound against adenovirus and coronavirus infections, and filed a patent specifically on this new medical use. The MERS virus and SARS virus are two examples of coronavirus virus. It is not uncommon that a drug that fails at one therapeutic use will be repurposed for a new, successful use. For example, development of the HIV drug treatment, AZT, was led by the pharma company, GSK, about a couple of decades after it was first synthesized by university researchers as a failed cancer drug. It was legitimate for GSK to get a patent on that new and inventive use for treating HIV. GSK successfully defended and enforced that new use patent, for example, in Canada, it went all the way to the Supreme Court of Canada.
+
+Gilead has covered its new use of remdesivir, for example, by US patent no. 10,251,904 (methods for treating adenovirus infections), and its related pending, allowed US patent application no. 16/265,016 (methods for treating coronavirus infections). Certain representative compounds in the patent filing were tested for MERS-CoV and SARS-CoV antiviral activity (see Examples 40-34). The 2019-nCov virus was not tested because it was not yet known to exist. The corresponding Canadian patent application is still in examination (no. 2,998,189). The earliest patent application filing date for the invention goes back to 2015, and the contents of the patent applications in this family have been published for several years. Patenting a new use of a known compound is also legitimate, since it provides an economic incentive for companies to pursue drug development.
+
+2019-nCov – Potential IP Rights
+
+Gilead has stated that it considers that there was, as of Jan. 31, 2020, no antiviral data for remdesivir that showed activity against 2019-nCov, but it has hope that it may work. The company stated that it is committed to supporting the global health community to quickly and effectively respond to serious and life-threatening viral outbreaks.
+
+The Chinese institute that filed a patent application on use of remdesivir for treatment of 2019-nCov would have to show that the use is new and inventive compared to all previously published information. Specifically, the patent application would have to be new and inventive compared to the previously published Gilead patent application on the use of remdesivir on treating coronavirus. It is not a rubber stamp process to get a patent. Strong and surprising results may be required by some patent offices to demonstrate inventiveness. The likelihood of getting a patent is also higher if there is some unique aspect, for example in the dose amount or the formulation (the patent application is confidential, so we can't see what it describes). Patents also have to be negotiated on a country-by-country basis, and there is no guarantee of getting a patent at all.
+
+If the Chinese institute gets a patent, it may be very narrow in scope, potentially limited to treatment of 2019-nCov, which is a very serious virus, but it is also hopefully a one-off threat that should eventually pass and dissipate in the population until it is no longer a health threat. To have enduring commercial value, a patent would have to cover more types of viruses, and getting that broader scope of patent is where the patenting challenge really lies since the drug is already known for treating Coronoviruses generally.
+
+As well, there is an issue that getting a patent on an improvement does not give the right to use the underlying patented invention. The Chinese institute may still need a license to use remdesivir against coronavirus. If, hypothetically, the Chinese organization gets a patent limited to 2019-nCov, then other groups may need a license from both that organization and Gilead to commercialize. The Chinese organization says that it is seeking a patent to protect national interests, but will not enforce any patent rights it may have if foreign companies collaborate with China on the epidemic. In legal terms, this means that it may be assumed that the Chinese Institute is trying to gain leverage for any potential future cross-licensing patent negotiations with Gilead. The purpose of filing the patent application was not to hinder access to medicine.
+
+Regardless of the patent dynamics around the 2019-nCov virus, the main thing to note is that organizations are not engaging in IP battles or standoffs at this time. The primary focus has been on applying the expert knowledge and skills of these organizations to the epidemic. The viability of any potential patent rights specific to 2019-nCov will be reviewed in future by patent offices. There is currently considerable cooperation between governmental organizations and industry in supporting the rapid identification of treatments. For example, Gilead is working with the US government, Chinese government and the World Health Organization to contribute antiviral expertise, resources and permitting experimental use of remdesivir. At times, IP is rightfully a secondary consideration.
+
+Footnotes
+
+1 Results were published in a 2016 article titled, "Therapeutic Efficacy of the Small Molecule GS-5734 against Ebola Virus in Rhesus Monkeys."
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

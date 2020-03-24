@@ -1,0 +1,21 @@
+Kidtech startup SuperAwesome has raised an additional $17 million in funding, which includes a new strategic investment from Microsoft’s venture fund, M12. Others participating in the round include existing investors Mayfair Equity, Hoxton Ventures and Ibis, along with other angels.
+
+To date, SuperAwesome has raised $37 million in outside investment.
+
+SuperAwesome has been tapping into the need for more kid-friendly technology on the web that’s now used just as much by younger children as it is by adults.
+
+“Historically the internet was designed to be used by adults, but now over 40% of new users are kids,” said SuperAwesome CEO Dylan Collins. “We’re in the middle of a structural shift in the composition of the internet that requires investment in privacy and kidtech to support children. This is as big a transition as mobile was for the desktop internet,” he noted.
+
+The company’s platform includes products for kid-safe advertising, social engagement tools, authentication and parental controls. The breadth of this lineup has attracted big-name kids’ brands as customers, including Activision, Hasbro, Mattel, Lego, Cartoon Network, Spin Master, Nintendo, Bandai, WB, Shopkins maker Moose Toys, WPP, Omnicom, Dentsu, Niantic and Wildworks, among others.
+
+Today, the company has more than 300 customers in total.
+
+SuperAwesome’s technology has arrived at a critical time for many working in the kids’ app space, as governments are newly enacting and enforcing a range of kids’ privacy laws like COPPA (the U.S. Children’s Online Privacy Protection Rule) and GDPR-K in the E.U., as well as other laws in major markets like China, Brazil and India. In the U.S., for example, the FTC has slapped apps like Musical.ly (now TikTok) and YouTube with record fines for violations of children’s privacy regulations.
+
+These changes have been a boon to SuperAwesome, which is now fully profitable and powering more than 12 billion kids’ digital transactions per month. Last year, the company pulled in $55 million in revenue and is on track for $80 to $90 million in revenue in 2020, Collins told TechCrunch.
+
+SuperAwesome and Microsoft aren’t yet talking in detail about how the two companies will be teaming up, following the strategic investment. One thing being discussed by the two, however, are the opportunities around family identity, we’re told. In addition, Microsoft today is focused on both privacy and kids across its products — for example, with its web browser as well as with its educational efforts involving Minecraft, among other things.
+
+“After we spent time with the M12 team and folks in Microsoft, it was clear we shared the same vision of where the internet is going: more kids and more privacy,” Collins said.
+
+“We are proud to welcome the SuperAwesome team to the M12 portfolio. Dylan has cultivated a mission-driven team dedicated to keeping the internet safer for kids—a critical priority for digital-first generations,” said Nagraj Kashyap, Microsoft corporate vice president and global head of M12, in a statement about the funding. “Given Microsoft’s footprint in the identity management space, we’re excited to explore opportunities for partnership with SuperAwesome as well,” Kashyap added.

@@ -1,0 +1,35 @@
+US Charges Chinese Military Officers With 2017 Equifax Hack
+
+By Masood Farivar February 10, 2020
+
+Four members of the Chinese military have been charged with hacking U.S. credit reporting giant Equifax in 2017 and stealing the personal data of nearly half of all Americans, U.S. law enforcement officials announced on Monday.
+
+In one of the largest data breaches in history, the four Chinese hackers broke into the computer networks of Atlanta-based Equifax, stealing 145 million Americans' names, birth dates, and social security numbers, the driver's license numbers of at least 10 million Americans, and the credit card numbers of about 200,000 U.S. citizens, according to a nine-count federal indictment returned last week. The four are also accused of stealing trade secrets, including database designs. "
+
+The scale of the theft was staggering," U.S. Attorney General William Barr said at a press conference in Washington. "This theft not only caused significant financial damage to Equifax but invaded the privacy of many millions of Americans, and imposed substantial costs and burdens on them as the have had to take measures to protect against identity theft."
+
+The four Chinese hackers were members of the Chinese People's Liberation Army's 54th Research Institute, according to the indictment. The were were identified as Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei and face charges of conspiracy to commit computer fraud, conspiracy to commit economic espionage and conspiracy to commit wire fraud. They have not been arrested.
+
+Barr said the Chinese hackers broke into Equifax's computer networks through "a vulnerability" in the company's dispute resolution website."
+
+Once in the network, the hackers spent weeks conducting reconnaissance, uploading malicious software, and stealing login credentials, all to set the stage to steal vast amounts of data from Equifax's systems," Barr said.
+
+The Justice Department does not normally bring criminal charges against members of a foreign country's military or intelligence services. This is only the second time that federal prosecutors have charged members of the Chinese military. In 2014, the department indicted five members of the PLA's cyber espionage arm with stealing confidential business information from U.S. companies and a trade organization.
+
+The Equifax hack was one of several major Chinese-perpetrated data breaches of U.S. entities in recent years:
+
+- Beginning in 2013, hackers working for the Chinese government stole millions of highly sensitive personnel files from the U.S. Office of Personnel Management, the agency that manages the federal government's civilian workforce.
+
+- In 2015, two Chinese hackers broke into the computer systems of U.S. health insurer Anthem, stealing the personal data of at least 78 million Americans. The two hackers were indicted in 2019.
+
+- In 2018, American hotel chain Marriott International revealed that hackers had stolen personal details of nearly 500 million guests at its Starwood reservation system beginning four years earlier. The breach was attributed to Chinese hackers.
+
+Barr said the cases reveal "China's voracious appetite for the personal data of Americans." Other Justice Department cases show a Chinese "pattern of state-sponsored computer intrusions" targeting trade secrets and confidential business information, Barr said.
+
+The indictment comes as the administration of President Donald Trump has ramped up efforts to counter Chinese economic espionage. In November 2018, the Justice Department announced it would collaborate with the FBI to combat Chinese theft of U.S. intellectual property. The initiative has led to more than a dozen China related indictments over the past year and half.
+
+The FBI is conducting roughly 1,000 investigations into suspected Chinese theft of U.S. intellectual property, with many expected to result in criminal charges against individuals and companies later in the year, U.S. law enforcement officials said last week.
+
+"They're not just targeting defense sector companies," FBI Director Christopher Wray said at a China Initiative conference last week. "They're also targeting cutting-edge research at our universities."
+
+In a statement, Equifax said it has "made significant progress and investments" in the last two years since the 2017 hack to protect consumer data. Between 2018 and 2020, the company is spending $1.25 billion on enhanced security and technology, CEO Mark W. Begor said.

@@ -1,0 +1,23 @@
+AUSTIN, Texas — Infectious disease researchers at The University of Texas at Austin and other institutions in Hong Kong, mainland China and France have concluded there is a high probability that the deadly Wuhan coronavirus spread beyond Wuhan and other quarantined cities before Chinese officials were able to put a quarantine in place. At least 128 cities in China outside of the quarantine zone, including cities with no reported cases to date, had a greater than even risk of exposure, according to a paper currently in press with Emerging Infectious Diseases, a journal of the U.S. Centers for Disease Control and Prevention.
+
+Based on comprehensive travel data from location-based services and modeling of the disease done at UT Austin’s Texas Advanced Computing Center, 128 cities in China had a 50% chance or greater risk that someone exposed to the virus traveled there before the quarantine began. The team also estimated there were 11,213 cases of the coronavirus in Wuhan by the time of the quarantine on Jan. 22 — a rate 10 times higher than the reported cases.
+
+“This risk assessment identified several cities throughout China likely to be harboring yet undetected cases of [Wuhan coronavirus] and suggests that early 2020 ground and rail travel seeded cases far beyond the Wuhan region quarantine,” write the authors.
+
+As of Feb. 4, officials have confirmed 425 fatalities from the virus, all but two in mainland China, and more than 20,000 confirmed cases spread across the world.
+
+The paper shows there is a 99% chance that at least one patient carrying the virus traveled to the cities of Beijing, Guangzhou, Shenzhen and Shanghai by the time the quarantine was put in place for the city of Wuhan on Jan. 23. The quarantine has since expanded to include cities with populations totaling 60 million people. Beijing reported its first fatality from the virus on Jan. 27.
+
+The team estimated new cases of the virus doubled roughly every week, and on average, that every infected person transmitted the disease to approximately two other people.
+
+Lauren Ancel Meyers, a mathematical epidemiologist and professor of integrative biology and statistics and data sciences at UT Austin; and Zhanwei Du, a computer scientist working at UT Austin, along with a team of scientists from France, China and Hong Kong, used historical travel data for the busy Spring Festival season to chart human movements between 371 cities in China. The team used road, train and air travel data to yield results more accurate than those of other models.
+
+“Given that 98% of all trips during this period are taken by train or car, our analysis of air, rail and road travel data yields more granular risk estimates than possible with air passenger data alone,” said Meyers, who specializes in modeling the spread of infectious diseases. “The quarantine will probably prevent future transmission out of Wuhan. However, introductions of the novel coronavirus had already occurred throughout China and the world by the time the quarantine started.”
+
+The model also takes into account the reported cases of the disease outside of China to estimate the rates of epidemic growth.
+
+Based on the team’s estimates, there are at least 128 cities and as many as 186 cities in China that had at least a 50% chance of an infected visitor from Wuhan arriving sometime in the three weeks before the quarantine was enacted. Several cities reporting no cases had a 99% probability that an infected person visited. Those cities — each with a population of more than 2 million people — include Fushun, Laibin and Chuxiong.
+
+Meyers, who holds the Denton A. Cooley Centennial Professorship in Zoology, and Zhanwei Du, also of The University of Texas at Austin, are the lead authors of the paper. Lin Wang and Simon Cauchemez of the Institut Pasteur in Paris, Xiaoke Xu of Dalian Minzu University, Xianwen Wang of Dalian University of Technology and Benjamin J. Cowling of the University of Hong Kong co-authored the research. The Texas Advanced Computing Center’s Wrangler system was used to analyze travel data for the report.
+
+The researchers acknowledge funding from the National Institutes of Health, the Investissement d’Avenir program, the Laboratoire d’Excellence Integrative Biology of Emerging Infectious Diseases program, European Union V.E.O project, the Open Fund of Key Laboratory of Urban Land Resources Monitoring and Simulation, Ministry of Land and Resources and the National Natural Science Foundation of China.

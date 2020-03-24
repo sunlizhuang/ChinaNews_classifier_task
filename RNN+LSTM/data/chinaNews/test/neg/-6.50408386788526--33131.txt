@@ -1,0 +1,47 @@
+Deaths from the coronavirus surpass 130 in China. We’ll look back at lessons learned during the 2003 SARS outbreak and explore how to stop a pandemic today.
+
+Guests
+
+Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases. (@NIAIDNews)
+
+Dr. Samira Mubareka, infectious disease physician and microbiologist at Sunnybrook Health Sciences Centre in Toronto, Canada. (@Sunnybrook)
+
+Dr. Jennifer Nuzzo, epidemiologist and global health security policy scholar at the Johns Hopkins Center for Health Security. (@JenniferNuzzo)
+
+From The Reading List
+
+WBUR: "CommonHealth: Coronavirus Outbreak Resembles SARS, But Virus Experts Say Science Moves Far Faster Now" — "Dr. Paul Sax remembers SARS all too well, and the similarities with the new coronavirus that has now killed more than 130 people are obvious: Both are coronaviruses first found in China. Both seem to have originated in bats. Both cause severe lung infections and worldwide alarm.
+
+"But Sax, the clinical director of the Division of Infectious Diseases at Brigham and Women's Hospital, says this outbreak also strikes him as very different. 'What's different is the pace of scientific discovery,' he says. 'It's like someone pressed the fast-forward button, and we're accelerating through things that took much, much longer then.'
+
+"Case in point: With the latest DNA technology, the full genetic makeup of the new coronavirus was immediately analyzed and shared in a public database."
+
+STAT News: "DNA sleuths read the coronavirus genome, tracing its origins and looking for dangerous mutations" — "As infectious disease specialists and epidemiologists race to contain the outbreak of the novel coronavirus centered on Wuhan, China, they’re getting backup that’s been possible only since the explosion in genetic technologies: a deep-dive into the genome of the virus known as 2019-nCoV.
+
+"Analyses of the viral genome are already providing clues to the origins of the outbreak and even possible ways to treat the infection, a need that is becoming more urgent by the day: Early on Saturday in China, health officials reported 15 new fatalities in a single day, bringing the death toll to 41. There are now nearly 1,100 confirmed cases there.
+
+"Reading the genome (which is made of RNA, not DNA) also allows researchers to monitor how 2019-nCoV is changing and provides a roadmap for developing a diagnostic test and a vaccine.
+
+“'The genetics can tell us the true timing of the first cases' and whether they occurred earlier than officials realized, said molecular biologist Kristian Andersen of Scripps Research, an expert on viral genomes. 'It can also tell us how the outbreak started — from a single event of a virus jumping from an infected animal to a person or from a lot of animals being infected. And the genetics can tell us what’s sustaining the outbreak — new introductions from animals or human-to-human transmission.'"
+
+CNN: "What it will take to stop the Wuhan coronavirus" — "On this date 17 years ago, I was covering the severe acute respiratory syndrome (SARS) virus for several months as it spread across Asia, eventually reaching 37 countries, sickening 8,098 people and killing 774 of them.
+
+"So, as I read the first reports of a cluster of animal-market related illnesses, with the first patient exhibiting symptoms of pneumonia as early as December 12, 2019, I had a chilling sense of déjà vu. By New Year's Eve, it was obvious something akin to SARS — as it turns out, the Wuhan coronavirus is in the same family of viruses as SARS and MERS (Middle East respiratory syndrome) — was unfolding in China.
+
+"The mysterious pneumonia virus that emerged from a live animal market in China's central city of Wuhan last month has now infected far too many people, over far too vast a geographic area, to be easily controlled.
+
+"The Wuhan coronavirus — part of a family of viruses that are common among animals and can cause fever as well as respiratory symptoms when transmitted to humans — has been found in cities all over China, and travelers have since spread the virus to several countries, including Singapore, Japan, Vietnam, Taiwan and South Korea as well as Hong Kong and Macau.
+
+"The first American case — involving a man in his 30s who recently traveled to Wuhan — was confirmed outside Seattle on January 21, before the Centers for Disease Control and Prevention announced on Friday a second case in Chicago. As of Friday, at least 41 people have died from the illness."
+
+The Atlantic: "The Deceptively Simple Number Sparking Coronavirus Fears" — "When a new disease emerges, health organizations turn to a seemingly simple number to gauge whether the outbreak will spread. It’s called the basic reproduction number—R0, pronounced R-nought—and though useful for decision-makers, it’s a nightmare for public communication. In brief, R0 is the average number of people who will catch the disease from a single infected person, in a population that’s never seen that disease before. If R0 is 3, then on average, every case will create 3 new cases. But even though it seems incredibly straightforward, it’s hard to calculate and tricky to interpret.
+
+"R0 is important because if it’s greater than 1, the infection will probably keep spreading, and if it’s less than 1, the outbreak will likely peter out. So it offers vital information to organizations and nations as they consider how to respond to an outbreak—such as the one the world is currently experiencing.
+
+"Since December, a previously unknown coronavirus, now called 2019-nCoV, emerged in the Chinese city of Wuhan. There have been more than 4,500 confirmed cases, the vast majority of which have been in mainland China. But several dozen cases have been detected in more than 15 other countries, and as the outbreak has spread, so has fear. Public health researchers have sped to estimate the R0 of the new disease, and as they have shared their findings, this number has fueled several alarmed missives on social media."
+
+The Economist: "The coronavirus discovered in China is causing global harm" — "China’s leader, Xi Jinping, often warns officials to be wary of 'black swan risks', meaning sudden unexpected events that can harm the economy. People typically assume he means wobbly banks or trade tensions. But the most immediate threat may be a new, sometimes deadly, virus that appears to be spreading. The outbreak raises dark memories of another one 17 years ago that killed hundreds of people and, briefly, nearly halted China’s growth.
+
+"The main worry is whether the government can control the virus, which can cause severe pneumonia. The bug is known as 2019-ncov, or more commonly, the Wuhan virus. It appears to have originated in early December in a fish and animal market in Wuhan, a city of 11 million people. On January 20th an official said 14 health workers who had treated patients were ill. This was the first clear evidence that the disease could pass from human to human and therefore spread more widely.
+
+"Between January 17th and 22nd the number of confirmed infections grew tenfold. It stood at 618 as The Economist went to press, of whom 17 had died. There are cases in most of China’s provinces. Infected travellers from China have been found in America, Japan, South Korea, Taiwan and Thailand. On January 23nd Wuhan declared a travel ban. Hours later Wuhan’s public transport was halted, airports closed and expressways blocked. A similar lockdown was imposed on two nearby cities, Ezhou and Huanggang."

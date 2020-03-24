@@ -1,0 +1,33 @@
+A cross-party group of 42 US politicians has urged the British government to reverse its decision to allow Huawei to have a role in its 5G data network.
+
+In a letter dated January 30 obtained by Defence News, the members of Congress said they were concerned with the decision to allow the Chinese network operator to have a role in Britain's new data network.
+
+They said it could put Britain's cyber infrastructure, public privacy and security of intelligence sharing at risk.
+
+Last week, British Prime Minister Boris Johnson made the controversial decision to use the Chinese company in its future data network.
+
+Under the rules laid out by London, the Chinese company will be limited to providing equipment such as antennas that transmit directly to people's personal devices.
+
+To lessen the security threat posed by Huawei, Britain intends to keep the company out of central parts of its telecoms network that handle sensitive data.
+
+It is also not allowed to have more than 35 per cent of the share of the UK market.
+
+But Mr Johnson has faced rebellion from members of his own Conservative Party, who have wanted to annul Huawei’s influence on British infrastructure.
+
+In the letter leaked on Tuesday, US members of Congress strongly urged the heads of the House of Commons defence committee to reconsider its decision, which they said led Britain and its allies on “a dangerous path”.
+
+“As you are aware, the government and private industry in China work together to expand the influence of the ruling Chinese Communist Party," the letter read.
+
+"Huawei is no exception to this strategy. Any information that enters the network of a Chinese company is property of the state and accessible to Chinese intelligence services."
+
+Huawei, the world’s largest telecom company, has claimed that this risk would not apply to the UK and that its networks are secure.
+
+But the letter said that such claims were untrue and that any short-term financial savings stemming from Huawei’s involvement in Britain’s 5G network “may evaporate due to long-term costs as monitoring, mitigation and maintenance accumulate”.
+
+The US has blacklisted Huawei because of fears it serves as a window to Chinese espionage.
+
+Last week, when he was in London visiting Mr Johnson, US Secretary of State Mike Pompeo asked Britain to reconsider its decision.
+
+"This is an extension of the Chinese Communist Party with a legal requirement to hand over information to the Chinese Communist Party," he said last Thursday.
+
+"We’ll evaluate what the UK did. We will make sure that when American information passes across a network, we are confident that the network is a trusted one."

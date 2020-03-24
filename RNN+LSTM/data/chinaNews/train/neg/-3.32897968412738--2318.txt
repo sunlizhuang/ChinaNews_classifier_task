@@ -1,0 +1,49 @@
+1. What’s 5G?
+
+The name stands for fifth-generation wireless network technology. 5G is the successor to 4G, the current top-of-the-line network technology first introduced commercially in 2009. The new service could end up being 100 times faster than its predecessor, with data speeds reaching 10 gigabits per second. That would allow consumers to download a full-length high-definition movie in seconds. Part of that speed comes from an architecture that processes some data locally, without having to pass everything back through the network for processing in remote data centers. 5G will also allow a leap forward by the “internet of things” -- the ballooning number of linked products, from smart refrigerators to traffic lights to dog collars, that will be sending and receiving data.
+
+AD
+
+AD
+
+2. Is it in use yet?
+
+It’s early days. South Korea switched on nationwide 5G networks in April and hit top speeds of 1 gigabit per second, according to a Rootmetrics report, with China following soon after and Japan a couple of years away. In the U.S. in 2019, T-Mobile turned on a limited band of nationwide 5G service and Verizon hit its target with 5G service available in parts of 30 cities, while AT&T Inc. vowed to have 5G available nationwide by the middle of 2020. British carriers introduced limited 5G services in 2019. Elsewhere in Europe, some operators are questioning the business case for an all-out push to 5G.
+
+3. When will 5G be the new normal?
+
+AD
+
+Not for a while. Even if you live in one of the roughly two dozen countries where carriers were rolling out 5G services at the start of 2020, it will be a couple of years at least before the geographic reach will be great enough to let you use your 5G phone without relying on current 4G or even 3G wireless networks much of the time. At the end of 2019, more than a dozen 5G phones were available from brands including Samsung, Huawei, LG, Moto, OnePlus, Xiaomi and ZTE. Apple aims to introduce one in 2020, a delay that could cost it market share, especially in China.
+
+AD
+
+4. What are the security worries?
+
+Some relate to the new network’s expected ubiquity. 5G isn’t necessarily easier to hack than its predecessors, but it will connect many more devices, so protection from malign actors becomes a larger concern. The current conflict centers on China’s Huawei Technologies Co., the world’s largest producer of telecom equipment.
+
+AD
+
+5. What’s the debate about Huawei?
+
+The U.S. wants to keep the company away from 5G. In May 2019, U.S. President Donald Trump moved to curb Huawei’s ability to sell equipment in the U.S. and, more significantly, to buy parts from U.S. suppliers. As the year-end approached, administration officials weighed even tougher rules. The U.S. says Huawei’s gear represents a threat to security, without specifying how, and that it’s connected to the Chinese government. Huawei says its equipment is just as secure as that from its rivals and denies links to Beijing. Security officials in the U.S. and some other nations have also suggested that Chinese 5G equipment, chips and software could be outfitted to spy on customers -- a kind of Trojan horse into the world’s information infrastructure -- although that has never been proven.
+
+AD
+
+6. How is that playing out?
+
+AD
+
+Many phone companies favor Huawei’s networking and telecommunication equipment for its technological edge and low cost. But the Trump administration has lobbied other nations to avoid Chinese 5G equipment, arguing chips and software could be outfitted to spy on customers -- a kind of Trojan horse into the world’s information infrastructure. Some countries have moved away from Huawei equipment while others have demanded more evidence. Australia last year banned Huawei and rival ZTE Corp. from supplying 5G equipment to its telecom operators, while European nations are seeking a middle ground. German authorities are proposing tighter security rules for data networks, but members of Chancellor Angela Merkel’s ruling party put forward an outright ban on Huawei. That was discouraged by Merkel -- and was met by Chinese threats of retaliation. The U.K. is still weighing a ban on the vendor’s systems, and France plans to put 5G equipment through tests that would be tantamount to asking suppliers to hand over their industrial secrets. Huawei is currently in a four-way race with Ericsson, Nokia and Samsung in sales of 5G networking equipment.
+
+7. Are there other issues with 5G?
+
+AD
+
+Some critics warn that 5G’s pervasiveness could create vulnerabilities in public infrastructure and among the billions of chips, sensors, cameras and appliances that are expected to be interconnected. Ericsson AB, the Swedish maker of wireless equipment, estimates that more than 22 billion gadgets will be connected to the internet of things by 2024. On the other hand, there’s still some debate whether 5G can live up to its billing across the board. The use of millimeter waves -- extremely high frequency bands that can carry a much higher data load -- is still being worked out and many 5G services and phones have launched without it in the initial phase. That’s because high frequencies are much more prone to interference, are generally only useful over short distances, and don’t find their way through walls and other physical barriers as well as lower bands.
+
+--With assistance from Sohee Kim, Thomas Seal, Peter Elstrom and Grant Clark.
+
+To contact the reporters on this story: Ian King in San Francisco at ianking@bloomberg.net;Scott Moritz in New York at smoritz6@bloomberg.net
+
+To contact the editors responsible for this story: Rebecca Penty at rpenty@bloomberg.net, John O’Neil

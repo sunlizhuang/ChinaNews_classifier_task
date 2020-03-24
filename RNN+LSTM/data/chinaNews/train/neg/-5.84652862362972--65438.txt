@@ -1,0 +1,31 @@
+China's To Blame For The Equifax Hack. But It Shouldn't Let Equifax, Or US Regulators, Off The Hook.
+
+from the plenty-of-blame-to-go-around dept
+
+The Department of Justice this morning formally announced that it has identified the Chinese government as the culprit behind the historic Equifax hack. If you've forgotten, the 2017 hack involved hackers making off with the personal financial data of more than 147 million Americans. Those victims were then forced to stumble through an embarrassing FTC settlement that promised them all manner of financial compensation that mysteriously evaporated once they went to collect it.
+
+According to the FTC's press release and the indictment (pdf), the four Chinese government employees responsible for the hack were all members of the People’s Liberation Army's 54th Research Institute, an extension of the Chinese military. The four exploited a vulnerability in the Apache Struts Web Framework software used by Equifax’s online dispute portal to first gain access to Equifax's systems, then ran more than 9,000 queries before managing to offload both consumer financial data and "proprietary Equifax info" (mostly related to databases) to a Dutch server.
+
+In a statement, Equifax was happy to see the onus shifted entirely onto the backs of the Chinese:
+
+"Cybercrime is one of the greatest threats facing our nation today, and it is an ongoing battle that every company will continue to face as attackers grow more sophisticated. Combating this challenge from well-financed nation-state actors that operate outside the rule of law is increasingly difficult. Fighting this cyberwar will require the type of open cooperation and partnership between government, law enforcement and private business that we have experienced firsthand."
+
+That rhetoric was mirrored in the DOJ's announcement and Bill Barr's speech, which repeatedly framed the entire Equifax saga as largely a victory for U.S. national security:
+
+"The size and scope of this investigation — affecting nearly half of the U.S. population, demonstrates the importance of the FBI’s mission and our enduring partnerships with the Justice Department and the U.S. Attorney’s Office. This is not the end of our investigation; to all who seek to disrupt the safety, security and confidence of the global citizenry in this digitally connected world, this is a day of reckoning."
+
+Except there are a few things both Equifax and Bill Barr forget to mention. One, the vulnerability that allowed the hackers to gain access to this data was known about by Equifax months before the attack and the company did nothing about it. Two, that this data wouldn't be available to steal if companies like Equifax hadn't made an industry out of collecting this sort of data -- without consumer consent and with no way for consumers to opt out -- in the process creating such a delicious target. A target they then failed to adequately secure and protect.
+
+So yes, while it's certainly great we've identified the hackers (who'll never see the inside of a jail cell), this entire mess could have been avoided.
+
+A few lawmakers, like Senator Mark Warner, were quick to applaud the investigation while highlighting how it shouldn't distract from Equifax's failures:
+
+"The indictment does not detract from the myriad of vulnerabilities and process deficiencies that we saw in Equifax’s systems and response to the hack,” Senator Mark Warner said in a statement provided to Motherboard. “A company in the business of collecting and retaining massive amounts of Americans’ sensitive personal information must act with the utmost care – and face any consequences that arise from that failure."
+
+Another thing neither Equifax or Bill Barr likely want to highlight is that the penalty for Equifax -- and the FTC settlement for consumers -- was little more than a cruel joke. While the $575 million FTC settlement was bandied about for being a "record" deal, like most hack/breaches, the final penalty was a far cry from the money made from collecting and selling access to this data for decades. And the consumer "compensation" aspect of the deal involved both useless "free" credit reporting software and $125 cash payouts that mysteriously disappeared when victims went to collect them, adding insult to injury.
+
+A lack of any meaningful US privacy law for the internet era means there's repeatedly no real punishment for companies that fail to secure the vast troves of data they're now collecting on your every waking moment. Nor is there any real compensation for consumers who may not have wanted this data collected, stored, and sold to every nitwit with a nickel. There are so many points of failure here -- from corporations that treat privacy and security as an afterthought to captured regulators too feckless to do anything about it -- that focusing too extensively on national security risks us learning absolutely nothing from the experience.
+
+Filed Under: china, cybersecurity, data breach, doj, security, william barr
+
+Companies: equifax

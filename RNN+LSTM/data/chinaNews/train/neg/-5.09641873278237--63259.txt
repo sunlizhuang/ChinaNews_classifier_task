@@ -1,0 +1,63 @@
+Kendra Titley Hyo-Jick Choi (right) and Ilaria Rubin (left).
+
+Medical face masks can block some germs, but germs also linger on their surfaces.
+
+Researchers say they have created a new type of face mask with a salt coating that can neutralise germs.
+
+The technology has been tested on three influenza strains.
+
+Visit Business Insider’s homepage for more stories.
+
+Medical face masks can feel almost impossible to keep on properly. Wearers constantly touch them to readjust, move them to scratch their faces, and regularly take them off and put them back on.
+
+All of those actions can help the germs on a mask’s surface get into your body. Experts say that for most people outside of Wuhan, China, face masks are unlikely to protect you from the current coronavirus outbreak, for example.
+
+But Hyo-Jick Choi, a biomedical engineer and professor at the University of Alberta in Canada, says he has a potential solution: A mask that can kill harmful pathogens, rather than just block them. The secret ingredient is table salt.
+
+Yichuan Cao/NurPhoto via Getty Images Face masks seen at a store in East Palo Alto, California, on January 26, 2020.
+
+Because the molecular structure of salt is crystalline, its hard, sharp corners can pierce viruses, rendering them unviable, Choi says.
+
+His team has been testing salt-coated masks in the lab for the past few years, and found that they can inactivate three strains of the influenza virus. The team published those initial findings in the journal Scientific Reports in 2017.
+
+They think the pathogen-neutralising technology could significantly improve infectious-disease prevention efforts and hope to bring the masks to market within the next 18 months.
+
+How the salt-coated mask works
+
+Viruses and other pathogens travel either through the air; in droplets such as saliva or phlegm from coughing, sneezing, speaking, or breathing; or on surfaces.
+
+“The coronavirus-carrying droplets, expelled from coughing, sneezing, speaking or breathing, can stay on the surface of the masks,” Choi told Business Insider. “The biggest technical challenge of the current surgical mask and n95 respirator is that they cannot kill the virus sitting on their surface, which increases the chance of the contact transmission.”
+
+But when a virus-carrying droplet encounters a mask coated in Choi’s salt solution, he says, it begins to absorb the salt. Then once the liquid evaporates, all that remains is the virus and the crystallised salt – which slices through the virus, neutralising it.
+
+The process takes as long as it takes the water to evaporate, Choi said.
+
+In his lab tests, he added, “the virus is inactive within five minutes, and it all got destroyed within 30 minutes.”
+
+Failed experiments sparked an idea for new masks
+
+Choi said he got the idea for a salt-coated mask from the failure of a different experiment.
+
+He was trying to develop oral vaccinations that are easier to deliver than shots. As part of that process, a weakened form of a virus was mixed into a sugar solution. But the structure of the sugars kept cutting the virus particles open, making the vaccine ineffective.
+
+“Crystal formation in sugar-based formulations destabilizes vaccines,” Ilaria Rubino, a University of Alberta Ph.D student in Choi’s lab group, told Business Insider in an email. “We wondered: Would then crystal re-growth of salt be able to inactivate viruses?”
+
+Hyo-Jick Choi Hyo-Jick Choi and Ilaria Rubin at the University of Alberta.
+
+The group began developing a salt film coating and applying it to the fibres of mask filters. Then they built and tested prototypes.
+
+Choi now has a provisional patent on the technology.
+
+Choi says the technology is commercially scalable
+
+Rubino said the simplicity of the salt-coating solution makes it easy to integrate into existing mask manufacturing processes.
+
+“One of the advantages of our technology is that it is not complicated, yet it is robust,” she said. “This would require very low capital investment and the material (salt) itself is inexpensive.”
+
+She added that the team hopes to work with companies to begin manufacturing the devices commercially within two years.
+
+“This also means that salt-coated masks could be stockpiled in preparation for pandemics and epidemics,” Rubino said. “They could be readily used at the time of outbreak, irrespective of the disease.”
+
+Business Insider Emails & Alerts Site highlights each day to your inbox. Email Address Join
+
+Follow Business Insider Australia on Facebook, Twitter, LinkedIn, and Instagram.

@@ -1,0 +1,25 @@
+SCB, which is the oldest bank in Thailand, announced that it wants to go digital. In order to do that, it has partnered with Ripple to provide instant, low-cost cross-border payments.
+
+Siam Commercial Bank (SCB) wants to develop a mobile application that runs on Ripple. The 112-year-old bank has around 16 million customers and they want to deliver “happiness and smiles” to their customers. Not really sure how a banking app can cause smiling and happiness, but SCB’s SVP of Commercial Banking, Arthit Sriumporn believes that it can be achieved by partnering with Ripple.
+
+Alright, putting jokes aside, let’s look at the results of a recent survey by PwC. They have found out that 86% of China’s population uses mobile banking apps. In Thailand, it’s near 67% of the total population. Overall, eight of the top ten countries using mobile banking apps in the world, come from Asia. This is a clear sign of the digitalization that we are witnessing right now. People in Asia are starting to switch to a much more modern means of exchanging everyday money.
+
+However, this couldn’t be described as a problem in a first world country. Apple Pay and similar payment providers are already a piece of everyday lives.
+
+Although that is the today of lots of people, at the same time, millions of people are still suffering because of problems that are long forgotten in a first world country.
+
+“It is so difficult to send and receive money today. People must physically go to a bank branch, fill out long and complicated forms and wait for payments to be received—with no transparency. With our service, their loved ones from abroad can transfer payment and receive money immediately”, explained Sriumporn.
+
+Arthit Sriumporn took the stage at Swell 2019, a conference in Singapore hosted by Ripple. She explained the new intentions of SCB’s mobile app and presented a demo. The app will be called SCB Easy and she even demonstrated a test payment that was received in 40 seconds. By partnering with Ripple, SCB finally fulfills their customer demands for low-cost cross-border payments that are fast and transparent.
+
+Additionally, Sriumporn describes this as “only the beginning” for partnership with Ripple as they are in plans to expand into Cambodia, Laos, Myanmar, and Vietnam.
+
+Also, the bank with the help of Ripple is working on developing cross-border EMVCo QR payments. Generally, QR payments is a very popular and rising method of transacting money, but it is typically only used in local areas.
+
+By doing this, SCB is not only going to offer their customers remittance services, but also micro-payment services.
+
+“Imagine you are a tourist coming to Thailand, and you can use your home country mobile application to scan for payment and eliminate the need to exchange for local currency. You can use your mobile app, scan the QR payment and receive goods right away”, this way she described the new features.
+
+At the end of her presentation, she said that they are “changing lives with Ripple”.
+
+Author: Janis Rijnieks Janis is a cryptocurrency enthusiast and a bitcoin adherent. He has a background in video production, but for the past couple of years, he is a full-time crypto researcher and writer. He has a good understanding of multiple cryptocurrencies and loves to cover daily news. He considers himself a semi-bitcoin maximalist but always is open to any kind of new ideas that could be put on the blockchain. In his free time, he likes skateboarding and cars.

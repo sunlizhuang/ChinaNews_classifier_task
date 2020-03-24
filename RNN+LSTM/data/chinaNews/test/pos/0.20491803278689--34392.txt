@@ -1,0 +1,19 @@
+For hundreds of years, practitioners of traditional Chinese medicine have used an herb called Stemona sessilifolia as a remedy for parasitic infections, such as those caused by pinworms and lice. Now, researchers reporting in ACS' Journal of Agricultural and Food Chemistry have identified 10 compounds that might be responsible for the herb's effectiveness. But there's a twist: The insecticides are produced by symbiotic microbes that live within the plant's cells -- not by S. sessilifolia itself.
+
+Endophytes are microorganisms that live inside plant cells but do not cause apparent disease. Instead, some endophytes help plants survive by enhancing growth, nutrient acquisition, or resistance to drought or pests. Therefore, scientists are investigating endophytes as potential sources of new medicines and agrichemicals. Xiachang Wang, Lihong Hu and colleagues wanted to screen endophytes from S. sessilifolia for insecticidal activity.
+
+To isolate endophytes, the researchers spread fresh, cut-up pieces of S. sessilifolia on agar plates. They then collected the bacteria that grew on the plates, analyzed the DNA and identified the microbes as Streptomyces clavuligerus. Using nuclear magnetic resonance spectroscopy and mass spectrometry, the team purified 10 new compounds from the bacteria with structures similar to a class of insecticides known as pyrroles. Testing the substances on insects revealed that they were strongly toxic to aphids and moderately toxic to spider mites. A bacterial extract containing all of the compounds had greater lethal activity than any compound alone. These substances, or the bacteria that produce them, could be promising new natural pesticides, the researchers say.
+
+###
+
+The authors acknowledge funding from the National Key R&D Program, the Nature Science Foundation of Jiangsu Higher Education Institutions of China, the Outstanding Scientific and Technological Innovation Team Program of Jiangsu Higher Education Institutions, Jiangsu Provincial "Double Creation Program" and the Priority Academic Program Development of Jiangsu Higher Education Institutions.
+
+The paper's abstract will be available on January 29 at 8 a.m. Eastern time here: http://pubs. acs. org/ doi/ abs/ 10. 1021/ acs. jafc. 9b06755 .
+
+For more research news, journalists and public information officers are encouraged to apply for complimentary press registration for the ACS Spring 2020 National Meeting & Exposition in Philadelphia.
+
+The American Chemical Society (ACS) is a nonprofit organization chartered by the U.S. Congress. ACS' mission is to advance the broader chemistry enterprise and its practitioners for the benefit of Earth and its people. The Society is a global leader in providing access to chemistry-related information and research through its multiple research solutions, peer-reviewed journals, scientific conferences, eBooks and weekly news periodical Chemical & Engineering News. ACS journals are among the most cited, most trusted and most read within the scientific literature; however, ACS itself does not conduct chemical research. As a specialist in scientific information solutions (including SciFinder® and STN®), its CAS division powers global research, discovery and innovation. ACS' main offices are in Washington, D.C., and Columbus, Ohio.
+
+To automatically receive news releases from the American Chemical Society, contact newsroom@acs.org.
+
+Follow us: Twitter | Facebook

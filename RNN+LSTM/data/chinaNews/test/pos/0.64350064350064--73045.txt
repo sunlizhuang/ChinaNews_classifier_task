@@ -1,0 +1,71 @@
+Ten million Taiwanese fact checkers
+
+Ms Tang was one of the “civic hackers” who helped mobilise people online; she’s now using distributed ledgers, quadratic voting and various online open-source platforms to enable greater participatory democracy in Taiwan.
+
+Former anarchist Audrey Tang, Taiwan's Digital Minister, says social media has “enabled a sense of shared reality” in the country. Supplied
+
+Roughly half the country now participates in digital governance via an online platform that allows the public to weigh in on everything from labour law (should Uber be allowed to operate in Taiwan? Yes. Can it undercut traditional taxi fares? No) to proposing their own legislation, including a ban on plastic straws in takeaway drinks.
+
+Around 10 million people are now active on the platform, not only helping to craft law, but fact-checking politicians.
+
+Taiwan’s government requires state agencies to rebut any false claims made online or on social media relating to their areas of responsibility within two hours.
+
+Users also engage in “presidential hackathons” that aim to generate innovative solutions to public problems.
+
+They learn — as part of the public school curriculum — about how to be “data stewards” rather than simply data consumers.
+
+Advertisement
+
+They are serious about transparency: Ms Tang posts all interviews with the press online within days of them occurring. It seems to be going a long way towards building trust in the country’s system of governance.
+
+A report by a Swedish research group called V-Dem found Taiwan was subject to more disinformation than nearly any other country, much of it coming from mainland China.
+
+Stav Shaffir is now heading an OECD transparency group to teach other politicians how to do the same. Ruth Pollard
+
+Yet the popularity of pro-independence politicians is growing there, something Ms Tang views as a circular phenomenon.
+
+When politicians enable more direct participation, the public begins to have more trust in government.
+
+Rather than social media creating “a false sense of us versus them,” she notes, decentralised technologies have “enabled a sense of shared reality” in Taiwan.
+
+The same seems to be true in a number of other countries, including Israel, where Green party leader and former Occupy activist Stav Shaffir crowdsourced technology expertise to develop a bespoke data analysis app that allowed her to make previously opaque Treasury data transparent.
+
+She’s now heading an OECD transparency group to teach other politicians how to do the same.
+
+Advertisement
+
+Part of the power of decentralised technologies is that they allow, at scale, the sort of public input on a wide range of complex issues that would have been impossible in the analogue era.
+
+Consider “quadratic voting”, a concept that has been popularised by economist Glen Weyl, co-author of Radical Markets: Uprooting Capitalism and Democracy for a Just Society.
+
+Mr Weyl is the founder of the RadicalxChange movement, which aims to empower a more participatory democracy.
+
+Unlike a binary “yes” or “no” vote for or against one thing, quadratic voting allows a large group of people to use a digital platform to express the strength of their desire on a variety of issues.
+
+For example, when he headed the appropriations committee in the Colorado House of Representatives, Chris Hansen used quadratic voting to help his party quickly sort through how much of their $US40 million ($60 million) budget should be allocated to more than 100 proposals.
+
+“We got to yes so much more quickly,” said Mr Hanson, who is now a state senator and plans to use the system in senate appropriations.
+
+Rebuilding trust from the ground up
+
+Canadian conservatives are considering using quadratic techniques to help allocate public funding to the media.
+
+Advertisement
+
+Quadratic voting has also been used by numerous state, local, and national governments to gauge public priorities around contentious issues — such as gun rights in Japan.
+
+This starts to tackle one of the key problems in democratic politics today — the lack of a middle ground.
+
+One of the most nefarious byproducts of the rise of the big technology platforms has been growing political polarisation via the amplification of extreme views.
+
+This is supported by a targeted advertising business model that gives users more and more of the most sensational (and clickable) content.
+
+That in turn pushes us ever deeper into cognitive bubbles of our own making.
+
+And yet, while we may seem more divided than ever before, many people on both sides of the political spectrum care about the same handful of issues — education, healthcare, pensions, and so on.
+
+Healing the rifts will require rebuilding trust in the system itself.
+
+That may involve leveraging technology not from the top down, but from the bottom up.
+
+Financial Times

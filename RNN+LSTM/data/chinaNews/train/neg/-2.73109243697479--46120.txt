@@ -1,0 +1,41 @@
+Raytheon employee arrested for taking work laptop with classified information to China FBI arrests electric engineer for taking info about US missile defense systems to China and then lying about it.
+
+Special feature Cyberwar and the Future of Cybersecurity Today's security threats have expanded in scope and seriousness. There can now be millions -- or even billions -- of dollars at risk when information security isn't handled properly. Read More
+
+The FBI arrested a Raytheon employee last week for taking a work laptop with information about US missile defense systems to China despite his employer's warnings -- and by doing so breaking arms and weapons export laws.
+
+The man was identified as 48-year-old Wei Sun, a resident of Tucson, Arizona.
+
+According to his LinkedIn page, Sun has worked at Raytheon since December 2008, serving as an electrical engineer working on analog circuitry design.
+
+According to court documents, Sun worked inside Raytheon's military-oriented Ballistic Missile Defense (BMD) programs, for which he received clearance to handle classified material labeled as SECRET.
+
+Sun's trip abroad
+
+US authorities say that on December 1, 2018, Sun told Raytheon bosses he was planning upcoming travel overseas and intended to take his work-issued HP laptop with him.
+
+Despite being informed that his work laptop contained weapons exports-controlled information, Sun ignored his company's advice and left the US on December 18, 2018, taking his laptop with him.
+
+While abroad, on January 7, 2019, Sun accessed his Raytheon email account and sent an email to supervisors informing them he was resigning to study and work overseas.
+
+When Sun returned to the US on January 14, 2019, he was interviewed by Raytheon's security staff the next day.
+
+During the interview, Sun initially told the Raytheon security personnel that he went to Singapore and the Philippines. However, after providing inconsistent information as to his travel itinerary, Sun eventually admitted that he had travelled to China, Cambodia, and Hong Kong.
+
+Sun exposed details on missile defense systems' FPGA circuitry
+
+According to a superseding indictment, Sun's laptop contained at least five files that were subject to International Traffic in Arms Regulations (ITAR), meaning Sun and Raytheon were supposed to get approval from the US government in order to transfer the files abroad.
+
+Image: ZDNet
+
+According to a criminal complaint, the files contained information relating to field-programmable gate array (FPGA) circuits used by Raytheon in programs like AMRAAM and RKV.
+
+Theseare air-to-air, air-to-surface, and air-to-ground missile defense systems that have been contracted by the Pentagon part of the US missile defense systems. While the Pentagon abandoned the RKV program last year because of design issues, the AMRAAM system is operational, and in use by the US military.
+
+Court documents don't say if the files have been acquired by a foreign state during Sun's travels.
+
+Raytheon terminated Sun's contract on the day of the interview, on January 15, 2019. Sun was arrested a year later, on January 24, 2020, and charged on five counts of breaking ITAR, one for each of the files he took abroad. Quartz first reported on his arrest.
+
+Sun is a Chinese-born American citizen. His court case is 4:19-cr-00472-RM-JR.
+
+A Raytheon spokesperson did not respond to a request for comment before this article's publication.

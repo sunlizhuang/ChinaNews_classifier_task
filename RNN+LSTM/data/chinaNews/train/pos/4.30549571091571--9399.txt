@@ -1,0 +1,139 @@
+NEW YORK, Jan. 15, 2020 /PRNewswire/ -- The following roundup is a collection of stories dealing with the CES 2020 conference and is appropriate for special sections and for general use.
+
+For each story included in this package, you will find the first paragraph of the release below, as well as its headline linked to the full text.
+
+This is the latest in a series of event-related roundups PRN will carry as part of its regular Cision Roundup News Service. Coming up in 2020 are roundups on:
+
+
+
+Package Name Slug Distribution Date MWC Barcelona 2020 I MWC Barcelona 2020 I Feb. 24 MWC Barcelona 2020 II MWC Barcelona Mar. 4 HIMSS 2020 I HIMSS 2020 I Mar. 9 HIMSS 2020 II HIMSS Mar. 18 InfoComm 2020 I InfoComm 2020 I June 12
+
+
+
+CES 2020 II Cision Roundup
+
+1. UL Announces GE Appliances as First Household Appliance Brand to Test Connected Consumer Devices with New IoT Security Rating
+
+LAS VEGAS, Jan. 8, 2020 /PRNewswire/ -- UL, a leading global safety science company, today announced at CES that GE Appliances is the world's first household appliance brand to test its connected products against UL's IoT Security Rating assessment.
+
+2. HiMirror, Global Beauty Tech Leader, to Showcase Latest Innovations at CES 2020
+
+LAS VEGAS, Jan. 6, 2020 /PRNewswire/ -- HiMirror, pioneering beauty tech brand, is thrilled to announce their unveiling of the HiMirror Slide at Consumer Electronics Show 2020 in Las Vegas.
+
+3. DroneInch Introduces Industry's First Carrier-Class Drone Operations Management Platform
+
+FREMONT, Calif., Jan. 6, 2020 /PRNewswire/ -- DroneInch, Inc. today announced DroneInch 2.0, the industry's first carrier-class drone operations management platform. Unique features include remote and compliant flight planning, carrier-class operations, multi-stakeholder workflows, and flexible pricing models. The software works across a range of DJI consumer, professional and enterprise thermal drones (Spark, Mavic, Phantom, Inspire and Matrice series). The system can be seen at the Consumer Electronics Show (CES) this week in Las Vegas at Eureka Park in the Sands Pavilion, Hall G, Booth # 51107. DroneInch 2.0 is available immediately from the Apple App Store.
+
+4. Panasonic Receives UL's First E-Bike Electrical System Safety Certification
+
+NORTHBROOK, Ill., Jan. 6, 2020 /PRNewswire/ -- UL, a leading safety science company, announced today that an e-bike was certified to a new North American safety Standard, UL 2849, the Standard for Electrical Systems for eBikes.
+
+5. Sony Highlights its Evolution as a "Creative Entertainment Company with a Solid Foundation of Technology" at CES 2020
+
+LAS VEGAS, Jan. 6, 2020 /PRNewswire/ -- Sony Corporation ("Sony") will exhibit at the CES 2020 in Las Vegas, Nevada, held from Tuesday, January 7 (local time).
+
+6. truMedic to Reinvent Massage Therapy Tech Industry at CES 2020
+
+KINGS PARK, N.Y., Jan. 7, 2020 /PRNewswire/ -- New York-based massage and pain relief technology company, truMedic , which earned critical acclaim for its InstaShiatsu+ line of personal massagers, today announces its launch of a range of disruptive new designs at CES. From percussive therapy to redesigned personal massagers, the patent pending line defines a disruptive new standard for possibility in pain relief and recovery creating a new "world beyond relief." Following the recent announcement of the truMedic MagicHands™ truShiatsu™ Neck and Back Massager selection as one of Oprah's Favorite Things in 2019 – the brand's second year in a row being among the esteemed brands selected to the list, truMedic has reimagined the personal massage products category. As seen on "Tamron Hall," "The View," "Good Morning America," "The Doctors," People Magazine and more, the brand is at the forefront of the attention in the pain relief category.
+
+7. Green Hills Software Delivers Safety and Security for Mahindra Racing's All-Electric Formula E Race Car
+
+LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- CES 2020 -- Green Hills Software, the worldwide leader in embedded safety and security, is showcasing at CES® 2020 the all-electric Formula E race car from Mahindra Racing that relies on the safe and secure INTEGRITY® RTOS and optimized development tools from Green Hills Software. The multi-year partnership is fueling Mahindra's strategic Race to Road initiative – a plan to win races with innovative electric vehicle technology and easily transfer it to production road vehicles. The rigors of racing and its inherent competitive pressure demand a software platform with the highest efficiency, safety and security, while the software teams require development tools that help them be more productive and decrease the time to develop new software. Finally, the software platform must be scalable and flexible so as to be reused off the racetrack on electric passenger and commercial vehicles.
+
+8. Green Hills Software and NXP Team Up on Safe and Secure Platform for Vehicle Networking
+
+LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- CES 2020 -- Green Hills Software, the worldwide leader in embedded safety and security, today announced it has expanded its Green Hills Platform for Secure Gateway to include the new S32G Vehicle Network Processor from NXP® Semiconductors. The platform combines the newly-announced and segment-defining S32G Vehicle Network Processor with Green Hills Software products and services which include: ASIL-certified INTEGRITY® real-time operating system (RTOS), INTEGRITY Multivisor® secure virtualization and integrated MULTI® development suite. The platform enables global carmakers and their suppliers to add new levels of safe and secure performance while mixing applications with differing ASIL certification levels, including open source environments such as Linux, to power the next generation of central gateways and domain controllers in production vehicle programs.
+
+9. Green Hills Software and RTI Collaborate on High Performance, Safe and Secure Automotive-Grade Connectivity
+
+LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- CES 2020 -- Green Hills Software, the worldwide leader in embedded safety and security, and Real-Time Innovations (RTI), the Industrial Internet of Things (IIoT) connectivity company, today announced their collaboration in the automotive industry with a demonstration of safe and secure connectivity solutions for critical embedded systems. The partnership brings together the safe and secure real-time operating system INTEGRITY® from Green Hills, with the robust Connext® DDS connectivity framework from RTI. Applications running on INTEGRITY can now communicate to other software environments such as ROS and Adaptive AUTOSAR using the standards-based Data Distribution Service™ (DDS) framework. The combined solution gives system architects a trusted real-time software foundation to build intelligent distributed systems that achieve the highest levels of safety and security in applications such as autonomous vehicles, avionics and transportation.
+
+10. INTEGRITY Security Services Misbehavior Authority Service (MAS) Completes Operational Testing
+
+LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- CES 2020 -- INTEGRITY Security Services (ISS) today announced the successful operational testing of the ISS Misbehavior Authority Service (MAS) with its partners Noblis, Qualcomm, Savari and Siemens Mobility at the Turner-Fairbank Highway Research Center. Noblis provided overall project coordination. Qualcomm provided a new Aerolink misbehavior detection and reporting library, and Savari and Siemens provided On-board Units (OBUs) and Roadside Units (RSUs) respectively. These tests conclusively demonstrated the ability for both OBUs and RSUs, in a real world environment, to detect misbehavior events in the V2X ecosystem, report them to the ISS MAS, and receive a certificate revocation list (CRL) which removes the misbehaving device from the ecosystem.
+
+11. Polysync introduces Prism, the most powerful vehicle interface platform for autonomous mobility solutions
+
+LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- CES 2020 -- Polysync Technologies, a leading developer of driverless vehicle technologies, today announced the introduction of Prism, its flagship vehicle interface platform. Prism is specifically designed to enable OEMs and AV industry partners to easily and safely interface with a wide range of vehicles and vehicle types, dramatically reduce development costs, and accelerate their time to market.
+
+12. At CES, Coolpad Showcases Upcoming 5G Device, Dyno 2 and New Features on FamilyLabs App
+
+LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- Global consumer electronics company Coolpad, today announced that it will be sharing a preview of its future 5G smartphone, Dyno 2 Smartwatch and new feature updates from FamilyLabs at CES 2020.
+
+13. ANDE Corporation Is Honored with CES 2020 Innovation Award
+
+WALTHAM, Mass. and LONGMONT, Colo., Jan. 7, 2020 /PRNewswire/ -- ANDE Corporation (https://www.ande.com/), the global leader in Rapid DNA Human Identification, today announced it is starting the new year off as the recipient of a distinguished CES 2020 Innovation Award in the "Tech for a Better World" category. CES is showcasing the honorees at its annual conference this week in Las Vegas, NV.
+
+14. PopSockets Announces New Product Launch: PopPower Home Charger, Powered by NuCurrent at the Consumer Electronics Show
+
+LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- Consumer Electronics Show -- PopSockets is thrilled to announce the launch of its latest lifestyle technology product, the PopPower Home Charger, at the 2020 Consumer Electronics Show. The best-performing Qi-certified wireless charger on the market, PopPower uses technology developed by NuCurrent, the leader in wireless power innovation. PopPower is designed to optimize charging with a PopGrip on your phone, and is the only charger on the market that is capable of charging through both a PopGrip and a thick phone case. The recessed center perfectly aligns with your grip for fast, simple, charging and comes in three chic styles - Matte White, Mountainscape and Cosmic Cloud.
+
+15. At CES 2020, AARP Showcases Age-Tech and the Market Potential of Consumers Age 50-Plus
+
+WASHINGTON, Jan. 7, 2020 /PRNewswire/ -- AARP will showcase innovation in age-tech and highlight opportunities created by the growing age 50-plus market at booth #41131 in the Sands at CES 2020.
+
+16. Vesper Microphones Power Smart Home Fire Safety Device, LifeDoor
+
+BOSTON, Jan. 7, 2020 /PRNewswire/ -- Vesper, a leading provider of intelligent sensors, today announced that its ZeroPower Listening™ microphones were chosen to bring extended battery life and durability to the lifesaving fire safety devices from LifeDoor. Founded and funded by firefighters, LifeDoor has pioneered an entirely new class of home safety product that protects people and property in the event of a fire. The brands will demonstrate the technology at the Consumer Electronics Show (CES), taking place in Las Vegas this week.
+
+17. Clario Introduced at CES 2020: A New Way for Anyone to Fight Cybercrime
+
+LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- Forget what you know about cybersecurity. Clario Tech Ltd (https://clario.co/), a newly formed digital privacy and security company, today announces a bold new approach to the mounting $6 trillion cybercrime crisis.
+
+18. Wooptix showing the first ever single lens light field camera at CES 2020 in Las Vegas
+
+LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- Wooptix, a small Intel Capital portfolio company specializing in advanced imaging technology, will be at CES in Eureka park in the Tech West Sands expo hall booth 53352 presenting the first ever single lens light field camera capable of capturing light field video in real time. With no loss of resolution, Wooptix can generate a depth map directly from the light field video enabling live 3D video. Light field capturing allows the user to generate an all-in-focus video frame or select focus within each video frame after the video has been acquired. Cinematographers can take advantage of the depth information associated with each pixel, making green screens a part of the past. Additionally, the special effect cinematography team can even replace individual pixels in the foreground.
+
+19. Tanvas Releases Desktop Development Kit for Production-Ready Surface Haptic Creation
+
+CHICAGO, Jan. 7, 2020 /PRNewswire/ -- Tanvas, Inc. (https://tanvas.co), pioneers of the next generation of multi-touch haptic technology, announce the general availability of the TanvasTouch Desktop Development Kit. TanvasTouch surface haptics enable textures and haptic effects to be defined by software and felt with the swipe of a finger on touch-enabled surfaces.
+
+20. Innolux Corporation and Tanvas Partner to Deliver TanvasTouch Surface Haptics in an Automotive-Qualified Display
+
+CHICAGO, Jan. 7, 2020 /PRNewswire/ -- Tanvas, Inc. ( https://tanvas.co ), pioneers of the next generation of multi-touch haptic technology, have partnered with Innolux Corporation (http://www.innolux-automotive.com). The companies will produce a 15" automotive-qualified touch display using TanvasTouch, programmable textures and haptic effects on smooth, physical surfaces.
+
+21. ASICS Opens Doors To Innovation Labs At CES 2020
+
+LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- Today, ASICS takes its science out of the lab and showcases the technology behind their ground-breaking innovations at CES 2020 with the ASICS Energy Research Lab. This booth lifts the curtain on the work done by the world-renown researchers of the ASICS Institute of Sport Science (ISS), bringing their lab into the real world and demonstrating how technology can help us run further, faster and easier.
+
+22. Aptiv Unveils Smart Vehicle Architecture™ at CES 2020
+
+LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- Aptiv PLC (NYSE: APTV), a leading technology company committed to making mobility safer, greener, and more connected, unveiled today a modern, sustainable vehicle architecture that enables automakers to improve safety, increase vehicle efficiency, and deliver the intelligently connected, software-defined experiences consumers want.
+
+23. CES 2020: SK hynix Displays its Semiconductor Technologies Leading the 4th Industrial Revolution
+
+SEOUL, South Korea, Jan. 8, 2020 /PRNewswire/ -- SK hynix Inc. (or "the Company," www.skhynix.com) presents its innovative semiconductor technologies leading the 4th Industrial Revolution at CES 2020, the world's largest trade show for IT and consumer electronics in Las Vegas, USA, from January 7-10, 2020.
+
+24. Haier Defines the Future of Smart Homes at CES 2020
+
+LAS VEGAS, Jan. 8, 2020 /PRNewswire/ -- Haier Group (600690: Shanghai), China's largest consumer electronics and home appliance producer, ushered in next-generation living with its revolutionary smart home experiences ecosystem at the CES 2020 Haier booth in Las Vegas, Nevada. Haier's visionary look at the future draws upon more than 40 products across Haier's portfolio of brands, allowing for infinite customization based on user scenarios.
+
+25. Kohler's Numi 2.0 Intelligent Toilet Named as CES 2020 Innovation Awards Honoree
+
+KOHLER, Wis., Jan. 8, 2020 /PRNewswire/ -- Kohler Co., a global leader in the design and innovation of kitchen and bath products, announced that the Numi 2.0 Intelligent Toilet has been recognized among CES® 2020 Innovation Awards Honorees in the smart home category. Products recognized as the honorees scored above the threshold set for their respective product categories. Numi 2.0 Intelligent Toilet joins Kohler's other recipient products, Verdera Voice lighted mirror with Amazon Alexa (2018 Innovation Honoree) and Sensate Touchless Kitchen Faucet with KOHLER Konnect (2019 Best Of Innovation), marking 2020's recognition the global brand's third consecutive win at CES.
+
+26. CJ 4DPLEX Successfully Launches the Future of Cinema at CES 2020
+
+LOS ANGELES, Jan. 8, 2020 /PRNewswire/ -- CJ 4DPLEX, the world's leading cinema technology company, successfully debuted at CES 2020 - The Global Stage for Innovation - proving the changing trend of cinema-going from simply 'watching' to 'experiencing.'
+
+27. SIMCom Shines at International Consumer Electronics Show 2020, Las Vegas
+
+LAS VEGAS, Jan. 9, 2020 /PRNewswire/ -- On January 7, the International Consumer Electronics Show (CES) 2020 kick off in Las Vegas, and attracted numerous exhibitors and visitors by a wide range of diverse exhibits. As the global leading Machine-to-Machine (M2M) wireless modules and solutions supplier, SIMCom has come with full sincerity and many products.
+
+28. BOE exhibits a galaxy of innovative display technologies at CES 2020
+
+LAS VEGAS, Jan. 9, 2020 /PRNewswire/ -- CES 2020 opened on January 7 as expected in Las Vegas, the United States. Well-known consumer electronics companies from across the world showcased their latest technologies and products on this international stage. Among them, BOE presented its 8K, Mini LED, BD Cell, BOE iGallery and other eye-opening display technologies and products and was awarded the 2019-2020 Top 10 CE Brands.
+
+29. CJ 4DPLEX Successfully Wraps CES 2020
+
+LOS ANGELES, Jan. 10, 2020 /PRNewswire/ -- CJ 4DPLEX, the world's leading cinema technology company, stunned convention attendees at CES 2020 - The Global Stage for Innovation - presenting its latest '4DX Screen' auditorium, an innovative theatre system converging two ground-breaking cinema formats, 4DX and ScreenX, along with introducing a mobile AR game created with the latest in cutting-edge computer vision technology.
+
+30. TECNO Mobile Consolidating Its Collaboration with Google at CES 2020
+
+SHANGHAI, Jan. 9, 2020 /PRNewswire/ -- Global premier mobile phone brand TECNO Mobile brought its latest Camon 12 Pro Smartphone, powered by Google's Android™ 9 Pie operating system and equipped with the Google Assistant Button, to CES 2020.
+
+If you would like a copy of the complete schedule, or if you would care to comment, please email [email protected]. We welcome suggestions. Copies of previous packages will be available for the media. Cision roundups and photos are also available on the PR Newswire Web site.
+
+Photos that accompany releases are available for download from PRNewswire.com.
+
+SOURCE PR Newswire Association LLC

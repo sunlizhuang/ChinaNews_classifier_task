@@ -1,0 +1,37 @@
+BRUSSELS (Jan 30): The European Union stopped short of an outright ban on Huawei Technologies Co and other Chinese 5G suppliers, seeking to navigate a path between warnings from U.S. President Donald Trump and provoking Beijing.
+
+In a set of commonly agreed guidelines on how to mitigate risks stemming from the roll-out of next generation telecoms networks, the EU said companies based in non-democratic countries could be excluded from the procurement of certain core components, following assessments by security agencies.
+
+But despite intense U.S. lobbying, the so-called toolbox of measures released Wednesday doesn’t recommend a preemptive blanket ban of Chinese equipment, a decision that follows the U.K. on Tuesday allowing Huawei components into non-core networks. EU member states have until April 30 to implement the mitigating measures included in the toolbox.
+
+“We know that the decisions the EU and its Member States will take on these matters will have an impact in the way we relate with our partners,” Margrethe Vestager, Executive Vice President in charge of digital affairs, said at a press conference. “What we are defining today is a European approach to 5G security.”
+
+The EU’s position reflects a balancing act between concerns about the risk of Chinese espionage and the bloc’s reluctance to pick a fight with its second-biggest trading partner, which over the past decade has been expanding its presence in the continent with large-scale investment projects. The fudge is an effort to navigate Beijing’s warnings of repercussions if companies like Huawei were banned, and U.S. threats of sanctions, such as cuts in intelligence sharing, if Chinese equipment is used.
+
+In a press briefing ahead of the announcement, EU Internal Market Commissioner Thierry Breton said he met with Trump in Davos last week to discuss the bloc’s 5G plans. “I don’t have a fear,” he said of the potential U.S. reaction, adding “we explained very clearly our strategy and I think he understands, but now we will see what will happen.”
+
+Calling it a “non-biased and fact-based approach,” Huawei welcomed the EU’s announcement, which it said “enables Huawei to continue participating in Europe’s 5G roll-out.” The Chinese Mission to the EU said it’s “studying and assessing” the toolbox, adding that China hopes that Europe will act “in good faith to foster a fair, open, just and non-discriminatory environment for business investment.”
+
+The new policy document urges EU member states to apply ad hoc restrictions on merit for certain suppliers of key 5G components, including core, network management, access network, and orchestration functions. The assessment criteria, already published in December, include “a strong link between the supplier and a government,” and the lack of “legislative or democratic checks and balances” in the home-country of the company.
+
+“A handful of countries and politicians, driven by their own hidden agenda, are sparing no efforts to politicize the issue of cyber security, and seek to restrict and bring down countries and companies of a different social system,” a spokesman of the Chinese Mission to the EU said. “Such an outdated cold-war mentality is posing the biggest risk to cyber security, and must be rejected categorically.”
+
+Mitigating Measures
+
+While these guidelines may encourage some governments to restrict the participation of Huawei and other Chinese companies in parts of their next-generation broadband, they also leave room for interpretation and don’t call for a de facto ban. Decisions are left to individual member states, as the EU doesn’t have the competence to regulate centrally in this area.
+
+The proposals also include bolstering the role of national authorities, audits of telecom operators and measures to ensure diversity of suppliers for any single telecommunications operator. In addition, the EU proposes stricter screening of foreign direct investment in the area of 5G and possible anti-dumping duties and other penalties for companies benefiting from state subsidies.
+
+An EU diplomat said the bloc’s countries can also use other legislation, such as rules for procurement in the areas of defense and security, to further limit the use of Huawei’s equipment. The EU is also preparing beefed up rules that would raise the price of bids placed in Europe by companies based in countries with protectionist procurement legislation, such as China.
+
+Telecom operators welcomed the EU’s announcement but urged national governments “to avoid disproportionate actions that negatively impact the investment climate” as they implement the guidelines, ETNO, the association of some of Europe’s largest telecom operators, said in a statement. The operators added they would continue to pursue a “multi-vendor strategy.”
+
+Still, the overall stance, first reported by Bloomberg News on Jan 22, may come as another blow to the U.S. a day after the U.K. risked a rift with President Trump by giving Huawei the green light to help develop Britain’s 5G networks. U.S. officials expressed regret at the decision even though the U.K. announced it would keep high-risk vendors out of the most sensitive core parts of its networks.
+
+Breton said the U.K., which leaves the bloc Friday, was involved in designing the toolbox and played an active role in the definitions around what is considered “high risk.”
+
+U.S. officials have long urged European governments to exclude Huawei from all sections — core and non-core — of their networks, arguing it threatens their national security. The EU partly shares these concerns, as 5G will connect everything to networks, making societies more susceptible to sabotage and espionage.
+
+In a review published in October, the bloc warned against a nightmare scenario, whereby hackers or hostile states assume control of everything from electricity grids to police communications and even home appliances.
+
+Huawei and Chinese officials have repeatedly denied that the company poses a spying risk.

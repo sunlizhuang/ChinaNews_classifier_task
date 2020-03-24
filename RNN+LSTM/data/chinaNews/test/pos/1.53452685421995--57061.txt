@@ -1,0 +1,17 @@
+The continued growth of renewables in the global energy mix is inextricably linked to grid level energy storage, which can smooth out the inherent intermittency of solar and wind generation, ensure that generated power is in the right place to meet demand and provide a range of other services to the grid.
+
+While lithium-ion is the best-known storage technology today, a range of different battery technologies offers the potential to provide valuable services to electricity grids around the world, each with its own advantages and disadvantages.
+
+In a new paper, researchers at Tianjin University in China examine these battery technologies, providing a broad perspective on the state of battery technology for grid applications today, and offering a roadmap to guide future studies in this areas. Their findings are published in the paper Battery Technologies for Grid-Level Large-Sale Electrical Energy Storage, published in Transactions of Tianjin University.
+
+The researchers identify three main roles for batteries to perform at grid level:
+
+Peak shaving & load leveling: To balance gaps in demand. Voltage and frequency regulation: To achieve a real time balance with non-uniform load on the grid Emergency energy storage: Providing back up power and preventing outages.
+
+The paper discusses the role of a wide range of existing battery technologies and their ability to provide these services safely and cost effectively, and the challenges that exist for each.
+
+“Battery energy storage technologies with rapid response, low cost, long lifetime, high power, and energy efficiency can be distributed throughout the grid and therefore are desirable for utilization in grid-level electrical energy storage,” say the researchers. “However, some trade-offs often exist among different properties and no existing batteries can meet all the requirements.”
+
+The paper offers analysis of battery technologies including lead-acid, nickel cadmium, nickel metal hydride, sodium-sulfur, lithium-ion and flow batteries of various chemistries.
+
+Three broad conclusions are drawn from this analysis – that research should move in the direction of novel battery systems aimed at meeting all the requirements of grid level energy storage, that cost efficiency requirements mean efforts should focus on batteries based on cheap, abundant materials – such as sodium-ion. And finally, that modelling and comparison between different battery technologies is vital in establishing the best option for a given use case.

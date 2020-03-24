@@ -1,0 +1,17 @@
+Weiping Jia, director of the Shanghai Institute of Diabetes at China’s Shanghai Jiao Tong University, has developed a screening technique to identify early-onset diabetic eye disease. She explains how China’s ageing population is likely to cause the country’s health-care system significant issues over the next 20 years.
+
+What does your research focus on?
+
+Genetics plays a key part in the chance that someone will develop diabetes. However, most large-scale studies are from non-Chinese populations, so for the past decade, I’ve been researching the specific genes that contribute to the risk in Chinese people.
+
+Nature Spotlight on brain sciences in China
+
+I’m also involved in improving Shanghai’s health-care systems, focusing on the area of diabetes. In 2007, I helped to introduce the Shanghai Integration Model to improve patient care from our city’s public-health providers. My colleagues and I wanted more people to get an early diagnosis and good advice on how to manage their condition. In the long term, this should result in fewer people being admitted to hospital for specialist treatment, and better outcomes for patients overall.
+
+Why is diabetes such a big problem in Shanghai?
+
+Type 2 diabetes is an ageing-related condition and Shanghai is a rapidly ageing city. In 2017, the proportion of people in China who were older than 65 years was 11.4%. Almost one-fifth of people over 60 years old in China have type 2 diabetes, so it’s a big social burden.
+
+How has big data helped in developing solutions?
+
+In 2010, the city’s government launched an information platform called the Shanghai Healthcare Cloud, a storage facility for all medical records. Residents can use it to access their personal information, and clinicians and academics can use the information for their research. My team used data from more than 170,000 people to develop a deep-learning-based system for screening for diabetic retinopathy. The technology can be used in primary-care settings, such as community health centres, so people are not required to visit hospitals, which are heavily overburdened and under-resourced.

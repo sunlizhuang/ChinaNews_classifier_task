@@ -1,0 +1,45 @@
+This week in future tech, a New Zealand man caused quite a stir after claiming he had a DIY nuclear fusion reactor for sale.
+
+New Zealand student Samuel Lee made headlines this week after posting what he said was a homemade nuclear fusion reactor. According to Stuff, Lee was offering the reactor with a vial of 20 grams of deuterium oxide, with expectations that he could get a few thousands dollars for his creation. Sadly, he couldn’t find a buyer.
+
+Achieving stable nuclear fusion in a reactor is seen as one of the ‘holy grails’ of science. If achieved, it could offer near-limitless, cheap and emission-free energy.
+
+“Built in 2018 and forged from the depths of physics,” Lee wrote in his ad.
+
+“A mighty machine arose from a seemingly normal garage in suburban Blenheim. After a year of working two part-time jobs, researching and building, the science fair project was complete!”
+
+As you can imagine, it is not actually a working fusion reactor, but is more close to a plasma generator. Massey University professor of theoretical physics Joachim Brand described the design of Lee’s device as “pretty impressive”.
+
+Quantum communication leap achieved over 50km cable
+
+While Albert Einstein dismissed the concept of quantum entanglement as “spooky action at a distance”, researchers at the University of Science and Technology in Hefei, China, have shown that the famous physicist was wrong to doubt it. Writing in Nature, Pan Jian-Wei and his fellow researchers revealed they had sent two ‘quantum memories’ across a distance of 50km of fibre cable, 40 times further than the previous record holder.
+
+Quantum communication – referred to as quantum key distribution (QKD) – is seen as the future of secure messaging as quantum entanglement allows for two particles to be inextricably linked despite being in totally different locations.
+
+When an attempt is made to access a message as it passes between the two points using QKD, it changes its form so that the receiver knows if it has been tampered with, while deleting or altering the message in the process.
+
+Speaking with MIT Technology Review, Pan said that this was a “big improvement” on previous attempts. As part of their breakthrough, the researchers used a stationary atom, as well as a photon that was sent down the fibre cable. This resulted in an entangled pair of nodes that were significantly more stable than previous experiments achieved.
+
+New patch could mend a broken heart
+
+Bioengineers from Trinity College Dublin have developed a prototype patch that does the same job as crucial aspects of heart tissue.
+
+The patch is designed to withstand the mechanical demands and mimics the electrical signalling properties that allow our hearts to pump blood rhythmically round our bodies. Publishing their findings to Advanced Functional Materials, the researchers said this breakthrough brought us one step closer to cell-free patches to restore the synchronous beating of heart cells, without impairing heart muscle movement.
+
+“Ours is one of few studies that looks at a traditional material, and through effective design allows us to mimic the direction-dependent mechanical movement of the heart, which can be sustained repeatably,” said Michael Monaghan, senior author of the study.
+
+“This was achieved through a novel method called ‘melt electrowriting’ and through close collaboration with the suppliers located nationally we were able to customise the process to fit our design needs.”
+
+New tech can take vitals of exotic wildlife using digital camera
+
+Researchers from the University of South Australia have shown it is possible to do basic health checks on exotic animals using just a digital camera. This saves the animals from having to experience any stress form an anaesthetic.
+
+As part of the study, nine species of Adelaide Zoo’s animals were filmed for three minutes up to 40 metres away, picking up tiny movements in the chest cavity that indicate heart and breathing rates.
+
+The animals filmed included a giant panda, African lion, Sumatran tiger, orangutan, Hamadryas baboon, koala, red kangaroo, alpaca and a little blue penguin.
+
+“We showed through this experiment that digital cameras can successfully extract cardiopulmonary signals from the animals in a zoo setting,” said Prof Javaan Chahl, one of the co-leads of the study.
+
+“The technique needs refining and more validation, but it demonstrates that wild animals can be remotely monitored for signs of poor health, allowing for earlier detection of illness and fewer unconscious trips to the vet.”
+
+Want stories like this and more direct to your inbox? Sign up for Tech Trends, Silicon Republic’s weekly digest of need-to-know tech news.

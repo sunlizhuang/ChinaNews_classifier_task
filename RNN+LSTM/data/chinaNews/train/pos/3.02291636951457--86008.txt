@@ -1,0 +1,79 @@
+SAN JOSE, Calif., Feb. 25, 2020 (GLOBE NEWSWIRE) -- Leading semiconductor test equipment supplier Advantest Corporation (TSE: 6857) has announced the cancellation of its 2020 VOICE Developer Conference in Shanghai due to health and safety concerns following the novel coronavirus outbreak. The two-day VOICE 2020 U.S. conference and follow-up workshop day will proceed as planned on May 12-14 in Scottsdale, Arizona.
+
+
+
+“With the well-being of our employees, partners and customers being Advantest’s first priority, we have made this decision to avoid the risk of exposing VOICE China attendees to potential illness,” said Judy Davies, Advantest’s vice president of Global Marketing Communications and VOICE 2020 Developer Conference ambassador. “As the virus continues to spread across borders and travel becomes increasingly restrictive, we must regretfully cancel this year’s event in Shanghai to protect the health of industry personnel.”
+
+
+
+Although the conference in China will not be held this year, a new keynote presenter, more speaker awards and a customer-recognition honor have been added to May’s VOICE program in the U.S.
+
+U.S. Program
+
+Designed by test engineers for test engineers, the core of the May 12-13 VOICE conference remains its extensive learning and networking opportunities including a technical program featuring more than 60 presentations with submissions from authors representing 28 companies from 11 countries, a partners’ expo, a technology kiosk showcase, innovative keynote speakers and social gatherings. A follow-up day of workshops will be held in Scottsdale on May 14.
+
+
+
+This year’s technical program will feature hot topics including artificial intelligence (AI) and SmarTest 8 software, new tracks on DC parametric and 5G testing as well as device/system-level test, test methodologies, hardware and software design integration and Advantest’s T2000 platform. Workshop day will consist of sessions covering 5G/mmWave, V93000 test program generation and power/analog device testing. In addition, a technology kiosk showcase at VOICE will offer attendees the opportunity to interact directly with Advantest product experts.
+
+Keynote Addresses
+
+On May 12 in Scottsdale, the general session will feature two keynote speeches on the future of test and technology. The first speaker, Steve Pateras, senior director of marketing for the Test Automation Group at Synopsys, will deliver a keynote titled “Test Evolves – New Access to Adaptive Learning.” Afterwards, research specialist Dr. Kate Darling will discuss the future of human-robot interactions in her keynote sponsored by EAG Eurofins Engineering Science. Dr. Darling is a leading expert in social robotics who explores humans’ emotional responses to robots.
+
+
+
+On the second day, industry expert Dan Hutcheson, CEO and chairman of VLSIresearch, has been added as a keynote speaker. He will cover 5G, IoT, AI and other critical IC markets including key trends. Then Fredi Lajvardi, vice president of STEM Initiatives at Si Se Puede Foundation, will discuss how he transformed a group of high school students into a national-champion robotics team. Using humor and compassion to recount his inspiring journey, Lajvardi will illustrate the need to embrace diversity and invest in people to help others realize their potential.
+
+
+
+Read more about all the VOICE 2020 keynote speakers at https://voice.advantest.com/keynotes/.
+
+Contributor Awards
+
+As in previous years, attendees at VOICE 2020 will vote for the best papers and kiosks with the winning presenters receiving awards and prizes. For the first time in 2020, the event will recognize two best papers and two honorable mention papers – one given to a customer and one given to an Advantest employee.
+
+
+
+At the closing ceremony, the VOICE committee will endow the new VOICE Visionary Award, recognizing a customer who has made significant, sustained contributions to VOICE over time.
+
+Attending the Conference
+
+Register for VOICE 2020 now at https://voice.advantest.com/register/. Group discounts are available; email mktgcomms@advantest.com for details.
+
+
+
+The day after the VOICE Developer Conference on May 12-13, Advantest is offering a workshop day on May 14 comprised of three sessions covering 5G/mmWave, V93000 test program generation and power/analog device testing. Register for one of the full-day sessions at https://voice.advantest.com/workshop-day/.
+
+
+
+Registered attendees are encouraged to make their hotel reservations early. The deadline to take advantage of the group rate at the Omni Scottsdale Resort & Spa at Montelucia is April 10. Rates will increase after this date. For additional hotel information and to make a reservation, visit the VOICE website at https://voice.advantest.com/hotel-reservations/.
+
+Sponsoring VOICE 2020
+
+Discover VOICE 2020 sponsorship opportunities by visiting https://voice.advantest.com/opportunities/ or contacting Amy Gold at amy.gold@advantest.com.
+
+Online Presence
+
+To help attendees get the most from VOICE 2020, Advantest will provide a mobile app, which will be available for download in May. To learn more about VOICE 2020, visit https://voice.advantest.com.
+
+
+
+Follow #VOICE2020 and @Advantest_ATE on Twitter or visit https://voice.advantest.com/spread-the-word/ for more ways to connect and get involved.
+
+About VOICE 2020 Developer Conference
+
+Managed by a steering committee of volunteer representatives from Advantest and its customers, VOICE is the leading conference for the growing international community of users and strategic partners involved with Advantest’s V93000 and T2000 SoC test platforms as well as Advantest memory testers, handlers and test cell solutions. The conference offers a unique opportunity to take part in making semiconductor testing operations as efficient and cost-effective as possible. Attendees gain and share valuable insights, build long-lasting relationships and learn what’s new about Advantest test equipment, handlers and applications.
+
+About Advantest Corporation
+
+Advantest (TSE: 6857) is the leading manufacturer of automatic test and measurement equipment used in the design and production of semiconductors for applications including 5G communications, the Internet of Things (IoT), autonomous vehicles, artificial intelligence (AI), machine learning, smart medical devices and more. Its leading-edge systems and products are integrated into the most advanced semiconductor production lines in the world. The company also conducts R&D to address emerging testing challenges applications, produces multi-vision metrology scanning electron microscopes essential to photomask manufacturing, and offers groundbreaking 3D imaging and analysis tools. Founded in Tokyo in 1954, Advantest is a global company with facilities around the world and an international commitment to sustainable practices and social responsibility. More information is available at www.advantest.com.
+
+ADVANTEST CORPORATION
+
+3061 Zanker Road
+
+San Jose, CA 95134, USA
+
+Judy Davies
+
+Judy.davies@advantest.com

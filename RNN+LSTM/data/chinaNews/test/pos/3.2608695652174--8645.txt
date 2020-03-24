@@ -1,0 +1,39 @@
+The opinions expressed by columnists are their own and do not necessarily represent the views of Townhall.com.
+
+The United States and China are racing for dominance in 5G wireless connectivity. The R&D, the inventions, the technological standards and the commercial products developed and deployed in the coming months and years will determine whose inventions bring the world the next generation of wireless technology.
+
+Two companies lead in foundational research and development of 5G. Fortunately for the world, U.S.-based Qualcomm has invented and developed superior 5G core technologies.
+
+It makes a profound difference which country’s innovations a few key collaborative standards-setting bodies adopt as the foundation of the next-generation wireless infrastructure.
+
+5G won’t be your Mom’s internet. Beyond connecting people with cell phones, 5G will enable the Internet of Things, linking industrial-scale, highly sophisticated equipment, from manufacturing robots to self-driving automobiles to remote patient monitoring and more.
+
+Today, Qualcomm has set the 5G stage by doing what experts had thought impossible. It figured out how to use high-wave radio spectrum for mobile communications. Qualcomm pours billions of dollars and extensive time and resources into R&D, a fifth of its revenues.
+
+As an example, Qualcomm has developed unique technologies to make millimeter waves useful for cellular communications in 5G. Its “beam-forming” and “beam-tracking” inventions actuate mmWaves in 5G. This spectrum band is abundant, cheaper and well suited to “last-mile” deployment.
+
+Creating technology to deploy mmWave in addition to lower bands already used in wireless connectivity gives Qualcomm — and thus the United States — a distinct competitive advantage. Our 5G will use all radio waves, with mmWave ideal for both urban areas and bringing broadband to that “last-mile” deployment in rural homes, businesses and schools.
+
+The 5G standards contest revolves around whether Qualcomm’s or Huawei’s core technologies are adopted. This will set the technological specifications that implementers, such as telecommunications carriers, base station makers, mobile device makers, and components producers, use for all manner of commercial and industrial applications.
+
+5G technology and the resulting standards are akin to the contest over which mode of electricity would become the common standard: Edison’s direct current or Westinghouse and Tesla’s alternating current. AC won, and the rest is history. It was safer and cheaper to distribute over long distances, and today AC electricity powers the world.
+
+China and Huawei have been known to game the standards-setting process. It’s in danger of shifting from consensus to vote-stacking, from technological merit to politicization. Huawei’s capturing the global lead in 5G is part of China’s grand strategy.
+
+The stakes are high. A Wall St. Journal columnist identifies “[e]fforts by China to export its method of authoritarian government backed by high-tech surveillance.” 5G will provide top-to-bottom connectivity — superfast, more reliable, seamless — that spurs new and improved uses, and the world’s data will be carried over 5G networks. Huawei’s 5G technology can be exploited for Chinese expansionism, spying and stealing if it is adopted
+
+How can America prevent Chinese tech-totalitarianism?
+
+Of course, we must bolster the rule of law, private property rights and private enterprise. Robust intellectual property policies must be restored; courts, Congress, and the administrative branch have undermined secure, reliable, enforceable IP rights.
+
+Some have called for the federal government to take over 5G technology. That would be a huge mistake. Command and control will slow U.S. innovation. The private sector and market competition are better routes to our success.
+
+The federal government has a role, but it’s not to mimic China’s centralization. The U.S. government must recommit to and revive the certainty of private ownership of the IP developed from federally funded research. It must embrace the exercise of patent rights of exclusivity, including the patent licensing business model.
+
+The Defense Department is moving the wrong direction on this, and federal agency tech transfer has degraded over the years. The Bayh-Dole Act unleashed practical and commercial benefits from knowledge gained under federal research funding — accomplished by decisively securing private ownership of related IP. The ROI Initiative last year marked a good first step, but more is necessary.
+
+The U.S. government should foster private sector innovation, including virtual networking for 5G. This would bring new commercial companies — including American ones — into the cellular infrastructure industry, and would create networks with open interfaces between network components. R&D and adoption tax credits, federal purchase guarantees and other incentives would advance 5G in secure, trustworthy, affordable directions, while boosting the U.S. industrial base.
+
+We can bring along our European allies. While some may take Huawei’s 5G predatory pricing, others recognize the dangers to security, privacy and sovereignty from a Chinese Trojan horse. Germany’s legislature is pushing back against Huawei equipment in the country’s 5G infrastructure. A U.S.-developed virtual network approach would give other nations a viable alternative for 5G.
+
+U.S. leadership in innovation and industry will require our taking advantage of the brilliant breakthroughs Qualcomm and other U.S. firms are achieving. On the cusp of 5G standards-setting, we can’t afford wrong moves. Wise, principled policies that enable private-sector innovation are critical.

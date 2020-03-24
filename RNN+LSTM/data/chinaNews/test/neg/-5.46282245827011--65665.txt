@@ -1,0 +1,89 @@
+The story that managed to evade her typically discerning sensors: a claim that a Chinese Internet company had accidentally released death and infection totals — ones that exceeded official estimates — before quickly scrubbing evidence of them online. If true, May said at the time, the numbers indicated that the outbreak in the Chinese city of Wuhan was far more severe than the public was warned about.
+
+Since the first cases of a then-unidentified pneumonia were reported in late December, hoaxes, half-truths and flat-out lies have proliferated, mostly through social media. BuzzFeed News for several days kept a running list of misinformation, including wildly inaccurate reports that the death toll in China was 112,000 as of late January (reality: around 80 at the time); claims that Chinese people eating bats were the source of the outbreak (a viral photo of a woman biting a bat was not taken in China); and false suggestions that the virus was lab-engineered as a kind of bioweapon.
+
+AD
+
+AD
+
+“I gave it some degree of credence because the artificial numbers would make the scale of the lockdown in Wuhan and the additional cities much more rational,” May told The Washington Post on Monday. “And I saw it shared by a person who is typically very credible.”
+
+Parts of the false story seemed rooted in fact: There are signs that Beijing has silenced whistleblowers and underreported cases of infections. But the situation the story described never happened.
+
+“It’s really insidious when you have this cloud of confusion around details,” May said.
+
+“Insidious confusion” is a useful shorthand for how experts say disinformation about coronavirus is mutating and spreading faster than the outbreak itself. University of Washington researchers Jevin West and Carl T. Bergstrom, co-authors of the forthcoming book “Calling Bullshit: The Art of Skepticism in a Data-Driven World,” track the spread of stories like these and teach a course on how to identify misinformation.
+
+AD
+
+AD
+
+A misinformation ‘fire hose’
+
+Many of the inaccurate reports spreading around bear a resemblance to a disinformation model used by hostile governments of any nation, but known as the “Russian fire hose” strategy. The goal isn’t to convince people of one wrong thing, such as the false claim that vitamin C destroys coronavirus, said Bergstrom, who studies how misinformation travels across networks and spreads like pathogens through populations.
+
+“The idea is to put out so much [bad] information that people feel as if they can’t get to the truth. That creates a kind of power vacuum that leads to what, I guess, is in the interest of certain regimes,” Bergstrom told The Post.
+
+AD
+
+“If you can go from 1 percent of the population believing nutty conspiracies to 5 percent, that’s a win,” he said.
+
+Bergstrom said the endgame for some hostile regimes is to disrupt the smooth function of commerce in rival countries by stirring up anxiety that leads to trade or travel disruptions; within China, hypothetical agitators could be motivated by a desire to make the communist government look bad.
+
+AD
+
+Russian-style disinformation, like the strategies Americans became well-acquainted with during the 2016 presidential election, can have as broad of a goal as simply sowing chaos and letting human nature take care of the rest.
+
+“I’ve seen some misinfo used to fan the flames of racist isolationists: ‘Why aren’t we banning all Chinese people in America? Why don’t we round them all up?’ ” Bergstrom said. “Those accounts aren’t trying to do anything about coronavirus, just make people more afraid of their neighbors or other countries.”
+
+AD
+
+The social media infrastructure to disseminate disinformation has reached a new scale since the 2016 Ebola outbreak, the last significant global epidemic, or the 2016 U.S. presidential election, said West, who researches data science and communication.
+
+“People are more click-susceptible during these events because there’s more info and people aren’t sure who to trust,” West said.
+
+AD
+
+Over the past decade, propagandists have built vast networks of bots or human “troll farms” where false and chaos-inducing messages can be quickly and widely amplified at the push of a button.
+
+Good intentions, bad results
+
+Bad-faith actors aren’t the only concern. Misinformation about health scares existed well before social media, said Duncan Watts, a professor of computer science, communication and business at the University of Pennsylvania. Dating back to the Spanish flu outbreak in 1918, to the AIDS epidemic that gripped the 1980s, to the outbreak of SARS in 2003, inaccurate, dangerous and simply inflammatory misinformation has easily spread thanks to simple human impulses.
+
+AD
+
+“In any contest between someone who says, ‘It’s complicated and we don’t know the answer,’ and another person who says, ‘We know what to do,’ the other person will always get more attention — even when we know they’re not right — because it’s simple and appealing and lends itself to action,” Watts said.
+
+AD
+
+Bad information that oversimplifies causes, responses or remedies is often too tantalizing for people to ignore — or resist passing on to others. Watts and other researchers likened it to much of the way misinformation in the anti-vaccine community spreads: confusion about what causes conditions like autism and a desire for an easy-to-target culprit. Add to that an urge to find not just causes but solutions, and it can create a recipe for disaster.
+
+Bergstrom, the University of Washington researcher, said plenty of misinformation around the coronavirus boils down to old-fashioned, organic rumor spreading.
+
+AD
+
+“It’s people wanting to be in the know, wanting to take care of themselves and their friends, wanting to let people in on a secret, having information first,” he said. “And it’s frustrating when responsible media say, ‘Look, we don’t know the answers yet.’ ”
+
+AD
+
+West said an important part about misinformation on social media is that people get tricked into leveraging their own social capital to spread it around. Someone might not believe a story from a random Twitter account, but they may bite if their college roommate or brother-in-law shares it.
+
+“Yes, bots are involved, but ultimately, it’s us who are sending this misinfo out,” West said. Corrections, when they’re even made, never travel as far. “It’s … easy to create misinformation, but it’s hard to clean it up. ”
+
+AD
+
+Stopping the spread
+
+The dedication of bad-faith agitators and the fallibility of well-meaning humans have made misinformation admittedly difficult to contain. Experts said sources such as the World Health Organization or the Centers for Disease Control and Prevention will have better information than an unfamiliar foreign website or social media account. Peer-reviewed medical journals, like the New England Journal of Medicine, remain the gold standard for scientific research — though even those sources have published flawed information in the rush to report. When it comes to vetting news outlets or social media accounts, they suggest sticking with sources that have established track records of health, science and foreign reporting.
+
+AD
+
+In some cases, Bergstrom said, the best way to avoid falling for or spreading misinformation is to fight the urge to stay on top of every incremental development.
+
+AD
+
+“We all do this: When we feel anxious about something, we think the solution is to dig deeper and find newer information that’s an hour more recent. And that’s not always useful,” he said.
+
+Overcorrecting and shutting out all information isn’t a foolproof plan either, said West, his colleague.
+
+“We do need to go back to those gatekeepers we were trusting before,” he said. “Otherwise, a bad thing that can happen from all this, too, is that we create even more distrust by saying: ‘It’s all messed up. You can’t trust anything.’ ”

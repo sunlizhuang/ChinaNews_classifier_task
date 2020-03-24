@@ -1,0 +1,43 @@
+As well as offering financial incentives to encourage app developers to build apps for the Huawei App Gallery, the company also released 24 open developer kits.
+
+The first ever Huawei Developer Conference focusing on Ireland and the UK was held this week, with the company using the event to reveal its new strategy to connect with businesses in the region.
+
+The strategy includes a £20m investment that will enable businesses to work with the company to access its technology, grow their user bases and build new revenue streams, Huawei said. It will support UK and Irish developers working with the Chinese tech giant who have intentions of joining the Huawei App Gallery.
+
+The company is also launching 24 Huawei Mobile Services core kits, providing businesses and developers with access to open developer kits in order to help them integrate their apps into Huawei’s platform.
+
+This is part of a wider $3bn global investment plan announced by the CEO of Huawei’s consumer business group, Richard Yu, in Munich last September.
+
+App strategy
+
+Huawei said that these tools “will allow businesses to create the next generation of apps, seamlessly integrate them into the Huawei App Gallery, and ultimately prepare for the fast-approaching, fully connected future”.
+
+Huawei UK and Ireland is also offering the chance to claim a £20,000 financial incentive for apps uploaded to the Huawei App Gallery by 31 January.
+
+The company said that its goal is to meet the demand from the growing number of consumers expressing interest in a “new app store that helps them take back control of their personal information”, by offering them a “credible, safe and secure alternative”.
+
+Anson Zhang, managing director of Huawei’s UK consumer business group, said the move highlights the company’s “ongoing commitment and support for UK and Irish businesses and developers”.
+
+“In recent years we have grown significantly and owe our success to the consumers and partners who have chosen and believed in us. As a sign of that support and commitment to the UK and Irish market, we have announced our £20m investment plan to recognise and incentivise our partners, so that jointly we can build an outstanding ecosystem together.
+
+“Ultimately, we envision an all-scenario intelligent consumer experience for the future of Huawei Mobile Services and will provide businesses and developers with the opportunity to reach new audiences, expand and monetise, as they prepare for the fully connected world.”
+
+The developer kits
+
+Developers will now be able to access a variety of different Huawei kits for building specific apps, including the company’s wallet, drive and health kits.
+
+The scan, awareness and machine learning kits will provide developers with the opportunity to give sets access to QR and other barcodes, provide real-time travel updates and utilise machine learning for visual and language services.
+
+The map and location kits will provide user locations, allowing for user personalisation of maps and route planning. The company will also release its push and analytics kits, which will help developers analyse their data, helping them to understand user behaviour and gain insight about their audience, products and content.
+
+With the developer kits, Huawei also presented its Ability Gallery, which is a proprietary platform that supports developers and companies with automated services for intelligent content distribution.
+
+Google-gate
+
+The announcement comes as Huawei is attempting to build its own app ecosystem after being cut off from Google last year.
+
+Under the current US trade ban – introduced amid allegations that Huawei is a threat to US national security because of alleged links to the Chinese government – Google said that new Huawei phones cannot be sold with licensed apps such as Google Maps, Gmail, Chrome and the Google Play app store.
+
+The Huawei Mate 30, launched in September, uses an open-source version of Google’s Android system without these key licensed apps, and upcoming phone releases are expected to have a similar set-up.
+
+Last year, Huawei unveiled its own-built operating system, HarmonyOS, which the Chinese company could use as a “plan B” to power its smartphones instead of Google’s Android.

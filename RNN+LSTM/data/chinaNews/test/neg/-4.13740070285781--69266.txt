@@ -1,0 +1,61 @@
+A large one-day surge in reported cases of coronavirus in China has once again trained a spotlight on the consistency and accuracy of data being used by experts and governments to assess the path of the deadly outbreak.
+
+READ MORE:
+
+• Investors' hunt for coronavirus rebound stocks is not simple
+
+• Coronavirus shock could push Europe into a downturn
+
+• Too relaxed? How the Reserve Bank estimated coronavirus risk
+
+• Coronavirus deaths hit highest daily toll
+
+On Wednesday, the number of deaths rose to 1,367 and there were 15,152 new cases of the virus, taking the total count to 59,804, according to Chinese state media. Authorities in Hubei province, where the outbreak started, reported the number of cases had risen tenfold to about 14,840 and the number of deaths had doubled to more than 242.
+
+The sudden rise came a day after experts at the World Health Organization had suggested the numbers of infections and deaths might begin to level off.
+
+That disclosure came even as medical experts and frontline health workers warned China was under-reporting the severity of the outbreak.
+
+Earlier this week, Neil Ferguson, an epidemiologist at Imperial College in London, had warned that as few as 10 per cent of cases were being properly detected. He added that in Wuhan, the city at the heart of the outbreak, the official figures might only be capturing 1 in 19 infections.
+
+How reliable are the data provided by Chinese authorities and, for experts overseas, how is it possible to extrapolate the trajectory of the global outbreak?
+
+Why have the numbers suddenly risen in China?
+
+The increase in China reflects a change in how authorities report cases.
+
+Advertisement
+
+Mike Tildesley, associate professor at the University of Warwick, said cases had previously been confirmed "only after positive laboratory tests". Now China was choosing to report cases as confirmed "based on clinical diagnosis of symptoms".
+
+Adam Kucharski, a researcher at the London School of Hygiene and Tropical Medicine, welcomed the new approach, suggesting that basing numbers only on those who had been formally tested risked the under-reporting of cases. For example, an apparent fall in the number of new cases in recent days may have been linked to laboratories being overwhelmed. That could result in "a bottleneck in testing capacity" rather than a drop in disease. "Reporting suspected cases is going to be useful," he said.
+
+Michael Ryan, executive director of the World Health Organization's health emergencies programme, told a media briefing on Wednesday the new approach was "an attempt to widen the net and include milder cases". He added this was a way of "throwing the net even wider with a finer mesh and that's what we want to see in a containment phase".
+
+Is the data reliable enough to model the disease's path?
+
+Two analyses were published this week by teams of UK-based researchers to do this.
+
+One, by the MRC Centre for Global Disease Analysis at Imperial College, concluded about one in 100 people with the disease would die. To reach this conclusion, the researchers used statistical models that combined data on deaths and recoveries reported in China and for travellers outside mainland China, as well as infections in repatriated citizens.
+
+The second report, from a team at the London School of Hygiene and Tropical Medicine, estimated the outbreak in Wuhan could peak in mid-to-late-February. It suggested that 1-3 per cent of people were being infected.
+
+Dr Kucharski, who co-authored the study, said the team had set aside some of the more recent data, in effect reserving it as a way of checking the robustness of results they had obtained from analysing earlier data from China and elsewhere.
+
+The rise in cases announced on Thursday was entirely consistent with what their model had led them to expect, he said. However, he acknowledged that much remained unclear.
+
+Advertisement
+
+"There is a lot of uncertainty," he said, particularly about "how big the peak will be".
+
+Are there fundamental issues that make it hard to rely on the data?
+
+Sheila Bird, a leading biostatistician, emphasised she was "not privy to the sort of detailed data" that the Imperial College team had access to in reaching its assessments. But it was clear from the report that data had been "in various respects quite limited".
+
+She added: "Of course, the team is very good but the analysis is as precise as the information available on a particular epidemic."
+
+Different countries might be using different diagnostic tests and applying them during different stages of the development of the disease, with the result that, as testing practice changes, "in a sense you are comparing apples and oranges".
+
+Researchers were having to make assumptions — for example, some teams might assume transmission of the disease happened only after someone displayed symptoms.
+
+However, she said the quality and reliability of the data would improve gradually. "These teams are doing a mammoth intellectual task but they will be able to relax assumptions as more data come in so that the data can take the place of assumptions," she said.

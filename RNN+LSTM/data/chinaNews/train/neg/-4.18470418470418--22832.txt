@@ -1,0 +1,35 @@
+Emerging data on the new virus circulating in China adds to evidence there is sustained human-to-human transmission in the city of Wuhan, and that a single case was able to ignite a chain of other infections.
+
+The World Health Organization reported Thursday that there have been at least four generations of spread of the new virus, provisionally called 2019-nCoV, meaning a person who contracted the virus from a non-human source—presumably an animal—has infected a person, who infected another person, who then infected another person.
+
+It’s not clear from a WHO statement whether transmission petered out after that point, or whether further generations of cases from those chains are still to come.
+
+The WHO said the current estimate of the reproductive rate of the virus—the number of people, on average, that each infected person infects—is between 1.4 and 2.5. To stop an outbreak, the reproduction number has to be brought below one.
+
+“That gives me no comfort at all that anything that’s happening right now is going to bring this under control any time soon,” Michael Osterholm, director of the University of Minnesota’s Center for Infectious Disease Research and Policy, said of the data the WHO released.
+
+“And I think that as long as the virus is circulating in China as it appears to be, the rest of the world is going to be constantly pinged with it, as a result of people traveling to and from China in the near future,” he said.
+
+To date, nine other countries, including the United States, have diagnosed cases of this new illness in tourists who traveled to Wuhan or residents who returned from there.
+
+Dr. Allison McGeer, who has firsthand experience with outbreaks caused by coronaviruses—the family to which 2019-nCoV belongs—also expressed concern about prospects for containing the outbreak.
+
+McGeer, a researcher at the Mount Sinai Hospital in Toronto, noted that the city’s SARS outbreak took off when fourth-generation cases were infected in the city’s hospitals. McGeer contracted SARS during that outbreak.
+
+The WHO released the information in a statement following a press conference during which Director-General Tedros Adhanom Ghebreyesus announced the global health agency was not yet ready to declare the rapidly evolving outbreak in China a global health emergency.
+
+The decision was based on advice from a committee of outside experts. That committee was effectively split about whether the outbreak constitutes what is known as a global health emergency of international concern.
+
+“Make no mistake: This is an emergency in China. But it has not yet become a global health emergency. It may yet become one,’’ Tedros, as he is known, said.
+
+China has effectively quarantined eight cities—home to tens of millions of people—to try to contain spread of the virus. The move comes as much of the country is traveling to be with family to celebrate the Lunar New Year, which is Saturday. Guangdong province, which has reported rising numbers of cases, has declared a public health emergency.
+
+China first informed the WHO of the outbreak on Dec. 31, and developments have been rapid in the just over three weeks since then. As of Thursday the global case count was approaching 600, with at least 17 deaths.
+
+A University of Hong Kong study published in the online journal Eurosurveillance on Thursday said the emerging evidence points to sustained person-to-person spread of the virus in Wuhan.
+
+The paper mapped out two possible scenarios of how the virus is spreading. The first involved many of the cases having been infected by exposure to as-yet unidentified animals; the second depicted a situation where some people were infected by animals in early December, with person-to-person spread accounting for the bulk of cases since.
+
+The early evidence “was most consistent with limited human-to-human transmissibility, however more recent data seem to be increasingly more compatible with scenario 2 in which sustained human-to-human transmission has been occurring,” the team reported. The senior author of the paper was Gabriel Leung, dean of medicine at the university.
+
+Republished with permission from STAT. This article originally appeared on January 23 2020

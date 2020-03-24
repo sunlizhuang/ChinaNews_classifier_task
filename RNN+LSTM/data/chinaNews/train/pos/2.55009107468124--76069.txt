@@ -1,0 +1,53 @@
+The global economic impact of 5G is estimated to exceed $12 trillion dollars in the next 15 years.
+
+The US risks being left behind in rolling out 5G connectivity.
+
+But with the right approach, the US can still play a leading role.
+
+Around the world, businesses, governments and NGOs are excitedly anticipating the benefits of 5G. This truly revolutionary technology will unlock enormous opportunity: connecting underserved populations; bringing economic prosperity to remote areas; making communities smarter and safer; and powering growth in a vast array of technological fields.
+
+However, the infrastructure required to support 5G is not being rolled out at a consistent pace around the world. In China, for example, the state-controlled economy allows for the broad and rapid deployment of 5G infrastructure. By contrast, wireless providers in the US must work with local, state and federal governments, regulators and thousands of local communities in order to build the required infrastructure.
+
+If the US does not take a more focused and deliberate approach to enable the extensive infrastructure needed to accommodate this transformative technology, it will risk being left behind.
+
+Greatest infrastructure project in US history
+
+Commonly referred to as 5G, the fifth generation of mobile broadband technologies delivers significant improvements over the 4G standard, including much faster data rates and sharply reduced network communication delays (known as latency). 5G therefore can support massive growth in connectivity and traffic density/volume – enabling more mobile and connected communities, economies and institutions worldwide.
+
+5G has been called the “greatest infrastructure project in US history.” The economic value derived from deploying 5G in such areas as artificial intelligence, autonomous vehicles, the internet of things (IoT), industrial software, robotics, and semiconductors is expected to top $2 trillion by 2025. Longer term, the global economic impact of 5G is estimated to exceed $12 trillion dollars in the next 15 years.
+
+However, the widespread adoption of 5G will require vast new infrastructure. A McKinsey study estimates that implementing such 5G applications as enhanced mobile broadband, IoT, and mission-critical applications will require a 10-fold increase in network performance over current levels. Thus, mobile operators must invest in major infrastructure enhancements, including (but not limited to) access to spectrum, cell sites, fiber optic networks, fronthaul and backhaul. By some estimates, the cost of implementing 5G technology worldwide is expected to reach at least $2.7 trillion by the end of 2020.
+
+Harmonizing local processes
+
+Across the US, telecom carriers and cable providers have committed extensive capital to implement 5G. At the national level, the FCC has created much of the required regulatory framework. Yet, more work must be done to harmonize disparate regulatory and permitting processes at the state and local levels. Local permitting processes must be fast-tracked to enable construction of cell sites and other infrastructure. Existing national standards should be adopted consistently by states and localities. And, local jurisdictions should add more resources to manage the process.
+
+Developing a skilled workforce
+
+A skilled workforce is also essential. Workers installing 5G equipment need to have the necessary technical capabilities – and in some cases must also be able to climb 100-foot utility poles.
+
+In today’s tight US labor market, carriers and cable companies need to partner with local governments and educational institutions to ensure access to well-trained workers.
+
+To secure the assistance of local governments in harmonizing rules and processes, and collaborating on training programs, the private sector must educate officials about the benefits of 5G – and the painful consequences of falling behind in implementation. In this regard, I want to applaud the efforts of CTIA, which represents the US wireless industry, to inform the public of the enormous potential of 5G and the need to facilitate wide scale implementation.
+
+Global examples of 5G leadership
+
+If the US wishes to lead in the deployment of 5G – as I believe it must – it will need to keep pace with other countries that have made 5G implementation a top priority. While experts differ as to which nations lead in 5G, most rankings include China, South Korea, Australia, Qatar, Switzerland, Finland, Spain and United Arab Emirates. The US is somewhere in the top five, however.
+
+In China, for example, the government’s 13th Five-Year Plan describes 5G as a “strategic emerging industry” and “new area of growth.” Similarly, South Korea also has made it a policy to stimulate 5G deployment, setting the ambitious goal of creating 600,000 jobs and $73 billion in exports by 2026.
+
+The US can play a leading role
+
+While the US should be concerned that other countries are leading in 5G deployment, there are some bright spots. The US is still ahead of China in launching commercial service. While Chinese operators don’t plan to start selling 5G service until 2020, the major US wireless carriers have rolled out mobile 5G service in several cities, or have announced definitive plans for doing so.
+
+Some local governments and/or public-private partnerships in the US are also working to accelerate 5G deployment. In 2017, Sacramento, California, announced a pilot with Verizon to deliver super high speed wireless connectivity. Similar pilots are in process or pending in Ann Arbor, Michigan; Atlanta, Georgia; Dallas and Houston, Texas; Denver, Colorado; Miami, Florida; Seattle, Washington; and Washington, D.C.
+
+If the US does not maintain a leading role in 5G deployment, it risks delaying the benefits that will accrue from greater connectivity, in areas such as job creation, education, health and safety, and community development. Equally important, the US should have a fair share of the global economic opportunity that will result from 5G’s technological advances.
+
+For the US to effectively implement 5G on a nationwide scale, it must:
+
+Harmonize and coordinate state and local government rules and permitting processes.
+
+Institute training programs to ensure a supply of skilled labor.
+
+Form public-private partnerships to accelerate 5G innovation and deployment.

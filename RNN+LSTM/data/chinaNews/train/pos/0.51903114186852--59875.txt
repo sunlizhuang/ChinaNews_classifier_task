@@ -1,0 +1,17 @@
+From time to time, Intel will make mention of the fact that it sells CPUs directly to specific large companies — think Google or Amazon. Unlike AMD, which breaks this segment out into its own semicustom business, Intel typically doesn’t talk about the specific parts that it builds for customers, and only occasionally mentions doing so.
+
+One of those custom chips has tipped up in China as the CC150, an eight-core CPU without typical Intel brand markings. It’s badged with “SRFBT,” and we know the “S” means it’s a production chip, not a sample. There’s no mention of a CPU family such as Celeron, Pentium, or Core — it’s badged only as an “Intel Processor.”
+
+The CPU appears to be a 9th Generation Core i9, with 8 cores, 16 threads, and a constant 3.5GHz clock speed, according to THG. There’s a full-sized 16MB L3 cache, which means this isn’t some cut-down variant or low-end core, despite the lack of turbo boost. Performance-wise, the CC150 had a very low CB20 single-thread score of 151 (no turbo whacks it hard), but the multi-threaded score of 1510 compares well against the 9700K (8C/8T, 3.6GHz base, 4.9GHz boost).
+
+THG also examined the reported power consumption as compared with other Intel CPUs and writes: “based on what we have seen, the CC150 seems like it performs similarly to an i7-9700K in multi-core workloads with a rather modest power consumption that’s equivalent to an i5-9500.”
+
+That explanation might be why the CPU exists in the first place. It’s a relatively low-power eight-core CPU at a modest clock speed. The 9700K draws 115W – 130W in AIDA64 Full Load and 190-220W in AIDA64 FPU. The CC150, in contrast, draws 61-63W in AIDA64 FL and 77-78W in AIDA64 FPU. With the CC150, Intel is delivering 9700K-equivalent performance in less than half the power envelope. That’s a significant win for efficiency and potentially quite valuable to any company that wants low-power, high-efficiency desktop chips that still pack a significant amount of compute resources into each CPU.
+
+There have been rumors that these CPUs are being used in services like GeForce Now, but that may or may not be true. Like Intel’s KF CPUs, the CC150 lacks integrated graphics. It’s showing up at retailers in China for $310. Single-threaded performance is well below the 9700K, but multi-threaded performance is equivalent, for about $85 less.
+
+One thing to note, even if you’re curious about trying to source one of these parts. While it’ll likely drop into any motherboard that supports 9th Generation CPUs based on its physical design, it isn’t clear how the motherboard UEFI will handle the chip. Some motherboards will boot a CPU as “Unknown Processor,” if the initialization process is similar enough to other CPUs the motherboard already supports, but it’s more common for a board to refuse to power up at all until updated properly. Be aware of this if you want to pick one up to play around with.
+
+Frankly, I wonder what the market demand would look like if Intel brought a CPU like this to market in retail. While it might not be very flashy, the combination of a lot of cores and very low power consumption might appeal to some enthusiasts who prize low-power/high-efficiency computing over raw performance.
+
+Now Read:

@@ -1,0 +1,19 @@
+Surveillance cameras are mounted on a post at Tiananmen Square as snow falls in Beijing, China, on Thursday, Feb. 14, 2019. Qilai Shen | Bloomberg | Getty Images
+
+China could use the coronavirus outbreak to boost its mass surveillance capabilities as it looks to technology to help contain the epidemic in the world's second-largest economy. The Communist Party has built a vast surveillance state through different methods with technology at its core. As artificial intelligence and the use of data becomes more advanced, Beijing has found increasingly effective ways to track the Chinese population, including facial recognition.
+
+China is trying to control the spread of the spread of the virus, believed to have first emerged from Wuhan city in Hubei province, which has already killed at least 2,500 people in the mainland. With over 77,000 coronavirus cases confirmed in China alone, the government has mobilized its surveillance machine, a move experts said could continue even after the virus has been contained.
+
+Drones and QR codes
+
+Beyond using facial recognition to track people, China is also utilizing novel methods based on existing technology. For example, Chinese state-backed publication Global Times posted a video on Twitter showing a drone with a camera telling people to wear masks. The Chinese government has also enlisted the help of tech giants like Tencent, owner of popular messaging app WeChat and Alibaba subsidiary, Ant Financial, which runs payments app Alipay. On both WeChat and Alipay, users can put in their Chinese ID numbers and where they have travelled. Users will then be assigned a QR code based on a traffic light color system which instructs them about how long they need to be in quarantine, or whether they are free to travel. A QR code is a type of barcode which is widely used on digital platforms in China. These codes could be used to notify people in buildings about a person's recent movements, such as within office or apartment blocks.
+
+Mobile networks in China have also released tracking features. China Unicom and China Telecom -- both stated-owned telco operators — are asking people to put in the last few digits of their ID or passport number, which will then be used to track a person's whereabouts. They will get messages outlining where they have been. Again, the feature could be used if a building has strict restriction on people entering who haven't been in quarantine for 14 days, which is the suggested amount of time by the government.
+
+And China's artificial intelligence giants have put out some new products too. Earlier this month, Megvii announced that it had deployed a temperature checking tool in Beijing. It can detect an abnormal body temperature and alert authorities who can then do a second check on the person. Sensetime, another Chinese AI firm, said it has developed an algorithm that can detect people not wearing masks in public. Chinese authorities have encouraged everyone to wear masks.
+
+'Catalyst' for mass surveillance
+
+While the Chinese government has used the coronavirus to justify the increased use of surveillance technology, experts said it could continue even after the virus is contained.
+
+I think there are signs that the coronavirus outbreak, like these events above, serve as a catalyst and a boost for China's development in mass surveillance systems. Maya Wang senior researcher on China at Human Rights Watch

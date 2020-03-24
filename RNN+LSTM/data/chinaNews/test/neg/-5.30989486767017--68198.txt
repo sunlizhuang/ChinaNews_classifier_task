@@ -1,0 +1,29 @@
+WORCESTER – A Worcester Polytechnic Institute professor has created a three-dimensional "road map" of the coronavirus that he hopes will enable breakthroughs in treating the virus and preventing its spread.
+
+Dmitry Korkin, a bioinformatics researcher, also through his work was able to compare and contrast the new disease and the similar SARS virus, which also originated in China.
+
+The coronavirus, which has affected more than 43,000 people, according to the World Health Organization, first appeared in the Chinese city of Wuhan in December and quickly developed into an outbreak. Like SARS, the new coronavirus produces cold-like symptoms and can be fatal.
+
+Also like SARS, the coronavirus is believed to have originated from an animal virus.
+
+Korkin said he got involved in the race to decipher the new disease in late December, after using bioinformatics in a similar capacity in his fall semester class for a more local threat: Eastern equine encephalitis.
+
+The project effectively kicked off with the National Center for Biotechnology Information’s publication of the viral genome of the coronavirus on its website a few weeks ago.
+
+"The first day it was released, I got my group and said, ‘We’re going into hackathon mode,’ " he said. "That’s really when the whole lab dropped everything else."
+
+Within 10 days, Korkin and his team of graduate students had come up with a 3D model of the virus’s proteins, basing their work largely on relative viruses like SARS and MERS. Without that existing foundation of medical knowledge, he said, "it would have been extremely hard, if not impossible, to do it."
+
+That’s because those two diseases are extremely similar to the coronavirus – even identical in some proteins. But the key to Korkin’s project was figuring out where the new virus differed, either through mutations or entirely new sequences in the proteins.
+
+Korkin believes WPI is the first institution to develop a full 3D model of the coronavirus, but his work isn’t finished yet. The next step, he said, is to explore how those models might interact with known vaccines and anti-viral drugs.
+
+"And that’s essentially our main hope right now," he said. "I think that’s where the solution will come from."
+
+In addition, the 3D model could help predict the potential course of the virus around the world, an especially important step as cases of coronavirus continue to crop up outside of China.
+
+"It’s just a matter of time before the virus will mutate," Korkin said. "What are its trajectories? We can (project them) through bioinformatics and computational modeling."
+
+The modern capabilities of those disciplines – achieving breakthroughs like a full 3D model of a virus that appeared only a couple months ago – is a result of both advances in technology and knowledge, Korkin said. In WPI’s case, the effort also required an approach that isn’t often applied in health care, he said. "Hackathons" are traditionally used to complete objectives as quickly as possible in computer-based fields.
+
+"We felt the urgency," he said, as the coronavirus spread across the world. "The sooner you can do it, the better it is for everyone."

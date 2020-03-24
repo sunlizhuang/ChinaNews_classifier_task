@@ -1,0 +1,43 @@
+China is currently facing an outbreak of a new strain of the Coronavirus that humans can contract and which has caused alarm because of its connection to SARS that killed nearly 800 people across mainland China and Hong Kong back in 2002/2003.
+
+The CDC and scientists worldwide are also monitoring the situation and some have voiced that the Chinese government isn’t truthfully communicating the numbers in infections which based on some estimates could already reach 1,723 (so far only 198 have officially been confirmed).
+
+Infections have multiplied in recent days and numbers are expected to go up. This comes at the beginning of the Chinese New Year holidays in China where more than 800 Million people (!!!) are expected to travel throughout the country, a perfect breeding ground for the virus if infected people are within this bulk of travelers.
+
+U.S. authorities have already upped their game at ports of entry and effective immediately implemented screenings at corridors of three states side international airports: Los Angeles LAX, San Francisco SFO, and New York’s JFK Airport. Based on DHS date these airports have the largest influx of travelers on direct and connecting flights from the central Chinese city of Wuhan where the initial outbreak occurred. It’s likely that these checkpoint are being expanded to other airports as well.
+
+This morning South China Morning Post reported that China confirmed it’s third death linked to the virus
+
+Chinese authorities on Monday said another person had died over the weekend from the Wuhan bringing the death count to three, and for the first time officially announced infections in other areas in China. It came as the World Health Organisation (WHO) said there was an indication that the pneumonia-like virus – thought to have originated in a seafood and animal meat market in Wuhan – could spread through human-to-human transmission. … Wuhan reported the death of a patient with the virus and more than 130 new infections over the weekend alone, taking the total in the central Chinese city to 198. WHO China said in a written response to the South China Morning Post on Monday that there was “no clear evidence of sustained human-to-human transmission” and confirmed that no medical staff had been infected by the virus. …
+
+The article is very detailed and I suggest to read it in it’s entirety to get a more complete picture. Hong Kong authorities and residents are extremely nervous about this. Back in 2002-2003 when SARS made worldwide headlines the city bore the brunt of it and close to 800 people died across the region.
+
+Meanwhile Chinese health authorities have come under fire from groups of scientists worldwide who claim that the number of infections is actually much higher than reported and that the outlook is more than worrisome.
+
+Scientists at London Imperial College have published a first study of the case highlighting the potential of the virus and future infections:
+
+We estimate that a total of 1,723 cases of 2019-nCoV in Wuhan City (95% CI: 427 – 4,471) had onset of symptoms by 12th January 2020 (the last reported onset date of any case). … This estimate is based on the following assumptions: Wuhan International Airport has a catchment population of 19 million individuals [1]. There is a mean 10-day delay between infection and detection, comprising a 5-6 day incubation period [8,9] and a 4-5 day delay from symptom onset to detection/hospitalisation of a case (the cases detected in Thailand and Japan were hospitalised 3 and 7 days after onset, respectively) [4,10]. Total volume of international travel from Wuhan over the last two months has been 3,301 passengers per day. This estimate is derived from the 3,418 foreign passengers per day in the top 20 country destinations based on 2018 IATA data [11], and uses 2016 IATA data held by Imperial College to correct for the travel surge at Chinese New Year present in the latter data (which has not happened yet this year) and for travel to countries outside the top 20 destination list. Caveats We assume that outbound trip durations are long enough that an infected Wuhan resident travelling internationally will develop symptoms and be detected overseas, rather than being detected after returning to Wuhan. We also do not account for the fact that international visitors to Wuhan (such as the case who was detected in Japan) might be expected to have a shorter duration of exposure and thus a lower infection risk than residents. Accounting for either factor correctly requires additional data but would increase our estimate of the total number of cases. We estimate the potential number of symptomatic cases with disease severity of a level requiring hospitalisation (both the cases detected in Thailand and Japan were moderately severe). Our estimates do not include cases with mild or no symptoms. The incubation period of 2019-nCov is not known and has been approximated with the estimates obtained for MERS-CoV and SARS [8,9]. We assume that international travel is independent of the risk of exposure to 2019n-CoV or of infection status. If zoonotic exposure was biased towards wealthier people, travel frequency may be correlated with exposure. Also, some travel might be causally linked to infection status (to seek healthcare overseas) or the infection status of contacts in Wuhan (this may apply to the case detected in Japan) [10]. Accounting for either association would increase the probability of a case travelling and therefore reduce our estimates of the total number of cases.
+
+The entire study is summarized in this pdf file:
+
+Download (PDF, 205KB)
+
+The risk isn’t restricted to China alone anymore and this highlights the dangers of international travel.
+
+Two days ago the Bangkok post reported that Chinese tourists have now dragged the virus into Thailand and a second tourist was diagnosed in Bangkok.
+
+A second case of infection with a new Chinese coronavirus has been found in Thailand as health authorities ramp up checks on Chinese visitors arriving for the Lunar New Year holiday. The latest patient is from China’s central city of Wuhan, which has reported 41 cases of pneumonia potentially linked to the new type of virus, with two deaths, while hospitals worldwide scramble to guard against any spread. Tests showed that a 74-year-old woman, quarantined since arriving in Thailand on Monday was infected, health permanent secretary Sukhum Karnchanapimai said on Friday.
+
+The U.S. Embassy in Beijing has issued a Health Alert for citizens in China.
+
+Event: U.S. Centers for Disease Control and Prevention has issued a Watch Level 1 Alert (be aware and practice usual precautions) for an outbreak of pneumonia in Wuhan, China, preliminarily identified to be caused by a novel (new) coronavirus. Travelers to Wuhan should: Avoid animals (alive or dead), animal markets, and products that come from animals (such as uncooked meat). Avoid contact with sick people. Wash hands often with soap and water.
+
+The ACS (American Citizen Services) unit is available to citizens who require assistance.
+
+Other embassies has issued similar notices but no travel warning yet at this point.
+
+Conclusion
+
+Chinese New Year is causing the worlds largest mass flow of people traveling within a single country each year. 800 Million people! I can’t see Chinese authorities being both willing or prepared to put restrictions on this until the proverbial sh*t really hits the fan , at which point many would have already fallen victim to the virus and died. A restrictive measure of that dimension would cause a huge upheaval in any country and the Chinese Communist Party is extra sensitive about any such possibility.
+
+Meanwhile other countries can only implement extra screening for Chinese arrivals at their ports of entry and as the Thailand case shows with good reason. While the country is large, traveling to China itself is probably not a good idea at the moment and I would inquire with travel providers and insurances about a possible change or cancellation waiver. It probably won’t take long until they are being officially published if the situation gets worse. SARS pretty much decimated all travel to Hong Kong back in the day.

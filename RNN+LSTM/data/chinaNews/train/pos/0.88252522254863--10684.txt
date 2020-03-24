@@ -1,0 +1,51 @@
+A new study evaluating an Atlantic salmon recirculating aquaculture system (RAS) in China is now being used by local opponents to suggest the carbon footprint of Nordic Aquafarms (NAF)'s planned RAS facility in the US state of Maine will be at least three times greater than previously advertised.
+
+NAF and other RAS champions say the comparison is ”apples and oranges”.
+
+“The local opposition is vastly overstating the carbon footprint from land-based seafood in Maine based on faulty assumptions and misleading conclusions,” said Marianne Naess, NAF’s commercial director, in a statement provided to Undercurrent News. “On the contrary, Nordic Aquafarms' proposed facility illustrates that Maine is in a position to provide much more carbon efficient conditions for land-based aquaculture than many other locations.”
+
+NAF has been under attack from local advocacy groups since it first announced its plans, in January 2018, to build its new land-based Atlantic salmon facility in the city of Belfast, on a roughly 40-acre property close to the Penobscot Bay at a cost of roughly $500 million. The Norwegian company initially expected to begin construction by the fall of 2019 and produce as much as 13,000 metric tons of fish annually in its first phase, eventually growing its facility to a rate of 33,000t per year.
+
+Construction has yet to begin, however, due in large part to the delays caused by NAF's opponents.
+
+The opposition groups have filed lawsuits and challenges to the company’s efforts to gain regulatory approvals. They’ve run in elections for local town council seats. In November, one group, Upstream Watch, held a press event to introduce a compromise that would have NAF move its facility to Belfast Airport Business Park and use a different water discharge system, promising to withdraw its opposition in exchange, as reported by Village Soup, a local newspaper.
+
+NAF rejected the relocation proposal, but Upstream Watch isn’t giving up. It called a press event Wednesday morning at the Maine State House in Augusta – 45 miles from Belfast – in order to hand reporters a 130-page paper challenging NAF’s claims of environmental sustainability.
+
+The paper, which was reported to be written by Jim Merkel, a Belfast-based filmmaker, and George Agular, a software development expert, doesn’t appear in any peer-reviewed journals, but it relies heavily on a study of a Chinese RAS facility that did.
+
+The timing and location seem intended to take advantage of governor Janet Mills’ pledge, in September 2019 at a United Nations climate summit, to make Maine carbon neutral by 2045. Mills, a Democrat who was elected in November 2018, has directed a new Maine Climate Council to deliver recommendations by late 2020.
+
+Upstream Watch noted in its press release that the Maine Department of Environmental Protection, which is charged with reviewing some of NAF's permit applications, has announced that it is on track to meet the administration's 2020 greenhouse gas goals.
+
+“The [NAF] facility will be equivalent to adding the carbon impact of 14,000-18000+ households , or 120,000 to 165,000 cars to Maine’s roads,” read an email sent by Upstream Watcher founder Amy Grant to those invited to attend. “This addition is in stark contrast to Governor Mills 2019 address at the United Nations, where she committed Maine to carbon neutrality by 2045. The factory will make meeting this goal impossible unless existing businesses and households drastically reduce emissions.”
+
+Among the recommendations of Upstream Watch's paper: Require NAF to demonstrate carbon neutrality; Prevent NAF from clearing a mature forest and use a brownfield site instead, and; required NAF to "find a location with access to deep ocean
+
+currents, or utilize a completely closed system".
+
+New study suggests carbon footprint of 16.7t
+
+The study being used to make Upstream Watch’s argument regarding carbon footprint on Wednesday was published in April in the Journal of Industrial Ecology and was titled “Life Cycle Assessment of recirculating aquaculture systems: A case of Atlantic salmon farming in China”. The paper is sometimes called “the Song et. al. study,” referring to the first of seven Chinese researchers, living in Norway, credited as its authors.
+
+The researchers said they made a “life cycle assessment” (LCA) of an Atlantic salmon RAS facility in northern China that showed one metric ton of live-weight salmon production required 7,509 kilowatt hours (kWh) farm-level electricity, generating 16.7 metric tons of carbon dioxide.
+
+That’s much higher than the 7.4 metric tons of carbon dioxide estimated for a salmon RAS facility in a 2016 study by a team of six researchers in Norway and the US state of West Virginia, which has been quoted and relied up many times by NAF and other RAS facilities.
+
+NAF has estimated that its new plant will have even less of a footprint: 5.4t of carbon dioxide for every metric ton of salmon.
+
+The older study, which was published in the journal Aquacultural Engineering, is called "Comparative economic performance and carbon footprint of two farm farming models for producing Atlantic salmon (Salmo salar): Land-based closed containment system in freshwater and open net pen in seawater".
+
+Brian Vinci, director of the Freshwater Institute and one of the researchers involved in the 2016 study, doesn’t question the newer findings. The Chinese scientists in Norway did “excellent work”, based on sound science, he told Undercurrent News on Wednesday.
+
+However, the problem with making a comparison, both he and NAF say, is with the variables used, especially when it comes to feed. NAF countered Wednesday’s press event with a detailed list of the differences.
+
+In particular, the Chinese facility studied maintains a feed conversion ratio of 1.45 and a stocking density of 24.2 kilograms per meter, compared to NAF’s planned feed conversion rate of 1.10 and its stocking density of 80 kg/m. Feed travels 785 to 810 kilometers to the Chinese facility, while NAF’s plan involves transporting feed from a location 200km away, according to NAF.
+
+The Chinese RAS facility in the study uses 25% renewable energy sources and 65% coal, while the NAF facility will use 75% renewable energy sources and less than 1% coal.
+
+NAF will be using less than 150,000 gallons of diesel per year, though its opponents have suggested it will use 900,000 gallons, basing the number on one of NAF’s permit applications which was to account for a worst-case scenario, according to the RAS company.
+
+The LCA done for the Chinese facility was for 15 years, while NAF plans to be around for at least 50 years, NAF also noted.
+
+Regardless of the suggested misuse of the Chinese RAS facility study, the North American RAS industry should be ready to see it sited again in efforts to quash future projects. Vinci notes, however, that several RAS facilities are due to be built soon in the US, which will give the industry plenty of fresh data based on actual experience.

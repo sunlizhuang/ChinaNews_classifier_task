@@ -1,0 +1,105 @@
+Sarah Tew/CNET
+
+The Samsung Galaxy S20 comes in three different permutations. There's the 6.2-inch Galaxy S20, the 6.7-inch S20 Plus and the huge 6.9-inch S20 Ultra. All three phones are now available for preorder. Last week, Samsung unveiled these new flagships along with its new foldable phone, the Galaxy Z Flip, which will compete directly with the new Motorola Razr.
+
+While the Z Flip has grabbed headlines, the new Galaxy S20 phones have bigger competition in mind -- Apple's iPhone, Google's Pixel and Huawei's high-end devices -- the phones a lot more people will actually buy in 2020. And to Samsung's credit, the highest-end model of the new Galaxy S20 has done eight things that have raised the bar for flagship phones:
+
+1. Introduces a 100x zoom camera.
+
+2. Takes 108-megapixel photos.
+
+3. Integrates two forms of 5G: Sub 6 (standard) and millimeter-wave (super fast).
+
+4. Adds a 120Hz AMOLED display for better video and gaming.
+
+5. Offers 8K video recording.
+
+6. Increases battery capacity to 5,000 mAh.
+
+7. Includes a 25-watt fast charger in the box (and supports a new 45-watt charger).
+
+8. Debuts "Single Take" mode to capture 10 photos and four videos with the push of one button.
+
+Now playing: Watch this: Hands-on with the Galaxy S20, S20 Plus and S20 Ultra
+
+Why did Samsung skip from S10 to S20?
+
+Last year's flagship Samsung phones were the Galaxy S10 and S10 Plus, preceded by the S9 and S9 Plus in 2018. The 2020 models are the S20, S20 Plus and S20 Ultra. So why has Samsung skipped from S10 to S20 in its branding, and why are there three models this year?
+
+The 20 in S20 refers to 2020 -- Samsung decided to swap from version numbers to years. All of the phone-makers take liberties in the numbers they use to name their products, but this move makes Samsung one of the first to tie the product name to the year, which has some practical appeal. It also doesn't hurt that the number is higher than the product number of most of its rivals, and human brains naturally tend to think bigger numbers are better.
+
+In terms of the Galaxy S20 lineup having three devices this year, that's technically one less than 2019 when Samsung had the S10 and S10 Plus but also added the smaller S10E (a budget device) and the slightly larger S10 5G. This year, Samsung has integrated 5G across the entire product line so it doesn't need a separate 5G model. And, it has followed Apple's lead in giving the least expensive device in the lineup the standard branding -- iPhone 11 for Apple last fall and Galaxy S20 for Samsung this year.
+
+It will be important to watch whether the Galaxy S20 becomes the most popular model in Samsung's lineup the way the iPhone 11 has become the favorite among Apple buyers. I expect the middle model, the S20 Plus, will be the one most people buy. Let's talk about why.
+
+Angela Lang/CNET
+
+How do the three Samsung S20 models differ?
+
+Let's get the basics out of the way. The Galaxy S20 models are three different screen sizes and prices:
+
+Galaxy S20 (6.2-inch), which starts at $1,000 in the US, £799 in the UK and AU$1,349 in Australia
+
+Galaxy S20 Plus (6.7-inch), which starts at $1,200 (£999, AU$1,499)
+
+Galaxy S20 Ultra (6.9-inch), which starts at $1,400 (£1,199, AU$1,999)
+
+Preorders for all three models start Feb. 21 and arrive in stores on March 6. (March 13 for the UK.)
+
+The Galaxy S20 includes only the Sub 6 version of 5G, which offers broad coverage but no speed bursts over 1 gigabit per second. The Galaxy S20 Plus and S20 Ultra offer both Sub-6 and mmWave, which includes those massive speed bursts in select areas. (There's one exception here: Verizon is planning to release a special version of the standard Galaxy S20 in the second quarter of the year that will include mmWave.)
+
+Samsung redesigned its camera system for all three phones to improve low-light photos, sharpness and zoom -- the three things people have asked for the most in Samsung's research. The new Galaxy S20 and S20 Plus cameras have 64 megapixels and the S20 Ultra has an eye-popping 108-megapixel camera. These high resolutions will potentially improve the clarity of the photos, but keep in mind that they're stitching together multiple images from multiple lenses to get those high megapixel numbers. So these megapixels are not directly comparable to the megapixel numbers on DSLR and mirrorless cameras, for example.
+
+Now playing: Watch this: Samsung Galaxy S20 Ultra's 100x zoom makes snooping easier
+
+The other big upgrade to the cameras is with the optical zoom, where Samsung has gone farther than its competitors. The Galaxy S20 and S20 Plus get a 30x zoom and the S20 Ultra gets a 100x "hybrid optic zoom" -- which doubles the 50x digital zoom on the Huawei P30 Pro. The S20 Ultra uses what Samsung calls a "folded zoom lens" and company representatives explained that it folds sideways to the right of the lens on the back camera bump. That sounds pretty innovative and I'm looking forward to learning more about how they pulled this off. Look for my colleague Andy Hoyle's deep dive on the new S20 cameras soon.
+
+Samsung has also expanded battery capacity and here's how the three models measure up:
+
+Galaxy S20: 4,000 mAh
+
+Galaxy S20 Plus: 4,500 mAh
+
+Galaxy S20 Ultra: 5,000 mAh
+
+Speaking of power, all Galaxy S20 models come with a 25-watt fast charger in the box and the S20 Ultra also has an optional 45-watt super fast charger you'll be able to buy separately. By comparison, the iPhone 11 Pro models pack an 18-watt fast charger.
+
+All the S20 models are likely going to need that extra battery and fast charging to help power the new 120Hz AMOLED display, which makes video and gaming much smoother when there's motion on the screen. It also makes images more crisp. Most of today's phones have 60Hz screens, while the OnePlus 7 Pro and the Google Pixel 4 have 90Hz. Apple's iPad Pro offers 120Hz.
+
+Another way to take advantage of the 120Hz AMOLED screen is that all three S20 models offer 8K video recording at 24 frames per second, so the new display makes a great viewfinder. Once recorded, those 8K videos can also be cast to a Samsung 8K QLED or exported to YouTube, which supports 8K video. With the new camera system in the S20, Samsung has also introduced a new "Night Hyperlapse" mode that can make light streaks out of cars in motion, for example. This is one of the features I'm most looking forward to trying out.
+
+All three phones come equipped with 12GB of RAM. The standard Galaxy S20 comes with 128GB of storage, while the S20 Plus and the S20 Ultra offer 128GB and 256GB options.
+
+For the rest of the specs on the three S20 models, see this chart:
+
+Galaxy S20, S20 Plus and S20 Ultra specs
+
+Samsung Galaxy S20 Samsung Galaxy S20 Plus Samsung Galaxy S20 Ultra Display size, resolution 6.2-inch AMOLED 6.7-inch AMOLED 6.9-inch AMOLED Pixel density 563ppi 525ppi 511ppi Dimensions (Inches) 2.72 x 5.97 x 0.311 in 2.9 x 6.37 x 0.30 in 2.99 x 6.57 x 0.35 in Dimensions (Millimeters) 69.1 x 151.7 x 7.9 mm 73.7 x 161.9 x 7.8mm 76.0 x 166.9 x 8.8mm Weight (Ounces, Grams) 5.75 oz; 163g 6.56 oz; 186g 7.76 oz; 220g Mobile software Android 10 Android 10 Android 10 Camera 12-megapixel (wide-angle), 64-megapixel (telephoto), 12-megapixel (ultra-wide) 12-megapixel (wide-angle), 64-megapixel (telephoto), 12-megapixel (ultra-wide), time-of-flight camera 108-megapixel (wide-angle), 48-megapixel (telephoto), 12-megapixel (ultra-wide), time-of-flight camera Front-facing camera 10-megapixel 10-megapixel 40-megapixel Video capture 8K 8K 8K Processor 64-bit octa-core processor (Max 2.7GHz + 2.5 GHz + 2.0 GHz) 64-bit octa-core processor (Max 2.7GHz + 2.5 GHz + 2.0 GHz) 64-bit octa-core processor (Max 2.7GHz + 2.5 GHz + 2.0 GHz) Storage 128GB 128GB, 512GB 128GB, 512GB RAM 12GB 12GB 12GB, 16GB Expandable storage Up to 1TB Up to 1TB Up to 1TB Battery 4,000 mAh 4,500 mAh 5,000 mAh Fingerprint sensor In-screen In-screen In-screen Connector USB-C USB-C USB-C Headphone jack No No No Special features 5G enabled; 120Hz refresh rate; water resistant (IP68) 5G enabled; 120Hz refresh rate; water resistant (IP68) 5G enabled; 120Hz refresh rate; 100X zoom; water resistant (IP68) Price off-contract (USD) $999 $1,199 $1,399 Price (GBP) £799, £899 (5G) £999 (5G) £1,199 (128GB), £1,399 (512GB) Price (AUD) AU$1,349, AU$1,499 (5G) AU$1,499, AU$1,649 (5G) AU$1,999 (128GB), AU$2,249 (512GB)
+
+
+
+First impressions of the Galaxy S20 Ultra
+
+On paper, the Galaxy S20 Ultra is a beast -- and even the two smaller models still hold their own among today's flagship phones. But the best phone experiences aren't made on paper, they're made with devices in our hands.
+
+The most noticeable thing when you put any of the three Galaxy S20 devices in your hand is that Samsung has gently decreased the curves on the edges of the screen that were first introduced with the Galaxy S7 Edge. That will hearten some users who complained that they often mistakenly brushed the curved edges of the screen and rarely used the edge features. I was never one of those, but I also rarely used the edge features. Still, the curved edges gave Samsung phones the illusion of being even thinner than they already were, and so the curves were a powerful design feature. That said, the slightly less curved S20 models maintain that feel but are also a little easier to hold.
+
+Speaking of holding the S20 Ultra, I've been a long-time fan of phablets. Since the beginning of 2010, I've carried two phones -- a work phone and a personal phone, one Android and one iPhone. And for the past three to four years that has almost always meant carrying two phablets. But even for me, the 6.9-inch S20 Ultra feels a little oversized, bulky and difficult to get into my pocket.
+
+With the 100x zoom on the S20 Ultra, there's no way around the fact that the camera bump has suddenly gotten much bigger. When you run your finger along the back of the device without a case on it, brushing that camera bump is definitely jarring. When you slip the S20 Ultra into any of the Samsung-branded cases for the device, however, the bump sits flush with all of them. And since 75% to 80% of smartphone users put their phones in cases, it's not something that bothers me very much. However, my colleague Lynn La had a strong negative reaction to the bump, and others might feel the same -- especially if they don't use a case.
+
+Sarah Tew/CNET
+
+In terms of using the 100x zoom, when I zoomed all the way in and took some photos the images were pretty pixelated and the edges of things were pretty jagged. It looked a lot like the photos when the 10x digital zoom is maxed out on most other cameras -- it just goes a lot farther. But when you gear down that 100x zoom to 30x or 50x, you get some excellent quality images and still have spectacular range for a phone camera.
+
+Finally, I'd like to talk about my favorite new feature of the Galaxy S20. It doesn't have to do with any of the gaudy specs or hardware. It's a software feature -- and that's surprising considering software has never been a strength of Samsung devices. The new feature is called "Single Take" mode and it uses the different lenses on the S20 models along with machine learning to help you get the best photo or video of a situation without having to think about it.
+
+When there's suddenly something interesting happening, just tap the shutter button in Single Take mode and the phone will grab a variety of images and videos and you can sort out afterward which ones you want to keep. At max, one tap of the button in Single Take mode can capture 10 photos and four videos. For example, the photos could be "AI best moment," ultrawide, live focus, AI filter and smart crop, while the videos could be forward/backward, fast forward and original video.
+
+Now playing: Watch this: Samsung's Galaxy S20 phones get 8K video and insane 'space...
+
+Single Take was the feature I tested the most in my hands-on time with the Galaxy S20 Ultra. I had a lot of fun with it and I liked what I saw, but it will take a lot more usage to decide if it's something I would use often and if it would help me fully capture moments I would have otherwise missed. But I like what Samsung's trying to do here, because it could make phone photography more fun and more effective at the same time.
+
+Keep an eye out for CNET's full review of the Samsung Galaxy S20 Ultra from Jessica Dolcourt soon.
+
+Originally published last week.

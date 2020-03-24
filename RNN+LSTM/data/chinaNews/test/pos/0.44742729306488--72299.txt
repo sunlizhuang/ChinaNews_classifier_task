@@ -1,0 +1,67 @@
+by visualcapitalist
+
+Even though you’re reading this article in English, there’s a good chance it might not be your mother tongue. Of the billion-strong English speakers in the world, only 33% consider it their native language.
+
+The popularity of a language depends greatly on utility and geographic location. Additionally, how we measure the spread of world languages can vary greatly depending on whether you look at total speakers or native speakers.
+
+Today’s detailed visualization from WordTips illustrates the 100 most spoken languages in the world, the number of native speakers for each language, and the origin tree that each language has branched out from.
+
+How Do You Define A Language?
+
+The data comes from the 22nd edition of Ethnologue, a database covering a majority of the world’s population, detailing approximately 7,111 living languages in existence today.
+
+The definitions of languages are often dynamic, blurring the lines around a singular understanding of what makes a language:
+
+Linguistic: focused on lexical and grammatical differences, or on variations within speech communities
+
+Social: focused on cultural or political factors, as well as heritage and identity
+
+For the purposes of measurement, the researchers use the ISO 693-3 set of criteria, which accounts for related varieties and dialects—ensuring that linguistics are not the only factor considered in this count of languages.
+
+Here are the language origins of the 100 most spoken languages:
+
+Indo-European languages have the widest spread worldwide. According to Ethnologue, the language family contains over 3 billion speakers in total. Interestingly, there are actually 1,526Niger-Congo languages altogether, though only 12 are represented here.
+
+Let’s now dive into the top 10 most spoken languages overall.
+
+Which Languages Have the Most Speakers?
+
+It comes as no surprise that English reigns supreme, with over 1.1 billion total speakers—or roughly 15% of the global population. Mandarin Chinese, Hindi, Spanish, and French round out the top five.
+
+Rank Language Total Speakers Language Origin 1 English 1,132 million Indo-European 2 Mandarin Chinese 1,117 million Sino-Tibetan 3 Hindi 615 million Indo-European 4 Spanish 534 million Indo-European 5 French 280 million Indo-European 6 Standard Arabic 274 million Afro-Asiatic 7 Bengali 265 million Indo-European 8 Russian 258 million Indo-European 9 Portugese 234 million Indo-European 10 Indonesian 199 million Austronesian
+
+However, this is only one piece in the full fabric of languages.
+
+The metrics for native speakers tell a slightly different tale, as Mandarin Chinese shoots up to 918 million—almost 2.5x that of English native speakers.
+
+Rank Language Native Speakers Language Origin 1 Mandarin Chinese 918 million Sino-Tibetan 2 Spanish 460 million Indo-European 3 English 379 million Indo-European 4 Hindi 341 million Indo-European 5 Bengali 228 million Indo-European 6 Portugese 221 million Indo-European 7 Russian 154 million Indo-European 8 Japanese 128 million Japanic 9 Western Punjabi 93 million Indo-European 10 Marathi 83 million Indo-European
+
+Note: No native speaker data was available for Filipino, Standard Arabic, Nigerian Pidgin, or Cameroonian Pidgin.
+
+Here, Spanish comes in strong second for native speakers with 460 million, considering it’s well-used across Latin America. The Indian languages of Hindi and Bengali cap off the top five by native speakers as well.
+
+These are the biggest languages people learn growing up, but what about the ones they pick up later in life?
+
+What About Second (L2) Languages?
+
+Nearly 43% of the world’s population is bilingual, with the ability to switch between two languages with ease.
+
+From the data, second language (L2) speakers can be calculated by looking at the difference between native and total speakers, as a proportion of the total. For example, 66% of Englishspeakers learned it as a second language.
+
+Swahili surprisingly has the highest ratio of L2 speakers to total speakers—although it only has 16 million native speakers, this shoots up to 98 million total speakers. Overall, 82% of Swahili speakers know it as a second language.
+
+Swahili is listed as a national or official language in several African countries: Tanzania, Kenya, Uganda, and the Democratic Republic of Congo. It’s likely that the movement of people from rural areas into big cities in search of better economic opportunities, is what’s boosting the adoption of Swahili as a second language.
+
+Indonesian is another similar example. With a 78% proportion of L2 speakers compared to total speakers, this variation on the Malay language has been used as the lingua franca across the islands for a long time. In contrast, only 17% of Mandarin speakers know it as a second language, perhaps because it is one of the most challenging languages to learn.
+
+Keeping Language Traditions Alive
+
+Languages are fluid, and constantly evolving—altogether, the 100 most spoken languages paint a unique picture across centuries of a changing world. Here’s the full list of these languages, by types of speakers and language origin.
+
+One reason these languages are popular is that they are actively and consistently used. Unfortunately, nearly 3,000 (about 40%) of all languages are at risk of being lost, or are already in the process of dying out today.
+
+Languages play a crucial role in our daily lives. … [Their] losses have huge negative impacts indigenous peoples’ most basic human rights.
+
+—UN, IYoIL statement
+
+As a result, the United Nations declared 2019 the International Year of Indigenous Languages (IYoIL), with a resolution to continue fostering these languages and pass on their knowledge for future generations.

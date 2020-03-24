@@ -1,0 +1,107 @@
+As Prepared for Delivery
+
+Good morning, everyone, and thank you for joining us here at HHS today.
+
+Today's press conference aims to do two things: provide an overview of what we know about the current novel coronavirus outbreak and highlight some of what HHS and the entire Trump Administration are doing to prepare for and respond to this threat.
+
+Today, I'm joined by Dr. Robert Redfield, Director of the CDC; Dr. Nancy Messonnier, Director of CDC's National Center for Immunization and Respiratory Diseases; and Dr. Tony Fauci, Director of NIH's National Institute of Allergy and Infectious Diseases.
+
+Today's briefing replaces CDC's daily telebriefing, as we thought it important to provide the media with a face-to-face opportunity to ask questions of our public health experts.
+
+First, let me provide a brief update on the situation: As of today, the CDC has reported 5 cases of the novel coronavirus infection here in the United States. China has now reported more than 4,500 cases.
+
+Americans should know that this is a potentially very serious public health threat, but, at this point, Americans should not worry for their own safety.
+
+This is a very fast moving, constantly changing situation.
+
+Dr. Redfield and Fauci will walk through some more details of the current situation and response.
+
+Part of the risk we face right now is that we don't yet know everything we need to know about this virus.
+
+But, I want to emphasize, that does not prevent us from preparing and responding.
+
+We have the experience of responding to two earlier coronaviruses that emerged to cause serious illness in people, SARS and MERS, and we have experience responding to bird flu outbreaks in Asia.
+
+One challenge is that, with an emerging virus like this, our current assessments are based on an uncertain denominator.
+
+Our denominator is the 4,500-plus cases that have been identified in China, as well as more than 60 cases in other countries.
+
+But these early cases are naturally the most severe cases, because patients presented themselves to healthcare providers.
+
+How does this skew our understanding of the virus?
+
+First, we are still determining the real speed of spread, which is represented by a number known as R0, the average number of additional people infected by a given person with the disease.
+
+One paper found R0 estimates for this virus ranging from 1.5 to 3.5, as compared with, say, a number of 12 to 18 for measles.
+
+We are also still learning about the severity of the virus.
+
+Currently, China is reporting more than 100 deaths from the more than 4,500 cases.
+
+That is a high rate, but, again, the cases that have been identified skew severe, including patients who are older or have other illnesses. The mortality rate may drop over time as we identify a broader set of cases.
+
+We are working to understand the incubation period.
+
+This number varies for coronaviruses, with the extremes being anywhere from 2 to 14 days.
+
+That number could be higher or lower for this virus.
+
+Finally, we are working to determine whether there is asymptomatic transmission. Normally with a coronavirus, we see more viral shedding and more transmission when a person is most symptomatic.
+
+China has reported there may be evidence of asymptomatic transmission.
+
+All of these questions must and will be answered in order to provide a proper risk assessment.
+
+But they are not stopping us from focusing on applying tried and true public health methods in the meantime.
+
+The playbook for responding to an infectious disease outbreak is relatively simple: You identify cases, isolate the people, diagnose them, and treat them.
+
+Then you track down all of the contacts of the infected person, and you do the same with those people, and the same with contacts of contacts if necessary.
+
+That approach is how public health departments and healthcare providers, working with the CDC, are handling the cases here in the United States, and I am grateful for the hard work they're doing.
+
+This kind of work, coupled with studies and analysis, is also how we answer the questions I described earlier.
+
+On January 6, we offered to send a CDC team to China that could assist with these public health efforts.
+
+I reiterated that offer when I spoke to China's Minister of Health on Monday, and it was reiterated again via the World Health Organization today.
+
+We are urging China: More cooperation and transparency are the most important steps you can take toward a more effective response.
+
+Beyond that, all options for dealing with infectious disease spread have to be on the table, including travel restrictions.
+
+But diseases are not terribly good at respecting borders, so we would have to assess carefully whether the evidence recommends any steps beyond the thoroughly tested methods I just described.
+
+I know this playbook well in part because I was in this same building in the 2000s, serving as General Counsel and then Deputy Secretary, alongside some of these same fine scientists and public health officials, when we responded to the SARS outbreak and a number of other infectious threats.
+
+That has given me a deep appreciation for the institutions that oversee our response. The United States has the world's finest public health system.
+
+We've been monitoring this virus and preparing a response since back in December, but it's more than that. Preparing for these kinds of outbreaks is part of daily life at HHS and for America's public health professionals.
+
+Preparedness is a day job around here.
+
+We are constantly making investments, training personnel at all levels, carrying out simulations and exercises, and sharing information.
+
+This commitment goes straight to the top: The President and I have been speaking regularly about this outbreak, and I have been speaking with the senior officials at HHS and the White House multiple times each day since the outbreak began to represent an international threat.
+
+The President is highly engaged in this response, and closely monitoring the work we're doing to keep Americans safe.
+
+I'll give you a brief sense of the work being done across HHS, beyond the CDC activities I mentioned.
+
+Our emergency response arm, the Assistant Secretary for Preparedness and Response or ASPR, is assessing the level of preparedness we have with the Strategic National Stockpile, which includes pharmaceuticals and other necessary medical supplies.
+
+HHS's Administration for Children and Families is working with the State Department to assist any Americans who will need assistance being repatriated.
+
+NIH, ASPR, and FDA are pursuing research into and assessing the possibilities for vaccines, diagnostics, and therapeutics, which is necessarily a longer term project.
+
+In addition to the work being done in government, there are basic precautions all Americans can take.
+
+Healthcare providers should be on the lookout for patients with travel history to China, especially Hubei Province, and relevant symptoms.
+
+Late on Monday, CDC and the State Department issued a Level 3 travel advisory for all of China. This higher level of alert means that Americans should reconsider or postpone travel to any part of China.
+
+The State Department has also maintained a Level 4 warning for Hubei, meaning Americans should not travel there.
+
+In closing, I will remind the American people one more time: We are working hard to keep you safe, we are constantly preparing for the possibility that the situation could worsen, and your health and safety has been and will be our top priority.
+
+To discuss more about the current state of the epidemiology and the CDC's work, I will now hand things over to Dr. Redfield. Dr. Redfield?

@@ -1,0 +1,183 @@
+5G is the new wireless technology for cellular networks. It brings faster internet speeds and lower latencies compared to its predecessor, 4G. Network operators have begun rolling out 5G networks in major markets, and phone manufacturers have been announcing 5G devices even before the network began rolling out.
+
+According to Ookla’s 5G Map, commercial 5G has been deployed in 6490 locations across the globe, with the bulk of it in North America, and by a total of 106 operators.
+
+Apart from having a 5G device and a 5G network to connect to, another important requirement is a 5G plan. Mobile network operators in markets that have already rolled out 5G service have followed it with the launch of various 5G plans that their subscribers can choose from. The price of these mobile plans varies from network operators to countries much like our existing 4G mobile plans.
+
+This article will be comparing China’s 5G mobile plans to that of major markets (read the US and Europe).
+
+China – Affordable has a limit
+
+China is at the forefront of 5G not only with respect to the network coverage but also with devices. Manufacturers such as Xiaomi, Huawei, OPPO, Vivo, Honor, and Realme have all announced 5G smartphones and they are selling pretty quickly. Huawei revealed it sold 6.9 million 5G devices and the amazing thing about that figure is none of these phones are priced below $300, which is where a significant percentage of 5G mobile phones sold lies.
+
+To sell more 5G phones, Xiaomi announced affordable 5G plans exclusive to owners of the Redmi K30 5G phone, the cheapest 5G phone you can buy right now. The pricing for these mobile plans even beat some 4G plans. You may be wondering how Xiaomi is able to offer its own mobile plans – the reason is that Xiaomi also has a Mobile Virtual Network Operator (MVNO) or virtual carrier/subcarrier that is based on China Unicom, one of the three main network operators in China.
+
+Virtual carriers are popular in several countries, especially in the US. They use the infrastructure (base stations, switching centers, etc.) of an already established network operator and provide services to subscribers on their network. Google Fi is an example of an MVNO.
+
+Listed below are Xiaomi’s 5G mobile plans:
+
+¥49 (~$7.10) which gives you 20GB of data and 50 minutes of talk time
+
+¥69 (~$10) which gives you 30GB of data and 100 minutes of talk time
+
+¥99 (~$14.35) which gives you 40GB of data and 200 minutes of talk time
+
+Just to compare, I pay ₦8,000 (~$26) for 20GB of LTE data (5GB bonus when you renew before it expires) here in Nigeria with no talk time included.
+
+At the moment, no other smartphone manufacturer offers 5G mobile plans. Xiaomi’s data plans should help it drive more sales and give it an edge over its competitors. And since the Redmi K30 5G has dual-SIM support, you can have a different network in the second SIM slot which you use for calls and SMS. We do not know if Xiaomi will make the service available to its other 5G devices (Mi 9 Pro 5G, Mi MIX 3 5G).
+
+Now, let us compare Xiaomi’s own mobile plans to that of the other three operators.
+
+China Mobile China Mobile
+
+(Home Package) China Unicom China Telecom ¥ 128 (~$18.5) – 30GB of data and 200 minutes of talk time ¥ 169 (~$24.5) – 30GB of data and 500 minutes of talk time ¥ 129 (~$18.7) – 30GB of data and 500 minutes of talk time ¥ 129 (~$18.7) – 30GB of data and 500 minutes of talk time ¥198 (~$28.7) – 60GB of data and 500 minutes of talk time ¥ 269 (~$38.9) – 60GB of data and 1000 minutes of talk time ¥ 159 (~$23) – 40GB of data and 200 minutes of talk time ¥ 169 (~$24.5) – 40GB of data and 800 minutes of talk time ¥ 298 (~$43) – 100GB of data and 800 minutes of talk time ¥ 369 (~$53.4) – 100GB of data and 1500 minutes of talk time ¥ 199 (~$28.8) for 60GB of data and 1000 minutes of talk time ¥ 199 (~$28.8) – 60GB of data and 1000 minutes of talk time ¥ 398 (~$57.6)- 150GB of data and 1200 minutes of talk time ¥ 569 (~$82.3) – 150GB of data and 2000 minutes of talk time ¥ 299 (~$43.3) – 100GB of data and 1500 minutes of talk time ¥ 239 (~$34.6) – 80GB of data and 1000 minutes of talk time ¥ 598 (~$86.6) – 300GB of data and 3000 minutes of talk time ¥ 869 (~$125.8) – 300GB of data and 3000 minutes of talk time ¥ 399 (~$57.8) – 150GB of data and 2000 minutes of talk time ¥ 299 (~$43.3) – 100GB of data and 1500 minutes of talk time ¥ 599 (~$86.7) – 300GB of data and 3000 minutes of talk time ¥ 399 (~$57.8) – 150GB of data and 2000 minutes of talk time ¥ 599 (~$86.7) for 300GB of data and 3000 minutes of talk time
+
+It is easy to see that Xiaomi’s mobile data plans are much cheaper but since it is only exclusive to the Redmi K30 5G, owners of other 5G phones will have to settle for any of the above.
+
+While all three operators offer similar basic plans, China Unicom and China Telecom take the win by offering more than double the talk time China Mobile offers. The ¥198/¥199 plan of the three networks follow the same pattern with China Telecom and China Unicom, again offering more talk time compared to China Mobile.
+
+However, all three operators provide the same amount of data and talk time for their most expensive plans.
+
+China’s data plans are cheap when compared to that of other countries mentioned below and in comparison to 4G data plans with respect to the price per GB. The low price is expected to encourage subscribers that spend a similar amount on 4G data plans to make the switch to 5G which offers faster speeds.
+
+However, as we shall see, some of the operators in these countries throw in some really nice perks such as free access to video and music streaming platforms as well as game streaming services too.
+
+
+
+United States – more expensive but with perks
+
+In the US, T-Mobile, Verizon, AT&T, and Sprint have begun rolling out 5G across the country, though the service is only available in some areas and not statewide. The plans vary with each network operator and pack multiple additional features which makes it impossible to have a table comparing the networks side-by-side.
+
+Verizon
+
+Starting with Verizon, the carrier is sticking to nearly the same price as its LTE plans. If you have a 5G device and are subscribed to any of its LTE plans, all you have to do is pay an extra $10/month to access 5G. However, that access fee is currently waived for all plans except the Start Unlimited plan. Verizon says it is for a limited time and has not yet announced when it will begin charging for it. There is also no mention of throttling when you reach a certain data mark but expect that to happen.
+
+Below are the 5G data plans for the network operator.
+
+Verizon also has a 5G Mobile Hotspot called the Inseego MiFi M1000 that sells for $649 ($27.8/Month) or $499 (2-year contract). If you add the MiFi to your Verizon account, you will be charged $30 per month for 50GB of 5G data and 15GB of LTE data.
+
+T-Mobile
+
+If you are on T-Mobile, you do not pay extra for 5G. The magenta network says users will pay the same amount they currently pay for its 4G unlimited plans which starts at $70 per month per line.
+
+AT&T
+
+AT&T doesn’t have special 5G data plans. The network operator is including 5G coverage with its Unlimited Elite and Unlimited Extra plans which cost $85 and $75 respectively. Below are the differences between the plans:
+
+AT&T Unlimited Elite AT&T Unlimited Extra $85 $75 Unlimited talk, text, and data in the US, Mexico, and Canada Unlimited talk, text, and data in the US, Mexico, and Canada High-Definition Streaming Standard-Definition Streaming 30GB Mobile Hotspot
+
+(slowed down to 128Kbps after crossing 30GB) 15GB Mobile Hotspot
+
+(slowed down to 128Kbps after crossing 15GB) 100GB of premium data. After crossing the 100GB mark, data speeds may temporarily slow down if the network is busy 50GB of premium data. After crossing the 50GB mark, data speeds may temporarily slow down if the network is busy HBO included No HBO
+
+Sprint
+
+Sprint users can access 5G by subscribing to the Unlimited Premium Plan which costs $80 per month and offers unlimited data, unlimited calls, and unlimited SMS. The plan also includes 100GB of data to use as an LTE mobile hotspot and includes access to Amazon Prime, Twitch Prime, and Tidal HiFi.
+
+Sprint also has a number of 5G phones you can purchase along with data plans. There is the OnePlus 7 Pro 5G, LG V50 ThinQ, and Samsung Galaxy S10 5G.
+
+UK – Brexit while roaming
+
+
+
+In the UK, EE, Vodafone, and Three have rolled out 5G service. EE was the first to launch its 5G network in the UK, ahead of Vodafone and Three. Things are not so straightforward in the UK but one unifying feature is support for roaming in multiple countries.
+
+
+
+EE
+
+The operator has only one 5G SIM-only data plan but several other plans that are tied to the purchase of a 5G device from them. Their range of 5G devices includes the OnePlus 7 Pro 5G, Samsung Galaxy Fold, Galaxy Note10+ 5G, OPPO Reno 5G, and the LG V50 ThinQ, etc.
+
+The amount you pay for a particular plan varies from device to device with the Galaxy Fold having the most expensive plan since it is the most expensive device available.
+
+Pricing starts at £49/month for 10GB of 5G data and up to £69/month for unlimited data for a phone like the Reno 5G. While a phone like the Galaxy Fold starts at £99/month for 10GB of data and goes up to £109/month for unlimited data.
+
+Unlimited Data Plan (monthly SIM only plan) £44/month Unlimited data, unlimited texts, and unlimited minutes Three Swappable Benefits – BT Sport, Amazon Prime Video, and Roaming
+
+Vodafone UK
+
+Vodafone on the other hand also offers three unlimited 5G plans – Unlimited Lite, Unlimited, and Unlimited Max. The image below shows the three plans and what they offer:
+
+Although not stated above, the data speeds are capped at 2Mbps for Unlimited Lite, 10Mbps for Unlimited, while Unlimited Max will be able to access speeds as fast as the device and network supports. Those data speed caps are pretty ridiculous for 5G and you are better off sticking to a 4G plan.
+
+Vodafone's Red Plans
+
+There are also three mobile plans that do not offer unlimited data but you get unlimited calls and texts. There is no mention of a speed cap for these plans, so you should get the maximum speed of your device and the network supports.
+
+Three UK
+
+Three rolled out its 5G service in the UK last but claims its own 5G is “true 5G”. There are several plans available depending on if you want a monthly contract, a 12-month contract, or a 24-months contract. For this post, we will stick to the monthly contract.
+
+There are four plans available for the monthly contract and only one of them offers unlimited data:
+
+Unlimited 30GB 12GB 4GB £25 (~$33) £24 (~$31) £19 (~$25) £16 (~$21) Unlimited Data, Unlimited Texts, and Unlimited Calls Unlimited Texts and Unlimited Calls Unlimited Texts and Unlimited Calls Unlimited Texts and Unlimited Calls Roaming in 71 countries Roaming in 71 countries Roaming in 71 countries Roaming in 71 countries Personal Hotspot Personal Hotspot Personal Hotspot Personal Hotspot Go Binge: streaming from Snapchat, Netflix, Apple Music, and more doesn’t count on your data Go Binge: streaming from Snapchat, Netflix, Apple Music, and more doesn’t count on your data Go Binge: streaming from Snapchat, Netflix, Apple Music, and more doesn’t count on your data Go Binge not available
+
+You get unlimited data if you pay £1 extra! Deciding which plan to choose between the Unlimited and the 30GB data plan is definitely a no-brainer.
+
+SWITZERLAND – Swiss Watches, Swiss Chocolates, and Swiss 5G
+
+Switzerland is one of the leading markets with respect to 5G in Europe. Swisscom, one of the country’s leading network operators already has 5G coverage in 90% of the country. That should not be a big surprise since Switzerland is a very small country with respect to the land area. It also has a small population that is under 10 million. The other major network operators in Switzerland are Sunrise and Salt but the latter is yet to roll out its 5G service.
+
+Swisscom
+
+Swisscom says it does not have a special 5G mobile plan but all subscribers have to do to enjoy 5G internet speeds at up to 2Gbps is to pay for Premium Speed option on top of their current plan. This speed option costs CHF 10 (~$10/~ ¥71) and is available for their “inOne mobile go”, “inOne mobile basic”, and “Swiss mobile flat” tariffs. There is a top tier plan, the “inOne Mobile premium” that costs CFA 200 (~$206) and already has the Premium Speed option included.
+
+Swisscom has a variety of mobile plans including special ones for everyone under the age of 26. Some of these plans have a certain amount of allocated data while others have unlimited surfing.
+
+Sunrise
+
+Sunrise has also rolled out 5G to several cities and towns across Switzerland. The operator has a variety of mobile plans which include 5G access. Sunrise has a mix of plans with 5G included and others where you have to pay CHF 10 per month to get 5G access. Below are the plans with 5G access included.
+
+There is a 7 days mobile prepaid plan that costs CHF 19.90 (~$20.5) and you get unlimited calls, unlimited SMS/MMS, and unlimited 5G data.
+
+7 Days Mobile Prepaid Plan Monthly Mobile Internet Unlimited 5G Freedom Europe and US Freedom Young Europe and US CHF 19.90 (~$20.5) CHF 59/month
+
+(~$61)
+
+CHF 130/month
+
+(~$132)
+
+CHF 120/month
+
+(~$123)
+
+Unlimited calls, unlimited SMS, and unlimited 5G surfing Unlimited 5G surfing at up to 2Gbps Unlimited calls, unlimited SMS, and unlimited 5G surfing Unlimited calls and SMS in Switzerland, EU, and the US.
+
+Unlimited 5G internet in Switzerland.
+
+
+
+Unlimited 4G+ internet in Switzerland, EU, and US.
+
+New subscribers for the Freedom Europe & US and Freedom Young Europe & US plans will get a brand new HP Probook 440 G6 computer that is worth CHF 929 (~$957).
+
+Other than these plans, Sunrise has a special cloud gaming service for 5G devices called Sunrise Game Cloud Option. For CHF 9.90 (~$10) per month, you get access to a library of over 50 games that includes high-end games such as Tomb Raider, DiRT Rally, and Deus Ex Human Revolution. You will be able to play these games in resolutions up to 4K over 5G on your 5G phone or 5G tablet, or on a PC connected to a good WLAN connection that meets the minimum system requirements. If you buy their HTC 5G Hub, you can even play on your TV by connecting the hub to the TV via HDMI.
+
+At the moment, Sunrise is offering free 3 months of service to anyone who subscribes.
+
+Spain – One step at a time
+
+In Spain, Vodafone is still the only operator that has rolled out 5G service in at least 15 major cities in collaboration with Huawei. The network operator has two 5G plans for individuals.
+
+Unlimited Mobile Vodafone One unlimited Super €40.99/month. €41.99/month (after 3 months, it becomes €84.99/month). 5G unlimited data for social networks and online music at 2Mbps. 5G unlimited data for videos and downloads at 10Mbps on your phone and 600Mbps via Symmetric fiber. Unlimited calls to landline and mobiles. Free Seriefans Pack with HBO Spain.
+
+
+
+Free 3 months subscription to premium Hatch which has up to 160 premium streaming games. Roaming supported in Europe and the USA. Roaming supported in Europe and USA
+
+Conclusion
+
+Looking at the data plans of these key markets, prices are expected to drop in the future, especially for those that are charging extra for 5G access. We foresee the extra charge will be removed but the base prices will remain the same. However, subscribers may even get more features bundled with these plans such as free access to game streaming services.
+
+We also expect 5G hardware such as phones, modems, and CPE to get cheaper in the coming months and years. Not only will they get cheaper but network operators will bundle them with free data plans and other perks just to gain more subscribers. However, what will remain unchanged is the difference in pricing with respect to regions. Network operators can only lower prices to beat their competitors in the same market as there is no sense in lowering prices to rival other countries, though the regulatory bodies in each country can step in to see that prices are fair for the subscribers.
+
+China will continue to be at the forefront with respect to hardware (cheaper and more options for 5G mobile phones), 5G coverage, and certain 5G services (smart cities, gaming) as long as it remains the manufacturing hub for mobile electronics and Huawei and ZTE remain in the network business.
+
+When it comes to other applications of 5G such as with self-driving cars, China may also take the lead this decade with key players such as Baidu, Tencent, and even Huawei pumping resources into autonomous driving. That is not to say other countries like the USA will be left behind but the Chinese government has shown more resolve with 5G development compared to other countries.
+
+We have also seen China’s application of 5G in healthcare with the ongoing outbreak of the coronavirus. ZTE announced a few days ago that it has launched a 5G remote diagnosis and treatment system between West China Hospital and Sichuan University’s Chengdu Public Health Clinic Center. This center allows for experts from West China Hospital to provide video consultations to the public health clinic center and will expand to more hospitals soon. In the future, we will see more collaborations between hospitals for other medical services including surgeries.
+
+5G is still at the early stage but the future looks promising with all the new ways it is expected to change our lives.
+
+UP NEXT: EU allows Huawei to build its 5G network in a limited capacity

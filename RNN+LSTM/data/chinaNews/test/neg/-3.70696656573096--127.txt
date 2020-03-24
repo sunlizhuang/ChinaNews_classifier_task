@@ -1,0 +1,19 @@
+YANGON — Facebook Inc on Saturday blamed a technical error for Chinese leader Xi Jinping’s name appearing as “Mr Shithole” in posts on its platform when translated into English from Burmese, apologizing for any offense caused.
+
+The error came to light on the second day of a visit by the president to the Southeast Asian country, where Xi and state counselor Aung San Suu Kyi signed dozens of agreements covering massive Beijing-backed infrastructure plans.
+
+A statement about the visit published on Suu Kyi’s official Facebook page was littered with references to “Mr Shithole” when translated to English, while a headline in local news journal the Irrawaddy appeared as “Dinner honors president shithole”.
+
+It was not clear how long the issue lasted but Google’s translation function did not show the same error.
+
+“We fixed a technical issue that caused incorrect translations from Burmese to English on Facebook. This should not have happened and we are taking steps to ensure it doesn’t happen again. We sincerely apologize for the offense this has caused,” Facebook said in a statement.
+
+The Facebook system did not have President Xi Jinping’s name in its Burmese database and guessed at the translation, the company said. Translation tests of similar words that start with “xi” and “shi” in Burmese also produced “shithole,” it added.
+
+Facebook is blocked in mainland China. But it is not blocked in Hong Kong and mainland companies advertise elsewhere on the platform, making China Facebook’s biggest country for revenue after the United States. It is setting up a new engineering team to focus specifically on the lucrative Chinese advertising business, Reuters reported last week.
+
+Facebook has faced numerous problems with translation from Burmese in the past. In 2018 it temporarily removed the function after a Reuters report showed the tool was producing bizarre results.
+
+An investigation documented how the company was failing in its efforts to combat vitriolic Burmese language posts about Myanmar’s Rohingya Muslims, some 730,000 of whom fled a military crackdown in 2017 that the U.N has said was conducted with “genocidal intent”.
+
+It also showed the translation feature was flawed, citing an anti-Rohingya post advocating killing Muslims that was translated into English as “I shouldn’t have a rainbow in Myanmar”. (Reporting by Poppy Elena McPherson; Additional reporting by Katie Paul in San Francisco; Editing by Peter Henderson, Nick Macfie and Edwina Gibbs)

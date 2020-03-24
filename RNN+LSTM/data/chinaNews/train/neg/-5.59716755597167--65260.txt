@@ -1,0 +1,35 @@
+The Department of Justice announced charges Monday against four members of China’s People’s Liberation Army for the 2017 hack of Equifax Inc., a breach that exposed the personal information of about 145 million Americans.
+
+The announcement by Attorney General William Barr follows an indictment in Atlanta accusing the Chinese military personnel of conspiring with each other to hack into Equifax’s network and stealing sensitive data on nearly half of all U.S. citizens.
+
+“This was a deliberate and sweeping intrusion into the private information of the American people,” Barr said in a statement. “Today, we hold PLA hackers accountable for their criminal actions, and we remind the Chinese government that we have the capability to remove the internet’s cloak of anonymity and find the hackers that nation repeatedly deploys against us.”
+
+Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei, who were members of the PLA’s 54th Research Institute, were charged with three counts of conspiracy to commit computer fraud, conspiracy to commit economic espionage and conspiracy to commit wire fraud, authorities said.
+
+They were also charged with two counts of unauthorized access and intentional damage to a protected computer, one count of economic espionage and three counts of wire fraud, according to the Justice Department.
+
+In a statement following the announcement, Equifax Chief Executive Officer Mark Begor said that “We are grateful to the Justice Department and the FBI for their tireless efforts in determining that the military arm of China was responsible for the cyber-attack on Equifax in 2017. It is reassuring that our federal law enforcement treats cybercrime — especially state-sponsored crime — with the seriousness it deserves.”
+
+The defendants allegedly exploited a vulnerability in the Apache Struts Web Framework software used by Equifax’s online dispute portal. They used the access to obtain login credentials that could be used to further navigate Equifax’s network and spent weeks running queries to identify the company’s database structure and searching for personal information, according to the Justice Department.
+
+The hackers ultimately stored the information in temporary output files, compressed and divided the files and downloaded and exfiltrated the data to computers outside the U.S., according to the Justice Department.
+
+“In total, the attackers ran approximately 9,000 queries on Equifax’s system, obtaining names, birth dates and social security numbers for nearly half of all American citizens,” according to a statement from the Justice Department.
+
+‘Over the Top’
+
+The hackers took steps to evade detection, too, routing traffic through about 34 servers in nearly 20 countries to mask their origin and using encrypted communication channels within Equifax’s network to blend in with normal network activity, authorities aid.
+
+“Chinese spying is over the top increasingly dangerous,” said Jim Lewis, a senior vice president and director of the Technology Policy Program at the Center for Strategic and International Studies in Washington. “The PLA has more personal data on Americans than anyone else.”
+
+It’s the second time in a week that Barr has raised criticism of China’s behavior on technology issues. Last week he gave a speech warning of the threats he said are posed by Chinese technology, focusing on Huawei Technologies Co.’s 5G networks, and saying the U.S. should consider investing in competitors Nokia Oyj and Ericsson AB.
+
+“Unfortunately, the Equifax hack fits a disturbing and unacceptable pattern of state-sponsored computer intrusions and thefts by China and its citizens that have targeted personally identifiable information, trade secrets, and other confidential information,” he said.Equifax announced in September 2017 that hackers accessed data including Social Security numbers, driver’s license numbers and addresses.
+
+Hackers gained access to the Equifax network in May 2017 and attacked the company for 76 days, according to a House Oversight Committee report. Equifax noticed “red flags” in late July, and then in early August contacted the Federal Bureau of Investigation, outside counsel and cybersecurity firm Mandiant. The company waited until that September to inform the public of the breach.
+
+The breach attracted scrutiny from lawmakers in Washington and criticism from consumers and banks, igniting a debate about the role credit bureaus play in lending.
+
+–With assistance from Jenny Surane.
+
+Copyright 2020 Bloomberg.

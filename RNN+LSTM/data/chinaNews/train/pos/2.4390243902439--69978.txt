@@ -1,0 +1,25 @@
+The deep integration of the BDS system and 5G will bring unprecedented changes to the life of ordinary people.
+
+Photo via Beidou.gov.cn
+
+The integrated application project encompassing "5G + BeiDou high-precision positioning" in the field of side slope monitoring has recently started becoming a reality in south China’s Guangxi Zhuang Autonomous Region.
+
+China's Ministry of Industry and Information Technology (MIIT) issued 5G licenses for commercial use in June 2019, marking China's official entry into the 5G era. Meanwhile, China will finish the construction of the BeiDou-3 Navigation Satellite System (BDS-3), with another two geostationary orbit satellites to be launched before June 2020.
+
+The chief designer of the BDS system said, "The integration of BeiDou and 5G will give full play to the natural characteristics of the BDS system and help us to realize in-depth applications of the BDS system in the information field."
+
+The basic technologies and theories related to the integration of 5G and BeiDou are already in place and have entered a phase of standardization. Over time, applications will be rolled out, according to Wan Yi, deputy director of the institute of technology and standards under the China Academy of Information and Communications Technology.
+
+Once 5G and BDS systems are integrated, they will also empower each other. Liu Yunjie, Academician of the Chinese Academy of Engineering, once pointed out that 5G will be the core infrastructure of the intelligent era, and it is characterized by having "extremely high-speed information transfer capacity while also boasting extremely low latency."
+
+For Liu, 5G can provide basic support for future applications such as virtual reality, intelligent manufacturing, and self-driving. But to achieve these applications, it is evident that 5G alone will not suffice.
+
+Liu Jingnan said that new infrastructure is required, including technology such as the Beidou global navigation satellite system.
+
+The BDS system can realize precise synchronization of global time, and can furthermore assign biological intelligence navigation, positioning/timing with machinery as well as network environments through 5G frequencies across large swaths of land or even the entire planet.
+
+Beidou and 5G empower each other and enhance each other in ways that bring about five capabilities: perception, learning, cognition, decision-making as well as regulation. As a result, widely or even globally distributed physical devices can possess integrated functions of computing, communication, remote cooperation, precision control and autonomy on the basis of perception.
+
+"We believe that the integration of BeiDou and 5G will bring about new kinds of business and moreover, a new model, which will play a greater role in future new technologies such as smart cities, smart manufacturing, smart families, smart agriculture and so on," BDS system spokesperson Ran Chengqi said.
+
+Of course, there is still a standardization process that needs to be complete to achieve the integration of 5G and Beidou. Wan Yi believes that the entire process will take about two years.

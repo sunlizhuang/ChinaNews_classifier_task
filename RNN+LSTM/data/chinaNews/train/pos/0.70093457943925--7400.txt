@@ -1,0 +1,19 @@
+Backers of the FCC's C-Band auction have tapped former House Intelligence Committee chairman, Rep. Mike Rogers (R-Mich.), to head a new advocacy group, 5G Action Now.
+
+As its name suggests, it wants the FCC to light a fire under the FCC, leveraging the argument that not to free up C-Band spectrum ASAP could hurt the U.S. in a race with China for 5G supremacy, something the Trump Administration has argued could be the case.
+
+Related: Programmers Praise Content Proctections in Pai C-Band Plan
+
+"The urgency of successfully rolling out 5G across the country cannot be overstated. 5G Action Now supports the Federal Communications Commission’s goal of holding an auction, this year, for the allocation of the C-band, the frequency spectrum necessary to deliver ubiquitous 5G services," the group said.
+
+“Leadership of 5G and its rollout is not a Republican or a Democratic issue, it’s an American issue. If we cede victory in this race to Beijing, no one wins,” Rogers said in a statement. “The Chinese understand how important 5G is to America’s economy, national security, and global leadership,” Rogers said. “That’s why Beijing poured massive subsidies into Huawei, worked to undercut international competition, and waged a campaign of unprecedented economic espionage to dominate 5G. It is crucial that we don’t allow China to outspend and outplay us on the 5G field.”
+
+Related: CBA Says C-Band Auction Could Lead to Legal Delays
+
+FCC Chairman Ajit Pai announced back in November that he would be proposing an FCC auction of 300 MHz of the band, inclusive of a 20 MHz guard band, with the balance of the 500 MHz band reserved for satellite delivery of network programming to broadcasters and cable operators, which he said must be protected from interference.
+
+Incumbent services, including those supplying network programming to broadcasters and cable operators, will have to be repacked from the 500 MHz to the upper 200 MHz.
+
+The FCC will move directly to vote on an order on the public auction approach--the order has not yet been released--rather than a notice of proposed rulemaking with a notice and comment period. FCC officials speaking on background said that there would be comment sought on actual auction procedures.
+
+The debate has been whether to hold a public or private auction--the satellite operators currently providing broadcast and cable network program delivery services in the band have been proposing a private auction, most recently of 300 MHz, while cable ops had preferred a public auction of even more spectrum, and perhaps eventually all of it as they moved to fiber delivery.

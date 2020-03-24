@@ -1,0 +1,9 @@
+SHENZHEN, China -- ZTE Corporation (0763.HK / 000063.SZ), a major international provider of telecommunications, enterprise and consumer technology solutions for the mobile Internet, today has bagged a large portion of China Mobiles 2019 bidding for NFV network equipment, covering six of the eight regions for control plane, and spanning 12 provinces in total.
+
+Moreover, in this bidding, ZTE has also won the bidding for the user plane in Shandong, Anhui, Fujian, Yunnan and other 12 provinces in China, demonstrating ZTE's leading position in the fields of NFV cloudification and the next-generation core network.
+
+The phase-1 project of China Mobile's NFV network includes six parts: PS network VNFs of eight regions and 31 provinces, IMS network VNFs, virtual-layer software, distributed storage, MANO, and system integration. This purchase marks the beginning of the large-scale construction of the NFV cloud network of China Mobile, the world's largest operator.
+
+As a technology leader and provider of cloudified products and solutions, ZTE has partnered with China Mobile to build a secure, reliable, mature, and stable end-to-end cloudified network, by means of four years and five stages of pilot and verification in NFV field. Furthermore, ZTEs NFV infrastructure TECS, Ceph-based carrier-grade distributed and unified storage platform CloveStorage, carrier-grade server operation system CGSL, 2/3/4/5G fully integrated cloud core network Common Core and the AI-based automatic O&M management system CloudStudio have also been put into commercial use in global operators networks and government&enterprise networks, laying solid foundation for 5G commercialization and vertical industry applications.
+
+ZTE Corp. (Shenzhen: 000063; Hong Kong: 0763)

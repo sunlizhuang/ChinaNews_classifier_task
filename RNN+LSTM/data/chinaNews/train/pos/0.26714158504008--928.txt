@@ -1,0 +1,102 @@
+Most people think of DJI as a drone company. But the company that rose to fame for its ready-to-fly Phantom drones could soon rule the world of tons of other autonomous, sensor-driven technologies — and that includes self-driving cars.
+
+DJI is sharing its stage at this year’s Consumer Electronics Show in Las Vegas with Livox, an independent, sensor-technology company backed by DJI. And this week, Livox is launching two new lidar sensors, the Horizon and Tele-15, both of which introduce a new scanning method that DJI says will deliver better sensing performance at a fraction of the cost of traditional lidar units. And one of them costs less than $1,000.
+
+What will those sensors be used for? Primarily self-driving cars.
+
+Livox says its new sensors deliver not just better performance, but are more compact in size, which could be a game-changer for autonomous driving technology.
+
+“By making lidar easier and more affordable to integrate into products and
+
+applications, Livox sensors will enable new innovations across a broad range of applications from autonomous driving to smart cities, mapping, mobile robotics and more,” DJI said in a prepared statement.
+
+What is Lidar?
+
+Lidar is a fairly new technology that uses high-precision lasers to create high-resolution, 3D images of landscapes.
+
+It has proved to be an important component of enterprise drone operations, allowing surveyors to quickly produce aerial scans of the land to create 3D images. Since lidar can penetrate through light cover and is more accurate than other mapping methods like photogrammetry, it’s seen as essential for people who might need to conduct urban surveys and see through objects on the ground like cloth or wires, or people who want to map overgrown farmland or even shallow water.
+
+But most lidar surveys cost anywhere between a couple thousands of dollars to multi-millions of dollars, depending on the length and size of the survey, so the advent of Lidar sensors for drones has already been a gamechanger. DJI has separately tried making Lidar more accessible and “ready to fly out of the box” through products like the Matrice 600 Pro, which can integrate with the ScanLook A-series LiDAR system.
+
+But it’s more than just aerial maps.
+
+Self-driving cars today typically use traditional mechanical lidar mounted to the top of the vehicle, which run into challenges in wind and add height to cars (which can be challenging when driving in low height areas, like under low-hanging branches or bridges.
+
+What is Livox, and what does it have to do with DJI?
+
+Livox, while an independent company, is closely connected to DJI, and was incubated out of the drone giant. The company was first born in 2016 by a small team of engineers within DJI’s Open Innovation Program, which is an initiative where DJI provides guidance, resources and — perhaps most importantly — financial support to entrepreneurs who present promising projects.
+
+Livox created an optoelectronic design (in layman’s terms: using electronics to control light) to enable a new scanning method called a Non- Repetitive Scanning pattern. The pattern was designed to solve a problem with the horizontal scanning methods of traditional lidar sensors where blind spots caused some objects to remain undetected.
+
+Livox’s non-repetitive scanning method is intended to enable nearly 100% field of view (FOV) coverage with longer integration time.
+
+One of Livox’s stand-out features is that its designing these products for mass production, meaning that Lidar technology isn’t just for rich tech giants. Henri Deng, Global Marketing Director at Livox, said Livox is capable of producing 300 units per day.
+
+And today, Livox is introducing two new, mass-produced sensors, the Horizon and Tele-15, that take that technology even further.
+
+What you can expect from the Tele-15
+
+Unlike what you’ll see on many other self-driving cars, the Tele-15 is not roof-mounted, which improves the system reliability while retaining the vehicle appearance, and eliminating compromises in vehicle aesthetics and aerodynamic efficiency.
+
+Designed for long-distance detection
+
+Can scan 99.8% area within its 15° circular FOV at 0.1s which outperforms 128-line mechanical lidar sensors currently available on the market
+
+Can detect objects up to 500 meters away
+
+Allows autonomous driving systems to detect remote objects well in advance, providing more reaction time even at high speeds
+
+Cost: $1,499
+
+Release date: Q2 2020
+
+What you can expect from the Horizon
+
+Detection range of up to 260 meters
+
+Horizontal FOV (HFOV) of 81.7°
+
+Can cover 4 road lanes at a distance of 10 meters and its FOV
+
+coverage ratio is comparable with a 64-line mechanical lidar at the integration time of 0.1 sec
+
+coverage ratio is comparable with a 64-line mechanical lidar at the integration time of 0.1 sec Using just five Horizon units enable full 360° coverage with only 5% of a cost of a 64-line mechanical lidar
+
+Intended customer base (according to Livox): customers who want to scale up their robo-taxi fleets to hundreds or thousands of cars
+
+Cost: $999
+
+Release date: January 7, 2020
+
+What does the Livox news mean for the future of drones, self-driving cars and DJI?
+
+The news makes it clear that DJI is trying to be far more than just a drone company, but a tech company that is moving the needle in a broad range of autonomous operations that rely on sensors to work.
+
+DJI now has 14,000 employees, and 25% of them work in research and development.
+
+“The growth potential of the lidar industry has been hindered for too long by ultra-high costs and slow manufacturing rates,” Deng said. “Livox seeks to change this by providing access to high quality lidar systems that are easily integrated into a wide array of different use applications.”
+
+DJI already sells a number of Livox products on its site, including the $599 Mid-40, which also uses non-repetitive scanning patterns to deliver real-time data at a range of 260 meters. Those launched last year.
+
+Through our technology, we hope to be the catalyst for the rapid adoption of lidar in the quickly growing industries of autonomous driving, mobile robotics, mapping, surveying and more,” Deng said.
+
+But that doesn’t mean that DJI itself would be a self-driving car company. A report from China Money Network suggested that DJI at one pointwas testing and developing its own autonomous vehicles in Shenzhen, China, citing people familiar with the matter. With the Livox news, it seems as though DJI could be trying to serve as a company selling Lidar sensors that other companies could buy to develop their technologies.
+
+And while drones are still in the picture, self-driving cars are the focus for Livox.
+
+Deng said that the company sees “huge potential in low-speed aerials.”
+
+But he’s got his sights set on land.
+
+“Our number one strategic market is high-speed autonomous driving.”
+
+Share this: Email
+
+Facebook
+
+LinkedIn
+
+Reddit
+
+Twitter
+

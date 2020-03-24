@@ -1,0 +1,33 @@
+As on January 31, the number of confirmed cases of novel coronavirus in mainland China reached 11,791 and deaths reached a toll of 259. China’s Hubei province alone, where the city of Wuhan is located, reported 7,153 confirmed cases and 249 deaths on Friday. On January 31 alone, totally 2,102 new, confirmed cases and 46 deaths were reported from mainland China.
+
+The very high number of confirmed cases reported just a month after the World Health Organization was intimated and the continued increase in the number of new confirmed cases each day strongly suggest that human-to-human transmission had begun long ago. There are more reasons to believe so, as the Huanan Seafood Wholesale Market was shut down on January 1. This market is considered to be the main source from where the virus had infected people working there or those who were frequent visitors.
+
+According to the WHO, as on January 12, China had reported no clear evidence that the virus can spread among people. This was based on the premise that of the 763 people, including medical staff, who had come in close contact with patients infected with the virus had not become infected themselves.
+
+Spreading even in mid-December
+
+Now, a study of the first 425 people with confirmed infection with the novel virus that were reported by January 22, strongly suggests that human-to-human transmission had “occurred among close contacts since the middle of December 2019 and spread out gradually within a month after that”. The study was published on January 29, 2020 in The New England Journal of Medicine.
+
+“The majority of 425 cases (55%) with onset before January 1, 2020, were linked to the Huanan Seafood Wholesale Market, as compared with 8.6% of the subsequent cases,” they write. This would mean that the remaining 45% cases came through human-to-human transmission.
+
+The mean incubation period for the 425 cases was 5.2 days and in its “early stages, the epidemic doubled in size approximately every 7.4 days in Wuhan”, they note.
+
+CDC China denies withholding info
+
+On February 1, China Daily reported CDC denying withholding information on virus spread. According to a CDC statement, the “conclusion [by the NJEM authors] is a deduction based on a retrospective study that looks back on epidemiology research of infected cases, reaffirming that the risk of the virus spreading among people was not discovered at the onset of the outbreak in December.”
+
+China Daily also said that the “information about the 425 cases analysed in the paper, including infections of 15 medical workers, had already been released to the public before researchers conducted the study.”
+
+First case of human spread
+
+On January 15, Japan had alerted WHO of a person infected with the novel virus, who had returned from Wuhan. According to the WHO, the person had not visited the Huanan Seafood Wholesale Market or any other live animal markets in Wuhan. In fact, he had come in “close contact with a person with pneumonia”.
+
+It was only on January 17 that WHO reported of a possible human-to-human transmission. In a tweet WHO said: “The fact that some cases do not seem to be linked with the Huanan seafood market means we cannot exclude the possibility of limited human-to-human transmission.
+
+The January 17 disease outbreak news put out by WHO clearly suggest that it was not certain that human-to-human transmission was taking place. It said: “Preliminary investigations have identified environmental samples positive for novel coronavirus in Huanan Seafood Wholesale Market in Wuhan City, however, some laboratory-confirmed patients did not report visiting this market… Additional investigations are needed to determine how the patients were infected, whether human-to-human transmission has been observed.”
+
+Strangely, even on January 17, the number of confirmed cases stayed the same, at 41, ever since China reported the outbreak to WHO on December 31.
+
+According to Qun Li from the Chinese Center for Disease Control and Prevention, Beijing and the first author, as on January 4, each infected person was spreading the infection to 2.2 other people (R0 is 2.2). An epidemic will continue to increase till such time the ability to spread infection is greater than one (R0 is greater than 1). The R0 was 3 in the case of SARS.
+
+The authors say that since January 4 there has been increased awareness and more testing and increased control measures in Wuhan. All these would have reduced virus transmissibility. “But the detection of an increasing number of cases in other domestic locations and around the world suggests that the epidemic has continued to increase in size,” they write.

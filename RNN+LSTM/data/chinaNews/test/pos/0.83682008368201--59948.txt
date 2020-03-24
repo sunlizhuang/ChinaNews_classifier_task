@@ -1,0 +1,47 @@
+Cyberattacks from China and Russia could disrupt US critical infrastructure Countries could launch damaging attacks against gas pipelines and electricity grid, says assessment.
+
+The first you may know about the next cyberwar might be when your power goes out. Just ask the citizens of Kiev, Ukraine -- whose power was cut off for an hour by an attack from Russian hackers. Indeed, you probably don't know it, but the first shots have already been fired in the US. In March 2019 a Denial of Service (DoS) attack hit power grid control systems in Utah, Wyoming, and California. Energy companies know it, which is one reason LF Energy, a Linux Foundation project, announced its latest project: Grid eXchange Fabric (GXF).
+
+Dutch distribution system operator Alliander created it as an Open Smart Grid Platform (OSGP). GXF is a scalable and technology-agnostic Industrial Internet of Things (IIoT) platform. It enables grid operators to securely collect data and monitor, control, and manage smart devices on the grid. Specifically, it can be used in the following ways:
+
+A user or operator uses one web application to monitor and/or control devices.
+
+The application connects to the GXF via web services. These are divided into functional domains, such as Public Lighting, Smart Metering, and Power Quality Third-party developers can use web services to develop or integrate new applications.
+
+The platform handles all these application requests securely and uses various functions and services to do so. For the 'translation' and communication of user/operator commands to the various smart devices, the platform uses open protocols.
+
+
+
+The platform supports various IP based data telecommunication technologies and protocols to communicate with the devices.
+
+
+
+This is important because electrical grid operators have added IIoT devices to their power grid. Each device requires vastly different tools and processes to ensure interoperability. The purpose of GXF is to decrease the overall complexity and associated maintenance costs of accessing these devices by creating a single generic method of abstracting data access. In short, this is a way of bringing system integration to the electrical grid.
+
+GXF also comes with a set of security recommendations to keep the hackers from turning off your lights. These include:
+
+Communication over TLS
+
+IPSec Virtual Private Network
+
+Firewalls between all servers and layers
+
+Certificates from a recognized Certificate Authority (CA)
+
+Audit trail on all actions throughout the platform
+
+Role-based Access Control (RBAC)
+
+"We have the tools necessary to make our power grid more efficient and better for our environment, but we're running into a system integration problem at a global scale," said LF Energy Executive Director Dr. Shuli Goodman. "Grid operators need a way to cut through the noise of different data access protocols to pull insights from smart devices directly. With the addition of GXF, we will leverage the shared expertise of our community to tackle this problem head on."
+
+GXF is a foundational move. Broadly, GXF will be used as a generic connectivity layer to collect and direct data for IIoT asset monitoring and analytics. It will also enable energy network operators to create advanced business applications across multiple use cases, but that work needs to be done. With an open-source approach, this will be much easier and more secure than doing it piecemeal with proprietary software.
+
+Some GXF functionality already exists. For instance, Alliander is already using GXF to manage public street lights in the Netherlands. Other grid operators have applied GXF as the head-end system, which allows for maximum data flexibility between smart meters and network operators, while some have used GXF to manage microgrids.
+
+Other attempts to make the electrical grid more secure, such as the recently passed Securing Energy Infrastructure Act, want to step back by adding analog backups to today's modern digital electrical systems. I don't think this will scale that well.
+
+We need modern, open-source systems like GXF to securely manage today's electrical grids. With it, we can build a clean, secure connectivity layer for modern IIoT electrical grids. Otherwise, well, with at least three hacking groups potentially disrupting US power grids, we're in trouble.
+
+Oh, and by the way, the US Cyber Command has been planting malware in the Russian electrical grid as well.
+
+Related Stories:

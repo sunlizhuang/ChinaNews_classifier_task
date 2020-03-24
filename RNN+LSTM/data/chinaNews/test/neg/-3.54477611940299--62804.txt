@@ -1,0 +1,35 @@
+India has temporarily suspended online visa for Chinese citizens and foreigners living in China (File)
+
+India is among 20 countries likely at risk of importing the coronavirus (2019-nCoV), according to a study by Germany's Humboldt University and Robert Koch Institute.
+
+An extensive computational/mathematical model for "expected global spread of the novel coronavirus" found India ranked 17th on a list of countries most likely to import the deadly virus that has killed over 800 and infected nearly 40,000 others in mainland China alone.
+
+According to the study, conducted by analysing air traffic patterns connecting 4,000 airports worldwide with over 25,000 direct connections between them, the "relative import risk" for India was found to be 0.219 per cent.
+
+"Relative import risk" is the percentage of infected individuals travelling from an affected area - in this case China - with another country - in this case India - as their final destination.
+
+"Say, a hypothetical 1000 infected individuals board planes at Hangzhou Airport. An import risk of 0.2% in Germany means that, of those 1000 individuals, only 2 are expected to have Germany as their final destination," the study said.
+
+"By looking at air travel passenger numbers, we can estimate how likely it is the virus spreads to other areas. The busier a flight route, the more probable it is an infected passenger travels this route. Using these probabilistic concepts, we calculate relative import risk to other airports," it added.
+
+Delhi's Indira Gandhi International Airport had a relative import risk of 0.066 per cent, with Mumbai's Chhatrapati Shivaji Airport at 0.034 per cent and Kolkata's Netaji Subhash Chandra Bose Airport at 0.020 per cent.
+
+Other airports in that list include Bengaluru, Chennai, Hyderabad and Kochi.
+
+One of the scientists has cautioned against using this model to make definitive predictions of any sort.
+
+"This is not so much a tool for making quantitative predictions. Public health officials and policymakers have to develop an intuition because this virus is something unknown. Models can help you develop an intuition," Dirk Brockmann, who led the modeling team, was quoted in a report by Science Magazine, a highly-regarded peer-reviewed academic journal.
+
+Last week the centre temporarily suspended online visa facilities for Chinese nationals and foreigners coming from there, in an effort to control movement from the affected region.
+
+There have been three cases of coronavirus in India; all three were reported from Kerala and all were students who returned from China's Wuhan city - the epicentre of the outbreak - last month.
+
+In addition the state has put over 2,000 others under surveillance for possible exposure.
+
+Last month national carrier Air India evacuated over 600 Indians from Wuhan. They have been quarantined in specially-prepared facilities around the country, such as the one set up by the Indian Army in Manesar near Delhi.
+
+The Humboldt University-Robert Koch Institute study ranks Thailand, Japan - where there are reportedly 25 confirmed cases each - and South Korea as three countries most at risk.
+
+The outbreak, believed to have originated in a seafood market in Wuhan, has been declared a "global health emergency" by the World Health Organisation (WHO).
+
+The virus has caused alarm because of its similarity to SARS, which killed nearly 800 people in mainland China and Hong Kong between 2002 and 2003. Scientists hope to be testing vaccines in three months; China is testing the anti-HIV drug Aluvia as a treatment.

@@ -1,0 +1,23 @@
+Scientists have applied a quantum machine learning idea back to the human brain to see if it explains human decision-making.
+
+The complexity of the brain suggests that a quantum model could fit data better than a classical model.
+
+Researchers found that quantum reward learning matched the best classical reward learning models.
+
+Could quantum theory and human psychology be the cereal-and-milk combo that explains our stupid decisions ? Scientists in China are exploring a theory that the two disciplines are more related than we might think. They studied the brains of smokers and nonsmokers during a gambling task and observed decision-making mechanisms they say are acting like quantum computers.
+
+These scientists, from the University of Science and Technology of China in the east central province of Anhui, say they’re not the first to suggest the human mind has a quantum model or framework in action. But they do believe they’re among the first to translate those theories into measured data via electroencephalography (EEG). “Only a few [studies] were supported by evidence from electroencephalography (EEG) analysis, lacking spatial resolution and locality information,” they explain .
+
+The researchers fitted study subjects with sensors and had them go through the Iowa Gambling Task, which is a famous psychological test of how our decisions are motivated by reason or emotion. Since its original use, this experimental model has been used in hundreds more published studies and papers. In it, subjects play a card game where it’s revealed over time that one stack of cards is more likely to offer a reward than the others.
+
+A screen from the Iowa Gambling Task. NIH
+
+After so many experiments, the Iowa Gambling Task’s outcomes are pretty well understood for some groups, like people with otherwise healthy brains who aren’t addicted to drugs or—just guessing—gambling. But other groups are more of a challenge, and trying to make sense of their outcomes during the IGT continues to puzzle scientists. The NIH says that even among the allegedly homogeneous group of people with healthy brains, IGT outcomes are still all over the map and hard to predict from study to study.
+
+The Chinese researchers suggest combining classical reinforcement (or reward) learning, where scientists study how people respond over time to situations with the promise of some kind of reward, could be supplanted by something called quantum reinforcement learning. “[Q]uantum reinforcement learning (QRL), which shows superior performance in computer simulations, has never been empirically tested on human decision-making,” they explain.
+
+In other words, machine learning has had a popular QRL model for a while now, and this model began with a mimicry of human decision-making in the form of classical reinforcement learning. Now, scientists wondered if applying QRL back to the human brain could show that it’s a better model for how we make decisions.
+
+For this study, the researchers divided people into smokers and nonsmokers, and recorded their decisions during the IGT. Then they compared the real data to results from two separate QRL models and 12 different classical reinforcement models. “In all groups, the QRL models performed well when compared with the best CRL models [...] suggesting that value-based decision-making can be illustrated by QRL at both the behavioural and neural levels,” they say.
+
+One weakness the NIH pointed out with IGT in general is that it lacks a nuanced way to quantify sensitivity in different people, instead using a sledgehammer Boolean idea of who’s vulnerable to certain decisions or not. This research suggests that “quantum-like internal-state-related variables,” which they identified in both smokers and nonsmokers, could lead to a more granular understanding of what’s going on in the brain during this task.

@@ -1,0 +1,13 @@
+The coronavirus outbreak in China rages on, as more people get infected with the 2019-nCoV virus that’s spreading faster than initially believed. China’s health minister Ma Xiaowei said in a statement on Sunday that those affected are contagious before they become symptomatic. The incubation period sits at 10 to 14 days, which means infected patients would be able to pass on the virus to others well before showing symptoms that would require medical treatment. The revelation also calls into question the existing attempts to contain the infection to Wuhan and China. Coronavirus cases already appeared in various countries around the world, including Australia, Europe, and the US. You can monitor the actual evolution of the disease using a map online that tracks everything about the virus in real-time.
+
+Available at this link, the map shows all the confirmed coronavirus cases on a map, as well as the number of casualties and full recoveries.
+
+The map was last updated on January 11th, at 11PM EST, as seen in the screenshot above. Some 2,794 cases were reported so far, and 80 patients have died from the new disease — 54 people fully recovered, the data says. Created by the Center for Systems Science and Engineering, the map pulls in data from the WHO and centers for disease control in the China, Europe, and the US.
+
+Most infections are located in mainland China, but the coronavirus reached several other regions. Five cases were reported in the US, as of this writing, three in France, eight each in Hong Kong and Thailand, and four in Australia.
+
+The revelation that the virus can spread before it becomes symptomatic prompted has some people worried. It’s a “game-changer,” Dr. William Schaffner, a longtime CDC adviser told CNN. “Assuming that Ma is correct, we’re going to have to re-evaluate our strategy, that’s for sure,” Schaffner said.
+
+Others, like the CDC’s National Center for Immunization and Respiratory Diseases director Dr. Nancy Messonnier, think the risk is low for the American public.
+
+“We at CDC don’t have clear evidence that patients are infectious before symptom onset, but we are actively investigating that possibility,” Messonnier said. “We need to be preparing as if this is a pandemic, but I continue to hope that it is not.”

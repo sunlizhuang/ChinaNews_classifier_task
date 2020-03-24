@@ -1,0 +1,47 @@
+Update (02/08/2020): Tencent told Taiwan News in a statement that the image had been doctored, although the outlet writes: "However, a Taiwanese netizen, who wished to remain anonymous, confirmed to Taiwan News on Feb. 7 that he too had witnessed the much higher numbers on the Tencent page at 3:30 a.m. Taipei time on Jan. 26. He said that when he checked the webpage again the next day, he noticed the figures had been substantially lowered."
+
+Here is Tencent's statement:
+
+"The Tencent News “Epidemic Situation Tracker” reports real-time data from China' s National Health Commission and various Municipal Health Commissions across China. It is one of several Tencent initiatives, including "Tencent Health" and "Rumour Filter", that keep users informed and up to date on new developments relating to the novel Coronavirus epidemic and check on hearsay versus fact shared by over 170 authoritative information sources across China. Unfortunately, several social media sources have circulated doctored images of our “Epidemic Situation Tracker” featuring false information which we never published. Tencent uses technology for good and is disappointed with this type of unscrupulous behavior. Tencent does not condone the dissemination of inaccurate information and fake news especially during this sensitive period. We reserve all legal rights and remedies in this matter and urge those misusing our services to immediately cease the manufacture and proliferation of false information."
+
+* * *
+
+Ten days ago, shortly after China first started reporting the cases and deaths associated with the coronavirus epidemic, a UK researcher predicted that over 250,000 Chinese would be infected with the virus by February 4. And while according to official Chinese data, the number of infections has indeed soared in the past two weeks, at just under 25,000 (and roughly 500 deaths), it is a far cry from this dismal prediction, about ten times below that predicted by the epidemiologists.
+
+Is this discrepancy possible? Is the epidemic truly far less serious than conventional epidemiological models predicted? Or is China merely hiding the full extent of the problem?
+
+After all, it the WSJ itself reported in late January , China was explicitly manipulating the casualty number by listing pneumonia as the cause of death instead of coronavirus. Subsequent reports that Wuhan officials were rushing to cremate coronavirus casualties before they could be counted did not add to the credibility of the official data.
+
+But the biggest hit to the narrative and China's officially reported epidemic numbers came overnight, when a slip up in China's TenCent may have revealed the true extent of the coronavirus epidemic on the mainland. And it is nothing short than terrifying.
+
+As the Taiwan Times reports, over the weekend, "Tencent seems to have inadvertently released what is potentially the actual number of infections and deaths, which were astronomically higher than official figures", and were far closer to the catastrophic epidemic projections made by Jonathan Read.
+
+According to the report, late on Saturday evening, Tencent, on its webpage titled "Epidemic Situation Tracker", showed confirmed cases of novel coronavirus (2019nCoV) in China as standing at 154,023, 10 times the official figure at the time. It listed the number of suspected cases as 79,808, four times the official figure.
+
+And while the number of cured cases was only 269, well below the official number that day of 300, most ominously, the death toll listed was 24,589, vastly higher than the 300 officially listed that day.
+
+Tencent screengrab as of late Feb 1, showing far higher infections.
+
+Moments later, Tencent updated the numbers to reflect the government's "official" numbers that day.
+
+Screengrab showing higher numbers (left), chart showing "official" numbers (right). (Internet image)
+
+This was not the first time Tencent has done this: as Taiwan Times notes, Chinese netizens have noticed that Tencent has on at least three occasions posted extremely high numbers, only to quickly lower them to government-approved statistics.
+
+This is where it gets even more bizarre: contrary to claiming that this was just a "fat finger" mistyping of data, observant Chinese netizens also noticed that each time the screen with the large numbers appears, it shows a comparison with the previous day's data which demonstrates a "reasonable" incremental increase, much like comparisons of official numbers.
+
+This led many in the mainland to speculate that Tencent has two sets of data, the real data and "processed" data.
+
+In short, two camps have emerged: one, the more optimistic, speculates that a coding problem could be causing the real "internal" data to accidentally appear. The other, far more pessimistically inclined, believes that someone behind the scenes is trying to leak the real numbers, as "the "internal" data held by Beijing may not reflect the true extent of the epidemic."
+
+Indeed, as repeatedly pointed out here and according to multiple sources in Wuhan, many coronavirus patients are unable to receive treatment and die outside of hospitals. Furthermore, a severe shortage of test kits also leads to a lower number of diagnosed cases of infection and death. In addition, there have been many reports of doctors being ordered to list other forms of death instead of coronavirus to keep the death toll artificially low.
+
+What is the truth?
+
+We leave it up to readers, but keep this in mind: on Jan 29, Zeng Guang, the chief scientist of epidemiology at China’s CDC, made a rare candid admission about why Chinese officials cannot tell people the truth in an interview with the state-run tabloid Global Times: "The officials need to think about the political angle and social stability in order to keep their positions."
+
+And then, on Monday, none other than China Xi's called on all officials to quickly work together to contain the Coronavirus at a rare meeting of top leaders, saying the outcome would "directly impact social stability in the country."
+
+Well, if China is mostly concerned about social stability - as it should be for a nation of 1.4 billion - it is easy to comprehend why the entire political apparatus in China would be geared to presenting numbers which seem somewhat credible - in light of the barrage of videos of people dying on the street - but not so terrifying as to cause a countrywide panic.
+
+Then again, if China indeed had over 154,000 cases and almost 25,000 deaths as of 5 days ago, then no attempts to mask the full extent and true severity of the pandemic have any hope of "containing" the truth.

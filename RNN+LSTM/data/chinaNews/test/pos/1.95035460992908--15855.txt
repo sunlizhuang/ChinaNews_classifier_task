@@ -1,0 +1,13 @@
+Huawei is finally taking matters into its own hands. The Chinese tech giant was effectively banned from leveraging Google apps and services in its new smartphones by the Trump administration last year, so it was only a matter of time before it started working on its own alternatives to the likes of Google Maps. Huawei already has a swathe of its own applications that come pre-installed on its devices. These range from an email client to a calendar – but the firm still lacks a truly viable alternative to Google Maps.
+
+That could all be about to change though. TomTom has announced a deal with Huawei that’ll give the Shenzhen firm access to its maps and services. That means Huawei now has the green light to develop its own navigation app that leverages data from TomTom. The new deal is certainly good news for Huawei. In a nutshell, it means the Chinese firm won’t have to trawl the world with cameras to collect its own mapping data. That’s a completely different approach to Apple that released its own navigation app aptly named Apple Maps back in 2012. Instead of using pre-existing data, the Cupertino firm collected its own. TomTom spokesman Remco Meerstra said the deal with Huawei had actually been confirmed a while ago, however this is the first time the agreement has been made public.
+
+Google Maps is comfortably the most popular navigation app on the planet
+
+TomTom spokesman Remco Meerstra said the deal with Huawei had actually been confirmed a while ago
+
+Huawei is effectively banned from leveraging Google apps and services in its new smartphones
+
+Unfortunately, Meerstra did not discuss any further details about the deal reached between Huawei and TomTom. Huawei hasn’t confirmed it’s creating its own mapping app, but the agreement between it and TomTom certainly speaks for itself. If and when the Shenzhen firm does create its Google Maps alternative, it’ll presumably be installed on all its new devices. The Chinese tech giant has placed a huge emphasis on its mobile services offering in recent months, presumably because it’ll need to build up a thriving app ecosystem if it’s to compete with rival smartphones that do have Google support. Last week the firm held a developer conference in London where it made a number of announcements designed to incentivise developers to create apps for the Huawei AppGallery – it’s alternative to the Google Play Store.
+
+Trending

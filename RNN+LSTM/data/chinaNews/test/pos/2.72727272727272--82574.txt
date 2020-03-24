@@ -1,0 +1,41 @@
+Following the outbreak of the coronavirus, supply chains have undergone tremendous pressure. Recent reports document how the distribution of goods has been disrupted by factories in China shutting down on a massive scale and transport links being cut to contain the virus.
+
+
+
+
+
+
+
+Empty cargo barges on the Yangtze River in China illustrate how the virus outbreak has disrupted supply chain in traditional manufacturing processes, casting the spotlight on the benefits of industry 4.0 and cloud manufacturing (Photo: Bloomberg)
+
+
+
+
+
+A lot of the impact is assessed on the premise that manufacturing continues to be largely traditional – that is, manufacturers produce goods of the same materials and components in bulk and distribute them through well-established supply chain networks around the world.
+
+The outbreak has now cast the spotlight once again on the benefits of Industry 4.0 and cloud manufacturing – in particular, what manufacturers call a “high mix, low volume” solution that gives manufacturers the flexibility to produce on demand, at varying quantities, in response to orders that are made at irregular intervals, at varying amounts each time.
+
+Footwear makes up a substantial portion of China’s exports, according to the World Bank. Imagine a future in manufacturing where shoes are produced bespoke, on demand, immune from the volatility that arises from sudden disruptions. To reduce the over-reliance on goods produced in bulk from a large manufacturing base such as China, manufacturers have to also embrace a radical shift in paradigm by harnessing cloud computing, the Internet of Things (IoT), virtualisation and advanced computing technologies.
+
+
+
+
+
+Cloud – manufacturing’s next frontier
+
+Many mistake Industry 4.0 with large-scale robotics and automation but that is only scratching the surface. Many firms have embarked on some level of automation but very often, the digitisation of manufacturing processes is limited to robotic tools and digitising Enterprise Resource Planning (ERP) processes to enable machine operators to collect, store, manage and integrate manufacturing processes on a software that is accessible on the go.
+
+With cloud computing, manufacturers operate within a smart factory environment, plugged into an alliance of manufacturing resources and services supporting the whole life-cycle of manufacturing. An alliance that is shared between companies trans-border means manufacturers can pull from the cloud components and parts they require for a particular product, enabling them to diversify their sources without relying on a single manufacturing base. The benefits of cloud manufacturing are tremendous if one considers the substantial impact on supply chain disruption when an outbreak situation paralyses the smooth movement of goods.
+
+Take precision engineering, for example. In a highly advanced cloud manufacturing environment, precision engineering companies tap an alliance of designers, simulators, producers, testers and maintenance resources to find the most cost-effective way to manufacture any kind of goods from aeroplanes to home appliances. Some precision engineering firms even go so far as to provide real-time AI-enabled tools to auto-correct processes in the test environment.
+
+Some precision engineering firms in Singapore have recorded production efficiency levels of 300% after implementing these AI-enabled tools, and are expecting more when they fully transition to the cloud. And in a market that is increasingly pressured to be sustainable, AI-enabled tools will also help manufacturers turn waste into wealth. Some companies temporarily rent out inventory that are waiting to be picked up from other cities.
+
+
+
+
+
+UK manufacturers lead the way
+
+British Sugar, an award-winning horticulture business, is modelled on circular strategies. The company takes excess carbon dioxide from its sugar factory and pumps it into a separate plot where plants absorb it during photosynthesis. This way, whatever is wasteful and harmful is re-used.

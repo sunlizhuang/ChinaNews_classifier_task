@@ -1,0 +1,29 @@
+Earlier today (13th January 2020), OnePlus held a media conference meeting in Shenzhen, China. Here, the company unveiled its developments in the screen technology area and revealed the completion of a 120Hz display.
+
+In the conference, OnePlus’ upcoming flagship smartphone series, the OnePlus 8, had one of its highlighting aspects revealed. It will feature a 2K OLED display with a refresh rate of 120Hz and a screen sampling rate of 240Hz, the highest in the industry. Furthermore, it was also revealed that OnePlus’ new screen has the highest color reproduction standard of JNCD <0.8, which beats the iPhone 11 Pro Max‘s JNCD <0.9 and the industry average of JNCD <2.
+
+Notably, the company has even claimed that it was made a few unique optimizations to the 120Hz display; all of which to enable three major user-friendly factors, namely smoothness, accuracy and comfort. The exact details are as follows:
+
+Smooth Chain Optimization
+
+MEMC Independent Chip
+
+Up To 120Hz refresh rate
+
+240Hz screen sampling rate
+
+JNCD <0.8
+
+Color calibration of smartphones being manufactured
+
+Automatic brightness adjustment to 2096 levels
+
+Color display effect at 10 bit.
+
+It is a big deal considering the display was one of the areas where the company had received criticism on initially. Starting from the OnePlus 7 series, the company has started giving importance to the display of its smartphones, which now arrive with a higher refresh rate and better resolution. This has even led to the feature almost becoming a standard in the premium grade segment of mobile phones.
+
+OnePlus is also very active in the gaming community and even optimizes its handset offerings to better perform in games; thus, it comes as no surprise that the higher refresh rate will even work to further improve on the mobile gaming experience the company has to offer.
+
+UP NEXT: OnePlus CEO Pete Lau confirms development of 120Hz screen
+
+(Via)

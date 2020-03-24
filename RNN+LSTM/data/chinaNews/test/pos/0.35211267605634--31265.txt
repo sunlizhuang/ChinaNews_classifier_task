@@ -1,0 +1,55 @@
+Chinese tech giant Huawei is to be allowed a limited role in building the United Kingdom's next-generation 5G telecoms infrastructure, Prime Minister Boris Johnson confirmed on Tuesday.
+
+Huawei, the world's largest telecoms manufacturer, has been decried by Washington and a White House convinced that the Chinese firm could build back doors into its technology, allowing Beijing to eavesdrop on global and domestic communications. United States officials have made thinly veiled threats that foreign allies that use its equipment could be barred from intelligence-sharing programmes.
+
+Johnson's decision that "high-risk vendors" would be allowed into the "non-sensitive" parts of 5G networks - capping their involvement at 35 percent - has been described as one of the biggest tests of his post-Brexit foreign policy.
+
+More:
+
+Johnson: Huawei 5G decision will balance innovation and security
+
+US Pentagon temporarily stops clampdown on Huawei sales
+
+Boris Johnson approves 'limited' role for Huawei 5G plan
+
+But Foreign Secretary Dominic Raab said intelligence sharing through the Five Eyes programme of allied nations - including Australia, Canada, New Zealand, the US and the UK - would not be jeopardised by the decision.
+
+"GCHQ [Government Communications Headquarters, one of the UK's main spy agencies] have confirmed categorically that how we construct our 5G and full-fibre public telecoms networks has nothing to do with how we will share classified data," Raab told Parliament on Tuesday, referring to the British surveillance agency.
+
+"Intelligence sharing will not be put at risk or would ever be put at risk by this government."
+
+Huawei is to be excluded from a sensitive core of networks, where data is processed, and banned from all critical networks and sensitive locations such as nuclear sites and military bases, the government said.
+
+'World-leading technology'
+
+The Chinese company, founded by a former deputy director of the People's Liberation Army engineering corps, cited its years of experience operating in the UK.
+
+"Huawei is reassured by the UK government's confirmation that we can continue working with our customers to keep the 5G roll-out on track," the company's vice-president, Victor Zhang, said in a statement emailed to Al Jazeera.
+
+"This evidence-based decision will result in a more advanced, more secure and more cost-effective telecoms infrastructure that is fit for the future. It gives the UK access to world-leading technology and ensures a competitive market.
+
+"We have supplied cutting-edge technology to telecoms operators in the UK for more than 15 years. We will build on this strong track record, supporting our customers as they invest in their 5G networks, boosting economic growth and helping the UK continue to compete globally."
+
+A senior US administration official on Tuesday expressed disappointment with the decision, telling Reuters news agency: "There is no safe option for untrusted vendors to control any part of a 5G network. We look forward to working with the UK on a way forward that results in the exclusion of untrusted vendor components from 5G networks."
+
+Britain knows best?
+
+The UK's National Security Council, chaired by Johnson, met on Tuesday morning to discuss Huawei's potential role, and Raab later told MPs that Britain knew more about the firm's capabilities than the US did.
+
+200114110530343
+
+"The technical and security analysis undertaken by GCHQ's National Cyber Security Centre [NCSC] is central to the conclusions of the review," he said. "Thanks to their analysis we have the most detailed study of what is needed to protect 5G, anywhere in the world.
+
+"And it is also because of the work of the Huawei Cyber Security Evaluation Centre Oversight Board, established by NCSC, that we know more about Huawei, and the risks it poses, than any other country in the world."
+
+The US has argued that as 5G technology evolves, the distinction between the "edge" and "core" infrastructure will blur as data is processed throughout the network, making it difficult to contain security risks.
+
+The announcement on Tuesday kicked off a lively debate in both chambers of the UK parliament.
+
+Conservative Julian Lewis, a previous chair of the defence committee, said Huawei was "intimately linked with the Chinese Communist state and its deeply hostile intelligence agencies" as he sought assurances over the required safeguards.
+
+Scottish National Party culture spokesman John Nicolson said: "The prime minister has gone for the cheapest, least secure option. But it doesn't take a genius to work out why Huawei is so competitive in cost - it's the Chinese Communist Party branded as a company, and the Conservative government has chosen low cost over security."
+
+But the Labour Party's Kevan Jones, a member of the Intelligence and Security Committee in the last parliament, added: "There's nothing that I've seen which means this decision will compromise our Five Eyes relationship or that the potential risk in terms of including Huawei in the 5G network cannot be mitigated."
+
+Labour's Nick Thomas-Symonds agreed, saying: "It is for ministers to make decisions in our national interest now and going forward and never to be held hostage by shifting transatlantic geopolitics. A rush by the government to throw itself into the arms of President Trump to secure a trade deal must not govern everything that it does."

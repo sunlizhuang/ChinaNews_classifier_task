@@ -1,0 +1,39 @@
+29-year old male with unknown exposure history, presenting with fever and cough, ultimately requiring intensive care unit admission. (a) Axial thin-section non-contrast CT scan shows diffuse bilateral confluent and patchy ground-glass (solid arrows) and consolidative (dashed arrows) pulmonary opacities. (b) The disease in the right middle and lower lobes has a striking peripheral distribution (arrow). Credit: Radiological Society of North America
+
+In a special report published today in the journal Radiology, researchers describe CT imaging features that aid in the early detection and diagnosis of Wuhan coronavirus.
+
+"Early disease recognition is important not only for prompt implementation of treatment, but also for patient isolation and effective public health surveillance, containment and response," said the study's lead author, Michael Chung, M.D., assistant professor in the Department of Diagnostic, Interventional and Molecular Radiology in the Mount Sinai Health System in New York, N.Y.
+
+On December 31, 2019, the World Health Organization (WHO) learned of several cases of a respiratory illness clinically resembling viral pneumonia and manifesting as fever, cough, and shortness of breath. The newly discovered virus emerging from Wuhan City, Hubei Province of China, has been temporarily named "novel coronavirus" (2019-nCoV). This new coronavirus belongs to a family of viruses that include Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS).
+
+The outbreak is escalating quickly, with thousands of confirmed 2019-nCoV cases reported globally. On January 30, the U.S. reported the first confirmed instance of person-to-person spread of the virus.
+
+In this retrospective case series, Dr. Chung and colleagues set out to characterize the key chest CT imaging findings in a group of patients infected with 2019-nCoV in China with the goal of familiarizing radiologists and clinical teams with the imaging manifestations of this new outbreak.
+
+36-year old male with history of recent travel to Wuhan, presenting with fever, fatigue and myalgias. Coronal thin-section non-contrast CT image shows ground-glass opacities with a rounded morphology in both upper lobes (arrows). Credit: Radiological Society of North America
+
+From January 18, 2020, until January 27, 2020, 21 patients admitted to three hospitals in three provinces in China with confirmed 2019-nCoV infection underwent chest CT. The 21 patients consisted of 13 men and 8 women ranging in age from 29 to 77 years old, with a mean age of 51.2 years. All patients were confirmed positive for infection via laboratory testing of respiratory secretions.
+
+For each of the 21 patients, the initial CT scan was evaluated for the following characteristics: (1) presence of ground-glass opacities, (2) presence of consolidation, (3) number of lobes affected by ground-glass or consolidative opacities, (4) degree of lobe involvement in addition to overall lung "total severity score," (5) presence of nodules, (6) presence of a pleural effusion, (7) presence of thoracic lymphadenopathy (lymph nodes of abnormal size or morphology), and (8) presence of underlying lung disease such as emphysema or fibrosis. Any other thoracic abnormalities were also noted.
+
+The analysis showed that 2019-nCoV typically manifests on CT with bilateral ground-glass and consolidative pulmonary opacities. Nodular opacities, crazy-paving pattern, and a peripheral distribution of disease may be additional features helpful in early diagnosis. The researchers also noted that lung cavitation, discrete pulmonary nodules, pleural effusions and lymphadenopathy are characteristically absent in cases of 2019-nCoV.
+
+Follow-up imaging in seven of eight patients showed mild or moderate progression of disease as manifested by increasing extent and density of airspace opacities.
+
+Dr. Chung cautioned that absence of abnormal CT findings upon initial examination does not rule out the presence of 2019-nCoV.
+
+69-year old male with history of recent travel to Wuhan, presenting with fever. Axial thin-section non-contrast CT scan shows ground-glass opacities in the lower lobes with a pronounced peripheral distribution (arrows). Credit: Radiological Society of North America
+
+"Our patient population is unique from other published series on the Wuhan coronavirus in that three of our patients had normal initial chest CTs," he said. "One of these patients progressed three days later and developed a solitary nodular ground-glass lesion in the right lower lobe, indicating this pattern may represent the very first radiologically visible manifestation of disease in some patients infected with Wuhan coronavirus."
+
+He added that a second patient had a normal follow-up chest CT four days after her initial normal imaging exam.
+
+"This suggests that chest CT lacks complete sensitivity and does not have a perfect negative predictive value," Dr. Chung said. "We can't rely on CT alone to fully exclude presence of the virus."
+
+This finding may be related to the fact that infection with 2019-nCoV is characterized by an incubation period of several days, and there may be a phase where viral infection manifests with symptoms prior to visible abnormalities on CT.
+
+The researchers note that further study is required to understand how patients fare after treatment but suggest that experience and imaging findings from MERS and SARS epidemics might be helpful in managing the current outbreak.
+
+Explore further Clinical features ID'd for first 2019 novel coronavirus patients
+
+More information: Michael Chung et al, CT Imaging Features of 2019 Novel Coronavirus (2019-nCoV), Radiology (2020). Journal information: Radiology Michael Chung et al, CT Imaging Features of 2019 Novel Coronavirus (2019-nCoV),(2020). DOI: 10.1148/radiol.2020200230

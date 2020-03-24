@@ -1,0 +1,29 @@
+Satnews Daily
+
+How Would the Space Force Wage War?
+
+A recent article in Defense One suggests that while the United States Space Force knows how it will fight wars beyond the atmosphere, those plans are so highly classified that industry is not able to build the things that will make war in space possible. The article does provide a hint, however.
+
+“In recent years, Pentagon officials have said future satellites need to be able to defend themselves and be more maneuverable. Most military satellites orbiting the Earth – collectively worth many billions of dollars – are unable to do that, which has prompted military officials to warn that China and Russia could easily shoot them down, jam their signals, or blind their cameras.”
+
+Clearly the Space Force is going to need more capabilities than satellites that can be maneuvered out of the way of threats. But a 2007 Chinese anti-satellite weapon test illustrated the perils of combat in Earth orbit.
+
+The Chinese destroyed a defunct weather satellite with a weapon that blew it to pieces. The explosion created a debris field that included more than 900 individually tracked pieces, hurtling about in low Earth orbit, causing a hazard to space navigation for years. Analysts suggest that the explosion generated thousands of pieces of debris that could not be tracked.
+
+One could therefore imagine a nightmare scenario that could happen if war were to break out between two super powers, such as the United States and China. China could launch multiple strikes to destroy or cripple those satellites that the United States relies on, not only for its national security, but for its economic life. Such an attack could fill Earth orbit with hurtling debris that would make it impassable indefinitely.
+
+The people forming the Space Force and its doctrine must therefore develop ways to wage war in the heavens without generating a catastrophic amount of orbiting debris. Weapons that blow up satellites or other space weapons will simply not do.
+
+An article in Space News suggested that a weapon disguised as a space debris removal spacecraft could also be used to cripple working satellites. Such a vehicle could attach itself to a working satellite and bend or break its antennae, destroy its solar panels and even drain its fuel tank. Such a weapon could even just take a satellite out of its orbit, thus destroying the satellite’s usefulness while leaving it intact. The Earth’s gravity and atmosphere would do the rest. Other possibilities include blinding a satellite with a laser or jamming its signal.
+
+Besides providing satellites with the ability to elude such threats, some kind of active defense must be mounted. A country could deploy a constellation of “guardian” satellites to intercept such space weapons before enemy satellites could cripple GPS or communications satellites or move them into a death dive into the Earth’s atmosphere. Of course, an enemy might respond by including these “guardians” in the initial attack.
+
+The United States could also create redundancy for its critical satellites, making them smaller and as stealthy as possible, and thus too numerous to be taken out in one blow. Creating a launch-on-demand capability in which satellites can be replaced as quickly as they are taken out is also a possibility.
+
+Should an enemy such as China or Russia be foolish enough to blow up satellites, the Space Force needs to develop a space debris removal capability. That needs to be done and then used in any case, as the proliferation of space debris has become a growing problem in peacetime.
+
+A space-based missile defense system, a dream since SDI was first proposed, would also be useful. Such a system not only could help defend the American homeland against a nuclear attack but also would close space off to the launching of more antisatellite weapons once a conflict breaks out.
+
+In short, the Space Force, now that it has been officially created, has a lot of work to do to become an effective war-fighting service.
+
+By Mark R. Whittington, Opinion Contributor, the views expressed by contributors are their own and not the view of The Hill.

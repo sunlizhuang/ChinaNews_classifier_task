@@ -1,0 +1,41 @@
+HELSINKI — China carried out its second orbital launch in just over 24 hours late Wednesday, sending the Yinhe-1 commercial 5G satellite into low Earth orbit.
+
+A Kuaizhou-1A solid launch vehicle lifted off from a mobile platform at the Jiuquan Satellite Launch Center in northwest China at 10:02 p.m. Eastern.
+
+Aboard was the 227-kilogram Yinhe–1 (Galaxy-1) technology verification satellite for Beijing-based communications satellite producer Galaxy Space. Yinhe-1 is expected to test Q/V and Ka band communications at up to 10 Gbps. The satellite was tracked in a 637 by 621-kilometer altitude inclined by 86 degrees by the U.S. military.
+
+The satellite, also referred to as GS-SparkSat-03, is part of plans to establish a global 5G constellation based on the ‘low-cost, high-performance’ Galaxy-1 small satellite platform. The platform will be refined based on lessons from on-orbit testing.
+
+Galaxy Space plans to launch 144 satellites for the constellation across the next three years. The firm wants to provide high-speed, low-latency communications services globally, including remote areas.
+
+The satellites have been developed with assistance from the China Aerospace Science and Technology Corporation (CASC) and the China Electronics Technology Group Corporation (CETC). The firm has earlier stated that the satellites will be capable of deorbiting near the end of the design lifetime.
+
+Galaxy Space, founded in 2016 by Xu Ming, announced in September that it had secured new funding in a series B round.
+
+Kuaizhou-1A launch cadence
+
+The Kuaizhou-1A is operated by Expace, a commercial subsidiary of the China Aerospace Science and Industry Corporation (CASIC), a giant defense contractor and missile maker.
+
+The launcher is understood to be derived from missile technology. It consists of three solid stages and a liquid propellant upper stage and is capable of delivering a 200-kilogram payload into a 700-kilometer sun-synchronous orbit (SSO).
+
+The 20-meter-long Kuaizhou-1A is restricted to launch commercial payloads. Main space contractor CASC launches China’s government and military payloads. CASC has its own solid fuel launcher in the Long March 11 which entered service in 2015.
+
+The Kuaizhou-1A has now launched eight times since its inaugural mission in 2017, and six times since August. Expace is preparing to test launch the larger Kuaizhou-11 which may lift as much as 1,000 kilograms to 700-kilometer SSO.
+
+CASIC has its own plans to establish LEO communications constellations, with the Hongyun wideband and Xingyun narrowband projects.
+
+Chinese NewSpace startups have emerged following a late 2014 central government policy shift. This has brought the opening up of the launch and small satellite sectors to private capital.
+
+Chinese publication Future Aerospace reported last year that there were 141 registered commercial aerospace companies in China at the end of 2018. These are spread across launch services, satellite manufacturing and applications, ground stations and other areas. The companies have been aided by the ‘civil-military fusion’ national strategy.
+
+State-run spinoff Expace and private firms including Landspace, iSpace, OneSpace, Linkspace and Galactic Energy are developing launch vehicles with the aim of providing low-cost launch services domestically and beyond.
+
+China’s 2020 launch plans
+
+The Wednesday mission was China’s third of 2020. Yinhe-1 follows the launch of the classified TJS-5 satellite to GTO from Xichang and a Long March 2D from Taiyuan sending four satellites to LEO late Tuesday. The latter mission included two new ÑuSats for Argentina-based remote sensing firm Satellogic.
+
+CASC is planning more than 40 launches in 2020, with commercial and private launches potentially taking China’s overall launch figures to over 50 this year.
+
+SpaceX kicked off 2020 globally with the launch of 60 Starlink satellites, making the company the operator of world’s largest commercial satellite constellation.
+
+This article was updated to include new orbital tracking data from the U.S. military.

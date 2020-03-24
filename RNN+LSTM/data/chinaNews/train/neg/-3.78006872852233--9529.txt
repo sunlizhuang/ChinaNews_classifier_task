@@ -1,0 +1,45 @@
+Recently, the US government launched a national security review of the video platform and app TikTok. The investigation follows the acquisition of the platform by the Chinese firm ByteDance in 2017.
+
+The security concerns over TikTok bear many similarities to the privacy concerns about FaceApp that were widely reported last year. They are also an example of much broader worries about the impact and influence of Chinese companies (and the Chinese government) in the US and the fact that American SMBs fear cyber-attacks from China.
+
+The Problems With TikTok
+
+There are two big problems with TikTok, but both of them stem from the fact that the platform is now owned by ByteDance. Chinese companies are required – by law – to share information with their government, and this is the cause of both concerns.
+
+The first is that US lawmakers fear the app could become a major tool for the dissemination of Chinese propaganda. Some sources have claimed that the Islamic State is posting propaganda on the app, and an investigation by The Guardian suggested that TikTok censors videos Beijing doesn’t like, including those about Tibetan independence.
+
+The popularity of the app among American teens means that it potentially gives the Chinese government a bigger reach than ever before.
+
+The second problem is that the app can potentially collect information on users in the US. Though many people in the US are more aware of cybersecurity than ever before and have taken steps to limit their susceptibility to this kind of spying, many still don’t understand how VPNs work or simply how much information they are sharing online.
+
+Of particular concern is that military and governmental personnel also use the app, and this could provide the Chinese government with a “back door” for more sophisticated surveillance.
+
+The Solutions
+
+Unfortunately, none of these problems has an easy solution, or at least a solution that is politically palatable. At the moment, the US government is approaching the issue as one of the foreign investments. Three US senators have asked the Committee on Foreign Investment in the US (CFIUS) to look into whether it was legal for ByteDance to buy TikTok, which was then called Musical.ly.
+
+There is a precedent for this kind of investigation bearing results: a few years ago, Grindr’s parent company was asked to sell the app because it contained too much private information, and this information was stored offshore.
+
+The likely outcome, should the investigation find that TikTok represents a security threat, would be to force ByteDance to sell the platform to a US company, or to set up a subsidiary in the USA. The problem with that is that the app is now so big that it might be extremely difficult to find a buyer for it.
+
+Another approach would be to ban the app altogether, though this would be an unpopular approach that is unlikely to be pursued. When the Indian government banned the app back in April, there was a huge backlash.
+
+This backlash would likely be even bigger in the US, given the size of TikTok’s user base in the country, and no-one wants to be the target of this in an election year.
+
+For its part, TikTok is responding to the investigation in kind. It has recently hired lawmakers to help develop content moderation guidelines, in the hope that this defuses any accusations that it is a channel for propaganda. Whether US lawmakers can spot Chinese propaganda is another question altogether.
+
+The company also says that no data on US citizens is held in China, but in Singapore. This might be true, but given the close relationship between companies and the Chinese government, it seems more than possible that the Chinese government could access this data if it wanted to.
+
+The Broader Picture
+
+Whatever the final outcome of the current investigation, it is clear that the controversy about TikTok is a symptom of broader problems. It’s worth noting, for instance, that many of the concerns about TikTok are the same as those that have been raised during the war of words between the US and Chinese governments over Huawei. That issue has rumbled on for almost four years now, and there is still no solution in sight.
+
+What Can We Do About It?
+
+As consumers, our possible responses to worries like these are limited. It is certainly possible to avoid Chinese-built phones and apps, but convincing our teenage children to avoid hugely popular apps like TikTok is another matter.
+
+It also seems futile to avoid Chinese government surveillance in a context where plenty of big tech companies are spying on us, and where our own government is running the largest online surveillance platform in the world.
+
+Ultimately, the solution to mass surveillance cannot be provided by the governments who are responsible for it. Large-scale educational programs about the sheer amount of data we are sharing online should be a start. Protecting our own devices through freely-available privacy and security tools is also important.
+
+In the end, there is really only one solution to online propaganda and data collection: don’t believe everything you read, and don’t share more details than you have to.

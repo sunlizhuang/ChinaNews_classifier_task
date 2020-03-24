@@ -1,0 +1,39 @@
+Fremont, CA - January 15, 2020 - Blackmagic Design today announced that the new Chinese blockbuster film by Xue Xiaolu, “Whistleblower,” used a number of Blackmagic Design cameras to shoot the film, including URSA Mini Pros, Micro Cinema Cameras and Micro Studio Camera 4Ks. The camera packages, along with a number of other Blackmagic Design products, were used to shoot a large number of scenes for the action thriller.
+
+The international blockbuster film, shot in China, Australia and Africa, follows a Chinese expatriate working for a mining company who, after a fatal accident, discovers that new technology developed by the company may be a health risk.
+
+A joint Chinese and Australian production, the film includes a number of high paced, dramatic vehicle stunt scenes shot by DP Marc Spicer ACS , 2nd Unit DP Mark Wareham, ACS and DP Ricky Schamburg, as well as other crew members that were part of the teams that shot several of the “Fast & Furious” films.
+
+Michelle Pizanis was the AC on the project, an industry veteran who has worked on some of the biggest action films, including “Mad Max: Fury Road,” “Star Wars: The Force Awakens,” “Furious 7” and “Thor: Ragnarok.” Already familiar with Blackmagic Design cameras and products from a number of other films, Pizanis was tasked with building the action stunt rigs for “Whistleblower.”
+
+The film’s action and stunt scenes rival any other blockbuster, and included high speed chases on roads and water, incredibly dramatic fight scenes, POV shots from body rigs on actors as they were sliding through tunnels and other tight spaces, and a huge number of physical effects. To capture this, Pizanis needed to design a set of rigs that were able to capture every shot reliably regardless of whether it had to go through a heavy impact, was attached to a crashing vehicle, or was dropped from a height.
+
+To accomplish this, several multicamera rigs were created, including a background plate array using URSA Mini Pro cameras, multiple car and motorcycle rigs built around Micro Cinema Cameras and Micro Studio Cameras. Each rig also used Blackmagic Design Video Assist 4Ks for recording and monitoring.
+
+One of the bigger rigs was a background plate array that was attached to a chase vehicle. “We used six URSA Mini Pros for our background plate array, and these were amazing. With the dial-in filtration we were able to avoid using matte boxes and external filters, which allowed us to align the cameras inward facing as close as possible with six identical 20mm Zeiss PL Ultra Primes,” Pizanis said.
+
+“When we went to Malawi in Africa, we took these cameras and they were perfect to travel with as all six cameras fit in two pelican cases. After using them on the plate arrays we also used the cameras in full production mode, recording in RAW for all of our B-roll footage.”
+
+The film crew also kept a single URSA Mini Pro available to shoot wide establishing shots. “Quite often these shots were a lock off shot on a Dutch tilt, and this saved us time in having to strip the A or B camera down, and also allowed us to do multi camera coverage on that scene,” she said.
+
+For car and other vehicle stunt shots, they used rigs made up of four Micro Cinema Cameras and two Micro Studio Camera 4Ks. These smaller cameras were perfect for tight shots and getting anywhere on a vehicle.
+
+“The Micro Studio 4Ks were used when the cameras weren’t in harm’s way so that we could record 4k. When the cameras were in harm’s way we used the Micro Cinema Cameras because we could record directly to the camera and put them in Pelican cases to protect them from impact. They all rendered perfectly on impact,” Pizanis continued.
+
+“The Video Assist 4Ks were used for our array set up and also as our portable video village as we were most impressed with their auto recording. When the camera recorded via a transmitter, we were able to record to the monitors and watch playback. We were able to build a trigged switch to record all cameras simultaneously and also have gen lock and time code using the Ambient NanoLockit,” she said.
+
+The “Whistleblower” was also shot using Blackmagic Design products on Digital Imaging Technician Michael Easter’s cart to provide a critical viewing environment during photography. The Blackmagic gear allowed Easter to receive live images from the cameras on set via wireless SDI and enabled him to apply temporary looks to the footage, monitor camera configurations, assess exposure, gather and display reference materials for each scene and setup, and pass graded footage to the live monitors on set for the creative team.
+
+Easter used a number of Blackmagic Design products, including Smart Videohub 40x40, Videohub Smart Control, UltraStudio Mini Monitor and Mini Recorder, SmartScope Duo 4K and DaVinci Resolve.
+
+“There are a number of Blackmagic devices on my DIT cart. At the heart of this was the Smart Videohub 40x40. In combination with the Videohub Smart Control I am able to route images from wireless SDI receivers to my LUT boxes, to my Grade 1 Reference OLED Monitors, to a quad-split SDI device, route images to and from the Video Operator and to the various other systems on the cart. During production, there were some days where we had live images from 7 cameras to 7 monitors hanging off the workstation,” Easter said.
+
+“Also, I am able to capture and display reference video and stills using Mini Monitors and Mini Recorders. To assist in managing exposure, I had a SmartScope Duo 4K set to either histogram, waveform, or a false-color exposure tool from one of my LUT boxes. I used DaVinci Resolve to back check footage.”
+
+Press Photography
+
+Product photos of URSA Mini Pro, Micro Cinema Camera, Micro Studio Camera 4K, Smart Videohub 40x40, Videohub Smart Control, UltraStudio Mini Monitor and Mini Recorder, SmartScope Duo 4K, DaVinci Resolve, as well as all other Blackmagic Design products, are available at www.blackmagicdesign.com/media/images.
+
+About Blackmagic Design
+
+Blackmagic Design creates the world’s highest quality video editing products, digital film cameras, color correctors, video converters, video monitoring, routers, live production switchers, disk recorders, waveform monitors and real time film scanners for the feature film, post production and television broadcast industries. Blackmagic Design’s DeckLink capture cards launched a revolution in quality and affordability in post production, while the company’s Emmy™ award winning DaVinci color correction products have dominated the television and film industry since 1984. Blackmagic Design continues ground breaking innovations including 6G-SDI and 12G-SDI products and stereoscopic 3D and Ultra HD workflows. Founded by world leading post production editors and engineers, Blackmagic Design has offices in the USA, UK, Japan, Singapore and Australia. For more information, please go to www.blackmagicdesign.com.

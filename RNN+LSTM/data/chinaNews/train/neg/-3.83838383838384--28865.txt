@@ -1,0 +1,151 @@
+What is coronavirus? And now that it is in New Zealand, what does it mean for the country? Science reporter Jamie Morton explains.
+
+WHAT IS IT?
+
+Coronaviruses are a large and diverse family of viruses which includes the common cold, severe acute respiratory syndrome – better known as Sars - and Middle East respiratory syndrome (Mers).
+
+Passengers arriving in New Zealand from China are being observed for symptoms of coronavirus. Photo / Supplied
+
+In February, officials identified a new one called novel coronavirus, or Covid-19.
+
+Advertisement
+
+As at this week, there were just over 100,000 cases in more than 80 countries, and about 3500 deaths.
+
+The vast majority have occurred in China and more than 50,000 of these patients have recovered or recovering.
+
+New Zealand has five cases.
+
+Its symptoms - fever, coughing and difficulty breathing - are similar to a range of other illnesses such as influenza.
+
+According to the World Health Organisation, older persons and persons with pre-existing medical conditions like high blood pressure and heart disease appeared to develop serious illness more often than others.
+
+Experts from the Chinese Centre for Disease Control and Prevention have confirmed the virus first jumped from animals to humans inside the Huanan Seafood Wholesale Market in the heart of city.
+
+‌
+
+GIVEN WHAT WE KNOW ABOUT PREVIOUS OUTBREAKS, WHAT ARE THE POSSIBLE ANIMAL ORIGINS?
+
+Scientists don't yet know how it is transmitted to people, but it's likely that it comes from an animal.
+
+Advertisement
+
+There is evidence that it can spread from person to person in the community and in health care settings.
+
+David Hayman, a professor of infectious disease ecology at Massey University, said there was "strong evidence" the virus came from bats, if not immediately, then in the very recent past.
+
+"That is quite different to Mers, where the genetic evidence supports it having its ancestors in bats, but Mers CoV having circulated in camels for some time prior to human infection," he said.
+
+"There were some exciting headlines about snakes being an intermediate host transmitting the Wuhan virus to people, but that analysis had some issues.
+
+"It may be that there is another intermediate host, like civets in the meat markets may have been for Sars, but the genetic evidence suggests the viruses have not circulated in these species for very long, if at all, because this virus in people is so closely related to ones discovered in Chinese bats."
+
+How to stop the spread of coronavirus. Video / AP / CDC / Leeds Teaching Hospitals NHS Trust / ABC News
+
+HOW CAN THE VIRUS CROSS OVER FROM ANIMALS TO HUMANS?
+
+That answer really depended on the virus, Hayman said.
+
+"For example, for viruses like rabies no mutations are required, but the transmission depends on the infected animal biting an unvaccinated person.
+
+"However, for some viruses, they may require some specific mutations before they can infect people."
+
+For instance, he said, there were close relatives to this and Sars-like coronaviruses that seemed unable to infect human cells in the laboratory and were not reported in people in nature, whereas Sars coronavirus and the new Wuhan coronavirus could.
+
+"Random mutations can facilitate this prior to infection, and in theory could make those other viruses become infectious to people, or, what can happen is random mutations can facilitate onward transmission in people at some point once the new infection has started to transmit in their new human host populations."
+
+Passengers wear masks to prevent an outbreak of a new coronavirus in a subway station, in Hong Kong. Photo / AP
+
+HOW EASILY COULD IT SPREAD IN NEW ZEALAND?
+
+Some public health experts have expressed doubt that community transmission in New Zealand will be able to be halted.
+
+But University of Auckland microbiologist Associate Professor Siouxsie Wiles has stressed that the chances of New Zealand seeing a full outbreak like is happening in China is very low.
+
+"That's because we don't have the same population density as China and are in a good position to be able to identify and isolate infected people and anyone they have had contact with to stop the infection spreading," she said.
+
+Wiles noted a study that has given some insight into the transmissibility of the virus, following a family of six from Shenzhen.
+
+The family visited an infected family in Wuhan and then returned home, infected, and spread the virus to another family member.
+
+"These cases clearly show the virus can transmit from person-to-person, with five of the six family members becoming ill," Wiles noted.
+
+Posters have been placed at Auckland Airport to urge people with symptoms to contact public health staff immediately. Photo / Supplied
+
+"The incubation period from these cases seems to be three to six days. But these cases are likely to have involved people in close and repeated contact."
+
+But there remained several important unanswered questions, such as how infectious people were before they showed symptoms, how much contact was needed to get infected, and whether infected people went on to have symptoms.
+
+Professor Mick Roberts, a professor in mathematical biology at Massey University, explained that predicting the spread of a novel virus required estimates of the basic reproduction number.
+
+This was the expected number of secondary cases due, to a typical primary case over the course of its infectious period.
+
+Roberts said a recent report from Lancaster University suggested that the novel virus from Wuhan had a basic reproduction number of 3.8.
+
+Coupled with biological properties assumed to be similar to those for Sars - and assumptions concerning travel and contact patterns in China - a set of predictions were presented that prompted a British tabloid headline reading: "ZOMBIELAND: Coronavirus will infect 350,000 in Wuhan alone experts say."
+
+Yet the 350,000 figure was at the upper 97.5 per cent of the report's prediction, and based on no changes in transmissibility until February 4, he said.
+
+"In other words, no travel restrictions or behaviour changes, reducing contact rates," Roberts said.
+
+"Under these conditions, the predicted mean was 250,000 cases."
+
+Another report, from an Imperial College group to the World Health Organisation, estimated the basic reproduction number to be 2.6, which resulted in lower predictions of future epidemic size.
+
+"All estimates so far assume that the novel virus behaves like Sars," Roberts said.
+
+"As further data become available better predictions will be possible."
+
+WHAT ARE NEW ZEALAND AUTHORITIES DOING?
+
+In February, authorities began screening flights arriving direct from China.
+
+That was followed by a ban on all flights into New Zealand from the Chinese mainland.
+
+On top of that, the ministry has stood up the National Health Coordination Centre, and has activated New Zealand's pandemic plan.
+
+Finance Minister Grant Robertson said an economic advisory group, chaired by the Treasury, was looking at the potential impacts of coronavirus on the New Zealand economy.
+
+Three scenarios being considered included an expected shock to global demand that would see a drop in New Zealand exports in the first half of 2020, returning to normal in the second half of the year; a longer-lasting shock to the domestic economy; and a global recession.
+
+Robertson stressed that the last two scenarios were not predicted, but as a precaution he had directed Treasury to work on how to deal with them - including the possibility of a one-off injection into the economy.
+
+He said the Government has been proactive in trying to offset the dip in the economy, including an $11m package to boost the tourism sector.
+
+Cabinet has also asked officials to look at moving struggling forestry workers into jobs with the Department of Conservation, which could include track clearance or eradicating wilding pines.
+
+WHAT WILL IT MEAN FOR BUSINESS?
+
+Retailers were facing lengthy waits for stock as parcels and shipments piled up in China amid air freight bans, posing the risk of operations coming to a standstill.
+
+Exporters and importers largely dependent on the Chinese market were copping the worst impacts, and hundreds of millions of dollars in earnings would be lost from the value of the New Zealand economy this quarter, economists have reported.
+
+Forecasts released by the NZ Institute of Economic Research suggested New Zealand would see no GDP growth this quarter, with the outbreak combining with the drought to create a "perfect storm".
+
+The NZIER was now expecting average annual GDP growth of just 1.9 per for 2020 - that compared with 2.6 per cent growth it had pencilled in for the year to March 2020 in its last quarterly prediction.
+
+"Exporters are expected to bear the brunt of the effects, and we expect activity will be flat in the March quarter," NZIER principal economist Christina Leung said.
+
+Normally, supply concerns about the effects of the drought on milk production would have pushed up global dairy prices, buffering farmgate reports, but that would be offset by reduced demand as a result of the coronavirus outbreak.
+
+Although there would be a pickup in GDP growth through the rest of the year the effects would linger, even if the disruption was largely contained in the first half of the year.
+
+Prior to the coronavirus outbreak, households had been feeling more optimistic as the housing market picked up and business confidence was recovering.
+
+WHAT ARE SCHOOLS BEING TOLD?
+
+The Ministry of Education is advising staff and students to take basic health precautions like avoiding close contact with people with cold or flu-like illnesses; covering coughs and sneezes with disposable tissues or clothing; and washing hands for at least 20 seconds with water and soap and dry them thoroughly.
+
+"As always anyone who is unwell should not be at school or at their early learning service. If you have a particular concern about any child, student or staff member, please urge parents to contact Healthline at 0800 611 116 or their GP for medical advice," the ministry told schools in a recent edict.
+
+Three members of a tour group of 19 have been assessed at Rotorua Hospital out of concern they may have become infected with novel coronavirus infection. Photo / NZME
+
+"If a student still attends school while showing symptoms the principal of a state school can preclude them if they believe on reasonable grounds they may have a communicable disease."
+
+WHAT ARE THE GENERAL MESSAGES FOR THE PUBLIC?
+
+All travellers to New Zealand who become sick within a month of their arrival are being encouraged to seek medical advice and contact Healthline or a doctor and share their travel history.
+
+As with all respiratory illnesses, people could take steps to reduce their risk of infection.
+
+This includes regularly washing hands, covering your mouth and nose when you sneeze, staying home if you are sick and avoiding close contact with anyone with cold or flu-like symptoms.

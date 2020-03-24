@@ -1,0 +1,59 @@
+News
+
+Fighting the coronavirus misinformation epidemic
+
+Fact-checkers from across Asia are crawling the deep crevices of the internet and closed social media groups to debunk unscientific claims.
+
+Subhra Priyadarshini
+
+doi:10.1038/nindia.2020.36 Published online 23 February 2020
+
+Fresh scientific information about the novel coronavirus COVID-19 is emerging every day. Alongside this, the internet is flooded with rumours, speculations, misinformation and potentially harmful messages around the virus.
+
+Alarmed by the sheer volume of such evidence-defying information, a bunch of health data journalists, technologists and medical doctors from across Asia have come together to painstakingly monitor and counter the unscientific claims in real time.
+
+The team of five journalists, including one from China, and a dozen-odd medics spread across nine countries in Asia, have called out at least 20 major, potentially harmful claims involving COVID-19 since January 2020, when the outbreak of the virus was first reported from Wuhan in China.
+
+The myth-busting army is strung together by an Indian data-driven health news platform Health Analytics Asia (HAA). The network uses fact-checking and online verification tools such as Invid, Youtube Dataviewer, Yandex, Crowdtangle, reverse image searches and Mandarin language audio verification, to identify misleading content, unverified viral videos and fake social media trends.
+
+Every day, the group monitors dozens of pieces of content and keeps a keen eye on the popular Chinese messaging app WeChat, which is teeming with unverified claims relating to COVID-19. To remain on top of the evolving global outbreak, they share any suspicious content over a messaging app and quickly get to work to check its veracity.
+
+For instance, when the Chinese whistle-blower ophthalmologist Li Wenliang died at the Wuhan Central Hospital following COVID-19 infection, WeChat saw a deluge of angry messages and conspiracy theories, fuelling rumours around the time and cause of his death. One of the fact-checkers Berlin-based freelance Chinese journalist Qian Sun spotted these trends on WeChat (called Weixin in China) and the Chinese microblogging site Weibo. “Everyone in China is talking about COVID-19 and my social network is infested with misinformation – as a journalist it is hard for me to just sit and watch,” Qian Sun says.
+
+Chinese journalist Qian Sun monitors several online sources to scotch rumours about the coronavirus. She has since been looking for evidence, or the lack of it, to verify each suspicious social media post, such as, whether the novel coronavirus is a lab-made bioweapon, or whether it can be cured by eating garlic or drinking a bleach concoction. “Much of the disinformation is quite hard to verify immediately. It needs help from virologists and clinical doctors,” Qian Sun told Nature India explaining her motivation to join the mixed group of journalists and doctors.
+
+A sea of misinformation
+
+In an article, Qian Sun also debunked panic-spreading WeChat posts which claimed that the coronavirus could jump from one person to another through mere eye contact.
+
+“Since WeChat is a unique combination of an intimate messenger app (like Whatsapp) and a social media platform with a large user base (like Facebook) capable of disseminating information on a big scale, it’s the hotbed for rumours,” she says, especially since information in China is tightly controlled by the government. Though WeChat has its own fact-checking network, the speed at which rumours are spreading makes it difficult for the platform to contain them, Qian Sun says.
+
+The team called out doctored videos that showed Chinese police brutality, pigs being burnt alive, COVID-19 patients being killed and a widely shared old footage of a Malaysian Prime Minister falsely labelled as the Chinese Premier Li Keqiang offering prayers to protect his country from the coronavirus. Videos spreading misinformation about the origin of coronavirus and bat infestations also came under their scanner.
+
+The myth-busters have published a series of articles putting things straight, some of which have been republished in popular media houses in China and India.
+
+HAA’s Nabeela Khan Inayati, who leads the fact-checking effort, says among other myths they busted were that the coronavirus can be killed by household antiseptics or weed. “There were controversial stories about a woman from the Wuhan Institute of Virology being identified as ‘patient zero’, supposedly the first to have been infected with the Coronavirus. On the basis of available evidence, we worked fast to debunk that story,” Khan Inayati says.
+
+On the Beijing-based video-sharing social network Tik Tok and the microblogging site Twitter, Qian Sun also spotted conspiracy theories about the involvement of the charity The Bill and Melinda Gates Foundation in the outbreak. The fact checkers were quick to point to the lack of evidence behind these theories.
+
+Click-bait stories are often dramatic and get public attention easily. Qian Sun points to one such viral post on WeChat titled “Breaking News! COVID-19 Outbreak in Southern India, more than 3000 in quarantine, may seek help from US or China”. The unverified article was picked up by one of the leading English-language Chinese newspapers creating widespread panic. “I translated the WeChat article and sent it to my colleagues in India, who confirmed fairly fast that there was no such outbreak in India,” Qian Sun says. The Chinese newspaper later published this version clearing the air.
+
+Misinformation on social media is a growing problem, harming public health and putting the lives of millions at risk, says Syed Nazakat, the founder and Editor-in-Chief of DataLEADS which runs HAA. “As more and more people use the internet to search for health information, the challenge to combat medical misinformation is urgent," he says.
+
+The DataLEADS team has been working with doctors since 2015. In July 2019 they first launched the cross-disciplinary fact-checking collaboration to deal with the tide of online medical misinformation. An oncologist, a paediatrician, a psychiatrist and several public health specialists from India, Pakistan, Nepal, Sri Lanka, Indonesia, Malaysia, China, Hong Kong and Australia are part of the team.
+
+Learning from swine flu, Nipah
+
+Psychiatrist Debanjan Banerjee at Bengaluru-based National Institute of Mental Health and Neurosciences (NIMHANS) uses lessons he learnt during recent outbreaks of Swine flu and the Nipah virus in India to handle rumours around COVID-19. “I witnessed how panic and fear related to a disease outbreak can snowball misinformation,” he told Nature India. “I even experienced it at a personal level when some of my relatives in West Bengal resorted to unknown ‘herbal’ remedies for flu prevention, resulting in serious health issues.”
+
+Following the Wuhan outbreak, Banerjee’s outpatient department was abuzz with patients suffering from what he calls ‘misinfodemics’ – a misinformation epidemic. “There was apprehensive anxiety and obsessional fear about contracting the illness. Patients had resorted to wrong treatments stemming from faulty beliefs and rumours,” he says.
+
+After the outbreak in China, rumours of outbreaks in neighbouring countries spread fast over messaging apps. © Macau Photo Agency The most damaging outcome, he feels, is the sudden spawning of unauthorised ‘coronavirus treatment centres’ in Indian states like Manipur, Bihar, Uttar Pradesh, West Bengal, Karnataka and Kerala. “In the name of ‘Ayurveda’ or ‘herbal’ tonics, these centres are giving out high-steroid drugs and natural alkaloids like Rauwolfia or Yohimbine,” he says. In a state of panic, many of his patients with common flu have also reported popping over-the-counter antibiotics to 'prevent' COVID-19. “This leads to more harm by affecting the immunity and causing secondary bacterial infections,” he says.
+
+Banerjee, in consultation with epidemiologists and microbiologists at the World Health Organization (WHO) and the National Institute of Virology in Pune, keeps track of the latest on the evolving outbreak. However, to reach out to the masses and change their practice is a different ball game, he says. “When I engage in a conversation with my patients or the general public, I try forming a meaningful dialogue with alternative evidence to convince them. Opposition or outright denial of their beliefs only leads to more resistance,” he says.
+
+Involving the community health workers, regional leaders and celebrities, the media and policy-makers in such crisis-time messaging always helps, Bannerjee says.
+
+During his own interactions with people — online and offline — Banerjee points to the websites of WHO and Centre for Disease Control for the most reliable and updated information on the evolving global situation.
+
+[More updates on the global coronavirus outbreak and the science behind it here.]

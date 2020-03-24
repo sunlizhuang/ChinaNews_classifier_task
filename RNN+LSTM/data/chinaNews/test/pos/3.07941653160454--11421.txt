@@ -1,0 +1,53 @@
+PHOTO: Samuel Zeller
+
+Agility is everything in today’s fast-paced market. The need to innovate quickly, coupled with infrastructure scalability, security and flexibility, is underpinning most organizations’ digital strategies, leading to a realization that a multi-cloud strategy is the next foundation of business agility.
+
+In its 2019 State of Multicloud report, enterprise software provider Turbonomic found that multi-cloud adoption is on the rise. Of those IT professionals surveyed, 83% expect application workloads to move freely across clouds, driven by the possibilities of leveraging multiple application services, guaranteeing availability, and minimizing the cost to serve.
+
+Despite its clear business benefits, multi-cloud adoption is a complex undertaking and requires a strategic, responsible approach in order to deliver value. In this article, I’ll share my knowledge of developing this strategy, offering an initial blueprint for multi-cloud success.
+
+Choose the Right Services and Cloud Vendors
+
+Cloud vendors are constantly competing for business by adjusting prices, services, and compatibility, so it’s important to weigh the pros and cons of each before outlining a multi-cloud strategy. The big fish right now are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), with IBM Cloud bringing up the rear. A multitude of private cloud vendors and industry-specialized providers are also vying for a piece of the market.
+
+Choosing the right cloud vendors often comes down to the company’s compliance requirements or an alignment with the supplier’s billing models, but community backing is also worth noting. Vendor services that already have an existing user base allow you to negate the risks associated with being early adopters. These communities also offer plenty of user-generated resources, forums, and guides to act as additional support for your engineers.
+
+Compliance relates to things like security regulations in specific markets, as well as a company’s geographical customer footprint. In China, Europe and the US, for example, compliance can vary drastically, so make sure your cloud vendor has services that meet these requirements.
+
+Companies developing for the US government, for example, can only choose vendors that offer the government option. However, bear in mind that those specific services are a little behind as it takes time for the US government to verify that a service meets certain standards, and then more time for vendors to bring those services up to the right standards.
+
+When it comes to billing, does the vendor bill by the second, by the hour or by resource usage? How would each billing model impact your specific use case? What about the costs associated with virtual machines in set sizes, along with any supporting physical infrastructure? Perhaps your use case would suit a multi-tenant or shared model, or you might have tight security constraints that prevent this. All of this should be considered when choosing a vendor.
+
+Related Article: Why Enterprises Are Turning to Hybrid Cloud
+
+Ensure Security Practices Are up to Scratch
+
+Handling the security for one cloud is a difficult task, and it’s made exponentially more difficult when adopting a multi-cloud strategy. You need to have experts on hand who can devise control mechanisms and procedures that will protect your infrastructure, your code and your people.
+
+Aside from assembling the best team, the first step in maximizing the efficiency and effectiveness of cloud security is to centralize as much as possible. For example, if you’re handling access management or cloud service policies in a decentralized manner, your overheads will simply eat you alive. Identity and access management (IAM) solutions are key to preventing this, so try to find a cloud-agnostic version that can support a multi-cloud strategy, such as Kubernetes Federation or ForgeRock.
+
+When it comes to networking security, you need the ability to audit everything across your entire fleet of cloud vendor usage. This is a lot easier if manual changes are restricted, because if people can manually open ports, that may leave them vulnerable and open to attack. Essentially, follow the Principle of Least Privilege and avoid manual access management to limit security flaws. Static code analysis solutions and automated security testing tools are also a must.
+
+Related Article: The Cloud Is Evolving Faster Than Cloud Security
+
+Stay Away from Vendor-Specific Tools
+
+Any respectable IaaS cloud vendor is going to offer base-layer services: networking, virtual machines, storage solutions. These common layers tend to work the same way, no matter which vendor you choose. However, cloud platforms will often not support tools that are tied to specific vendors, which is one of the main reasons to avoid vendor lock-in when forming a multi-cloud strategy.
+
+Terraform, for example, is a widely used infrastructure-as-code tool. The alternatives to this are Azure Templates, AWS Cloud Formation or Google’s GCP Deployment manager, all of which are too opinionated for a multi-cloud setup. Terraform, however, is most likely to support the particularities of every cloud provider. Tools for orchestration engines, messaging queues and every cloud service out there each have their open-source, vendor-agnostic alternatives, which are far more preferable in a multi-cloud strategy.
+
+Another reality of managed services is the fact that they might be out of date. A good example of this would be the top vendors’ managed Kubernetes services, as they have been, on occasions, up to a year behind the Kubernetes project. This means they would also be behind with security patches, so users aren’t safe against the newer exploits that pop up each day. This is another dire consequence of vendor lock-in.
+
+While vendors will offer to manage services for you, the danger is you become more dependent on them in the process. When you’re locked to a specific vendor in this way, you’re locked into its security flaws, its billing model, and tied into whatever that vendor wants to do. The question to ask yourself is: do you trust that vendor enough to be so dependent on it?
+
+Related Article: Why Portability and Interoperability Matter in Hybrid Cloud Environments
+
+Consider Machine Learning and AI for Future Innovations
+
+While the use of machine learning and AI in multi-cloud strategies is still fairly nascent, it’s worth considering as part of a forward-thinking strategy.
+
+I recommend thinking of infrastructure as a producer of data, meaning you would need telemetry everywhere in order to make the most out of it. Then, bring that onboard a big-data mindset to leverage possible ML/AI approaches. By saving that data, a data scientist could find insights and generate models that could automate the operation to a certain degree, revealing more effective ways to run the operation.
+
+Let’s say you have a multi-cloud Kubernetes cluster with several vendors. A good use case for ML/AI in this scenario would be to first generate data on the operation of those clusters to determine when they should scale up against criteria such as pricing or CPU load. That data can be used to create data models for AI/ML tools that could begin to predict when to scale up or down.
+
+Multi-cloud adoption is about eliminating vendor-lock in, guaranteeing service availability, and reaching operational standards that are not achievable with only one vendor. By implementing a responsible multi-cloud strategy, handled by a knowledgeable team, organizations will soon see the benefits of a cloud-agnostic approach for themselves.

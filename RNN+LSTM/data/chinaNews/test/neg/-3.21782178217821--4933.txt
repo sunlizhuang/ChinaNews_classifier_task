@@ -1,0 +1,80 @@
+
+
+3 Ways Agent Experience is Boosting Customer Experience
+
+Join NICE inContact in a webinar with agent experience expert Lori Bocklund of Strategic Contact where we discuss how you can empower your agents to provide a 5-star experience to every customer.
+
+Watch Now »
+
+China has issued an order that all foreign-made computer equipment and software be removed from government offices and public institutions within the next three years.
+
+The news of Beijing's move came earlier this week in a report from the Nikkei-owned, London-based Financial Times.
+
+China has estimated that upwards of 30 million pieces of hardware will need to be replaced, the paper noted.
+
+This is just the latest salvo in the ongoing trade war between the United States and China, the world's two largest national economies. It began last year when President Donald J. Trump began to set tariffs and other trade barriers on China. The goal of the White House's policy was to address what the president has called "unfair trade practices," which included a growing trade deficit, theft of intellectual property, and the forced transfer of American tech to China.
+
+This latest round has been dubbed a "tech cold war," as China now has banned the use of U.S. tech in government facilities, which could be a response to the Trump administration's ban on the use of Chinese-made hardware by U.S. government agencies and government contractors.
+
+The White House this summer banned all federal agencies from doing business with Huawei, ZTE, Hytera, Hikvision and Dahua over fears that the companies could plant surveillance devices and gather sensitive information -- including U.S. trade secrets -- and supply that information to the Chinese government.
+
+The order from the White House came a year before the Congress-mandated deadline of next August for all federal contractors to cease business with those Chinese firms. A number of U.S. companies, such as Google, Intel and Qualcomm, announced they would cease working with Huawei.
+
+The Office of Management and Budget this summer released a statement on its strong commitment to defending the United States from foreign adversaries, including with respect to guarding trade secrets. Legislation aimed directly at Chinese tech companies was included in the defense spending bill passed last year.
+
+China's ban could impact such U.S. multinational firms as Dell, HP and Microsoft.
+
+21st Century Haijin
+
+This ban on U.S. computer products could be viewed as a modern version of the "Haijin," or sea ban -- a series of isolationist Chinese polices that began in the 14th century under the Ming dynasty, with the goal of putting an end to Japanese maritime piracy. It was applied again under the Qing Dynasty beginning in the 17th century, limiting maritime trading and coastal settlement, but that eventually led to smuggling -- including the illicit opium trade -- and then to conflicts with Great Britain and other European powers.
+
+While the intent of Haijin largely was to reduce outside influence, China never completely closed itself to the West or to Western goods.
+
+China's current ban on foreign products should not be viewed as isolationist in its intent, but rather as a direct result of the trade war. It also could be a way to build up the "home team" companies in China.
+
+Lenovo is one such company that could benefit from the move, as it could be among the firms called upon to replace Western hardware.
+
+Other firms likely will be hurt by not being able to offer products to Western markets.
+
+"China's response could very well be seen as a tit-for-tat response," remarked Javvad Malik, security awareness advocate at KnowBe4.
+
+"The move illustrates just how important and integral to everyone's life technology has become, to the point that it is used as a political bargaining tool," he told TechNewsWorld.
+
+Tech Cold War
+
+The question now is whether this is just the latest round of salvos in the ongoing trade war, or whether this ban on Western hardware could result in a very serious tech cold war -- one that might not be resolved quickly, or even ever.
+
+"At this point it's hard to tell whether it represents a serious tactical decision by China's government or is merely a strategic feint aimed at President Trump's bellicose attempts at trade warfare," said Charles King, principal analyst at Pund-IT.
+
+"The gradual implementation of the plan, with 30 percent of U.S. hardware replaced by the end of next year, could be easily rescinded if the president loses his bid for re-election or leaves office prior to November," he told TechNewsWorld.
+
+Government purchasing represents just a tiny portion of overall tech spending in China, so this may not have a huge impact for U.S. tech companies. It may not affect some U.S. tech companies directly or indirectly.
+
+"It's also unclear -- since the Chinese haven't officially responded to queries -- how 'U.S. tech company products' are defined," added King.
+
+"That is, does it mean literally any product made by any IT vendor headquartered in the U.S.?" he pondered. "Or does it refer to products manufactured in the U.S. by those vendors?"
+
+If the former is the case, then achieving the plan's stated goals could be difficult, since China still has a way to go before it is able to develop and deliver hardware and software that equals, let alone surpasses, the quality of U.S. technologies.
+
+New Operating System
+
+Given the state of China's tech industry, moving to domestically sourced hardware exclusively would not be without problems for the country. Computer hardware would need to be replaced, of course, but a bigger issue is that the ban could require replacing Microsoft, Apple and Google software.
+
+China's software industry trails the United States, and it is unclear if it could develop operating systems and applications comparable to those available from American firms, or provide the related services to support them.
+
+"While current products may not be a perfect feature-by-feature fit, there definitely are more than enough homegrown offerings and talent available to have a viable alternative product," said KnowBe4's Malik.
+
+For U.S. firms, China's move might be far less significant.
+
+"The effect of the ban would be relatively benign if it only impacts U.S.-manufactured solutions, since virtually every major U.S. IT vendor supports global supply chains with manufacturing performed in multiple facilities outside the U.S.," explained King.
+
+"If that's the case, vendors could easily find ways to continue doing business that wouldn't violate the spirit of the ban," he noted.
+
+A Less-Connected World
+
+The lasting impact of this 21st century Haijin may be more serious than whether U.S. tech products are sold and used in China, or whether Chinese hardware is used in the West. It could trigger a complete disconnect in the digital world. China may not become completely isolated, but it could become far more difficult to make digital connections with people in China.
+
+"If this trend continues and more countries take to blocking technology, apps or services from certain countries, we could end up with a highly fragmented or Balkanized Internet," Malik warned, "which could undo much of the progress that has been made over the years."
+
+Peter Suciu has been an ECT News Network reporter since 2012. His areas of focus include cybersecurity, mobile phones, displays, streaming media, pay TV and autonomous vehicles. He has written and edited for numerous publications and websites, including Newsweek, Wired and FoxNews.com. Email Peter.
+

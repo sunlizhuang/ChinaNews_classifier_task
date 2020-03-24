@@ -1,0 +1,41 @@
+Visitors learn about the future applications of the combination of 5G and blockchain technology at a recent industrial expo in Hangzhou, Zhejiang province. [Photo by Long Wei/For China Daily]
+
+Wealth, talent pour in as strong government support for technology, industrial innovation accelerates development of sector
+
+China is bullish on the blossoming blockchain sector, seeing it as the next frontier for national competitive advantages as well as a digital future.
+
+As one of the first major countries to acknowledge the potential of the blockchain technology, China is ramping up efforts to push toward global dominance over blockchain, the underlying technology behind digital currencies like bitcoin and a wide range of applications.
+
+The country is moving rapidly ahead in constructing a robust blockchain network, as President Xi Jinping highlighted the key role of blockchain technology in the new round of technological innovation and industrial transformation last October, urging more efforts to accelerate the development of blockchain technology and industrial innovation.
+
+Xi's speech unleashed a wave of activity and now the country is in the midst of a blockchain boom.
+
+Experts and entrepreneurs believe the government's strong support for blockchain technology will boost the future development of the sector, but cautioned that it is necessary to be rational and not hype the concept.
+
+Combining the application of distributed data storage, encryption algorithms and other advanced technologies, blockchain offers an open and decentralized database of any transaction involving money, goods and property among others. It provides a high level of security by creating a record whose authenticity can be verified by the whole community.
+
+Wei Kai, deputy director of the Cloud Computing and Big Data Research Institute of the China Academy of Information and Communication Technology, said as wealth and talent pour into the blockchain sector, the technology will be applied to a wide range of real-world scenarios.
+
+"The government's strong support will further standardize and develop blockchain in China. The development of blockchain will also empower the financial sector and the real economy, as it will help improve efficiency, reduce operating costs and build a more efficient credit system," Wei said at the recent Trusted Blockchain Summit 2019 in Beijing.
+
+Wei noted that blockchain technology will be a new frontier of innovation in various fields, including cross-border payments, global trade, logistics, supply chain, finance, government affairs, intellectual property protection, food traceability and invoicing.
+
+In fact, China is at the forefront globally in terms of blockchain development, as the country is leaping ahead in terms of blockchain patent filings, said a recent report released by the China Academy of Information and Communication Technology.
+
+As of July 25, 2019, there were more than 18,000 blockchain patent applications globally, of which China accounted for more than a half of the total. Among the top 20 global corporate applicants, Alibaba and China Unicom have gained the top spot and fifth place respectively.
+
+The report showed 2,450 blockchain companies had been set up globally as of August 2019, mainly in the fields of cryptocurrency and blockchain technology research and development. The United States topped all other countries in terms of the number of blockchain companies, followed by China and the United Kingdom.
+
+The blockchain boom is sweeping across the whole nation. As of May 2019, more than 30 provinces, municipalities and autonomous regions had issued guidance to develop blockchain technology, such as Beijing and Shanghai, as well as Guangdong, Jiangsu and Guizhou provinces, said the report.
+
+"The major reasons for the emergence of this new technology were to solve the trust problem between multiple agents, reduce costs for communication and improve efficiency for collaboration," said Wei from the CAICT.
+
+However, Wei noted that blockchain technology is at an early stage of development.
+
+"We still face problems such as the lack of supervision, immature technologies and the hiatus between demand for, and supply of, blockchain talents," Wei added. "As we are driving to a blockchain future, we need to stay rational and not hype the blockchain concept. Not all scenarios require blockchain, and we should find the right direction."
+
+China's blockchain spending is estimated to see rapid growth in the coming years, according to a recent report by global research firm IDC.
+
+Over the forecast period from 2018 to 2023, China will contribute about 68 percent of all blockchain spending in the Asia-Pacific region, the report said. In particular, the country will see a compound annual growth rate of 65.7 percent during the period, while the Asia-Pacific region records 50.3 percent.
+
+Jeff Xie, senior market analyst at IDC Asia-Pacific, said the adoption rate of blockchain technology has been growing at a steady pace.

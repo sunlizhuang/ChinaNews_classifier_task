@@ -1,0 +1,17 @@
+Nobody is surprised by data leaks anymore, but we've reached a point now where personal details are being compiled and shared worldwide for free.
+
+As The Register reports, a security researcher who goes by the Twitter name @Lynx0x00 discovered a publicly available database located on a computer with a Chinese IP address. There's nothing strange about that until you learn about the contents. In total, the database holds the personal details of 56.25 million US residents and is 22GB in size.
+
+The information includes each person's name, home address (past and present), phone numbers, age, and relatives. The computer storing this database is located in the Hangzhou region in east China and hooked up to the internet via Alibaba's web hosting service.
+
+We don't know why this database is out in the open and on a Chinese computer, but we do know where the database originates from. The treasure trove of personal information has been traced back to CheckPeople.com, which is a company located in Florida specializing in helping you, "easily locate public records and criminal records, with one, easy-to-use platform."
+
+Of course, CheckPeople charges a fee for their people search service, but clearly you don't need to pay it if the company's entire database is now hosted in China.
+
+The Register has attempted to make contact with CheckPeople several times, but so far call center staff have been unhelpful and emails ignored. If and when CheckPeople does respond, it will hopefully be swiftly followed by emails being sent out to everyone the company counts as a customer as well as anyone who's personal details they've compiled.
+
+Further Reading
+
+Security Reviews
+
+Security Best Picks

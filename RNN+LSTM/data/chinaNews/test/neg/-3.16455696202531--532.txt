@@ -1,0 +1,33 @@
+Facebook says technical error caused ‘shithole’ translation for Xi Jinping
+
+Reuters, YANGON, Myanmar
+
+
+
+
+
+Facebook on Saturday blamed a technical error for Chinese President Xi Jinping’s (習近平) name appearing as “Mr Shithole” in posts on its platform when translated into English from Burmese, apologizing for any offense caused.
+
+The error came to light on the second day of a visit by Xi to the Southeast Asian country, where Xi and Burmese State councilor Aung San Suu Kyi signed dozens of agreements covering massive Beijing-backed infrastructure plans.
+
+A statement about the visit published on Aung San Suu Kyi’s official Facebook page was littered with references to “Mr Shithole” when translated to English, while a headline in local news journal the Irrawaddy appeared as: “Dinner honors president shithole.”
+
+Chinese President Xi Jinping attends a welcoming ceremony for Qatar’s Emir Sheikh Tamim bin Hamad Al Thani at the Great Hall of the People in Beijing on Jan. 31 last year. Photo: Reuters
+
+It was not clear how long the problem lasted, while Google’s translation function did not turn up a similar error.
+
+“We fixed a technical issue that caused incorrect translations from Burmese to English on Facebook. This should not have happened and we are taking steps to ensure it doesn’t happen again. We sincerely apologize for the offense this has caused,” Facebook said in a statement.
+
+The Facebook system did not have Xi’s name in its Burmese database and guessed at the translation, the company said.
+
+Translation tests of similar words that start with “xi” and “shi” in Burmese also produced “shithole,” it added.
+
+The Chinese Ministry of Foreign Affairs declined comment.
+
+Facebook is blocked in China. However, it is not blocked in Hong Kong and mainland companies advertise elsewhere on the platform, making China Facebook’s biggest country for revenue after the US.
+
+It is setting up a new engineering team to focus specifically on the lucrative Chinese advertising business.
+
+Facebook has faced numerous problems with translation from Burmese in the past.
+
+In 2018, it temporarily removed the function after a report showed that the tool was producing bizarre results.

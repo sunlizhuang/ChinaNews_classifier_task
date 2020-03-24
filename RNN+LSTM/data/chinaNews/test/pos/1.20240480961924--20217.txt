@@ -1,0 +1,35 @@
+The computer that will be available in the coming decades will have nothing to do with the one you are using to read this story.
+
+In January 2019, IBM released a quantum computer located in a water resistant box, refrigerated at -273 degrees Celsius in an environment free from electromagnetic radiation or vibration. The company’s computer is powered by 20 qubits (quantum bits) which is different from the binary unit (0 and 1) used by today’s machines. Quantum technologies used in these futuristic computers are based on the laws of quantum physics which allow the multiplication of number of states a storage unit can take. It means that qubits, like electrons, can take different states at the same time as they have the capacity to overlap and interact between them (such capacities are defined as the principles of “superimposition” and “entanglement”) hence allowing the computing capability to be multiplied. Only a few quantum bits are sufficient to reach considerable calculation capacities.
+
+Days after IBM’s announcement, Google disclosed it has reached “quantum supremacy” using a similar computer capable of resolving a problem in only 3.20 minutes whereas a classical machine would have done it in 10 000 years. Quantum physics and laws discovered around 1900 enabled us to develop technologies which were integrated in many devices such as in the atomic clock (used for satellites), the Global Positioning Systems (GPS), the Light Amplification by Stimulated Emission of Radiation (Laser) or even the famous transistor, all of these inventions which represent the first quantum Revolution.
+
+The second Revolution to come is all about capabilities that these technologies would bring to nations in a mid-term future, depending on the level of investment made by government in the research sector. Many nations are increasing their funds towards the quantum field. The United Kingdom and the Netherlands pushed for a £600mn and €150mn investment in a 10 year term, Germany voted a €650mn budget to be spread over 4 years, the USA have billed for $1bn to be invested in 5 years and China is said to have injected billions in such technologies almost ten years ago. On its side, the European Union has launched the “FET Flagship” in 2018 after 3 000 influential members of the scientific community pushed the commission to take a decision on the matter. It is €1bn which is to be invested by the EU for a 10 year plan to develop quantum technologies.
+
+The voted budget will be invested in 4 distinct categories, first in quantum computing, with quantum calculus power and speed multiplied tenfold thanks to the principle of superposition. Second is quantum simulation to reproduce in a simplified manner, the quantum interactions between atoms within molecules, third in quantum communication in order to be able to interact through ultra-secured quantum platforms, last in quantum sensors which would enable industrial and fundamental research applications.
+
+If these technologies get more and more interest from worldwide governments it is because their development in the long run could heavily impact the military, industrial, medical and civil sectors. Quantum computing as we saw with IBM and Google’s recent machines are already surpassing today’s computer capacities. They should succeed in developing new methods of machine learning, optimization of algorithms, or computing capacities. If Alan Turing’s computer took several years to successfully decrypt enigma’s codes during the Second World War, quantum computers will render encryption inviolable and will surely take seconds to break today’s best secured systems.
+
+Quantum simulation will enable researchers and analysts to exploit properties related to matters touching the infinitely small such as atoms, ions, photons or electrons.
+
+Quantum communication will enable governments to exchange information in a secured manner from two distant points. It was already the case in 2016 when Beijing launched “Micius”, a geostationary satellite which had set the first quantum communication line between two points, hence securing military messages. China has a plan to develop a quantum communication web by 2030 and seems to be the country at the forefront of these developments.
+
+Last, quantum sensors will facilitate the manipulation of isolated atoms to enable precise measurements. Such resources would help the development of more accurate radars as well as new systems for Magnetic Resonance Imagery (MRI) systems used in the medical field.
+
+The quantum technologies race has already started and could lead to small revolutions in several sectors such as maritime and aerial traffic optimization, internet recommendations or accurate medical diagnostics. If governments seem to invest more in this field, startups and private developers are already trying to mix today’s resources with quantum technologies in a hybrid manner in order to reach even better performances.
+
+Some of the main defence applications of quantum sensors include:
+
+Navigation: On-board accelerometers, magnetometers and quantum gravimeters could offset the dependency of critical navigation systems on GPS satellite signals, which can be jammed or usurped by an attacker, rendering navigation systems unusable. A plane could make a transoceanic flight and arrive at its destination with an accuracy of a few meters without using GPS signals. Quantum navigational sensors accurately measure variations in certain physical properties of the earth (electromagnetic fields, gravitational fields, etc.) for which very high definition cartography is available, allowing them to position themselves accurately without the use of external elements such as satellites. Navigation sensors can be based on either laser-cooled atoms or impurities in diamond.
+
+Electromagnetic Interception: Sensors based on impurities in diamonds could make it possible to carry out spectral analysis of electromagnetic signals of several orders of magnitude finer than the current technologies. In the context of electronic warfare and eavesdropping on radio-frequency signals, these devices could multiply the performance of the interception systems.
+
+Remote sensing: Quantum radar is an emerging remote sensing technology based on quantum illumination. If developed successfully, it will make it possible to detect stealthy aircraft, filter attempts of deliberate interference and to operate in areas with high background noise.
+
+
+
+
+
+
+
+Written by ADIT – The Bulletin and republished with permission.

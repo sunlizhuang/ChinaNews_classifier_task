@@ -1,0 +1,9 @@
+Last year we saw the debut of the first 5G smartphones on the market. Although for now, this type of connectivity can be used in a few and designated places. Gradually the coverage of 5G is increasing, as well as the number of compatible devices with it. This year, the mid-range segment will begin to get the new generation network. The Redmi K30 5G and the Realme X50 5G are the first examples, but they will not be the only ones, at least according to Chinese analysts, who say that this year, 1 of 5 mid-range phones will be 5G compatible.
+
+In the high range we still not seeing a 100% acceptance rate for this technology, but for now we know that if manufacturers decide to adopt the Qualcomm Snapdragon 865 as their processor, their devices will have 5G connectivity. In the middle range, the thing is different, because right now there are very few processors compatible with this technology.
+
+5G will become popular in mid-range smartphones during 2020
+
+Currently, there are a few 5G processors oriented to the mid-range in the market. These are Qualcomm Snapdragon 765, MediaTek Dimensity 1000L and Samsung Exynos 980. We have already seen the first two implemented in some devices. The first of them, in the Redmi K30 5G and in the realme X50 5G. In addition to that of MediaTek in Oppo Reno 3. Despite this, we do not rule out that we can see more 5G compatible processors this year. Especially because Chinese analysts say that 20% of mid-range phones will have 5G this year.
+
+It must be understood that a phone that has 5G connectivity does not mean that it will have stratospheric speeds. Each processor has speed limits for this connectivity and mid-range phones will not reach maximum speeds as high as high-end phones. Despite this, the speeds we will receive in a 5G device will be higher than those we will have in 4G under similar coverage conditions.

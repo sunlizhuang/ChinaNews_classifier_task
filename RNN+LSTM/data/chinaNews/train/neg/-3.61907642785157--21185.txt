@@ -1,0 +1,69 @@
+State public health leaders issued guidance to doctors Thursday due to concern about the potentially deadly coronavirus.
+
+BOSTON - The risk to Massachusetts residents is low, but all health care providers must be on alert for the potentially deadly coronavirus.
+
+That message was delivered Thursday by the state Department of Public Health, including information on what doctors should do if patients exhibit possible symptoms of the virus.
+
+Initially detected in December in Wuhan, China, the virus has spread to other parts of Asia, with the first confirmed case in the U.S. announced this week.
+
+Deaths in China
+
+Eighteen deaths in China are linked to the outbreak, with more than 600 cases reported.
+
+The virus is spreading.
+
+// // (function() {'use strict';window.addEventListener('message', function(event) {if (typeof event.data['datawrapper-height'] !== 'undefined') {for (var chartId in event.data['datawrapper-height']) {var iframe = document.getElementById('datawrapper-chart-' + chartId) || document.querySelector("iframe[src*='" + chartId + "']");if (!iframe) {continue;}iframe.style.height = event.data['datawrapper-height'][chartId] + 'px';}}});})(); //
+
+A Washington state resident who traveled to Wuhan contracted it, according to the Centers for Disease Control & Prevention. Confirmed cases have also been reported in Japan, Thailand and South Korea.
+
+Health officials are concerned about the risk of more cases, because millions of people will travel across Asia this weekend to celebrate the Lunar New Year.
+
+A seafood market in Wuhan is the origination point, according to health officials, and Chinese authorities have confirmed human transmission.
+
+What is coronavirus?
+
+Coronavirus is in the same family of viruses that cause the common cold, pneumonia, Middle East respiratory syndrome (MERS) and severe acute respiratory syndrome (SARS). Common symptoms include fever, cough and shortness of breath. Severe cases can lead to pneumonia, SARS, kidney failure and death.
+
+“It’s a rapidly changing situation,” said Dr. Michael Newstein, infectious disease physician at Milford Regional Medical Center.
+
+Emergency room staff at Milford Regional are on alert, and if patients experience symptoms potentially connected to the virus, they're asked about their travel history and whether they’ve visited a high-risk area in the past 14 days.
+
+Diagnosis could result in placing the patient in isolation, and the attending physician will immediately contact the state Department of Public Health.
+
+“There are appropriate public health approaches in place should (coronavirus) spread,” Newstein said. “It’s not a risk to people in this area.”
+
+MetroWest Medical Center, with hospitals in Framingham and Natick, sent emails to doctors within its network about the coronavirus after the CDC started issuing alerts last week.
+
+Dr. Jungwon Yoon, an infectious disease specialist at MWMC, said center staff will participate in information sessions to make sure everyone is on the same page for proper diagnosis and treatment.
+
+With more than 600 cases in China, there is the potential for increased transmission, Yoon said. She recommended anyone experiencing symptoms to wear a mask to cover their mouth, and see a doctor immediately.
+
+"Hopefully, we can prevent transmission," Yoon said.
+
+Logan screening
+
+Passengers on a flight from China were screened by health officials Wednesday night at Logan Airport.
+
+"Out of an abundance of caution, Massport Fire Rescue, in coordination with local and federal partners, did additional screening for a number of passengers on the arriving Cathay Pacific flight. None had any symptoms and continued on their trip," a Massachusetts Port Authority spokeswoman said of a flight reportedly arriving from Hong Kong.
+
+CDC staff is screening passengers arriving from Wuhan, both direct and connecting flights, at three of the nation’s biggest airports – Los Angeles International, John F. Kennedy International and San Francisco International. Nearly 75% of passengers arriving in the U.S. from the Hubei Province, where Wuhan is located, land at those airports.
+
+Screening will start in the next few days at Hartsfield-Jackson Atlanta International Airport and Chicago's O'hare International, the CDC said.
+
+Ground rules
+
+
+
+On Thursday, the DPH announced ground rules for doctors treating patients suspected of having symptoms that could be linked to coronavirus.
+
+Patients should wear a surgical mask if they recently traveled to Wuhan and experience fever, shortness of breath and cough, or came into contact with a known coronavirus patient. Evaluation should happen in a private room, ideally an airborne isolation room, with the door closed.
+
+Standard precautions should be followed, and doctors should wear eye protection, like goggles or a face shield.
+
+After evaluation, physicians should contact DPH for additional guidance, especially in cases of specimen collection. All transporting of specimens will be handled by the State Public Health Laboratory Transporting.
+
+Henry Schwan is the health reporter for the Daily News. Follow Henry on Twitter @henrymetrowest. He can be reached at hschwan@wickedlocal.com or 508-626-3964.
+
+State House News Service reporter Colin Young contributed to this report.
+
+// // (function() {'use strict';window.addEventListener('message', function(event) {if (typeof event.data['datawrapper-height'] !== 'undefined') {for (var chartId in event.data['datawrapper-height']) {var iframe = document.getElementById('datawrapper-chart-' + chartId) || document.querySelector("iframe[src*='" + chartId + "']");if (!iframe) {continue;}iframe.style.height = event.data['datawrapper-height'][chartId] + 'px';}}});})(); //

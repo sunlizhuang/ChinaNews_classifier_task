@@ -1,0 +1,23 @@
+Google did not respond to a request for comment.
+
+The removals announced Friday illustrate the fast-evolving, increasingly complicated task social media giants face in battling back viral falsehoods, fake accounts and other troublesome content on the web.
+
+More malicious actors now seek to manipulate conversations online using new, sophisticated techniques, just four years after Russian agents weaponized Facebook, Google and Twitter to undermine the 2016 presidential race.
+
+To that end, Facebook and Twitter also announced a slew of additional enforcement actions on Friday targeting co-ordinated, inauthentic behaviour originating out of countries such as Georgia and Saudi Arabia.
+
+"We are making progress rooting out this abuse," Facebook's Gleicher said. "But as we've said before, it's an ongoing challenge."
+
+News outlets and researchers had raised alarms about the BL for months, pointing to its suspicious tactics and the possibility it had created fake accounts to amplify pro-Trump messages.
+
+Snopes, in particular, linked the organization with the Trump-leaning Epoch Media Group, though officials there at the time denied it. Facebook on Friday affirmed the connection.
+
+Pages tied to BL posted a wide array of content, experts said, including clickbait about animals and politically hostile posts about the Chinese government. But English-language pages associated with the organization "focused heavily on positive coverage" of Trump, while attacking his critics, as well as the researchers at Graphika and DFR Lab. Fake accounts ran many of the pages and initiated many of the engagements with the posts, photos and other content.
+
+Some of those fake accounts relied on AI tools and technology to create pictures of people who do not exist — fake photos that, while believable, still contained quirks that helped Facebook and its researchers spot them. Others blatantly stole photos from real users, researchers said. And the fake accounts may have relied on publicly available technology to publish their posts, tweets and other content in batches, amplifying their reach.
+
+Before imposing the ban Friday, Facebook had started taking action against the network's advertising: Over the summer, for example, it removed an ad that included a video of Trump decrying "fake news" and asking users to text "MAGA" to a listed number to get "FREE real news." But limiting the group's advertising did little to arrest the circulation of its content on social media.
+
+The "About us" page for the BL offered insight into how the site presented itself to Facebook users. It said the group's mission was to "present to the world the most beautiful aspects of life." And it presented itself as a bulwark of trust in a moment of suspicion about information and how it is consumed.
+
+"Inaccurate and degenerate information can be easily channeled toward vulnerable or uninformed people," its since-disabled page read, "creating a vicious cycle of misinformation."

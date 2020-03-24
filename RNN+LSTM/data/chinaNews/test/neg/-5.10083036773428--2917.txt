@@ -1,0 +1,61 @@
+Image: TikTok
+
+Security researchers found several vulnerabilities within TikTok’s infrastructure that made it possible for potential attackers to hijack accounts to manipulate users' videos and steal their personal information.
+
+TikTok is a social media platform owned by Beijing-based ByteDance, with offices around the world, servers based in the countries where its iOS and Android apps operate, and it is used for sharing short-form looping mobile videos of 3 to 60 seconds.
+
+The platform's Android app currently has over 500,000,000 installs according to Google Play Store stats and has crossed the 1.5 billion installs mark on all mobile platforms during November 2019 according to Sensor Tower Store Intelligence estimates.
+
+TikTok's applications and its backend were vulnerable to attacks as Check Point researchers state in a report shared with Bleeping Computer earlier this week.
+
+The security issues were disclosed to ByteDance during late November, with the company fixing the vulnerabilities within one month.
+
+"Data is pervasive but data breaches are becoming an epidemic, and our latest research shows that the most popular apps are still at risk," Check Point’s Head of Product Vulnerability Research Oded Vanunu said.
+
+"Social media applications are highly targeted for vulnerabilities as they provide a good source for private data and offer a good attack surface gate."
+
+TikTok's vulnerable SMS system
+
+TikTok's SMS system allowed the Check Point research team to manipulate account data by adding and deleting videos, to demonstrate privacy encroachment issues by changing video privacy settings from private to public, and to exfiltrate personal user data including full name, email address, and birthday.
+
+As shown by Check Point Research, attackers could have exploited these vulnerabilities via TikTok's SMS system to:
+
+• Upload unauthorized videos and deleting users' videos
+
+• Move users' videos from private to public
+
+• Steal sensitive personal data
+
+To be able to perform these malicious actions, hackers could send app download links to any user's phone number via text messages by impersonating TikTok which allowed them to inject and execute malicious code.
+
+Additionally, attackers could redirect TikTok users onto a web server they controlled using the same tactic controlled thus making it possible for the hackers to send unwanted requests on behalf of their victims.
+
+Potential attackers could have used "the same technique to redirect a victim to a malicious website under the guise of tiktok.com," Check Point Research also found.
+
+"The redirection opens the possibility of accomplishing Cross-Site Request Forgery (CSRF), Cross-Site Scripting (XSS), and Sensitive Data Exposure attacks without user consent."
+
+TikTok Security Team's Luke Deshotels said that "TikTok is committed to protecting user data. Like many organizations, we encourage responsible security researchers to privately disclose zero day vulnerabilities to us.
+
+Before public disclosure, CheckPoint agreed that all reported issues were patched in the latest version of our app. We hope that this successful resolution will encourage future collaboration with security researchers."
+
+TikTok now banned on U.S. military phones
+
+Check Point Research's disclosure comes right after U.S. military branches including the Army, Navy, Marine Corps, and Air Force banned the Chinese-owned TikTok app from soldiers' government-issued smartphones.
+
+"It is considered a cyber threat," Army spokeswoman Lt. Col. Robin Ochoa said according to a Military.com report from December 30. "We do not allow it on government phones."
+
+The new guidance advises all Defense Department employees to also "be wary of applications you download, monitor your phones for unusual and unsolicited texts etc., and delete them immediately and uninstall TikTok to circumvent any exposure of personal information."
+
+The Army's decision followed a letter sent by U.S. Senators Chuck Schumer and Tom Cotton in October "to the Acting Director of National Intelligence requesting an assessment of the national security risks posed by TikTok and other China-based content platforms operating in the U.S."
+
+Navy/Marine Corps Intranet (NMCI) user awareness bulletin banning TikTok
+
+Schumer also published a statement after Reuters reported that the U.S. government started an investigation on TikTok-owner ByteDance’s acquisition of the U.S. social media app Musical.ly from November 2017 for potential national security risks.
+
+In his statement, Schumer said that the national security probe into TikTok validates the senators' concern that "that apps like TikTok [..] may pose serious risks to millions of Americans and deserve greater scrutiny."
+
+Vanessa Pappas, TikTok US' General Manager responded to these accusations via multiple posts on the company's newsroom saying that TikTok stores "all TikTok US user data in the United States, with backup redundancy in Singapore.
+
+Our data centers are located entirely outside of China, and none of our data is subject to Chinese law," she said in late October.
+
+One month later, Pappas reiterated that "TikTok’s data centers are located entirely outside of China." She also stated that the company has "a dedicated technical team focused on adhering to robust cybersecurity policies, and data privacy and security practices."

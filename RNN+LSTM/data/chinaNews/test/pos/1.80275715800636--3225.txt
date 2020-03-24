@@ -1,0 +1,31 @@
+Under the direction of the National Health Commission (NHC) of China and led by China-Japan Friendship Hospital-National Telemedicine and Connected Health Center-National Primary-care Telemedicine Development Center, more than 30 hospitals and China Association of Medical Equipment (CAME) have joined forces with China Telecom, China Mobile, China Unicom, and Huawei to release China's first 5G Hospital Network Standard in 2019 October.
+
+Collaboration Facilitates New Development in the Healthcare Sector
+
+What essentially tells apart Internet healthcare, Internet treatment, and telemedicine? Lu Qingjun, Director of the National Telemedicine and Connected Health Center, gave his answers by referring to related government documents. "Put simply, telemedicine is collaboration and consultation across medical institutions to share medical resources.
+
+Internet treatment is self-service consultation (usually at home) after initial consultation. Patients decide by themselves if they need to visit a hospital again at all, or if they can go to another hospital nearby. An Internet hospital is needed when primary care institutions cannot handle patients requesting further consultation and invite other hospitals for help over the Internet. There must be tangible medical institutions to support Internet hospitals in terms of standards, positioning, and functionality."
+
+5G Unleashes Possibilities for More Internet Healthcare Applications
+
+What technologies are required for telemedicine? What will 5G bring to telemedicine applications? Lu Qingjun analyzed these two questions through a 2017 consultation case from Singapore: "The more critical an illness is, the more frequent monitoring is required and the more data are generated. Furthermore, the treatment of a critical illness requires the involvement of medical specialists and multidisciplinary experts. Real-time transmission of large amounts of data becomes the biggest challenge. In 2017, respiratory specialists from China and Japan were invited to a telemedicine meeting in Singapore that involved lung failure. Between 8:00 a.m. and 7:00 p.m., 12 GB of medical records could not be sent over the Internet. As a result, engineers had to use a cloud drive to store and then retrieve the data between 7:00 p.m. and 7:00 a.m the next day. These wasted hours could be excruciating for the patient. In this sense, 5G is key to save lives."
+
+Online training is another typical application of 5G in telemedicine. Economical training systems intended for a large audience can be provided to hospitals. 5G with massive connectivity, high bandwidth, and high reliability delivers live broadcasting of HD videos, download of large volumes of data, and isolation of data inside and outside of hospitals.
+
+As Lu Qingjun said, "We believe 5G will greatly simplify healthcare. Currently, hospital coverage is provided by indoor wireless systems or outdoor base stations. We have already experienced how powerful and quick 5G can be, yet there is more to make of 5G. We have not yet tapped into edge computing and network slicing, and we cannot tell just how stable 5G deterministic networks can be. If we incorporate these applications too, hospitals will have the most complete 5G application scenarios of all. This is because hospitals are the forefront of industrial and public applications, and 5G integration with industrial applications is required in terms of equipment, personnel, and service processes. 5G networks today are not deterministic enough for us to invest on high-risk applications; however, hospitals can be the ideal trial scenario as new technologies are introduced. Collaborated development of applications between the medical and industrial sectors is easier than with other sectors. Such a practice can also slash the total social costs of 5G construction."
+
+Promote the Development of Smart Hospitals with High Quality and Security
+
+Telemedicine requires high-quality and standardized networks. Hospitals must strictly comply with unified standards in 5G construction. On the one hand, a telemedicine app must be able to interconnect across hospitals efficiently and deterministically. On the other hand, the total costs incurred in 5G network design, construction, and commissioning for different hospitals must be reduced.
+
+In September 2019, China officially started the promulgation of 5G hospital network standards. In mid-October, standards concerning the radio access network (RAN) were released. However, a challenge surfaced as to how we can effectively fulfill these standards. As Lu Qingjun said, "A 5G network consists of the core network and the RAN, sometimes even mobile edge computing (MEC). By implementing these standards, we have divided 5G construction into three phases. In phase one, we define the RAN standards. In phase two, we promote the introduction of MEC and research low-latency applications and standards. In phase three, we will research high-reliability healthcare applications and standards based on findings in 5G backbone network and network slicing technology.
+
+Standards must be in position to resolve telemedicine interconnection across hospitals, and to unify 5G construction and guide hospitals to configure technological standards based on applications. In addition, standards facilitate network deployment in phase one, reducing costs in subsequent operation, maintenance, and testing.
+
+To further the project, each participant hospital has assigned one or two experts to form the 5G Healthcare Network Construction Committee. Applications vary in technological standards. Technological data can be tested in practice to later serve as a reference for evaluating the quality of telemedicine. Hopefully, standards in terms of MEC, 5G modules, and deterministic network slicing can thrive on the basis of telemedicine. Our vision is a new Internet-based healthcare model which will be of great significance to the construction of hospital networks."
+
+This First Gigabit Ethernet Industry Standards Forum was sponsored by the Ministry of Industry and Information Technology (MIIT) and organized by the Telecommunication Development Industry Alliance (TDIA) and China National Postal and Telecommunications Appliances Corporation (PTAC).
+
+This content is sponsored by Huawei.
+
+Huawei Technologies Co. Ltd

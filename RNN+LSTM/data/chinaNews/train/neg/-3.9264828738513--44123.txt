@@ -1,0 +1,101 @@
+There is one thing we know for certain about the deadly new coronavirus that erupted in late December in the central Chinese city of Wuhan: We still don't know enough. And what we do know about it changes daily, even hourly.
+
+On Friday January 31, the number of confirmed cases of infection recorded worldwide has reached close to 10,000, up from 7,800 this past Thursday and 6,000 on Wednesday. The overwhelming majority of those cases are still within mainland China and deaths from the virus—at least 213—have likewise been confined thus far to China. While last week the World Health Organization twice backed off from declaring the outbreak a global emergency, citing insufficient data, it met again two days and reversed itself: Clear evidence has now emerged of human-to-human transmission outside the Chinese mainland.
+
+A woman and a child wearing face masks at the immigration area at the Kuala Lumpur International Airport on January 29, 2020. MOHD RASFAN Getty Images
+
+While the number of reported cases of coronavirus outside China is still a small percentage of the total—around 70 out of the 10,000—the roster of countries reporting them is growing daily, and now includes Thailand, Japan, Hong Kong, Singapore, Taiwan, Australia, Malaysia, Macau, France, South Korea, the United States, Germany, the United Arab Emirates, Canada, Vietnam, India, the Philippines, Nepal, Cambodia, Sri Lanka, and Finland. Britain and Italy reported their first cases yesterday.
+
+We asked Dr. Richard Dawood, founder of London’s Fleet Street Clinic, which has specialized for more than 35 years in international travel medicine, to paint the broad picture and offer whatever advice it is currently possible to give about the virus known to scientists as 2019-nCoV.
+
+How does this virus compare to others?
+
+“We actually know quite a bit about coronaviruses in general," says Dawood. "They are a large family of viruses, of which one subset is those that cause the common cold and flu. Normally, they target the upper respiratory track—the nose, the throat—and cause mild symptoms. But in recent years, we’ve seen three situations where that has changed, with viruses penetrating the lower respiratory tract and causing more serious disease—severe pneumonia and a generalized viral infection.
+
+“The first, SARS (severe acute respiratory syndrome), a coronavirus that had previously infected civet cats in China, crossed over into the human population in 2002-2003 and had a mortality rate of 9.5%; 8,089 people were infected worldwide, and approximately 774 died. The difficulty with stopping SARS was that the Chinese authorities tried actively to suppress information about it, which meant that the outbreak was quite well developed before everyone learned about it and the world could respond.
+
+Hong Kong Chief Executive Carrie Lam announced on January 31 that the suspension of schools and kindergartens in Hong Kong will extend to March, 2 2020, Anthony Kwan Getty Images
+
+"What made it relatively easy to stamp out, however, was that people infected with SARS could only become infectious to others after they had developed symptoms. People weren’t unwittingly walking around and spreading the disease. A lot of those who died were in health care settings—nurses and doctors who treated the sick as they first began to come in but were themselves unprotected because we didn't yet realize how serious this was.
+
+"The second severe coronavirus was MERS (Middle East respiratory syndrome, also known as the camel flu but probably spread to humans by bats), which broke out in Saudi Arabia in 2012 and has since spread to several other countries. It spread less easily from person to person than SARS, but it had a high fatality rate—of the 2,494 confirmed cases by the end of 2019, 858 died, or 34.4%. Once again, deaths were predominantly among people involved in the treatment of cases rather than among the general public.
+
+Tip 1: The most helpful things are basic—frequent hand washing and use of a hand sanitizer.
+
+Where did the new virus start?
+
+"And now we have a third coronavirus emerging, since late December 2019, in Wuhan. Initial cases were centered around a food market. What animal species was involved is still unclear. There have been reports about snakes and such, but coronaviruses infect mammals. It's more likely once again to be something like a bat. But identifying where exactly it came from is for now a slightly academic pursuit and I'm not sure how useful.
+
+"But otherwise, just one month into the outbreak, we are in a phase of rapid knowledge acquisition. Because there is more openness generally than in 2002, it has been much harder for Chinese authorities to keep a lid on this. We know more than we ever did with SARS or MERS, and we know it sooner. Public health authorities globally—whether in China, the US, or Europe—are really focused on understanding the virus and responding to it robustly. Importantly, the coronavirus' genome has already been decoded. Because of that breakthrough, there are people already working on vaccines.
+
+
+
+Tip 2: Surgical masks will trap big droplets—they will protect you from other people's big droplets and stop you from spreading yours. But masks can't protect from tiny droplets. And it makes absolutely no sense to wear a surgical mask outdoors—masks outdoors are for shielding you from pollutants. Or a fashion statement.
+
+How widely can this virus spread?
+
+"There is still a lot of information we need to be able to predict what will happen. We need to know this coronavirus's reproductive number. This refers to the number of cases that each infected person can cause—how many people, on average, can I infect? 'One' is the magic average number, the most desirable result. You only get one (or less than one) if the infection is so serious that it kills you quickly (so you don't have time to pass it on); or if it incapacitates you (and so prevents you from coming into contact with others); or if you are only infected for a short time before becoming immune to it.
+
+If it's more than one, that infection will spread and we have to find a response to that rate of spread. According to the Chinese authorities, various calculations have already been made, and the reproductive number is between two and three—if correct, that's not good. Although it seems early to have been able to reliably make that calculation.
+
+If I were a betting man, I'd say there could be a vaccine very quickly.
+
+"We also still need to know definitively whether a person has to have visible symptoms of illness in order to pass on this infection. Or whether you can be infectious while still asymptomatic. Take a disease like measles: The reason it's so dangerous is that people start shedding the measles virus a few days before they they actually become sick. It's one reason measles is so difficult to stamp out, and why you need a very high number of the population to be vaccinated in order to control its spread. According to Chinese authorities—and these views are changing daily—this coronavirus can be spread by people who appear well.
+
+British citizens arrive in England on Janurary 31 after being evacuated from Wuhan Province in China after the outbreak of coronavirus. Handout Getty Images
+
+"So on those two fronts, at this moment, things are not looking good. And there is another factor to consider: the virus' incubation period. Chinese authorities have said that the incubation period is very long. If this is borne out, it could be pretty bad news as well. A lengthy incubation increases the time people are infected, and it would affect how long we'd need to isolate someone after exposure. The longer that period, the more difficult it would become logistically.
+
+
+
+"On the other hand, one of the things that might reduce the coronavirus's spread is that it causes pneumonia. Unlike an upper-respiratory infection such as the common cold, this one is deeply rooted. Which makes it harder, as it were, for the virus to come out.
+
+Tip 3: Keep travel plans flexible and listen out for advice from the authorities, such as the State Department.
+
+When will a vaccine be available?
+
+"Again, this is uncharted territory. But if I were a betting man, I'd say there could be a vaccine very quickly. And if this turns out to be an infection with a high reproductive number, and one in which people become infectious before symptoms appear, a vaccination program becomes the only way to bring it under control. Which would create other issues, of course: persuading people to actually get the vaccine (a problem with flu shots), and to do it at scale.
+
+There's another disease out there with similar characteristics—and it's called flu. And we live with it rather than panicking about it.
+
+We already have two vaccines for ebola, which requires vaccinating contacts of infected people—but tracing contacts requires governmental stability and working social structures, which are hard to come by in the parts of Africa most affected by the disease. With ebola, for example, vaccine notwithstanding, we are not winning.
+
+Why is a coronavirus so scary?
+
+
+
+"I can see people wanting to go into lockdown in response to the infection from Wuhan. Another response might be, Okay, here's this disease that causes respiratory tract infection and it has a mortality rate. But there's another disease out there with similar characteristics—and it's called flu. And it's roundly accepted that we live with it rather than panicking about it. In fact, not everyone even avails themselves of the vaccines that are developed for it. Flu is serious, and it mutates, and it is studied and investigated and responded to on a global level yearly. But what we have with a coronavirus is an emerging disease.
+
+A news banner at London’s Bank station. John Keeble Getty Images
+
+Emerging infections are entirely new, and often have jumped from one species into another. (Historical/epidemiological side note: There are many infections that exist in animal populations and which we humans can get but for which man is not the main host. All of evolution is really infections crossing from one species to another.)
+
+The reason we worry about the emerging infections is that the entire world population is susceptible. Most of us have encountered flu in some form throughout our lives and may have a degree of immunity or semi-immunity. Here, there is no immunity. This is an infection for which the global human population is like a blank slate—it can ride roughshod over us.
+
+
+
+On a micro, personal level, I would say: Don't go to China.
+
+"But actually, we don't yet know its mortality rate. Not yet. We know that people have died, and we think we know how many people have died, and that's the number that changes daily; and we probably know the number of severe cases out there. But we don't know how many mild cases are out there. How many people have the infection but have no symptoms? And to know the mortality rate we need both the numerator and the denominator—the number of deaths and the number of infections. We know the rate for diseases like the flu because we've been studying them for a long time, over the course of human history.
+
+Should you change your travel plans because of this coronavirus?
+
+"We deal with all medical situations that involve international travel. On the macro level, restricting travel is not a good way of controlling disease. Mathematical modeling has shown this. Take Wuhan. They are stopping people from leaving Wuhan; but it's probably already too late for that to be effective, because the number of people who have left is probably so high already, it makes no difference. And, you can't stop all travel: The balance between the extreme measures you'd need to put into place to enforce a ban and the benefits you'd realistically get from it makes it not worth it. What does work: isolating cases, separation from people who are sick.
+
+
+
+"On a micro, personal level, I would say: Don't go to China; it has the overwhelming majority of cases and thus far all the deaths. That's the position the Center for Disease Control has taken.
+
+"As for other countries, remember that everyone is on the alert, everything is being carefully tracked, and the numbers of confirmed infections at the moment are so small—one, two, four, ten. Several cases were reported in the US yesterday. But I'm sitting here in New York, just arrived from London, and I'm not feeling fear. Topline: Keep travel plans flexible and listen out for advice from the authorities, such as the State Department.
+
+Wuhan residents stocking up on food in late January. The Chinese government has banned travel to and from the city. Stringer Getty Images
+
+Will wearing a mask help?
+
+"Surgical masks will trap big droplets. So they will protect you from other people's big droplets and stop you from spreading yours. But masks can't protect from tiny droplets. And it makes absolutely no sense to wear a surgical mask outdoors—masks outdoors are for shielding you from pollutants. Or a fashion statement.
+
+
+
+Masks outdoors are for shielding you from pollutants. Or a fashion statement.
+
+"The most important thing to remember if you do wear masks indoors—either because you have an infection or are nervous about others having it—is that after a maximum of two or three hours you need to remove it: There will be a lot of stuff on there. And you must remove it carefully, not by the mask itself but by the straps. And then immediately discard it and wash your hands. It's not what people normally do. But handling your mask any other way simply contaminates your hands and makes it even easier to infect others or yourself. Most helpful? The basic things: social distancing, i.e., keeping up to four feet between yourself and others around you; certainly avoiding people who are coughing; and frequent hand washing and use of a hand sanitizer. "

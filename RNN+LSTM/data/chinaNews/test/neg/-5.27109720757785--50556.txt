@@ -1,0 +1,99 @@
+The number of people who are infected with the new coronavirus that is spreading from China is dwarfed by those affected by a far more common respiratory illness: seasonal flu.
+
+Every year there are as many as 5 million severe flu cases worldwide and hundreds of thousands of deaths. By contrast, so far there have been about 20,000 (and rising) cases of coronavirus, most of them mild.
+
+Yet governments are responding to the new outbreak with drastic measures — airlifting their citizens out of China; shutting down border crossings; and in, the case of United States, barring or quarantining travelers from China's most affected province, Hubei.
+
+Why has the reaction been so aggressive?
+
+A major factor is the uncertainty surrounding this new virus, says Anthony Fauci, director of the U.S. National Institute of Allergy and Infectious Diseases.
+
+When it comes to the flu, Fauci said at a news conference Friday, "there's a certainty. I can tell you, 'Guaranteed, that as we get into March and April, the flu cases are going to go down.' You could predict pretty accurately what the range of the mortality is and the hospitalizations."
+
+But health officials don't know how deadly this new virus is. And right now it does seem to be more of a killer than the flu.
+
+"For flu one can roughly say that maybe 1 in 1,000 or less of infected people dies," says Christian Althaus, a computational epidemiologist at the University of Bern, Switzerland. "But for this new coronavirus it could well be about 1%."
+
+In other words, a death rate that's about 10 times greater than the flu's.
+
+But even if the death rate for the new coronavirus turns out to be more on par with the flu, Althaus says there's another consideration: If officials could permanently eliminate the flu, they would. The trouble is that the flu is already too widespread. By contrast, this new coronavirus has only just started circulating in humans.
+
+"We basically have the opportunity to prevent spread of a new respiratory disease in the first place," says Althaus.
+
+Indeed, Althaus notes, nearly 20 years ago the world succeeded in eliminating another coronavirus — the one that caused severe acute respiratory syndrome, or SARS — which infected at least 8,000 people globally and killed hundreds.
+
+That said, he notes an important difference. With SARS, says Althaus, "the majority of infected individuals [did] not transmit the infection at all." Instead the disease mostly spread through what's known as "super-spreader events": Rare cases of people who shed an unusual amount of the virus, for instance. Or particular hospitals that had terrible infection control — such that lots of health workers there got sick and then passed the disease on further.
+
+"Just a small fraction of infected individuals can infect a lot of additional people — like 10, 20 or 30 people," says Althaus.
+
+As scary as that sounds, this pattern of spread is actually easier to contain. With SARS, officials were able to put most of their energy into identifying the super-spreading sources.
+
+"If you miss a few infected individuals it might not be that bad," says Althaus. Chances are they won't be a super-spreader and so, "they might not cause a new transmission chain anyway."
+
+Unfortunately, modeling by Althaus and others suggests that the new coronavirus may be spreading at a much steadier rate — similar to the way the flu spreads.
+
+"That means that we have to be very careful that we really find all individuals that are infected with this virus that travel to other countries," says Althaus.
+
+U.S. officials have described the quarantine plan as a key element of that strategy. "The goal here is to slow the entry of this virus into the United States," said Dr. Nancy Messonnier, with the U.S. Centers for Disease Control and Prevention, speaking at a press conference Monday.
+
+The hope is this will at least prevent the disease from taking root in the United States and becoming one more common disease.
+
+But it may be too late. Messonnier noted that the steps the U.S. government has taken are not expected to catch every traveler. "Given the nature of this virus and how it's spreading," that would be impossible, she said.
+
+Meanwhile, the latest estimates suggest there could be tens of thousands more infections in China that have not yet been diagnosed.
+
+
+
+Copyright 2020 NPR. To see more, visit https://www.npr.org.
+
+MARY LOUISE KELLY, HOST:
+
+There are as many as 5 million severe cases of the flu each year. So far, there have been around 20,000 cases of the new coronavirus, most of them mild. Yet, in response to the coronavirus, governments have shut down border crossings, airlines have canceled flights. The U.S. is quarantining travelers from Hubei province in China. NPR's Nurith Aizenman reports on why the response has been so aggressive.
+
+NURITH AIZENMAN, BYLINE: A major factor is the uncertainty surrounding this new virus. Contrast that with seasonal flu.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+ANTHONY FAUCI: There's a certainty of seasonal flu. I can tell you all guaranteed that as we get into March and April, the flu cases are going to go down.
+
+AIZENMAN: Anthony Fauci directs the U.S. National Institute of Allergy and Infectious Diseases.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+FAUCI: You could predict pretty accurately what the range of the mortality is and the hospitalizations.
+
+AIZENMAN: But health officials don't know how deadly this new virus is. For instance, right now, it does seem to be more of a killer than the flu. Christian Althaus is a computational epidemiologist at the University of Bern, Switzerland.
+
+CHRISTIAN ALTHAUS: For a flu, one can roughly say that maybe 1 in 1,000 or less of infected people dies. But for this new coronavirus, it could well be about 1%.
+
+AIZENMAN: In other words, a death rate that's about 10 times greater than the flu. But even if the death rate ultimately turns out to be more on par with the flu, Althaus says there's another consideration here. If we could permanently eliminate the flu, we would. Unfortunately, the flu is already too widespread. This new coronavirus has only just started circulating in humans.
+
+ALTHAUS: Now we have, basically, the opportunity to prevent spread of a new respiratory disease in the first place.
+
+AIZENMAN: But with at least 17,000 confirmed cases, is it still possible to stamp out this disease? Althaus notes that nearly 20 years ago, the world did succeed in eliminating another coronavirus; the one that caused severe acute respiratory syndrome, or SARS, which infected at least 8,000 people globally. But here's the thing. With SARS...
+
+ALTHAUS: The majority of infected individuals do not transmit the infection at all.
+
+AIZENMAN: A lot of people who were infected didn't pass SARS on, says Althaus. Instead, the disease mostly spread through what's known as superspreading events - rare cases of people who shed an unusual amount of the virus or hospitals that had terrible infection control such that a lot of health workers got sick and then passed the disease on further.
+
+ALTHAUS: A small fraction of infected individuals can infect a lot of additional people, like 10, 20 or 30 people.
+
+AIZENMAN: And as scary as that sounds, this pattern of spread is actually easier to contain. With SARS, officials were able to put most of their energy on identifying the superspreading sources.
+
+ALTHAUS: If you miss a few infected individuals, it might not be that bad because they might not cause a new transmission chain anyway.
+
+AIZENMAN: Unfortunately, Althaus and others have been modeling this new coronavirus, and their work suggests that it may be spreading at a much more steady rate, a lot like the flu.
+
+ALTHAUS: That means that we have to be very careful that we really find all individuals that are infected with this virus that travel to other countries.
+
+AIZENMAN: The U.S. has taken the aggressive step of putting into quarantine travelers from the province in China with the most infections. Dr. Nancy Messonnier is with the U.S. Centers for Disease Control and Prevention.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+NANCY MESSONNIER: The goal here is to slow the entry of this virus into the United States.
+
+AIZENMAN: And stop it before it can take root and become another seasonal disease - but it may be too late. The latest estimates suggest that there could be tens of thousands more infections in China that have not yet been diagnosed.
+
+Nurith Aizenman, NPR News.
+
+(SOUNDBITE OF MUSIC) Transcript provided by NPR, Copyright NPR.

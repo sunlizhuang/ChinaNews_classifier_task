@@ -1,0 +1,25 @@
+Sign up to FREE email alerts from BirminghamLive - Weekly Politics Subscribe Thank you for subscribing We have more newsletters Show me See our privacy notice Invalid Email
+
+Boris Johnson has paved the way for Chinese firm Huawei to have a limited role in the UK's 5G network, in a move that will set up a diplomatic clash with the US.
+
+The National Security Council chaired by the Prime Minister on Tuesday decided that "high-risk vendors" should be permitted to play a peripheral role in the network.
+
+But advice issued to telecoms operators by the National Cyber Security Centre said such vendors should be barred from all safety-related and critical networks.
+
+They will also be excluded from security critical "core" functions, and sensitive geographic locations, such as nuclear sites and military bases.
+
+High-risk firms will also have their presence limited to no more than 35 per cent in the periphery of the network, known as the access network, which connects devices and equipment to mobile phone masts.
+
+Video Loading Video Unavailable Click to play Tap to play The video will start in 8 Cancel Play now
+
+The decision sets the PM up for a clash with many Tory MPs as well as the US, where Donald Trump's administration has lobbied against the UK allowing Huawei access.
+
+In its evaluation, the National Cyber Security Centre stressed that it was "important to avoid the situation in which the UK becomes nationally dependent on a particular supplier".
+
+It added: "Without government intervention, the NCSC considers there to be a realistic likelihood that due to commercial factors the UK would become 'nationally dependent' on Huawei within three years."
+
+National dependence on a high-risk vendor would present a "significant national security risk", the NCSC said.
+
+The NCSC analysis said: "Due to the UK's mitigation strategy, which includes HCSEC as an essential component, our assessment is that the risk of trojan functionality in Huawei equipment remains manageable.
+
+"Placing 'backdoors' in any Huawei equipment supplied into the UK is not the lowest risk, easiest to perform or most effective means for the Chinese state to perform a major cyber attack on UK telecoms networks today."

@@ -1,0 +1,49 @@
+Credit: Dreamstime
+
+Global spending on cloud infrastructure reached a record high in Q4 2019 with growth of over 30 per cent, and the channel has played a big part in that growth, new analysis suggests.
+
+
+
+The final quarter for 2019 saw global cloud infrastructure spending grew to the record high of 37 per cent, representing over US$30 billion, according to analyst firm Canalys.
+
+Amazon Web Services (AWS) had the largest market share at 32 per cent, followed by Microsoft Azure at 17.6 per cent, Google Cloud at 6 per cent and Alibaba Cloud at 5.4 per cent.
+
+AWS’ rate of growth, according to Canalys, was attributed to the cloud platform gaining traction with enterprise accounts and benefitting from its channel reach.
+
+
+
+Future growth is predicted to be fuelled by investments in new enterprise sales and marketing resources, the general availability of AWS Outposts and the launch of AWS Local Zones.
+
+
+
+Microsoft’s prevalence in the market was focused on urging partners to move workloads towards Azure from Windows Server 2008 as support ends while Google Cloud found growth with enterprise customers and spent time developing its channel partner network.
+
+Alibaba Cloud maintained its dominance in China and is looking at expansion to the rest of Asia Pacific and Europe, the analysis stated. Google Cloud, meanwhile, continued to gain ground, thanks in part to its efforts to penetrate new enterprise customers and further develop its network of channel partners.
+
+Overall, total spending surpassed US$107 billion in 2019 – an increase of US$29 billion compared to the year prior.
+
+
+
+Canalys analysis claimed that this shows the “unrelenting expansion of the IT industry” with all industries undergoing some form of digital transformation, according to Alastair Edwards, chief analyst at Canalys.
+
+
+
+“Many are using a combination of multi-clouds and hybrid IT models, recognising the strengths of each cloud service provider and the different compute operating environments needed for specific types of workloads,” Edwards said.
+
+“The role of channel partners will become more important, as cloud use increases, in terms of defining application strategies, integration into business processes, optimising user experiences, governance and compliance as well as securing data and workloads.”
+
+Across what Canalys refers to as the “super seven cloud builders” — Alibaba, Amazon, Baidu, Facebook, Google, Microsoft and Tencent – more than US$60 billion was spent by these companies on data centre infrastructure over 2019.
+
+This is an increase of 8 per cent year-on-year and was considered moderate capital expenditure following the super seven increasing outlays by 46 per cent a year prior.
+
+Matthew Ball, Canalys principal analyst, said cloud service providers are being placed in the position where they have to be careful with their capital expenditure management, balancing rising costs against the need for more capacity and geographical locations as well as update existing assets.
+
+Looking to the next five years, Canalys predicted that cloud infrastructure services spending will grow by 32 per cent in 2020 to US$141 billion. Growth is expected to continue through to 2024 to an estimated US$284 billion.
+
+Ball added that cloud service providers will maintain their position as the largest buyers of servers and other components over the next five years.
+
+“Increasing cost pressures combined with performance advances are extending the average life of servers in cloud service provider environments beyond the typical three-year period,” he said.
+
+Also prevalent in the next five years is expected to be the continued operation of more applications, both new and existing, in public cloud environments.
+
+“Organisations will look to take advantage of the unlimited access to capacity, more advanced services, such as AI [artificial intelligence] and analytics, as well as APIs [application programmable interfaces] and other tools to accelerate their digital development,” a statement from Canalys claimed.

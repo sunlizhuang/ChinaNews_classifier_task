@@ -1,0 +1,33 @@
+Federal prosecutors linked cyberattacks on two major U.S. corporations to Chinese military units for the first time, amid a climate of heightened fear regarding nation-state attacks on the private sector.
+
+The Justice Department, in an indictment made public Monday, has accused four members of the People’s Liberation Army of hacking into Equifax Inc. to steal data and intellectual property, such as database designs. The Equifax breach, reported in 2017, exposed sensitive data on nearly 150 million Americans, including Social Security numbers.
+
+Attorney General William Barr said during a press conference Monday that Chinese hackers were also behind a similar attack on Marriott International Inc., reported in 2018. Mr. Barr said China has a “voracious appetite” for personal data about Americans and the country steals information that could help it develop artificial-intelligence tools.
+
+China has historically denied being involved in hacking U.S. businesses. The Chinese Embassy in Washington didn’t immediately provide comment.
+
+Mr. Barr’s disclosure formally attributes the attacks to China’s military after years of speculation from security experts.
+
+In an interview Monday, Equifax executives said they offered help to Marriott after the hotel company disclosed its data breach. Chief Executive Mark Begor said that Jamil Farshchi, Equifax’s chief information security officer, contacted his counterpart at Marriott the weekend after the hotel operator made the incident public.
+
+“We just reached out to say if there’s anything we can do to help…you understand the actions we’ve taken as a result of our cyber event...to effectively defend against a nation-state, in this case somebody like China, it’s hard for a single company to do it,” Mr. Begor said.
+
+A Marriott spokesman said that he couldn’t confirm the conversation between the two executives. He declined to comment on Mr. Barr’s remarks.
+
+Mr. Begor and Marriott CEO Arne Sorenson testified about the data breaches during a Senate committee meeting in March 2019. At the time, Mr. Sorenson said he didn’t know if Chinese hackers were responsible for the cyberattack.
+
+Mr. Begor said he attended one meeting with the Federal Bureau of Investigation while Mr. Farshchi met several times with FBI investigators during the probe into the Equifax breach, which took more than two years.
+
+Federal authorities asked the executives not to share confidential information about the investigation with Equifax employees, Mr. Begor said. Only a small group of security employees were kept informed about the case if they were needed to help disclose specific details to the FBI.
+
+Most employees who assisted in gathering forensic information for the investigation worked in Equifax’s Atlanta-based cybersecurity center, but some staff members from locations outside the U.S. also helped, Mr. Farshchi said. The indictment alleges that the defendants used 34 servers located in nearly 20 countries to infiltrate the company’s network.
+
+Network logs and forensic analysis were among the materials Equifax provided to the FBI, Mr. Farshchi said. “We helped them contextualize our environment so they understood the assets,” he said. That information helped authorities trace the cyberattack to China, he said.
+
+In 2015, security officials at Equifax informed the FBI that it suspected a former employee of stealing data before taking a job in China, The Wall Street Journal reported in 2018.
+
+“It was clear to us early on and throughout the last couple years that there was a sophisticated group,” Mr. Begor said Monday. “All companies need to look at these kinds of threats from a nation-state as being much more challenging than a traditional hacker,” he said.
+
+—James Rundle contributed to this article.
+
+Write to Catherine Stupp at Catherine.Stupp@wsj.com

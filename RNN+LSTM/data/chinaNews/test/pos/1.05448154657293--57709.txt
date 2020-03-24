@@ -1,0 +1,73 @@
+Lenovo's decision to acquire IBM's PC business in 2005 was seen as a headscrather by analysts who thought the Chinese tech giant was making a big mistake.
+
+IBM's PC business was a pioneer in the personal computing industry in the 1980s, but the PC market was starting to stall by the early 2000s which made the acquisition seem like a bad idea.
+
+"Lenovo was laughed at bit when that happened," Torod Neptune, Lenovo's chief communications officer, told Business Insider. "The view was that business that IBM was just offloading because they had no future."
+
+But the acquisition propelled Lenovo to become the world's top PC vendor, which is giving the tech giant the financial muscle to expand its reach beyond hardware, he said.
+
+Click here for more BI Prime stories.
+
+The IBM PC was such an iconic symbol of American technology that Big Blue's decision to sell the business to China's Lenovo in 2005 was seen as a stunning end in its storied history.
+
+But it also was not a surprising move. The PC market had, by then, stalled and even started declining. In fact, Lenovo's decision to buy the business for $1.25 billion was a head-scratcher for industry analysts, who thought the company was making a big mistake.
+
+"Lenovo was laughed at a bit when that happened," Torod Neptune, Lenovo's chief communications officer, told Business Insider. "The view was that business that IBM was just offloading because they had no future."
+
+Fast forward 15 years. Lenovo is now the world's top PC seller, and a powerhouse in key tech markets including low-end servers and mobile devices. While PCs are no longer considered a big growth driver in tech, the Hong Kong-based company sees its dominant position in PCs and low-end servers as key to expanding into other areas of the market, Neptune said.
+
+The world's top PC vendor
+
+Lenovo had just 6% share of the nearly 209 million PCs shipped in 2005, when Dell was the top seller with 17%, according to IDC. Last year, Lenovo was No. 1 with 24% of 267 million units shipped.
+
+And while it's no longer a fast-growing market, PCs continue to be important, especially at a time when most workplaces are going digital.
+
+"PCs continue to be the primary devices for day-to-day operations for most businesses, and still offer the richest options for interaction and functionality," a June 2019 Gartner report said. "The rise of the digital workplace is forcing renewed interest in modernizing the PC fleet."
+
+"I don't think we'd suggest that, you know, PCs are the way we're going to drive the market share growth for the next 10 years," Neptune said. "But fundamentally, there's value to what we have been able to pull together."
+
+This includes two big hardware purchases in 2014, when Lenovo bought IBM's low-end server business for $2.3 billion, and the Motorola smartphone unit, which it acquired from Google for $2.9 billion.
+
+The company took these big hardware moves at a time when cloud computing was changing the way businesses bought and accessed technology. The cloud lets businesses set up networks on web-based platforms run by the likes of Amazon, Microsoft and Google, allowing them to scale down or even abandon private data centers. This disrupted traditional enterprise tech companies, particularly the hardware vendors.
+
+'Devices are critical'
+
+But Neptune said Lenovo's game plan is based on the view that "devices have a critical role in the life of consumers and enterprises."
+
+"We have built an unbelievably significant portfolio of devices," which Lenovo could use for "building the next two layers," he said. He was referring to software and services which, he said, are "the two biggest opportunities" Lenovo.
+
+Having a huge base of customers using its PCs, servers and mobile devices, and access to data from the way customers use those devices give Lenovo an edge in developing new software products and services, he said.
+
+"We see an opportunity to build complimentary services that allow us to compete in the cloud," he said.
+
+It's not going to be an easy path for Lenovo. Neptune acknowledged that other tech hardware companies, including other Asian PC companies, are "talking about making this transition." And other tech giants, such as IBM, Dell and Hewlett-Packard, have already pivoted to software and services in pursuit of growth.
+
+Pivoting to software and services
+
+Analyst Tim Bajarin of Creative Strategies said the Lenovo game plan could work especially at a time when "digital transformation" is a growing trend and businesses are turning to technology to radically change the way they run their operations.
+
+"The PC business has been a great success," he told Business Insider. "PCs still get them in the door of IT customers and then can sell them software, servers and services in a full solution package. IT managers need much help managing their digital transformation and Lenovo having all of the components their customers need to move from an analog past to a digital future is important for Lenovo's continued growth."
+
+Roger Kay of Endpoint Technologies Associates agreed that Lenovo can use its strengths in PCs and low-end servers to move forward.
+
+"No reason they can't be a player," he added. "Certainly, their position in China will help."
+
+But the company faces formidable challengers in the US led by IBM, Dell and Hewlett Packard Enterprise.
+
+"I think the enterprise push is still evolving, and the bones of the business are still in hardware sales," he told Business Insider.
+
+Neptune acknowledged that the Lenovo story is still unfolding at a time when the tech market has been going through major changes.
+
+'Chinese view of leadership'
+
+"This market has changed pretty dramatically over a very quick period of time," he said. He cited new trends like hybrid cloud, in which businesses used public platforms while keeping huge chunks of their data and applications in private data centers.
+
+"For big businesses, the challenge is remaining nimble and dynamic enough to be able to in a very quick period of time shift models in a way that again," he said.
+
+But another challenge is to focus on the long view, he added. Lenovo is a global company, with 57,000 employees worldwide and top executives based in China, Brazil and the US. Neptune himself grew up in North Carolina where he is based. But he also cited Lenovo's "Chinese heritage" and its "Chinese view of leadership" that focuses on the long-term.
+
+Fifteen years ago, Lenovo bought what many thought was a dying business, but transformed it into a key business strength. It will also take time for Lenovo's strategy to bear fruit, Neptune said.
+
+"The Chinese view of leadership is 'We'll ride this out,'" he said. "We've got a long-term view...We are, I think fairly respected for taking that very Asian-centric view that we're in this for the long haul."
+
+Got a tip about Lenovo or another tech company? Contact this reporter via email at bpimentel@businessinsider.com, message him on Twitter @benpimentel or send him a secure message through Signal at (510) 731-8429. You can also contact Business Insider securely via SecureDrop.

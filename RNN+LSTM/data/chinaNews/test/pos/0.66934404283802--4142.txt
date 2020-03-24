@@ -1,0 +1,83 @@
+There was a brief moment in October when the U.S. Democratic presidential candidates turned away from debating the headline issues of today to a looming challenge: the future of workers. Specifically, the candidates were asked what jobs will look like in the future and what they would do to help workers transition to new and better jobs as automation, artificial intelligence and digital technologies transform the world of work as we know it.
+
+It is not only the United States that is facing the prospect of a workplace revolution. Around the globe, countries are bracing for a future in which as many as 375 million workers will need to retrain or find new jobs over the next decade. Some regions with older workers, like Europe, may find they lack the tax revenue to sustain their social welfare programs, while those with bulging populations of young people, like in the Middle East and Africa, will need to build a more robust private sector or tee-up a manufacturing base to sustain the millions of young people clamoring for jobs. In all countries, women’s employment must play a major role if growth is to be inclusive and sustainable.
+
+At a time when the global landscape is fraught with volatility, the digital economy is relentlessly expanding its footprint. Workers will need a robust support system to adapt to a new future of work—and, most critically, maintain and achieve financial security and upward economic mobility. There is an opportunity to harness some of the technologies creating disruption to advance innovative solutions that meet the urgent and evolving needs of workers around the world.
+
+Our Global Economy Fellows have been thinking about this issue long before it made it to the debate stage. As we look to 2020 and beyond, they offer some thoughtful insights on the challenges and opportunities that lie ahead for an inclusive future of work around the globe.
+
+Reconfiguring Europe’s workforce and welfare states in the face of digitalization
+
+In Europe, robots and artificial intelligence (AI) will profoundly reshape not only the future of work but also the large and important welfare states that Europeans rely on for health care, education and retirement, writes Guntram Wolff, director of the Brussels-based economic policy think tank Bruegel, along with Bruegel researcher Enrico Bergamini.
+
+Europeans are clearly worried about these issues—public opinion polls show that 75 percent believe jobs will disappear because of automation. However, Wolff and Bergamini note the initial signs indicated not all automation may be threatening. As more employers use industrial robots, employment rates rise, yet, wages often do not. Robots by nature reduce labor demand for specific physical tasks and therefore can potentially reduce wages. Interestingly, when companies adopt or expand information and computer technologies, both employment and wages expand. As for artificial intelligence, it is not clear that AI will have the same effect as prior waves of automation. If systems can provide expert advice that is more valuable to medium- or low-skilled workers, it might benefit them relative to high-skilled workers and reduce the gap between them.
+
+The larger story, however, is what this changing workforce will mean for Europe’s welfare state. European welfare states are traditionally financed from taxes on workers, says Wolff. If labor’s contribution to national income continues its decline (see chart), money to fund the welfare state will also decline.
+
+Social protection systems, and how they are funded will need to be re-thought. “In many countries,”, “unions, insurance companies and other organizations play a role in providing social protections. These arrangements already show signs of adapting to the changing world of work in the information era, a positive development that should be encouraged.”
+
+In their report, the authors also point to the need to upgrade worker skills and improve the uptake of digital technologies—especially for groups that are particularly vulnerable, such as older workers or those who work independently or for small businesses. “A shift from traditional forms of education and training to a focus on lifelong learning is urgently needed. It will be necessary to overcome the institutional rigidity that gets in the way of career change and flexibility,” they write.
+
+The European Union will be studied carefully around the world as it adapts to changing labor dynamics. How successfully it adapts will be a critical input for how the rest of the world will respond in the next decade.
+
+In the United States, economic divisions may widen, including between places
+
+With unemployment at near historic lows, a jobs crisis may seem a far-off prospect, but the future is looming. As jobs automate, American workers and their hometowns must adapt or risk falling behind.
+
+Some people and places are more poised to succeed than others, says Laura Tyson, one of our Global Economy Fellows, in a piece co-authored with McKinsey’s Susan Lund. New research from McKinsey Global Institute shows cities with diverse economies and high concentrations of tech and business-services industries that can expand alongside automation will likely outperform others.
+
+“Not surprisingly,” say Tyson and Lund, “the road ahead will be much tougher for rural areas...Job growth is likely to remain flat for the next decade in many rural counties, and it could continue to shrink in the most distressed areas.”
+
+Rural areas may suffer further because fewer people have the postsecondary education needed for many of these new jobs. Projections suggest that those with no postsecondary education will account for more than three-quarters of the overall job displacement from intelligent machines by 2030, according to McKinsey’s research.
+
+Chart: Cities will account for 60% of job growth between now and 2030.
+
+“Although automation threatens to deepen existing disparities in the U.S., it also offers an opportunity to boost productivity and upgrade jobs,” Tyson and Lund add. “Reaping productivity gains that new technologies enable and making economic growth more inclusive do not have to be mutually exclusive goals,” but it will take smart policies. How the benefits of automation are shared among workers from a diverse array of backgrounds will be the question driving the future of work.
+
+China’s growth could become less inclusive
+
+Source: PIIE
+
+China’s story has been one of surging economic growth, lifting hundreds of millions out of poverty. The source of much of this growth, argues Robert Lawrence, professor of International Trade and Investment at Harvard University, was manufacturing, which employed those with relatively little education, particularly women. But, now the tide is turning.
+
+According to Lawrence, “The fruits of [manufacturing] growth have been unevenly shared.” Inequality has grown quickly and low-skilled manufacturing, which served to keep inequality in check, is peaking. Trade surpluses and declining demand are hurting, and manufacturing itself is shifting away from low-skilled workers to those with more education and skills.
+
+The growth of the service sector may help lower-wage workers, particularly in consumption related sectors involving less automation like tourism and hospitality, health care, logistics and home health aides for seniors, says Fan Gang, executive director of China’s National Economic Research Institute. Meanwhile, “digitalization may be good news for new engineers in advanced manufacturing,” he says; four million of whom enter the workforce each year with new college degrees.
+
+Given these compounding trends, without more programs to support the poor, China is unlikely to see more inclusive growth. However, its shifting manufacturing trends could benefit other regions currently struggling to achieve inclusive growth, like Southeast Asia and Africa.
+
+From the Asian to the African factory?
+
+The move of manufacturing and its supports away from China holds enormous potential for Africa, says Martyn Davies, executive director of Africa and Frontier Markets at Deloitte. There is no sector that creates jobs, deepens local value chains, encourages the growth of a services economy and embeds intellectual property like manufacturing.
+
+“The opportunity is now for Africa to become the ‘new Vietnam,’” Davies says. Although many African states cannot emulate Asia’s manufacturing success, the current environment offers hope. Through both default and by design, the United States has provided two breaks for Africa; its trade wars have led supply chains to leave China and it has provided duty-free access to the U.S. economy through the African Growth and Opportunity Act.
+
+Davies warns, however, that if African states do not seize this opportunity now, the region will remain peripheral to the global economy.
+
+“While we focus on the Fourth Industrial Revolution and its implications for Africa,” he says, “let’s not be distracted from seeing the opportunities in the Third Industrial Revolution, for this is where the bulk of our labor force will be absorbed.”
+
+To expand the middle class, India must advance women in the workforce
+
+An impressive 133 million Indians rose out of poverty between 1994 and 2012, according to Annette Dixon of the World Bank. Yet, the success could have been even more dramatic if more women were in the workforce. In 2019, only 23 percent of adult Indian women had a job, Bhaskar Chakrovorti, dean of global business at the Fletcher School at Tufts University, points out. It’s hard to develop an economy in an inclusive and sustainable way when half of the population is not fully participating in it.
+
+To bring more women into the workforce, India must embrace systemic solutions, writes Chakravorti in the Indian Express. Higher paid jobs, for example, call for more education, but 23 million girls drop out of school each year because their families fall on hard times or because of inadequate sanitation or proper menstrual hygiene capabilities in schools.
+
+In addition to these systemic solutions, leaders should work to expand digital access. “Women occupy large portions of the value chains across a range of informal industries, from agriculture to retail to garment manufacturing and handicrafts,” says Chakravorti. “Digital payments alone could be transformational in enhancing efficiencies, ensuring women get paid and limiting the money that could be lost due to theft, extortion or by middlemen. In my mind, this would be the single biggest contributor to advancing the welfare of women workers in India. Once they get comfortable with the mobile phone as a platform for payment, they can also get comfortable using it to receive timely information, networking and acquiring just-in-time advice and knowledge.”
+
+A youth bulge can either spell trouble or prosperity for the Middle East and North Africa
+
+The Middle East and North Africa (MENA) have a good problem, if handled well – they’re young. The population under age 14 in the 19 MENA countries is twice as large as in Europe. The challenge will be finding work for all these young people, argues Yasar Jarrar, professor of practice at Hult International Business School. Every year another 5.5 million children come of working age in MENA countries.
+
+“Egypt alone needs to create 800,000 new jobs every year just to keep the youth unemployment rate from topping the already staggering 30 percent,” he notes.
+
+Women hold a key role in boosting these low employment rates. In some MENA countries, women’s labor force participation is one-third of men’s, even though women typically have more education.
+
+While there is no one-size-fits-all strategy for MENA countries, Jarrar notes, unleashing the power of the private sector through government investment in entrepreneurship and innovation technologies, as well as innovation in delivering education and job training, are good places to start. Doing so means moving away from state-led enterprises, reforming the public sector and making it easier to do business in the region. Without such modernization, Jarrar warns, the next ten years will look exactly like the past ten years, with increasing economic challenges, spilling into major social challenges and instability.
+
+Building the evidence-base for action
+
+Each of the regions above face unique challenges requiring tailor-made solutions. But, as each innovates and carves its own path, they can all learn from one another. With this in mind, the Center will launch new global insight communities in 2020 to build the evidence-base around critical issues of financial security, the future of work and the digital economy. Such global applied research will inform the Center’s programmatic investments and thought leadership on the future of workers.
+
+As the labor market shifts from a focus on credentials to capabilities, our efforts will aim to ensure all workers have access to lifelong learning opportunities. We are already leveraging insights on the changing nature of work to advocate for a new social safety net – where benefits are portable and not tied to the traditional employer-employee relationship. A worker-centric, technology-enabled system of portable benefits could enable lifelong learning while also serving to organize and manage other essential benefits – smoothing the transition between the present for workers and the future of work.
+
+As the conversation about the future of work continues in boardrooms and classrooms, legislative halls and living rooms, the Center remains committed to helping design the tools and technology that will help workers thrive. Why? Because our responsibility–as part of a company that employs nearly 16,000 people, as a leader in applying technology for good and as a brand that has consistently stood for inclusion and decency–is to leverage Mastercard’s assets and competencies to make the digital economy work for everyone, everywhere. We are committed to living up to it.

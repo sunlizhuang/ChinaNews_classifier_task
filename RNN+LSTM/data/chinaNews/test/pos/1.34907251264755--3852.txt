@@ -1,0 +1,19 @@
+Beidou is China’s own satellite positioning system that will allow the country to cut back its reliance on America’s GPS technology for military and communication purposes. First rolled out in 2000, Beidou will have 35 satellites in the network. Thirty-three of these satellites have already been launched and the remaining two will be in position sometime this year.
+
+The Chinese GPS
+
+“Over 70 percent of Chinese smartphones are equipped to tap into Beidou’s positioning services… Services will be enhanced by the end of next year (2020)… For example, the level of positioning accuracy will improve from within 5 meters to within centimeters, an advance that will aid search-and-rescue missions… Such accuracy is also crucial for self-driving vehicle development, a sector supported by the government,” according to Nikkei Asian Review.
+
+The Chinese are trying to build a navigation ecosystem that is independent of the GPS and plans on opening it up to South Asia, Southeast Asia, Africa, and Eastern Europe, places that are likely to welcome Chinese technologies. Beidou now exports related products to about 120 partners, up from 90 in 2017. The service was made available to private companies back in 2011. However, it was only in late 2018 that Beidou’s navigation system was made available internationally.
+
+“We are likely to see an increased bifurcation of the world into two camps — ‘pro-China’ and ‘pro-US’… And from this perspective, those that go ‘pro-China’ may be more likely to be distrusting of US and EU satellite navigation services,” Blaine Curcio, founder of Orbital Gateway Consulting, a Hong Kong-based satellite market research firm, said to the BBC. Initially, the Beidou service is primarily targeted at covering countries within the Belt and Road Initiative.
+
+According to Chinese officials, Beidou will be more accurate and reliable than America’s GPS navigation system. However, Beidou has a big problem. It apparently uses a 2-way transmission process in which satellites send signals to earth and the devices transmit back the signals. This process takes more spectrum bandwidth and can compromise the accuracy of the service. On the plus side, Beidou is capable of supporting communication unlike the GPS, which is what allows the satellite network to be used as a short messaging platform. The Chinese military is reportedly using Beidou for reconnaissance exercises and precision-guided missiles.
+
+GNSS systems
+
+America’s GPS is the oldest Global Navigation Satellite System (GNSS) in existence. Starting operations in 1978, it was made available for worldwide use from 1994. At present, “GPS has a 33 satellite constellation, out of which 31 are in orbit and operational. It is maintained by the U.S. Air Force and is committed to maintaining the availability of at least 24 operational GPS satellites. To date, GPS has launched 72 satellites,” according to Geospatial World.
+
+Russia’s satellite navigation system is called GLONASS. It comprises 27 satellites in total. The system became active in 1993 and is operated by the Russian Aerospace Defense Forces. Europe’s GNSS is named “Galileo.” Of the proposed 30 satellites, 22 have been put in space. The system is expected to have full operational capabilities this year. India’s NavIC satellite system is a GNSS that covers the country and its neighbors, extending up to 1,500 km. There are 7 satellites in the system. Though all of them are in space, one satellite has become non-functional.
+
+Follow us on Twitter or subscribe to our weekly email

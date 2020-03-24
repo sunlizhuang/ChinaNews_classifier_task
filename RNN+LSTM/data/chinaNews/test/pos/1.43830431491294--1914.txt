@@ -1,0 +1,49 @@
+Applications
+
+CES 2020: More colorful, wider, brighter and put down that lidar!
+
+07 Jan 2020
+
+Ooh, Las Vegas! Laser TV is the future, says laser TV maker; and lidar can be bettered, says developer of alternative tech.
+
+Hisense has launched three new Laser TV products: the 75-in Trichrome Laser TV; the Sonic Screen Laser TV; and the Self-Rising Screen Laser TV. Dr. Lin Lan, VP of Hisense Group, commented that his company is now aiming for an annual target of 40 million TV unit sales.
+
+The China headquartered consumer electronics giant believes that laser TV is the only display technology that meets the BT2020 standard, described as "the top standard for future TV color.” Also at CES, Dolby will perform the first technology demonstration of Dolby Vision on the TriChroma Laser TV.
+
+The launching of 75in and 100in TriChroma Laser TV is described as "a breakthrough in color technology" – the TriChroma technology enables the color display to show 90% of the colors recognizable by the human eye.
+
+Dr. Liu Xianrong, chief scientist at Hisense, commented, "We have introduced a prototype of the Self-Rising Screen Laser TV. Hisense believes that the ideal form of television for the family is integrated into the entire home, and only appearing when needed. The Self-Rising Laser TV provides a rolling screen that also maintains peak optical performance.”
+
+Hisense adds that screen-sound achieves the integration of sound and picture and is pioneering the technology of sound generation for cellular bionic screens. This technology makes the positioning of the sound clearer and enables the sound to spread farther and perform better in detail. "Hisense believes that laser display will dominate in the future," added Dr. Lan. "Since the first laser TV was released in 2015, Hisense has progressed by growing the screen size from 75in to 150in. Picture quality also increased from monochromatic light source technology to full-color.
+
+According to data from CMM, in 2019, the overall unit sales of laser TVs in China's color TV market increased by 107%, which is the fastest growing product category in recent years. In the North American market, Hisense Laser TVs are also popular with consumers.
+
+Terranet presents 'first serious lidar alternative'
+
+Swedish company Terranet is demonstrating VoxelFlow, a 3D motion perception technology that detects and classifies objects “far more accurately and exponentially faster than Lidar,” the company claims.
+
+Terranet’s demo is timely considering Tesla CEO Elon Musk and serial provocateur caused a rumpus in April, 2019, with his remark that, "Lidar is a fool’s errand. Anyone relying on Lidar is doomed. Doomed!" But Terranet plans on backing up Musk’s claims that Lidar is merely a dangerous shortcut to image recognition – a perilous reliance if that is what the promised fully autonomous cars of the future will continue to use.
+
+Invented by Dirk Smits, VoxelFlow was built upon the understanding that today's camera-based computer vision and AI navigation systems are too slow. Lidar has limited resolution and slow scanning rates, making it nearly impossible to distinguish between, for example, a fixed lamppost and a running child, Terranet argues.
+
+VoxelFlow classifies dynamic moving objects at low latency using very low computational power, producing 10 million 3-D points per second, resulting in rapid edge detection without motion blur.
+
+"Terranet succeeding in proving VoxelFlow as a serious and necessary contender to Lidar is just the kind of shake-up the oft self-congratulatory autonomous driving community needs to kick start the new decade and save lives,” said Terranet CEO, Pär-Olof Johannesson.
+
+LetinAR, a developer of optical solutions for AR smart glasses, has announced that, at CES 2020, it is releasing its PinMR 2020 lens, to "take AR optics to the next level."
+
+As a developer of optical systems for AR smart glasses, LetinAR first introduced its PinMR (Pin Mirror) technology in 2018. The lens was recognized for having overcome performance limitations of the existing AR optical system. Now LetinAR is presenting the PinMR 2020 lens, which is said to “resolve technological barriers and elevates the optical system to the next level.”
+
+The strongest feature of the latest lens is that it overcomes the issue of the vertical viewing angle, which has been the greatest challenge to AR optical system technology. The vertical viewing angle which was previously limited to 23° has been widened to close to 40°, thereby enhancing performance by approximately 73%. On top of that, the eye-box, an existing strength, has been further improved, so that it can be easily worn like regular glasses.
+
+By combining the AI facial recognition function to the PinMR lens technology, the company plans to present a vision for future applications of AR. Also receiving the spotlight is the AI translation solution which utilizes True Wireless Headsets and PinMR smart glasses.
+
+Kim Jae-hyeok, CEO at LetinAR comments, “It was LetinAR’s strong technological base that enabled us to not only overcome the limitations of the existing AR optical system, but to also overcome the vertical viewing angle issue, which has been regarded as a major technological challenge. We plan to demonstrate diverse forms of AR at CES 2020 to show the changes that can be brought to the lives of humankind.”
+
+Yang Sang-hwan, the director of the Naver D2 Startup Factory, added that “LetinAR’s technology excels to the point that it may earn the Prism Award by SPIE, the leading authority in the field of optics.”
+
+Bosch offers spectrum of life-focused technologies
+
+German engineering and tech giant Bosch is presenting connected products for mobility and the home. Among the highlights at the trade fair are solutions that either make use of artificial intelligence (AI) or that were developed or manufactured with its help.
+
+The international supplier of technology and services says it wants to make AI safe, robust, and explainable, whether in manufacturing, smart homes, or automated driving. Followig are some of its innovatuons on show:

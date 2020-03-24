@@ -1,0 +1,33 @@
+[Photo/China Daily]
+
+China's tech powerhouses are lending a helping hand in community management as the stringent supervision of population flows becomes critical to prevent the further spread of novel coronavirus pneumonia.
+
+A range of services backed by the internet of things, cloud computing and artificial intelligence-empowered analysis are at hand to help tackle the epidemic, answering the central government's call to develop such software.
+
+Tencent Holdings Ltd has introduced an electronic exit and entry system for residential compounds by using Tencent Haina, a smart community management system.
+
+Operational starting this month, the service allows properties' management teams to keep precise track of people entering and leaving the neighborhood, including the time, frequency and their health condition.
+
+In addition, residents can obtain an electronic permit that can be scanned by guards each time they leave and enter the area.
+
+The new method aims to improve efficiency, reduce the likelihood of secondary infection, and make swift adjustments in authorization should policies change, said Tencent Haina General Manager Zhang Xian.
+
+"We will keep updating the service to include more functionalities such as automatic generation of selfquarantine reports," Zhang said.
+
+He also noted that around 2,000 communities are so far using the system, involving up to 4 million users.
+
+Similar software was unveiled by Alipay, the digital wallet and online service aggregator owned by Alibaba Group. A suite of mini programs embedded in the mobile app was launched earlier this month, which assists residential property management teams with a range of issues, such as the reservation of masks, outbreak notifications, as well as exit and entry logging.
+
+On Tuesday, pilot programs kicked off in Hefei, capital of Anhui province, where individuals scan a QR code using Alipay to register their personal information at checkpoints.
+
+Residents can also submit information on their health condition using the same app, which greatly improves the efficiency of data collection and enhances statistical accuracy, according to Alipay.
+
+"It's very easy to operate and makes me feel safe and sound if I have to go out for errands," said Li Wei, who lives in Hefei's Tianlong Square, a community that has adopted the service.
+
+With the uncovering of multiple clusters of infection cases, checking health conditions and tightening entry restrictions in neighborhoods has become a key issue in containing the spread of the disease, said Chen Yueliang, an official at the Ministry of Civil Affairs.
+
+"Prevention and control of the disease at the community level is critical. Internet companies are also encouraged to develop new tools that could facilitate faster and safer registration of residents," said Chen during a news conference on Monday.
+
+China is aiming for over half of its communities to be "intelligent" and "sustainable" by 2020, according to the Ministry of Housing and Urban-Rural Development.
+
+There were more than 330,000 such "intelligent communities" in China in 2019, featuring a combination of smart facilities, governance models and service systems, said Ma Hong, deputy director of the China National Standardization Technical Committee, during the group's annual event last year.

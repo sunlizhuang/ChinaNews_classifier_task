@@ -1,0 +1,43 @@
+Chinese chip maker – MediaTek – has just announced the launch of a new SoC on their official website – meet the MediaTek Helio G70.
+
+MediaTek Helio G70 Mid-Range SoC Officially Announced
+
+The new Helio G70 uses an 8-core 64-bit design, with four Cortex A75 large cores clocked at 2GHz plus four Cortex A55 small cores running at 1.7GHz. MediaTek did not reveal which manufacturing process is being used but we can safely assume it’s the same as the G90T, thus the older 12nm.
+
+Either way, the memory supported include LPDDR4x, up to 8GB / 1800MHz; meanwhile storage can only go as far as eMMC5.1. In terms of graphics, MediaTek’s SoC is equipped with a Mali-G52 2EEMC2 GPU; with a frequency of 820MHz and support for a maximum resolution of 2520×1080. As for the cameras, the Helio G70 supports up to a single 48MP camera or a dual 16MP combo setup.
+
+The Helio G70 is made for 4G phones and supports Beidou, Galileo, Glonass and GPS positioning; along with WiFi 5 and Bluetooth 5.0.
+
+So, the MediaTek Helio G70 doesn’t appear to bring top specs. According to Chinese media, this SoC will be used on smartphone costing about 1000 Yuan, around $140. Additionally, they believe it will compete against the likes of the Snapdragon 710. Finally, we could see it be equipped on the upcoming Redmi 9.
+
+MediaTek Helio G70 Specifications: CPU Type 1: Arm Cortex-A75 @ 2GHz
+
+Arm Cortex-A75 @ 2GHz CPU Type 2: Arm Cortex-A55 @ 1.7GHz
+
+Arm Cortex-A55 @ 1.7GHz Cores: Octa (8)
+
+Octa (8) CPU Bit: 64-bit
+
+64-bit Heterogeneous Multi-Processing: Yes
+
+Yes Memory Type: LPDDR4x
+
+LPDDR4x Max Memory Frequency: 1800MHz
+
+1800MHz Max Memory Size: 8GB
+
+8GB Storage Type: eMMC 5.1
+
+eMMC 5.1 Cellular Technologies: 4G Carrier Aggregation (CA), CDMA2000 1x/EVDO Rev. A (SRLTE), 4G FDD / TDD, HSPA +
+
+4G Carrier Aggregation (CA), CDMA2000 1x/EVDO Rev. A (SRLTE), 4G FDD / TDD, HSPA + Specific Functions: DL/UL CA, TAS 2.0, HPUE, IMS (VoLTE\ViLTE\WoWi-Fi), eMBMS, Dual 4G VoLTE (DSDS), Band 71
+
+DL/UL CA, TAS 2.0, HPUE, IMS (VoLTE\ViLTE\WoWi-Fi), eMBMS, Dual 4G VoLTE (DSDS), Band 71 LTE Category: Cat-7 DL / Cat-13 UL
+
+Cat-7 DL / Cat-13 UL GNSS: Beidou, Galileo, Glonass, GPS
+
+Beidou, Galileo, Glonass, GPS Wi-Fi: Wi-Fi 5 (a/b/g/n/ac)
+
+Wi-Fi 5 (a/b/g/n/ac) Bluetooth Version: 5.0
+
+5.0 FM Radio: Yes Read Also: Facebook, Instagram and Twitter will be available soon on Huawei AppGallery More info on MediaTek’s official website.

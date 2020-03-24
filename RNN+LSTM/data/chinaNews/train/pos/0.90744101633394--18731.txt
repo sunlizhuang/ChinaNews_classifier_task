@@ -1,0 +1,39 @@
+(Reuters) - A high-ranking Chinese artificial intelligence (AI) expert on Wednesday defended the country’s social credit score system, despite what he said were implementation issues.
+
+Other countries have expressed concern over the possible impact on their companies of China’s plan to give “social credit” scores to reward or punish individuals and corporations using technology to record various measures of financial credit, personal behavior and corporate misdeeds.
+
+Xue Lan, professor at Tsinghua University’s School of Public Policy and Management, told the Reuters Global Markets Forum the system was in its trial stage. He also said data protection was crucial when it came to facial recognition technology.
+
+Below are excerpts from the chat held in Davos, Switzerland, on the sidelines of World Economic Forum’s annual meeting:
+
+Q- What’s your view on China’s social credit score mechanism?
+
+A- The system is being widely distorted, it’s still at its trial stage. Even though the court gives its judgment, the implementation becomes a huge problem.
+
+One has to put it in the context of China’s 1.4 billion population, and there are all sorts of problems to address.
+
+Reports of big brother trying to collect everyone’s everything are not true...I don’t see social credit giving China any particular advantage, I don’t think the government should use this to gain any commercial advantage. There is no evidence of this in China.
+
+Q- How do you see tech decoupling between China and the United States in the field of AI taking place?
+
+A- In this globalized world it is very hard to be decoupled there’s a lot of collaboration in different areas of supply chains.
+
+It is the precise time the United States and China should work together because AI tech is very different and can cause a great deal of damage to humanity.
+
+Q- How can thornier U.S.-China issues such as intellectual property be resolved?
+
+A- Many such issues are complex; and charges made by the U.S. government are not based on sound analysis. Their think tanks can play a constructive role; go through government to government discussions. In earlier years, there were over 200 dialogues between US and China and now almost none.
+
+Q- What is your view on the debate of facial recognition being a privacy issue?
+
+A- One has to analyze the application environment. Recently, millions of people traveled for the Chinese spring festival, that sort of volume is unprecedented.
+
+In those areas, facial recognition is very useful. There certainly has to be a guarantee of data being protected when those technologies are used.
+
+Q- What is your assessment on the development of Huawei case?
+
+A- Its a unique case where a single company is traced by another country, using all the machinery available to them. That is really unfair.
+
+Tech innovation and competition is actually good for society...Just because Huawei is ahead of U.S. companies, it shouldn’t be singled out. Even the U.S. government should not be chasing other governments using Huawei’s tech.
+
+(This interview was conducted in the Reuters Global Markets Forum, an Eikon-hosted chat room. Sign up here to join refini.tv/2LbSKPl )

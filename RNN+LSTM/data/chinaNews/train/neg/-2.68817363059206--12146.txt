@@ -1,0 +1,27 @@
+Grindr app is seen on a mobile phone in this photo illustration taken in Shanghai, China March 28, 2019. [Photo/Agencies]
+
+Twitter-owned advertising-tech company MoPub and dating app Grindr have been sharing the personal data of their users to thousands of advertising partners in breach of European Union regulations, according to a new study by a consumer rights group.
+
+The Norwegian Consumer Council, or NCC, report found that the online advertising industry was "systematically breaking the law", transmitting personal data and tracking users in ways that are banned under the General Data Protection Regulation, the EU's data law.
+
+The report, titled Out of Control, investigates the collection and use of personal data by 10 popular apps, and claims its findings raise serious concerns about the failure of data controllers to protect consumers' data and privacy.
+
+The study scrutinizes the advertising technology industry for the role of apps in disseminating huge amounts of consumers' personal data, "without their meaningful consent in the name of personalizing advertising". The report's authors say the problem is not limited to a few dating apps, but that it is "endemic" across the sector.
+
+Finn Myrstad, the NCC's digital policy director, told the New York Times, which first reported the study: "Any consumer with an average number of apps on their phone－anywhere between 40 and 80 apps－will have their data shared with hundreds or perhaps thousands of actors online."
+
+The NCC said its report shows that every time people use apps, hundreds of "shadowy" entities receive personal information that can be used for targeted advertising, but may also lead to "discrimination, manipulation and exploitation".
+
+The extent of tracking makes it impossible to make informed choices about how personal data is collected, shared and used, according to Myrstad.
+
+"The massive commercial surveillance going on throughout the ad-tech industry is systematically at odds with our fundamental rights and freedoms," said Myrstad.
+
+The council said it is filing formal complaints for breaches of the GDPR against Grindr, owned by Chinese gaming company Beijing Kunlun Tech, and companies receiving personal data through the app, including Twitter's MoPub, AT&T's AppNexus, OpenX, AdColony and Smaato.
+
+The BBC reports that, in response, Grindr said it was changing its consent platform while Twitter has temporarily disabled the relevant account.
+
+"Every time you open an app like Grindr, advertisement networks get your GPS location, device identifiers and even the fact that you use a gay dating app," Austrian activist Max Schrems said in a statement by the council. "This is an insane violation of users' EU privacy rights."
+
+The dating app Tinder is accused in the study of sharing user data with at least 45 companies owned by the Match Group, which operates a dating website of the same name. The NCC report also criticized other applications, including Qibla Finder, which orients Muslims toward Mecca for prayer; Clue and MyDays used for monitoring fertility periods; and the children's app My Talking Tom 2.
+
+Some 20 months since the EU's GDPR data laws took effect in May 2018, "consumers are still pervasively tracked and profiled online", the report said.

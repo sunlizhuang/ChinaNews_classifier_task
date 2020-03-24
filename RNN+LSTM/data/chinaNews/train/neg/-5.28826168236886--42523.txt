@@ -1,0 +1,34 @@
+As U.S. officials declared the new coronavirus outbreak a public health emergency — imposing measures such as temporary quarantines for people possibly exposed to the virus, and barring entry of foreign nationals who have recently visited China — some experts questioned whether the approach would be effective.
+
+A steep rise in the number of cases in recent days, as well as lingering unknowns about the new virus, called 2019 novel coronavirus, or 2019-nCoV, including its severity and transmissibility, prompted officials to take the actions, said Anthony Fauci, director of the U.S. National Institute of Allergy and Infectious Diseases in Bethesda, Md. at a White House news briefing announcing the measures on January 31.
+
+“It was not clear whether an asymptomatic person could transmit it while they were asymptomatic. Now we know from a recent report from Germany that is absolutely the case,” he said.
+
+Two coworkers at a car parts supplier in Germany passed the virus to others before developing symptoms, doctors report January 30 in the New England Journal of Medicine (SN: 1/31/20). Spread of the virus from people with no symptoms puts a strain on efforts to contain the virus by identifying infected people and tracing their contacts, Fauci said.
+
+Sign Up For the Latest from Science News Headlines and summaries of the latest Science News articles, delivered to your inbox Client key* E-mail* Go
+
+The risk of contracting the coronavirus in the United States is low. Still, the new measures are “not likely to keep us safe,” says Jennifer Nuzzo, an epidemiologist at the Johns Hopkins Center for Health Security.
+
+While the vast majority of the 9,836 cases confirmed as of January 31 are in China, the virus has spread to 21 more countries, and potentially others where mild cases have likely gone undetected, Nuzzo says, especially since the virus can spread asymptomatically. Airport and other screenings have focused on people with symptoms. “That means we don’t have a clear idea of where the virus is and where it is not.”
+
+Consequently, restricting travellers from China won’t keep out the virus, she says. “We may think we’ve built this wall and we’re going to keep the virus out, but we’re not. And there will be fallout,” for example, stigmatizing certain populations or by diverting resources from treating actual patients, she says.
+
+Earlier on January 31, the U.S. Centers for Disease Control and Prevention announced a more limited quarantine, saying that 195 U.S. citizens evacuated from Wuhan to a U.S. military base in Ontario, Calif., on January 29 would be held under a mandatory 14-day quarantine. Explaining the decision for that step during a CDC briefing, Martin Cetron, CDC’s director of global migration and quarantine, said that prior epidemics suggest when people are informed, they are usually compliant with quarantine orders. But such a measure is not being implemented properly “if it induces fear and stigma of individuals, if people aren’t treated with dignity and respect.”
+
+It’s been over 50 years since the federal government has imposed a quarantine, according to the CDC. That measure restricts the movement of someone who is exposed to a pathogen of concern but is not yet sick, while isolation, which has been implemented more often, places restrictions on someone who is ill. The last time quarantine was used was in the 1960s for a suspected case of smallpox, Cetron said.
+
+The new measures are much broader. Beginning February 2, U.S. residents who have traveled in the last two weeks to China’s central Hubei province — where the outbreak began in December — face up to 14 days of mandatory quarantine to ensure they are screened for the new virus and receive proper medical care. Those who traveled to other parts of China will undergo screening, and are asked to stay home and limit contact with others for 14 days.
+
+Foreign nationals who have recently traveled to China will be denied entry into the United States, except for immediate family of U.S. citizens and permanent residents. To streamline screening for the virus, flights from China will land at one of only seven airports — Honolulu, Seattle, San Francisco, Los Angeles, John F. Kennedy in New York City and O’Hare in Chicago, said Health and Human Services Secretary Alex Azar at the White House news briefing.
+
+Such measures are “appropriate, preventative steps” in response to the rapidly growing outbreak of a novel coronavirus to ensure the risk to people in the United States remains low, Azar said.
+
+But some scientists disagree. “What we’re seeing is what will hopefully be viewed in retrospect as an overreaction, and contravenes what we know works during outbreaks,” says Amesh Adalja, an infectious disease specialist at the Johns Hopkins Center for Health Security. Politicians often reach for travel bans when faced with outbreaks. “It looks like you’re doing something, but it ignores the negative effects quarantines can have on outbreak response.”
+
+Travel bans often do little to stem the course of an outbreak, Adalja says. Though foreign nationals infected with HIV were blocked for about 22 years up to 2010 from entering the United States, the ban “‘did not prevent any HIV cases from occurring in the United States.” It is probably already too late for travel restrictions to have any effect on 2019-nCoV’s spread. Epidemiologist and biostatistician Joseph T. Wu of the University of Hong Kong and colleagues report January 31 in the Lancet that an estimated 75,815 people in Wuhan had been infected as of January 25, with numbers of cases doubling, on average, every 6.4 days. Wu and colleagues calculated that Wuhan had already exported 461 cases to Chongqing, 113 to Beijing, 98 to Shanghai and 111 to Guangzhou by the time that Wuhan was locked down (SN:1/28/20). Those cities now may become hubs for further spread around the world.
+
+Travel bans imposed during the 2003 SARS epidemic were widely viewed later as a mistake that caused economic damage to affected areas, Adalja says. “SARS is the most vivid example of travel bans being deleterious in the modern era.” The WHO has since urged governments against restricting travel to places dealing with an outbreak.
+
+In declaring a public health emergency of international concern on January 30, the WHO advised against travel restrictions like those announced by the Trump administration. “We are in direct violation of international health regulations,” says Nuzzo. “Taking non-evidence-based measures can put a chilling effect on international cooperation,” which she says we need to fight this outbreak.
+

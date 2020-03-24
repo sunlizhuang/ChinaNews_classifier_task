@@ -1,0 +1,23 @@
+WeChat rolls out paywall feature for official accounts | In In Heavy Hitters | By By Wei Sheng
+
+2 min read
+
+WeChat announced Wednesday it is testing a new feature which allows publishers on the social media app to add paywalls to their posts.
+
+Why it matters: WeChat is becoming one of the few online content platforms in China to move into paid content, still a niche business for the Chinese internet users.
+
+WeChat official accounts have become one of the most important channels for Chinese internet users to get information online since it was released in 2012.
+
+WeChat’s Official Accounts Platform houses millions of subscription accounts run by individuals, news organizations, enterprises, and government agencies. The newsletter-like format allows account owners to push a series of articles to their subscribers.
+
+Most Chinese media don’t use paywalls to block readers from their advertising-based business models.
+
+Analysts have said that Tencent, which owns WeChat, is trying to rebalance its financial structure by growing WeChat’s revenue after its gaming business was hit hard by tightened regulations.
+
+Details: WeChat is testing a paid content feature for some official accounts and will give access to some “qualified” accounts owners, a WeChat spokesperson confirmed to TechNode on Wednesday.
+
+The feature allows account owners to add paywalls to selected or all content they publish, and readers have to pay to unlock articles or subscribe to the account for a recurring fee.
+
+Android users can pay with WeChat Pay, the app’s mobile payment method. iOS users, however, have to pay through Apple’s in-app purchase service, meaning that the Cupertino, California-based technology giant will take up to 30% as commission for each transaction, a fee known as the “Apple Tax.”
+
+Context: WeChat, the most popular social media app in China with 1.15 billion monthly active users as of September, has stepped up efforts to monetize its services with a series of major updates.

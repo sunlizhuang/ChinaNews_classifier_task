@@ -1,0 +1,37 @@
+As part of the mission, the lander and rover have been taking photos.
+
+(Web Desk) – It’s been just over a year since China’s Chang’e 4 lander and Yutu 2 rover landed on the far side of the Moon. All this time, they’ve been studying the Von Kármán crater and sharing the results through a solitary link - the Queqiao relay satellite that bounces signals to Earth.
+
+As part of the mission, the lander and rover have been taking photos. Oodles of photos. It’s been a photostravaganza. And the Chinese Lunar Exploration Program has just released a new batch of data from the mission’s instruments, after amassing an image library of thousands of files.
+
+In addition to radar and infrared spectrometry data, the release includes high-resolution images of the lunar surface from Chang’e 4’s landing camera and terrain camera, and Yutu 2’s panoramic camera.
+
+The images were taken over 12 lunar days. Because of the way the Moon rotates, its day-night cycle lasts just over 29 days; a lunar day is around two weeks in Earth time, during which the mission is in constant sunlight, necessary for its solar-powered operations. The instruments then power down for the two-week night.
+
+That means there s a Right Pancam. Which means... ANAGLYPHS (full size here - https://t.co/N6xiBSa8EI ) pic.twitter.com/7jC2CQRRXR - Doug Ellison (@doug_ellison) January 4, 2020
+
+There are 12 of these cycles per Earth year, which means the data release includes a year’s worth of photos.
+
+So far, the rover has driven a meandering path a little over 350 metres (1,150 feet) across the 180-kilometre wide (110 mile) Von Kármán crater, which is part of a much larger, older and poorly understood impact site called the South Pole-Aitken basin. It’s around 2,500 kilometres (1,600 miles) across - nearly a quarter of the moon.
+
+As it goes, it is photographing panoramic views and rock formations, documenting the terrain on the previously unexplored far side of the Moon - a region where no other lander has successfully gone before.
+
+The wealth of data the mission is returning may shed some light not just on the history of the Moon and that mysterious giant impact basin, but on the history of the solar system itself.
+
+The relay satellite, Queqiao, is needed because the Moon blocks electromagnetic radiation. The satellite sits in a Lagrange point in reach of both the surface mission and Earth; signals between the two are bounced through it.
+
+Queqiao is also carrying an experiment to detect low-frequency signals from deep space - something that can’t be easily done from Earth because of interference from the ionosphere.
+
+Both rover and lander have now officially exceeded their planned mission durations of three months and 12 months respectively; both have just awoken for a new lunar day.
+
+The next Chang’e mission, Chang’e 5, is due to launch later this year.
+
+Four pics of Von Kármán crater from a couple thousand images released from the Chang e-4 rover Yutu-2 s PCAM. Thanks to @doug_ellison for the instructions & check out the amazing stuff in his thread (processing, 3D models, panoramas...) https://t.co/Vxoese7Q70 pic.twitter.com/8CouxKgCBQ - Andrew Jones (@AJ_FI) January 5, 2020
+
+It’s not headed for the far side like its predecessor. Rather, it is planned to collect at least 2 kilograms (4.4 pounds) worth of lunar samples and bring them back to Earth for study.
+
+If it is successful, Chang’e 5 will mark the first lunar samples brought back to Earth since 1976. Hopefully these samples will enable studies that will help future crewed missions to the Moon.
+
+You can view some of the rest of the images in the data release here, converted by Twitter user Technique Speciales, and here processed by Doug Ellison.
+
+If you’d like to try your hand at converting and processing the images yourself, you can find the files linked on the Chinese Lunar Exploration Program website.

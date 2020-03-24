@@ -1,0 +1,13 @@
+A lot of phones nowadays are lacking a microSD card slot. Although many people find expandable storage useful, some OEMs neglect to include the feature because it takes up precious space that could be filled by “more important” components. Xiaomi, though, might have a solution for this.
+
+Every smartphone is going to need a SIM card slot, so why not have a SIM card that is also a microSD card? That way you don’t need a separate microSD card slot taking up that extra space in your phone.
+
+A patent found by IT Home (via Gizmo China) shows how Xiaomi is working on such a product. The card would have the usual SIM technology on one side and then storage technology on the other. This would, of course, require a specialized SIM tray that can read both sides.
+
+Related: The best Android phones with expandable memory
+
+Unfortunately, the design of the patent suggests that Xiaomi could be working on proprietary storage technology. In other words, this could be something that only Xiaomi phones can use as it wouldn’t be microSD tech that other companies use already.
+
+As brilliant an idea as this is, it might be too late. Since eSIM is becoming a more popular form of technology in smartphones, a physical SIM tray might be something we won’t see in phones anymore in a few years. However, between now and then Xiaomi could entice people looking for expandable storage to buy its products.
+
+What do you think? Is this a great idea or too little too late? Let us know in the comments.

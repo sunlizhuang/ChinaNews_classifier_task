@@ -1,0 +1,29 @@
+The European Union stopped short of an outright ban of Chinese suppliers such as Huawei Technologies Co. from lucrative 5G contracts, as warnings and threats by Donald Trump’s administration failed to convince the U.S.’s closest allies to risk provoking Beijing.
+
+In a set of commonly agreed guidelines on how to mitigate risks stemming from the rollout of next generation telecoms networks, the EU said companies based in non-democratic countries could be excluded from the procurement of certain core components, following assessments by security agencies.
+
+But despite intense U.S. lobbying, the so-called toolbox of measures released Wednesday doesn’t recommend a preemptive blanket ban of Chinese equipment, a decision that follows the U.K. on Tuesday allowing Huawei components into non-core networks. EU member states have until April 30 to implement the mitigating measures included in the toolbox.
+
+The EU’s position reflects a balancing act between concerns about the risk of Chinese espionage and the bloc’s reluctance to pick a fight with its second-biggest trading partner, which has been increasingly infiltrating the continent with large-scale investment projects over the past decade. The fudge is an effort to navigate between Beijing’s warnings of repercussions if companies like Huawei were banned, and U.S. threats of sanctions, such as cuts in intelligence sharing, if Chinese equipment is used.
+
+The policy document urges EU member states to apply ad hoc restrictions on merit for certain suppliers of key 5G components, including core, network management, access network, and orchestration functions. The assessment criteria, already published in December, include “a strong link between the supplier and a government,” and the lack of “legislative or democratic checks and balances” in the home-country of the company.
+
+Mitigating Measures
+
+While these guidelines may encourage some governments to restrict the participation of Huawei and other Chinese companies in parts of their next-generation broadband, they also leave room for interpretation and don’t call for a de facto ban. Decisions are left to individual member states, as the EU doesn’t have the competence to regulate centrally in this area.
+
+The proposals also include bolstering the role of national authorities, audits of telecom operators and measures to ensure diversity of suppliers for any single telecommunications company. In addition, the EU proposes stricter screening of foreign direct investment in the area of 5G and possible anti-dumping duties and other penalties for companies benefiting from state subsidies.
+
+“Today we are equipping EU Member States, telecoms operators and users with the tools to build and protect a European infrastructure with the highest security standards so we all fully benefit from the potential that 5G has to offer,” EU Commissioner in charge of the bloc’s internal market rules, Thierry Breton, said in a statement.
+
+An EU diplomat said the bloc’s countries can also use other legislation, such as rules for procurement in the areas of defense and security, to further limit the use of Huawei’s equipment. The bloc is also preparing beefed up rules that would raise the price of bids placed in Europe by companies based in countries with protectionist procurement legislation, such as China.
+
+Still, the overall stance, first reported by Bloomberg News on Jan. 22, may come as another blow to the U.S. a day after the U.K. risked a rift with President Trump by giving Huawei the green light to help develop Britain’s 5G networks. U.S. officials expressed regret at the decision even though the U.K. announced it would keep high-risk vendors out of the most sensitive core parts of its networks.
+
+U.S. officials have long urged European governments to exclude Huawei from all sections — core and non-core — of their networks, arguing it threatens their national security. The EU partly shares these concerns, as 5G will connect everything to networks, making societies more susceptible to sabotage and espionage.
+
+In a review published in October, the bloc warned against a nightmare scenario whereby hackers or hostile states assume control of everything from electricity grids to police communications and even home appliances.
+
+Huawei and Chinese officials have repeatedly denied the company poses a spying risk.
+
+--With assistance from Aoife White.

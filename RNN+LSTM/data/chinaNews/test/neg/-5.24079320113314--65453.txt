@@ -1,0 +1,57 @@
+The US Justice Department announced indictments of four members of China's People's Liberation Army for alleged involvement in the massive 2017 hack of the database of giant US credit rating agency Equifax.
+
+The hackers are accused of stealing the sensitive personal information on some 145 million Americans, in one of the world's largest ever data breaches, said Attorney General Bill Barr.
+
+"This was a deliberate and sweeping intrusion into the private information of the American people," he said.
+
+The Justice Department indictment charged four members of the Chinese army's 54th Research Institute -- Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei -- with multiple counts of hacking, computer fraud, economic espionage and wire fraud.
+
+- 'Remarkably brazen' -
+
+US Attorney General William Barr says the Equifax hack was a "deliberate and sweeping intrusion" into Americans' private lives Sarah Silbiger, GETTY IMAGES NORTH AMERICA/AFP
+
+Officials said it took well over a year to track them through the 34 servers in 20 countries they allegedly used to hide their tracks.
+
+"This was an organized and remarkably brazen criminal heist of sensitive information of nearly half of all Americans, as well as the hard work and intellectual property of an American company, by a unit of the Chinese military," Barr said.
+
+The hack stunned US officials, and came in the wake of a similar intrusion on the US government's civil service database at the Office of Personnel Management (OPM), also blamed on the Chinese.
+
+Since then, as well, hotels giant Marriott lost data on some 500 million global customers to hackers believed to be Chinese.
+
+US officials believe the Chinese military has undertaken the hacks to amass a huge amount of data on Americans for strictly intelligence purposes.
+
+After the OPM hack there were deep worries that Beijing could use it to identify US spies working under the cover of non-intelligence jobs.
+
+FBI Deputy Director David Bowdich said there was no evidence yet of the Equifax data having been used, for example to hijack a person's bank account or credit card.
+
+But he added: "If you get the personal identifying information of people, you can do a lot with that."
+
+The indictment described a determined but patient effort to get into the computer systems of Atlanta-based Equifax.
+
+The company is one of three giant, little-regulated credit-raters who sweep up financial data on all Americans -- their credit cards and banking activity especially -- that necessarily comes with identifying data like their addresses and social security numbers.
+
+The hackers allegedly took advantage of a vulnerability in the Apache Struts web-application software that Equifax had on its systems.
+
+While Apache notified clients of the problem in March 2017, Equifax didn't fix it for months, allowing the hackers to enter their systems with relative ease.
+
+They infected Equifax's computers with "web shells" that gave them the ability to remotely manipulate them and to steal identities that expanded their access.
+
+Investigators said the Chinese, using encrypted channels, ran some 9,000 queries through Equifax's computing systems to obtain, divide, compress and exfiltrate the data, bit by bit.
+
+- Voracious appetite -
+
+Fighting... and hacking, the US alleges: China's People's Liberation Army Greg BAKER, AFP/File
+
+Besides the data on 145 million Americans, the hackers scored personal information on nearly one million British and Canadians in the breach.
+
+Barr said that while many countries gather intelligence for national security reasons, only China has swept up massive data on civilians.
+
+"For years, we have witnessed China's voracious appetite for the personal data of Americans," he said.
+
+"This data has economic value, and these thefts can feed China’s development of artificial intelligence tools as well as the creation of intelligence targeting packages.
+
+Normally, he said, the United States would not charge members of a foreign military or foreign intelligence with crimes, acknowledging the national security foundations of what they do.
+
+But this case, he said, involves the sweeping collection of data to violate the privacy of civilians.
+
+"The deliberate, indiscriminate theft of vast amounts of sensitive personal data of civilians, as occurred here, cannot be countenanced," he said.

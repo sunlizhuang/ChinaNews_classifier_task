@@ -1,0 +1,69 @@
+China’s Qinghai province is a must-visit for anyone who wants to stay updated with the most advanced PV plants in China, if not the world.
+
+Known as the province on the ‘Sunshine Belt’, Qinghai boasts abundant sunlight. Its total annual solar radiation averages 5500～7400MJ/㎡. In addition, the unexploited desert land in Qinghai is around 100,000km2, making it ideal for building large grid-connected PV plants. Existing technology can support construction of 37GW PV plants in Qinghai, with annual generation capacity topping 5,900TWh.
+
+In 2018, Qinghai’s generation capacity reached 27.99GW, of which 11.91GW was hydro, 9.56GW PV, 2.67GW wind and 0.06GW thermal. Clean energy accounted for 86.5% of the total installed capacity, and new energy surpassed hydro in scale for the first time.
+
+Nurtured by Qinghai’s particularly favourable natural resources, Huanghe Hydropower Development Co., (HHDC), an energy giant under the State Power Investment Corporation (SPIC), started out in hydropower but has gradually evolved into a comprehensive clean energy player covering hydro, PV and wind power.
+
+By the end of 2019, HHDC’s total installed capacity had reached 17.95GW, of which 93% was clean energy. The 37 solar plants (22%), totalling 3.88GW, have consolidated HHDC’s position as the world's largest PV plant operator.
+
+The 37 PV plants built by HHDC have exerted a profound influence on future PV development.
+
+These projects included, but were not limited to, the world’s largest 200MW single PV plant built in Golmud in 2011, the world’s largest hydro-PV hybrid plant - the 850MW LongYangXia plant built in 2014 – and the 100MW national-level solar power demonstration base in 2016. HHDC was also the first company to use n-type and PERC bifacial modules with single axis horizontal trackers.
+
+Each plant is equipped with state-of-the-art equipment and technology, which has enabled HHDC to become a pioneer of China’s PV technology.
+
+HHDC and DuPont jointly released the transparent backsheet bifacial module in 2018, taking a lead in the R&D and promotion of this new technology. It has been announced that the average efficiency for TOPCon cells produced by HHDC is 22.25%. The efficiency for a 72-cell TOPCon bifacial module could reach 385W and the conversion efficiency could top 19.6%. HHDC’s plant in Xi’an has already started to ramp production.
+
+At the same time, HHDC has also made an in-depth study of N-IBC technology. Its IBC cell and module products were successfully rolled out in October 2019 and passed the IEC 61215/61730:2016 standard test. HHDC was in fact the first PV enterprise in China to be certified under the new TÜV IEC standards.
+
+DuPont transparent backsheet used in bifacial modules, HHDC PV plant.
+
+HHDC Chairman XIE Xiaoping explained, “Producing cells and modules is not the aim in itself. We are committed to upgrading our PV plants. Module reliability is an important factor for large plants to be connected to the grid. Advantages in weight reduction and efficiency gain could make transparent modules more reliable. These bifacial modules are our focus at present.”
+
+HHDC and DuPont have established a joint innovation workshop to facilitate new material research and promote industrial development. The performance and life span of the new material used in the transparent backsheet was evaluated at the megawatt-level PV plant demonstration base.
+
+Chen Yutong, PV industry Vice President of DuPont, confirmed that his company completely endorsed HHDC’s strategic highlights.
+
+“We are not only committed to improving efficiency. Return on investment during the entire PV plant life and module reliability are our concerns as well. Many modules assembled with DuPont Tedlar PVF film backsheets have been in use for more than 30 years."
+
+HHDC started to use bifacial modules in power plants on a large scale in 2019. In the recent tender for a 2.4GW power plant in Hainan Prefecture, Qinghai Province, most of the modules to be used by HHDC were bifacial. The 313MW of bifacial modules supplied by Jinko used transparent backsheets from DuPont.
+
+100MW national level solar power demonstration base: 148 mainstream PV products competing with each other
+
+As the world’s largest PV plant operator, HHDC is actively promoting R&D of state-of-the-art technology and products. The company has established a strategic PV power innovation alliance and a number of scientific research platforms to jointly boost technology innovation throughout the whole supply chain.
+
+Xie Xiaoping continued: "Since the beginning of this year, the Middle East, South America and other regions have quoted quite low bidding prices. Generally speaking, such low prices are not supportable, so many companies will cut their R&D investment, even down to zero. This is not conducive to the healthy development of the industry - we must leave room for advanced technology and products. "
+
+The demonstration projects built by HHDC include, for example, a multi-energy hybrid base, a PV top runner base, the 100MW national level solar power demonstration base and a new energy big data platform. These installations are used to qualify advanced technologies to be employed by more sophisticated PV plants. At present, the hundred-megawatt national level solar power demonstration base is the largest integrated solar power empirical test base in the world.
+
+The hundred-megawatt solar power demonstration base built in 2016
+
+The demonstration base has a total installed capacity of 14.3GW, where 148 mainstream PV technologies and products are compared on the same platform. The base has six testing areas set for comparison of modules, inverters, system structures, design, overall performance and energy storage, with another two outdoor testing platforms for modules and inverters. Areas for new technology and new products have been set aside for future use.
+
+The base is like a huge arena, where testing is conducted against Fraunhofer ISE’s contrastive analysis system scheme. This testing presents authentic and authoritative findings. Advantages and disadvantages of each product are clearly shown on a data analysis platform.
+
+The demonstration base provides detailed test data for design, construction, equipment manufacturing, research and development and specification preparation as well as investment return analysis for the global PV industry. Such data helps to boost technology upgrades and provides technology support for final PV grid parity.
+
+Study on eco-environment impact of large PV plants
+
+During our visit to HHDC, a study entitled “The Eco-Environment Impact of Large PV Plants” caught our attention.
+
+Enjoying special ecological status, Qinghai province is the birthplace of China's Yangtze, Yellow and Lancang Rivers. The impact of PV plant construction on Qinghai’s ecological environment must be taken into consideration in this region.
+
+Xie Xiaoping told PV Tech, "The ecological environment of the Qinghai-Tibet Plateau is particularly fragile. Once damaged, it will be extremely difficult to restore. Therefore, environmental impact and protection has always taken precedence over power generation during our venture into the PV plant sector."
+
+Ecological conservation is a theme running through all PV projects built by HHDC. The company has done a lot of work in plant planning, design, construction and operation to protect the local environment, enhance ecosystem resilience and improve the ecological environment. For example, HHDC’s design philosophy, which provides a scientific approach to prevention, control and vegetation protection, is to adjust plant planning to suit local conditions. Guided by such a philosophy, HHDC has studied equipment selection and set up an environmental monitoring station in the demonstration base.
+
+Six years later, the grassland in the Hainan Prefecture PV industrial park, mainly composed of degraded grassland, has been successfully restored. The research results show that PV plant construction has reduced wind speed by more than 50% and evaporation in sunny days by more than 50%. Desertification was thus prevented as a result of the huge increase of water retained by the grassland.
+
+From remote sensing images sent back by satellite, it can be clearly seen that, starting from 2013, with the expansion of PV plants, the ecological environment has been gradually improved and vegetation coverage has been on the rise year on year.
+
+Xie Xiaoping concluded: "Large PV plants will contribute to the recovery of the ecological environment in this region. On the other hand, ecological restoration will help enhance the safe and stable operation of PV power generation equipment, to introduce a win-win in future. We will combine a variety of research methods and continue to focus on the influence of large PV plants on the ecological environment, providing technical support for ecological protection and assisting management decision-making on large solar parks."
+
+HHDC is currently advancing the Hainan Prefecture UHV DC project in Qinghai, with a planned base capacity of 16.86GW. The consortium formed by SPIC and HHDC has won 4.05GW in new energy contracts. In addition, HHDC has accelerated infrastructure planning in Hainan for a GW-level new energy base (two parks in one region).
+
+In the meantime, HHDC has initiated the compilation of a Clean Energy Development Plan for Haixizhou as part of the ’Fourteenth Five Year Plan’, paving the way to implement SPIC’s “2035 World-Class Strategy” in Haixizhou.
+
+By the end of 2020 and then 2025, HHDC’s installed capacity is foreseen to reach 21GW and 25GW respectively.

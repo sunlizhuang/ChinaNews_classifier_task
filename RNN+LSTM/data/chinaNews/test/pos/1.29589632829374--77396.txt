@@ -1,0 +1,31 @@
+Shanghai-based manufacturing company Universal Scientific Industrial will begin supplying the system-in-package for Apple's upcoming Ultra Wideband item tracking tags in the second to third quarter of 2020, with shipments to reach tens of millions of units by the end of the year, according to analyst Ming-Chi Kuo.
+
+In a research note with TF International Securities, obtained by MacRumors, Kuo said Universal Scientific Industrial will be the primary supplier of the system-in-package for the tags, fulfilling around 60 percent of orders. Similar to the one inside AirPods, the system-in-package would be a densely packed circuit board, and it would likely include the Apple-designed U1 chip for Ultra Wideband support.
+
+Apple's tag image asset in iOS 13 code
+
+"We believe that the ultra-wideband (UWB) tag will enhance the user experience of iOS's 'find' and augment reality (AR) applications by offering measurement functions in the short distance," wrote Kuo.
+
+Last month, Kuo said the Ultra Wideband tag would be one of Apple's major new hardware products in the first half of 2020, but he has yet to provide a more specific release date for the accessory.
+
+Multiple reports this week have indicated that a new lower-cost iPhone model and refreshed iPad Pro models with 3D sensing could debut as early as next month, possibly at an as-yet unannounced Apple event on Tuesday, March 31. It is certainly possible that the Ultra Wideband tags could also be unveiled at the March event, if one transpires, but the second to third quarter timeframe for system-in-package shipments leaves room for an announcement at WWDC 2020 in June as well.
+
+It is worth noting that Apple has introduced many of its first-generation hardware products several months in advance of their release, including the original iPhone, iPad, Apple Watch, AirPods, and HomePod, so whether the Ultra Wideband tags are announced in March or June, they might not ship until later in the year.
+
+Announcement vs. shipping for first-generation products: iPhone: Jan 2007 / Jun 2007
+
+iPad: Jan 2010 / Apr 2010
+
+Apple Watch: Sep 2014 / Apr 2015
+
+HomePod: Jun 2017 / Feb 2018 — Joe Rossignol (@rsgnl) October 9, 2019
+
+MacRumors uncovered evidence of Apple working on Tile-like item trackers in iOS 13 code last year, including an unreleased "Items" tab in the Find My app and a potential "AirTag" name for the small, circular tags.
+
+Users would receive a notification when they are separated from a tagged item and, if necessary, they would be able to tap a button in the Find My app that would result in Apple's tag chiming. It would also be possible to disable notifications for "safe locations" such as a home or workplace.
+
+Apple's internal "Items" tab in the Find My app for its Ultra Wideband tags
+
+Apple's tags will likely incorporate augmented reality. Last year, for example, MacRumors discovered that a 3D red balloon could help a user pinpoint a lost item after scanning a room with their iPhone. In his research note today, Kuo echoes that the Ultra Wideband tags will benefit augmented reality applications.
+
+iPhone 11 and iPhone 11 Pro models are also equipped with an Apple-designed U1 chip with Ultra Wideband, which Apple's website says will lead to "amazing new capabilities," and AirTags will likely be one of them.

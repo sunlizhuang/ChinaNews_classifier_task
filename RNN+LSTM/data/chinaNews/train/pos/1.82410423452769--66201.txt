@@ -1,0 +1,65 @@
+One manufacturing company, with half a century of heritage, points the way to what’s next for manufacturing in Australia. Manufacturers’ Monthly finds out.
+
+On a backstreet in south-west Sydney, behind a double-height roller door, lies some of the most advanced manufacturing machinery in the world, one of which is the first of its kind in the southern hemisphere.
+
+Between a coordinate measuring machine, micromoulding machinery, and precision moulding tools, is the latest in additive manufacturing. But, even describing this machine as a 3D printer is somewhat of a misnomer. The machine is a hybrid technology, combining additive manufacturing, 5-axis machining, and in-process inspection.
+
+This is the advanced manufacturing facility of Romar Engineering and operating the machine is Steve Milanoski, formerly of SpaceX. According to Milanoski, the key advantage of this new type of 3D printer is the flexibility, which allows Romar to meet the demands of its varying customer base.
+
+“Being a contract manufacturer means that we specialise in a process that companies don’t want to internalise,” said Milanoski.
+
+The Lasertec 65 joins a range of other specialised machining tools which enables Romar to stay ahead of the varying requirements of the wider Australian manufacturing sector.
+
+“Whether it’s compression moulding, injection moulding, silicon biomedical assembly – all those things we can do, and now with advanced manufacturing we’re focussing on different technological sectors in aerospace, mining, and defence,” said Milanoski.
+
+Now, with the machine on hand, Romar has the ability to shift between different materials, industries, and processes, depending on the requirements of the job.
+
+“You can 3D print metal and machine metal simultaneously, and that allows you a lot of design freedom,” said Milanoski. “You can repair parts, you can make them from scratch, you can just use it for typical subtractive machining or as a typical additive machine.”
+
+At SpaceX, Milanoski printed some of the largest parts that were installed on the company’s Raptor Engines. At Romar, Milanoski is going one step further, testing the machine’s capabilities in any number of configurations.
+
+“We know that the technology works, now it’s just a matter of leveraging that and using that in Australia to advance other industries,” said Milanoski. “I’m here to help other industries adopt these technologies and make them more agile and responsive and also to be more competitive against offshore supply chains.”
+
+So far, Milanoski has been testing out the potential to manufacture aerofoils with a hollow core, for reduced weight without losing strength. In addition, as new materials come onto market, Romar can adopt them in its manufacturing process, the challenge now is to ensure the potential meets the demands of industry.
+
+“When it comes to defence, aerospace, biomedical – whoever we’re working for – the advantage is that our processes, whether it’s different compounds of polymers which we have decades of experience with or whether it’s industrial metal products that we’re 3D printing, our process chain is essentially the same. The difficulties we’re finding is mostly in the project and product specific details.”
+
+These details are where the technological possibilities encased in any machine run up against the human realities of the manufacturing industry. In the first instance, Milanoski notes, you need someone to know how to run the machine.
+
+“This platform demands a very specific knowledge set, you have to have materials engineering, mechanical engineering background, design knowledge, materials testing skills and then you have the application side, programming and the physics background of monitoring a melt pool.”
+
+Collaborating to remain distinct
+
+Within the additive manufacturing section of Romar, it is not only Milanoski’s knowledge, and that of the wider team, that makes the operations possible, but connections to a wider ecosystem of manufacturers.
+
+This has been put into practice partly through the development and use of new materials tailored for additive processes, such as maraging steel which are high strength, high ductility steels, with a low carbon content, overcoming existing issues with die cast aluminium alloys, pointed out Milanoski.
+
+“One of the really exciting things that’s coming about in additive technology is materials and metals that are tailored specifically for the additive manufacturing process.
+
+Typically, some of the aluminium alloys that were made for die casting, for example, were tailored specifically for that process. With the advent of additive manufacturing, the metals supplied are now designed from the atom up for 3D printing.
+
+Taking these qualities to additive manufacturing has required an approach that goes beyond Romar itself. With a low heat treat temperature, until now the maraging steels were not highly corrosion resistant, yet in working with the local arm of specialty steelmaker voestalpine, Romar is utilising the increased qualities of the maraging steel for additive manufacturing.
+
+“You can get incredibly high-strength steel with good ductility now and on top of it, we can process it through machining before heat treatment and not have to worry about any distortion in the heat treat. You can get a part, inspect it, come straight off the machine, put it in the oven, and put it straight into service with insanely good properties and corrosion resistance,” said Milanoski. “To me, that’s one of those materials that can enable the next industrial revolution, but that’s just one of those things of us working with industry closely to pioneer that.”
+
+The collaborative nature of this kind of manufacturing can, however, be discerned without getting into the internals of the company. On the exterior of the site, the Romar logo sits next to that of CSIRO, and it was through these two organisations working together that they were able to acquire a machine such as that which is now in their advanced manufacturing facility. Despite this, just as in working with voestalpine, the associations that Romar has with the CSIRO and other industry networks such as the Advanced Manufacturing Growth Centre (AMGC) and research institutions are about collaborating to deliver on the potential of Australian manufacturing.
+
+“Everybody at that table is very good at one thing, or they bring certain strengths to that table, and it’s a situation where you’re better than the sum of the parts,” said Milanoski. “So, collaborations with CSIRO are mainly more novel ways for us to evaluate and process builds for additive manufacturing. For example, do you need X-ray to validate the quality of your metal, or metal parts, if we can bypass that, you’re looking at anything from a 10-20 per cent cost saving per part, not to mention the lead-time.”
+
+Leveraging the potential of such partnerships enables Romar to stay competitive when competing with overseas engineering firms for contract work, as Milanoski explains.
+
+“I don’t look at those partnerships as being essential to day to day operations, but they’re definitely essential when it comes to future technology and developing a competitive edge. While at Romar we want every Australian business to succeed, at the end of the day we want to be better than every other business that does what we do globally.”
+
+Ensuring longevity amid change
+
+Staying competitive while the manufacturing landscape shifts goes back to what makes Romar, and wider Australian manufacturing distinct – its highly educated and adaptive workforce. As the wider workforce ages, grappling with change, and avoiding losing the knowledge that is contained within the minds of the working population requires thinking about new methods of knowledge transfer.
+
+“Carlo Cartini, director of technical development at Romar, is the guy that knows the secret sauce to almost anything,” said Milanoski. “In the time that Rita Nicolas, manufacturing manager, and Bing Jing, injection moulding process engineer, and some of our other employees have worked here, Cartini slowly hands that knowledge down and then it gets passed on.”
+
+To ensure that expertise is not lost, Milanoski acknowledges that one area of improvement for the company is to take the “tribal knowledge” of the business, and to centralise that in an accessible central repository, “just to future proof ourselves and also gain some efficiency”.
+
+“Romar functions on the strength of its engineering, and that engineering has a ton of IP that we’ve generated. If that IP goes to pasture and employees retire or leave, or anything like that, it detracts from the overall value of the company, so having that in some central location that everyone can access, it helps,” said Milanoski.
+
+As global and local shifts occur that impact upon each manufacturing business in Australia, local manufacturing has to compete and stand out in a global market. For many, Australia’s distinctiveness is its ability to be agile, producing short runs of product at high quality. For Romar, which has been continuously manufacturing since 1968 and has weathered changes to the sector across that time, combining internal expertise with partnerships that incorporate the best that the rest of Australia has to offer has enabled it to remain competitive.
+
+“We’re finding customers that have gone to China or India and they are coming back. They’re saying, ‘We tried this, but we couldn’t get the parameters down’. Whatever their reason might be, they come back to us and say, ‘That trial you ran for us went really well and if we could just continue doing that that would be great’. Then, we can pick up where we left off.”

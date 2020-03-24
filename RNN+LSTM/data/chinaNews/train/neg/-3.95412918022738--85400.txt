@@ -1,0 +1,73 @@
+Leading Chinese technology companies have sold equipment to state governments in the U.S. that can be used by Beijing to obtain sensitive information, according to a security analysis made public Monday.
+
+The contracts for China-based Lexmark and Lenovo permit the companies to send data and information they receive from state and local government work to China under a 2017 law requiring all companies to cooperate with Beijing’s intelligence services, including granting access to the data the companies collect overseas, the report said.
+
+Sen. Marco Rubio, Florida Republican, said at a teleconference Monday marking the release of the report that he is concerned about local governments’ vulnerability owing to their use of Chinese equipment.
+
+“When you embed into a state and local system, it allows you the opportunity to do things like steal intellectual property — research funded by taxpayers that’s then turned to the advantage of their companies, which don’t have to spend the money on the basic research,” Mr. Rubio said.
+
+“We have never faced that sort of vulnerability before in the backbone of our country, and it is something that we need to bring more awareness about,” Mr. Rubio added.
+
+Roslyn Layton, co-founder of the China Tech Threat.com project and a visiting scholar at the American Enterprise Institute, noted that many agencies at the federal level have banned Lexmark and Lenovo. “But they have access to sensitive information at the state level — whether elections, courts, police, education, family and children services and so on,” she said during a telephone briefing for reporters.
+
+China Tech Threat, which released the study online, examined state and local government contracts signed with Lenovo, a laptop computer maker, and Lexmark, a leading manufacturer of printers. The report was produced by Strand Consult, a consulting firm specializing in telecommunications.
+
+More than 30 states have contracts with Lenovo and 12 states have deals with Lexmark, including Delaware, Florida, Hawaii, Massachusetts, New York, Ohio, Oklahoma, Rhode Island, Tennessee, West Virginia, Wisconsin and Arkansas. Current and past U.S. government clients of Lenovo include the Army and Air Force, the Agriculture Department, the Social Security Administration, the Transportation Department and the IRS.
+
+Mr. Rubio said Chinese equipment used by state and local governments could be exploited in a time of conflict to shut down mass transit systems or banking and communications networks. The technology gives China “extraordinary leverage that would not even require them to shoot a single rocket or fire a single bullet,” he said.
+
+Andrew Barron, part of global communications for Lenovo, said the report was full of “misstatements, inaccuracies and innuendo.”
+
+“Lenovo’s history of customer-focused innovation, including recognized industry leadership in product design and development, incorporating the highest degree of safety and security is well known,” Mr. Barron said.
+
+“Our commitment to product security and data privacy compliance, across every one of the over 180 markets where we do business, is unquestionable. We welcome the opportunity to discuss the facts surrounding our practices and track record in these important areas at any time.”
+
+But Sherlyn Manson, Lexmark’s director of global communications, said in a statement that Lexmark is a vendor in good standing with the U.S. government and criticized the report.
+
+“Lexmark’s top priority is security and we are troubled by the many inaccuracies and mischaracterizations contained in this report,” she said. “Our customers can rest assured that our products are secure.”
+
+“Lexmark is an American company founded and headquartered in Lexington, Kentucky, in 1991,” she said in her statement. “Our investors have no operational control over the company. We protect our customers and partners with a holistic, systematic approach to cybersecurity, and we have earned multiple industry and government security certifications that affirm its security policies and procedures.
+
+The security concerns posed by high-profile Chinese companies such as Huawei Technologies and ZTE have been widely covered, but the threat posed by other Chinese enterprises has received less attention, the report’s authors noted. The Pentagon’s inspector general in July highlighted some $33 million in Defense Department purchases of off-the-shelf Lexmark and Lenovo products. These purchases “have been noted on the National Vulnerability Database because of security deficiencies,” the report said.
+
+Dealing with the states
+
+Lexmark and Lenovo are “banned by multiple military and intelligence agencies in the U.S. and around the globe,” according to the report.
+
+But many of the companies’ deals have been signed directly with state governments. Others were negotiated with the trade organization the National Association of State Procurement Officers, with little oversight of the security dimension of the contracts, the report said.
+
+“Chinese hardware and software can facilitate the transfer of data to China where it can be collected, inspected, and processed by the Chinese Communist Party or related actors,” the report said.
+
+“While this can be done illicitly, the contracts of Lenovo and Lexmark and larger Chinese information security laws stipulate as much.”
+
+In addition to the 2017 intelligence law, China enacted an internet law in 2016 that requires network operators for all companies in China — including Lexmark and Lenovo — to store data inside the country and permit Chinese authorities to conduct spot checks of network operations.
+
+Lenovo was founded in China in 1984 and purchased IBM’s ThinkPad division in 2014. Its computers at one time were integrated into the defense infrastructure, including within the Air Force and Navy.
+
+The Navy found that Lenovo servers had been installed on its warships and pulled out the equipment over cyberspying concerns.
+
+Lexmark has been the subject of private cyber security reports over espionage threats and “adversarial use of the company’s printers as a medium for cyber intrusion,” the report said.
+
+“Printers, one of the least secure ‘Internet of Things’ devices, store sensitive data on internal hard drives derived from the various printing jobs executed on a day-to-day basis,” the report said. “This sensitive data can be accessed through various software vulnerability in the printer, making sensitive documentation visible to adversaries and foreign actors.”
+
+According to the report, the Pentagon inspector general in 2019 noted security problems with Lenovo laptops, specifically the installation of “Superfish” advertising software that “in reality served as an information aggregator to identify user trends, surveil user credentials and funnel user data to data storage centers on the Chinese mainland.”
+
+Kentucky-based Lexmark, purchased by a Chinese consortium in 2016, has also been a source of security concerns.
+
+In one case, a vendor sued the Social Security Administration after the agency’s leaders concluded that Lexmark printers posed a security risk to government networks. A case heard before the Court of Federal Claims ruled in favor of the Social Security Administration over concerns that Lexmark printers could be used to obtain sensitive data for China.
+
+A different threat
+
+Mr. Rubio said the U.S. threat from China is unlike the Cold War danger of a Soviet military invasion or the spread of communist ideology.
+
+“It involves diplomacy, it involves coercion through the loaning of money and programs where [the Chinese] create debt traps for countries,” he said. “It involves strategic investment in certain industries, and it involves technology and the ability through state sponsors, and that’s what these companies out of China are: state-backed, state-sponsored companies, are able to acquire market share that put them at an advantage against other competitors.”
+
+The Chinese technology firms also “have the side benefit of embedding them into the technological backbone of countries all over the world including our own,” Mr. Rubio said.
+
+China has been accused of the theft of mass amounts of sensitive data through cyberattacks, including more than 22 million records of federal employees and 60 million records from the health care provider Anthem.
+
+The security report urged state and local governments to review all contracts with Chinese-controlled companies to determine the security risks. The federal government also needs to provide more guidance and support to chief information officers of state governments so they can better assess the risks of doing business with Chinese state-run companies.
+
+Sign up for Daily Newsletters Manage Newsletters
+
+Copyright © 2020 The Washington Times, LLC. Click here for reprint permission.

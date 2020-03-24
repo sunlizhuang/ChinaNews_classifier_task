@@ -1,0 +1,53 @@
+Dixintong Technology Group, whose parent company, D.Phone, is one of the largest smartphone retailers in China, has entered the blockchain space by acquiring a minority stake in a U.S. blockchain company called Monsoon Blockchain.
+
+The agreement was signed on Jan. 7 and the stake was sold at a nine-digit valuation, according to people who are familiar with the matter.
+
+The partnership between the two companies comes at a time when China is encouraging enterprise blockchain adoption as well as the development of emerging technologies.
+
+Started as a mobile phone retailer in 1993, D.Phone went public in Hong Kong in 2014 with four anchor investors including Lenovo Group, Qihoo 360, China Telecom and TCL Corporation. Alibaba’s major e-commerce rival, JD.com, has also acquired 9 percent of Dixintong worth $30 million in July. The firm’s total market capitalization is around $200 million.
+
+According to its 2018 annual report, the company sold nearly nine million cell phones in its more than 1,500 physical stores across the country, generating over $2 billion in revenue and $46 million in net profit for the year.
+
+The parent company has made efforts to expand its businesses to other related industries. It partnered with China’s Tianjin city government in December to build an industrial park focusing on 5G and IoT with a total investment estimated to be over $3 billion.
+
+Political boost
+
+A slew of tech companies have explored blockchain technologies since Chinese President Jinping Xi called on the country to “seize opportunities” in the space. Stock prices skyrocketed for companies whose businesses are related to the new technology.
+
+“When you have that level of endorsement from the government, everything moves much faster,” Donald Basile, the Monsoon's CEO, said.
+
+The country’s two largest telecommunications services providers, China Mobile and China Telecom, are members of a consortium that runs Blockchain-Based Service Network (BSN), a state-backed blockchain infrastructure project.
+
+The Chinese government is also rolling out 5G services in 2019 across the nation. The emerging technology would require new mobile devices. Most major carriers in China have started to offer 5G data plans and cloud services.
+
+The Shanghai government plans to spend millions of dollars on supporting a public blockchain project and open an incubation center for startups that want to build decentralized applications (dapps) on the blockchain. Meanwhile, the Guangdong province has launched a blockchain-based project to help small and medium-sized businesses borrow money from commercial banks.
+
+Top Chinese tech giants such as Alibaba and Baidu have also launched their own projects to integrate blockchain with cloud services.
+
+Blockchain-based marketplace
+
+Monsoon Blockchain touts an ethereum-based protocol that aims to use smart contracts to provide a more efficient marketplace for cloud service providers and potential clients, according to Basile.
+
+He said prices for cloud computing and storage services could vary over time between data centers, depending on locations and capacity. Basile believes that’s where blockchain can play a role.
+
+The firm aggregates prices and collects information about the conditions of data centers across the world. It then submits the data to the blockchain network, he said. On the other hand, companies that want to buy computing and storage services can submit their specific requirements.
+
+The peer-to-peer blockchain-based protocol will use smart contracts to match those companies with the most suitable cloud services provider for them, according to Basile.
+
+Users now need to buy the network’s native token with fiat currency to use the smart contracts on the blockchain. While the token is only circulated within the network, the firm may consider launching a private token sale or issue a public offering in the future when regulators have a clear guidance on the processes, Basile said.
+
+Monsoon Blockchain worked with a spate of IT giants including IBM, Oracle and Alibaba as a data services distributor, said Basile, who previously headed Fusion-io and Violin Memory, both of which are data processing software and hardware providers.
+
+Billion-user access?
+
+While Monsoon Blockchain primarily serves enterprise clients, the deal with Dixintong could boost a consumer-oriented business, potentially bringing users onto its blockchain protocol.
+
+Besides mobile devices, Dixintong also sells telecommunications services such as data plans as a licensed virtual services operator.
+
+Basile said the partnership with Dixintong would give Monsoon the access to billions of users in China to reach a larger scale, which would be otherwise impossible in the U.S.
+
+He said Monsoon could assign a unique identity to each smartphone user on its blockchain platform where they can enjoy cheaper data services thanks to its optimized cloud services solution.
+
+In return, users’ data will be processed and stored in the network. When people use 5G services or devices that are connected to the internet they create much more data than the current network, and that can be valuable for companies to analyze for their business decisions, according to Basile.
+
+“With the scale of people in China, you can have 20 million users in no time, so that’s a huge amount of computing and analytics needed to be harnessed,” Basile said.

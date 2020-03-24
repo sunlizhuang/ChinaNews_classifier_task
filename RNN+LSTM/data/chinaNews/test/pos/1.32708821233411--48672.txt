@@ -1,0 +1,113 @@
+It is funny to think of the modern datacenter as an appliance, like an iPhone, but in the cases of the hyperscalers and the very largest public cloud builders, this is more or less what they are building.
+
+As we pointed out in the first part of this series, best of breed and vertical integration are two opposing forces that have been part of the datacenter since a mainframe first fired up six decades ago in a room with a glass window in it so a company could show off its technical prowess and financial might. Sometimes, vertical integration is almost inevitable, and this is certainly the case with computing on the public cloud and, at some point, on-premises datacenters. And when a vertically integrated platform gets too tight and innovation slows down, best of breed will be the thing that companies shift to, and back and forth, again and again, we will go swinging on the pendulum.
+
+We wanted to take a look at how vertical integration is evolving and expanding in the public cloud, and here is our thesis in a nutshell, using Amazon Web Services as an example. First, AWS aims to reinvent high performance computing (HPC) infrastructure in its public cloud, but it is not alone; all of the top four public cloud providers have that goal. Second, SmartNICs – network interface cards with some compute engines on them for expanding processing of some kind – enable HPC at three of the top four public clouds. And third, AWS Outposts do on-premises public cloud correctly, unlike Microsoft Azure, because of the “Nitro” SmartNIC created by AWS, and this in turn is what is making SmartNIC upstart Pensando so interesting.
+
+So let’s get into the SmartNICs. Not only are the largest public clouds deploying SmartNICs, but three of the top four are designing their own system-on chip (SoC) architectures as innovation and competitive differentiation platforms.
+
+SmartNIC Design Points In The Cloud
+
+Alibaba Cloud’s X-Dragon, AWS’s Nitro, and Azure’s Catapult are SmartNICs designed in-house at each cloud provider to offload the network software stack and management from the compute resources they rent to their cloud customers.
+
+AWS Nitro
+
+AWS published a lot of detail on its Nitro SmartNIC at re:Invent. AWS’s Nitro is now in its third generation. AWS Nitro is based on an in-house SoC designed by its Annapurna Labs team.
+
+Nitro offloads hypervisor functions and provides line-rate encryption and decryption by default for all data passing through the SmartNIC – both for network and local storage traffic. Nitro also provides both boot and runtime hardware root of trust, presumably without using industry standard trusted platform modules (TPMs). Guest applications cannot modify Nitro or server non-volatile memory at any time. Nitro enables AWS to assemble secure “enclaves” or cells of servers, where any failures or intrusions are limited to a small group of physically co-located servers.
+
+Nitro enables AWS customers to run containers, virtual machines or bare metal on any AWS cloud server it is attached to.
+
+Werner Vogels, chief technology officer at AWS, called Nitro the “root of innovation” at AWS, and he credited Nitro with enabling AWS’s Firecracker lightweight hypervisor, which in turn enabled AWS “serverless” offerings like Lambda and Fargate. He also credited Nitro with enabling AWS Outposts, which we will explore more in part three of this series. Vogels also described AWS high-level security this way: Nitro is trusted, and because Nitro is trusted, then the network is trusted – but servers are never trusted.
+
+While AWS touted “greater than 20X performance improvement in 6 years” using Nitro, AWS measured a gross improvement in cross-sectional cluster bandwidth, which is not directly tied to individual point-to-point link bandwidth. AWS network latency improved from 12 microseconds to 7 microseconds.
+
+Microsoft Azure Catapult
+
+Microsoft Azure’s Catapult SmartNIC is now in its third generation (v3 “Dragontail Peak” mezzanine and “Longs Peak” PCI-Express boards). Microsoft has not published Catapult specs but has opened up a bit of its history.
+
+Azure deployed its Catapult v1 (“Mount Granite”) in its WCS cloud storage in 2012, while it deployed its Catapult v2 (“Pikes Peak” mezzanine and “Story Peak” PCI-Express boards) on all new server purchases within Bing and Azure starting in 2015. Azure deployed Catapult v3 in 2017 to accelerate deep neural networks and increase network speed to 50 Gb/sec in Bing.
+
+Catapult v3 looks like it uses a Mellanox ConnectX-3 Pro chip alongside Intel’s Arria 10 FPGA. ConnectX-3 Pro chips first appeared in OCP network mezzanine designs in 2014, so the timing is right for Azure to have standardized on ConnectX-3 at about that time. Mellanox introduced its Innova Flex SmartNIC in 2017, it is based on Xilinx FPGAs.
+
+Microsoft’s BrainWave beta deep learning service forked from Catapult v3 to enable Azure third-party FPGA services for deep neural networks, and in December 2019 deployed that capability to production as its Azure PBS instance type, which are still based on Intel Arria 10 FPGAs.
+
+Azure positions its choice of FPGAs in SmartNICs as a point on the migration path to a custom-designed ASIC. When its cloud needs become stable enough to enable a four-year to five-year useful lifetime in Azure without requiring radical reprogramming, Azure will move to custom-designed logic. In the meantime, Azure believes that FPGAs provide the best combination of low latency, low power consumption, and so forth.
+
+Alibaba Cloud’s X-Dragon
+
+Alibaba Cloud’s X-Dragon SmartNIC is now on its second generation (X-Dragon II), having announced the first generation in 2017. Its second-generation chip enabled its lightweight in-house Dragonfly hypervisor (similar in spirit to Firecracker) along with SR-IOV and an ability to live migrate applications. Because of X-Dragon II, Alibaba Cloud claims its unexpected server failure rate has decreased by a factor of 10. It also credits the X-Dragon II with a fast 22-second startup time for instances with commonly used images and fast provisioning of up to 160,000 virtual CPUs in five minutes for a single customer in a single region.
+
+Alibaba Cloud promotes its upcoming 2020 X-Dragon III deployment as “beyond bare metal performance” because of virtualization offloading, I/O and network stack offloading, low latencies, and low jitter. X-Dragon III will upgrade the SmartNIC SoC for higher performance with lower latency and jitter, as well as dual-uplinkable 50 Gb/sec Ethernet. X-Dragon III also implements line-rate data encryption and decryption.
+
+It is doubtful that X-Dragon SmartNICs use an FPGA or GPU – its custom SoC likely contains custom-designed hardware accelerators.
+
+Google Cloud Chose A Different Path
+
+Google may have opted to design more intelligence into its routers (see more about the Andromeda network controller and the Click modular router to dive into the architecture), relegating its Intel NICs to use Intel QuickData Technology’s DMA and to offload network encryption and decryption from server processors. If GCP has deployed SmartNICs, the search engine giant and cloud provider has stayed completely silent about it.
+
+Merchant SmartNICs
+
+A growing number of suppliers offer merchant SmartNICs for cloud data center use. Most of their business is focused on regional cloud providers that don’t have the hyperscaler and big cloud R&D budgets.
+
+Intel is conflicted about offloading processing from processors, even though Azure’s Intel FPGA-based Catapult SmartNICs do exactly that. Finding more ways for customers to fully utilize processor cycles and therefore drive demand for more processor performance always comes first at Intel. However, in December 2019, Intel announced funding for a new SmartNIC development team based in Israel. It will be fascinating to see whether Intel decides to use Altera FPGAs or designs its own custom SoC – neither of those options is a foregone conclusion.
+
+Nvidia announced its intent to purchase Mellanox in Q1 2019, but has yet to close the deal, pending China’s approval (the EU gave its approval in December 2019). Mellanox Ethernet and InfiniBand NICs have been widely adopted across the datacenter industry. However, Mellanox uses Xilinx FPGAs on its Innova SmartNIC products – and Jensen Huang, Nvidia’s co-founder and chief executive officer, has been very public in his hatred for FPGAs. Therefore, Nvidia will most likely choose to focus on Mellanox’s “BlueField” programmable SmartNIC products, which integrate Arm processors with custom network and security offload logic. Mellanox already has a design center in Israel.
+
+Silicom offers SmartNICs using either Intel or Xilinx FPGAs and also has a design center in Israel.
+
+Pensando is a new very well-funded startup founded by John Chambers, former chief executive officer at Cisco Systems. Bucking the Israeli SmartNIC design center trend, Pensando seems to have design teams in San Jose, California and Bangalore, India. Unlike the other SmartNIC providers, Pensando has already prominently featured its Capri SoC in its spec sheets. This may be a prelude to selling its SoC chips to other SmartNIC vendors or simply to give smaller cloud providers their own contract manufacturing alternative to the in-house R&D at AWS and Alibaba.
+
+To review, let’s keep score on what makes a SmartNIC smart:
+
+SmartNIC Vendor SmartNIC Model Chip Technology AWS Nitro Gen 3 SoC Azure Catapult v3 Intel FPGA Alibaba Cloud X-Dragon III SoC GCP (generic Intel-based) SoC Mellanox BlueField 2 SoC Innova-2 Flex Xilinx FPGA Silicom (many) Intel and Xilinx FPGA Pensando Naples Gen 1 SoC
+
+If Azure has bet that deploying deep neural networks in SmartNICs is the right long-term direction, then Silicom and a few other FPGA-based NIC vendors stand to benefit. But Azure itself has said that it would move to a custom SoC architecture when deep neural network algorithm evolution slows enough to get a multi-year return on investment for designing logic to accelerate those algorithms.
+
+HPC Requires Coherent Memory Across Servers
+
+Traditional scale-out HPC clusters are defined by fast, low latency networks and switch topologies that enable coherent memory architectures. If a cloud does not enable message passing interface (MPI) using coherent memory pools, then it will require refactoring, rewriting and re-validating HPC applications.
+
+Porting HPC software without refactoring and obtaining competitive HPC performance across a virtual cluster in a cloud depends on an ability to create a high-speed coherent shared-memory pool that is isolated from other cloud tenants. This shared memory pool is the heart of a scale-out memory coherent cluster.
+
+Scale-out memory coherent architecture usually depends on implementing some form of remote direct memory access (RDMA). InfiniBand networking standards pioneered RDMA. However, Ethernet standards now incorporate RDMA over Converged Ethernet (RoCE). RDMA enables system architects to implement MPI across a coherent distributed shared memory pool spanning thousands of servers in a cluster (see diagram).
+
+Smart NICs enable three of the top four public cloud providers to also offload RDMA from server processors: Alibaba Cloud, AWS and Azure.
+
+Amazon Web Services Nitro
+
+AWS currently offers nine instance types and sizes through its Elastic Fabric Adaptor (EFA) feature, which depends on Nitro. Peter DeSantis described AWS’s EFA add-in board as supplementing its Nitro SmartNIC using a second board with four times (4X) the bandwidth (from 25 Gb/sec to 100 Gb/sec) and commensurate speed increases for processor offload functions, while maintaining below 15 microseconds network latencies.
+
+EFA supports Ethernet with RoCE and MPI on a small subset of the Nitro-supported type families, which currently includes C5n.18xlarge, C5n.metal, M5dn.24xlarge, M5n.24xlarge, R5dn.24xlarge, R5n.24xlarge, and P3dn.24xlarge. EFA also supports OS-bypass for Linux, which is the preferred OS for most HPC applications. EFA is also offered on i3en.24xlarge, I3en.metal and Inf1.24xlarge instance types. AWS’s I3en type family is not broadly supported by Nitro yet. AWS plans to add EFA support to additional instance types over time, specifically bare metal and the two largest “n” instances of any given type.
+
+The new Inf1 instance family at AWS is likely Nitro-supported, as of December 2019, based on AWS’s in-house “Inferentia” deep learning inferencing accelerator chips. (AWS documentation had not yet caught up with the new Inf1 type family at the time this article was written.)
+
+AWS currently offers EFA in us-east-2 (Ohio), us-east-1 (N. Virginia), us-west-2 (Oregon), eu-west-1 (Ireland) and AWS GovCloud (us-gov-west-1 and us-gov-east-1). AWS promises EFA support for additional regions in coming months. We note that EFA-supported instance type sizes are the largest and therefore most expensive sizes of all supported type families.
+
+Also, the P3dn instance type family uses NVIDIA’s biggest server GPUs, the Tesla V100 model, and the supported EFA type includes eight of them. US pricing for commercial regions is between $31 and $34 per hour.
+
+High hourly pricing for these large configurations provides the margins needed to amortize the cost of adding the high-performance EFA module to the Nitro SmartNIC.
+
+Microsoft Azure Catapult
+
+Azure currently supports Ethernet and InfiniBand networking, including RoCE and MPI, for three processor-only instance types and for two GPU-accelerated instance types. Azure currently uses a trailing ‘r’ in its instance size names to designate its 38 InfiniBand-capable types and sizes.
+
+Alibaba Cloud’s X-Dragon
+
+Alibaba Cloud currently uses an advanced Ethernet capability called RDMA over Converged Ethernet (RoCE pronounced “rocky”) with its two ‘SCC’ designated supercomputing instance types. It also offers an InfiniBand network option.
+
+Google Cloud Chose A Different Path
+
+Google Cloud seems to have adopted the Dodge Ball motto of “aim low,” and asks HPC customers to use Preemptible instance types, which requires refactoring of existing HPC applications to handle random service interruptions as opposed to less frequent checkpoints. In addition, Preemptible instance types have many other restrictions, including lack of any Service Level Agreements (SLAs). Refactoring aside, Google’s Cloud TPU Pods are not a viable HPC option because they cannot be programmed at all with traditional supercomputing software development tools.
+
+Merchant SmartNIC silicon
+
+Pensando’s Capri SoC looks like the only near-term choice for other clouds and NIC vendors to implement a modern SmartNIC using merchant silicon. However, its Capri SoC does not yet list RoCE support, though it does list NVMe-oF (over fabrics, such as Ethernet, InfiniBand or Fibre Channel) with RDMA capability. We have no doubt that Pensando could easily play here – and soon.
+
+So, we have our choice of cloud network architectures that implement RDMA in a way that supports HPC MPI at three of the top four public clouds – Amazon Web Services, Microsoft Azure, and Alibaba Cloud.
+
+On top of that, network line-rate data encryption and decryption plus sole-tenant server isolation is enabled for all three, though it is still in the cloud.
+
+In the next installment, we’ll discuss why AWS Outposts are the on-prem shard of public cloud that Azure Stack should have been and why that is due to SmartNICs.
+
+Paul Teich is an incorrigible technologist and principal analyst at Liftr Insights, covering the emergence of cloud native technologies, products, services and business models. He is also a contributor to Forbes/Cloud. Paul was previously a principal analyst at Tirias Research and senior analyst for Moor Insights & Strategy. The author and Liftr Insights may, from time to time, engage in business transactions involving the companies and/or the products mentioned in this post. The author has not made an investment in any company mentioned in this post. The views expressed in this post are solely those of the author and do not represent the views or opinions of any entity with which the author may be affiliated. You can reach him by email at Paul.Teich@LiftrInsights.com.

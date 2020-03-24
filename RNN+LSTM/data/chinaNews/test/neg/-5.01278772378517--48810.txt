@@ -1,0 +1,109 @@
+Bats are likely the cause of coronavirus from China after scientists find the virus is 96 per cent identical to one found in the animals.
+
+The virus, which has killed 362 people so far, was believed to have transferred to humans from an animal, but identifying which one has been challenging.
+
+Now, using samples from seven patients with severe pneumonia caused by the coronavirus, scientists have found striking similarities to coronavirus found in bats.
+
+The DNA is also 79.5 per cent identical with the deadly SARS coronavirus, which suggests vaccines for the now non-existent virus may help with this epidemic.
+
+Global cases have risen above 17,450, higher than the total recorded cases of the SARS virus that killed some 800 people in 2002 and 2003.
+
+Although scientists stress the animal source of the recent outbreak in China is yet to be officially declared, experts have confirmed a wholesale animal market in Wuhan city is to blame.
+
+A menagerie of live animals including koalas, rats and wolf pups were available at the Huanan Seafood Market in central Wuhan - the outbreak's epicentre.
+
+While most research has pointed towards bats, research at Peking University implicated snakes as the most likely 'reservoir' of the rapidly spreading virus.
+
+Researchers say bats are the hosts of a coronavirus almost completely identical to the one infecting people in the current outbreak, which began in Wuhan, China (stock image of a fruit bat)
+
+More than 17,200 people have been infected worldwide, higher than the total recorded cases of the SARS virus that killed some 800 people in 2002 and 2003
+
+The Huanan market was a hotspot with locals, who could choose to buy their meat 'warm' meaning it had been slaughtered just moment prior.
+
+Dr Michael Skinner, reader in virology at Imperial College London, said: 'The discovery definitely places the origin of nCoV in bats in China.
+
+'We still do not know whether another species served as an intermediate host to amplify the virus, and possibly even to bring it to the market, nor what species that host might have been.
+
+'But the high level of sequence similarity between nCoV and TG13 is not really compatible with some of the more exotic hosts that were considered earlier in the epidemic.'
+
+Zheng-Li Shi, a virologist and researcher at the Wuhan Institute of Virology, and colleagues, analysed samples of seven people with what's been dubbed '2019-nCoV'.
+
+WHAT OTHER RESEARCH POINTS TO BATS AS THE SOURCE OF THE THE KILLER VIRUS? Researchers at the Chinese Academy of Sciences, the People's Liberation Army and Institut Pasteur of Shanghai came to the conclusion that the coronavirus may have come from bats. In a statement, the team said: 'The Wuhan coronavirus' natural host could be bats… but between bats and humans there may be an unknown intermediate. Research published in the Lancet also determined bats as the most probable original host of the virus after samples were taken from the lungs of nine patients in Wuhan. The team suggested that bats passed the disease on to an 'intermediate' host which was at the Huanan seafood market in Wuhan before being passed on to the 'terminal host' — humans. Authorities have pointed the blame on food markets in Wuhan, the Chinese city at the centre of the outbreak that scientists are scrambling to contain. Rodents and bats among other animals are slaughtered and sold in traditional 'wet markets', which tourists flock to see the 'real' side of the country.
+
+Six of those included were workers at the market in Wuhan, where cases were first reported in December.
+
+The team found that full-length genome sequences - which determined the DNA of the virus - from five of the patients, were almost 100 per cent identical to each other.
+
+They compared it with TG13, a coronavirus in bats, and found the virus sequence is 96 per cent identical at the whole-genome level to a bat coronavirus.
+
+This evidence suggests bats are a probable source of this coronavirus, according to the publication in the journal Nature.
+
+This jump between species is rare and makes the virus zoonotic — capable of infecting different species.
+
+Bats are unaffected by the pathogens in their bloodstreams but people have no protection to the viruses as they are foreign to human immune systems.
+
+And once in humans, it can then be easily passed from person-to-person through coughs or sneezes.
+
+Zheng-Li Shi and colleagues also found the new coronavirus shared 79.5 per cent sequence identity with SARS, and it enters the body through the same route - via a cell receptor called ACE2.
+
+This suggests there are some genetic differences between the novel coronavirus and SARS, but their structures are similar.
+
+A test developed by the researchers was able to detect 2019-nCoV in oral swab samples. But samples taken about 10 days later did not have a positive result.
+
+This suggests the most likely route of transmission is through the airways.
+
+However, the authors say other routes may be possible, and more patient data is needed to investigate transmission routes.
+
+In a separate study also published in Nature today, Yong-Zhen Zhang and colleagues at Fudan University, Shanghai, looked at a 41-year-old male market worker admitted to a hospital in Wuhan on December 26 2019.
+
+Chinese authorities reported 2,829 new cases over the last 24 hours, taking infections to nearly 17,500 worldwide
+
+It comes as the epidemic's official death toll soared overnight by 57 to 361 cases in China, plus one in the Philippines
+
+SCIENTISTS SAY SNAKES ARE THE SOURCE OF CORONAVIRUS Researchers at Peking University believe that 2019-nCoV is made up of a combination of one that affects bats and another, totally unknown coronavirus. They think genetic material from the two recombined, picked up a protein that lets viruses bind to certain host cells - including those of humans. When they analysed the genes of strains affecting various host animals, the team found that snakes were susceptible to the most similar version of the coronavirus, and likely provided a 'reservoir' for the viral strain to grow stronger and replicate. Snakes likely served as the jumping-off point for the virus to begin infecting humans, the team said. 'Results derived from our evolutionary analysis suggest for the first time that snake is the most probable wildlife animal reservoir for the 2019-nCoV,' the authors wrote in the Journal of Medical Virology.
+
+He had experienced symptoms of respiratory illness, including fever, chest tightness and a cough.
+
+The authors performed genome sequencing on a sample of fluid taken from his lung.
+
+They identified a novel virus and found that the viral genome shared 89.1 per cent similarity with SARS-like coronaviruses from bats.
+
+But the researchers say it is not possible to conclude from the analysis of a single patient that this coronavirus is the cause of the current outbreak.
+
+Despite extensive treatment efforts, the patient had respiratory failure and his condition did not improve after three days of treatment.
+
+Ian Jones, professor of virology at University of Reading, said: 'These two scientific papers provide the formal evidence for what is already widely known.
+
+'2019-nCoV is a bat virus, and SARS-CoV, which caused an epidemic in 2002/3, is the closest relative seen previously in people.
+
+'Most encouragingly though, this indicates that treatments and vaccines developed for SARS should work for the Wuhan virus.'
+
+Pictures emerging on Twitter shows soup cooked with a bat. Bats are used in traditional Chinese medicine to 'treat' a series of illness, including coughing, malaria and gonorrhea. Bats have been confirmed as the most likely source of the infection
+
+Dr Skinner added: 'Together, these papers describe the first steps in understanding the evolutionary and epidemiological origins of WHCV/2019-nCoV.
+
+'The speed of their appearance attests to the rapid pace and extent of scientific and technological progress, globally - but not least in China, since the SARS epidemic in 2002-3.
+
+'They confirm some of the early suspicions, discount others and, typically, raise even more questions that many are already trying to answer - but those answers need more information, which may not be forthcoming for several years.'
+
+Some of the patients' antibodies, which fight disease, were shown by Zheng-Li Shi and colleagues to have the potential to neutralise the virus.
+
+And the research suggests that a previously identified horse antibody against SARS also neutralises the virus.
+
+However, whether or not these cross-react with the current strain needs to be confirmed using serum from humans who have recovered from SARS.
+
+As scientists race to find a vaccine, which may take years, the epidemic's official death toll soared overnight by 57 to 361 cases in China. One person has also died in the Philippines.
+
+Chinese authorities reported 2,829 new cases over the last 24 hours, taking infections to above 17,450 worldwide.
+
+Within a month, the never-seen-before coronavirus strain has spread at an alarming rate. It has reached 23 countries including the UK, US, Canada and Australia.
+
+Developments forced The World Health Organisation to declare a public health emergency last week due to high concerns the virus will spread to countries with weaker health systems.
+
+Eleven British nationals returned from China on Sunday night as part of the Government's rescue programme.
+
+The Foreign Office started pulling diplomats and their families from the disease-hit region last Friday. Around 150 people and 50 others, mainly from the EU and 20 from Spain, arrived at RAF Brize Norton, in Oxfordshire, on January 31.
+
+But some 30,000 Brits are still trapped in China and have reportedly been told to make their own way home.
+
+The highly contagious infection can spread via a simple cough, sneeze or handshake and the virus can live on inanimate objects such as door handles.

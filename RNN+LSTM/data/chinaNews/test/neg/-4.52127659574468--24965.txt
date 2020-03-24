@@ -1,0 +1,15 @@
+During the kind of virus outbreak that China and other nations are now contending with, time is of the essence. The earlier the warning, the better the chance to contain the contagion.
+
+One problem, though, is that governments are sometimes reticent to share information. Such was the case in 2002 and 2003, when Chinese authorities were accused of covering up the SARS epidemic that eventually claimed over 740 lives around the world.
+
+With the current outbreak, involving a coronavirus that originated in Wuhan and has so far taken over 40 lives, the Chinese government is being more transparent, as Germany’s health minister noted to Bloomberg yesterday on the sidelines of the World Economic Forum in Davos. (Others share a dimmer view of its efforts.)
+
+But even if Beijing had been less forthcoming, the world now has better information tools at its disposal than it did 17 years ago. One is provided by Bluedot, a Toronto startup whose AI-driven health monitoring platform analyzes billions of data points. Launched in 2014, the venture alerted its clients to the outbreak on Dec. 31, well ahead of notifications from the World Health Organization and US Centers for Disease Control and Prevention.
+
+The company says it “uses big data analytics to track and anticipate the spread of the world’s most dangerous infectious diseases.” Last August it announced an investment round that brought its total funding to about $10 million.
+
+Bluedot uses natural-language processing and machine-learning techniques to sift through global news reports, airline data, and reports of animal disease outbreaks, as described by Wired. Epidemiologists look over the automated results, and if everything checks out, the company sends alerts to its clients in the public and private sectors.
+
+BlueDot tries to track and move information faster than the disease can travel. It correctly predicted where outside mainland China the Wuhan virus would land—Bangkok, Seoul, Taipei, Tokyo—after its initial appearance.
+
+Company founder Kamran Khan told the Canadian Press, “On one hand, the world is rapidly changing, where diseases are emerging and spreading faster. On the other hand, we happen to have growing access to data we can use…to generate insights and spread them faster than the diseases spread themselves.”

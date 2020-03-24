@@ -1,0 +1,47 @@
+Source: Xinhua| 2020-01-17 17:43:49|Editor: Wang Yamei
+
+Video Player Close
+
+HANGZHOU, Jan. 17 (Xinhua) -- After two years confined to his bed, a 72-year-old paralyzed Chinese man finally takes a sip of cola "on his own" with mind control, becoming the oldest patient to achieve the feat in China.
+
+"Hold the can, move it toward your mouth and make some adjustments." The patient, surnamed Zhang, followed instructions to move a mechanical arm with his mind as onlookers urged him on.
+
+When he finally did it, he received a round of applause inside a ward of the Second Affiliated Hospital of Zhejiang University School of Medicine. "Fabulous!" Doctors and his family cheered and celebrated. The whole process took about 30 seconds.
+
+It has been two years since a car accident left Zhang, a retired teacher, paralyzed from the neck down, but completely aware of his surroundings.
+
+In August 2019, he and his family signed an agreement with the hospital and a research team at Zhejiang University to conduct a brain-computer interface (BCI) program, hoping to break the physical barriers and improve his quality of life.
+
+Now, after five months, he can drink, eat, shake "hands" and even play mahjong on the computer, which he has always been fond of.
+
+How did he achieve it?
+
+The team used a surgical robot with a precision of 0.1 millimeters to send two microelectrode arrays in the cerebral cortex to detect neural signals. The computer then captures the signals and translates them into specific instructions.
+
+"The BCI technology is to build a direct path between the brain and external devices so as to establish a channel to decode the brain's electrical language," said Zhang Jianmin, director of the neurosurgery department at the hospital.
+
+"When the spinal cord and motor nerve pathways are damaged but the cerebral cortex functions are still sound, the brain can directly control the external devices," he added.
+
+But science can only do part of the job. The patient still has to work on his own.
+
+After the implantation, Zhang received over four months of adaptive training to help himself master the skills.
+
+First, he was trained to learn how to control the cursor on the screen with his mind and move it in a two-dimensional space and a three-dimensional space.
+
+Then he moved a step further by learning to use his mind to control the robotic arms to move in nine directions. When all that had been achieved, the old man finally was able to control the robotic arms with his mind to conduct complex actions such as shaking hands, drinking water and eating.
+
+The retired teacher has become the oldest patient to mind-control a robotic arm in the country.
+
+BCI-based mind control has been a focus in the field of scientific research in recent years.
+
+Research teams at the University of Pittsburgh and the California Institute of Technology have successfully enabled paralyzed patients to control robotic arms through this technology. Tesla's CEO Elon Musk in 2017 launched a startup called Neuralink, hoping to industrialize this technology.
+
+In China, the technology, too, is under the spotlight. In 2014, a team from Zhejiang University placed an electrocorticography (ECoG) grid electrode into a volunteer's brain, which enabled her to control the robotic arm with her mind to play rock, paper, scissors.
+
+"The ultimate purpose of basic medical research is to solve practical problems for patients," said Zhang Jianmin. "This achievement can help patients with limb paralysis begin motor function reconstruction so as to improve their quality of life."
+
+But the doctor also admitted that some technical bottlenecks must be settled before its large-scale application.
+
+"For instance, we have to solve the problem of signal attenuation after the chip implantation, do more research on how to avoid damage to the brain, and how to further improve safety and efficiency," he said.
+
+(Ke Lele contributed to the story)

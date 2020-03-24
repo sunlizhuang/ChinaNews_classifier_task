@@ -1,0 +1,13 @@
+by bunnydoge
+
+Like Brave New World, economic activity in China always struck me as a little bit circular — aggressive local government growth targets, aggressive subsidies in strategic industries, extensive regulatory bureaucracy, and of course, ghost cities. Economic progress always seems paired with meaningful negative externalities, whether it be soaring home prices or poor air quality. Where in all this frenzy of activity would we see real productivity and GDP growth?
+
+In an incredible paper from Merics China Monitor, UCSD professor Victor Shih shows that the Chinese economy does not come remotely close to earning its cost of capital: interest is actually growing faster than GDP, by a LOT. Charts
+
+Marginal growth in the Chinese economy could actually be considered a Ponzi scheme: interest service on credit was 17trn RMB in 2017 while incremental nominal GDP was only 7trn RMB: for every $2.50 lent out, we saw $1 of GDP growth. That’s not economic profit, that’s just revenue: it’s completely possible that with a growth of $1 of revenue per $2.50 of credit, that the Chinese economy is engaging in negative return activity at this point. Charts
+
+A large portion of incremental interest growth seems to be getting rolled over: total credit grew by 52trn RMB, growing at 34% YoY despite only a 6% GDP growth rate. If Shih’s estimate is correct, 52trn RMB is colossal. That’s equivalent to $7.5trn USD, or roughly 35% of US GDP, in new credit being issued. Charts
+
+This effectively makes the Chinese economy a Ponzi scheme that lights money on fire: State-owned enterprises owe loans that can never get repaid, and State-owned banks continually amend and extend non-performing loans (NPLs). Since there never comes a “judgment day” where a self-interested third-party demands repayment, the entire cycle of borrowing at high rates and investing at a low return continues indefinitely. This inability of banks to recognize nonperforming loans is what most gives China its Brave New World quality: with muted market signals it’s impossible to tell if you’re building a bridge to nowhere. The Chinese government is paying people with its own paper, and recording debts, which are also denominated in its own paper. Charts
+
+Above, total credit has grown 33.8%, from 295% of Chinese GDP to 329% of GDP.

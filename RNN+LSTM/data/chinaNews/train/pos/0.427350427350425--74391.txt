@@ -1,0 +1,27 @@
+Oil major Shell has signed a multiyear offtake deal with what is slated to be Europe’s largest battery installation.
+
+The 100-megawatt Minety project in the southwest of England, an area with a high concentration of solar power capacity, is expected to be completed by the end of the year. The project consists of two 50-megawatt systems.
+
+The financial backers of the Minety development are a state-run utility firm China Huaneng Group and the Chinese sovereign wealth fund CNIC.
+
+Minety could be the first 100-megawatt battery project completed in Europe. In contrast to the U.S., grid batteries in Europe have only rarely topped 25 megawatts, although there are a few 100-megawatt projects in the planning pipeline, notably in the U.K.
+
+Rory McCarthy, senior analyst at Wood Mackenzie Power & Renewables, said projects of this size could become a more common sight.
+
+“As the business case has gotten more challenging, we are seeing fewer but bigger systems being deployed on the market, which benefit from economies of scale, with a lower per-megawatt revenue target required,” McCarthy said.
+
+Of the biggest projects in the pipeline, Minety is among the furthest along and at a scale the U.K. market can expect more of, McCarthy added. “We will likely see more [big projects] as a result of softened planning restrictions for stationary energy storage projects."
+
+Shell subsidiary Limejump, acquired in March 2019, will use the power to optimize local renewable power usage.
+
+According to the project’s grid connection engineer G2, the project combines a power control system from Sungrow and batteries from Samsung. The same documents also claimed that the offtaker would be signing a seven-year deal. Shell would not comment on the duration of the deal when contacted by GTM.
+
+“Projects like this will be vital for balancing the U.K.’s electricity demand and supply as wind and solar power play bigger roles in powering our lives,” said David Wells, VP of Shell Energy Europe. "Batteries are uniquely suited to optimizing power supplies as the U.K. moves toward a net-zero-carbon system.”
+
+Limejump claims to manage the largest fleet of batteries in the U.K. and will integrate power from Minety into its Virtual Power Platform.
+
+Shell has also invested in the residential storage market through its acquisition of high-end system provider sonnen, a deal completed in February 2019.
+
+The U.K. requires energy projects of 50 megawatts and larger to go through a national planning process with government oversight, but since late last year, energy storage systems have been exempt.
+
+EDF acquired U.K. storage developer Pivot Power in November 2019. The 40 project sites in Pivot's pipeline have been selected to maximize potential income from future EV charging hubs, in addition to the more familiar revenue stack.

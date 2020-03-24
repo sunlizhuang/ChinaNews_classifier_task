@@ -1,0 +1,33 @@
+Just 10 days after a pneumonialike illness was first reported among people who attended a live-animal market in Wuhan, China, scientists released the genetic sequence of the coronavirus that sickened them. That precious bit of data, freely available to any researcher who wanted to study it, unleashed a massive collaborative effort to understand the mysterious new pathogen that has been rapidly spreading in China and beyond.
+
+The genome was posted on a Friday night on an open-access repository for genetic information. By Saturday morning, Andrew Mesecar, a professor in cancer structural biology at Purdue University, had redirected his laboratory to start analyzing the DNA sequence, which bore a striking resemblance to severe acute respiratory syndrome (SARS), the 2002 viral outbreak that sickened more than 8,000 people and killed nearly 800. Scientists at the federal Rocky Mountain Laboratories in Montana asked a company to turn the information from a string of letters on a computer screen into actual DNA they could study in lab dishes.
+
+At unprecedented speed, scientists are starting experiments, sharing data and revealing the secrets of the pathogen — a race that is made possible by new scientific tools and cultural norms in the face of a public health emergency.
+
+“The pace is unmatched,” said Karla Satchell, a professor of microbiology-immunology at Northwestern University Feinberg School of Medicine. “This is really new. Lots of people [in science] still try to hide what they’re doing, don’t want to talk about what they’re doing, and everybody out there is like: This is the case where we don’t worry about egos, we don’t worry about who’s first, we just care about solving the problem. The information flow has been really fast.”
+
+Purdue University scientists are preparing to scale up production of experimental drugs that they were initially developing to fight SARS, to see if they show promise against the new coronavirus. Twelve days after the genome was posted, National Institutes of Health scientists published their first analysis, showing that the coronavirus used the same door to get into human cells as SARS. About 12 hours later, a Chinese team of scientists who had isolated the virus from patients showed, using the actual virus, that the team was correct.
+
+Meanwhile, a team at Northwestern recently ordered about a dozen pieces of the viral genome to be synthesized by a company to enable research that will help lead to drugs, vaccines and ways to rapidly diagnose the virus.
+
+Advertising
+
+Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, said in an interview that with the viral genome, researchers have started on developing a vaccine. He is “reasonably confident” that a safety study could begin testing it in people within three months.
+
+“The fact that it’s about three months is really, I think, remarkable, because that would be the fastest that we have ever gotten from the time we got the sequence to the time into a human,” Fauci said. “If we can do that, it would be the fastest on the record.”
+
+He cautioned that doesn’t mean a vaccine would be widely available in three months; larger studies would be required to determine both the safety and effectiveness of a vaccine. But it is still science at light speed; during the SARS outbreak, it took 20 months from getting the virus to genome to the first tests of a vaccine in people.
+
+When SARS began to spread, the tools scientists needed were much less mature, including the basic infrastructure for sharing results rapidly so that anyone could build on them. It wasn’t until 2013 that Biorxiv, a preprint server to share scientific papers, was created so that scientists would have an easy way to widely share results before they had gone through the process of being vetted and accepted by scientific journals — a process that can take many months.
+
+“This is one of the first times we’re getting to see an outbreak of a new virus and have the scientific community sharing their data almost in real time, rather than have to go through classic route of going through the journals,” said Michael Letko, a postdoctoral fellow at NIH’s Rocky Mountain Laboratories.
+
+Andrew Mesecar, a professor in cancer structural biology at Purdue University, said that the difference in the speed of science would have been almost unthinkable when researchers were working on SARS.
+
+Advertising
+
+“Imagine walking from Chicago to San Francisco, and then imagine taking a plane from Chicago to San Francisco. That’s kind of the difference,” Mesecar said.
+
+His hope is that as the secrets of how the virus works are revealed, it will help calm the spreading panic. He noted that influenza sickens and kills large numbers of people in the United States and globally each year, but doesn’t trigger a worldwide panic because the risks are understood and a vaccine exists.
+
+“When you don’t understand something, you panic. You have fear. When you gain an understanding, you don’t fear something as much — you know how it’s going to operate,” Mesecar said. “By sharing that information faster … both research as well as what’s happening on the ground with individuals, I’m hoping that panic and that fear are going to go down.”

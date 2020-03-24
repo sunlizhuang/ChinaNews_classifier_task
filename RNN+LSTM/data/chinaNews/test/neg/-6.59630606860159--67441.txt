@@ -1,0 +1,37 @@
+Fanning the Sino-US tensions further, the US Justice Department has held four members of China's People's Liberation Army (PLA) responsible for the Equifax data breach. A federal grand jury in Atlanta charged the PLA members for stealing Equifax’s “valuable trade secrets” and personal data of its customers, said a DoJ announcement.
+
+“The nine-count indictment alleges that Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei were members of the PLA’s 54th Research Institute, a component of the Chinese military. They allegedly conspired with each other to hack into Equifax’s computer networks, maintain unauthorised access to those computers, and steal sensitive, personally identifiable information of approximately 145 million American victims,” said the announcement.
+
+This is the largest known theft of personally identifiable information ever carried out by state-sponsored actors, said an FBI announcement.
+
+“In a single breach, the PLA obtained sensitive identifying information for nearly half of all American citizens and personally identifiable information belonging to nearly a million citizens of the United Kingdom and Canada,” said a lookout notice issued by the FBI, urging people who have information on these individuals to contact the local FBI office or the nearest American Embassy or Consulate.
+
+“Today’s announcement of these indictments further highlights our commitment to imposing consequences on cybercriminals no matter who they are, where they are, or what country’s uniform they wear,” FBI deputy director David Bowdich said in the DoJ announcement.
+
+China’s foreign ministry denied any involvement in the hack, reported Reuters.
+
+While all organisations have their security systems in place, similar attacks will continue, warned Tim Mackey, senior principal consultant at the Synopsys Cybersecurity Research Centre.
+
+“Attackers of all stripes are continuously looking for insecure systems to compromise. Examples of insecure systems are those with unpatched bugs, weak configurations, poor architectures and code libraries with known vulnerabilities,” he said.
+
+“Such systems then provide an opening for the attackers to embed some form of command and control software as a defence against their original attack point being patched. Once inside, attackers then look for weakly protected data or poorly managed systems. This process is an example of a cyber kill chain, and represents one of many methods attackers use with their primary objective being the identification of weak links.”
+
+Equifax CEO Mark Begor thanked the DoJ for its investigation in a statement on 10 January.
+
+"We are grateful to the Justice Department and the FBI for their tireless efforts in determining that the military arm of China was responsible for the cyberattack on Equifax in 2017,” he said.
+
+“It is reassuring that our federal law enforcement agencies treat cyber-crime – especially state-sponsored crime – with the seriousness it deserves, and that the Justice Department is committed to pursuing those who target US consumers, businesses and our government. The attack on Equifax was an attack on US consumers as well as the United States.”
+
+However, the troubles are far from over for Equifax. Several social media posts blame the firm for the shoddy handling of the situation. Credit ratings agency Moody downgraded Equifax in May 2019.
+
+The breach was entirely preventable, observed attorney Seena Gressin in FTC’s Equifax damage assessment report. In July, the company agreed to pay the US Federal Trade Commission at least US$575 million (£445 million) over the security failure.
+
+The Apache Software Foundation announced in March 2017 a patch for a vulnerability in some versions of its Apache Struts software. The vulnerability allowed attackers to remotely execute code on a targeted web application, said the alert.
+
+Equifax used the Apache Struts Framework in its dispute-resolution system. The firm ignored the alert and the patch, allowing Chinese hackers to tap the vulnerability to get inside Equifax's systems, reported Wired.
+
+“Equifax was not the only target,” said Wayne Jackson, CEO of Sonatype. “Within 24 hours of the Apache disclosure, hackers attempted to exploit the Struts vulnerability in as many as 10 different organisations, including the US DoD”.
+
+“Certificate automation is a fundamental enabler of secure, consistent, always-on operations. In this case, an expired certificate on a data exfiltration monitoring system allowed the breach to go undetected as attackers conducted thousands of unauthorised database queries to collect the personal data,” observed Tim Callan, senior fellow at Sectigo.
+
+“An automated certificate management solution – widely considered to be a best practice for security-sensitive use cases – would have detected and replaced the expiring certificate, preventing their intrusion and protecting Equifax customers against this potentially politically motivated attack.”

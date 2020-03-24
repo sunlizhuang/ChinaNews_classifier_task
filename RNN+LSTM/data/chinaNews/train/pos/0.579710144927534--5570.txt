@@ -1,0 +1,9 @@
+Chinese smartphone maker Xiaomi has just teased the MIUI 12 which will apparently release later this year. The teaser was posted on Xiaomi’s MIUI Weibo page with the text, “# MIUI12 # , Officially set sail.” This comes with an image that says MIUI 12. This is set to be the tenth anniversary of MIUI, as it debuted in 2010. And rumors up until now have indicated that it might bring system-wide dark mode which might with some third party apps as well.
+
+Xiaomi Redmi K20 Android 10-based MIUI 11 update details
+
+According to a report from PiunikaWeb, the update brings a number of software fixes along with the Android 10 upgrade. Before we dig further in the update, let’s talk about the generic updates of the new update. As per the report, this update will bring the MIUI build number to version 11.0.1.0.QFJINXM. This update is about 2.2GB in size and will come as an Over the Air (OTA) update. Now, let’s talk about the update change-log. As previously mentioned, the Android 10-based MIUI 11 update also brings December 2019 Android security patch. Beyond this, this update also increases system security.
+
+Talking about the general fixes, the company has finally fixed an issue with the system status bar and notification shade. Users can now open the notification settings in the Notification shade in the second space. Xiaomi has also made optimizations to the localized payment security icon in India. In addition, the company also fixed overlapping images while taking scrolling screenshots.
+
+The OTA update is likely to gradually roll out to all Xiaomi Redmi K20 devices in India. In case your K20 has not received the update then don’t worry. Your device is likely to get the update in the coming days. This update comes months after the company rolled out the Android 10-based upgrade for the Redmi K20 Pro.

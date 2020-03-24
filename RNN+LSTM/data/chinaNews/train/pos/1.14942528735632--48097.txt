@@ -1,0 +1,15 @@
+After MediaTek announced Helio G90 and G70 series of chipsets, the company has today announced yet another chipset — MediaTek Helio G80. As the name indicate, this new processor sits between G90 series and G70.
+
+Compared to the previously launched Helio G70, this new Helio G80 comes with a slightly higher CPU and GPU frequency and nothing else seems to have changed. Thus, in short, the new Helio G80 is just a slightly bumped up version of the Helio G70.
+
+The MediaTek Helio G80 is manufactured using a 12nm process, similar to the other entry-level and mid-range chipsets. It comes with two Cortex-A75 cores clocked at 2.0GHz and six Cortex-A55 cores clocked at 1.8GHz.
+
+As for the graphics, the chipset packs Mali-G52 MC2 GPU clocked at 950MHz. It also supports up to 8GB of LPDDR4X RAM clocked at 1800MHz and a bit slower eMMC 5.1 technology instead of UFS.
+
+In terms of optics, this processor is capable of handling a single 48MP camera at 17fps or two 16MP cameras at 30 frames per second. As for the display, it supports Full HD+ resolution at 60fps.
+
+Connectivity options include dual-SIM, dual-4G LTE, dual-VoLTE, VoWiFi, single-band Wi-Fi ac (Wi-Fi 5), Bluetooth v5.0, FM Radio, and GPS with GLONASS, Beidou, and Galileo. For charging, it supports Pump Express technology but the company has not yet revealed the charging wattage.
+
+Compared to the G90 series, the Helio G80 lacks dedicated AI accelerators but the company says that the chip’s ISP is capable of features such as object recognition in Google Lens, Smart Photo Album, scene detection, scene segmentation with background removal, portrait-mode enhancements, and facial recognition.
+
+It also comes with support for features like include Voice on Wakeup (VoW) support, EIS, Rolling Shutter Compensation, and an inertial navigation engine. Further, the MediaTek Helio G80 also comes with support for the company’s own HyperEngine Game Technology.

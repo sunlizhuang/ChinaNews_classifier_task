@@ -1,0 +1,225 @@
+TERRY GROSS, BYLINE: This is FRESH AIR. I'm Terry Gross.
+
+The new coronavirus that emerged in Wuhan, China, has killed almost 500 people and prompted the Chinese government to impose severe travel restrictions within the country. The virus has spread to at least 24 other countries, including the U.S. American air carriers have suspended flights to and from China. The U.S. government is barring from entering the country any foreign nationals who visited China within the last 14 days.
+
+Our guest, science writer David Quammen, says the new coronavirus is just the latest example of an ominous trend - humans contracting deadly contagious viruses from wild animals. Other examples include HIV, West Nile fever, anthrax, Ebola and another from the coronavirus family - SARS, severe acute respiratory syndrome, which also emerged in China and killed more than 700 people. David Quammen has written frequently for National Geographic and is the author of several books, including "Spillover: Animal Infections And The Next Human Pandemic." He spoke with FRESH AIR's Dave Davies.
+
+DAVE DAVIES, HOST:
+
+Well, David Quammen, welcome back to FRESH AIR. This is scary stuff, this virus.
+
+DAVID QUAMMEN: Yes.
+
+DAVIES: And it's also a very fast-moving story. You and I are talking on Tuesday afternoon. Things may change a bit by time people hear it.
+
+QUAMMEN: Right.
+
+DAVIES: But give us a sense of how serious the threat is of this virus compared to other outbreaks we've seen.
+
+QUAMMEN: Well, it is very serious and needs to be taken very seriously. And yet it's not an occasion for panic; it's an occasion for calm, effective response. Comparing it to other viral outbreaks is illuminating in some ways and problematic in other ways. Compare it, say, to influenza. Every year, there's a seasonal influenza - sweeps around the world, infects hundreds and hundreds of thousands of people, kills something like 30,000 or 35,000 people in the U.S. every year. And yet it has a very low case fatality rate - case fatality rate, how many die per the number of people infected. It's down, I think, usually around 0.1%, a tenth of a percent.
+
+SARS, the virus that emerged from southern China, or the syndrome caused by a virus that emerged from southern China in 2003 - severe acute respiratory syndrome - it infected 8,000 people, a little over 8,000, and it killed 774, for a case fatality rate of almost 10%; in other words, a hundred times seasonal influenza, the average seasonal influenza. And it scared the bejesus out of the public health and disease scientist experts that I know. They told me that that was a really scary one because the case fatality rate was so high, and it spread quickly. But they managed to stop it, and we can talk a little bit about that.
+
+So here's this novel coronavirus, as they're calling it - 2019 novel coronavirus - and it comes in somewhere between those two case fatality rates. And that is one of the most important numbers that the experts have been watching and that I've been watching over the last week or two. As the numbers of infected people have exploded and the number of deaths have increased steadily, the case fatality rate has hovered, moving downward slowly from about 3% to a little over 2% now. And it is still very unpredictable. We don't know how many people it's going to infect and, therefore, how many people it's going to kill. But it's in the range that requires being taken very seriously.
+
+DAVIES: So let's look at what's - what officials are doing to try and contain this novel coronavirus. You want to describe what's happened in China?
+
+QUAMMEN: China was slow to react to this, particularly the officials in the city of Wuhan and the province of Hubei. And then the horse got out of the barn, and the national officials reacted strongly and sealed off, essentially, first the city of Wuhan and then a number of other cities. So I think there's more than 50 million people who are, essentially, in lockdown with no public transportation going in and out of those cities. China has been cutting internal flights in and out, and other countries have been cutting flights, international flights, in and out of China.
+
+The U.S., in terms of flights, foreign nationals are barred from entering the U.S. if they have recently traveled to China. And U.S. citizens coming back from Wuhan or Hubei province are being quarantined for 14 days, which is the suspected incubation period of the virus. Other countries are eliminating flights in and out of China. I saw this morning that Japan has eliminated flights in and out of China.
+
+So there is this international curtailment of flights in and out of China. And in some cases, people are being screened at airports, and in a limited number of cases, people are being quarantined if they have been in Hubei province and want to come back to the U.S. or to another country.
+
+DAVIES: Do all these seem like reasonable and appropriate steps to you?
+
+QUAMMEN: Well, they're controversial to some people, but to me, they do seem reasonable. Control and containment is important at this point. I don't think it's an infringement or an undue infringement on anybody's personal rights. We have to control cases and monitor cases and trace contacts. And anytime authorities learn that an infected person has ridden on an airplane and then headed off into a city where they've arrived, immediately there are 300 people, roughly, on that airplane who are contacts that have to be traced and have to be monitored, if not isolated.
+
+And the person who has entered the city has gone to his or her family, and there are more contacts there that will immediately have to be traced. That's what happened in Toronto early on during the SARS epidemic. One case got into Toronto, and she spread the infection rather widely as soon as she'd gotten there.
+
+DAVIES: Right. So the steps that managed to bring the SARS epidemic under control, back in the early 2000s, were exactly these kinds of steps?
+
+QUAMMEN: Exactly these kinds of steps. We knew less about SARS at the very beginning, except that it - there was some very dangerous infectious disease caused by an unknown pathogen that had come out of southern China to Hong Kong and gotten to Toronto, Beijing, Bangkok and one or two - I think Hong Kong - one or two other cities. And then there was very rigorous medical isolation and containment and contact tracing. And public health officials were able to reduce the transmission rate of SARS to a very low level in terms of the average secondary cases caused by each primary case, the average number of infections that each infected person caused. They brought that to a very low level, and essentially, they stopped the SARS outbreak.
+
+DAVIES: Right. Now, there've been some reporting suggesting that the Trump administration has, over the last couple of years, reduced the government's ability to fight a viral epidemic. Do you have an opinion about that?
+
+QUAMMEN: Yes. I think it's well documented in the Trump budgets, and it's been, I think, disastrous for the CDC and for our preparedness. My understanding is that Trump's 2020 budget proposed cutting $1.3 billion from the CDC budget. That's 20% below the 2019 level, and the 2019 level contained cuts of $750 million, including - I looked this up recently - including a proposed cut of $102 million specifically for emerging and zoonotic diseases, which is what this is. So the Trump administration budgets have been hamstringing the CDC and our ability to react to circumstances just like this.
+
+DAVIES: Of course, budget proposals aren't always enacted.
+
+QUAMMEN: Your point is well taken, then. Budget proposals don't necessarily translate into approved budgets, but the effort has been there by the Trump administration to reduce, drastically, the CDC, and I think that they have succeeded to a very great degree.
+
+DAVIES: There's been a run, understandably, on protective masks and gloves. Should people be trying to get them?
+
+QUAMMEN: It's a sign of panic that there has been a run, but there has been. I went into my local drugstore here in Bozeman, Mont., yesterday to see if I could buy some masks to take with me, just in case, when I fly to Australia on Thursday. I thought, well, what if on the way back, a typhoon reroutes me through China or something? So I thought I would carry some masks. My local drugstore was sold out of masks, and that has happened a lot of places around the country.
+
+Is that called for? I would say no, despite the fact that I was one person trying to buy some as, you know, an emergency travel precaution. But masks, particularly the simple surgical mask that you see on so many people, especially travelers, I hear the experts saying that those are very helpful in containing the spread of infected droplets from people who are infected - containing coughs, containing sneezes by a sick person - but much, much, much less effective in protecting a well person from the sneezes coming out of another person.
+
+So in other words, wear a mask if you're sick, if you're coughing, as a courtesy to people around you. Don't be nearly as concerned about wearing a mask just as a preventive when you step on an airline or go to a big store.
+
+DAVIES: Right. I think the CDC recommends that ordinary citizens don't really need to worry about masks.
+
+QUAMMEN: Yeah.
+
+DAVIES: But health workers probably should.
+
+QUAMMEN: Yeah. Yeah, I think the CDC is also saying, look - ordinary people, we have a shortage of masks; let those masks be used by health care workers who need them most, rather than wearing them when you go to the hardware store.
+
+DAVIES: David Quammen is a science writer and the author of the book "Spillover: Animal Infections And The Next Human Pandemic." Let's take a break here, then we'll talk some more. This is FRESH AIR.
+
+(SOUNDBITE OF LOOP 2.4.3'S "ZODIAC DUST")
+
+DAVIES: This is FRESH AIR. And we're talking with science writer David Quammen about the coronavirus epidemic and similar outbreaks. Quammen is the author of the book "Spillover: Animal Infections And The Next Human Pandemic."
+
+Well, this outbreak, you tell us, is not exactly random. This is a pattern that's emerging. And you say that a lot of these viruses that we have seen presenting threats to public health are examples of something called zoonosis. What is it?
+
+QUAMMEN: Right. Zoonosis is an animal infection that's transmissible to humans. The animal in which the bug, virus or bacteria or whatever lives is called the reservoir host. A virus can live in an animal discreetly, unobtrusively. And then, occasionally, it spills over into a human victim, which is why - where my book title comes from. And those, then, are zoonotic infections in the human population.
+
+DAVIES: Now, the science here is interesting. Remind us what makes a virus distinct from other pathogens.
+
+QUAMMEN: A virus is not a cellular form of life. A virus is a little package of genetic material inside a protein capsule, and that's all. It can't replicate itself, except in a living cell of some other kind of an organism - an animal, a plant, a fungus, a bacterium. Viruses have to have a host that helps them copy their DNA or their RNA, their genetic material, and produce more copies of themselves. So it's a very, very particular form of organism. People even debate whether it's actually a living form or some sort of a devious mechanical phenomenon, viruses. But very different from bacteria and infectious fungi and the other kinds of pathogens that infect humans.
+
+DAVIES: Right. It doesn't have a biological identity of its own. It needs a host of needs a host to (laughter) have meaning.
+
+QUAMMEN: It needs a host to replicate. That's right.
+
+DAVIES: Right. Now, there are viruses like smallpox that do not come from animals, and they're easier to eradicate, right?
+
+QUAMMEN: That's right. I say in my book, everything comes from somewhere, ultimately. We're a relatively young species, Homo sapiens, so our oldest infectious diseases unique to us, like smallpox, have precursors that were originally animal infections. But smallpox is one that now - well, now it's eradicated from the human population. And one of the reasons it could be eradicated, that we could stomp out smallpox as a human disease, is because there is no other animal host for smallpox. When there's an animal host, then it becomes much, much more difficult to eradicate or even control an infectious virus.
+
+DAVIES: Right. So if we find a virus that's troublesome and we manage to quarantine those who are infected, stop its spread, maybe even we develop a vaccine and we think, great - we're in the clear - we really aren't, are we?
+
+QUAMMEN: No. No. And in fact, one of the very first questions when a new virus appears, a novel coronavirus or a virus that's new to humans of any sort, one group of scientists and public health people start talking about, well, how can we treat this? How can we control it? How can we prevent it spreading through the population, killing a lot of people? And another group of scientists addresses the question, where did it come from? What is the animal host? It had to come from somewhere, probably some sort of a wild animal. And how did it spill over into humans? So they work on the origins and the causal questions, as opposed to the control and treatment questions. And those are the questions that were most fascinating to me and that I wrote about in the book.
+
+DAVIES: Right. So that there are these animals that have this virus and it doesn't kill them, it doesn't make them sick. They just have it. They...
+
+QUAMMEN: That's right.
+
+DAVIES: ...Live perfectly happy lives. You begin your book with the story of a virus that appeared in Australia, which killed horses quickly and dramatically and painfully, and a number of people who treated them. And they had to do this detective work of finding what the reservoir host - what animal had this virus. How do you do that? How do they do that?
+
+QUAMMEN: Well, in this case, it was a virus that was killing racehorses in a stable in a suburb of Brisbane, Australia, called Hendra. And some disease ecologists went in and said, well, we've got to identify the reservoir host. Where did this virus come from? And in particular, a man named Hume Field - he was a veterinarian. And he was working on a Ph.D. in ecology. He made this his dissertation project.
+
+So he trapped all kinds of animals in the area surrounding the stables in the meadows of Hendra and elsewhere. He trapped rats and insects and small mammals of various different sorts and also trapped some bats. I think he caught a bat in a fence and tested it, tested all of them to see if he could find evidence of this virus. And he found it in the bats. He found it in two species of giant fruit bat that were native to that part of Australia.
+
+And then the question became, how did the virus get from these giant fruit bats into these horses? And one of the fellows who worked on the response to this, another vet, a veterinarian, took me out to a meadow outside of this suburb of Hendra. And it was a big, hot, grassy meadow where they pastured horses.
+
+For instance, one particular mare, when she was pregnant, they pastured her there. And there was just a single tree providing shade in the hot, subtropical Australian sun in this meadow. And this veterinarian pointed to it and said, there it is. That's the bloody tree - meaning that's the tree that this horse took shelter under for shade. It was a fig tree, and it attracted fruit bats.
+
+The fruit bats came, ate the figs, dropped fruit pulp, dropped saliva, dropped feces onto the grass below. The horse ate the grass, picked up the virus. Then she was brought back to the stables, and she infected the rest of the horses. So it was Hume Field's detective work that identified, with help from some other people, that these two species of fruit bats were the reservoir host of Hendra.
+
+DAVIES: Right. So the virus goes from the bats into the horses. The horses die. People get it from the horses. And a critical question in these viruses is, when they reach people, do people only get sick if they come into contact with the animal or can they convey the virus to each other, person to person, right?
+
+QUAMMEN: That's right, person-to-person transmission. That's a really, really crucial question in all of these. And in SARS, it was quickly discovered that there was person-to-person transmission of the virus. In the case of this Hendra virus in Australia, there was no evidence of person-to-person transmission. And that's one of the reasons why Hendra virus has remained virtually unknown to the world. And the people who got infected were the people - veterinarians and horse trainers and horse owners - who were trying to save the lives of those horses.
+
+So in the case of the very first outbreak in that stables I mentioned, there were three guys - a veterinarian, the stables owner and trainer and then a stable worker. And they were reaching down the throats of these horses as they gagged on their own bloody froth and vomit, reaching down the throats with their arms, trying to clear the air passages. And so that's close contact. They didn't know that there was a dangerous virus involved. And two of those three got very sick, and one of the three died.
+
+DAVIES: So there are all these tens of millions of viruses out there. Why are we encountering them so much more these days?
+
+QUAMMEN: Well, the simple answer is that we humans are so abundant and so disruptive on this planet that we come in contact with these things. There's 7.7 billion of us. We're cutting the tropical forests. We're building work camps in those forests and villages. We're eating the wildlife. We're transporting wildlife around the world. We're raising a lot of domestic livestock that become exposed to viruses through wildlife.
+
+We're doing all these forms of disruption that I say sometimes that you go into a forest and you shake the trees, literally and figuratively, and viruses fall out. And if they fall out of their hosts, they need a new host. And we're there. We're available. We're their opportunity. And then we fly around the world and carry it every which way.
+
+GROSS: We're listening to the interview FRESH AIR's Dave Davies recorded with science writer David Quammen. He's the author of a book about viruses humans have contracted from animals. It's called "Spillover: Animal Infections And The Next Human Pandemic." He'll be back after a break to talk more about the new coronavirus, the threat such pathogens pose and how we can prepare to meet that threat. Also, Ken Tucker will review a new album from the Canadian rock band Destroyer. I'm Terry Gross, and this is FRESH AIR.
+
+(SOUNDBITE OF BRAD MEHLDAU, KEVIN HAYS AND PATRICK ZIMMERLI'S "GENERATRIX")
+
+GROSS: This is FRESH AIR. I'm Terry Gross. Let's get back to the interview FRESH AIR's Dave Davies recorded yesterday with science writer David Quammen about the new coronavirus epidemic which broke out in Wuhan, China. Quammen says the coronavirus is just the latest example of how we're increasingly contracting dangerous viral infections from animals. In his book "Spillover," published in 2012, Quammen tracked how viruses spilled over from animals to infect humans with HIV, West Nile fever, anthrax, Ebola and another from the coronavirus family, SARS - severe acute respiratory syndrome - which also emerged in China.
+
+DAVIES: You know, you write that as scientists tried to track down the source of the SARS virus back in 2003 and '04, they focused on this practice in Southern China of eating, and in some cases, raising wild animals, not the kind of things that you typically think of as food - or we don't. You want to just explain this trend and how it figured into this?
+
+QUAMMEN: Yes, there is a vogue. There has been a vogue for eating wildlife, wild animals. When I was in Southern China researching the book, only briefly, I got to see some of these markets where all form of wild animal were on sale. A lot of the trade, by the time I got there, had gone underground because it was suppressed after the SARS outbreak. But then it gradually came back, and it had been allowed to continue again and proliferate when this new virus began.
+
+But if you go into a live market and you see cages containing bats stacked upon cages containing porcupines, stacked upon cages containing palm civets, stacked upon cages containing chickens, and hygiene is not great, and the animals are defecating on one another, it's just a natural mixing bowl situation for viruses. It's a very, very dangerous situation.
+
+And one of the things that it allows, Dave, is something that we haven't mentioned, I think, so far, and that is the occurrence of amplifying hosts, hosts that are not the reservoir host, the permanent hiding ground of a new virus, but represent intermediates between the reservoir host and the human population. For instance, those horses in Australia, from the point of view of a horse, they were ultimate hosts, and they were being killed by this virus. But from the human point of view, they were amplifier hosts.
+
+The virus got into them. It multiplied abundantly. It caused them to froth and choke and bleed through their nostrils. Veterinarians and trainers were trying to take care of them. They amplified the virus so that one trainer and one stable foreman and got very sick from that virus. In the case of this new coronavirus, one of the questions is, was there an amplifier host in that wet market?
+
+DAVIES: Where these cages are stacked are called wet markets. Why are they called wet markets?
+
+QUAMMEN: Well, I assume they're called wet markets because the animals are alive, rather than butchered and dead and refrigerated. They're also wet because there's water flowing everywhere. They usually have seafood as well as wild mammals and birds. As I said, hygiene isn't great. The animals are being butchered on plywood boards. Blood is flowing down into the gutters with the water. And there is just a great liquidy mix in these markets at their worst.
+
+DAVIES: Now, when scientists were trying to track down the origin of the SARS virus - you know, severe acute respiratory syndrome, which was associated with a virus in the early 2000s - they eventually focused on something called the civet cat. What is that?
+
+QUAMMEN: That's right. The civet cat is not really a cat. It's more accurately called the palm civet. The civet is a type of mammal that belongs to the family of mongooses. But it's a medium-sized animal. And it is both captured from the wild for food and captive bred and raised for food. And it was the first big suspect of - in the SARS outbreak. It was found that some of the people who got sick very early on had eaten butchered civet. And so studies...
+
+DAVIES: And the civets had the antibody for this virus, right?
+
+QUAMMEN: And they tested some civets, and they found evidence of the virus. They found antibodies or fragments of DNA or RNA in these civets, suggesting that they had been infected with the virus. And that didn't prove they were the reservoir host, but it made them the No. 1 suspect until a couple of Chinese scientists did further work and they established that, in fact, the virus was not living permanently in the civet population in the wild or in captivity. It was - it had a different reservoir host. It was living in bats. And it had passed presumably at a market somewhere. It had passed from a bat into one or more civets, and they became the amplifier host.
+
+DAVIES: Right. And the Chinese government, I think, decreed that all civets in captivity would be slaughtered, right?
+
+QUAMMEN: That's right. Thousands of civets in captivity were butchered and electrocuted and smothered and drowned in this first panicked blind reaction in China to the SARS outbreak.
+
+DAVIES: Now, when you were looking into this, you actually went to China with - and spent some time in the field with people who were investigating this, right? Tell us about that experience.
+
+QUAMMEN: Right. I went with a fellow named Aleksei Chmura who was working as a researcher for a group that's called EcoHealth Alliance, based in New York, a group of disease scientists who study these emerging viruses, these emerging pathogens in animals around the world. They generally have cross-training in virology, veterinary medicine, ecology, combinations of skills. So Aleksei was one of them.
+
+Aleksei and a number of his Chinese colleagues and I flew to a city called Guilin (ph) in the province of Guangdong, Southern China. And we went out climbing into caves, bat caves in the Karst mountains, the limestone mountains and hills outside of the city of Guilin, looking to trap various different kinds of small bats, insectivore bats, not giant fruit bats, the small bats that lived in these caves, including horseshoe bats, which is a particular group of bats, so that Aleksei and his colleagues could draw blood samples and test those for looking for the SARS virus at that point or any other virus that was suspect.
+
+DAVIES: You want to just describe a little bit of what it felt like to be trapping bats in these caves?
+
+QUAMMEN: Well, it was a little bit claustrophobic. It's not for everybody.
+
+DAVIES: How do you catch them?
+
+QUAMMEN: We climbed through - we climbed on our bellies through a very low hole to get into one of these caves. We had to squirm down and then up through this hole to get into the cave. And then the cave opened out. And Aleksei and his Chinese colleagues had essentially pillowcases and butterfly nets. And that's how we caught these bats. The bats started flying around, and they would catch them in butterfly nets. And they were wearing gloves, and they would untangle a bat from a butterfly net and then drop it into one of these cloth bags that were like pillowcases. And in this case, as I recall, they would tie the knot off and then hand it to me, and I would go over and hang it on sort of a clothesline so that the pillowcase with a bat in it could dangle. And we were doing this - I don't know. We were in there for a couple of hours. Oddly enough, we were not wearing masks of any sort. We were not wearing what they called personal protective equipment, hazmat suits or anything. And I describe this in the book. I asked Alexis, why the hell are we not? And he was just sort of fatalistic about it. He says there are constraints when you're wearing personal protective gear. There's always some danger. And he said, it's my judgment that the danger here is low enough that I'm not wearing a mask and I'm not recommending that anybody else wear one either. When I did some similar things with other people, some of his colleagues from EcoHealth Alliance, we did wear masks and goggles and coveralls and several layers of gloves.
+
+DAVIES: Wow. So scientists managed to establish that the SARS virus had actually existed in these horseshoe bats, which through these markets, apparently, had been transmitted to the palm civets, this sort of mongoose-like creature, which people were eating. People ate the mongoose. They got the SARS virus, which was ultimately from the bat. And then it was off and running, killing people among the human population.
+
+QUAMMEN: That's right. And one of the reasons it could do that, it could adapt from bat to civet to human, is the fact that it is a coronavirus, which is a group of viruses that are very readily adaptable. Some of the experts call it - they have intrinsic evolvability. Their rate of mutation is very high. When they copy themselves, their genome contains a lot of mistakes, and that represents mutations that are sort of the random raw material for Darwinian evolution. So viruses that have high mutation rates are able to evolve quickly and adapt quickly. That group, single-stranded RNA viruses, also includes the family of viruses containing influenza, also includes the family of viruses containing measles and hendra virus, that virus from Australia. They are on the watch list because these particular viruses evolve very quickly.
+
+DAVIES: David Quammen is a science writer and the author of the book "Spillover: Animal Infections And The Next Human Pandemic." We'll talk more after a break. This is FRESH AIR.
+
+(SOUNDBITE OF ROBBEN FORD AND BILL EVANS' "CATCH A RIDE")
+
+DAVIES: This is FRESH AIR, and we're talking with science writer David Quammen about the coronavirus epidemic and similar outbreaks. Quammen is the author of the book "Spillover: Animal Infections And The Next Human Pandemic." Now, this new novel coronavirus, which is creating such havoc right now, what do we know of its origins?
+
+QUAMMEN: What we know about the origins of this new coronavirus comes from work done by scientists, including a number of the scientific researchers at the Wuhan Institute of Virology who have looked at horseshoe bats in various different caves around China. There was a study published in 2017 describing bat viruses that they had found in a cave in Yunnan, another province. And one of the bat viruses they found there is now known to match very, very closely to the genome of the novel coronavirus out of Wuhan. So that virus, a coronavirus in a horseshoe bat identified in 2017, is now the one causing this global outbreak. So we had some warning. We had some prediction. We knew that these viruses, similar to SARS but unique to themselves, were lurking - are lurking in horseshoe bats and probably other bats all throughout China. And that when you bring those bats into wet markets and put them adjacent to other animals, there is a high danger that viruses will spill over from the bats into the animals and then from the other animals into humans.
+
+DAVIES: Right. And in this case, did - were a number of the early victims associated with one of these wet markets?
+
+QUAMMEN: Yes. As I understand it, somewhere between 27 and 40 of the first victims in mid-December of last year showing these symptoms, suffering from this viral infection, were people who had probably direct contact with an animal containing the virus in the Wuhan markets. Those first two dozen or three dozen people seem to have gotten it not by human-to-human passage but directly from an animal. And that raises the suspicion that there was an amplifier host because if one bat was in the market, it's hard to imagine one little bat infecting 27 people or 40 people. But if that little bat shed its virus onto a cage containing, oh, maybe two or three pigs and the pigs became infected and the pigs then were sold, butchered and the meat distributed, you start to see how 40 people could get infected directly.
+
+DAVIES: Right. And the Chinese government has shut down that market, right?
+
+QUAMMEN: That's right.
+
+DAVIES: Why do bats seem to be such a source of these troublesome viruses?
+
+QUAMMEN: Yeah, bats. Why bats? The scientists ask that. Bats are implicated in what seems to be more than their share. There are a lot of different species of bats. One-quarter of all mammal species are bats. But there are other things about them, including aspects of their immune system. There've been some discoveries lately that bat immune systems are downregulated in a certain way that allows for the stresses, the metabolic stresses of being a mammal that flies and the downregulating of the immune system to avoid overreaction to those stresses, seems perhaps also to create an environment in which viruses are more tolerated in bats than in other mammals.
+
+DAVIES: Drawing on what you have observed about viruses and how they've spread, particularly since we're seeing more and more of them from the animal world, I mean, what are the chances that we could see a pandemic that really gets out of control and wipes out large parts of the human race?
+
+QUAMMEN: The chances that we could see a big one that gets out of control and kills millions of people or maybe even billions of people, the chances are there. The chances are there. How big are the chances? We don't know because there's such a huge element of unpredictability. One thing we know is that this novel coronavirus, whether or not it turns out to be a huge catastrophe or something that we can control and relax about within six months, one thing we know is that it won't be the last. There will be another one. There will be a novel virus, not 2019 but 2022 or 2024. Where will it come from? It'll come from a nonhuman animal. What kind of virus will it be? It'll be a coronavirus or one of the other kinds of viruses that mutate quickly and adapt quickly, evolve quickly. How far will it go? How many - how far will it spread? How many millions of people will it infect? How many will it kill? Those are the unpredictables.
+
+DAVIES: Right. Now, we should note that there have been viral outbreaks that have killed millions, right? The Spanish flu of 1918.
+
+QUAMMEN: The Spanish flu of 1918 - estimates are between 20 and 50 million dead.
+
+DAVIES: HIV - what? - 30 million dead.
+
+QUAMMEN: Thirty-five I think now or 33 and counting million dead. Yep. That was a spillover zoonotic virus.
+
+DAVIES: You mentioned the new coronavirus hasn't gotten to Africa yet. Is that a particular issue in these events?
+
+QUAMMEN: I think it is. If - I'm not a public health official, but if I worked for the World Health Organization, I would be wondering about what's going to happen when this thing gets to Africa, when it comes into a big, sprawling African city like Kinshasa, capital of the Democratic Republic of the Congo, or maybe a city in eastern Congo like Goma, where there is still an ongoing Ebola outbreak nearby and what resources for medical care and isolation. They're already overtaxed. What's going to happen then? How are those people going to be able to control this? We need to be ready to supply resources, expertise, money, support when this thing hits Africa and starts spreading quickly there.
+
+DAVIES: So is this a matter of more public investment, more - the U.N. being more active or the World Health Organization?
+
+QUAMMEN: This is absolutely a matter of need for more public investment, more public education, adequately funding, richly funding our CDC, the disease programs through the U.S. Agency for International Development, the World Health Organization, the equivalent organizations in Great Britain, France, China, the China Centers for Disease Control and the other institutions and countries around the world. Yes, we need to be training scientists who will become virus hunters, who will go into those caves, in those forests doing the hard, dangerous work and will go into the laboratories doing the molecular work to help us identify these viruses. And we need our public health officials to be ready with resources and information to deal with these outbreaks by containment, contact tracing, quarantine when it's necessary, isolation. We need more resources, and we need more skills.
+
+DAVIES: You know, you began our conversation by saying this is a time for effort and focus but not panic. A lot of this is pretty alarming to hear. Remind us why we shouldn't panic.
+
+QUAMMEN: In part, it's just the fact, I think, that a new thing, something that's called novel coronavirus, has a certain scare value to it, and being scared is useless. Being educated and understanding it and being ready to respond and support government response is very useful. Panicking and putting on your surgical mask every time you go on the subway or ride an airplane is not nearly as useful.
+
+DAVIES: Well, David Quammen, thanks so much for speaking with us.
+
+QUAMMEN: Dave, it's a pleasure to talk with you, and thanks for giving this the time.
+
+GROSS: Science writer David Quammen spoke with FRESH AIR's Dave Davies. Quammen is the author of "Spillover: Animal Infections And The Next Human Pandemic." After we take a short break, Ken Tucker will review a new album from the Canadian rock band Destroyer. This is FRESH AIR.
+
+(SOUNDBITE OF CHUCHO VALDES' "OCHUN")
+
+Copyright © 2020 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.

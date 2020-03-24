@@ -1,0 +1,69 @@
+The outbreak of a new kind of coronavirus in central China is loaded with mysteries, and among the biggest is how the virus made the jump from an animal host into humans.
+
+This global health crisis is a reminder of the danger of zoonosis - the ability of pathogens, including bacteria and viruses, to enter the human population from an animal host.
+
+The coronavirus is similar to two viruses that circulate in bats, but it might have skipped through another species before infecting humans.
+
+Suspicion has fallen on the pangolin, an endangered, highly trafficked creature that looks like a cross between an anteater and an armadillo. Its scales are prized in traditional Chinese medicine, although they're made of keratin, just like fingernails. In recent days some researchers have noted that a coronavirus previously identified in pangolins is more closely related to the novel coronavirus than any virus identified so far.
+
+It's not clear whether any bats or pangolins, live or dead, were on sale in December at the Huanan Seafood Wholesale Market in Wuhan, where more than half of the people first identified with the virus had shopped. And it's possible that the viral leap into humans occurred somewhere else, as some early cases occurred in people with no known link to it.
+
+The disease detectives need to nail down the host species, because there could be a population of animals capable of sparking new outbreaks, said Melissa Nolan, an infectious disease epidemiologist at the University of South Carolina.
+
+"If we don't know what the intermediate host is, and it's clearly capable of transmitting this infection, then we ultimately can't stop the spread of this virus," she said.
+
+The World Health Organization has declared a public health emergency because of the outbreak, which has sickened more than 30,000 people, killing more than 630, mostly in China. The virus appears to be sufficiently contagious to become a global pandemic if not contained. It remains unclear whether the virus can be transmitted by infected people before they show symptoms.
+
+In recent days scientists have wrestled with the sticky question of what to call the new coronavirus. Right now it is officially "2019-nCoV," which is inelegant at best and does little to describe either the virus or the resulting disease in humans. One possibility is that the virus will be given a name that is a variant of SARS (for sudden acute respiratory syndrome), a virus that killed 774 people in 37 countries before it was contained. The two coronaviruses are very similar genetically and both are found in bats.
+
+These bats carry the lethal Marburg virus, and disease detectives are tracking them to stop its spread.
+
+"They likely had a common ancestor in the bat population, said Stanley Perlman, a virologist at the University of Iowa who is part of the Coronavirus Study Group, a subset of the International Committee on the Taxonomy of Viruses.
+
+"It's like a cousin. They probably started from common ancestor some years ago in bats, and they mutated and evolved, and that's what you have now," he said.
+
+He said the committee favors including SARS in the name of the new virus.
+
+"It's close to SARS. But it's not SARS. You could say a SARS-like virus, slash Wuhan, slash 2019," he said. "From a taxonomic point of view, it's so related to the previous virus, it needs to be included in its name."
+
+After the emergence of Middle East respiratory syndrome (MERS) in Saudi Arabia in 2012, the WHO in 2015 asked national authorities, scientists and the news media to not name a virus after people, a geographic location, a cultural group or even a species of animal, because that can stigmatize communities or incite needless slaughtering of animals.
+
+Scientists have identified about 400 emerging diseases since 1940, and more than six out of 10 have been zoonotic, according to a 2012 study published in the Lancet, a British medical journal. They include HIV from chimpanzees, Ebola and Marburg from bats, hantavirus from mice, MERS (Middle East respiratory syndrome) from camels, and swine flus and avian flus. Bats make up roughly a fifth of all mammal species and are frequent reservoirs of viruses that can potentially infect humans.
+
+"We only know a really small fraction of the viruses that exist in wild animal populations. We've really just scratched the surface," said Christine Johnson, an epidemiologist at the University of California, Davis whose research has helped identify scores of coronaviruses in wild animals in Asia and Africa.
+
+This "spillover" happens unpredictably. It's unclear why and how a virus that normally replicates in an animal starts to infect humans. No epidemic zoonotic disease in history has been predicted before the viral leap.
+
+"Why it's occurring now is really a mystery," said Perlman. "You have people being around bats forever, eating bats and buying them in markets. Why did it take until December 2019?"
+
+If the species that facilitated the jump from bats to humans is really a pangolin, that could complicate the search for its origins, said Benjamin Neuman, a virologist at Texas A&M at Texarkana who is also in the Coronavirus Study Group. "If the illegal animal trade was at the root of this outbreak, it is going to be really difficult to trace, and I suspect most of the evidence is gone already - destroyed or spread out across the black market," he said. "People aren't going to want to talk because of the consequences."
+
+In late December, four patients turned up ill in a hospital in Wuhan. Each had pneumonia-like symptoms and fever, and they tested negative for known diseases. Chinese authorities were on the lookout for a mystery illness such as this one, because they had seen it 17 years ago, when SARS, flared in Guangdong province.
+
+Life on Earth exists in a thick microbial soup. Survival typically requires collaboration with symbiotic organisms (for example, gut bacteria in humans) and the forbearance of potentially lethal pathogens. Few things are more enigmatic than viruses, which are just bare-bones strips of genetic material, either DNA or RNA, with some kind of protective coating.
+
+On their own, outside a cell, viruses don't do anything at all. They have no metabolism, no motion, no ability to reproduce. Scientists debate whether viruses, when outside a host, meet the standard for being alive. To reproduce, a virus has to enter the cell of a living host and hijack that cell's machinery to make more of the virus.
+
+"It's switching between alive and not alive in its existence," said Gary Whittaker, a Cornell professor of virology, describing a virus as being somewhere "between chemistry and biology."
+
+Although the phenomenon of zoonosis has been happening among human beings and the animals they encounter for an untold thousands of years, the modern world has made zoonotic epidemics more likely to occur, experts say. It's a matter of numbers and geography. More people are coming into contact with more animals in more places, including habitats rarely or never visited by human beings - such as bat caves deep within a forest.
+
+"We're absolutely seeing an acceleration in the emergence of zoonotic disease," said Jonathan Epstein, an epidemiologist at EcoHealth Alliance, a nonprofit that studies emerging infectious diseases.
+
+Changes in land use - agriculture, mining, etc. - play a huge role in creating opportunities for viral jumps. So do wild animal markets. Authorities in China cracked down on sales of wild animals after SARS was linked to masked palm civets, a cat-like mammal. China later backed off some of the restrictions. Wild animal markets remain common in much of the world.
+
+Once a virus jumps into humans, population density becomes a factor in turning what might potentially be a small eruption of illnesses into an epidemic. A crowded city such as Wuhan, which has a population on the same order of magnitude as New York or London, creates conditions for person-to-person transmission.
+
+Because these events have remained unpredictable, the public health responses have tended to be a game of catch-up, with communities desperately trying to contain the spread of the virus through quarantines, disease surveillance and rigorous hygiene practices. Eventually a vaccine can provide broad protection, but development takes many months or years.
+
+Viruses have differing levels of contagiousness and virulence (the degree to which they make someone sick). The reproduction rate - how many people a sick person is likely to infect, on average - helps determine how widely it will spread. In a study in the journal The Lancet, three University of Hong Kong scientists estimated that the coronavirus has a reproduction rate of 2.68, meaning every 10 sick people would eventually infect approximately 27 others.
+
+"On the present trajectory [the coronavirus] could be about to become a global epidemic in the absence of mitigation," the report states. To prevent a large epidemic outside the city of Wuhan, "substantial, even draconian measures that limit population mobility should be seriously and immediately considered in affected areas," along with school closures and cancellation of mass gatherings, the authors state.
+
+Global trade is a force multiplier for viruses. Viruses are not terribly stable outside a host, but if they can latch on to a globe-trotting species, they can go everywhere.
+
+There are contradictory incentives for the virus. If it makes a person very sick and symptomatic - and thus coughing, sneezing, throwing up, etc. - that can enhance the spread of the virus. But a sick person tends to be immobile and isolated and in contact with fewer people. A milder disease can spread more easily. Highly lethal viruses tend to burn themselves out quickly because there's no one left alive to spread them.
+
+Transmission from one person to another usually requires a lot of the virus, Nolan said.
+
+"Our immune system does a good job of stopping infection in our body. There's a certain number when that pathogen can take over. Think about a mob. One person in the street probably can't topple a car, but if you had a 100 people in the street, they could probably push a car over if they're angry enough," she said.

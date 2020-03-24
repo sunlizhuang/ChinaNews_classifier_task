@@ -1,0 +1,114 @@
+
+
+2020 online shopping habits and retailer strategies
+
+For the fourth year in a row, Episerver has surveyed over 4,000 global online shoppers to learn about their ecommerce expectations and habits. Download Reimagining Commerce now to get an exclusive look at successful retail strategies in 2020.
+
+The World Health Organization on Thursday declared the coronavirus a global health emergency in recognition that the disease risk no longer is confined to China.
+
+United Nations member countries may decide to close their borders, cancel flights, implement special screenings at airports, or take other steps in response to the notice.
+
+U.S. health officials earlier this week announced they would fast-track work on a coronavirus vaccine, with the goal to have an early-stage trial within three months. That timeline is considered optimistic, and even if the work proceeds apace, a phase 1 trial is still a long way from a vaccine ready for mass deployment, the National Institute of Allergy and Infectious Diseases, an agency within the Department of Health and Human Services, has emphasized.
+
+It could take a year or even longer before any vaccine is released for widespread use.
+
+That is likely of little comfort to those in the Chinese city of Wuhan, which is ground zero for the coronavirus outbreak and essentially has been quarantined. As of this week, the virus has killed 106 people in mainland China, and it has infected nearly 4,700 people worldwide, including in the United States.
+
+The Chinese government rapidly constructed a 1,000-bed hospital in Wuhan as a way to contain and treat patients suspected of contracting the virus. Named the "Wuhan Huoshenshan Hospital," it reportedly is a 25,000-square-meter facility purpose-built to address this outbreak. The goal of the Chinese was to have the hospital finished and operational in just 10 days.
+
+A second and even larger facility, the Leishenshan Hospital, also is under construction, and the goal is to have that building finished in just 15 days.
+
+Medieval Measures
+
+Essentially locking down an entire city or region isn't exactly a new tactic, and it certainly is not effective. When the "Black Death" spread during the Middle Ages, it was commonplace for port cities to be closed to ships suspected of coming from infected areas.
+
+In the 14th century, Venice was among the first cities to formalize such measures, closing the city's waters to suspected vessels, and even subjecting travelers and nearly all ships to 30 days of isolation.
+
+The period was extended to 40 days, which led to the term "quarantine."
+
+Sadly, those efforts generally were unsuccessful, and it is unclear if a modern quarantine would have any better success. However, this week the Centers for Disease Control and Prevention told Americans to avoid all nonessential travel to China and extended its travel warning from Wuhan to the entire country.
+
+The effectiveness of this move currently is being debated, said Mariea Snell, assistant director of Doctor of Nursing Practice programs at Maryville University.
+
+"At this point, the recommendation is that travel be limited, as the risk is considered to not outweigh the benefit at this point," she told TechNewsWorld.
+
+Modern air travel exponentially increased the spread of influenza each year, based on a study by Chong and Chung, originally conducted in 2012 and updated in 2017.
+
+Air travel restrictions should become a priority when flu or other potential pandemic could occur, the researchers recommended.
+
+Some companies are heeding such advice. Apple CEO Tim Cook on Tuesday announced restrictions on employee travel and even took the drastic measure of shutting down one store in China.
+
+The question is whether restricting travel and utilizing quarantine practices be effective at curbing the spread of infection.
+
+"Recent studies indicate that it may not be as beneficial as originally thought to be," Snell said.
+
+"We learned a lot from the SARS and Ebola outbreak in this regard. While it may slow it down, it will not eliminate it," she noted.
+
+"The best way to prevent the spread of illness is to wash your hands, and stay home if you are sick," Snell said.
+
+Detection Technology
+
+Aside from quarantines, efforts to halt the spread of disease include screenings. It has gotten far easier to determine if someone is contagious and carrying an illness through various methods of detection, which can be as simple as taking temperatures and observing individuals for symptoms.
+
+"A helpful way that technology can and is being used to stop the spread of illness is the use of public health surveillance data," noted Snell.
+
+The effectiveness can be hit or miss, however, largely depending on the virus.
+
+"In the case of the coronavirus, scientists say that the viral shedding period -- period when you are contagious -- can occur up to a week before you start to show symptoms," Snell explained.
+
+"Given this, using technology to detect infection -- like fever -- would not be very effective at preventing the spread," she noted. "This can be helpful during acute illness, but it would not catch all infected people."
+
+Predictive Technology
+
+Technology isn't just used just to determine if someone is ill, however. Advances in artificial intelligence and machine learning now are being used to predict where an outbreak might occur -- or even more importantly, where it might spread.
+
+One such effort is an early-warning system that utilizes artificial intelligence and machine learning, as well as natural language processing, to track more than 100 infectious diseases, developed by the Canadian firm BlueDot.
+
+The program is designed to read from more than 100,000 articles in 65 languages, and the data then is compiled to determine the potential for the spreading of diseases. It was used earlier this month to track the coronavirus and then predict where it might spread.
+
+"Considering the coronavirus is a global disease, AI hasn't done a good job stopping it -- but a much better job in tracking it," said Roger Entner, principal analyst at Recon Analytics.
+
+However, it could take time to refine any AI to be truly successful.
+
+"AI could certainly help, but it's early days for AI yet, and this virus is moving faster than it would probably take to set up a good AI model and train it on the right data set," cautioned Roger Kay, principal analyst at Endpoint Technologies Associates.
+
+"More important is to execute existing protocols rigorously, like tracing contacts and quarantining and treating infected people," he told TechNewsWorld.
+
+Crowdsourcing Disease Tracking
+
+A number of crowdsourcing methods could be effective in tracking the spread of disease.
+
+"People are also using cellphone data to track population movement and how they interact," noted Snell.
+
+"This helps understand or predict where disease may spread so that scientists and healthcare providers can take a proactive approach," she added.
+
+Social media is another promising avenue.
+
+"Algorithms have been set up to detect certain buzzwords like 'flu' or 'food poisoning' to detect and track possible large-scale outbreaks," noted Snell.
+
+Connected World
+
+The ease with which so many people can jet set around the world for business meetings, conferences, trade shows, vacation and other occasions also has contributed to the spread of contagious diseases.
+
+Perhaps some of those occasions for travel eventually could transition to virtual reality or augmented reality experiences -- both to save money for the participants, and to keep big gatherings -- such as the annual CES or the Davos political gathering -- from becoming ground zero for a pandemic.
+
+Not everyone is sold on that idea, however, and convincing attendees of those shows -- not to mention the exhibitors -- could be an uphill struggle.
+
+"The moment we have to do AR/VR in a response to a pandemic, then we are so deep in trouble not even AR/VR can save us," Recon Analytics' Entner told TechNewsWorld.
+
+"In the end, there is no substitute for meeting someone in person, shaking their hand and looking them in the eye -- AR/VR can't do that," he added.
+
+Virtual conferences are already happening for cost reasons, of course.
+
+"The only issue is you can't get people to sit through three days of content on a virtual connection -- it just doesn't work," observed Kay.
+
+"Networking is an important part of conferences, but if you don't need to do business development, there is no reason not to get the content in a format like a TED talk, and there are lots of software tools for conferencing at various levels," he added.
+
+"Much of what one can learn or needs to learn from major events or trade shows can be done through technology," maintained Snell.
+
+"Virtual events or trade shows can deliver the information in a way that is safe and cost-effective," she noted.
+
+"We can integrate discussion in an online platform and share the latest information on products, as well as view presentations from our home or office," Snell suggested. "Utilization of this technology for events such as these should be industry standard as we try to navigate these global health concerns."
+
+Peter Suciu has been an ECT News Network reporter since 2012. His areas of focus include cybersecurity, mobile phones, displays, streaming media, pay TV and autonomous vehicles. He has written and edited for numerous publications and websites, including Newsweek, Wired and FoxNews.com. Email Peter.
+

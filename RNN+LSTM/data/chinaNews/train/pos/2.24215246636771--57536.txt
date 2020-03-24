@@ -1,0 +1,9 @@
+Reading time ( words)
+
+Early in 2019, IPC published IPC-2591— Connected Factory Exchange (CFX), Version 1.0. This standard was developed by the IPC Connected Factory Initiative Subcommittee over a two-year period to address issues with machine-to-machine communication and provide the electronics manufacturing industry with a true plug-and-play system for any company to achieve Industry 4.0.
+
+Since the release of the standard, there has been a lot of buzz regarding CFX within the industry from all segments, including EMS companies, equipment manufacturers, and software solution providers. The Subcommittee has grown to 275 members, with an additional 63 members on the 2-17-CN Connected Factory Initiative Subcommittee in China, and 94 companies have declared their support on the CFX website. Additionally, 24 companies have shared their CFX implementation roadmaps on the CFX website, with more roadmaps coming in on a regular basis. You can view the supporters, roadmaps, and a library of helpful CFX resources at ipc-cfx.org.
+
+Still, with all of the buzz, there are also some misconceptions floating around the industry regarding CFX, how it is used, the need for middleware, and how it stacks up against other standards for Industry 4.0. Thus, I thought it would be fun to take some of those statements, using feedback from Subcommittee members, and play a little game of “True or False: CFX Edition.”
+
+To read this entire article, which appeared in the January 2020 issue of SMT007 Magazine, click here.

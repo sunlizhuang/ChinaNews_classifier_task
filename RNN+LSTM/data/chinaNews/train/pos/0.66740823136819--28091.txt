@@ -1,0 +1,79 @@
+This article discusses some of the key developments in the rapidly developing PRC legal landscape: (i) the effects of the amendment to the draft Civil Code on the PRC data protection regime, (ii) new initiatives to encourage development of artificial intelligence and (iii) the recently implemented arbitration interim measures arrangement between Hong Kong and China.
+
+The PRC legal landscape is constantly evolving, with new draft legislation, implementing measures and guidelines being introduced at a remarkable rate. In this article, we discuss some of the most interesting recent developments in China affecting the IP and data protection spheres.
+
+(i) Personal data: Draft Civil Code amendment
+
+At present, the principal piece of data protection legislation in China is the Cyber Security Law which came into effect on 1 June 2017. It provides an overarching framework which must be interpreted with reference to various sets of standards and guidelines, some of which are in draft form. The protection of personal data is also covered by various pieces of national, sectoral and local legislation. One of these is Article 111 of the General Provisions of Civil Law which provides that personal information is subject to legal protection.
+
+On 27 August 2019, the Standing Committee of the National People's Congress released its third draft of the Compilation of Personality Rights – one of the six sections of the draft Civil Code – for public comment. The wider project to create a Civil Code based on the General Provisions of Civil Law began in 2012 and is expected to be adopted in 2020.
+
+How the amendment to the draft Civil Code will affect the PRC data protection regime
+
+The amended draft Civil Code functions to consolidate the existing concept of personal information, and to codify it under the civil law.
+
+The amended draft echoes the existing provisions on personal data protection under the Cyber Security Law by setting out:
+
+a definition of personal information that is virtually identical to the definition set out in the Cyber Security Law (the only difference is the inclusion of a person's "email address" and "tracking information" as additional examples of what may be understood as personal information);
+
+the conditions for personal information collection and processing, including the need to inform data subjects of the purpose, method and scope of personal information collection, and the requirement to obtain informed consent; and
+
+the data subject's right to make access, correction and deletion requests.
+
+At present, data privacy law enforcement is often tackled through administrative routes. The PRC does not have a central privacy regulator. Various national, local and sector-specific enforcement authorities conduct investigations and impose administrative sanctions within the scope of their authority. For example, the Ministry of Industry and Information Technology regulates companies in the telecom and internet services sector. Public Security Bureaus (China's local and provincial police) are also expected to enforce the law. The Cyberspace Administration of China is the designated enforcement authority for the Cyber Security Law and actively conducts enforcement through local cybersecurity administrations. Penalties for breach of the Cyber Security Law include fines of up to RMB 1 million against the data controller, fines on the responsible individual, confiscation of illegal profits and closure of the business.
+
+In addition to lodging complaints with enforcement authorities, aggrieved parties may seek civil sanctions through the courts. However, the civil route is generally seen as being less straightforward. The responses to privacy lawsuits by local courts have been varied, and precedents are not legally binding.
+
+The amendments appear to offer more clarity on the scope of protection of personal information, and may strengthen the avenue for aggrieved parties to seek recourse for infringement of personal data rights through the civil law system, as opposed to administrative enforcement. It remains to be seen whether the Civil Code, once enacted, will become a preferred means for enforcing data privacy rights.
+
+(ii) Development of Artificial Intelligence ("AI")
+
+In July 2017 the State Council of China released the New Generation Artificial Intelligence Development Plan, setting out an overarching goal to make China the leading AI power by 2030. The Ministry of Science and Technology has recently issued two new sets of guidelines to implement this plan.
+
+AI Platforms
+
+A set of guidelines on the establishment of national Artificial Intelligence Open Innovation Platforms[1] (the "AI Platform Guidelines") was issued on 1 August 2019. It sets out a framework for the development of New Generation Artificial Intelligence Open Innovation Platforms ("AI Innovation Platforms") in China.
+
+AI Innovation Platforms are government-approved initiatives led by experienced technology companies. Each AI Innovation Platform focuses on boosting the development of a particular segment of AI. Several AI Innovation Platforms were already in operation prior to the release of the AI Platform Guidelines. Successful examples include the Baidu Autonomous Driving AI Innovation Platform and the Tencent Medical Imaging AI Innovation Platform.
+
+The AI Platform Guidelines invite experienced players in the AI arena to submit applications to establish and lead new AI Platforms. They specify the qualities and capabilities that the leaders are expected to possess. For example, they must have outstanding technical strength, and must commit to providing the talent, infrastructure and capital necessary to sustain an AI Platform.
+
+The AI Platform Guidelines set out four main tasks that each Platform is expected to carry out:
+
+Joint technology innovation: collaborate on research with universities and other research organisations; Technology transfer and application: promote technology transfer and the application of results of innovation, both upstream and downstream; Technology sharing: provide open and accessible software and hardware services to society; and Promoting entrepreneurship: assist micro, small and medium-sized enterprises and developers in their research and development, application and testing processes, encourage the exchange of knowledge, and create an ecosystem to promote innovation.
+
+AI Innovation and Development Pilot Zones
+
+A set of guidelines[2] on the establishment of National New Generation Artificial Intelligence Innovation and Development Pilot Zones (the "Pilot Zone Guidelines") was released on 29 August 2019. It lays down a plan to establish around 20 AI pilot zones ("Pilot Zones") by 2023.
+
+A Pilot Zone is a city that is committed to building an environment conducive to the development of AI. In a Pilot Zone, the development of AI will be integrated with the area's economic and social development.
+
+The Pilot Zone Guidelines set out the roles and responsibilities of Pilot Zones under four main headings:
+
+Accelerating the integration of AI with the economy and in people's lives; Creating an institutional environment conducive to innovation and development of AI; Objectively recording and scientifically evaluating the impact of AI technology on individual and organisational behaviour; and Upgrading the technological infrastructure needed to develop AI (e.g. network infrastructure, big data infrastructure and computing technology).
+
+The Pilot Zone Guidelines set out the criteria that a city must fulfil in order to be eligible to apply to become a Pilot Zone. For example, it must have (i) a university with an AI research institute, (ii) a clear financial policy to support the development of AI and (iii) sound technological infrastructure (such as data platforms, mobile networks and big data and cloud computing centres). Priority will be given to cities that have AI Innovation Platforms. In addition, its AI core industry must be worth at least RMB 5 billion and its AI-related industry must be worth at least RMB 20 billion.
+
+The first Pilot Zones will likely be concentrated in key areas earmarked for economic growth and development: the Jingjinji Metropolitan Region (Beijing-Tianjin-Hebei), the Yangtze River Economic Belt and the Greater Bay Area (Guangdong, Hong Kong and Macau).
+
+The new measures give us a glimpse of how major Chinese cities may operate in the future - hubs of innovation driven by giant technological enterprises.
+
+(iii) The new PRC Interim Measures Arrangement and their relevance to IP disputes in Hong Kong
+
+A new arrangement between Mainland China and Hong Kong[3] concerning PRC interim measures in aid of Hong Kong arbitration (the "Arrangement") came into effect on 1 October 2019. The Arrangement enables parties to Hong Kong-seated arbitration to apply to PRC courts for interim measures to preserve property, evidence or conduct before a final arbitral award is made.
+
+In order to benefit from the Arrangement, the arbitration must be:
+
+seated in Hong Kong (the seat of arbitration may be expressly agreed in an arbitration agreement between the parties or ascertained by the arbitral tribunal if there is no agreement); and administered by one of six approved arbitral institutions in Hong Kong.
+
+The measures under the Arrangement are available in relation to contemplated arbitration (as long as arbitral proceedings are commenced within 30 days) as well as arbitral proceedings that have already started.
+
+Arbitration is becoming an increasingly popular method of resolving IP disputes. A major advantage of arbitration is that the process, and even the existence of proceedings, can be kept completely confidential. This feature is particularly relevant to IP disputes, especially where there is an interest in keeping sensitive or technical information confidential. Another advantage is that parties can select a specific arbitrator with experience in IP, or specify criteria (e.g. expertise in a particular topic) for their choice of arbitrator.
+
+There are a number of additional factors specific to Hong Kong that make arbitration in the territory a favourable choice for IP dispute resolution. First, Hong Kong is home to numerous world-class arbitral institutions. There is also no shortage of experienced arbitrators, including those with specialist IP knowledge. Furthermore, the Arbitration (Amendment) Ordinance 2017 clarified that all IP disputes, including those on subsistence, scope, ownership, validity and infringement of IP rights are capable of resolution by arbitration in Hong Kong[4]. It confirmed that any arbitral award in relation to IP rights is enforceable.
+
+The new Arrangement strengthens Hong Kong's position as an attractive place to resolve IP disputes through arbitration, especially where the case involves a PRC counterparty or otherwise has a PRC connection. Previously, parties to Hong Kong-seated arbitration were unable to obtain interim relief from PRC courts. This meant that by choosing to resolve a dispute by arbitration in Hong Kong, a claimant risked the possibility of a counterparty dissipating its PRC assets or destroying evidence located in the PRC. The Arrangement plugs this gap. The interim measures available under the Arrangement would function in a similar way to mandatory and prohibitory injunctions. For example, a claimant can apply to freeze a counterparty's assets, or to prohibit the continued use of a trade mark.
+
+The Arrangement helps Hong Kong maintain its position as one of the world's most preferred arbitral seats. It may encourage parties to commercial contracts or IP disputes with a PRC element to choose arbitration in Hong Kong as a preferred dispute resolution mechanism. For more information on the Arrangement, please [click here to] read our full client briefing.[5]
+
+Link Directory

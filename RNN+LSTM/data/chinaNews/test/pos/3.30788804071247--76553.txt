@@ -1,0 +1,13 @@
+Apart from smartphones, Xiaomi is trying hard to bring new lifestyle products to its consumers at an affordable price tag. With air quality levels getting worse each day, it seems like the Chinese company wants to offer new types of breathing masks. This time we’re looking at smart masks. That’s right, the brand has now filed for a new patent that talks about smart breathing masks. The company has filed for the patent on United States Patent and Trademark Office (USPTO).
+
+Xiaomi Smart Mask Can Track How Much Air You Breathe
+
+As per the patent, Xiaomi smart mask will come with four different modules that will form an embedded computing unit. It will consist of a processor that will compute all the data from onboard sensors. This data will then get stored in a memory module. Furthermore, there is a connectivity module that will relay all the stored data. Of course, all of these will receive power from the inbuilt battery. Lastly, the smart mask will obviously have the standard filters.
+
+Coming to the features, the smart mask will be able to record the total wearing time along with pollution absorption quantity. The smartphone maker will use sensors that will calculate the absorption quantity. As expected, there is going to be a companion app to which the mask will send the recorded and computed data. Furthermore, the mask will also let you know the Air Quality Index (AQI) using the central server.
+
+We’re also looking at various health sensors in the mask that will measure stats such as respiratory volume, the total number of breaths and more It will also measure whether you were in motion or not with the help of accelerometer and gyroscopes. Surprisingly, it will also be able to measure whether your lung capacity is increasing or decreasing. We might also see the mask determining breathing issues and their possible solutions via the companion app.
+
+Launch, Availability
+
+It is worth mentioning that even though the brand has filed for the patent, it does not necessarily mean that it will end up launching a product like this. Although it would be interesting to see a smart mask like this coming to reality. Given the present-day pollution levels, Xiaomi smart mask will be a significant addition to the market.

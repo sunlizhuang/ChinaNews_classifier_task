@@ -1,0 +1,43 @@
+Huawei starts selling its chips to others
+
+Huawei Technologies faced a tough time last year due to a US trade ban but managed to still grow its revenue thanks to stronger smartphone sales in its home market. With 2020 likely to be no less challenging, the Chinese tech giant is now exploring a new revenue stream by selling its proprietary smartphone and television chips to other vendors.
+
+Huawei’s semiconductor business unit, HiSilicon, has started selling its chipsets to third-parties, several media outlets reported this month. Shanghai HiSilicon, a subsidiary established in April last year, kicked off sales to external customers starting with 4G communications chips, according to the reports.
+
+Shenzhen HiSilicon, meanwhile, will continue to supply chips exclusively for Huawei, catering to the needs of the group’s business units involved in mobile phones and other smart devices.
+
+HiSilicon has launched a 4G communications chip in the market with artificial intelligence and Internet of Thing features. While the product is not aimed at the smartphone segment for now, things could change going forward with HiSilicon likely eyeing the fast-growing market.
+
+As it sells chips on the open market, HiSilicon has changed the names of some of its product lines and is expanding its presence to new segments, Android Central noted.
+
+The camera product line is now called smart vision and “will soon expand beyond professional security monitoring to a wider range of perception computing products designed for consumer as well as automotive electronics,” the Android-related news website reported.
+
+HiSilicon also set up a new smart media product line, which will now focus on all-screen smart terminals and smart home centers as well. In other initiatives, the firm is expanding its connectivity business and has set up three business incubation groups.
+
+There is a display group that will be focused on different screen devices, while an automotive electronics group will target the connected car market. The third group, meanwhile, will be involved in the robotics segment, according to the report.
+
+In an industry presentation last month, HiSilicon executives said Huawei and HiSilicon had jointly envisaged a vision of building “a world where all things … are connected.”
+
+To tap the emerging opportunities arising from integration of 5G, AI and IoT, and to cope with global competition, HiSilicon will make its solutions open to the market for deployment on other devices. Such move could open new opportunities for Huawei.
+
+HiSilicon had been manufacturing chips almost exclusively for Huawei until now, meeting the demands related to various hardware including base stations, smartphones, servers and smart devices.
+
+Its Kirin series chips have been inside all Huawei’s flagship smartphones and tablets, with the self-developed chip helping Huawei become a leader in the smartphone market.
+
+Though HiSilicon mostly served Huawei, the business has grown in scale, putting it among the top players in the mobile chip sector. In 2018, HiSilicon reported revenue of US$7.6 billion, up 34.2 percent from the previous year. That compared with a figure of US$ 7.9 billion posted by MediaTek, Taiwan’s leading mobile chip developer.
+
+If both companies maintain the same growth pace, HiSilicon could surpass MediaTek in terms of sales.
+
+As it sells on the open market, HiSilicon will need to convince external parties that it will provide top-of-the line solutions, and not hold back on technology in order to keep the best reserved for Huawei.
+
+Dispelling doubts and misgivings among the third-parties is essential if HiSilicon is to win large, long-term supply contracts.
+
+Apart from the unit’s efforts, Huawei itself must assure that HiSilicon will not discriminate between clients when it comes to offering advanced solutions.
+
+The chip unit should be allowed to take decisions freely, effectively functioning as a stand-alone business and winning the trust of external parties, if it is to make significant headway in the market.
+
+Such approach will benefit Huawei in the long run, assuming the group is really serious about opening up the new revenue stream.
+
+– Contact us at [email protected]
+
+RC

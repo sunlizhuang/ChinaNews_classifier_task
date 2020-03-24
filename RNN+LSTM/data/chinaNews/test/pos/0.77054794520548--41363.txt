@@ -1,0 +1,74 @@
+31 January 2020
+
+Early Equity Plc
+
+("Early Equity" or "the Company")
+
+AUDITED RESULTS FOR THE YEAR ENDING 31 AUGUST 2019
+
+Chairman's Statement and Strategic Review
+
+Business Review
+
+The Directors are pleased to present the financial results for Early Equity Plc ("the Company") for the year ended 31 August 2019. The total comprehensive loss for the year was £721,671 (2018 - £97,475). The loss per share was 0.01p (2018 - 0.01p). The loss before tax of £702,554 (2018 - £190,826) largely reflects the costs of maintaining a public listing, administration costs and the impairment of investments that have not performed in line with expectations.
+
+On 22 February 2019 the Company announced that it acquired 60% of the issued share capital of MEI Home (M) Sdn. Bhd (Meihome) for a total consideration of one million five hundred thousand-ringgit Malaysia(RM1,500,000), which is approximately £281,955.
+
+On 28 January 2019, the Company raised a total of £187,500 through the issue of 25 million ordinary shares of £0.001 at a price of £0.0075 per share.
+
+Change from investment Company to Operating Company
+
+With the appointment of Chua Siew Lian on the 1 March 2015 and subsequent appointment of Tee Lian Hing on 1 August 2016 the Company gained access to the Asian Market through the Directors network and skills in direct marketing and online sales. The Company's investment strategy was initially not geographically or sector focussed, however since 2015 has played to its strengths in Asia.
+
+In December 2015 Early Equity's current strategy began to evolve when it acquired an initial 32% stake in Yicom Global Sdn Bhd ("Yicom") with a further 15% stake acquired in August 2017 (totaling the current stake of 47%). Yicom is the sole importer and patent holder of a series of healthcare products from various countries and in particular China. Following this acquisition, the Management have focused more specifically on developing the sales of products in Asia, with a focus on Malaysia, Thailand and China. Products include food and beverage, skincare products and nutritional health supplements. This was followed up by an acquisition of a 4% minority holding in Early Infinity Holding Sdn Bhd ("EI") in August 2017, which is the core distribution company which Yicom uses to sell its products.
+
+As the health supplements and distribution model has developed and shown signs of strong growth, the Company has expanded its involvement and the management team has become more involved in the activities of Yicom and EI and has made further acquisitions in the sector.
+
+As a result of the acquisition of Meihome the Board reviewed the activities of the Company.
+
+Whist the Company had acted as an investment company with a generalist acquisition policy in recent years the acquisitions tended to be in one generic area. Most of the businesses have a focus on products for the Asian market with an emphasis on direct and indirect sales.
+
+In addition to the investments the Company has made the Board is now working on a more active basis with the directors of the existing investments of Yicom, EI and Meihome. As a result, on 1 September 2019 the Board entered into relationship agreements with MEIhome and Yicom to reflect the management time spent on these activities. In addition, as the Executive Directors are now engaged with the operations, the Company notified NEX Exchange that it now believes it should be treated as an operating company, not an investment company for the purpose of the NEX Exchange Rules.
+
+The minority interest stakes that the Company holds in the companies that no longer form part of the Company's strategy are therefore now classed as "non-core assets" which the Company is seeking to dispose of at a time that it can acquire the best possible value for the same.
+
+Outlook
+
+Following the Company's acquisition of a controlling stake in Meihome it has focused on further developing and growing Meihome's e-commerce platform through the facilitation of business-to-business (B2B) and business-to-consumer (B2C) transactions.
+
+The Company has reported year on year substantial increases in the growth of Yicom, however the accounts reflect a downturn in sales this financial year which has had a detrimental effect on the balance sheet of Yicom. Therefore the value of our 47% stake has been written down to reflect the position within these accounts. On 1 September 2019, the Company entered into a relationship agreement with Yicom and the board are working actively with them to integrate new product lines and routes to market
+
+On 1 September 2019, the Company entered into a relationship agreement with Meihome and have been working with them to develop the e-commerce platform to support merchant upload of their own products (versus Meihome staff administering changes). This new business model is easily scalable and the Board are optimistic that hereon Meihome sales will gain momentum. For the purposes of valuing this subsidiary, the latest balance sheet figure of Meihome has been used.
+
+The Board are continuing with the application for a Standard Listing of the Company's Ordinary Shares on the Main Market of the London Stock Exchange. Due to the evolution of the Company from an investment to an operating company, the process has taken longer than anticipated. The Company will update the market with further news in this respect in due course.
+
+On behalf of the Board, I would like to take this opportunity to thank shareholders and professional advisers for their continued support of the Company.
+
+Gregory Collier
+
+Chairman and non-executive Director
+
+31 January 2020
+
+
+
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+
+FOR THE YEAR ENDED 31 AUGUST 2019
+
+2019 2018 GBP GBP CONTINUING OPERATIONS Turnover 83,677 - Cost of Sales (31,812) - ------------------- ------------------- Gross Profit 51,865 - Other Income 42,153 16,016 Administrative expenses (799,267) (203,118) Finance costs (1,754) (3,724) Share of loss of associate (16,596) - Fair value movement on financial assets 21,045 - ------------------- ------------------- LOSS BEFORE TAX (702,554) (190,826) Income tax (19,117) - ------------------ ------------------ LOSS FOR THE YEAR £(721,671) £(190,826) ========= ========= OTHER COMPREHENSIVE INCOME Fair Value movement on available for sale assets - £93,351 TOTAL COMPREHENSIVE LOSS FOR THE YEAR £(721,671) £(97,475) ========= ========= Attributable to: Owners of the parent (718,009) (97,475) Non-controlling interests (3,662) - ------------------ ------------------ £(721,671) £(97,475) ========= ========= BASIC AND DILUTED LOSS PER SHARE (PENCE) (0.09) (0.01) ========= =========
+
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+
+AS AT 31 AUGUST 2019
+
+2019 2018 GBP GBP ASSETS NON-CURRENT ASSETS Goodwill 97,540 - Fixtures, fittings and equipment 49,104 - Investments in associates 416,237 - --------------------- -------------- 562,881 - CURRENT ASSETS Inventories 26,386 - Available-for-sale financial assets 266,807 1,010,762 Trade and other receivables 156,444 10,549 Cash and cash equivalents 174,042 437,326 --------------------- -------------- 623,679 447,875 --------------------- -------------- TOTAL ASSETS 1,186,560 447,875 CURRENT LIABILITIES Trade and other payables (211,051) (14,309) --------------------- ---------------- NET CURRENT ASSETS 412,628 433,566 --------------------- ------------------ NET ASSETS £975,509 £1,444,328 ========== ========= EQUITY Share capital 819,387 972,123 Share premium 1,658,590 1,496,090 Non-controlling interest 60,084 - Fair value reserve - 142,382 Foreign exchange reserve 5,268 - Accumulated losses (1,567,820) (1,166,267) --------------------- --------------------- SHAREHOLDERS' FUNDS £975,509 £1,444,328 ========== =========
+
+This financial information has been extracted from the audited financial statements of the Group for the year ended 31 August 2019. The financial statements are prepared in accordance with the International Financial Reporting Standards (IFRS). A copy of the Company's financial statements for the year ended 31 August 2019 will be posted to shareholders and will be delivered to the Registrar of Companies.
+
+The Directors do not propose to pay a dividend for the year.
+
+The Directors of the Company accept responsibility for this announcement.
+
+--ENDS--
+

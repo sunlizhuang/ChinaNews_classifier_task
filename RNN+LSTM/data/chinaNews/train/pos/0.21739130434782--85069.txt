@@ -1,0 +1,23 @@
+Huawei is boasting of some encouraging stats for its Google Play replacement after the Trump administration stopped the Mountain View giant doing business with the Chinese comms bogeyman.
+
+Last year, Huawei's worldwide handset business took a body blow in the form of the US Entity List, which cut Google off from lawfully providing Google Mobile Services (GMS) to Huawei, preventing it from shipping handsets with Google Play pre-installed.
+
+Less than a year later, Huawei is back with its own app marketplace – the Huawei AppGallery.
+
+Ow-wei, says Huawei as Chinese giant admits US sanctions smacked it right in the phone biz READ MORE
+
+The megacorp has claimed the AppGallery is now one of the top three app stores in the world. It is not clear how it achieved that number, particularly when Amazon sold 5.3 million Fire tablets in the third quarter of 2019 alone, according to analyst firm Strategy Analytics. Meanwhile, Huawei's phone business is almost at a standstill in the West, with the Mate 30 Pro only recently hitting shelves in the UK.
+
+While it's true Huawei has previously (and consistently) bundled the AppGallery alongside the Google Play store, potentially boosting its deployment figures, it's not clear who would use it when there's a far more expansive marketplace on offer.
+
+That notwithstanding, Huawei said the AppGallery is now available in over 170 countries and territories, with over 400 million monthly active users (MAUs). While it didn't break down those figures further, the lion's share is likely in Mainland China, where Google Play is effectively off-limits.
+
+Huawei is eager to make the AppGallery a viable alternative to Google Play while the icy trade war between China and the US rumbles on – particularly when it comes to the company's unfortunate placement on a US Treasury Entity List.
+
+It has previously promised to invest as much as $1bn in the ecosystem and today claimed it has as many as 3,000 engineers working on it. It has also inked deals with the likes of News Corp's News UK.
+
+In a canned statement, Christina Scott, News UK CTO, said: "I think this is a really good long-term partnership we can have with Huawei. I feel there's a lot more innovation we can do."
+
+Huawei has also announced the introduction of installation-free Quick Apps, effectively progressive web apps albeit with some fancy branding. That said, it's interesting to see Huawei aggressively integrate them into the AppGallery, and to the less discerning punter, it'll make the app marketplace seem far less barren than it actually is. ®
+
+Sponsored: Quit your addiction to storage

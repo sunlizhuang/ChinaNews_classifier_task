@@ -1,0 +1,23 @@
+Outgoing NSA legal chief Glenn Gerstell said in an interview with The Washington Post that hacking threats from adversaries are an existential threat to the US on par with climate change.
+
+He described tech advancements as a mounting "tsunami" that US defense agencies might not be prepared for.
+
+Gerstell joins a chorus of security officials warning that the US must get ahead of cybersecurity threats.
+
+Visit Business Insider's homepage for more stories.
+
+Rapid advances in technology could shift the power dynamics between the US and its adversaries, and federal agencies will need to quickly adjust to growing cybersecurity threats, according to outgoing National Security Agency General Counsel Glenn Gerstell.
+
+Gerstell predicted mounting hacking threats against the US in an interview with The Washington Post published Monday, comparing the challenge to that posed by climate change.
+
+"The challenges presented by the digital revolution … are of such a magnitude and coming at us with such a rapidity that there's a danger we will treat it conventionally and underestimate its significance," Gerstell said.
+
+US agencies and private companies have been the targets of a slew of sophisticated hacks originating from countries including Iran, China, Russia, and North Korea in recent years. Hackers have stolen sensitive information, compromised military networks, and held companies' infrastructure for ransom.
+
+According to Gerstell, the US government will need to consolidate and strengthen its cyber defenses in order to protect against future hacks. While Gerstell didn't recommend any specific measures, he said the NSA should be more transparent about its cybersecurity work going forward. An NSA spokesperson did not immediately respond to a request for comment.
+
+Gerstell joins a chorus of former administration officials warning of growing hacking threats. Kiersten Todt, a former cybersecurity advisor to the Obama administration, told Business Insider last month that countries like China, Iran, and Saudi Arabia could "look to attack our critical infrastructure on the homeland."
+
+Security experts have sought more transparency from the NSA for months. In January, the NSA reported a critical flaw in Microsoft's Windows 10 — an unprecedented move for a government agency — but did not disclose how it partners with private companies to identify security risks. The incident raised red flags for security watchdogs at the time.
+
+"These are clearly noteworthy shifts from regular practices and make this vulnerability worth paying attention to and also worth asking questions about," Tenable CEO Amit Yoran, who founded the Department of Homeland Security's Computer Emergency Readiness Team, told Business Insider in January.

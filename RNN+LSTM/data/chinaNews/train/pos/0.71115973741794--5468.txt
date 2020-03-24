@@ -1,0 +1,59 @@
+Save this picture! Images taken from Nicola Tartaglia, Nova scientia, second book, Distantia del transito, 1558
+
+What happens when the sensor-imbued city acquires the ability to see – almost as if it had eyes? Ahead of the 2019 Shenzhen Biennale of Urbanism\Architecture (UABB), titled "Urban Interactions," ArchDaily is working with the curators of the "Eyes of the City" section at the Biennial to stimulate a discussion on how new technologies – and Artificial Intelligence in particular – might impact architecture and urban life. Here you can read the “Eyes of the City” curatorial statement by Carlo Ratti, the Politecnico di Torino and SCUT.
+
+In his Nova Scientia (1537), Nicola Tartaglia demonstrates that a certain use of the goniometer allows for a better calculation of the trajectory of cannonballs, and is therefore useful to win the wars fought by the sovereign. Now, we all know that artificial intelligence, just like the protractor, helps win wars. But what if we do not know which war we are fighting? What if we do not know where and against whom we should fire the cannon?
+
+This question well describes the operational perspective of architectural design, which knows that it must win a war but does not yet know exactly which. In order to understand how artificial intelligence can influence architectural design in a non-deterministic way, it is necessary to examine how intelligence, whether human or artificial, works.
+
+In his book The Second Digital Turn, Mario Carpo provides an incisive definition of the difference between artificial intelligence and "human" intelligence. Through the slogan "search, don't sort", he well describes how our way of using email has changed after the spread of Gmail:
+
+We used to think that sorting saves time. It did; but it doesn’t any more, because Google searches (in this instance, Gmail searches) now work faster and better. So taxonomies, at least in their more practical, utilitarian mode—as an information retrieval tool—are now useless. And of course computers do not have queries on the meaning of life, so they do not need taxonomies to make sense of the world, either—as we do, or did. [Mario Carpo, The Second Digital Turn. Design Beyond Intelligence, MIT Press, Cambridge MA, 2017, p. 25.]
+
+Machine-intelligence is an infinite “search” based on a finite request: Carpo's machine, which announces the second digital turn (or revolution?), is able to find a needle in a haystack - so long as someone asks it to look for a needle, for reasons that are still human. There is no longer any need for shelves, drawers, or taxonomies to narrow down the search-terms into increasingly coherent sets (as was the case with "sorting"). The machine will find the needle wherever it is, in the chaos of the pseudo-infinite space of the World Wide Web or, in a more general sense, of the "Big Data". It will do so in an instant. And herein lies its intelligence: it can look for a needle in a pseudo-infinite haystack (Big Data) at a very high speed (Big Calcula).
+
+Save this picture! mages taken from Nicola Tartaglia, Nova scientia, second book, Distantia del transito, 1558
+
+This disproportionate search speed and database extension brings to light a skill of the machine that somewhat recalls an intelligent action, but actually presents itself as the product of an alien, obtuse and siliceous intelligence. Very cunningly, Carpo suggests that this otherness should be respected (so much so as to deserve the attribute of intelligence) but should also be clearly distinguished from the dear old human intellectual faculties, which have long helped civilization to progress along the slow and narrow path of taxonomies and models.
+
+"What [we humans] do best" is build reduction models, a priori schemes and projections. The "human" experimental method anticipates a solution with a bet, and then verifies, corrects and reformulates it: the result is a function, a model, or a project through which, after experimentation, the researcher finds what they decided to look for in the first place. The machine method, on the other hand, approximates the solution by means of infinite iteration, which proceeds in all directions until it finds something that resembles the input with which it was activated. The machine has no intention: it is like a pedantic and stubborn bloodhound which blindly accumulates and discards until it finds something that "corresponds to (x)". Artificial Intelligence (AI) is a hyper-bricoleur that elevates the routine of trial and error to a panoptic procedure of identifying sameness and conforming to (x).
+
+Carpo, therefore, distinguishes between Artificial Intelligence and Human Intelligence (HI) as two phenomena that have the same ontological consistency, but epistemological essences that cannot be translated into one another. The essence of HI, after all, is an immutable value and character, and we must not be overwhelmed by the power of the new instruments available, even if technological progress is making them virtually autonomous (that is, "intelligent"). Carpo's advice also sounds somewhat conservative and vaguely apocalyptic: may humans remain true to themselves and assert their inveterate theoretical capacity before it is too late (i.e. before machines begin to trigger processes on their own: “The next atomic blast in physical reality may not allow for a retrial” (Ibidem)).
+
+The weakness of Carpo's considerations probably lies in the assumption that the advent of machines capable of very fast calculations on infinite data is a point of discontinuity, to which we must react by using the continuity typical of human properties. The premise of this discourse combines a vision of technological progress that proceeds by turns and overcomings with a conception of the human essence as invariable, separating the progressive history of technology from the stabilised history of the spirit. While technology proceeds by successive stages (from bricolage to craftsmanship, from mass production to digital mass customization), the role of the a priori scheme, of the conceptual model, remains the same: to guide the (technical) optimum towards the future.
+
+In this sense, even the newfound bricolage of AI - understood as a hyper-bricoleur - clarifies these opposing roles and does not alter the distinct essences of machines and humans. Technology has its own historical course, one in which time marks the unstoppable pace of absolute process (though not necessarily of improvement): it is a phenomenology of technology, which in becoming "intelligent" even takes on the appearance of a spirit. In this perspective, where technology and the spirit pursue separate and parallel phenomenologies and teleologies, a designer can only reiterate their loyalty to the values of their supposed essential humanity, whatever they may be.
+
+An alternative to this separation between optimizing machines and designing human beings (but also, as Latour puts it, between "facts and values") should start with the criticism of the principle of technical optimisation. As shown by the research developed in the field of Science and Technology Studies (STS), if optimization is always contingent, that is, if it concerns an improvement that can only be detected and appreciated in a specific place and in differential forms, then there is no absolute optimization of technical objects in place, but only a greater or lesser ability to adapt to a given condition, in space and time.
+
+Adopting the operational perspective offered by STS, so as to investigate the technological transformations affecting the practices of architectural design, allows one to avoid any finalistic misunderstanding. And it also allows scientists to focus their attention on the action carried out by a design within the sociotechnical dimension in which the given architectural project unfolds. If - as proposed by the call of the Biennale - the city provides itself with the “most recent advances in Artificial Intelligence”, then how does the practice of architectural design change? In order to answer this question, it is necessary to adopt procedures that describe the project practices, measure its effects and verify its power. sharing a form of describability (i.e. a theory) of architectural design is the precondition for addressing the question in analytical terms.
+
+Mapping the action of the architectural project, calculating the resulting implications, recognising possible strategies in the individual cases in which the project succeeds in acting and producing effects in the contingency of a specific situation - that outlined by the futuristic scenario of the city's eyes - constitutes a real research programme. The presence at the Shenzhen Biennale of some of the most interesting research centres on project action can be an opportunity to create a global scientific network, dedicated to the study of the architectural project as a specific intellectual technology. A technology with specific forms of transmissibility, measurability and innovation, like other more or less advanced technologies.
+
+About the Authors
+
+Alessandro Armando and Giovanni Durbiano are professors of Architectural and Urban Design at Politecnico di Torino. They are also partners at DAR-Architettura Office. Armando had a 9-years practice in public projects at the Urban Center Metropolitano of Torino, and currently he is Director of the Master Degree “Architecture: Construction and the City” at Politecnico di Torino. Durbiano is the President of the scientific society ProArch, which collects the Italian Architectural and Urban Design professors. Armando and Durbiano were the inspirators and founders of the journal «Ardeth – Architectural Design Theory», and together they wrote Teoria del progetto architettonico. Dai disegni agli effetti, in 2017. Their research work is visible on https://www.teoriadelprogetto.com/
+
+"Urban Interactions": Bi-City Biennale of Urbanism\Architecture (Shenzhen) - 8th edition. Shenzhen, China
+
+http://szhkbiennale.org/
+
+Opening in December, 2019 in Shenzhen, China, "Urban Interactions" is the 8th edition of the Bi-City Biennale of Urbanism\Architecture (UABB). The exhibition consists of two sections, namely “Eyes of the City” and “Ascending City”, which will explore the evolving relationship between urban space and technological innovation from different perspectives. The “Eyes of the City" section features MIT professor and architect Carlo Ratti as Chief Curator and Politecnico di Torino-South China University of Technology as Academic Curator. The "Ascending City" section features Chinese academician Meng Jianmin and Italian art critic Fabio Cavallucci as Chief Curators.‬‬‬
+
+"Eyes of The City" section
+
+Chief Curator: Carlo Ratti.
+
+Academic Curator: South China-Torino Lab (Politecnico di Torino - Michele Bonino; South ChinaUniversity of Technology - Sun Yimin)
+
+Executive Curators: Daniele Belleri [CRA], Edoardo Bruno, Xu Haohao
+
+Curator of the GBA Academy: Politecnico di Milano (Adalberto Del Bo)
+
+"Ascending City" section
+
+Chief Curators: Meng Jianmin, Fabio Cavallucci
+
+Co-Curator: Science and Human Imagination Center of Southern University of Science and Technology (Wu Yan)
+
+Executive Curators: Chen Qiufan, Manuela Lietti, Wang Kuan, Zhang Li

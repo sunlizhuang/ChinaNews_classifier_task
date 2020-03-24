@@ -1,0 +1,113 @@
+Software
+
+Mainnet
+
+General maintenance ongoing
+
+Bamboo Wallet
+
+Running environment updated, added support of mainnet WTC
+
+KIRINPOOL
+
+Management back-end data optimization ongoing
+
+KIRINMINER Mall
+
+Flash sale of 11 KIRINMINERs for 11.11 Festival completed
+
+Lucky Miner event on Nov. 18–20 completed
+
+Blue Paper
+
+WTA App released officially
+
+Mainnet WTC token swap in WTA App for normal users ongoing
+
+Smart Cabinet System
+
+1. Development of smart voice interaction, face recognition, display and touch integration completed
+
+2. Mixing elimination and 4MIC debugging of the smart voice interaction hardware completed
+
+3. Acceptance by Laofengxiang passed
+
+4. Commercialization planning started
+
+Hardware
+
+RFID Chip
+
+1. Samples of full-mask chip completed
+
+2. Application for new patents
+
+3. Dual-frequency tag design ongoing
+
+Blockchain Data Collection Terminal
+
+1. Gateway hardware version changed to support connection with sensors
+
+2. Cloud server interface debugging ongoing
+
+RFID Mounted Reader-Writer
+
+Extensible interface added
+
+BD & Operations
+
+1. LOVEONLY INC. and Waltonchain signed a cooperation agreement to promote the development of the diamond traceability ecosystem
+
+2. The Cyberspace Administration of China (CAC) listed Waltonchain child chain Huodull and Silictec subsidiary Yiwan Site in the 2nd batch of Registered Blockchain Information Service Providers
+
+3. WTA pre-mining for SMN and GMN holders completed
+
+4. EMBA entrepreneurs visited Waltonchain’s technical supporter Silictec to communicate on application of Blockchain + IoT solutions
+
+5. Prof. Kim Suk Ki (Waltonchain Senior Consultant & Former VP of Samsung Electronics) delivered a speech at The 3rd Taiwan Strait Elite Talent Festival and was awarded the Certificate of High Level Talents for Overseas Talents
+
+6. Mo Bing delivered a speech at Shenzhen Blockchain & Distributed Storage Conference Expo 2019
+
+7. Mo Bing visited Stokado Global Launch Conference in Macao
+
+8. Korea Blockchain Institute held a graduate ceremony for trainees of the 2019 Intensive Development of Innovative Young Talents course
+
+9. Software Director Mr. Yin participated in the meeting for formulation of China’s National Blockchain Standard in Shenzhen
+
+10. Medical Waste Supervision Platform built by Silictec’s subsidiary Xiamen IOT Technology and Neusoft HIFLY was exhibited at The 2nd China Hospital Internet of Things Conference 2019
+
+11. TagBrasil visited Waltonchain to discuss Blockchain + IoT cooperation in Brazil
+
+12. Deputy Secretary of Shandong Province Government and leaders from several universities visited Korea Blockchain Institute for promotion of blockchain education in Shandong Province
+
+13. Government officials from Huanggu District, Shenyang City visited Shenzhen Blockchain Industry Alliance (SZBIA) and Waltonchain’s technical supporter Silictec to learn about Blockchain + IoT solutions
+
+14. Mo Bing delivered a speech at the 2019 Nanshan Blockchain Application Association Annual Seminar held in Shenzhen
+
+15. Delegation from Foshan Municipal Committee of China National Democratic Construction Association visited Waltonchain’s technical supporter Silictec to learn about Blockchain + IoT solutions to empower real economy
+
+16. Waltonchain’s Christmas event on OKEx (Dec. 18–25) completed
+
+17. Mo Bing delivered a speech on the meeting of Shenzhen Blockchain Industry Alliance (SZBIA) held on Dec. 27
+
+Walton Chain Foundation Expenses (Q4 2019)
+
+As of December 31, 2019, the total expenses of Walton Chain Foundation in Q4 2019 are 30,002 WTC and the balance is 10,762,547 WTC.
+
+1. Waltonchain Global Ecosystem Incubation Fund: 0x309a272885bdeA62d99c4E32E40bEe93A3cCef6a
+
+Spent: 2 WTC
+
+Balance as of December 31: 9,057,849 WTC
+
+Expense items: testing.
+
+1. Waltonchain HR Fund:
+
+0x511fb75A1E1526A3732a49e90d35D84d785f4F1B
+
+Spent: 30,000 WTC
+
+Balance as of December 31: 337,445 WTC
+
+Expense items: project labor cost coverage

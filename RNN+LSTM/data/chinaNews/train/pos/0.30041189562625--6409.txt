@@ -1,0 +1,45 @@
+Real-world cybersecurity issues are growing, and a number of CES participants stand ready to guard your data.
+
+Author and hacking specialist Alissa Knight says it's up to each of us to demand the automakers get this technology right.
+
+GuardKnox wants to work with dealers on an aftermarket protection device.
+
+Automotive cybersecurity is a challenge. A number of challenges, actually. Automakers are challenged to protect their cars. Hackers see a challenge in getting into your car. And if you were to challenge most drivers to identify how secure or vulnerable their vehicles are, you would probably get nothing but blank stares.
+
+"Vehicles are nothing more than computer networks on wheels now," automotive security expert Alissa Knight told Car and Driver. Knight is the author of the forthcoming book Hacking Connected Cars: Tactics, Techniques, and Procedures, and her information page for the panel she spoke at during CES calls her "a recognized hacker." Customers don't have a lot of options in how their vehicle is secured, she said. If someone is shopping for a car, it's more than a little difficult to bring their own firewall to protect the vehicles from hacking attacks.
+
+"You need to rely on the [auto manufacturers], but if you think about it, the automakers are . . . building a bastardized stack of other people's products," she said.
+
+And suppliers are limited in the kind of security they can offer the automakers, Knight said. They can't go in and harden a vehicle's code, because it belongs to the automaker. One thing a supplier can do is build a device that sits in the network to monitor and block inappropriate traffic. Knight cited an ECU-based firewall from TowerSec that works like a firewall on a traditional computer network to limit traffic, defining which devices can talk to which other devices, as an example of a way for automakers to get better control of their connected cars. TowerSec, an automotive security firm based in Israel and Michigan, was acquired for $70 million in 2016 by Harman for its connected-car division.
+
+Knight said she believes getting everyday drivers to understand the risks is going to be a long evolution. Many people still don't understand security in personal computers, and those have been in general use for around 30 years.
+
+"The consumer is 100 percent at the mercy of the automaker to secure that vehicle," she said. "What the consumer needs to do is not ask what kind of leather it has or if you can get Facebook on the head unit. They have to ask questions like, Can the head unit communicate with the steering column and other life-safety units? And if so, why? Consumers need to ask these questions until the automakers get it."
+
+
+
+Pursuing Cybersecurity with Carmaker Partners
+
+A modern or future connected car probably can't be 100 percent secure, at least in the near future. The Israeli company GuardKnox was also at CES this year to talk automotive cybersecurity and share its ideas for anti-hacking protection by teaming with major automakers. A spokesperson told C/D that even though GuardKnox products are not currently deployed in vehicles, the company expects to make product announcements in 2020, most likely in Europe and Asia.
+
+GuardKnox was formed in 2015 by a group of Israel Air Force cybersecurity R&D veterans. It opened an office in Ann Arbor, Michigan, earlier this month and, in the middle of 2019, raised $21 million in Series A funding, including money from two automotive industry investors, Shanghai Automotive's SAIC Capital and Faurecia.
+
+GuardKnox is publicly talking about two partnerships it has with automakers. First, it's working with Porsche on an ECU-based secure network orchestrator that protects in-car communications from outside hacking attacks. Second, GuardKnox claims a partnership with Daimler's pre-development and innovation department on wireless interactive accessories that use GuardKnox's Bluetooth-to-CAN gateway—again, to prevent hacking.
+
+The automakers themselves, though, seem to be more interested in keeping their security efforts, well, secure. Benjamin Oberkersch, a global communications spokesperson for Mercedes-Benz cars and vans, told us that he could not comment because "As you know, car IT security topics are very sensitive." Porsche did not return repeated requests for comment on the company's work with GuardKnox.
+
+GuardKnox was founded based on the idea that automotive cybersecurity needs to be proactive and does not work as a reactive technology, CEO and co-founder Moshe Shlisel told C/D. There has to be a physical separation between the safety-critical systems and the rest of the car, he says, so if—for example—the infotainment system gets hacked, the rest of the car still operates as intended. This is what led GuardKnox to develop its Secure Network Orchestrator (SNO) product lines. GuardKnox says that these products offer "comprehensive vehicle cybersecurity protection against any type of known and unknown cyberattack."
+
+
+
+"We protect the entire communication in the vehicle and what goes in and what goes out," Shlisel said. "When GuardKnox is installed in a vehicle, you have fighter-jet protection at an automotive price."
+
+
+
+Getting Security to Consumers via Aftermarket Devices
+
+Shlisel often speaks in military terms, sketching potential scenarios such as a hacked fuel tanker truck entering a city and comparing it to a bomb. That's an extreme situation, of course. For more common ones a solution, GuardKnox believes, is to offer aftermarket anti-hacking devices to the market through automotive dealerships or other businesses. Shlisel wouldn't say how much a future secure-network (SNO) device might cost a driver, instead pointing out how much goodwill dealerships could generate by offering them to customers.
+
+Such a device would likely need to be updated, which could mean more regular communication between the dealer and the driver, Shlisel said. Dealers would be getting a product that protects the vehicle and also increases the probability that they will sell more cars.
+
+"From an economic perspective, they should give it away for free," he said.

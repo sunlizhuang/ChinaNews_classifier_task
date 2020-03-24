@@ -1,0 +1,45 @@
+Scientists urge China to quickly share data on virus linked to pneumonia outbreak
+
+Chinese scientists have identified a novel coronavirus—a pathogen family responsible for two other new diseases since 2003—as the likely cause of the outbreak of an unusual viral pneumonia in the central city of Wuhan that has sickened dozens of people since mid-December 2019. The researchers have sequenced the virus and developed a test to identify it, according to a news report today by CCTV, China’s state-owned broadcaster.
+
+Although the link between the agent and the disease needs to be confirmed, many scientists praised the discovery, which they say is a testimony of China’s prowess in virology. But they are urging the country to quickly share much more information about the new agent, the disease it causes, and how it appears to spread.
+
+“The virologists in China are some of the best in the world, they work extremely quickly, extremely efficiently,” says Peter Daszak, president of the EcoHealth Alliance. “They have a lot more information than we know about right now. I hope that information comes out very soon.” The outbreak, Daszak says, is “a chance for China to show that they are doing 21st century public health as well as 21st century virology.”
+
+“I think they really should share the sequence data, so that we can all make sure we can test for this virus if we get travelers from this region,” adds virologist Marion Koopmans of the Erasmus Medical Center.
+
+At least 59 people in Wuhan have fallen ill with the mysterious agent since mid-December, according to the Wuhan Municipal Health Commission; no deaths have been reported, and so far, there have been no reported cases of human-to-human transmission. Many cases have been linked to a seafood market in the city that also sells other live animals. China first reported the unusual cases to the World Health Organization (WHO) on 31 December 2019. (News of the discovery of the coronavirus was first reported yesterday by The Wall Street Journal .)
+
+CCTV says a virus isolated from one patient showed the spiked surface typical of coronaviruses under electron microscopy. Scientists sequenced the virus, according to the report, and then used nucleic acid testing to identify the virus in 14 additional patients.
+
+Separately, state news agency Xinhua today said a governmental investigation review panel for the outbreak is led by Xu Jianguo, director of the State Key Laboratory of Infectious Disease Prevention and Control in Beijing, a part of the Chinese Center for Disease Control and Prevention. Xu told Xinhua that researchers are continuing their work to confirm that the coronavirus is the culprit.
+
+“Preliminary identification of a novel virus in a short period of time is a notable achievement and demonstrates China’s increased capacity to manage new outbreaks,” Gauden Galea, WHO’s representative to China, wrote in a press statement today.
+
+Scientists around the world share that sentiment, but they would like to know more. Chinese researchers “are to be congratulated on identifying the causative agent quickly,” says Malik Peiris, a virologist at the University of Hong Kong. “Now it is important that they share specific diagnostic RT-PCR [reverse transcription polymerase chain reaction] tests with WHO and the global public health community.”
+
+“What I really want to see is information on the epidemiology and pathology,” Daszak says, “so that we can all have confidence that, No. 1, this coronavirus is the cause of this outbreak, and No. 2, that it is contained and that they have been able to trace back all the potential cases, isolate them, test them. Every day that we don’t get all that information is a risk of further spread in my opinion.”
+
+Chinese researchers needn’t worry that sharing the information would preclude publication of the new virus in a prestigious journal, says Christian Drosten of Charité University Hospital: “No journal will reject a paper because this sequence has been made public.”
+
+The news reports have been careful to call the findings preliminary. During the 2003 outbreak of severe acute respiratory syndrome (SARS), Chinese authorities and scientists were embarrassed when premature reports that chlamydia was the culprit turned out to be incorrect; it later turned out to be a new coronavirus. “I can understand why politicians and scientists have to be really cautious in claiming [this virus] is the causative agent,” says Wang Linfa, an emerging disease specialist at the Duke-NUS Medical School. A key step in nailing the link is to replicate the symptoms in laboratory animals, Wang says, but that can take weeks or months.
+
+Wang says the parallels between the Wuhan outbreak and SARS are interesting. Both emerged in winter, with initial cases tied to exposure to animals sold at live animal markets. (With SARS, the intermediary host proved to be civets sold at the markets.)
+
+But there are big differences as well. SARS proved to spread relatively easily among humans and eventually caused 774 deaths in 37 countries before it was contained. The pneumonia cases in Wuhan so are far milder than SARS and there appears to be no human-to-human transmission—although some researchers aren’t so sure. “I don’t understand how you can get so many cases without human-to-human transmission,” Daszak says. “This is something I have a red flag on.” Koopmans remains to be convinced as well.
+
+The other key difference between now and 2003 is that China’s scientific expertise has grown rapidly. “The lab capacity, the clinical capacity, the outbreak capacity is orders of magnitude better now,” Daszak says. Back then, China also denied it had a problem, and actively tried to cover up the outbreak. It is not doing so now, but it hasn’t exactly been generous with information either, Koopmans says. “The communication has been better than with SARS but not perfect.”
+
+“What they’re trying to do is wrestle with when you actually announce publicly without getting egg on your face,” Daszak says, “because it would have been embarrassing to announce that a week ago and then find out that it was an incidental finding.”
+
+I think they really should share the sequence data, so that we can all make sure we can test for this virus if we get travelers from this region. Marion Koopmans, Erasmus Medical Center
+
+Scientists assume the Wuhan patients were infected by some animal sold at the market. Pinpointing the exact species is key, Peiris says. “There may be other markets where a similar virus may be circulating and it will be important to test such markets to preemptively contain similar outbreaks.” Wang suspects Chinese investigators have tried to collect samples from animals and have swabbed walls and cages: “The fact that we have not seen anything in the media suggests the issue is sensitive or the results [are] not conclusive.”
+
+The new illness again demonstrates that live animal markets should no longer be allowed, says Robert Webster, a leading influenza researcher at St. Jude Children’s Research Hospital. “There’s a host of coronaviruses out there,” he says. “You keep putting live animals in contact with humans and this is going to happen from time to time. So far we’ve got lucky that none have led to widespread human-to-human transmission.”
+
+But whatever animal spread the virus at the market likely picked it up from a natural reservoir elsewhere, scientists say. “If I were to bet, I’d bet it’s from bats,” says Wang, who led one of two teams that traced the SARS virus back to cave-dwelling horseshoe bats in Yunnan province. The coronavirus that causes Middle East respiratory syndrome (MERS), which emerged in 2012, has been traced back to wild bats as well. “Bats carry so many coronaviruses and they mutate rapidly,” Wang says.
+
+In Hong Kong, 48 people who traveled to Wuhan in recent weeks have presented with symptoms of either fever and respiratory infection or pneumonia; Singapore and South Korea have isolated sick travelers from Wuhan as well. None of them has been found to be infected with the suspected virus so far.
+
+Correction, 10 January 2020, 7:30 a.m.: This article has been updated to correct Xu Jianguo's title and affiliation.

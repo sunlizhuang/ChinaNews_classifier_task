@@ -1,0 +1,75 @@
+In late December, when China first announced the outbreak of a mysterious pneumonia, officials in the country were quite clear on a few things.
+
+Most of the patients had been exposed to a food market in Wuhan, the city that’s still the epicenter of the outbreak, according to local health authorities. The earliest case had symptoms just two weeks earlier, on December 12. There was also “no clear evidence” of human-to-human transmission, meaning the virus wasn’t yet spreading from one person to another. That suggested people might have been getting sick directly from animals in the market.
+
+Together, the details — while concerning — were somewhat reassuring for global health experts: They suggested that this outbreak of a deadly new coronavirus began very recently and might not spread very far, and that the general population was not at risk of serious illness.
+
+Since last week, the case toll has exploded. By Monday, there were more than 2,800 cases of 2019-nCoV, as the virus is known, across China, and a smattering of people with the illness in at least a dozen other countries, including five in the US and one in Canada. There’s already serious discussion about whether the new virus is at risk of becoming a pandemic. Which all means the early indications of a rather low-key outbreak were wrong.
+
+A new study, published on January 24 in The Lancet, helps explain why. The authors — Chinese researchers, and doctors working in Wuhan — paint a very different portrait of the first days of the outbreak. They suggest the virus, and its spread among humans, took off weeks earlier than Chinese officials said.
+
+The researchers reviewed the clinical charts, nursing records, lab findings, and chest X-rays of the first 41 patients who had confirmed 2019-nCoV infections. Among other things, they reported that the first case of 2019-nCoV wasn’t even linked to the Huanan Wholesale Seafood Market at the center of the outbreak.
+
+These discrepancies add new urgency to a question many are already asking: Did China downplay the outbreak early on? And if so, why?
+
+A new view on the early coronavirus cases
+
+There are a few key differences between China’s early reports of this outbreak and the findings in the new Lancet study focused on the first 41 patients. These are the most concerning:
+
+1) More than a third of the earliest cases had no connection with the market.
+
+As you can see from this Lancet chart, by the time China alerted the world about the outbreak, on December 31, there were already numerous cases detected with no connection to the Huanan market.
+
+All told, as of January 2, two days after China’s first report on the outbreak, 27 of 41 patients had been exposed to the seafood market, meaning more than a third of patients hadn’t.
+
+2) The outbreak’s first, or “index,” case also had no connection to the market.
+
+Even more intriguing, the first known patient — represented in the blue bar on the left in this graph — also had no market exposure. And that person became ill on December 1, nearly two weeks earlier than Wuhan health authorities had suggested about the first case. The study also reports, “No epidemiological link was found between the first patient and later cases.” So not only did a sizable portion of the early cases have no market link, the first known patient didn’t either — and no one knows how that person became infected.
+
+This indicates spread of the virus in Wuhan was likely happening months sooner, as early as October, Daniel Lucey, an infectious diseases physician and adjunct professor of infectious diseases at Georgetown University Medical Center, told Vox. It also indicates that there may have been multiple places in the food supply chain where people were exposed to animals with the virus, he added.
+
+“There’s two possibilities if they did not get infected at the market: They got infected from an animal that had the virus in a different market or any place where there was an infected animal. Second, they got infected from another person — so there was already person-to-person spread.”
+
+3) There was direct evidence of human-to-human spread as early as January 2.
+
+Relatedly, according to the Lancet paper, the first person who died from the virus, on January 9 (and had exposure to the market) passed it along to his wife — even though she didn’t have any history of market exposure. This was an early sign that human transmission was at least possible. (It’s also possible the wife handled infected meat her husband brought home from the market, for example.)
+
+By January 10, another family with the virus was identified, according to a second Lancet study, also published on January 24 and focused entirely on the one family in Shenzhen. Five members had recently visited Wuhan and had the virus — as well as another relative who never traveled to Wuhan. Notably, none of these individuals visited the Huanan market.
+
+These two examples of potential human-to-human spread surfaced nearly two weeks before China confirmed the first cases of human-to-human transmission, on January 20.
+
+4) More than half of the early cases were people under the age of 64 — and half of people in the ICU were between 25 and 49.
+
+In many of the early reports out of China on serious or fatal cases, authorities highlighted that the patients had been elderly or that they had underlying health conditions that compromised their health.
+
+But if you look at the age distribution of patients in the Lancet paper, this tells a different story. The majority of patients being admitted to the hospital, and even to the intensive care unit, were aged 64 and under. Roughly half of those admitted to the ICU were ages 25 to 49. What’s more, only one-third of these patients had underlying illnesses:
+
+So what’s going on here?
+
+There are a few potential explanations for the discrepancies between the early reports out of China and the information in these new Lancet studies.
+
+One is that authorities in Wuhan who were first reporting on the outbreak didn’t have enough information to piece together an accurate picture of the virus before releasing it to the world.
+
+“If you remember the story of AIDS, there were many initial hypotheses of its origin and cause at the beginning, just as with other emerging infections,” said David Heymann, a professor at the London School of Hygiene and Tropical Medicine who also worked on the SARS outbreak. It’s “like a puzzle to put all the information together to understand where it came from, but the important goal now is to stop it from continuing to spread.”
+
+Tom Frieden, the former director of the Centers for Disease Control and Prevention, likened the potential misreporting to the “‘fog of war’ early in an outbreak.”
+
+Another related explanation is that China’s rigid bureaucracy caused delays in getting out information about what was happening on the ground.
+
+“There are a lot of internal processes that need to go through the bureaucracy in China to get official statements” from the central government, explained Alexandra Phelan, a member of the Center for Global Health Science and Security at Georgetown University who has lived and worked in China over the past two decades. “That rigidity means information may come out very, very slowly.”
+
+This complex system of reporting may also prevent lower-ranking officials from reporting information, especially politically sensitive information, she added. So data doesn’t get “funneled up to the central government because of the challenges of how information sharing is treated both legally and normatively or practically.” (The New York Times’s Max Fisher had a helpful report on how the “rigidly hierarchical bureaucracy discourages local officials from raising bad news with central bosses whose help they might need.”)
+
+A third explanation is that China was purposely playing down the health emergency, as it did during the SARS outbreak of 2003. Back then, China was heavily criticized for reacting slowly, withholding information about the outbreak for too long, and putting economic considerations ahead of public health. The virus eventually killed 774 people and infected more than 8,000.
+
+“The fact that the Lancet report is different from the official early Chinese account does raise enormous concerns around the truthfulness of information coming out of China,” said Steven Hoffman, director of the Global Strategy Lab and a global health professor at York University. “If China did intentionally withhold information, that would not only be bad for public health but also illegal under international law. It would be a violation of the International Health Regulations, a legally binding treaty that covers how 195 countries respond to outbreaks like this one.”
+
+It’s also notable, Hoffman added, that on January 20, Chinese President Xi Jinping made his first public statement on the outbreak, demanding that all parts of the Chinese government “put people’s lives and health first.”
+
+“It is necessary to release epidemic information in a timely manner and deepen international co-operation,” he said.
+
+Within days, the number of cases doubled — and they’ve continued to rise rapidly since. (As recently as January 14, there were only 41 confirmed cases of the new coronavirus. Five days after Xi’s announcement, more than 2,000 cases were confirmed.)
+
+“From that perspective, it looks like China is reporting now,” Hoffman added, noting there’s no evidence, at this time, that they’re withholding information. “But you always need to be worried: When one source isn’t as forthcoming from the beginning, you never know later on.” And if this virus continues to move at a dizzying speed, the question of whether China mischaracterized what they knew about the virus will become even more urgent.
+
+“It’s crucial to understand the earliest days” of an outbreak, said Georgetown’s Lucey. Not only does it help us understand how deadly and transmissible a virus is, “it gets at how there’s been such rapid spread of the virus — not just across Wuhan, but to every province in China except for Tibet.”

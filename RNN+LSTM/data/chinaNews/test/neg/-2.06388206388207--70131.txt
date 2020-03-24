@@ -1,0 +1,95 @@
+Google’s corporate mission is “to organize the world’s information,” but it also bends it to its will. From Argentina to the United Kingdom to Iran, the world’s borders look different depending on where you’re viewing them from. That’s because Google — and other online mapmakers — simply change them.
+
+AD
+
+AD
+
+With some 80 percent market share in mobile maps and over a billion users, Google Maps has an outsize impact on people’s perception of the world — from driving directions to restaurant reviews to naming attractions to adjudicating historical border wars.
+
+And while maps are meant to bring order to the world, the Silicon Valley firm’s decision-making on maps is often shrouded in secrecy, even to some of those who work to shape its digital atlases every day. It is influenced not just by history and local laws, but also the shifting whims of diplomats, policymakers and its own executives, say people familiar with the matter, who asked not to be identified because they weren’t authorized to discuss internal processes.
+
+“Our goal is always to provide the most comprehensive and accurate map possible based on ground truth,” Ethan Russell, director of product management for Google Maps, said in a statement sent through spokeswoman Winnie King. “We remain neutral on issues of disputed regions and borders, and make every effort to objectively display the dispute in our maps using a dashed gray border line. In countries where we have local versions of Google Maps, we follow local legislation when displaying names and borders.”
+
+AD
+
+AD
+
+King declined to make any Google Maps officials available for an interview.
+
+Now 15 years old, Google Maps has become one of the most-used and recognizable products for the search engine giant. Maps are a big business for Google, in line to generate as much as $3.6 billion in annual sales by next year, primarily through advertising, according to RBC analysts. Google also licenses its maps to any number of location-based companies like Uber and Yelp, widening its particular vision of the world to even more people. As Google packs its maps with ever more information, subtle changes can alter people’s daily lives. Software algorithms that reroute drivers away from freeways can cause traffic jams in residential neighborhoods or drive desired foot traffic away from retailers.
+
+Apple Maps is the second most popular among mobile users, according to estimates, with about 10 to 12 percent of the market. Bing Maps, a division of Microsoft, controls a diminutive slice of the online map market.
+
+AD
+
+AD
+
+Apple is responsive to local laws with respect to border and place name labeling, said Jacqueline Roy, a spokeswoman. “We are taking a deeper look at how we handle disputed borders in our services and may make changes in the future as a result.” Microsoft defers to the International Court of Justice, the United Nations or academics, among others, regarding borders, or it otherwise indicates a border is disputed, according to its cartographic policy.
+
+In the more staid world of printed maps, which typically are changed quarterly at most, a board of cartographers, editors and staffers meet regularly to discuss world events and consider proposed alterations, said Alex Tait, geographer for the National Geographic Society. They may consult diplomats, bodies like the United Nations, historical charts, competing cartographers and news stories before reaching a consensus on any meaningful change, he said.
+
+An important difference is that printed maps may contain text and other images for context that would otherwise muddle the clean look online maps strive for. “We have a method of applying a de facto way of approaching the issues,” said Tait. “We try to show as much information as we can, when we can, to help people understand what’s going on in a part of the world.”
+
+AD
+
+AD
+
+“It’s part of our journalistic background. We want to show what the situation is, on the ground, to the best of our ability after we’ve done a lot of research,” he said.
+
+Google’s maps are created through a combination of satellite imagery, computer modeling, and hand-drawn borders and landmarks, the company has said. It relies primarily on contract workers who specialize in, say, tracking the construction of new types of buildings or roadways, according to the company and those workers. Knowing precisely where the emergency room driveway is could make the difference in a life-or-death situation.
+
+Unlike mapping geographical features, sketching the contours of towns or countries is ultimately a human construct. So Google consults with local governments and other official bodies to help make a decision about where to draw its lines, according to people familiar with the matter. And it refers to historical maps, news events and atlases, these people said. But changes are also made with little fanfare and can be done immediately, while physical maps are beholden to printing schedules.
+
+When it comes to contested borders, people in different countries often see different things. Take the body of water between Japan and the Korean Peninsula. To almost all, it is known as the Sea of Japan, but for Google Maps users in South Korea, it’s listed as the East Sea. More than 4,000 miles away, the waterway separating Iran from Saudi Arabia may be either the Persian Gulf or the Arabian Gulf, depending on who’s looking online. And the line in Western Sahara marking the northern border with Morocco disappears for Moroccans seeking it out on the Web — along with the region’s name altogether. The sparsely populated northwest Africa region is disputed between Morocco, which seized it in 1975, and the indigenous Sahrawi.
+
+Sometimes that flies in the face of international consensus. Google Maps users inside Turkey can find the Turkish Republic of Northern Cyprus, or TRNC, represented in the northern third of the Mediterranean island nation. The territory is not recognized by the United Nations, nor Google’s mapping competitors.
+
+AD
+
+AD
+
+These aren’t mere trifles. Last month at the World Economic Forum in Davos, Switzerland, Pakistani Prime Minister Imran Khan called on the United Nations to mediate the escalating dispute with India, and President Trump offered to step in. And a Cypriot official’s comments this month that appeared to favor the island’s reunification drew the swift condemnation of Turkish officials.
+
+“Country borders are inherently political, but it would probably surprise some Americans to learn that Google is effectively doing the bidding of autocratic governments on its maps,” said Elisabeth Sedano, a professor of spatial sciences at the University of Southern California. “Subtle changes may not seem so subtle to the people living there.”
+
+One of Google’s contract employees who worked to fix or amend problems with its maps said he had worked weeks, collectively, drawing and redrawing borders, particularly along the Amazon River, in response to officials’ concerns over maritime concerns and the ever-shifting contours of the waterway. “Rivers and uninhabited forests are particularly tricky because there are no landmarks to rely on,” he said. He, like others who work on Google’s outsourced maps team in Bothell, Wash., spoke on the condition of anonymity for fear of retribution from the search engine company.
+
+AD
+
+AD
+
+These people said that they are often told to alter maps with no reason given and that their changes take effect almost immediately. That typically includes relatively minor adjustments like widening a path in a park or removing mentions of landmarks like a statue or traffic circle. But, these people said, Google has a special team employees refer to as “the disputed region team” that addresses more prickly matters, such as how to portray the Falkland Islands, whose ownership has been disputed between the United Kingdom and Argentina since the latter invaded in 1982 and claimed them (Google makes no mention of the Argentine name Islas Malvinas to English map surfers).
+
+Google’s Russell said in a statement that the company’s “goal is always to provide the most comprehensive and accurate map possible based on ground truth.” The company consults the United Nations, international treaties and other government agencies, and its executives participate in conferences as part of its efforts.
+
+“We remain neutral on geopolitical disputes and make every effort to objectively display disputed areas,” Russell said in the statement. “In countries where we have local versions of Google Maps, we follow local legislation when displaying names and borders.”
+
+AD
+
+AD
+
+The company also responds to feedback, such as once changing the name of Native American tribal land to “nation” from “reservation,” according to a person involved in those discussions. Google’s maps can also be revised by a band of enthusiasts known as local guides who can submit suggestions for alterations, which often are implemented automatically. Pranksters during the 2016 election tricked Google’s software into renaming then-President-elect Trump’s Manhattan home “Dump Tower” before contractors were asked to fix it, for example.
+
+In some cases, local laws dictate how Google and others must represent maps to avoid censure, as is the case in China or Russia, according to people familiar with the matter.
+
+China, South Korea and other countries issue official guidance on how maps should be presented, and cartographers face penalties for not following the guidance, said a former Bing Maps executive, who spoke on the condition of anonymity because he wasn’t authorized to discuss the process. “For China, there’s a rigorous certification process, with details of sensitive areas being closely scrutinized,” he said.
+
+AD
+
+AD
+
+Google is effectively banned from mainland China but offers its services in Hong Kong and Macao.
+
+A cottage industry has emerged in forums on Reddit and in blogs of map enthusiasts documenting changes large and small on Google, Apple and Microsoft Bing maps. Their findings include a roughly 40-mile stretch between Chile and Argentina missing a border and, perhaps fanciful, the slightly offset intersection known as Four Corners where Utah, Colorado, New Mexico and Arizona meet.
+
+Demonstrating how the mapping companies’ policies are applied differently, Google said the missing border section is because Chile and Argentina haven’t agreed on where to draw the line, so it is left blank. Both Apple and Microsoft display a dotted border there.
+
+But Google routinely takes sides in border disputes. Take, for instance, the representation of the border between Ukraine and Russia. In Russia, the Crimean Peninsula is represented with a hard-line border as Russian-controlled, whereas Ukrainians and others see a dotted-line border. The strategically important peninsula is claimed by both nations and was violently seized by Russia in 2014, one of many skirmishes over control.
+
+Under apparent pressure from Moscow, Apple revised its maps late last year to show Crimea as a territory of Russia when viewed within Russia. The alteration prompted an outcry from European officials who have condemned Russia’s annexation of the peninsula.
+
+“Unfortunately, this legitimizes the illegal occupation of Crimea by the Russian Federation,” said Oleksii Makeiev, the political director of Ukraine’s Ministry of Foreign Affairs, in an interview. “Apple and others should tell the world they were urged to make the changes and condemn it.”
+
+“Otherwise, they are representing that this is part of their values and they are damaging heavily their image in Ukraine,” said Makeiev. He said he had met with Apple and Google officials to press the issue.
+
+Nearly four years ago, a group of Palestinian journalists condemned what they mistakenly believed to be Google’s wiping of Palestinian territories from its map. Rather, Google had for years marked the disputed territory but not named it on its maps.

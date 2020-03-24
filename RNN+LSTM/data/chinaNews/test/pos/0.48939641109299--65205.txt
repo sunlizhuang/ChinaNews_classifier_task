@@ -1,0 +1,43 @@
+After years in the margins of the telecom business, satellite is hot again.
+
+Big names like Musk, Son and Bezos are tipping big dollars into competing projects to deliver broadband from low earth orbit (LEO) satellites.
+
+It's hard to keep track of them all, but right now the frontrunners look like London-based OneWeb and Elon Musk's Starlink.
+
+OneWeb, a startup backed by Softbank and Qualcomm, last week launched 34 satellites, the first big batch in an intended fleet of 648. (See OneWeb launches 34 satellites for space-based Internet.)
+
+Starlink is plotting to send up 12,000 satellites. It's so far launched 242.
+
+Jeff Bezos's Project Kuiper, which is playing catch-up, is targeting 3,236 satellites, while Canada's Telesat is shooting for 300 satellites in 2023. China has two state-backed projects underway.
+
+The intense activity has echoes of the late 1990s when Iridium and GlobalStar lost billions in global mobile satellite ventures. They got killed by the rise of terrestrial mobile phone services.
+
+Both companies live on today in the less ambitious role of serving verticals that require remote connectivity. As it happens, both Starlink and OneWEb have struck agreements with Iridium.
+
+OneWeb has passed a key early technical test. It reports download speeds of 400 Mbit/s and latency of less than 40 milliseconds -- about 15 times faster than the traditional GEO satellites such as Inmarsat and Intelsat. (See OneWeb's LEO Strategy Shows More Progress, but Questions Remain.)
+
+OneWeb CEO Adrián Steckel says the company, which has so far raised $3.4 billion, is focused more on connecting the unconnected than SpaceX, which is targeting home broadband. Aside from Bharti and Softbank, one of its investors is the government of Rwanda.
+
+For all the latest news from the wireless networking and services sector, check out our dedicated mobile content channel here on Light Reading.
+
+SpaceX, whose investors include Alphabet and Fidelity Investments, originally projected the Starlink business would have more than 40 million subscribers and bring in more than $30 billion in revenues by 2025.
+
+It's walked back those numbers a little and acknowledges its hefty costs -- as high as $10 billion. A year ago, President and COO Gwynne Shotwell told WSJ the company was asking itself: "Can you make money out of it?"
+
+For Bezos, analysts see a ready tie-in with his existing Internet e-commerce and cloud and other businesses. They also point to his track record of undercutting his competitors on price to win market share.
+
+China has not one but two LEO satellite broadband projects -- confusingly with almost identical names.
+
+One is Hongyun, by the China Aerospace Science and Industry Corporation (CASIC). It's aiming to launch 864 satellites, targeted variously at 5G users, home broadband and the IoT market, according to Larry Press of California State University.
+
+The other is Hongyan, a creation of China Aerospace Science and Technology Corporation (CASC). It's planning a constellation of 320 LEO satellites, to be fully operational by 2025.
+
+One big problem these ventures share, and cited by SpaceX's Shotwell, is the cost of terminals. They are going to have to manufacture millions of home or office terminals to be commercially successful.
+
+Another is partners. They will need a local firm to help market to and manage the customers and provide the necessary technical service support. In many countries, the local partner will be mandatory.
+
+So far only OneWeb has signed up telco partners. But it looks like an opportunity for telcos, especially in markets with limited broadband takeup.
+
+But in markets like the US, with high broadband costs, satellite is a threat as well. One analyst estimates satellite broadband could save US consumers as much as $30 billion a year.
+
+ Robert Clark, contributing editor, special to Light Reading

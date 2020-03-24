@@ -1,0 +1,21 @@
+Application Security , Cybercrime , Fraud Management & Cybercrime
+
+Investor Discusses Nation-State Threats, Hot Technologies and Appointment to Onapsis Board
+
+Dave DeWalt, former CEO of FireEye and McAfee, has been appointed vice chair of the board of Onapsis, a vendor focused on securing business-critical applications, such as ERP and CRM. In this exclusive interview with Information Security Media Group, DeWalt opens up on business application vulnerabilities, the evolution of the nation-state threat and technologies to watch in 2020.
+
+DeWalt, now CEO of NightDragon Security, an investment and advisory firm, sits on the boards of several cybersecurity vendors, including Cybereason, ForeScout and Optiv. But he's particularly concerned about the security gaps being addressed by Onapsis.
+
+"When you look at business-critical applications, they have become one of the main areas of attack," DeWalt says. These applications, such as SAP, Oracle and Salesforce, have always contained critical data. The difference now: They operate in the cloud, not within secure network perimeters. "Suddenly we have vulnerability to major business applications ... in a way we hadn't seen before." he says. "And the attackers are looking to exploit it and are exploiting it."
+
+DeWalt also discusses the 2020 threat landscape and how the nation-state threat has evolved over the past 12 years. It's not just about China, Russia, North Korea and Iran, he says. "We now have more than 50 governments around the world with offensive cyber capabilities with 800 different attack types."
+
+In this interview (see audio link below photo), DeWalt talks about:
+
+The threats to business-critical applications;
+
+Deepfakes and nation-state threats;
+
+The technologies about which he's most bullish in 2020.
+
+DeWalt, former CEO of FireEye and McAfee, now serves as the CEO of NightDragon Security, a cybersecurity investment and advisory firm that he founded. He also serves as a managing director for Allegis Cyber and Momentum Cyber as well as an investor and board member at Delta Airlines, Five9, ForeScout, Claroty, iboss, Team8, DataTribe, Illusive Networks and Optiv.

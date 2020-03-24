@@ -1,0 +1,49 @@
+A Chinese woman whose novel coronavirus (nCoV-2019) infection was detected after she arrived in Thailand didn't visit the market at the center of Wuhan's pneumonia outbreak, but she frequently visited a different market, answering some questions—and raising new ones—about exposure to the virus.
+
+In another development, a Wuhan health official said there may be a family cluster among the outbreak patients, pointing to the possibility of human-to-human spread.
+
+Patient frequented different Wuhan market
+
+Yesterday's announcement from Thailand about the detection of the first nCoV-2019 case outside of China didn't have information about how she was exposed to the virus, a key question as health officials trace the animal source of the virus and assess the risk of human-to-human spread.
+
+A new statement from the World Health Organization (WHO) today had several new details, including that the woman had not visited the Wuhan seafood market, which also sold live animals such as chickens, bats, and marmots, where most patients are thought to have been exposed. However, she reported regularly visiting a local fresh market before her symptoms began on Jan 5.
+
+That illness onset is later than that of the others infected in the outbreak, which ranged from Dec 8 to Jan 2, according to a Jan 12 update from the WHO. The incubation period for nCoV-2019 isn't known, and authorities closed the seafood market on Jan 1.
+
+"As the traveler did not report having visited the market linked to most of the other cases, it is vital that investigations continue to identify the source of infection," the WHO said in its statement. It added that more investigation is also needed to gauge human-to-human transmission, the mode of transmission, common exposure sources, and whether there are undetected asymptomatic or mildly symptomatic cases.
+
+The woman's initial symptoms were fever, chills, sore throat, and headache. On Jan 8, she took a direct flight from Wuhan to Thailand with 5 family members in a tour group consisting of 16 people. Upon their arrival, thermal surveillance at Suvarnabhumi Airport in Bangkok detected her fever and she was hospitalized the same day.
+
+Her samples tested positive for coronaviruses based on reverse transcriptase polymerase chain reaction testing on Jan 12, and genetic sequencing confirmed that she was infected with nCoV-2019. The Emerging Infectious Diseases Health Science Center, the Thai Red Cross Society, and the Thai National Institute of Health conducted the testing.
+
+Currently, the patient is hospitalized in stable condition.
+
+Thailand's public health ministry has been screening travelers from Wuhan since Jan 3 at four different airports and has stepped up surveillance at hospitals. Thermal screening at the Bangkok airport has flagged eight travelers, and none have been diagnosed with nCoV-2019.
+
+So far, 182 of the woman's contacts are being monitored, and only one had respiratory symptoms, and the patient's throat swab was positive for respiratory syncytial virus.
+
+Potential family cluster, environmental positives
+
+In a Q and A posted by Wuhan's health committee, officials said there is one family cluster among the 41 cases, a husband who worked at the seafood market and got sick first, and his wife who denied exposure to the seafood market. The report was translated and posted by FluTrackers, an infectious disease news message board.
+
+So far, no clear evidence of human-to-human spread has been found, but the possibility of limited spread can't be ruled out, Wuhan health officials said. They added that the risk of continued transmission among people is low and that more research is under way combining clinical and epidemiologic data.
+
+In an update on the investigation into the seafood market, Wuhan officials said tests results on environmental specimens show that some samples were positive for nCoV-2019. Preliminary investigations at other markets so far have yielded no clues on the source of the virus.
+
+Good readiness at major Wuhan destinations
+
+In another development today, an analysis of air travel patterns to map the potential spread of nCoV-2019 found that of the top 20 destinations for travelers arriving from Wuhan, Bangkok, Hong Kong, Tokyo, and Taipei had the largest volume. The study, based on 2018 travel data from the International Air Transport Association, was led by a group from Toronto and appears in the Journal of Travel Medicine.
+
+Of the top 20 destinations they looked, only three were outside of Asia: Sydney and Victoria in Australia, and Dubai in the United Arab Emirates.
+
+They also used a validated tool (IDVI) to estimate each destination's capacity to prepare for and manage infectious disease threats. Based on scoring between 0 and 1, scores for the leading destinations topped 0.65. Of the 20 cities, Bali had the lowest score at 0.56.
+
+"Although it is unclear what the current burden of disease is or the potential for human-to-human transmission, major Asian hubs are the most probable sites of exportation should this epidemic continue, and public health officials are already on alert in those locations," the group concluded, adding that it's fortunate most countries receiving the highest volumes from Wuhan appear to have relatively strong public health and healthcare capacity.
+
+See also:
+
+Jan 14 WHO statement
+
+FluTrackers thread
+
+Jan 14 J Travel Med abstract

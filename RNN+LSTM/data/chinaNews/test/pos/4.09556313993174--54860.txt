@@ -1,0 +1,15 @@
+At this stage, there is little to see on the SDEA site, and digitalswizterland only mentions the Green Label for Data Centers project as one of the "bets" in its annual "Innovation challenge." Although the scheme was announced in a press release issued during the WEF meeting at Davos, it seems that it wasn't on the agenda of digitalswitzerland's Tech for Climate breakfast briefing at the event.
+
+However, Fabian Lenz, a field sales specialist at HPE in Switzerland, responded to DCD's questions, assuring us that the project is a serious one, and is receiving many requests following the announcement: "We are still at the stage of launching the label and want to have first lighthouse projects this year," he said. "Very soon, we hope to have our web presence set up, with much more detailed information. "
+
+So far, the project has selected design and operations criteria and tested a total of ten pilot sites against them, finding that sites that adopt efficiency measures are more efficient - sometimes by as much as 70 percent. Five of the ten Swiss sites tested are already using 100 percent carbon-neutral energy sources.
+
+The scheme will award bronze silver and gold labels, and will be supported by the Swiss Federal Office of Energy through the SwissEnergy program. The Canton of Geneva plans to include some of the SDEA's requirements into a forthcoming energy-efficiency law which will affect the construction of new data centers.
+
+Other founding members include: École Polytechnique Fédérale de Lausanne (EPFL), Green IT Switzerland, the Lucerne University of Applied Sciences and Arts (HSLU), the Swiss Data Center Association (Vigiswiss), and the Swiss Telecommunications Association (ASUT).
+
+“Carbon-neutral energy sources and energy-efficient digital technologies are available today, and it’s through appropriate methodologies, industry commitment and policy enforcement that broad adoption can be driven,” said Benoit Revaz, Swiss Federal Office of Energy.
+
+“We welcome projects such as the Swiss Data Center Efficiency Label, which can help to lessen the negative climate impact of one of the digital backbones of our society. We encourage and support organizations and nations worldwide to undertake similar efforts.”
+
+The SDEA has ambitions to also address Edge resources outside data centers, and to have influence beyond Switzerland. There are existing similar schemes including CEEDA (Certification of Energy Efficiency for Data Centers) and the European Code of Conduct. Lenz acknowledges SDEA will need to relate to other efforts: "We are in exchange with the European code of conduct and our ambition is to be aligned as well as contribute," he said.

@@ -1,0 +1,13 @@
+Northern China, a hotspot of air pollution, has always been an area of great interest to study owing to the significant impacts on human health, the climate and ecosystems.
+
+"However, most studies have focused on the sources and the formation mechanisms, which cannot provide us with knowledge on the fate of various species like reactive nitrogen, i.e., nitrogen deposition," says Masters student Zhen Wang, from the Institute of International Earth System Science, Nanjing University. "Therefore, in our study we estimated the nitrogen deposition in northern China through a combination of remote sensing data and atmospheric chemical transport model simulations."
+
+Wang and his coauthors interpreted the spatial and seasonal patterns of inorganic nitrogen deposition using NO2 and NH3 column measurements from satellites and the Model for Ozone and Related Chemical Tracers, version 4 (MOZART-4). The result was a unique "top-down" estimation of nitrogen deposition in northern China, and the findings have been published in Atmospheric and Oceanic Science Letters.
+
+According to this study, the average nitrogen deposition flux in northern China was 54.5 kg N per hectare (ranging from 16.3 to 106.5 kg N per hectare). That is equal to 10% of the annual nitrogen application for the rotation of winter wheat-summer maize in this region. Of the total nitrogen deposition, 36% was deposited via precipitation and 64% was deposited through dry deposition.
+
+According to Wang, this estimated nitrogen deposition flux will be helpful in determining the magnitude and pollution status in northern China without ground measurements, supporting the construction plan for environmental monitoring in the future. In addition, the generated spatial and seasonal patterns of nitrogen deposition in northern China provide basic information for evaluating the influence of nitrogen enrichment on regional biogeochemical cycles, such as forests, grasslands, and farmland ecosystems.
+
+"Although the method of remote sensing can provide us with general knowledge regarding the spatial pattern of nitrogen deposition, the current resolution still has difficulty in identifying hotspots," adds Dr. Xiuying Zhang, the corresponding author of the study. "Therefore, further research from our group will focus on atmospheric nitrogen deposition inversion with high spatial and temporal resolution."
+
+###

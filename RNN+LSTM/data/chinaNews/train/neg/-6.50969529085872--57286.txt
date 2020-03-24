@@ -1,0 +1,55 @@
+It’s the early, panic-inducing days of a new virus. People who may have been exposed are quarantined. Americans are being asked to keep their distance from others, just in case someone has been exposed to the virus and doesn’t show signs of infection yet. There are scary reports of deaths from the virus, and uncertainty about how it spreads—and so, just to be safe, people are buying masks.
+
+Sound familiar? In the early days of the AIDS epidemic, the panic was similar.
+
+It may be hard to remember now, but there was a time between the discovery of the “gay cancer,” Kaposi’s sarcoma (KS), and the discovery of HIV, which destroys the immune system if left untreated and leads to AIDS-defining illnesses (KS among them).
+
+But it was in those months and years when the most harmful myths about HIV that still persist were born: that you can get HIV from spit (2019, anyone?); that it was carried primarily in the air and saliva, and therefore people wanting to protect themselves from HIV shouldn’t share toilets or utensils with people living with the virus; that HIV was man-made; or that HIV itself doesn’t cause the virus and that something else does.
+
+These beliefs led to dehumanizing treatment of people living with HIV, such as keeping them in quarantine. Loved ones were required to don gowns, masks, and gloves when they visited—visitors were even prohibited from touching their dying loved one. Medical professionals refused to treat people living with HIV, and sometimes roommates kicked their friends with AIDS out of their apartment, so afraid were Americans of HIV spreading.
+
+It turned out that researchers identified HIV as the cause of AIDS in 1983, years after people had first developed AIDS. They also discovered that HIV was sexually transmitted, and that there was no reason to quarantine or avoid contact with people living with AIDS. But in that lag time, rumors spread that had homophobic and racist tinges to it.
+
+Today, in 2020, we are watching a similar event happening again—and this time, the harmful rumors include a link between the novel coronavirus (2019-nCoV), which is causing an outbreak of severe respiratory symptoms in China, to HIV around the world.
+
+First, What We Know About Coronavirus vs. HIV
+
+By Jan. 2, 2020, scientists had identified the cause of pneumonia in 41 people in Wuhan, China: a new version of the coronavirus. Coronaviruses are a group of respiratory viruses that have been recorded in cats, bats, camels, cattle, and humans. You might know one of the coronaviruses in the U.S.: the common cold.
+
+The first of the more virulent strain of coronavirus in humans emerged in 2003, though, when severe acute respiratory syndrome (SARS) emerged in China. Another coronavirus, Middle East respiratory syndrome (MERS), was identified in humans in 2012. Now, there’s 2019-nCoV, short for “novel coronavirus, 2019.” It will get a proper name soon.
+
+As of 10:43 a.m. ET on Feb. 5, 24,613 people worldwide have been diagnosed with 2019-nCoV, according to a 2019-nCoV tracker created by Johns Hopkins University. All but 221 of those have occurred on mainland China, most of those in Hubei province, where the outbreak started.
+
+So far, 11 people have been diagnosed with the virus in the U.S., and Americans returning from China are being held in quarantine at March Air Reserve Base in Southern California. The idea is that, after 14 days, those in quarantine will either test positive and develop symptoms, or they will be free of the virus. Those who are sick will get treatment, and those who are 2019-nCoV negative will be allowed to leave.
+
+Close to 500 people have died of the respiratory infection. But more than twice that, 1,028, have recovered from it. The rest are sick, and doctors are watching to see if they recover on their own or with treatments (which are all experimental). It’s only after the outbreak is contained that public health officials will be able to say how contagious the virus is.
+
+2019-nCoV researchers have an advantage that early AIDS researchers didn’t have: They identified that the pneumonia cases were caused by a coronavirus, not by a bacteria or anything else. It’s a respiratory virus—unlike HIV, which spreads through sexual contact, blood, or breast milk when someone has a detectable viral load. The coronavirus is also heartier than HIV: HIV can’t live outside the human body for any period of time (which is why you should feel free to share utensils, hugs, and just about anything else with a person with HIV), but 2019-nCoV can survive on surfaces and spread through the air via coughs and sneezes.
+
+What We Don’t Know About Coronavirus vs. HIV
+
+It is early days yet with 2019-nCoV, and scientists and doctors are throwing a million ideas at the wall to figure out how to trace and treat the virus. And that opens the door to guesses, rumors, and outright conspiracy theories.
+
+For instance, we don’t know how the virus got to humans. At first, public health officials thought it might have come from humans eating animals infected with the virus. There’s a very large food market in Wuhan, China, where the majority of people living with the virus live. (Related: Don’t let your fear of the virus translate to a fear of Chinese people.) People with HIV know this feeling all too well.) Now scientists think that it’s more likely that it spreads like any other cold: by person-to-person contact.
+
+We don’t know how deadly this virus is, either. The early deaths indicate a virus with the potential to be very dangerous, but we don’t know if everyone who was exposed to the virus died, or if only the very sickest headed to the hospitals—and therefore were the only ones identified. It could be that it’s less deadly than it originally appeared—which seems more and more likely as the number of those who recover from the virus increasingly outpace those who have died. (A recent episode of This Podcast Will Kill You does a great job of explaining how scientists figure out how dangerous new viruses are.)
+
+We also don’t know if people can transmit the virus unless they're already coughing, fatigued, and fevered, some of the most common symptoms of 2019-nCoV. Some viruses can spread even before achiness, sniffling, and fever appear. In SARS and MERS, that wasn’t the case: Someone had to be sick and coughing or sneezing out the virus, or accidentally wiping their saliva on surfaces. For now, it’s unclear whether someone without symptoms can still transmit 2019-nCoV.
+
+This is despite an early case report in the New England Journal of Medicine that purported to find a Chinese businesswoman had transmitted the virus before she was sick. But that case report was based on faulty information, and has since been been called into question.
+
+The New England Journal of Medicine has not yet responded to the new information.
+
+No, 2019-nCoV Is Not Related to HIV
+
+If the New England Journal of Medicine can be wrong, any scientist can be wrong. People like to think that scientists know The Truth. But the real truth is that science is hella messy, and you usually only get to the right answer after first eliminating all the wrong ones—publicly, in studies that are later debunked, retracted, or can’t be replicated.
+
+And that means there can be a lot of false or misleading approaches published in the first frantic weeks of an outbreak.
+
+So it was that a rumor emerged, based on a hastily published article sequencing 2019-nCoV’s DNA, that claimed to have discovered a link between 2019-nCoV and HIV.
+
+Here’s how you know the claim was faulty: First, it's helpful to understand how scientific articles are published. Before most studies see the light of day (or Twitter mentions), they are usually reviewed by other scientists who are experts in the field to catch any faulty assumptions, data errors, or other mischaracterizations. Only after that—and everyone involved finds the results to be accurate and trustworthy—does it get the green light to be published. (Even then, this process doesn’t catch all errors).
+
+But this paper (which we won’t link to—we don’t want to help it rank more highly on Google!) was published online before any peers reviewed it, on what’s called a pre-print server. That is to say, a place where researchers can post their findings online before experts review it for accuracy and a journal actually publishes it.
+
+Second, as soon as scientific Twitter got wind of the study, the paper got peer reviewed to filth—that is to say, researchers pointed out all the problems with the assumption that HIV and 2019-nCoV were related at all.

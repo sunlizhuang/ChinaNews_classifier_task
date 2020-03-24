@@ -1,0 +1,117 @@
+Updated
+
+Some of Australia's top cyber and national security minds are concerned about how much data users hand over to the social media app TikTok and how that might be exploited.
+
+Because unlike US-tech giants Facebook and Instagram, TikTok is Chinese-owned.
+
+Source: 7.30 | Duration: 7min 55sec
+
+Topics: internet-culture, personal-data-collection-policy, data-protection-policy, australia, china
+
+Transcript
+
+GRACE TOBIN, REPORTER: Olivia Plant is one of Australia's most popular TikTok users. The American-born Queenslander spends hours on the app every day, sharing lip-syncing videos with her 1.4 million followers.
+
+OLIVIA PLANT, TIKTOK USER: Basically, you make any videos you want. You can post comedy videos, relatable videos, like, anything.
+
+And it might do well; it might not. You never really know with TikTok.
+
+GRACE TOBIN: Olivia's love of TikTok is shared by half a billion users around the world, most of them teenagers just like her. The app's popularity is exploding, with more downloads in the past year than Facebook, Instagram and YouTube.
+
+But TikTok is notable for another reason too. It's the first Chinese-owned social media app to crack the Western world.
+
+FERGUS RYAN, CYBER ANALYST, AUSTRALIAN STRATEGIC POLICY INSTITUTE: TikTok is something that's completely new to users in countries like Australia, and that's because it comes from China. And because that is an illiberal country, we have to think about it in a radically different way.
+
+GRACE TOBIN: Fergus Ryan is a cyber analyst who's investigating TikTok and its potential ties to the Chinese Communist Party.
+
+FERGUS RYAN: Most people are used to thinking about their privacy issues as they relate to mainly US-based apps like Facebook, Twitter, but they haven't really considered how an app that comes from China is different.
+
+The Chinese Communist Party, the authorities there, if they want access to data, and it's being held in a Chinese company, they can get it.
+
+GRACE TOBIN: One of the main concerns with TikTok is the startling amount of personal information it collects about users. Like most social media apps, it demand access to your phone's camera and microphone, your contact list and your location, using GPS tracking.
+
+This kind of data can paint a vivid picture of a person's life.
+
+FERGUS RYAN: So, for example, you might have someone who uses this app, or apps like it, who works in a sensitive area in the Australian Government. That would be very vital information for the Chinese Communist Party to gather up.
+
+ANDREW HASTIE, LIBERAL MP AND CHAIR, PARLIAMENTARY JOINT COMMITTEE ON INTELLIGENCE AND SECURITY: I tend to look at some of these applications as expeditionary, or offshore, surveillance.
+
+GRACE TOBIN: Andrew Hastie chairs Parliament's intelligence and security committee. He's been banned from visiting China for criticising the Government. Now, he's warning TikTok could be used by Beijing to monitor and spy on Australians.
+
+TikTok is mostly used by teenagers at this stage. Why does it matter if Beijing has access to their data?
+
+ANDREW HASTIE: They're our future leaders. They're our future political, economic, cultural and military leaders, and we need to protect their information long-term. I certainly don't want my children's data going to a foreign country who might use it for nefarious purposes.
+
+(YOUNG GIRL PLAYING GUITAR AND SINGING)
+
+GRACE TOBIN: Carrie Hobday allowed her 14-year-old daughter Ellen to sign up to TikTok last year.
+
+CARRIE HOBDAY, MOTHER OF ELLEN: Definitely social media is a huge concern.
+
+GRACE TOBIN: The Sydney mum has also downloaded the app to better understand how it works.
+
+CARRIE HOBDAY: Well, I've tried to do a TikTok video.
+
+GRACE TOBIN: But her main concern is who's viewing her daughter's videos, not who owns TikTok or what it does with her daughter's data.
+
+(TIKTOK VIDEO CLIP)
+
+ELLEN: I can't eat cheese; I'm vegan!
+
+MALE OFF-SCREEN: Oh, I'm sorry.
+
+(CLIP ENDS)
+
+CARRIE HOBDAY: It is a concern for me that any of that information would be in anyone's hands, to be honest with you. But I didn't know TikTok was a Chinese company, so I guess I hadn't had those thoughts before until I found that out.
+
+JOSH HAWLEY, US REPUBLICAN SENATOR: Parents, if you don't know what TikTok is, you should.
+
+GRACE TOBIN: In the US, the Government is so alarmed by TikTok's ties to China, it's launched a national security investigation.
+
+JOSH HAWLEY: A company compromised by the Chinese Communist Party knows where your children are, knows what they look like, what their voices sound like.
+
+KIERSTEN TODT, FORMER CYBERSECURITY ADVISOR TO BARACK OBAMA: This is another example of how China is aggregating information. The more data it has on individuals, what they do, why they do it, who they are, the more it can create artificial intelligence based on that data.
+
+GRACE TOBIN: It might explain why the Australian Defence Force recently joined the US Military in barring TikTok from all work devices.
+
+ANDREW HASTIE: I support it 100 per cent, and I would go so far as to say, not just work phones or devices, but also personal devices. Espionage can be conducted on social media platforms. We have to be far more cautious about all these tech platforms.
+
+(TIKTOK VIDEO CLIP)
+
+DANIEL ANDREWS, VICTORIAN PREMIER: Today is a massive day for thousands of VCE students across Victoria.
+
+(CLIP ENDS)
+
+GRACE TOBIN: Not all Australian politicians share the same concerns. Victorian Premier Daniel Andrews is a regular user of TikTok, posting videos of his work and private life.
+
+We asked him whether he was worried about his data ending up in the wrong hands. But his office told 7.30:
+
+"Telecommunications security is rightly a matter for the Federal Government and its agencies. We have no concerns."
+
+ANDREW HASTIE: The Premier of Victoria is free to do whatever he wants. But certainly, I think when the US and our own Government, the Federal Government, has taken a decision, as it has, people should listen.
+
+GRACE TOBIN: But you wouldn't put TikTok on your phone?
+
+ANDREW HASTIE: I would not, no.
+
+GRACE TOBIN: Another emerging concern with TikTok is censorship, with users claiming the app deletes or restricts videos Beijing doesn't like.
+
+FERGUS RYAN: Topics that Beijing deems sensitive, like the three Ts — Tiananmen, Taiwan and Tibet — are the kind of topics that Beijing doesn't want discussed freely on any platform.
+
+GRACE TOBIN: TikTok denies it's influenced by the Chinese Government and claims it's never been asked to remove content or hand over data and wouldn't do so even if the President of China, Xi Jinping, ordered it himself.
+
+TikTok told 7.30:
+
+"User data is stored in the Singapore and the US ... not China."
+
+But Fergus Ryan said that's misleading.
+
+FERGUS RYAN: ByteDance, the company that operates TikTok, doesn't have an engineering core that works outside of Beijing. So it's highly likely that same data is being accessed by Beijing-based engineers in order to improve the app.
+
+OLIVIA'S MOTHER: Did you film TikTok today?
+
+OLIVIA PLANT: I posted, like, three.
+
+GRACE TOBIN: TikTok will be scrutinised later this year by a new federal inquiry, just as the company opens its first Australian office.
+
+FERGUS RYAN: Policy-makers and regulators really need to start wrapping their heads around what do we do when an app is developed in an illiberal country, and then it is aimed at a user base in liberal democracies like Australia?

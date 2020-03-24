@@ -1,0 +1,27 @@
+The number of people infected with the novel coronavirus from Wuhan, China (2019-nCoV) has been rising steadily, with the latest reported number of cases surpassing 20,000 (at least)—far exceeding the toll of the 2003 SARS epidemic.
+
+Multiple companies have already reported working on vaccine production, including a collaboration between the mRNA company Moderna and the National Institute of Allergy and Infectious Diseases (NIAID), a branch of NIH. But, even quick vaccine development may be too slow to catch up with a growing outbreak.
+
+Other companies are taking a different angle—testing anti-viral drugs that already exist. Gilead Sciences said it will partner with China on a randomized, controlled trial designed to assess its antiviral drug candidate remdesivir as a potential treatment for 2019-nCoV. Another example is the use of HIV anti-virals lopinavir and ritonavir (sold as Kaletra by AbbVie) on 41 patients in Wuhan.
+
+Despite these drugs’ potential, some researchers are turning to artificial intelligence to quickly find potential anti-virals to test against 2019-nCoV.
+
+An international collaboration between researchers at Deargen and Dankook University in the Republic of Korea, and Emory University in the United States, have published a prediction model for antiviral drugs that may be effective on 2019-nCoV.
+
+The work is published in the article “Predicting commercially available antiviral drugs that may act on the novel coronavirus (2019-nCoV), Wuhan, China, through a drug-target interaction deep learning model” posted on the bioRxiv preprint server.
+
+“It was purely out of scientific curiosity that we wanted to look at whether our AI model can suggest any drug that could be used against 2019-nCoV,” noted Keunsoo Kang, PhD, assistant professor at Dankook University and senior author on the paper. He told GEN that this was a “drug repurposing” approach, to use existing anti-virals on another virus. So, Kang explained, “only those anti-viral drugs that are available on the market were presented from the raw results.”
+
+The team used their pre-trained deep learning-based drug-target interaction model, Molecule Transformer-Drug Target Interaction (MT-DTI), to identify commercially available drugs that could act on viral proteins of 2019-nCoV. MT-DTI is a self-attention-based deep learning model designed for predicting an affinity score between a drug and a protein.
+
+The result showed that atazanavir, an antiretroviral medication used to treat and prevent the human immunodeficiency virus (HIV), is the most promising chemical compound. The authors noted that the model showed that atazanavir has an inhibitory potency with Kd of 94.94 nM against the 2019-nCoV 3C-like proteinase, followed by efavirenz (199.17 nM), ritonavir (204.05 nM), and dolutegravir (336.91 nM). Atazanavir was predicted to have a potential binding affinity to multiple components of the virus, binding to RNA-dependent RNA polymerase (Kd 21.83 nM), helicase (Kd 25.92 nM), 3′-to-5′ exonuclease (Kd 82.36 nM), 2′-O-ribose methyltransferase (Kd of 390 nM), and endoRNAse (Kd 50.32 nM), suggesting that “all subunits of the 2019-nCoV replication complex may be inhibited simultaneously by atazanavir.”
+
+Kang speculated that the high antiviral effects of atazanavir “may be explained through the MT-DTI results showing the highest inhibitory potency on the viral proteinase.” Kang asserted that they found it surprising that Deargen’s AI-based prediction supports previous research.
+
+This group is not the only one to identify proteinases as a target for curbing the 2019-nCoV outbreak. Researchers from Army Medical University in Chongqing, China, posted a bioRxiv preprint titled, “Therapeutic Drugs Targeting 2019-nCoV Main Protease by High-Throughput Screening.” Using high-throughput screening based on 8,000 clinical drug libraries, they identified four small molecular drugs that bind the SARS-CoV main protease. The authors noted that these drugs have been proven to be safe and, therefore, may be promising candidates to roll out in the current outbreak.
+
+In addition, Kang and his team found that several antiviral agents, such as Kaletra (the lopinavir/ritonavir combination noted previously) could be used for the treatment of 2019-nCoV. Overall, the authors suggest that the list of antiviral drugs identified by the MT-DTI model should be considered when establishing effective treatment strategies for 2019-nCoV.
+
+As of yet, noted Kang, there is no anti-viral drug development in Deargen’s pipeline. However, the development of an anti-viral drug for the 2019-nCoV infection might be considered. In addition, Deargen has a reinforcement learning-based molecule optimization/generation AI model named “molecule equalizer (MolEQ).” Therefore, noted Kang, if the indications and targets are agreed upon regarding development, the team could generate putative molecules as candidates that are predicted to bind strongly to target proteins.
+
+The regulations in circumstances like the 2019-nCoV outbreak are unclear, and Kang questions whether softer regulations combined with extensive support from the governments may help clinicians to prescribe these optional measures more easily to the patients—given the situation. Allowing atazanavir and other top-ranked anti-viral drugs to be used for expanded experimental therapeutic options may be one way to help the people being affected by the 2019-nCoV outbreak.

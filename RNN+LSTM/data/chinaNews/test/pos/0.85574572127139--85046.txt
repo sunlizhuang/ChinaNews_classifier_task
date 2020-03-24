@@ -1,0 +1,47 @@
+Retailers are spending heavily to improve their e-commerce operations and get goods to customers cheaper and faster.
+
+Companies like Amazon, Walmart, and JD.com are turning to automation to assist — or even replace — the role of human workers in fulfillment centers.
+
+At JD.com, the use of robots and other tech has cut by 60% the distance its human workers must walk each day, according to Hui Cheng, the head of its Silicon Valley-based innovation center.
+
+Click here for more BI Prime stories.
+
+Sign up here to receive updates on all things Innovation Inc.
+
+Competition is fierce among retailers to improve their e-commerce operations.
+
+Behemoths like Amazon and Walmart are spending billions of dollars to implement artificial intelligence and other advanced tech into its fulfillment and delivery operations — applications that will assist the companies as they aim to get packages out to customers within 24 hours of ordering.
+
+The same is true for JD.com, often referred to as the "Amazon of China." Americans are sure to grow more familiar with JD.com, which has a powerful new partner in Google, following a $550 million investment in 2018. As part of that agreement, the tech giant began offering goods from JD.com on virtual marketplace Google Express in 2019.
+
+And, like Amazon, JD.com is using several different technologies to improve its systems that currently manage the more menial job tasks for warehouse employees, but could eventually completely replace human workers.
+
+Since 2015, JD.com has been experimenting with drone deliveries in the US and China to solve the notoriously difficult problem of the "last mile" — or getting ordered goods from the distribution center to the final address. That technology has become critical as the coronavirus continues to send shockwaves through China, making the last mile that much more difficult for retailers to overcome.
+
+Business Insider talked with Hui Cheng, who oversees testing for much of JD.com's new tech at its JDX Silicon Valley Research Center, to see how close the company is to conquering that last mile, and how much humans will play a role in that.
+
+JD.com is interested in practical robots, not theoretical AI
+
+"We want to distinguish [ourselves] from the more theoretical AI efforts," Cheng told Business Insider. "Our effort is grounded in applications and the use cases needed for e-commerce, especially the logistics area."
+
+JD.com currently has 25 highly automated logistics centers across China. These centers use tech such as a 3D storage system where a robot, based on a customer's order, retrieves the proper bin from stacks of storage containers and transports it to another area where humans or other robots grab the correct products.
+
+The use of autonomous forklifts and other applications has helped reduce by 60% the distance human workers must walk each day, according to the company.
+
+Advanced automation tools can also make delivery times much quicker, as JD.com and others embrace trends such as micro-fulfillment — a system where smaller distribution centers are placed in dense urban areas.
+
+"The bottom line is we need to fulfill those orders faster and more efficiently, less expensive," said Cheng. That's "what drives the development and the deployment of the systems."
+
+A robotic future inside and outside the distribution center
+
+Like other retailers, JD.com is largely focused on technology that can both improve distribution operations and get goods to customers cheaper and faster. The former, which Cheng refers to as "manipulation," has been slower to progress than the latter — referred to as "mobility."
+
+"From a maturity level, mobility solutions right now is more mature and manipulation is much harder," he said.
+
+Case-and-point is how difficult it is to create the micro-fulfilment centers of the future. With millions of unique barcodes for products of massively varying sizes, creating one standard tech application that can completely overhaul a historically human-centric operation is a mammoth challenge.
+
+That's why for newer facilities "from the beginning we are putting the automation in the plan," said Cheng. JD.com's goal, he added is "to integrate the architecture and thought" of how its tech will "impact the society and represent the company."
+
+For example, Cheng, says JD.com is training its systems on what he calls "social robotics," or how the applications will eventually interact with the general public. The company is embedding social etiquette into its robots to teach them basic courtesies, like not stepping in front of people or avoiding movements that would force groups of pedestrians to disperse.
+
+For now, many of the systems that JD.com are segmented largely to collaboration with its employees. But initiatives in aspects including robot politeness and drone delivery are vivid examples of how the company is eyeing a future where robots will seamlessly interact with both workers and the general public.

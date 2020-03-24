@@ -1,0 +1,177 @@
+The venture capital sector has enjoyed a decade of global prominence amid record levels of fundraising. This has been particularly true for Southeast Asian start-ups raising funds in the early stage. However, industry players believe this has caused valuations to be inflated in recent times.
+
+The sector continues to attract significant inflows locally and regionally. However, the recent failures of several multibillion-dollar unicorns may have an impact on start-up valuations going forward.
+
+Industry players believe that the push by some venture capitalists (VCs) for excessive valuations in investee companies will not be sustainable going forward because with every funding round, the start-ups become more hard-pressed to deliver increasingly unrealistic returns to subsequent investors.
+
+In fact, Chok Kwee Bee, a partner at local venture capital firm Intres Capital Partners Sdn Bhd, says start-up valuations have entered a period of correction, starting last year. She cites the 2019 implosion of co-working giant WeWork as a catalyst.
+
+“Although the correction has already started, I believe overall valuations are still too high. I expect it to continue falling over the next few years,” she adds.
+
+TBV Capital Sdn Bhd founder Andrew Tan believes that going forward, valuations will more realistically reflect a company’s addressable market as well as its ability to service that market. “Over the last few years, VCs have had to contend with a lot of ‘dumb money’ entering the early-stage investing ecosystem, thereby pushing valuations up,” he says.
+
+This refers to individual investors who simply buy into the marketing hype and hope to exit at wild valuations in a relatively short span of time.
+
+“These investors are not necessarily concerned about the long-term commitment or the importance of reinvesting profits for the portfolio company to continue growing,” he adds.
+
+Chok and Tan’s observations fall broadly in line with recent market trends. US ride-hailing and technology giants Uber Technologies Inc and Lyft Inc, both of which went public last year, have significantly underperformed since their debut.
+
+Both companies were multibillion-dollar unicorns in the years before going public and had raised long-standing questions about their profitability and cash burn rates. As at Jan 8, Uber was 21% below its IPO price while Lyft was down nearly 44%.
+
+Last month, Reuters reported that technology-as-a-service platform OneConnect Financial Technology significantly downsized its planned IPO in the US by 28% and lowered its target valuation. The company is owned by China-based Ping An Insurance and counts Japan-based mega investor SoftBank as a key investor.
+
+Excessive valuations hamper returns in the long run, says Chok. “Just consider the cost of investment. If I entered an investment round that valued the start-up at US$20 million, I would have a more realistic chance of making, say, five times my investment at a subsequent funding round than if the start-up had been valued at US$50 million.
+
+“In the second scenario, if I wanted to make five times my investment, the subsequent funding round [or exit] would need to yield a company valuation of US$250 million. Contrast this with the first scenario. To make five times my investment, the start-up would only have to achieve a valuation of US$100 million.”
+
+In fact, Amin Shafie, a partner at Intres Capital, does not rule out the possibility of a Southeast Asian implosion of WeWork proportions. “The venture capital ecosystem is extremely competitive and aggressive. The pursuit of market-beating returns naturally leads to valuations climbing over the years. That is probably never going to change,” he says.
+
+“Furthermore, there are huge amounts of dry powder still available in the Asian ecosystem, in addition to a large number of potential deals. Under the circumstances, I do not think we can definitively say that Southeast Asia will not see its own WeWork one day.”
+
+However, the collapse of WeWork’s IPO sparked a measure of soul-searching in the ecosystem, he adds. Just one or two years ago, it was not uncommon to hear of companies announcing fundraising rounds at six-month intervals. But having lived and worked through the infamous dotcom bust at the turn of the millennium, Amin knew that raising funds multiple times a year was just not sustainable.
+
+“WeWork forced the wider investing community to refocus on the question of sustainability and company fundamentals. A practical implication is that we may see companies calling for relatively fewer funding rounds in the years ahead,” he says.
+
+Falling valuations bode well for investors who may be entering subsequent funding rounds for the first time. They get to acquire more equity at a relatively lower price compared with investors in previous funding rounds.
+
+However, existing investors, who entered earlier rounds at a premium, would see their shareholding shrink as a result of falling valuations. In investing parlance, this is known as a “down round”, according to TBV Capital’s Tan.
+
+“To use a very simple example, suppose I invest US$5 million in exchange for 10% equity, thereby valuing the company at US$50 million. But a year down the line, the company unexpectedly needs to raise more cash. It announces a subsequent funding round of US$5 million in exchange for 20% equity.
+
+“Just like that, the company’s valuation has been cut in half to US$25 million. As an existing investor, this basically means that my total share price has halved. Yes, this is a discouraging sign for an investor, but I would not necessarily call it a failure.
+
+“Given that the company called for an additional funding round, there was every possibility that it would have gone out of business without the capital injection. Had the company not raised the additional funds, it would have failed and all the investors would have lost their money anyway.”
+
+Having said that, Chok and Tan emphasise the importance of investing in companies that have a clear path to profitability. The WeWork debacle has brought into sharp focus the need for VCs and their portfolio companies to build sustainable ventures for current and subsequent investors.
+
+Over the last few years, Chok has seen the early-stage investing community pump massive amounts of money into their portfolio companies, all for the pursuit of size and scale. But that is changing.
+
+“Just a few years ago, investors emphasised exponential growth in subscribership, monthly active users and so on. But over the last year, particularly since WeWork, investors have been pressing their portfolio companies to show realistic strategies for profitability,” she says.
+
+Chok advises investors to consider a company’s valuation before investing. A high valuation is no guarantee that it will continue climbing in the future. “If the valuation is too high relative to the company’s performance, you will need to be disciplined and turn it down as there is a good chance you will lose money on it.”
+
+She says investors should be mindful of how and why venture capital funds invest money. For example, customer acquisition is a very important metric for a high-growth company, but it is an exceedingly costly endeavour.
+
+“Over the years, VCs’ portfolio companies have spent billions of dollars on customer acquisition. The funds are used to support vast amounts of discounts and promotions. While it is necessary to create a user base, these promotions are not always profitable and must be balanced against longer-term R&D priorities,” says Chok.
+
+“Companies that are able to develop their own intellectual property give themselves a potentially invaluable revenue stream, one that will continue making money long after the investment dollars have been exhausted.”
+
+New plays
+
+Despite the questions raised about the valuations of early-stage start-ups in recent times, the venture capital sector continues to attract significant interest and fund flows. This bodes well for investment prospects in the next few years.
+
+Going forward, the local and regional venture capital scene will be characterised by an emphasis on enterprise-level technology investments, with investors looking to the business-to-business segment as a major growth engine.
+
+Amin says that while consumer-related technology themes have dominated in the last few years, that momentum alone will not sustain venture capital returns in the long run. Intres Capital is looking at enterprise-level investments with a bias towards artificial intelligence (AI) and Internet of Things (IoT) applications.
+
+According to Chok, more businesses are open to deploying AI in the course of their operations because of the data they regularly generate. “AI will help businesses discover new trends, markets and challenges so they can effectively plan around these. However, making sense of all this data — and being able to do so at scale and speed — will only be viable with AI,” she says.
+
+Amin says, “Ironically enough, e-commerce giant Amazon Inc has effectively capitalised on the global enterprise market over the last decade.”
+
+The company’s cloud-based enterprise computing and data storage service, Amazon Web Services (AWS), is now a major earner for its parent company.
+
+Tan believes that the next few years will see enterprise opportunities at the intersections of e-commerce, e-hailing, last-mile logistics services and third-party mobile payment services. He is on the lookout for services that will make the entire shopping and payment experience that much more seamless.
+
+“To me, this entails investments in advanced security and authentication services. Specific opportunities that I am looking out for are voice and perhaps even facial recognition services. These services will one day enable us to authorise mobile payments via voice or facial recognition technology,” he says.
+
+Interestingly, Tan views the burgeoning digital wallet operations segment as a mass, intangible, public infrastructure that will present opportunities for savvy investors. “In addition to security and authentication, this infrastructure will drive the demand for big data analytics services, for companies to create more effective and targeted marketing campaigns,” he says.
+
+Tan, who is also an impact investor, is looking to capitalise on a number of trends in themes like food security and healthcare technology. Specifically, he sees agriculture technology becoming a key investment trend in the next few years.
+
+“I see food security issues, specifically food shortages brought about by rising production and transport costs, as being a major problem over the next decade. One way to combat this issue is to improve crop yields by means of technology. I believe there are huge investment opportunities here.”
+
+Over the last nine months, Tan has invested in several farms across the country. In particular, he has invested into two ginger farms — one in Tanjung Malim, Perak, and the other in Bentong, Pahang. Both farms cultivate the famous Bentong ginger.
+
+“According to official statistics, Malaysia consumes about 60,000 tonnes of ginger a year. However, we produce less than 5% of that capacity. We import most of our supply from China and Thailand. But with rising food storage and logistics costs, we need to maximise the local supply of ginger and other key food crops,” says Tan.
+
+Malaysia is a known net importer of food. One way to reverse this trend is to significantly improve crop yields and resource efficiency, thereby making conventional food crops more profitable, he adds.
+
+Tan has sourced for and curated a host of international technologies to significantly improve crop yields. He then brings these technologies to the farms he has invested in.
+
+“For example, I have managed to source advanced sensors that can be planted in the soil to determine its composition. I have also acquired technology from Amsterdam that allows us to distribute crop nutrition with a great deal of precision. I have also sourced advanced greenhouse technology from Taiwan that provides much better climate control,” he says.
+
+It is early days yet, but returns have been encouraging. Returns on capital are realised every harvest when the crops are sold to the market. “Over the last nine months, I have been able to get a 33% return on investment after accounting for capital expenditure,” says Tan.
+
+Another investment opportunity he sees on the horizon is in healthcare technology (healthtech). “Healthcare will become a compelling early investment theme over the next five years [both locally and regionally]. As Southeast Asia becomes more prosperous, people are increasingly exposed to processed and genetically modified foods. I believe humans will be increasingly prone to illnesses as a result. A major driver to fight this would be through healthtech,” he says.
+
+Indeed, there is already a compelling case for investments in healthtech. According to an August 2019 funding report by Singapore-based VC Cento Ventures, healthcare start-ups have been steadily receiving investments since 2014.
+
+According to the report, it has been a prominent beneficiary in Southeast Asia, alongside investments in logistics. The report cited a total of US$12 million invested in early-stage healthcare start-ups in 2014. As at the first half of last year, that amount had ballooned to US$128 million.
+
+Tan believes there will be more innovative investment prospects for Malaysian investors in the next five years. “I think we are at the stage where we have the infrastructure to support high-technology and high-value-added, early-stage businesses,” he says.
+
+More broadly, despite rumblings of recessions, Tan does not believe it will be as deep as certain quarters fear. Southeast Asia’s economy has grown at a reasonable tick over the last few years, thanks to an expanding middle class and young population.
+
+He advises investors to keep faith with their existing investments and be mindful of continually reinvesting their profit back into the companies. “I think Malaysian investors have a tendency to reap returns within just a few years. Generally speaking, venture capital investment horizons tend to last about five years. That said, I advise investors to reinvest their profit and commit to a longer-term process of building businesses that are profitable and sustainable,” he says.
+
+“I would also call on investors to bring more than just their net worth to venture capital firms. Of course, the investment dollars are great, but what portfolio companies really require are networks, market access and decisive industry know-how.”
+
+Malaysia’s venture capital scene
+
+Malaysia’s venture capital ecosystem has grown by leaps and bounds in the last decade, with government-linked investment companies catalysing the scene and then gradually giving way to the private sector.
+
+In the last 10 years, the local venture capital scene has increasingly been dominated by private sector investors. Before 2010, the sector largely comprised government-linked investment funds. Interestingly, as these funds gradually ceded ground to private funds, the investment mandates became more adventurous.
+
+Intres Capital Partners Sdn Bhd partner Amin Shafie tells Personal Wealth that the government — and in particular, Malaysia Venture Capital Management Bhd (Mavcap) — played a very important role in “seeding” the technology venture capital sector. Mavcap adopted a diversified approach to this seeding process, spreading relatively small tranches of funds across various funding agencies and early private-sector venture capital firms.
+
+This seeding process started as far back as the mid-1990s with another government-linked venture capital fund MSC Venture Corporation, which Amin used to work for. In addition to government-linked funds, some banks also set up venture capital funds at the turn of the millennium.
+
+To recap, in the early to mid-1990s, multimedia technology (which denotes applications in early iterations of the internet as well as companies engaged in high-tech, high-value-added multimedia services) was identified as a priority for widespread integration into the Malaysian economy. This was the driving force behind the creation of a special economic zone — the Multimedia Super Corridor (MSC).
+
+To catalyse investments in these early multimedia technologies, the government developed a number of early-stage investment agencies. Amin says Mavcap and MSC Venture Corporation were two of the more prominent players at this juncture. According to him, the latter is no longer active.
+
+But there was a trade-off for this seeding process. Government-linked venture capital firms, which were capitalised with taxpayer funds, were very prominent in the local technology scene in the early stage. However, the overarching purpose of these funds was to kick-start the venture capital scene, as opposed to competing outright with the private sector, says Amin.
+
+As primarily non-competitive entities, and accountable to the taxpayer, their investment mandates tended to be more conservative than those of typical private sector venture capital firms, he adds. This dynamic has reversed significantly in the last decade as private sector funds gradually came to dominate the scene.
+
+Not only has more private sector money come into the market — thereby making investment mandates more exciting and adventurous — the sources of these funds have become more diversified as well. Growing alongside private venture capital money was the expected range of returns.
+
+“Looking back at the early 2000s, I think deals typically saw yields of two to three times. More often than not, many deals were between 2 and 2.5 times. I was with MSC Venture during this time and we were quite lucky with certain initial public offerings. But even we came in at roughly three times,” says Amin.
+
+“Taking a look at 2010 to 2016, when both broadband and smartphone access became prevalent, the range of expected returns tended to fall between three and four times. Since then, and looking ahead to the next few years, I expect the range will rise again. This time, starting at four times.”
+
+According to Malaysian Venture Capital and Private Equity Association chairman Victor Chua, another key driver of the emergence of private sector venture capital funds locally and internationally was the 2008 global financial crisis. “The crisis set off an opportunity for this particular asset class to grow, given that most other asset classes suffered heavy losses during that time.”
+
+Also around this time, the government started to introduce specific tax incentives for venture capitalists (VCs), in addition to its efforts to invest directly in the form of government-backed venture capital firms. The combination of these factors further limited downside risk to private sector investors, thus encouraging them to enter the space.
+
+These tax incentives, which are broadly administered by the Securities Commission Malaysia, provide varying levels of tax exemptions to registered venture capital entities and individuals involved in early-stage investments.
+
+The rise of private money
+
+Amin says in the early 2010s, the so-called “traditional” venture capital firms — led by general partners who acquired investment pledges from high-net-worth individuals and family offices and managed the portfolios — started to enter the Malaysian market.
+
+Intres Capital partner Chok Kwee Bee points out that this trend has accelerated in the last five years as the government sought to encourage greater private sector participation in the venture capital scene. “The government was instrumental in encouraging individuals to invest in the private markets over the last few years. The introduction of the angel investor tax incentive in 2013 was a ‘gateway’ for a lot of cash-rich but still inexperienced investors to try their hand at angel investments. As they became more seasoned, they gradually moved into the venture capital space in search of greater returns.”
+
+Also, over the last five years or so, the local start-up scene has become much more exciting, she says. With no shortage of potential companies to invest in, more individuals gravitated to the venture capital scene.
+
+Increasing fund flows into the local venture capital scene has been broadly in line with Southeast Asian trends. A 2018 study by Bain & Co found that the number of venture capital deals in the region grew fourfold between 2012 and 2017.
+
+“Another reason investors have gone into this asset class is that the local stock market has underperformed in the last five years and has been particularly volatile over the last three,” says Chok.
+
+According to Bloomberg, between end-2014 and end-2019, the FBM KLCI, returned a total of 5.73% to investors.
+
+More recently, the rise of peer-to-peer (P2P) financing as well as equity crowdfunding (ECF) as legitimate asset classes have further encouraged investors to explore investments in private companies, according to TBV Capital Sdn Bhd founder Andrew Tan. This could be an indirect boon to the venture capital ecosystem over the long run, he suggests.
+
+“The government has done well to promote and regulate P2P and ECF investments in recent years. So, I see more people getting into that alternative investing space. With more people getting used to the idea of investing in private companies, this bodes well for VCs. Over the longer term, there will potentially be a larger pool of investors to tap to capitalise venture capital funds,” he says.
+
+Amin has noticed big family businesses and certain public-listed entities setting up corporate venture capital firms to invest a portion of their funds. Family-based venture capital funds have been growing in Southeast Asia because many of the region’s big businesses are still run by the founding families.
+
+These families have increasingly recognised the need to innovate on their core businesses and competencies, through some combination of start-up accelerator programmes as well as setting aside funds for early-stage investments.
+
+“Family-backed funds are a little more distinct from their traditional venture capital counterparts in that their overarching priority is not always to maximise returns. While that is certainly a key consideration, these family funds, and corporate venture capital firms more broadly, tend to look at investment opportunities that may complement or significantly augment their parent organisation’s core businesses,” says Amin.
+
+“Take a family-founded and run public-listed plantation company. The scions of the founders may set up venture capital funds that look to invest outside of the broad industries that the family business has traditionally done very well in.
+
+“Big plantation companies, for example, tend to have large land banks and significant expertise in managing land. So, one would see the family-backed venture capital firm investing in property management technology companies or high-end software developers that create solutions around aerial drone technology.”
+
+But really, what ultimately cemented the long-term viability of the local and regional venture capital scene was the proliferation of wireless internet, smartphones and related technologies, says Amin. By comparison, the first period in which there was widespread local interest in venture capital — in the mid to late 1990s — was relatively short-lived.
+
+According to Amin, much of the venture capital activity was focused on technologies related to the manufacturing sector. While there were a number of notable investments in internet companies during this period, the deals were few and far between.
+
+“In the late 1990s, notable telecommunications and internet-based deals included the companies we now know as REDtone International Bhd, Green Packet Bhd and, of course, JobStreet.com. But between 2010 and 2015, we saw a global explosion in broadband and smartphone technology, trends that ultimately came to this part of the world. For example, Apple Inc transformed the mobile phone sector, thanks to Steve Jobs’ introduction of the iPhone,” he says.
+
+These technologies came to Southeast Asia and caused a sea change in the investment and business climate. This catalysed a new wave of entrepreneurship and business building. Private investments — also aided by government encouragement — took off as a result.
+
+Chok points out that many of the venture capital investment opportunities in the last few years have been focused on the broad consumer demographic in the form of e-commerce start-ups. “We ourselves at Intres Capital have a fund that is coming up on five years now. And since end-2014, we have been focused on the e-commerce space or industries that feed into it such as the logistics sector,” she says.
+
+“However, we also recognise that while the consumer sector is still potentially very lucrative to invest in, as a broad theme, it has already become popular among VCs.”

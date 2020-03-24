@@ -1,0 +1,207 @@
+About 900,000 Rohingya have fled from Myanmar to Bangladesh since August 2017, the result of a campaign of violence by the country’s security forces against the Muslim minority group. Even before that, the Rohingya faced decades of discrimination and persecution, including being denied basic citizenship rights.
+
+Last year, a United Nations fact-finding mission documented “consistent patterns of serious human rights violations” by Myanmar’s military officials, including mass killings and gruesome sexual violence. The UN report concluded that members of Myanmar’s military officials “should be investigated and prosecuted in an international criminal tribunal for genocide, crimes against humanity and war crimes.”
+
+In November, Gambia took action, bringing a case against Myanmar in the International Court of Justice (ICJ) in the Hague for genocide, accusing the country of violating the 1948 Genocide Convention in a systematic campaign of ethnic cleansing.
+
+And on Thursday, the West African country got a victory, when the ICJ unanimously ordered Myanmar must protect the remaining Rohingya still within its borders, and required the country to report on its progress.
+
+This is not a final verdict, not even close — this is just a provisional decision in a yearslong case. But it’s the first time an international court has held Myanmar accountable for its campaign against the Rohingya.
+
+Myanmar has denied it committed acts of genocide, though its own commission admitted some members of its security forces may have committed war crimes in its so-called counterterrorism campaign against the Rohingya.
+
+Myanmar’s de facto leader Aung San Suu Kyi, the former political prisoner who won the Nobel Peace Prize for her efforts to bring democracy to Myanmar, has conceded “disproportionate force” may have been used, but has framed it as part of a campaign to root out insurgents or terrorists. Aung San Suu Kyi has insisted that Myanmar can handle this internally, but she has been roundly criticized for for ignoring the plight of the Rohingya, if not being outright complicit in their oppression.
+
+And it turns out, even with evidence of human rights atrocities, proving a country carried out genocide is a challenging legal task. To better understand this case, why Gambia is pursuing it, and what might happen next, Vox spoke to Michael Becker, an adjunct assistant professor at Trinity College Dublin and former legal officer at the International Court of Justice.
+
+The conversation, edited for length and clarity, is below.
+
+Jen Kirby
+
+So what exactly is the International Court of Justice?
+
+Michael Becker
+
+The International Court of Justice is the principal judicial organ of the United Nations. It hears disputes between states. It is different from any of the international courts that are focused on criminal prosecutions — where you have a prosecutor bringing a case against a specific individual. No individuals appear as parties at the ICJ. Every case is between two states. In a way, it’s more analogous to a civil suit rather than a criminal case.
+
+Jen Kirby
+
+This particular lawsuit was bought by Gambia. And I wonder — why?
+
+Michael Becker
+
+You’re absolutely right to notice that because most cases are brought by two states where one is directly affected or injured in some way by what another state is doing. So where two states have a dispute over their boundary or, where one state uses force against another, and one state claims it was unlawful.
+
+But there are certain types of obligations under international law that are considered to be enforceable by everyone, whether or not you are the party that has actually been injured or affected in some way.
+
+And so the Genocide Convention, or not engaging in genocide, is considered one of those obligations. It’s called an obligation erga omnes — “an obligation owed to everyone.” And if it’s an obligation owed to everyone, any state can seek to enforce it if it feels it’s not being lived up to legally.
+
+That’s why Gambia is legally able — or has legal standing, as we would say — to bring this case. Why Gambia in particular? That’s a little bit complicated.
+
+Jen Kirby
+
+How so?
+
+Michael Becker
+
+There’s the Organization of Islamic Cooperation (OIC), which is an international organization made up of Muslim majority countries. Gambia is part of that.
+
+As I understand it, this Organization for Islamic Cooperation was talking about one of their member-states bringing a case for quite a while. The interest there is that the Rohingya are a Muslim minority in a Buddhist state. Gambia ended up being the state that took up that challenge.
+
+But that also has to do with the fact that Gambia’s minister of justice is a former war crimes prosecutor at the ad hoc international tribunals in the Hague. He has personal expertise and interest, and he was able to persuade his government to bring the case.
+
+That’s why Gambia: a combination of this obligation erga omnes, which any party to the Genocide Convention can seek to enforce, combined with individuals who felt strongly about wanting to do it.
+
+Jen Kirby
+
+So this decision is not the final verdict in the case — this is just the first step in a very long process. But my sense the court is saying there’s evidence there might have been genocide, and Myanmar has to take steps to protect the population. Is that gist of what this decision represents?
+
+Michael Becker
+
+You’re absolutely right that this is a long process. An ICJ case will typically take anywhere between three and five years, sometimes longer.
+
+That’s obviously a long ways away, and one of the advantages of bringing a case at the International Court of Justice is they do have this power to issue what it calls provisional measures. In US legal language, it’s the equivalent of getting a preliminary injunction.
+
+The court hasn’t decided anything in today’s decision about whether Myanmar has committed genocide. It hasn’t decided anything about whether Myanmar has breached its obligations under the Genocide Convention.
+
+What it has found is that for the Rohingya population that remains in Myanmar, the situation is serious enough that there is a real risk that acts constituting genocide might take place.
+
+That’s the basis for issuing these measures, which are meant to protect the Rohingya in Myanmar from anything that might constitute genocide until the court can rule on the merits questions.
+
+Jen Kirby
+
+It also seems that, as part of this provisional ruling, there was some sort of obligation to preserve evidence? Can you explain what that means in reality?
+
+Michael Becker
+
+Part of proving genocide can involve things like showing that entire villages have been burned down, or trying to figure out how many fatalities there have been, which might involve preserving a mass grave.
+
+The idea here is that Myanmar should not be doing anything to further disturb sites, physical sites where some of the acts alleged by Gambia took place. Myanmar shouldn’t be bulldozing over village sites and building on them. If there are mass graves, Myanmar shouldn’t be doing anything to conceal those mass graves. It certainly would include — if there are any — relevant government documents. How Gambia is going to get ahold of those documents is quite a different thing.
+
+Jen Kirby
+
+This might be an inelegant metaphor, but this ICJ provisional ruling strikes me a bit as telling a murderer to stop killing and also preserve all evidence he’s killed in the past. Are there any enforcement mechanisms? What’s the incentive for Myanmar to comply with this ruling?
+
+Michael Becker
+
+A few things about that. The main orders imposed here are simply telling Myanmar to comply with obligations it already has. By telling Myanmar to take all measures to prevent genocide against the Rohingya from taking place, the court isn’t creating any new obligations for Myanmar. This is what Myanmar is supposed to be doing anyway under the Genocide Convention.
+
+But what’s you’re saying — how can we really expect a bad actor to clean up his act because you tell them to? — there’s some truth to that.
+
+Myanmar has made some important concessions, as it recently said gross human-rights abuses against the Rohingya may have taken place and some may have even risen to the level of war crimes. But Myanmar staunchly rejects the idea that any of this could be construed as an intent to destroy the Rohingya population, which is the requirement for genocide. That is difficult to prove. There is a high legal standard to prove genocide.
+
+But the order, in a way, puts Myanmar on notice.
+
+There already is a lot of scrutiny on Myanmar thanks to the work of the United Nations Fact Finding Mission on Myanmar, which found that top Myanmar officials should be investigated for genocide and human rights atrocities against the Rohingya. That has already put a lot of attention on the situation. This ICJ decision adds to that. It means that anything Myanmar’s security forces are doing will be looked at through this additional lens.
+
+The ICJ also imposed a reporting requirement on Myanmar, so Myanmar has to send a report to the court after four months — and then every six months after while the case is pending — to show what steps it has taken to prevent conduct that might constitute genocide.
+
+Gambia may dispute what Myanmar claims it is doing. If the situation is grave enough, if new information comes to light about things are taking place on the ground in Myanmar that threaten the Rohingya, there’s nothing to stop Gambia from going back to the ICJ.
+
+Of course, you could say, “Isn’t that also more of the same? They weren’t that effective first time. What would make them effective the second time?”
+
+When it comes to international law, enforcement of international court judgments often comes down to the political will of states. This ruling could provide something for states to focus on in their own assessment of what the government of Myanmar is doing, and to help them decide to put further pressure on Myanmar to change its policies or to undertake new efforts in resolving the situation of the Rohingya.
+
+Jen Kirby
+
+But can an ICJ case like this do anything on the ground for the Rohingya in Myanmar?
+
+Michael Becker
+
+There is definitely a risk in people expecting an ICJ case to be the solution to the entire problem.
+
+The ICJ case can play an important role in responding to this particular situation. But it needs — and this is true of many other situations too, that might involve international litigation strategies or international courts — it has to be part of the broader political diplomatic strategy.
+
+Jen Kirby
+
+Since this is the top court of the United Nations, can the court make recommendations for the UN Security Council or other UN bodies to step in?
+
+Michael Becker
+
+The ICJ not going to impose orders or direct anyone to do anything that isn’t a party before it. So the ICJ would never even recommend action to the UN Security Council in a dispute between two states.
+
+But can the UN do anything? Well, yes. The UN can always do something — if there’s political will. The remit of the UN Security Council is to deal with the maintenance of international peace and security or to respond to threats to international peace and security. At this point in history, that definition is extremely broad. So if the UN Security Council wanted to take action with regard to Myanmar or the Rohingya, they could.
+
+Politically speaking, that’s extremely unlikely. Particularly because of the relationship between China and Myanmar. As you know, China can obviously veto Security Council resolutions.
+
+Jen Kirby
+
+That makes sense — the realities of politics often get in the way of political will.
+
+Michael Becker
+
+One really interesting thing about the decision today was that it was unanimous, which is fairly unusual.
+
+In the ICJ, if a state doesn’t have a judge on the court from the country, it’s allowed to appoint a judge for that case. Normally, there are 15 sitting judges on the court, but in this case, there are 17, because Gambia appointed a judge and Myanmar appointed a judge.
+
+Judges on the court are independent actors, but it’s not surprising when these appointed judges side with the country that appointed them. They don’t always, but it’s certainly not surprising when they do.
+
+But here we have a unanimous decision. Even the judge appointed by Myanmar found that the requirements for provisional measures were satisfied and that the situation posed a serious-enough risk of possible genocide to issue the measures.
+
+Jen Kirby
+
+It sounds then like the bar for this provisional decision is much lower than for the final ruling.
+
+Michael Becker
+
+It’s much lower because the provisional measures are meant to address or prevent the potential loss of human life while the case is still being decided. The court does have a much more relaxed standard about what evidence it’s going to credit.
+
+The court cited the UN fact-finding mission report quite a lot in these provisional measures to establish there’s a real risk to human life right now. But those fact-finding reports are going to get a lot more scrutiny in the next phase. The court will have to do a much more rigorous assessment of all of the evidence at that stage.
+
+So it’s really quite important to say that there is a more relaxed or forgiving standard when it comes to provisional measures. You can’t necessarily read that much into what the court has said here when it comes to how it might act on the merits.
+
+Jen Kirby
+
+So in terms of where we move from here, you mentioned that there will be a reporting requirement from Myanmar moving forward. Does Gambia get to investigate this case in the same way you would in a civil suit — like, depose witnesses? Or does the ICJ do this? How does this all play out?
+
+Michael Becker
+
+That’s a real tricky issue. The procedures for handling or gathering evidence at the end of the international level are not nearly as well developed as they are in most domestic legal systems.
+
+Gambia requested — which the court actually rejected — a measure that would have required Myanmar to allow UN investigators into Myanmar. So far all of these UN fact-finding reports have been based on work that has been done outside of Myanmar, such as extensive interviewing of the Rohingya who’ve had to flee to Bangladesh and elsewhere. They haven’t gotten into Myanmar because Myanmar won’t allow them in.
+
+But since the ICJ rejected Gambia’s request, it leaves the fact-finding situation in a little bit of flux.
+
+Gambia is relying on all of this evidence that the UN has gathered, that NGOs have gathered, that journalists have gathered. But Gambia can decide if it wants to ask the courts to authorize some kind of investigation of its own. I think that’s unlikely, but they might want to press it.
+
+But there isn’t any equivalent to deposing witnesses or anything like that. And so this is something that the International Court of Justice and some other international courts have been criticized for — for not having evidentiary practices that can really do justice to some of the claims that they have to decide.
+
+I don’t know what Gambia is going to do now. It may come down on them continuing to rely on the very solid fact-finding work the UN investigators have already done. I’ve suggested that either the parties or the court itself might want to consider calling as witnesses the people involved in putting together the UN report. They should be subject to questioning and cross-examination at the ICJ.
+
+Jen Kirby
+
+If Gambia succeeds in making this difficult case, what would happen?
+
+Michael Becker
+
+The standard for proving genocide is quite high, and very challenging to meet, even in the face of abundant evidence of mass atrocity. That’s not enough. That alone is not enough to meet the strict legal definition of genocide.
+
+If Gambia succeeded, there’s a separate question about what kind of relief it would be able to ask for. That’s all over the map. One focus might be on financial compensation.
+
+There are bigger questions, too, about whether the court is in a position to compel Myanmar to change its citizenship laws, for example. The Rohingya have essentially been made stateless by being denied the right of citizenship, which has contributed to making their existence so precarious.
+
+Those questions are years away, but they raise a lot of challenging and interesting legal questions about what type of relief might be available — and how likely would it be that relief could ultimately be implemented.
+
+Jen Kirby
+
+Myanmar also established an Independent Commission of Enquiry (ICOE) to investigate atrocities against the Rohingya, and this week the commission said there was evidence of human-rights violation, even war crimes, but no genocide. How big a deal is that? Or was this an attempt to basically get out in front of this ICJ decision?
+
+Michael Becker
+
+The commission of inquiry that Myanmar set up has been widely criticized because of the personnel involved. It looks very close to the government. It looks like it fails basic requirements to establish a baseline of independence and impartiality.
+
+It’s very tempting to just criticize the commission on those grounds and say it’s a complete whitewash. I’m sympathetic to that, but I’ve tried to make the argument that even if that’s the case, it’s important to respond to its assertions and findings in a forensic way.
+
+But, in a way, Myanmar also seems to be appealing to the international community to say, look, “We are taking it seriously. So back off.” There’s a strategic rationale for why they may be willing to admit to what are very serious transgressions. This is part of the overall narrative of Myanmar’s government, which is to say it’s dealing with an internal armed conflict. This is about counterterrorism; it’s not the government’s plan to wipe out the Rohingya. This is about military or security forces engaged in counterterrorism getting out of hand.
+
+I think they will try to use that to undermine the claim that there’s genocidal intent. It’s quite a cynical argument: We engaged in war crimes, so it can’t possibly be genocide.
+
+Jen Kirby
+
+Sort of like “mistakes were made.”
+
+Michael Becker
+
+This is the problem with the court’s test. The ICJ has said if you are inferring genocidal intent, that has to be the only inference you can draw from the evidence.
+
+If you can draw other inferences from the evidence — such as the possibility of counterterrorism run amok — that can defeat a genocide claim. That’s why genocide is so hard to prove.

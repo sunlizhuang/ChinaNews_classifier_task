@@ -1,0 +1,97 @@
+Feeling lost in translation?
+
+In the sci-fi world crafted by Douglas Adams in “The Hitchhiker's Guide to the Galaxy,” you'd just slap a bright yellow Babel fish in your ear and simply be able to understand any mix of languages around you.
+
+While we aren't quite there yet, language is becoming less of a barrier than in generations past.
+
+“Understanding is going to become the new normal," says Dave Limp, Amazon’s senior vice president of devices and services. Kids “will never grow up in world where they aren’t able to hear any language. It’ll just happen.”
+
+To that end, today's technology is helping to interpret and translate the world around us in ways that are nearing seamless and in real time. From apps on your phone to increasingly multilingual virtual personal assistants, communicating as a tourist or with clients, friends and family who don't speak the same language is less of a challenge.
+
+Yet for all the authentique gains achieved in translation over the past several years, don’t count on your phone, smart speaker, PC or ear device for breaking down all the language barriers anytime soon – or to provide an excuse to skip French class.
+
+What does it mean: The need to translate
+
+In this always-on connected world, the need to understand one another is arguably more important than ever.
+
+Half of the internet's content is in English, says Google AI director of product Barak Turovsky, but only 20% of the global population have any English skills whatsoever.
+
+And while Microsoft's text translation technology now supports up to 70 languages and its speech translation can decipher around 40, says Microsoft technical fellow and chief technology officer of AI Services, Xuedong Huang, that's a mere fraction of the 7,000 languages spoken on the planet today.
+
+Meanwhile, more than half of the 2.5 billion people on Facebook post in a language other than English. Facebook employs artificial intelligence on the social network itself, as well as on Messenger and Instagram, resulting in more than 6 billion translations a day.
+
+For high stakes political, legal, financial and health-related exchanges, however, AI-fused machine translation methods can’t possibly substitute for pricey, skilled human interpreters and translators, though some of them rely on machines at times, too.
+
+And this reliance translates into big business. Florian Faes, managing director of Slator, a Swiss-based provider of news and analysis on the global language industry, estimates the business-to-business segment of translation to be a $23-billion annual market.
+
+“When a big pharmaceutical company needs to run a clinical trial, they need supporting documentation in 10 languages; or when a bank wants to publish equity research to Japanese institutional investors, they get it translated by a B2B translation firm,” he says.
+
+Coronavirus impact:Businesses restrict travel to China, close stores because of coronavirus as economic fallout spreads
+
+For casual or occasional use – spending time with distant kin or a foreign exchange student, say – the state of the art for near-real-time translation is good and getting better, even if results are often frustrating. But would you trust it to translate for a United Nations delegate? Maybe not yet.
+
+“How often do you find yourself reprimanding Alexa or Google or Siri for not understanding you,” says Julie Hansen, U.S. CEO for the Babbel language learning app. “But it’s good enough that we keep talking to them. The progress is pretty stunning.”
+
+Hey Google, Hey Alexa...
+
+Your smartphone has morphed into the high-tech equivalent of the phrasebook you take on vacation. Traveling abroad these days, you may summon Google Translate or Microsoft Translator, among other apps, and use features that let you decipher road signs and menus by snapping a picture of the words.
+
+At home, you can ask your Amazon Echo or Google Home smart speakers how to say or pronounce something in another language; Alexa and the Google Assistant pipe in with a response, and if your devices have screens, you can read the words and characters as well.
+
+“People are finding a lot of creative uses in essentially what we think of as two-way, real-time conversation," says Prem Natarajan, VP of Alexa AI, who highlights a potential use case as an example: One spouse who is primarily a Chinese speaker and the other who mainly speaks English. “Neither person has equal fluency in the other person’s language.”
+
+Google’s Interpreter Mode can handle real-time translation on your phone across 44 languages. You can start by saying something along the lines of “Hey Google, help me speak Thai.” In some instances, the Assistant will suggest Smart Replies, to let you quickly respond without speaking.
+
+The Google Translate app has more than 1 billion active monthly users, 95% from outside the U.S.; more than 140 billion words are translated daily.
+
+The company plans to launch a live-transcription feature in the next few months that promises to effectively turn your Android phone into a real-time translator device for long-form speech.
+
+For its part, Microsoft translation capabilities turn up across the product spectrum: PowerPoint, Edge, Outlook, Word, Skype, and on PCs, iOS and Android devices, even Kindle e-readers.
+
+Two years ago, Microsoft researchers said they created the first machine translation system able to translate sentences of news articles from Chinese to English with the same quality and accuracy as a person.
+
+Say what? Where translation goes wrong
+
+All that said, language faux pas are anything but foreign, and they range from downright embarrassing to potentially dangerous.
+
+Due to a technical error, Chinese leader Xi Jinping’s name recently turned up as a curse word when Facebook posts were translated from Burmese to English. The Chinese president’s name was apparently missing from a database in Facebook’s Burmese language model, so the system attempted to replace words with similar syllables. It went terribly wrong.
+
+“We have taken steps to ensure it doesn't happen again. We sincerely apologize for the offense this has caused,” a Facebook spokesperson said.
+
+Last year, researchers at the University of California-San Francisco found that the machine learning algorithm Google rolled out in 2017 was 92% accurate in translating doctor’s orders from English to Spanish and 81% accurate from English to Chinese. Only 2% of the errors in Spanish and 8% in Chinese were deemed to have the potential to cause “clinically significant harm.”
+
+“Great if I’m in the 92%, not so great if I’m in the 8% as a patient who is being communicated something exactly the opposite of what the doctor (wanted to tell me),” says Jost Zetzsche, a spokesperson at the American Translators Association and co-author of “Found In Translation: How Language Shapes our Lives and Transforms The World.”
+
+Translation works best in controlled environments, or where there’s a lot of data training the models. There’s a lot more data between English and Spanish, for example, than Finnish to Burmese. In training the systems, an intermediary language such as English may be used, rather than a direct pairing from one less common language to another.
+
+Much like search, through the years machines scraped data from translations of the Bible, U.N. data, multinational newspapers and other publicly-available sources, says Google's Turovsky.
+
+A big breakthrough came in 2016 with the use of deep "neural network" technology that allowed machines to understand the context of an entire sentence, improving fluency. Earlier systems were limited because they had to break sentences up into chunks, disconnecting intent and meaning from the actual words.
+
+Many factors can throw things off, especially when a person is speaking. Think different accents, vocal speeds and audible disruptions such as "um"s and "uh"s. In addition, sarcasm, idioms and cultural colloquialisms just may not translate.
+
+“Translation is typically a literal interpretation of what’s there as opposed to the meaning and the context,” says Rob Thomas, general manager of IBM Data and Watson AI.
+
+The literal English translation for the Spanish phrase “no hay mal porque bien no vengas,” says Andrew Ochoa, CEO and founder of tech startup Waverly Labs in Brooklyn, is “there’s no bad that for good doesn’t come.” What you’re really trying to say: “Every cloud has a silver lining.”
+
+“These translation models are designed to pick up on that, but it doesn’t always work perfectly,” Ochoa says.
+
+The future of language tech
+
+Still, those sci-fi Babel fish translators may yet find their way to our real-world ears sooner than we think – or something like it.
+
+This April, Waverly Labs plans to ship an over-the-ear $199 interpreter device called Ambassador, which supports 20 languages and 42 dialects.
+
+It follows an earlier Waverly language translation product called Pilot Smart Earbuds and Google's Pixel Buds, which works in conjunction with the latest Google Translate app on an Android phone with the Google Assistant.
+
+Ambassador uses a set of microphones to capture speech and actively listen for someone speaking in a selected language within a range of about 8 feet. In this “listen mode,” you’ll hear an audible translation and can also read the words in a companion app.
+
+In “converse mode,” up to four people wearing Ambassadors in their ears can engage in what the company claims will be a fluid conversation.
+
+And there's “lecture mode” in which Ambassador will broadcast the words of a speaker wearing the device to multiple people in a hall by streaming audio translations to the lecturer’s smartphone, which can then be played over a loudspeaker.
+
+Could these advances spell the beginning of the end for human translators? It's possible, American Translators Association's Zetzsche tells fellow translators – but way in the future.
+
+“But at that point, everyone has been replaced,” he says, including doctors and lawyers.
+
+Email: ebaig@usatoday.com; Follow @edbaig on Twitter

@@ -1,0 +1,45 @@
+3 min read
+
+Conflux Technology has been making a lot of noise in the blockchain space because it is tackling one of the bottlenecks associated with the nascent technology—scalability. The one-year-old startup wants to flip the traditional blockchain protocols.
+
+The backstory: Starting as a research project in late 2017, Conflux is the brainchild of Turing Award recipient Andre Yao, known a China’s “godfather of computer science.” Massachusetts Institute of Technology PhD Long Fan joined him as co-founder.
+
+The pair found a solution to improve the bitcoin protocol, and scale it up to thousands of transactions per second (TPS)—a critical bottleneck of blockchain.
+
+The findings drew much attention from the community, along with investors. The firm’s $35 million Series A made for a valuation of $400 million.
+
+The startup has since focused on commercialization with the mission to develop a public blockchain that is scalable and help catapult decentralized applications (dApps) for mass adoption.
+
+Conflux was registered in Singapore in August 2018. The other co-founders are David Chow and Zhang Yuanjie.
+
+The team is mostly China-based. The company noted that it is a common practice for Chinese blockchain projects to register in Singapore, where the regulatory environment is more favorable.
+
+Unique selling point: The company wants to solve scalability—part of the notorious blockchain trilemma, besides security and decentralization. Most public blockchains are racing to increase performance, crucial to gaining wider adoption and use of blockchain applications.
+
+Bitcoin and Ethereum can only process seven to 15 transactions per second, far below the throughput required by many applications such as payments and livestreaming.
+
+Conflux has developed its own structure for the blockchain system called “Tree Graph” and adopts the Proof of Work (PoW) mechanism as the basis of its consensus. Simply put, the blockchain system is designed to allow blocks, which include timestamp and transaction data, to be produced concurrently, consequently accelerating the transaction volume.
+
+Conflux claims to have already reached 3,000 TPS, which is about the processing speed of centralized payment services providers like Visa.
+
+“In the coming decade, P2P computing or networking will gain more traction, like large-scaled computer resource sharing on a global scale, as blockchain technology increases trust in a decentralized environment. Mobile payment as we know it now, for example, WeChat, Alipay, Paypal, will be based on blockchain technology and besides H2H (Human-to-Human) payments, we will have more H2M (Human-to-Machine) payments in our everyday lives in times of globalization and IoT. —Wu Ming, chief technology officer at Conflux
+
+The investors: With the backing of prominent venture capital firms, the startup is one of the most well-funded in China.
+
+In December 2019, the company announced new multi-million-dollar funding from the Shanghai government for a new research institute. The facility officially launched earlier this month and an incubation center is slated to open in June, the company said.
+
+Present condition: Conflux has a team of around 60, scattered across Beijing, Shanghai, and Hangzhou. The company is also opening up a new office in Toronto, Canada, later this year.
+
+Aside from the research institute, the company is preparing to launch its mainnet in March.
+
+Conflux’s Beijing office focuses on technology development, the Hangzhou office is the application development center, and the upcoming Shanghai office will be registered as a research institute.
+
+The startup works with state-owned commercial lenders, including China Merchants Bank International (CMBI), on developing decentralized finance applications.
+
+The landscape: Given the security implications of a public chain, the Chinese government has been cautious and hesitant about adopting public chain for government use. Many industry watchers believe the industry will accelerate in 2020, particularly after Chinese President Xi Jinping gave his endorsement of the technology in October.
+
+The company told TechNode that it is the first public chain that the Chinese government approves and supports.
+
+“The fact that Shanghai government approves of Conflux as a public chain and is willing to collaborate with us in both the research and application front, I think that shows that Chinese government does have the confidence and thus want to try the new technology rather than limiting themselves to consortium chain and a few other possibilities.” —Conflux spokesperson
+
+Prospects: In the past year, the Chinese government has been more actively seeking collaboration with blockchain firms and rolling out pro-blockchain initiatives and policies. Research and development of blockchain applications in areas such as public services, supply chain management, banking, and finance are often encouraged.

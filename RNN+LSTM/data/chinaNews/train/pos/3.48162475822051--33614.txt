@@ -1,0 +1,19 @@
+On 23 December, the CEO of FuturaSun, Alessandro Barin, and the Chairman of Yellow River Upstream Hydropower Development (SPIC’s Solar Power Company), Dong Peng, signed an initial agreement in Xi’an, China, for the purchase of 50 MW of IBC cells.
+
+State Power Investment Corporation Limited (SPIC) is one of China’s five main utilities operating in the field of power generation. It has built and manages power plants with a production capacity of more than 100 GigaWatts.
+
+In view of its particularly strong and well-consolidated sales network in Europe, as well as the high production capacity of its new factory in Taizhou, SPIC has identified the Italian company as the right partner for its development plan.
+
+Alessandro Barin said, “This agreement marks another important milestone for the establishment and innovative development of our production in China. Both parties want to form a long-lasting partnership that will extend beyond the scope of the agreements announced today.”
+
+The agreement mainly concerns the innovative N-type Interdigitated Back Contact (IBC) cells, in the patented Zebra solution now held by the Chinese group, but which was originally developed in Europe by ISC Konstanz and Silfab Italia. FuturaSun is thus bringing a technology back to Europe that was originally developed here.
+
+The N-type wafer cell, as opposed to the more widespread P-type, had already been developed in 1954, but has only recently undergone further development due to its better performance over time in terms of efficiency and immunity to LID (Light Induced Degradation): in fact, rather than boron, phosphorus is used to “drug” the photovoltaic cells’ base silicon.
+
+In today’s extremely competitive context, these qualitative elements are becoming increasingly appreciated by the market. The IBC Zebra solution offers exceptional performance, as well as the possibility of double-sided configuration. This has allowed FuturaSun to gain access to an innovative market segment with an entirely new product, in direct competition with similar IBC solutions currently proposed by the market.
+
+These new cells have allowed for the creation of the FuturaSun Zebra module, which takes its name from the same technology. Produced at the Taizhou plant, it’s made up of 120 laminated and framed cells with a size comparable to a standard 60-cell module, and has a power rating of 340 watts in the version with a black back sheet, and 350 watts in the version with a white back sheet. The Zebra panel promises greater stability and performance over time thanks to its immunity to LID and its low LeTID (Light and elevated Temperature Induced Degradation) factor, thus improving its reliability.
+
+The industrial agreement will also later include “i-TopCon” (Industrial tunnel oxide passivated contact) N-type cells in order to produce increasingly efficient modules, even with the possibility of double-sided configuration.
+
+The new partnership is particularly strategic for two reasons: it consolidates the FuturaSun industrial chain, thanks to the contribution of the most advanced technology developed in the Chinese photovoltaic sector, while at the same time expanding the product range that the Italian company’s dynamic sales network is able to offer on the market.

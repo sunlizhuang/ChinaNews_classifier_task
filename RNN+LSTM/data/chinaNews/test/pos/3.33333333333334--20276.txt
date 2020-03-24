@@ -1,0 +1,11 @@
+Smartphone cameras have been getting increasingly more advanced with each passing year. Just a couple of years ago, flagship devices featured 16 megapixel cameras as their primary in dual or triple camera module. Now, even mid range devices ship with 48 megapixel cameras and even feature a quad camera setup, depending on the OEM.
+
+However, simply having a higher pixel count doesn’t necessarily translate to a better photo. Many factors like sensor optimizations and software algorithms also play a vital role and according to a senior executive at Honor (a subsidiary of Huawei), larger pixel size is the future of photography. So far, we have seen Xiaomi unveil a 108 megapixel smartphone with the Mi Note 10 while rumors also suggest Samsung Galaxy S20 will launch with a 108 megapixel camera as well.
+
+But, the Chinese smartphone manufacturer plans on approaching the advancement in the field in a different manner. The marketing manager of Honor stated that “to achieve 100 million pixels [100MP], the pixel size is difficult to exceed 0.8 μm. Sony and we all believe that a pixel size of 1 μm or more can guarantee the flagship sensitivity and image quality requirements. In 2020, our flagship company will firmly choose the route of large bottom pixels.”
+
+In simpler terms, it seems like Honor and Sony are focusing more on a larger pixel size rather than pushing for a 100 megapixel camera like Samsung. So, we might not see one from Sony, at least not in 2020. Google Pixel 4 with 12 megapixel and 1.4 micron pixel camera sensors is a great example of a smartphone with a low pixel count but great performance.
+
+Bigger pixels brings a lot of positive aspects to a sensor, including better light gathering and accurate color reproduction. Notably, brands like OmniVision which revealed its 48MP sensor with a large 2.4 micron pixel binning sensor also follow the same philosophy. Thus, we can expect the upcoming Honor and Huawei flagship will feature a sub-100MP sensor with a large pixel size.
+
+(Source)

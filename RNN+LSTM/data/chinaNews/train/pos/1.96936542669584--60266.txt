@@ -1,0 +1,37 @@
+February 7, 2020 — To help front-line physicians, nurses, and other healthcare professionals diagnose and treat the coronavirus, United Imaging has donated medical imaging equipment and protective medical gear worth more than $1.4 million to hospitals in Wuhan, China, at the center of the outbreak.
+
+On Feb. 1, United Imaging also finished installation of three high-end CT scanners — one uCT 780 (160-slice CT scanner) and two uCT 760s (128-slice CT scanners) — at the Huoshenshan Hospital, an emergency specialty field hospital with 1,000 beds built in less than 10 days in Wuhan. United Imaging accomplished the installation while the hospital was under construction, within half the time it usually takes to install this equipment. The company dispatched 15 service engineers to work in three continuous shifts, as well as a 25-person team that included project managers, clinical application professionals, and operations to provide on-site support.
+
+At the same time, the company set up additional spare parts sites near the hospital to ensure a quick response in case of need. United Imaging also accelerated production to get more than 100 CT scanners and X-ray machines out quickly to hospitals in Wuhan, Shanghai, Beijing, Zhejiang, Inner Mongolia, and other regions in China.
+
+With scanning workflow fully empowered by AI technology, United Imaging CT systems enable automatic patient positioning and scanning from the operation room. Because technologists don't have to go into the scan room, this feature can help prevent cross infection between technologists and patients. Also, the ability to scan more than 300 patients daily provides a robust foundation for smooth and efficient hospital operations.
+
+United Imaging's engineers are standing by 24 hours a day to respond to emergency calls from hospitals. Along with these engineers, hundreds of United Imaging employees have been contributing to this effort for more than ten consecutive days, working through holidays and returning early, to support the healthcare professionals across China fighting the coronavirus.
+
+United Imaging also deployed its UIH CLOUD remote diagnosis platform in frontline hospitals as soon as the outbreak occurred. With this platform, patient images scanned at designated hospitals can be uploaded to the top hospitals in China in order to support remote, real-time diagnosis and guidance from doctors. According to reports, the platform achieved more than 1,000 diagnoses at one hospital in just one week.
+
+As a global company, United Imaging is committed to access for all to the best possible care worldwide and is proud to play a small part alongside so many who are going above and beyond in this moment.
+
+For more information: https://usa.united-imaging.com/
+
+Related Coronavirus Imaging Content:
+
+CT Imaging of the 2019 Novel Coronavirus (2019-nCoV) Pneumonia
+
+Infervision in the Frontlines Against the Coronavirus
+
+Chest CT Findings of Patients Infected With Novel Coronavirus 2019-nCoV Pneumonia
+
+CT Imaging Features of 2019 Novel Coronavirus (2019-nCoV)
+
+Find more related clinical content Coronavirus (COVID-19)
+
+References for Coronavirus Radiology Imaging:
+
+1. Michael Chung, Adam Bernheim, Xueyan Mei, et al. CT Imaging Features of 2019 Novel Coronavirus (2019-nCoV). Radiology. Published Online:Feb 4 2020https://doi.org/10.1148/radiol.2020200230.
+
+2. Jeffrey P. Kanne. Chest CT Findings in 2019 Novel Coronavirus (2019-nCoV) Infections from Wuhan, China: Key Points for the Radiologist. Radiology. Published Online:Feb 4 2020https://doi.org/10.1148/radiol.2020200241.
+
+3. Peng Liu, Xian-zheng Tan. 2019 Novel Coronavirus (2019-nCoV) Pneumonia. Radiology. Published Online:Feb 4 2020https://doi.org/10.1148/radiol.2020200257.
+
+4. Junqiang Lei, Junfeng Li, Xun Li, Xiaolong Qi. CT Imaging of the 2019 Novel Coronavirus (2019-nCoV) Pneumonia. Radiology. Published Online:Jan 31 2020https://doi.org/10.1148/radiol.2020200236 Accessed Jan 31, 2020.

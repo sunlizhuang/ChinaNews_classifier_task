@@ -1,0 +1,113 @@
+For a few hours on Thursday, it appeared the new coronavirus (2019-nCoV) had spread to Saudi Arabia with reports that a nurse in Asir was infected.
+
+
+
+But it was a case of mistaken virus identification, quickly corrected.
+
+The unfortunate nurse was actually infected with a different but equally frightening coronavirus: MERS (Middle Eastern respiratory syndrome, or MERS-CoV), which made the leap from animals to humans in 2012, creating a brand new human disease.
+
+It was a vivid reminder that for almost a decade there has been a threat from another highly pathogenic never-before-seen virus. MERS was only the second coronavirus ever known to leap from animals to humans and cause a deadly illness.
+
+The first of these notorious bugs was SARS (severe acute respiratory syndrome, or SARS-CoV), which swept the world in the spring of 2003, killing nearly 800 people, including 44 Canadians.
+
+2019-nCoV makes 3
+
+With scant information about the novel virus that has just emerged in China, experts are reviewing the experience of SARS and MERS for important clues about what to expect.
+
+"The interesting thing about this is that we're really not sure which way it's going," said Dr. Anthony Fauci, director of the U.S. National Institute of Allergy and Infectious Diseases. "We first thought, well, there really wasn't much transmission from human to human."
+
+Now that it's clear the virus can spread between people, Fauci said the next question is how easily it will spread.
+
+"The real question right now is will it get better at going in what we call 'sustained transmission' from human to human. Because if it doesn't, then we have a very good chance of pretty quickly getting our arms around it and, by public health measures, essentially stopping it."
+
+Michael Osterholm, an infectious disease specialist at the University of Minnesota, is a veteran of the SARS and MERS outbreaks, and he's blunt about the current situation.
+
+"This is a bad disease. It makes people very sick and it can kill you. And so I think that is an important combination. But the ultimate case fatality rate is still yet to be determined."
+
+In other words, experts still don't know how dangerous the new virus is or how it compares to SARS, with a case fatality rate around 10 per cent, or MERS, with an estimated fatality rate as high as 30 per cent.
+
+"I know how this picture is starting but I don't know how it ends. And so I think that's the question we're all asking," said Osterholm.
+
+Part of the genetic sequence of the new coronavirus 2019-nCoV. (GenBank by Shanghai Public Health Clinical Center and School of Public Health, Fudan University)
+
+The SARS and MERS viruses followed different paths.
+
+SARS began in China in the fall of 2002 and spread around the world quickly. By spring 2003, it had travelled to 37 countries including Canada, sickening more than 8,000 people.
+
+Still, SARS lacked the ability to spread easily between humans.
+
+"It never really developed the capability of having sustained vigorous transmission from person to person," said Fauci. "There was clearly person-to-person transmission but it wasn't like influenza. You had thousands of cases but not millions of cases."
+
+And after nine frightening months, SARS was extinguished, apparently forever.
+
+"SARS was actually a huge public health success in that we were able to control, contain and eliminate that virus," said Dr. Catharine Paules, who co-authored a new paper with Fauci about coronavirus infections published this week in JAMA.
+
+"But then in 2012 we had the emergence of a second animal coronavirus in the human population."
+
+Michael Osterholm, director of the Center for Infectious Diseases Research and Policy at the University of Minnesota, is a veteran of the SARS and the MERS outbreaks. (University of Minnesota)
+
+MERS first appeared in Jordan in 2012 with cases showing up in 27 countries over eight years. The U.S. Centres for Disease Control states that all of the MERS cases are linked to travel or residence in countries around the Arabian Peninsula. There was a major outbreak of MERS in a South Korean hospital in 2015 where 186 people were infected and 36 died.
+
+Sneezing camels
+
+So far, public health agencies have been able to limit the human-to-human spread of MERS but they have not been able to eradicate the virus. That's because MERS has become the camel version of the common cold.
+
+"The camels will be sneezing or coughing and they sort of sneeze or cough this virus onto people; that's how we think it's transmitted," said Paules.
+
+In the case of SARS, animal-to-human transmission was eliminated when live-animal markets stopped selling small mammals, including palm civets, which were found to be carrying the SARS virus.
+
+"Once we realized that palm civets were the primary animal species transmitting it to humans, and the markets were eliminated, we literally shut off the faucet of new infections coming into humans," said Osterholm.
+
+The animal reservoir for the new virus is so far a mystery. Experts are extremely skeptical about early reports of an association with snakes.
+
+"I know there was a recent publication that came out about snakes, but that's hotly being debated right now as we aren't even sure that reptiles can get infected with coronaviruses," said Paules.
+
+"I think many of us thought that that was in error and not likely to be the source," said Osterholm. "But at this point, we have no data otherwise from the Chinese to know what might have been the animal reservoir."
+
+"If you want to put some money on it, you'd get a bat involved," said Fauci. "SARS went from the bat to the palm civet cat to the human, and MERS went from the bat to the camel to human. I don't have any idea what the animal is for this one but I would not be surprised if a bat was involved somewhere."
+
+Dr. Catharine Paules, an infectious disease specialist at Penn State University in Hershey, Pa., co-authored a new paper about coronaviruses. (Penn State Health Hershey)
+
+There are also major questions about the transmissibility of the new virus. Scientists still don't know how the virus spreads, although Fauci said environmental tests revealed traces of the virus at the market in Wuhan, China.
+
+"They did environmental samples and it was able to be seen on some of these inanimate objects in the fish market," he said. "Though no one has yet done the definitive experiment of seeing whether it stays alive on a doorknob or not; I wouldn't be surprised if it did last for a limited period of time on inanimate objects."
+
+Fauci said it appears to take about six days for someone who has been infected to show symptoms, but it's not clear whether the virus can be spread by someone who does not appear to be sick.
+
+"But there are anecdotes; for example, the individual from Seattle who got infected does not remember coming into contact with anyone that was sick, nor does he remember coming into contact with any animals, nor did he feel that he had any exposures. Yet he got infected."
+
+'Super-spreaders'
+
+A grim aspect of all three diseases is the phenomenon of the super-spreader — a person who, for some reason still not well understood, is able to infect a large number of people.
+
+"That's one of the big mysteries," said Osterholm. "Super-spreaders have been individuals who have been severely ill and even people who've been moderately ill. Why they're putting out so much virus is just not clear."
+
+In the case of MERS, Osterholm said one person in a South Korean emergency room was able to infect 82 people in 2015. In the case of SARS, one super-spreader in Beijing was responsible for a chain of infections in 76 people.
+
+It's been reported that one man in Wuhan infected 14 hospital workers, which could be the first evidence of a super-spreader in this outbreak. But because it happened during surgery, the infection could be related to the surgical procedures.
+
+"I think we have to still be a little bit careful, because this individual actually had had surgery, and any time you intubate somebody, you know you may very well have induced a higher rate of spreading the virus," said Osterholm.
+
+Lessons from SARS and MERS
+
+One of the encouraging aspects of the SARS story is that the virus was contained, said Osterholm, pointing to Canada, where most of the more than 400 infections and 44 deaths happened in and around Toronto.
+
+"While Canada suffered miserably because of what was going on in Toronto, there weren't even any cases in Calgary, and Winnipeg," he said.
+
+"So what we need to get people to understand is that we can't say this isn't going to come to every country in the world. It's unlikely, but it could. But when it does, it's going to likely be largely an institution-based outbreak like a hospital."
+
+"So that just helps give people a sense that we're not all going to die from this," he said.
+
+Training to respond to a viral threat
+
+At her hospital in Hershey, Pa., Paules is part of a team that trains regularly to respond to an emerging viral threat.
+
+She said some of the strategies developed during the SARS and MERS outbreaks are already being used, including the closing of animal markets and airport screening.
+
+"Some of those things have been able to get up and running very quickly, probably because of the lessons learned from SARS," said Paules.
+
+China was able to sequence the new virus and get that critical genetic code to the world quickly. Diagnostic tests have been developed, which means cases can be identified and isolated to contain the spread.
+
+"I think some of the things from SARS and MERS that have really helped us here is how quickly the Chinese authorities were able to globally circulate the sequence of this virus," said Paules, who echoes Osterholm's point that most people don't have to worry about this virus.
+
+"I would be concerned if I was in some of these areas in China. I would not myself probably decide to travel to any of those areas right now. But here sitting in my office in Hershey, Pennsylvania, I have a low concern that this virus is going to impact me personally, although I'm concerned for the global community."

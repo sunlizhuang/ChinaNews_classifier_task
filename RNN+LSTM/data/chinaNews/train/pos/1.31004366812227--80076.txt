@@ -1,0 +1,33 @@
+Co-published
+
+AI and its diverse applications (eg, machine learning and deep learning) have seen significant market growth in the past decade and are on the cusp of transforming many industries. As one of the hottest technologies, AI underpins the performance of: data centres;
+
+voice assistants;
+
+targeted ads;
+
+medical diagnosis;
+
+product development;
+
+oil prospecting;
+
+insurance;
+
+security;
+
+driverless cars; and
+
+other needs. Empowering this transformation are specialised AI chips designed to optimise specific applications. This article highlights the deep insights that can be gleaned in a crowded market from an accurate IP landscape analysis of the opportunities for creating strong IP portfolios and the IP positioning of players in this critical AI-enabling sector. Areas that use AI for the Cloud range from cloud computing applications to digital assistants, self-driving and autonomous vehicles, and medical diagnosis. AI has also been adopted for advanced product development, as illustrated by the semiconductor industry, where it is employed to address the growing complexity of chip design. It is reported that AI processors implementing neural networks improve performance beyond that of other analytical techniques for diverse applications. These benefits have spurred the development of AI chips that can process data faster and more efficiently. The semiconductor market for AI-related chips is projected to grow substantially over the next few years. Mckinsey & Company predicts a tripling in revenue for AI chips from $17 billion to $65 billion (see Figure 1). By 2025 such revenue is expected to account for nearly 20% of semiconductor sales. Other studies (eg, by Research and Markets) predict that the global AI chip market will reach $90 billion by 2025, growing at a compound annual growth rate of 45.2% from 2019.
+
+Growth for semiconductors related to AI is expected to be five times greater than growth in the remainder of the market
+
+AI usage and processing types There are essentially two main areas of AI at present: cloud AI and edge AI (see Figure 2). Cloud applications are those where all data is fed to a remote data centre and the processing is done on the Cloud. Working on the Cloud enables businesses to move faster, more efficiently and at a lower cost. Edge computing is important where a lack of speed or connectivity with the Cloud requires processing applications closer to the data source (eg, through a machine on a factory floor, an MRI scanner at a hospital or advanced phones).
+
+Cloud AI Currently, for cloud-based AI (data centres), most computing is provided by central processing units (CPUs) and graphics processing units (GPUs). However, a major shift in preferred chip architecture is underway to meet the performance needs of AI computing (see Figure 3). GPUs have traditionally been attractive for implementing neural networks since image processing requires parallel tasks involving matrices, which is efficiently addressed by neural networks. In contrast, traditional CPUs can be programmed to conduct AI tasks but take longer and use more power for the same process. Several studies (eg, McKinsey) predict a significant growth in application-specific integrated circuits (ASICs) (see Figure 3). The patent data confirms that semiconductor companies such as IBM, Intel, and Qualcomm are designing ASICs to improve power efficiency and increase throughput and the technical path that they are pursuing. These firms are also focused on developing AI chips that can be trained efficiently ؘ– the step that entails preparing a machine-learning model by feeding it data from which it can learn. Inference is the process of taking a model that has already been trained and using it to make useful predictions.
+
+The preferred architectures for compute are shifting in data centres and the edge
+
+End of traditional processor company dominance? AI represents a game-changing technology that could end the dominance of traditional processor design companies. Initially, AI was performed by CPUs, before then moving to GPUs, as these were better suited for parallel processing. While GPUs still excel at dense floating-point computation, researchers have reported higher throughput and energy efficiency with custom hardware. The patent analysis found that a significant number of IT firms have selected custom hardware over CPUs for implementation of their neural network architecture. Customisation of integrated circuit logic and memory hierarchy can yield custom hardware neural networks that are faster and significantly more energy efficient than the previous generation of GPUs. International competition has transformed this IP space. In 2017 China unveiled its Next Generation Artificial Intelligence Development Plan, a document that outlined the country’s strategy to become the global leader in AI by 2030. Leading Chinese tech companies such as Huawei have started to design and file intellectual property in AI. Indeed, Huawei has announced an AI core for a system on a chip used in its phones. Search giant Alibaba is another new entrant in AI chip design. Horizon Robotics is focused on the design of AI chips for surveillance cameras as well as for autonomous vehicles. In the United States, traditional semiconductor firms such as Intel, IBM, Qualcomm, AMD and NVIDIA have either announced or already shipped cloud AI chips. In addition, non-traditional semiconductor companies seeking to enhance their position in cloud computing (eg, Google, Microsoft and Amazon) have invested significant money in developing AI chips for the cloud. Announced chips Figure 4 presents a list of companies that have announced AI chips for cloud computing. The data shows that the United States and China are leading the race, with 16 active companies. In contrast, only four players from the rest of the world (Europe, Israel, Japan and South Korea) have announced AI chips. Also significant is the number of players that lack traditional chip design expertise, ranging from start-ups (Cerebras, Graphcore, Canaan, Cambricon) to data companies (Google, Baidu, Alibaba).
+
+Figure 5 shows the significant increase in AI chip announcements each year. For example, 2019 had double the number of chip announcements of 2018. This trend will likely continue, as companies that have not yet announced chips (eg, IBM, AMD, Microsoft and Facebook) will announce their products in the coming months, while those that have already announced their chips will continue to bring out new designs.

@@ -1,0 +1,69 @@
+Public health officials attempting to contain the new coronavirus are trying to figure out how easily it spreads. One key question is whether people who are infected but show no symptoms can infect other people.
+
+"If you have a lot of people who [have mild disease or are] asymptomatic and not seeking medical care for respiratory illness but are still contagious, you're going to have a very difficult time," says Jeffrey Shaman, a professor of environmental health sciences at Columbia University.
+
+Two previous deadly outbreaks of coronavirus – SARS and MERS – only spread from people who were showing symptoms of disease.
+
+But Shaman has looked at more common coronaviruses, in particular four other coronaviruses that usually don't cause anything more serious than a cold. He's found many people shed those viruses even when they report no symptoms at all. (His results are not peer-reviewed but are available as a preprint).
+
+His study found the coronavirus in the nasal passages of people who didn't report any symptoms, "and it's going to leak out as they're speaking and breathing and coughing and sneezing and wiping their nose," Shaman says. "Whether it's ... a sufficient quantity to make somebody else infectious, we can't discern that from what we've done."
+
+Likewise, it's hard to know what's up with the novel coronavirus. Scientists in Germany reported a case in the New England Journal of Medicine on Jan. 30 in which a visitor from China without symptoms passed the disease along to a colleague in Munich. But, as Science magazine first reported, that was wrong. The woman actually did have symptoms.
+
+Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, had cited that case last week at a White House meeting in which health officials announced a quarantine for people returning from the disease's hotspot in China. He says the errant letter in the journal doesn't alter his view.
+
+Fauci says he's been talking to trusted colleagues in China about this issue, and "they told me without a doubt there is some degree of asymptomatic transmission."
+
+But he says to the extent it's happening, it doesn't explain the apparently explosive spread of this disease within China.
+
+The history of respiratory disease is that "asymptomatic transmission is not the main driver of [any] outbreak."
+
+Even so, Maria van Kerkhove at the World Health Organization says this question is subject of intense scrutiny right now.
+
+"We know from a lot of experience in other diseases that people that claim to be asymptomatic, when you go back and interview them they were in the early stages of actually developing symptoms," she told reporters at a recent briefing. "So they weren't completely asymptomatic."
+
+The bigger risk could well be from people who have symptoms, but whose illness is mild enough that they don't stay home in bed. The German man who caught the coronavirus from his Chinese colleague had a brief fever, but went back to work quickly – and spread his infection to other colleagues.
+
+This pattern of infection is similar to that of the flu. "It's looking more like a really bad influenza than it is a SARS-like disease," Fauci says.
+
+That would mean the risk of serious illness is low for most healthy individuals, but if the novel coronavirus spreads as widely as influenza does, it could still take a lot of lives.
+
+You can contact NPR Science Correspondent Richard Harris at rharris@npr.org.
+
+
+
+Copyright 2020 NPR. To see more, visit https://www.npr.org.
+
+MARY LOUISE KELLY, HOST:
+
+Public health officials trying to contain the new coronavirus are trying to figure out how easily it is spread. One key question is whether people who are infected but show no symptoms can infect other people. As NPR's science correspondent Richard Harris reports, that would make it harder to hold in check.
+
+RICHARD HARRIS, BYLINE: Some diseases seem to spread only when people are showing symptoms. That was the case with two other diseases caused by coronaviruses, SARS and MERS. But Jeffrey Shaman at the Columbia University School of Public Health says the novel coronavirus is a question mark.
+
+JEFFREY SHAMAN: If you're going to actually contain the outbreak, which is spread very quickly, the question is, are you identifying all those cases? And if you have a lot of people who are mild or asymptomatic and not seeking medical care for a respiratory illness but are still contagious, you're going to have a very difficult time.
+
+HARRIS: Best-case scenario is the virus would be like SARS and would not spread unless a person has symptoms. But Shaman has also looked at milder coronaviruses that circulate widely and mostly cause nothing worse than a cold. And he's found many people shed those viruses even when they report no symptoms at all.
+
+SHAMAN: It's in their oral and nasal mucosa, and it's going to leak out as they're speaking and breathing and coughing and sneezing and wiping their nose. It will come out of them. Now, whether it's a sufficient load of virus - a sufficient quantity of virus to support making somebody else infectious - we can't discern that from what we've done.
+
+HARRIS: What's up with the novel coronavirus is hard to say. Last week, scientists in Germany reported a case in which a visitor from China without symptoms passed the disease along to a colleague in Munich. But as Science Magazine first reported, that was wrong. The woman actually did have symptoms. Dr. Anthony Fauci, a top official at the National Institutes of Health, says that error doesn't change anything in his view. He's been talking to trusted colleagues in China about this issue.
+
+ANTHONY FAUCI: They told me, without a doubt, there is some degree of asymptomatic transmission.
+
+HARRIS: But he says to the extent it's happening, it doesn't explain the apparently explosive spread of this disease within China.
+
+FAUCI: Asymptomatic transmission is not a driver of an outbreak. It may occur - and most people think it doesn't occur in a widespread way. But to whatever degree it occurs, the history of respiratory-borne illnesses say that even when there is asymptomatic transmission, asymptomatic transmission is not the main driver of the outbreak.
+
+HARRIS: Even so, Maria van Kirkhove at the World Health Organization told reporters this question is subject of intense scrutiny right now.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+MARIA VAN KIRKHOVE: We know from a lot of experience in other diseases that people that claim to be asymptomatic - actually, when you go back and interview them, they were in the early stages of actually developing symptoms, so they weren't completely asymptomatic.
+
+HARRIS: The most important question isn't simply about asymptomatic people but about how commonly people have such mild illness that it doesn't send them to bed or to the doctor. They are clearly at risk for spreading the disease. Dr. Fauci says as he's been watching the new coronavirus emerge over the past few weeks, that's what he's been thinking.
+
+FAUCI: It's looking more like a really bad influenza than it is a SARS-like disease.
+
+HARRIS: That would mean the risk of serious illness is low for most healthy individuals, but if it spreads as widely as influenza does, it could still take a lot of lives.
+
+Richard Harris, NPR News. Transcript provided by NPR, Copyright NPR.

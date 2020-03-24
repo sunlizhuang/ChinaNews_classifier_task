@@ -1,0 +1,61 @@
+Coronavirus: Bats the 'probable' cause behind emergence of deadly China outbreak
+
+Bats are the probable cause of coronavirus, new research suggests.
+
+By Scotsman Reporter Monday, 3rd February 2020, 1:43 pm
+
+However, scientists stress the animal source of the recent outbreak in China has not been confirmed.
+
+Identification and characterisation of the new virus reveals similarities with severe acute respiratory syndrome (Sars) coronaviruses.
+
+Sign up to our daily newsletter The i newsletter cut through the noise Thanks for signing up! Sorry, there seem to be some issues. Please try again later. Submitting...
+
+While research suggest the virus may have originated from bats, scientists stress the animal source of the recent outbreak in China has not been confirmed. Picture: AP
+
+They found that full-length genome sequences - which determined the DNA of the virus - from five of the patients, were almost (over 99.9%) identical to each other.
+
+They also shared 79.5% sequence identity with Sars coronaviruses.
+
+According to the study published in Nature, the virus sequence is 96% identical at the whole-genome level to a bat coronavirus, suggesting bats are a probable source of this coronavirus.
+
+Scientists also found the new virus, named 2019-nCoV, enters cells through the same route as Sars coronaviruses.
+
+Antibodies isolated from patients infected with the new strain are shown to have the potential to neutralise the virus.
+
+The research suggests that a previously identified horse antibody against Sars also neutralises the virus.
+
+However, whether or not these cross-react with the current strain needs to be confirmed using serum from humans who have recovered from Sars.
+
+Zheng-Li Shi, a virologist and researcher at the Wuhan Institute of Virology, and colleagues, developed a test that can differentiate 2019-nCoV from all other human coronaviruses.
+
+They found that while it was detected in initial oral swab samples, subsequent samples taken about 10 days later did not have a positive viral result.
+
+This suggests the most likely route of transmission is through the airways of individuals.
+
+However, the authors say other routes may be possible, and more patient data is needed to investigate transmission further.
+
+Dr Michael Skinner, reader in virology at Imperial College London, said: "The discovery definitely places the origin of nCoV in bats in China.
+
+"We still do not know whether another species served as an intermediate host to amplify the virus, and possibly even to bring it to the market, nor what species that host might have been.
+
+"But the high level of sequence similarity between nCoV and TG13 is not really compatible with some of the more exotic hosts that were considered earlier in the epidemic."
+
+In a separate study researchers looked at a 41-year-old male market worker admitted to a hospital in Wuhan on December 26 2019, who experienced symptoms of respiratory illness, including fever, chest tightness and a cough.
+
+Despite a combination of antibiotic, antiviral and glucocorticoid therapy, he exhibited respiratory failure and his condition did not improve after three days of treatment.
+
+The authors performed genome sequencing on a sample of fluid taken from his lung.
+
+They identified a novel virus and found that the viral genome shared 89.1% similarity with Sars-like coronaviruses from bats.
+
+But the researchers say it is not possible to conclude from the analysis of a single patient that this coronavirus is the cause of the current outbreak.
+
+Ian Jones, professor of virology at University of Reading, said: "These two scientific papers provide the formal evidence for what is already widely known.
+
+"2019-nCoV is a bat virus, and Sars-CoV, which caused an epidemic in 2002/3, is the closest relative seen previously in people.
+
+"Most encouragingly though, this indicates that treatments and vaccines developed for Sars should work for the Wuhan virus."
+
+Dr Skinner added: "Together, these papers describe the first steps in understanding the evolutionary and epidemiological origins of WHCV/2019-nCoV.
+
+"The speed of their appearance attests to the rapid pace and extent of scientific and technological progress, globally - but not least in China, since the Sars epidemic in 2002-3.

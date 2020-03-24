@@ -1,0 +1,59 @@
+If you can make smartphone apps, Chinese tech giant Huawei wants you.
+
+The No. 2 global smartphone brand is struggling to hold onto its market after Washington accused Huawei of being a security risk and blocked access to U.S. components and technology.
+
+That includes YouTube and other popular Google core apps customers expect on new phones. They will be missing from the global rollout of Huawei's next model, the P40, due out in March, replaced by its own music, payment and other apps.
+
+Huawei Technologies Ltd., along with every other smartphone brand except Apple Inc., relies on Google's Android operating system.
+
+So it's scouring the world for replacements. At events for developers from New Delhi to Warsaw to Sao Paulo, Huawei is promising cash rewards if they meet a deadline Friday to get apps onto its online store.
+
+The company says it will invest $1.5 billion in app development.
+
+It faces an expensive, uphill struggle to create alternatives to the Google-centered world of music, navigation and other apps, according to industry experts. Others including Nokia and Microsoft have tried and failed to create their own mobile ecosystems.
+
+Creating diverse apps is a really challenging task to Huawei, said chairman Guo Ping in videotaped comments released by the company.
+
+Huawei, also the world's biggest maker of switching gear for phone networks, rejects U.S. accusations it might facilitate Chinese spying. Chinese officials accuse Washington of using phony security claims to hurt a commercial rival.
+
+The Trump administration also is pressing European and other allies to exclude Huawei switching gear from next-generation telecom networks.
+
+The conflict has fed fears technology industries might split into Chinese, U.S. and other spheres with incompatible products.
+
+Huawei's founder, Ren Zhengfei, has said it wants to stay in a unified global industry and work with Google and other U.S. partners.
+
+The Android system is open-source, meaning phone brands use it for free but most also pay Google for core apps and the software to support them.
+
+Huawei can keep using Android but is blocked from buying those core apps for pre-installation. That threatens to cripple Huawei's ability to compete with market leader Samsung and other Android-based phones.
+
+Consumers expect well-known apps that their peers are using, such as Google Maps, said Thomas Husson, a principal analyst for Forrester, in an email.
+
+It would require massive investment to convince developers to develop for a new eco-system and a lot of marketing efforts." Huawei already sells phones without Google core apps in China, where the ruling Communist Party's internet filters block access to YouTube, the Google search engine and thousands of other foreign websites.
+
+Instead, Huawei phones come with Chinese search engine Baidu.com, video service Youku.com and other local apps.
+
+But Huawei competes on a level playing field in China with competitors that face the same restrictions. In other foreign markets the others have the popular Google package.
+
+For the P40, Huawei has signed an agreement for developers to use maps from a Dutch provider, TomTom. Details of other services have yet to be announced.
+
+In response to questions, Huawei said executives would talk to reporters next month at the Mobile World Congress, the industry's biggest annual event.
+
+The chief executive of Huawei's consumer unit, Richard Yu, told reporters in December the P40 would be launched in Paris in late March, using Android instead of Huawei's HarmonyOS operating system, which it unveiled last year.
+
+HarmonyOS is based on code developed for other Huawei devices and could replace Android if needed. But the company wants to keep working with Google, which has spent more than a decade improving Android with input from Huawei and other companies.
+
+Replacing Google apps is a massive undertaking for any company, said Dermot Daly, chief executive of Tapadoo, an Irish app developer that isn't working for Huawei.
+
+Huawei Mobile Services offers some 45,000 apps. But that is barely 1.5% of the 3 million titles on Google Play Store, where most Android users get apps.
+
+Huawei needs to replace Google code that supports video and other features, said Daly. Then it needs to persuade developers to adapt apps to run on Huawei's new code.
+
+They're not building from scratch, but they face a big technical hurdle, said Daly. Becoming a world-class software maker is a massive challenge.
+
+Nokia Corp. took a similar approach with its first smartphone a decade ago but failed to attract enough apps for its system, said Daly.
+
+He said Microsoft Corp. tried again after acquiring Nokia's mobile phone unit in 2013 but faced similar lack of developer interest.
+
+Such difficulties highlight the dominance of U.S. app providers and the very gradual emergence of global alternatives.
+
+(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)

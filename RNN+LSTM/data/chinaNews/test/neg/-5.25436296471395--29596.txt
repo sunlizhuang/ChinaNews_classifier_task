@@ -1,0 +1,43 @@
+A new virus appeared in humans in Wuhan, China on 31 December 2019, and has since been named CoV2019.
+
+Where has it spread so far?
+
+Historically, Chinese authorities have been reluctant to disclose the full extent of viral outbreaks, but by 21 January they had acknowledged 224 cases - more than double the number previously reported - across Wuhan, Beijing and Shenzhen, with three deaths. However, experts at Imperial College in the United Kingdom have suggested there could be as many as 1,700 cases, because mild infections may not be detected. China's National Health Commission has confirmed 15 cases of human-to-human transmission - some of them health workers.
+
+Wuhan is a city of 11 million people, and its market is close to the city's main railway station, a busy travel hub. The outbreak has coincided with China's Lunar New Year, sometimes described as the largest human migration on Earth as people travel to their hometowns to celebrate.
+
+CoV2019 has spread to Japan, Thailand, South Korea and now the US.
+
+What is it?
+
+The virus is a strain of the RNA coronavirus complex, so named because their particles resemble a crown when magnified. If you've ever had a cold or a sore throat, you've been infected by a coronavirus. There are seven known strains, and while some - 229E, NL63, OC43 - only cause mild to moderate respiratory illnesses, the coronaviruses SARS (Severe Acute Respiratory Syndrome)-CoV and MERS (Middle East Respiratory Syndrome)-CoV have proven lethal: a SARS epidemic in 2002-2003 started in south China, and spread to 37 countries, infecting 8,098 people and killing 774 of them.
+
+MERS first appeared in Saudi Arabia in 2012, before spreading through 27 countries. The World Health Organisation recorded 2494 cases and 858 deaths.
+
+What are the symptoms?
+
+Coronaviruses generally cause fever, coughing and shortness of breath, and can progress in elderly and immune-compromised people into pneumonia, respiratory failure and occasionally, kidney failure. RNA viruses only have a single strand of genetic material (unlike us, which have two), which means they can mutate and recombine rapidly, regularly producing new strains that our immune systems don't remember or recognise. This is why we keep getting colds each year.
+
+Where does it come from?
+
+Certain coronaviruses are more severe because they're zoonotic - they can jump species. For instance, the MERS virus is thought to have passed from Egyptian cave bats to camels, and then to humans. SARS-CoV was traced to horseshoe bats found in a cave in China, which passed the infection on to civet cats and raccoon dogs sold as food in Chinese markets. The infected animals had shown no symptoms.
+
+Similarly, the CoV2019 virus has been traced back to a Wuhan meat market, which has since been closed.
+
+The Ministry of Civil Aviation uses a thermographic camera to screen the head of people at Netaji Subhash Chandra Bose International Airport in Kolkata following the outbreak of CoV2019. Photo: AFP
+
+How is it spread, and how is it treated?
+
+CoV2019 doesn't appear to be as transmissible between humans as SARS was - hundreds of people known to have contact with diagnosed patients have not succumbed. There is now, however, a diagnostic test for the disease, which means reported infection rates are likely to climb. Once in humans, a coronavirus is spread in the air by coughing and sneezing, touching or shaking hands, and touching your eyes, nose or mouth, after contact with a contaminated surface.
+
+Because CoV2019 is a new strain, there's no vaccine, and antibiotics cannot be used to treat viruses. Antiviral drugs usually only ease the severity of symptoms. Sufferers may be put on breathing support and receive fluids. As with past outbreaks, those who have died so far were already in poor health.
+
+Authorities in Wuhan are conducting symptoms checks door-to-door and on public transport, and medical staff have been recalled from holidays. The government has said it will crackdown on meat markets, and researchers will likely focus on sequencing more virus strains, to better understand their diversity and evolution. They will also try to trace the virus' origin and intermediate host animals.
+
+The World Health Organisation will convene an emergency committee to decide whether to declare the Wuhan outbreak a public health emergency of international concern. Such a designation allows the WHO to direct more resources into prevention and spread. Meanwhile, it has urged countries to enhance their surveillance of severe acute respiratory infections, although no travel restrictions have been advised.
+
+Hong Kong, which was badly affected by the SARS virus, has already launched a public health plan, and late last week, US officials said New York City's Kennedy airport and the Los Angeles and San Francisco airports would start screening Chinese passengers.
+
+https://www.rnz.co.nz/news/on-the-inside/407914/wuhan-coronavirus-explained
+
+This news piece was originally published on Radio New Zealand and is being re-published by The Indian Weekender in the agreement of content partnership between Radio New Zealand and The Indian Weekender.

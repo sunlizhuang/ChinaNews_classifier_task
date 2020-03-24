@@ -1,0 +1,55 @@
+As a self-described “classical type of mathematician,” Chenyang Xu eschews software for paper and pen, chalk and chalkboard. Walk by his office, and you might simply see him pacing about, deep in concentration.
+
+Walking — across campus to get a cup of coffee, or from his apartment to his office — is an essential part of his process.
+
+“The way I think about math, I do a lot of picturing in my brain,” he says. “If I need a more clear picture, I might draw something and do some calculations. And when I walk I think of these pictures.”
+
+Those paces sometimes lead him to colleagues’ offices. “There are so many great minds here, and I interact with my colleagues in the department a lot,” says Xu, a recently tenured professor of mathematics at MIT.
+
+Xu’s specialty is algebraic geometry, which applies the problem-solving methods of abstract algebra to the complex but concrete shapes, surfaces, spaces, and curves of geometry. His primary objects of study are algebraic varieties — geometric manifestations of sets of solutions of systems of polynomial equations. As he walks and talks with colleagues, Xu focuses on ways of classifying these algebraic varieties in higher dimensions, using the techniques of birational geometry.
+
+“I like to talk with other mathematicians working in my subject,” Xu says. “We discuss a bit, then go back to think for ourselves, encounter new difficulties, then discuss again. Most of my papers are basically collaborations.”
+
+Such a collaboration helped Xu take his research in a new direction toward developing the new theory of K-stability of Fano varieties. Eight years ago, he devoted some thought to a certain subject in his field known as K-stability, which he describes as “an algebraic definition invented for differential geometry studies.”
+
+“I tried to develop an algebraic theory based on this K-stability as a background intuition, using algebraic geometry tools.” After a few years’ “gap,” he eventually came back to it because of conversations with his collaborator Chi Li, a professor of mathematics at Purdue University.
+
+“He had more of a differential geometry background and translated that concept into algebraic geometry,” says Xu. “That’s when I realized this was important to study. Since then, we have done more than we expected four or five years ago.”
+
+Together they published a highly cited paper in 2014 on the “K-stability of Fano varieties,” which put forward an entirely new theory in the field of birational algebraic geometry.
+
+It was representative of his approach to mathematics, which involves advancing new theories before tackling specific problems.
+
+“In my subject there are questions that everybody trying to solve, that have been open for 40 years,” Xu says. “I have those kinds of problems in my mind. My way of doing math is to go after the theory. Instead of working on one problem with techniques, we have to first develop the theory. We then see something in a new light. Every time I find some new theory, I test it on old classical problems to see if it works or not.”
+
+The beauty of math
+
+Growing up near Chengdu, in China’s Sichuan Province, Xu enjoyed math from a young age. “I attended some math Olympiads, and I did okay, but I wasn’t the gold medal winner,” he says with a laugh.
+
+He was talented enough, however, to earn bachelor’s and master’s degrees at Peking University, as a part of the premier math program in China.
+
+“After I got into college, I started to learn more advanced mathematics, and I found it very beautiful and very deep,” he says. “To me, a big chunk of mathematics is art more than science.”
+
+Toward the end of his time at Peking, he concentrated increasingly on algebraic geometry. “I just like geometry a lot and wanted to study some subject related to geometry,” he says. “I found that I’m good at the techniques of algebra. So using those techniques to study geometry fit me very well.”
+
+Xu then pursued a PhD at Princeton University, where his advisor, János Kollár, a leading algebraic geometer, had a “huge influence” on him.
+
+“What I learned from him, aside from many techniques, of course, was more about what I could call ‘taste,’” says Xu. “What questions are important in mathematics? In general, graduate students or postdocs in the early stages of their career need some role model to follow. Doing math is a complicated thing, and at some point there are choices they need to make,” he says, that require balancing how difficult or interesting a particular problem might be with more practical concerns about its tractability.
+
+In addition to Kollár’s mentorship, the unfamiliarity of his new surroundings also aided his research.
+
+“I had never been outside China before that point, so there was a bit of culture shock,” he recalls. “I didn’t know much about U.S. culture at the time. But in some sense that made me even more concentrated on my work.”
+
+After Xu received his doctorate in 2008, he spent three years as a postdoc and C.L.E. Moore Instructor at MIT. He then spent about six years as a professor at the Beijing International Center of Mathematical Research and then returned to MIT as a full professor of mathematics in 2018.
+
+Throughout those years, Xu demonstrated a talent for finding important questions to pursue, becoming a leading thinker in his field and making a series of major advances in algebraic birational geometry.
+
+In 2017, Xu won the inaugural Future Science Prize in Mathematics and Computer Science for his “fundamental contributions” to the field of birational geometry. Some of that field’s real-world applications include coding and robotics. For example, birational geometry techniques are used to help robots “see” by grouping a series of two-dimensional pictures together into something approximating a field of vision to navigate our three-dimensional world.
+
+Xu’s work to advance the minimal model program (MMP) — a key theory in birational geometry that was first articulated in the early 1980s — and apply it to algebraic varieties won him the 2019 New Horizons Prize for early-career achievement in mathematics. He has since proved a series of conjectures related to the MMP, expanding it to previously untested varieties of certain conditions.
+
+The theory of algebraic K-stability that he developed has proven to be fertile ground for new discoveries. “I’m still working on this topic, and it’s a particularly interesting question to me,” he says.
+
+Xu has been making progress on proving other key conjectures related to K-stability rooted in the minimal model program. Recently, he drew on that prior work to prove the existence of moduli space for Fano algebraic varieties. Now he’s hard at work developing a solution for a specific property of that moduli space: its “compactness.”
+
+“To solve that problem it will be very important,” he says. “I hope we can still solve the last piece of it. I’m pretty sure that would be my best work to date.”

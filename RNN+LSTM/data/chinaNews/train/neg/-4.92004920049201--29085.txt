@@ -1,0 +1,55 @@
+BERLIN (Reuters) - Britain’s decision on whether to allow Huawei to supply equipment for 5G mobile networks comes at a delicate time, with debate raging in European capitals over the security implications of reliance on Chinese technology.
+
+FILE PHOTO: A Huawei company logo at Shenzhen International Airport in Shenzhen, Guangdong province, China, July 22, 2019. REUTERS/Aly Song/File Photo
+
+In Germany, Chancellor Angela Merkel’s preference for applying the same rules to all equipment vendors faces growing resistance from lawmakers in her own party, who back U.S. calls to ban Huawei outright.
+
+Even as Britain prepares to quit the European Union, the finishing touches are still being put on a bloc-wide framework to address risks in networks that will become faster and more ubiquitous in the 5G era.
+
+Europe’s leading telecoms operators, who are all Huawei customers, are lobbying against an outright ban.
+
+At the same time, they are removing the Chinese company’s gear from the “core” of their networks. The core routes traffic and manages data and is thus more sensitive than the peripheral radio network.
+
+Here’s an explainer on the current state of play:
+
+GERMAN BACKLASH
+
+In Germany, lawmakers across party lines are challenging Merkel’s pragmatism. They agree with the Donald Trump administration’s arguments that Huawei can’t be trusted because it is beholden to the Chinese government. Huawei denies this.
+
+Merkel has called for a time-out on the domestic debate ahead of a March EU summit, reinforcing a feedback loop that Brussels sources say has already slowed efforts to reach a bloc-wide consensus and delayed the 5G framework, dubbed the toolbox.
+
+Concerns expressed by Germany’s powerful car industry that a Huawei ban could provoke trade retaliation from China - its largest export market - have influenced the thinking of Merkel and senior aides.
+
+WHAT’S AT STAKE?
+
+Operators Deutsche Telekom, Vodafone and Telefonica are all Huawei clients. They warn that replacing its kit could cost billions of euros, on top of heavy outlays for German 5G spectrum at auction last year.
+
+More broadly, Europe has emerged as a battleground in the technology ‘Cold War’ playing out between China and Washington. Huawei’s European competitors, Ericsson and Nokia, would become a supplier duopoly should the Chinese company be shut out.
+
+Huawei leads the global telecoms equipment market with a 28% share, according to U.S. consultancy Dell’Oro. Nokia is second on 16% and Ericsson third with 13%. Its share is higher in Europe and it is banned in the United States.
+
+WHAT ABOUT THE TOOLBOX?
+
+The proposed toolbox, due out this week, will create a framework to analyze and address network security but it will go only as far as making recommendations because EU rules stipulate that security policy is a matter for national governments.
+
+There would be no up-front bans, but European Commissioner Thierry Breton, of France, has made it clear - in a coded message to Huawei - that the EU will assert its status as a sovereign space when it comes to telecoms networks.
+
+EU countries should assess the risk profile of suppliers on a national or EU level and apply restrictions to high-risk suppliers including necessary exclusions to effectively mitigate risks for key assets, the draft document says.
+
+THE FRENCH EXCEPTION
+
+In France, market leader Orange, which is partly state owned, does not use Huawei for its domestic network. It does, however, rely on Huawei in Spain and Poland.
+
+Rivals Bouygues Telecom and Altice Europe’s SFR are both Huawei customers, which raises potential uncertainty as France prepares to sell 5G spectrum early this year.
+
+PRAGMATISTS AND SCEPTICS
+
+Across the EU, no government has yet imposed an outright ban on Huawei. Attitudes range from welcoming to sceptical, reflecting diverging risk perceptions and attitudes towards Washington and Beijing.
+
+At the friendly end of the spectrum, there has been scant debate in Spain about any risks that Huawei might pose. Hungary has welcomed Huawei, saying it sees no evidence to support U.S. claims about security risks.
+
+Among the sceptics, the Czech Republic’s cyber-security watchdog has issued a warning to all critical network companies, identifying risks of equipment from Chinese vendors Huawei and the smaller ZTE.
+
+Elsewhere, the Netherlands and Italy have talked about retroactive mechanisms for removing Chinese equipment should it be found wanting. Poland might impose stricter security requirements on elements of the network core that route traffic and handle sensitive information.
+
+Taken as a whole, Europe appears to lack the appetite for outright bans, and any consensus reached on a standards-based toolbox would represent a big win for Huawei. That would not, however, eliminate the risk that it is kicked out of individual markets at a later stage.

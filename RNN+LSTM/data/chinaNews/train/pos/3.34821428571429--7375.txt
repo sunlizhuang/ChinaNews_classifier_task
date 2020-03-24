@@ -1,0 +1,50 @@
+Last year OnePlus launched its first smartphone with a 90 Hz display. This year the company is going a step further and introducing a 120 Hz display that the company says is smoother, brighter, and offers a number of new features. This will likely be the display used in the OnePlus 8, or whatever the company’s next phone is called.
+
+Meanwhile, Chinese phone makers Nubia and Xiaomi are looking beyond 120 Hz — both companies have teased upcoming phones with 144 Hz displays.
+
+The Hz wars have been going on for a few years at this point — gaming hardware company Razer kicked things off when it launched the Razer Phone (with a 120 Hz display) in late 2017. At the time, it was the only smartphone to feature a display with a refresh rate higher than 60 Hz.
+
+At a time when it’s hard to make a phone stand out based on the processor, memory, storage, or screen resolution, many companies have followed suit and introduced displays that can refresh 90 times per second or more, resulting in more smoother animations, transitions, and other graphics.
+
+These screens do tend to consume more battery power than 60 Hz displays, which is why companies like Google (with its Pixel 4 series phones) have typically implemented software that adjusts the screen refresh rate automatically depending on a variety of factors in order to balance performance and power consumption.
+
+It’ll be interesting to see what impact, if any, the new displays have on battery life of OnePlus phones — the company says that not only does its new display support 120 Hz rates, it also supports up to 1000 nits of brightness, 10-bit color (for 1,024 shades of every primary color and over 1.07 billion total colors), and MEMC motion smoothing technology to allows videos that would normally play at 24 or 30 frames per second to run at 60 fps or 120 fps by inserting additional frames. That’s a technique that’s come under heavy criticism in the TV space, but it remains to be seen how it will look on phones.
+
+OnePlus says its new displays are a customized AMOLED screen developed in cooperation with Samsung Display and in addition to increasing the brightness and refresh rate, the touch sampling rate has been bumped up to 240 Hz.
+
+We have fewer details about the upcoming Nubia and Xiaomi displays, but Nubia president Ni Fei recently shared an image on Chinese social media site Weibo indicating that the upcoming Red Magic 5 gaming smartphone will supports 60 Hz, 90 Hz, and 120 Hz refresh rates.
+
+Meanwhile, Xiaomi has shared a demo video showing a Redmi K30 5G smartphone with video running at 36 fps, 72 fps, and 144 fps.
+
+via Weibo, GizmoChina, xda-developers, and The Verge
+
+Share this: Facebook
+
+Twitter
+
+Reddit
+
+Pocket
+
+Tumblr
+
+Pinterest
+
+LinkedIn
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

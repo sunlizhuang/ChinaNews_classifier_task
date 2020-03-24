@@ -1,0 +1,67 @@
+caption Medical worker in protective suit transports oxygen tank at Wuhan Red Cross Hospital in Wuhan, the epicenter of the novel coronavirus outbreak source Reuters
+
+A recent study of coronavirus patients in China suggested the outbreak may be tapering off.
+
+For the outbreak to burn out, the average patient needs to infect less than one other person. That’s not happening yet.
+
+For the latest case total, death toll, and travel information, see Business Insider’s live updates here.
+
+Visit Business Insider’s homepage for more stories.
+
+It has been more than seven weeks since the coronavirus outbreak started in Wuhan, China. Since then, at least 2,250 people have died and more than 76,000 have gotten sick.
+
+The virus’ continued spread prompts an obvious question: When will this end?
+
+A recent study from the Chinese Center for Disease Control found that illnesses in China may have peaked on February 1, when the largest number of patients started showing symptoms. That could be a sign that the outbreak is already tapering off, but the researchers also warned that it could rebound once Chinese residents return to school and work.
+
+“The data from China continue to show a decline in new confirmed cases,” Tedros Adhanom Ghebreyesus, the director-general of the World Health Organization, said at a press conference on Thursday. “We’re encouraged by this trend, but this is no time for complacency.”
+
+Lauren Ancel Meyers, an epidemiologist at the University of Texas at Austin, told Business Insider that one important figure can tell us when the outbreak has run its course. It’s the average number of people that a single patient is expected to infect. Epidemiologists call it the “basic reproduction number,” and it indicates how contagious a virus is.
+
+When the outbreak is winding down, Meyers said, the basic reproduction will be below one.
+
+“That means, on average, every person is infecting fewer than one other person and then the outbreak should burn out,” she said.
+
+That’s not the case yet. A recent study of nearly 140 hospitalized patients in Wuhan estimated that the basic reproduction number for the coronavirus is 2.2, meaning that patients have been spreading the virus to more than two other people, on average. A study in the Journal of Travel Medicine estimated that the reproduction number was slightly higher: around 3.3.
+
+The virus could be spreading further than we realize
+
+The daily number of new cases in China seems to be declining, but there are still plenty of opportunities for cases to go unreported.
+
+On February 13, the Hubei Health Commission reported a dramatic spike in cases – around 14,800 new cases in one day – after it started counting diagnoses made via CT scans. Before that, all cases were confirmed by lab tests. But a week later, Hubei returned to its original counting method and also subtracted patients that had been confirmed via CT scans but later tested negative for the coronavirus.
+
+Health experts still can’t pinpoint exactly how far the coronavirus has spread – or how transmissible it is.
+
+“We don’t know if people are infectious before they have symptoms, and we are not sure how infectious they are even while they have symptoms,” Meyers said. “Assuming that there is a relationship between the two, and that people are not hospitalized, not isolated for the first week of their symptomatic period, then that certainly is a key opportunity for onward transmission.”
+
+To curb that spreading, China imposed sweeping travel restrictions on roughly half the country, including a lockdown of around 50 million people in the Hubei province, which is home to Wuhan. Residents of Wuhan are required to wear masks in public and undergo temperature checks before entering supermarkets.
+
+But Meyers said a typical patient could be infected without showing symptoms for five or more days.
+
+Chinese doctors recently identified an asymptomatic woman from Wuhan who likely transmitted the virus to her family members.
+
+“If there is a significant fraction of cases that are mild, asymptomatic, or moderate and people don’t get sick enough that they end up going to the doctor or the hospital, those cases just may not make it onto the radar of public health agencies,” Meyers said.
+
+The Chinese CDC study identified less than 900 asymptomatic cases among more than 72,000 patient records, but that research, of course, only included people who visited a hospital.
+
+The study also found that around 80% of the coronavirus cases were mild, meaning patients might experience a fever or dry cough, but they weren’t likely to have difficulty breathing or develop a severe lung infection.
+
+There’s still time to contain the outbreak
+
+Meyers said current estimates of how contagious the virus is still rely on early data, so are likely to change.
+
+“As we go forward, given that global health organizations are on high alert and really trying to prevent and detect cases when they occur, we would expect that the reproduction number will be lower,” she said.
+
+But for now, Ghebreyesus said, countries should treat the virus like “public enemy number one.”
+
+“The window of opportunity remains open for us to contain this outbreak,” he said on Thursday. “This is the time to attack the virus while it is actually manageable.”
+
+That means funding screenings at airports, setting up facilities to isolate suspected patients, and stocking hospitals with protective equipment to prevent healthcare workers from getting sick.
+
+“This virus will be around for some time,” Ghebreyesus added.
+
+The fact that new deaths are still being reported each day is cause for concern, Meyers said.
+
+“I don’t think, based on the data we have, we can necessarily rest easy,” she said. “We are still trying to navigate a scenario with great uncertainty.”
+
+Read more about the coronavirus:

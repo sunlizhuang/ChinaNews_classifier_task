@@ -1,0 +1,29 @@
+LONDON and GUANGZHOU, China, Feb. 11, 2020 -- GOWIN Semiconductor Corporation, the world's fastest growing FPGA provider, will attend Embedded World 2020 on the 25th-27th of February in Nuremberg, Germany. This will be the first time GOWIN has had its own stand (Hall 4A Stand 362) at Embedded World to showcase and demonstrate our latest FPGA technology to the European market.
+
+
+
+Embedded World, held annually in Germany, is Europe's leading trade show for all embedded solutions and technologies. With over 1000 exhibitors, it is one of the world's largest fairs focussing exclusively on state-of-the-art embedded technologies for IoT and related market spaces.
+
+
+
+This year GOWIN will be showcasing and demonstrating its leading FPGA solutions including GW1NRF devices and modules, the world's first Bluetooth enabled FPGA ideal for IoT applications, our GoAI machine learning solution for Edge AI inference and our GW1NSE Secure FPGA device implementing Intrinsic ID's highly advanced and capable BroadKey software stack.
+
+
+
+"We are immensely proud to be exhibiting for the first time with our own stand at Embedded World," said Mike Furnival, Director of Sales and General Manager of GOWIN Semiconductor Europe. "It speaks volumes to the progress that we have made during the past year in terms of differentiated FPGA solutions. Whilst we continue to be the lowest cost provider of low and mid density FPGA devices, we have now emerged as one the most innovative in terms of advanced solutions in the marketplace, adding significant value to our customers and partners. Finally, we are very pleased that our Director of International Marketing, Grant Jennings, will present 2 papers during the forum."
+
+
+
+IoT and Edge computing will continue to be amongst the hottest topics at Embedded World 2020 and, as a result, we expect GOWIN's stand to be one of the most visited during the show. With such innovative solutions alongside our lowest cost LittleBee and Arora FPGA families featuring ARM processors and fast on-board Pseudo SRAM, we think there is a lot that we have to offer. GOWIN Semiconductor looks forward to welcoming all interested potential customers and partners to our booth in Hall 4A Stand 362.
+
+
+
+About GOWIN Semiconductor Corporation
+
+
+
+Founded in 2014, GOWIN Semiconductor Corp., headquartered with major R&D in China, has the vision to accelerate customer innovation worldwide with our programmable solutions. We focus on optimizing our products and removing barriers for customers using programmable logic devices. Our commitment to technology and quality enables customers to reduce the total cost of ownership from using FPGA on their production boards. Our offerings include a broad portfolio of programmable logic devices, design software, intellectual property (IP) cores, reference designs, and development kits. We strive to serve customers in the consumer, industrial, communication, medical, and automotive markets worldwide.
+
+
+
+For more information about GOWIN, please visit www.gowinsemi.com.

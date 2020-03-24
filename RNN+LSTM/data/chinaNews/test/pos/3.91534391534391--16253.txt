@@ -1,0 +1,33 @@
+In the lead up to the election, discussion focused quite squarely on a couple of topics – the NHS, national security, and, of course, Brexit. These are all important topics that have understandably pre-occupied the nation. But in my opinion, there’s another important topic that has been sidelined, and now that the victor has been decided it’s time for us to shift our attention towards it.
+
+Artificial Intelligence will have a role to play in helping the government deliver on its manifesto. The Conservative Party has made promises to strengthen Britain’s digital skills through the National Skills Fund, and by opening a further eight Institutes of technology. AI will no doubt feature heavily in both programs, in the hope of preparing Britain’s workforce for the digital skills economy of the future. But will it be enough to help us take the leading role in AI we deserve?
+
+About the author Toby Goldblatt is the Executive of AI and Data at Avanade.
+
+PwC says the technology has the potential to add $15.7 trillion to the global economy by 2030 . According to Vladimir Putin, the nation that leads on AI will rule the world . And he’s probably right. But it also has the potential to tear society apart: it threatens individual privacy; and it could perpetuate unconscious bias. It also has the potential to polarise the workforce, creating a divide between the digitally skilled and the automatable.
+
+Planning for AI
+
+It’s hardly surprising that other countries have been planning their approach to AI for years. In July 2017, China released its “Next Generation Artificial Intelligence Plan”, revealing its ambition to create an AI industry worth 1 trillion RM by 2030. Perhaps the most comprehensive of all, the plan involves a suite of initiatives that span R&D, talent development, regulations, ethics and security.
+
+Closer to home, France announced its own AI plan in 2018. Designed to strengthen the country’s overall AI ecosystem, the plan promised significant investment in tech startups as well as R&D. And while the US doesn’t have a coordinated plan on AI, thanks to the vigour with which the private sector has embraced it, the country has one of the highest AI adoption rates in the world.
+
+What about the UK? Money has certainly been invested, and developments have undoubtedly been made as they have already with other technologies such as cloud services. We have a thriving AI startup scene, which has produced the likes of Darktrace, Benevolent AI, Satalia, Babylon and of course the grand-daddy of them all, Deepmind. We have also invested in R&D, with the expansion the Alan Turing Institute and the launch of the Centre for Data Ethics and Innovation, and we host Europe’s largest AI focused event in CogX.
+
+But our adoption of AI in the public and private sectors is quite low (15% of companies consider themselves seasoned AI adopters, compared to 24% in the US ), and little planning has been done to help the workforce transition to a digital skills economy.
+
+AI deal
+
+In short, there is much still to be delivered under the AI Sector Deal. Now that the election has been decided, it’s time to go beyond the EU question and tackle topics with much further reaching, global implications. It’s time for the UK to build a thoughtful and cohesive AI strategy, especially when big data collection means we have the capacity to apply AI to online storage.
+
+This should be addressed in multiple ways, starting with a consultation of the ethical, environmental and social impacts of the technology. This should then be used to develop laws, regulations and standards to protect individuals as well as workers. These regulations should enhance citizen rights in areas like privacy, and provide a safety net for people at-risk of professional displacement as a result of AI technologies like robotics and automation.
+
+This will not be a one and done job. As the technology evolves, so to must the safeguards in place to ensure that AI is to the benefit of all, rather than a select few. There will be some central tenants to achieving this. These include building a workforce that is adequately equipped to use the technology, and adapting the educational curriculum. But it also means encouraging businesses to re-skill their workforce, and embracing appropriate immigration. Of course, Brexit has the potential to impact these efforts and we should be prepared to look further afield than just Europe in attracting AI talent.
+
+Next steps
+
+The next step will be to encourage the public and private sectors to actually use the suite of technologies that make up AI, to increase productivity and become more competitive on the world stage. This means reviewing the public services (including government and parliament) to see how they could be modernised, with a particular focus on citizen experience and employee experience. And it also means encouraging the private sector to innovate their own business models to improve their operational efficiency.
+
+The time to take action is now. The UK should undertake a broad and ambitious consultation on these points, leveraging expertise from industry; technology service providers; public sector and employee and citizen groups. Avanade already has AI team members engaged in similar, but more tactical exercises with the European Commission and UK Parliamentary groups, and we would be keen to see these extended.
+
+There is no shortage of opinion on the impact of AI, both for and against. What we’re missing is a structured and fact-based plan to help the UK become a leader in AI for the next 100 years.

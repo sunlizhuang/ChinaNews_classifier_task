@@ -1,0 +1,21 @@
+Huawei P Smart 2019 Starts Receiving Android 10-Based EMUI Firmware Update News oi-Sandeep Sarkar
+
+Another Huawei smartphone has received the latest Android 10 update. Following the Huawei Y9 Prime 2019, the Chinese brand has released the update for the P Smart 2019. The update is based on EMUI 10 and brings all the goodies of the latest Android OS to the smartphone.
+
+The Huawei P Smart 2019 Android update comes with EMUI 10.0.0.158 (C185E3R1P3) firmware build. Notably, the update is being rolled to the users in global markets as an OTA (Over-the-air). It weighs around 3.93GB in size and can also be downloaded manually.
+
+The check for the latest Android version manually, you will need to head to the Software Update section which you can locate in the System & updates tab in the Settings menu. Also, the update is said to be rolling out in batches and it could take a while for the mass rollout to complete.
+
+What's New In The Changelog?
+
+The primary change which you will notice following the update is the new UI. The Android 10-based EMUI skin brings along some key features like a system-wide dark theme, new smart reply features, and Live caption. It also introduces new gesture-based navigation. Besides, it optimizes the overall system stability for improved user experience.
+
+Huawei P Smart 2019 Hardware And Software Details
+
+The Huawei P Smart 2019 is a mid-range offering using an in-house HiSilicon Kirin 710 chipset clubbed with Mali-G51 MP4 GPU, 3GB RAM and 64GB expandable storage. The photography department is taken care of by a 13MP primary RGB sensor with an f/2.2 aperture and a 2MP depth sensor.
+
+The handset accommodates a 6.21-inch LCD display with 1080 x 2340 pixels FHD+ resolution. There is a waterdrop notch packing an 8MP selfie shooter. The handset runs on a 3,400 mAh battery with 10W fast charging support.
+
+via
+
+Best Mobiles in India

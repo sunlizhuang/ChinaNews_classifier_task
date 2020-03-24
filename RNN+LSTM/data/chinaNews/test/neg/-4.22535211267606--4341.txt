@@ -1,0 +1,35 @@
+Browsers are used by nearly everyone with a smartphone or computer. As such, that makes them ideal targets for hackers and cybercriminals who want to hit the maximum number of victims at once. In fact, it’s such a problem that websites are now required to show whether connections are secure by default.
+
+Thankfully, most browsers receive frequent updates to keep users ahead of the cybersecurity curve. It’s to the point where missing an update can put you at risk for data breaches or worse. Tap or click here to see how one Google Chrome flaw lets hackers take over your computer.
+
+And now, one of the world’s most secure browsers is facing security flaws of its own. Researchers discovered a critical glitch that allows hackers to crash your computer remotely. If you use this browser and choose not to update, your entire system is at risk. Here’s how to stay safe.
+
+Mozilla Firefox is under attack (and has been for some time)
+
+Mozilla, the acclaimed developers behind the popular Firefox browser, recently posted a browser update outlining an exclusive cybersecurity threat targeting its users.
+
+This flaw can allow attackers to create “type confusion” in the browser, which means its system will improperly record or read memory on your computer. This can lead to outcomes like computer crashes, memory issues or worst of all: Hackers accessing your system.
+
+The flaw was discovered by China-based researchers at Qihoo 360, who quietly reported the flaw to Mozilla. This isn’t uncommon for zero-day glitches. By holding back information from the public, companies can prevent hackers from learning about flaws and exploiting them.
+
+Tap or click to learn how Google secretly helped Apple with a zero-day glitch.
+
+Unfortunately, this particular issue seems to already be exposed. Mozilla explained this issue was confirmed to have been previously “exploited in the wild,” which means hackers may have already compromised vulnerable users. Updating immediately is the easiest way to stay safe.
+
+Am I at risk? How do I update?
+
+Mozilla users who are not up to date face the biggest risk from this security flaw. We’ve previously recommended Firefox as one of the safest and most secure browsers around — and the fact Mozilla was quick to recognize the problem and release a quick update does deserve credit.
+
+Hackers and cybercriminals work quickly, and even the most covert zero-day fix can sometimes be late to the party if the bad guys get a head start. This is yet another reason we recommend automatic or frequent updates on apps and operating systems whenever possible.
+
+Tap or click to learn how to never forget a critical update again.
+
+Updating Firefox is easy, regardless of which system you use. Here’s how to do it:
+
+For PC users, click on the three line icon in the upper right corner of the browser and select Help, followed by About Firefox. If an update is available, you’ll see it on this screen. If not, your browser is already up to date.
+
+On a Mac, click on Firefox in the menu bar and select About Firefox. You’ll see available updates on this page.
+
+If you happen to use the mobile version of Firefox, open your device’s respective app store and search for Firefox. The download page will show an update is available if your device hasn’t already updated this app.
+
+As annoying as it can be to stay current, the peace of mind you get from updating is its own reward. Don’t fall behind if you can help it.

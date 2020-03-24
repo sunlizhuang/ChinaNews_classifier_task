@@ -1,0 +1,57 @@
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+Introduction
+
+Based on an announcement of the China Securities Regulatory Commission (CSRC) on October 11, 2019, foreign shareholding restrictions in futures companies have been fully lifted since January 1, 2020, ahead of the full lifting of foreign shareholding restrictions in fund management companies, which will take effect on April 1, 2020, and in securities companies, which will take effect on December 1, 2020. This is another important step in China's further opening-up of its financial services industry to foreign investment.
+
+Foreign investment into futures companies in China had been subject to foreign ownership restrictions since it was first opened to foreign investment over ten years ago. We summarize below the major steps in the gradual regulatory relaxation in this sector:
+
+Foreign investors were first allowed to invest into Chinese futures company in 2005 under CEPA (i.e. Closer Economic Partnership Arrangement). Only Hong Kong-qualified and Macau-qualified service providers were eligible to make the investment and the foreign shareholding was limited at 49 percent maximum.
+
+In 2014, upon the promulgation of the Measures for the Supervision and Administration of Futures Companies, the scope of qualified foreign investors was expanded to include foreign investors from countries/regions which had entered into regulatory cooperation memorandums (Cooperation Memo) with CSRC. According to the list disclosed on CSRC's website (http://www.csrc.gov.cn/pub/newsite/gjb/jghz/201906/t20190628_358319.html), CSRC had, as of June 2019, entered into Cooperation Memos with around 70 countries/regions worldwide, including most of the developed countries, e.g. UK, USA, Australia and Canada.
+
+China was committed to increase the foreign shareholding limit in futures companies to 51 percent following a meeting between the presidents of China and the US in 2017. The Administrative Measures on Foreign-invested Futures Companies were later promulgated in August 2018, which was the first piece of legislation specifically regulating foreign investment in futures companies.
+
+It was provided in the 2018 edition of the Special Administrative Measures for the Market Entry of Foreign Investment that foreign shareholding restrictions in futures companies would be fully lifted in 2021.
+
+In July 2019, the Office of the Financial Stability and Development Committee under the State Council announced a set of 11 measures to accelerate the opening-up of China's financial services market, pursuant to which the timetable for the full lifting of foreign shareholding restrictions in futures companies was advanced to 2020 without specifying an exact date.
+
+The CSRC announcement in October (as mentioned at the beginning of the article) specified the exact date from when the foreign shareholding restrictions in futures companies would be fully lifted.
+
+We note from the information publicly available, there have been only three foreign-direct-invested futures companies in China, including Galaxy Futures with RBS Asia holding 16.68 percent equity interest1, CITIC Futures with Newedge ever holding 42 percent equity interest (but exited in 2014) and JP Morgan Futures with JP Morgan holding 49 percent equity interest.
+
+It seems that even though foreign investment in Chinese futures companies has been permitted for more than ten years, it has not gained much traction in the eyes of foreign investors. There may be several reasons for this, but the fact that China's futures market is largely an underdeveloped and isolated national market and the business activities of futures companies are tightly restricted have obviously had an impact.
+
+To implement the Chinese government's commitment to further opening up China's financial services markets, efforts have been taken to develop and vitalize China's futures market in recent years, including expanding the range of products available to both domestic and foreign investors, enlarging foreign investors' access to the Chinese market and enhancing the legal regime governing this sector. More changes are expected.
+
+Making more futures products available in the market
+
+At the 15th China (Shenzhen) International Derivatives Forum held on November 30 and December 1, 2019, Mr. Fang Xinghai (vice president of CSRC) gave a speech in which he mentioned the achievements of China's futures market in recent years and outlined the focus of the future steps. According to this speech, by end of 2019, there will be 75 listed products available in China's futures market, including 14 new products (e.g. CSI 300 index options) listed in 2019, being the most in a single year. In addition, normal trading of stock index futures, which was sharply down due to the market crash in 2015, has been in revival. According to Mr Fang Xinghai, by the end of October, the aggregate volume of futures transactions in 2019 reached 3.185 billion Lots with a total transaction value of approx. RMB235 trillion, representing a year-on-year increase of 30 percent and 37.4 percent respectively.
+
+Making more products available to foreign investors
+
+Among the over 70 futures products in the China market, four special types of products are now available to foreign investors, including crude oil, iron ore, purified terephthalic acid (PTA) and technically specified rubber (TSR) 20, through the Shanghai International Energy Exchange, Dalian Futures Exchange and Zhengzhou Commodity Exchange.
+
+In addition to allowing foreign qualified traders to trade futures products directly, qualified foreign institutional investors (QFII) have been permitted to trade stock index futures but for hedging purpose only. In February 2019, CSRC published draft Administrative Measures on Domestic Securities and Futures Investment by Qualified Foreign Institutional Investors and Renminbi Qualified Foreign Institutional Investors (RQFII) and its draft implementation rules. According to these draft rules, QFIIs' and RQFIIs' scope of investment in derivatives will be expanded to include, amongst others, financial futures and commodity futures whilst the exact types of products will be subject to suggestions from the exchanges and approval by CSRC. This is received by the market as a positive sign to further vitalize China's futures market.
+
+Making reforms to the rules governing Chinese futures companies
+
+China has 149 futures companies, which, according to Mr. Fang Xinghai, have some common issues in capital strength, professional capability, service quality and talent reserve and, generally speaking, lack profit-making capability. In order to better regulate the futures companies in light of these issues, CSRC has taken efforts to enhance the legal regime governing futures companies. In February 2019, CSRC issued the Measures on the Classified Supervision and Administration of Futures Companies (to replace the 2009 version), which provide for optimized regulatory indicators and assessment procedures aimed at the compliant operation and steady development of futures companies. In June 2019, CSRC issued the amended Measures for the Supervision and Administration of Futures Companies setting out stricter qualification requirements on the controlling/largest shareholders and more stringent obligations on the shareholders generally, than those in the 2014 version of the measures.
+
+According to Mr. Fang Xinghai, the consultation on the draft Futures Law with the State Council has finished and the draft has now entered the legislative process at the National People's Congress. In addition to being the overarching legislation governing the futures sector in China, the market expects the Futures Law to introduce important reforms: for instance, permitting futures companies to conduct proprietary business in the future, which is now expressly prohibited under the Regulations on the Administration of Futures Transactions (2017 Revision) issued by the State Council.
+
+Potential opening-up of overseas futures brokerage business to Chinese futures companies
+
+Article 17 of the Regulations on the Administration of Futures Transactions (2017 Revision) provides that in addition to domestic futures brokerage business, a futures company may also apply for approval to engage in overseas futures brokerage business. However, in practice, Chinese futures companies may only conduct onshore futures brokerage and advisory business and CSRC does not accept applications for conducting overseas futures brokerage.
+
+We understand from a press release issued in September 2011 that three domestic futures companies (i.e. China International Futures, COFCO Futures and Yong'An Futures) were approved by CSRC to prepare for participation in a pilot program allowing Chinese futures brokers to conduct overseas futures brokerage businesses. According to a media interview with a senior officer at China International Futures at that time, the first step of the pilot program, once it is officially launched, would allow Chinese futures brokers to trade overseas commodities futures and related derivatives (but not financial futures). It appears that this pilot program has not yet been launched.
+
+Mr. Fang Xinghai mentioned in his speech that Chinese futures companies should improve their ability to provide cross-border services to Chinese entities as the latter have been more and more involved in cross-border transactions (e.g. "Belt and Road" projects) and are in need of services from futures companies. This indicates that Chinese futures companies may potentially be permitted to apply for approval to conduct overseas brokerage business for their Chinese clients in the future. This would enable Chinese futures companies to enlarge their offering to Chinese clients, but in the meantime, also present great challenges to the industry due to the demand of talents with the right experience and expertise. Collaboration with foreign counterparts by one way or another may be an option for Chinese futures companies to cope with these challenges.
+
+It seems that Chinese regulatory authorities are determined to boost China's futures market. Benefitting from foreign investors' expertise in this area is no doubt one of the main reasons driving the full lifting of foreign shareholding restrictions in the futures companies in China. It is hoped that Chinese regulators' ongoing and future reforms in this sector will make it an interesting target of investment by foreign investors.
+
+Footnote
+
+1 According to public information, the two shareholders of Galaxy Futures entered into equity transfer agreement dated November 21, 2018, under which RBS Asia Futures Limited would transfer all its equity interest in Galaxy Futures to China Galaxy Securities Co., Ltd. http://cdn.chinastock.com.cn/doc/pdf/gsgg/6503566.pdf. However, according to the official website of Galaxy Futures as at the date hereof, RBS Asia remains a shareholder holding approx. 16 percent equity interest in Galaxy Futures.

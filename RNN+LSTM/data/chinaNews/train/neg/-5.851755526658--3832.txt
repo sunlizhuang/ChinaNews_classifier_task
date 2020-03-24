@@ -1,0 +1,67 @@
+The US will start screening at three airports for passengers with the mysterious, new virus originating in Wuhan, China that’s caused three deaths and nearly 200 people to fall sick with pneumonia.
+
+On Friday, the Centers for Disease Control and Prevention (CDC) and the Department of Homeland Security’s Customs and Border Protection announced the new measure, which will begin on January 17. Travelers from Wuhan to three US airports — San Francisco (SFO), New York (JFK), and Los Angeles (LAX) airports — will be screened for symptoms, such as cough and fever.
+
+“I expect that we’re going to see more cases, and I think it’s highly plausible that there will be at least a case in the United States,” said Nancy Messonnier, director of CDC’s National Center for Immunization and Respiratory Diseases in a press briefing Friday.
+
+Following the move, Wuhan’s health authorities reported a spike in illness — 136 additional cases over the weekend, as well as a third death. And already, cases have popped up in travelers from Wuhan to Japan, Thailand, and Korea — as well as two major Chinese cities, Beijing and Shenzhen.
+
+The big question the growing caseload and these travelers raise — arguably the most important question about this outbreak — is whether the virus is spreading from person to person.
+
+So far, a leading theory has been that the virus, called 2019-nCoV, spread directly to people from animals at a Wuhan food market, which has been linked to some of the cases in the outbreak. If that’s true, and 2019-nCoV isn’t yet spreading from person to person, the outbreak should burn out quickly. (Once the animal shedding the virus is identified and contained, cases should stop turning up.)
+
+But evidence is piling up to suggest the virus may already be spreading among humans. Several of the travelers never visited the market. Wuhan officials have also reported evidence of viral spread within one family: a husband who worked at the market got sick, followed by his wife, who hadn’t visited the market. Just the fact that travelers with the virus are showing up in other countries hints at at least some person-to-person spread, Neil Ferguson, an infectious diseases epidemiologist at Imperial College London, told the BBC.
+
+If that’s the case, “the scope of this outbreak expands massively,” said Peter Daszak, the president of EcoHealth Alliance, a US global health research organization working in China. In the worst case, the virus could already be moving more broadly in China — and maybe further. That risk appears to be heightened as millions start to travel this week for China’s Lunar New Year on January 25th.
+
+At least four people have traveled with the virus outside of China
+
+Because health authorities are dealing with a new virus, the picture of this outbreak — and its seriousness — is shifting rapidly, and will continue to do so in the coming days.
+
+The outbreak was only declared on December 31. By January 9, the state broadcaster China Central Television reported that 15 of the people who had become ill tested positive for the new virus. By January 11, scientists in China shared the genetic sequence of the new virus, and the WHO applauded China’s efforts.
+
+“WHO is reassured of the quality of the ongoing investigations and the response measures implemented in Wuhan, and the commitment to share information regularly,” the agency said in a statement.
+
+This was also a contrast to the SARS outbreak of 2003, when China was heavily criticized for withholding information about the outbreak for too long.
+
+But other aspects of the outbreak bear a startling resemblance to SARS, which also involved a then-new virus when it was discovered in 2003. The virus jumped from civet cats — a food delicacy in China — to humans, and went on to spread to two dozen countries. It eventually killed 774 people and infected more than 8,000.
+
+For now, the current outbreak has centered on the the Huanan South China Seafood Market in Wuhan, the capital of Hubei, one of China’s most populous provinces. Health officials in Wuhan originally reported that the patients with the virus so far were “mainly business staff and purchasers” at the Huanan South China Seafood Market, where vendors peddle seafood as well as animals such as birds and rabbits. This pointed to the possibility that the new virus had spread to humans from one of the animals there.
+
+But the recent spike in cases, along with the growing number of travelers detected with the virus, mean something else may be going on.
+
+On Monday, South Korea reported its first case of the virus — and the fourth example of international spread — in a 35-year-old woman who traveled from Wuhan. She never visited markets or had contact with animals, WHO reported.
+
+Before that, a Chinese man in his 30s was diagnosed with the virus upon returning to Tokyo, where he lives. He’d also visited Wuhan, the mainland Chinese city of 19 million that’s currently the center of the outbreak, according to Japan’s Ministry of Health.
+
+The other two cases were identified in Thailand. The first involved a 61-year-old Chinese woman, who had traveled to Bangkok from Wuhan. She came down with a fever on January 5, days before Chinese officials announced their finding that the outbreak is likely caused by a new coronavirus, of the same family of viruses as SARS. The second, also a Chinese woman, aged 74, arrived in Thailand on January 13, and had no relation to the first visitor who fell ill.
+
+These developments caused the WHO to acknowledge on January 18th that “there is evidence of limited human-to-human transmission.”
+
+Three patient deaths mark this virus “a significant concern”
+
+As of January 19, authorities in China have reported 198 patients with the coronavirus infection. Among them, 170 are still in the hospital, 126 have mild illness, and 44 are in severe or critical condition. Three patients have died. All cases involve adults aged 25 to 89, and about half are male.
+
+The leading hypothesis is that the disease is the result of the new coronavirus, 2019-nCoV. Coronaviruses attack the respiratory system and can target the cells deep within the lungs. “There are tons of coronaviruses,” said Vincent Munster, an emerging viral diseases researcher at the National Institute of Allergy and Infectious Diseases.
+
+Most infect mammals, including bats. Two of the six that are known to infect humans, SARS and MERS, can cause severe pneumonia and even death. The rest lead to milder symptoms, like a common cold.
+
+In the current outbreak, the main symptoms reported are fever followed by difficulty breathing, the WHO said. In chest X-rays, patients appear to have lesions in both lungs. But a preliminary genetic analysis of the 2019-nCoV virus, by Daszak’s EcoHealth Alliance, found it’s closely related to SARS. It, along with the three deaths, “marks this virus as a significant concern,” said Daszak.
+
+Big questions remain
+
+Researchers will need to confirm that this new virus is without a doubt the driver of the outbreak, said Marion Koopmans, who studies emerging infectious diseases as director of the virology department at Erasmus Medical Center in Rotterdam. They’ll then need to figure out the full spectrum of illness the virus causes in the confirmed cases.
+
+“If [the new virus] is indeed the likely cause, and seeded at the market, a key question is how transmissible this is,” Koopmans said. Viruses that spill over from animals may not be very transmissible “if they sit deep in the lungs and are not shed easily,” she added. That would mean, Munster said, “the epidemic potential of this virus might still be limited.”
+
+But, again, the Japan, Thailand, and Korea cases — along with the potential family spread in Wuhan — suggest the possibility for human-to-human viral transmission.
+
+Health officials would also need to find out which animal is spreading the virus to humans — the “natural reservoir” of the virus — and how the virus made the jump, and then make sure that animal is contained.
+
+“We don’t know where the virus came from,” Daszak said. “We don’t know the geographic origin of the wildlife reservoir. And it’s now known to be lethal.”
+
+At the moment, the WHO is not recommending any measures for travelers, nor is it advising against travel or trade restrictions on China, even on the cusp of China’s Lunar New Year holiday, during which hundreds of millions of people are expected to travel. (A new study found the top travel destinations out of Wuhan are Asian megacities, including Bangkok, Hong Kong, Tokyo, and Taipei.)
+
+The CDC in the US has stated that “the risk from 2019-nCoV to the American public is deemed to be low.” They’ve said the new airport screening is a precautionary measure. The market that’s been linked to the outbreak has been closed for disinfection, and health investigators are have tracked at least 800 close contacts of the patients.
+
+With the first cases turning up outside of China, the WHO said it was considering organizing an emergency committee meeting. If such a meeting is called, a panel of independent experts would discuss whether the outbreak is dire enough to constitute a “public health emergency of international concern,” a rare designation the WHO gives to diseases that pose a global threat.

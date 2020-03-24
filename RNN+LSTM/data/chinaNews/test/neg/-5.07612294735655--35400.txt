@@ -1,0 +1,91 @@
+How the virus with an R0 of two spreads. Picture: The Conversation
+
+How the virus with an R0 of two spreads. Picture: The Conversation
+
+There are fears the deadly Wuhan coronavirus has already infected at least 40,000 people as public health authorities struggle to predict an accurate contagion rate.
+
+Researchers determine how quickly a virus will spread through a population by calculating a reproductive number known as an R0.
+
+The R0 (R naught) represents how many people an infected individual will transmit the virus to others.
+
+In the past week, multiple epidemiology teams have published estimates ranging from 1.4 to 5.5, making it difficult to get a clear picture of how contagious it really is.
+
+So far the World Health Organisation (WHO) has played it safe, going with an average of between 1.4 and 2.5.
+
+That would make 2019-nCoV less contagious than SARS (severe acute respiratory syndrome), which had an average R0 of 3 and infected more than 8000 people, 774 of whom died.
+
+In comparison, seasonal flu affects millions each year but has an R0 of just 1.3. The R0 rate for measles ranges from 12 to 18.
+
+With confirmation today of human-to-human transmission occurring outside China - with a case each in Japan and Germany - the WHO is under increasing pressure to declare a public health emergency of international concern.
+
+I again reiterated on air (for 5th time) for our demand for @WHO to declare a global emergency 🚨 for #coronavirus’s potential of pandemic, on @CBCNews @PnPCBC. I also maybe fact-checked Canadian health minister’s incorrect claim that nCov🦠 can’t spread before symptoms. It can! pic.twitter.com/WDrn9LGkSa — Dr. Eric Feigl-Ding (@DrEricDing) January 29, 2020
+
+The incubation period of between one and 14 days - during which time the carrier may show no outward symptoms - means the number of people exposed to 2019-nCoV before it was officially identified remains unknown.
+
+China has confirmed more than 6000 cases and a further 9000 more are believed to have contracted the virus, which has been sourced to a market in the southern city of Wuhan. The official death toll has risen to 132.
+
+But according to researchers at Northeastern University in the US, the actual number, including those not yet detected, is likely to be more than 25,000. Estimates from the University of Hong Kong are even more alarming at 40,000.
+
+Initially, it was believed infected people were not contagious until they began exhibiting symptoms, such as fever, respiratory problems and pneumonia.
+
+On Sunday, Chinese authorities issued a warning stating the opposite was true. Despite this, both US and Canadian authorities have continued to insist there was no evidence asymptomatic people could spread the disease.
+
+Chief Medical Officer Professor Brendan Murphy and Prime Minister Scott Morrison announce Australians will be evacuated from Wuhan and shipped to Christmas Island. Picture: AAP
+
+Students head back to school in Chatswood, Sydney on Wednesday. Those recently returned from China have been asked to stay at home for two weeks. Picture: Jenny Evans/Getty Images
+
+On Wednesday, details emerged of the first two cases of human-to-human transmission of 2019-nCoV outside China.
+
+Two people, one in Germany and one in Japan, contracted the virus even though they had not travelled to China. They were infected by virus from visitors from the Wuhan region.
+
+One of them is a Japanese tour bus driver in his 60s who had driven two groups of Chinese tourists from Wuhan earlier this month. ​
+
+He was diagnosed with pneumonia on Saturday and has now been hospitalised, authorities said.
+
+In Germany, a man is believed to have been infected by a Chinese colleague who visited his workplace.
+
+As more cases of human-to human transmission outside of China come to light, the R0 for 2019-nCoV is likely to increase. However, it's an inexact science, some patients may infect many people, while others infect only a few.
+
+"On its own, it isn't a reason to panic," Maimuna Majumder, a researcher at Harvard University and at Boston Children's Hospital, told AFP.
+
+She said the rate is 1.3 for seasonal flu (which has millions of cases per year) and between two and five for SARS, which resulted in 8,000 cases and 774 deaths, the majority in mainland China and Hong Kong, in 2002-2003. In comparison, the rate for measles ranges from 12 to 18.
+
+How a virus with an R0 of two spreads. Picture: The Conversation
+
+Quarantines and isolation measures, handwashing and masks could help drive down the average number of infected people. If the rate falls below one, the epidemic will die down.
+
+But the effect of the control measures China has implemented won't be felt for another week or two, researchers say, based on the virus's cycle.
+
+"The more we learn about it, the more it looks like SARS," University of Toronto professor David Fisman said.
+
+"SARS was controllable; hopefully this will be too. But we won't know for a few weeks.
+
+"It's going to be many weeks, probably months, and nobody knows where this will go."
+
+Prof Fisman, who wrote an analysis of the virus for the International Society for Infectious Diseases, said the best case scenario would be for the virus to die down after the summer months.
+
+But there are indications the 2019-nCoV is spreading outside of China's quarantined areas just as effectively as it has within them.
+
+"Two things really stuck out in #WuhanCoronavirus case data today," Reuters China correspondent Cate Cadell tweeted.
+
+"There was a huge jump in Hubei cases, perhaps indicating new testing resources on the ground (and) rates of new cases outside the Hubei 'quarantine' are growing just as fast."
+
+Two things really stuck out in #WuhanCoronovirus case data from China today.
+
+1. There was a huge jump in Hubei cases, perhaps indicating new testing resources on the ground
+
+2. Rates of new cases outside the Hubei "quarantine" are growing just as fast pic.twitter.com/VlWAXEX7io — Cate Cadell (@catecadell) January 28, 2020
+
+"It's easy to get to twice or three times as much, even just in the city of Wuhan," Northeastern University professor Alessandro Vespignani said.
+
+"If we start to have other larger areas affected, then those numbers are going to be much, much bigger.
+
+"It's not something that's going to end the next week or the next month."
+
+5) CONFLICTING R0 NUMBERS: Lots of conflicting reports of Wuhan #coronarovirus R0 (reproductive number) — not all the R0 estimates are the same! The @MRC_Outbreak’s R0=2.6 is the most reliable since they used WHO data as @WHO research center. Most other used generic online data. — Dr. Eric Feigl-Ding (@DrEricDing) January 27, 2020
+
+But the effect of the control measures China has implemented won't be felt for another week or two, researchers say, based on the virus's cycle.
+
+The mortality rate, until now, has hovered around three per cent, but such rates have a tendency to fluctuate: they increase at the beginning as the most vulnerable patients die, then drop, and then rise again as others die.
+
+With AFP

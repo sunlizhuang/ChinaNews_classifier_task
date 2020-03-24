@@ -1,0 +1,29 @@
+Washington — The Department of Justice unveiled charges against four members of China's military for allegedly hacking into the credit agency Equifax and stealing the personal information of millions of Americans in 2017
+
+"This was one of the largest data breaches in history," Attorney General William Barr said at a press conference on Monday. "The scale of the theft was staggering. As alleged in the indictment, the hackers obtained the names, birth dates and Social Security numbers of nearly 145 million Americans, and the drivers licenses of at least 10 million Americans."
+
+The four charged are Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei, all of whom are members of the 54th Research Institute, a component of China's People's Liberation Army, prosecutors said. A federal grand jury in Atlanta returned the nine-count indictment on charges of computer fraud, economic espionage and wire fraud. The men have not been taken into custody and are considered wanted by the FBI.
+
+"This is the largest theft of sensitive [personally identifiable information] by state-sponsored hackers ever recorded," FBI Deputy Director David Bowdich said. "This indictment is also a reminder that with their attacks on our economy, our cyber infrastructure and our citizens, China is one of the most significant threats to our national security today."
+
+Bowdich said there is no evidence that the stolen personal information of millions of Americans is being used, but acknowledged it could be in the future. Equifax settled a class action lawsuit over the breach for more than $700 million in 2019.
+
+In the indictment, prosecutors said the hackers exploited a vulnerability in a portal on Equifax's website to steal login credentials used to gain access to databases on the company's network. Once inside the network, the hackers ran searches of databases to identify personal information, storing the results in files that were split into smaller pieces to download more efficiently.
+
+The indictment says the hackers used 34 servers in 20 countries to access the Equifax network and used existing encrypted communication channels to "blend in with normal network activity."
+
+The hackers first gained access to the portal in May 2017 and continued to steal information from Equifax's databases until the end of July, according to the indictment. The theft amounted to economic espionage and theft of trade secrets, prosecutors said.
+
+"The hackers also stole Equifax's trade secrets, embodied by the compiled data and complex database designs used to store the personal information," Barr said. "Those trade secrets were the product of decades of investment and hard work by the company."
+
+The attorney general said the Equifax case is consistent with China's "voracious appetite" for personal data about Americans in recent years. He also said it is part of a much broader campaign to steal intellectual property from American businesses through "state-sponsored computer intrusions."
+
+"About 80% of our economic espionage prosecutions have implicated the Chinese government, and about 60% of all trade secret theft cases in recent years involved some connection to China," Barr said.
+
+The Trump administration has raised the alarm about the data security practices of Chinese companies, particularly the massive telecom company Huawei. The administration effectively cut off Huawei's access to U.S. markets in 2019, saying the company posed a security risk because it could be forced to cooperate with surveillance orders by the Chinese government. Last month, the U.K. disregarded those warnings and announced that Huawei would provide equipment for 5G networks in the country, raising concerns about intelligence-sharing between the U.S. and Britain.
+
+At a conference in Washington last week, Barr hinted at upcoming indictments targeting state-sponsored cyberattacks from China and warned against the danger posed by economic espionage. FBI Director Christopher Wray said the bureau "has about 1,000 investigations involving China's attempted theft of U.S.-based technology in all 56 of our field offices, and spanning just about every industry and sector."
+
+On Monday, Barr acknowledged that the U.S. does "not normally bring criminal charges against the members of another country's military or intelligence services outside the United States," but said the "indiscriminate theft" of information about private citizens would not be tolerated.
+
+In 2014, then-Attorney General Eric Holder announced indictments against five Chinese military hackers for stealing trade secrets of six American companies in the nuclear power, metal and solar industries. Those charges were the first the department ever brought against state-sponsored actors for hacking crimes.

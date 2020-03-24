@@ -1,0 +1,43 @@
+The new coronavirus, as imaged by an electron microscope Zhu et al/NEJM © 2020, Massachusetts Medical Society
+
+The new coronavirus may be about to go global. Speaking at a press conference earlier this week, Gabriel Leung at the University of Hong Kong said that without “substantial, draconian measures limiting population mobility” – even greater than the unprecedented transportation shutdown that China has already imposed – epidemics outside China “may become inevitable”.
+
+Coronavirus facts: Listen to our podcast about the new coronavirus outbreak
+
+It could be too late. Leung and other epidemiologists calculate that there are far more cases in China than doctors have diagnosed, and by next week there may be 200,000. Computer models suggest that, as with flu, Ebola and SARS, travel restrictions may have little impact.
+
+One epidemiologist, however, thinks there may be hope in the variable way the virus is thought to spread, based on its close relatives SARS and MERS.
+
+Advertisement
+
+Case numbers underestimated
+
+Officially confirmed cases of the virus climbed to 5974 cases today, in 31 of China’s 33 provinces, up from 291 in three provinces a week ago. But that is likely to be a massive underestimate.
+
+Several research groups have used computer modelling to calculate a factor called the R0, the average number of people who catch the virus from each infected person, at between two and four. Data from clusters of cases also makes it possible to calculate the “generation” time that it takes an infected person to start transmitting the virus at eight days.
+
+But plugging those numbers into standard epidemic models reveals that something doesn’t fit, says David Fisman at the University of Toronto in Canada. “Cases, R0 or generation time have to be wrong,” he says.
+
+He thinks case numbers are too low, because it took doctors time to learn to diagnose the disease. He suspects that the explosive rise in cases of recent days is mostly due to improved case finding and diagnosis. Moreover, people with milder symptoms who don’t go to hospital and get tested may still add to the epidemic by transmitting the virus.
+
+Death rate still unknown
+
+Other epidemic modellers suspect that a large number of cases have been missed. Leung told journalists this week that there are probably 25,000 sick and another 19,000 incubating the virus just in Wuhan, the origin of the outbreak. By comparison, MERS has caused only 2499 cases since it emerged in 2012, and SARS sickened 8000 in its global rampage in 2003.
+
+SARS killed 11 per cent of cases, and so far the Wuhan virus has killed 2.3 per cent, but most people are still in the midst of infection – 96 per cent of people with the virus haven’t yet either died or recovered. Leung’s team estimates that the death rate could be as high as 14 per cent.
+
+Fisman notes that in several cases one infected person has transmitted the virus to far more than two people – one infected 14, many of them health workers. Such “super-spreader” events are typical of both SARS and MERS, said Neil Ferguson at Imperial College London earlier this week.
+
+Read more: New coronavirus may be much more contagious than initially thought
+
+“It means scary events happen, with large clusters of cases,” says Fisman. “But these are likely to attract attention and a public health response”, with everyone exposed quarantined.
+
+Transmission dead ends
+
+By contrast, many cases may not spread. To get an average R0 of under 4, the super-spreaders must be balanced by cases with very low R0. So individual transmissions, which are harder to spot, may also be dead ends for the virus, which hasn’t yet adapted to humans and is mutating slowly.
+
+“Contrast that with something like flu, where everyone is spreading and any case can spark an epidemic,” he says. “Super-spreader events suggest this can be controlled.”
+
+Unfortunately, the only controls we have, until a vaccine is developed, are spotting and quarantining infectious people – and that only works, as it did for SARS, if the virus cannot spread before people have symptoms. This week Chinese authorities stated that this virus can do that, but there is little evidence.
+
+Fisman is sceptical. But, he says, “it’s a game changer if true”.

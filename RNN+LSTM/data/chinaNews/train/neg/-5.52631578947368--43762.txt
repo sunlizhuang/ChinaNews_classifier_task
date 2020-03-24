@@ -1,0 +1,25 @@
+-- As the novel coronavirus (2019-nCoV) continues to spread across the globe, CT and radiography have emerged as integral players in its identification and diagnosis. The imaging modalities are also serving pivotal roles in tracking disease progression for the earliest cases, including the first one confirmed in the U.S.
+
+As of January 30, there were 9,976 confirmed cases of 2019-nCoV in 21 countries. Two new case reports published in the New England Journal of Medicine and Radiology detailed the epidemiologic and clinical features of the first confirmed coronavirus case in the U.S. and a case from Wuhan, China, the apparent hub of the outbreak.
+
+The first report centers on a 35-year-old man who presented to an urgent care clinic in Snohomish County in Washington on January 19 with a four-day history of cough and fever. He sought medical attention after hearing news reports about the coronavirus, since he had recently visited family in Wuhan (NEJM, January 31, 2020).
+
+Apart from a history of hypertriglyceridemia, the patient was otherwise healthy. Chest x-ray images showed no abnormalities, and preliminary DNA and nasal specimen tests returned negative for known pathogens. The Washington Department of Health and the U.S. Centers for Disease Control and Prevention (CDC) continued to monitor the patient under home isolation in light of his travel history. The following day, DNA analysis confirmed that he was positive for 2019-nCoV, after which he was admitted to an airborne-isolation unit for clinical observation.
+
+The patient had normal vital signs and remained largely stable throughout the first five days of hospitalization, with intermittent fevers and cough. Chest x-rays during this period showed no evidence of infiltrates or abnormalities.
+
+However, x-ray images obtained on the evening of the fifth day of hospitalization (ninth day of illness) showed evidence of pneumonia in the lower lobe of the left lung, which coincided with the patient's progressively worsening respiratory status and oxygen saturation values.
+
+By hospital day 6 (10th day of illness), a follow-up x-ray exam revealed basilar streaky opacities in both lungs, consistent with atypical pneumonia. The patient's clinical condition improved after treatment with oxygen supplementation and antiviral therapy, though he remained hospitalized at the time of publication.
+
+The nonspecific signs and symptoms of mild illness in the early course of 2019-nCoV infection may be clinically indistinguishable from many other common diseases -- highlighting the importance of clinicians obtaining recent history of travel or exposure in all patients who present with acute illness symptoms "to ensure appropriate identification and prompt isolation of patients," wrote the NEJM authors, led by Michelle Holshue of the Washington State Department of Public Health.
+
+In a separate case report published in Radiology on January 31, Dr. Junqiang Lei and colleagues from the First Hospital of Lanzhou University discussed the case of a 33-year-old woman from Wuhan who presented with a five-day history of cough and fever.
+
+Unenhanced chest CT scans of the patient showed multiple peripheral ground-glass opacities in both of her lungs, and subsequent DNA tests were positive for 2019-nCoV. CT scans acquired three days after treatment revealed progressive pulmonary opacities, indicating that the patient's condition was worsening despite treatment.
+
+Chest images, in conjunction with epidemiologic characteristics and laboratory tests, were critical in diagnosing coronavirus-infected pneumonia in this patient and also monitoring disease progression, Lei and colleagues noted.
+
+"Imaging exams are a key component in diagnosing 2019-nCoV," the RSNA said in a statement. "Early disease recognition is critical not only for prompt treatment but also for patient isolation and effective public health containment and response."
+
+Copyright © 2020 AuntMinnie.com

@@ -1,0 +1,23 @@
+ES News email The latest headlines in your inbox Enter your email address Continue Please enter an email address Email address is invalid Fill out this field Email address is invalid You already have an account. Please log in Register with your social account or click here to log in I would like to receive lunchtime headlines Monday - Friday plus breaking news alerts, by email Update newsletter preferences
+
+Artificial intelligence being used to deliver public services may discriminate against some people, a watchdog warned today.
+
+The Committee on Standards in Public Life, chaired by former MI5 boss Lord Evans, highlighted the risk of “bias” in machines being used by Whitehall.
+
+It said data bias was a “serious concern” and called for further work to measure and mitigate “the impact of bias to prevent discrimination via algorithm”.
+
+Lord Evans added: “AI and, in particular, machine learning, will transform the way public-sector organisations make decisions and deliver services.
+
+“Public-sector organisations are not sufficiently transparent about their use of AI and it is too difficult to find out where machine learning is currently being used in government.”
+
+Healthcare and policing currently have the most developed AI programmes, the committee added.
+
+But it highlighted concerns that algorithmic tools to screen visa applications risked replicating “historic bias” if officials had previously discriminated against applicants from certain countries.
+
+Similarly, job application AI filters could be discriminatory if data inputted by humans had, for example, in the past favoured men over women.
+
+“The UK does not need a new AI regulator but regulators must adapt to the challenges that AI poses to their sectors,” added Lord Evans.
+
+He also defended the Government’s decision to allow Chinese tech giant Huawei a limited role in Britain’s 5G network, a move which has angered Donald Trump.
+
+“It’s right that the UK should take its own decision. The process, from what I can see, has been thought through and that is encouraging,” he said.

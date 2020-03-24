@@ -1,0 +1,93 @@
+Image copyright YouTube/SciNews
+
+The last decade was a big one for artificial intelligence but researchers in the field believe that the industry is about to enter a new phase.
+
+Hype surrounding AI has peaked and troughed over the years as the abilities of the technology get overestimated and then re-evaluated.
+
+The peaks are known as AI summers, and the troughs AI winters.
+
+The 10s were arguably the hottest AI summer on record with tech giants repeatedly touting AI's abilities.
+
+AI pioneer Yoshua Bengio, sometimes called one of the "godfathers of AI", told the BBC that AI's abilities were somewhat overhyped in the 10s by certain companies with an interest in doing so.
+
+There are signs, however, that the hype might be about to start cooling off.
+
+Image copyright Microsoft Research Image caption Katja Hofmann, a principal researcher at Microsoft Research's Game Intelligence group
+
+"I have the sense that AI is transitioning to a new phase," said Katja Hofmann, a principal researcher at Microsoft Research in Cambridge.
+
+Given the billions being invested in AI and the fact that there are likely to be more breakthroughs ahead, some researchers believe it would be wrong to call this new phase an AI winter.
+
+Robot Wars judge Noel Sharkey, who is also a professor of AI and robotics at Sheffield University, told the BBC that he likes the term "AI autumn" - and several others agree.
+
+'Feeling of plateau'
+
+At the start of the 2010s, one of the world leaders in AI, DeepMind, often referred to something called AGI, or "artificial general intelligence" being developed at some point in the future.
+
+Machines that possess AGI - widely thought of as the holy grail in AI - would be just as smart as humans across the board, it promised.
+
+DeepMind's lofty AGI ambitions caught the attention of Google, who paid around £400m for the London-based AI lab in 2014 when it had the following mission statement splashed across its website: "Solve intelligence, and then use that to solve everything else."
+
+Several others started to talk about AGI becoming a reality, including Elon Musk's $1bn AI lab, OpenAI, and academics like MIT professor Max Tegmark.
+
+In 2014, Nick Bostrom, a philosopher at Oxford University, went one step further with his book Superintelligence. It predicts a world where machines are firmly in control.
+
+But those conversations were taken less and less seriously as the decade went on. At the end of 2019, the smartest computers could still only excel at a "narrow" selection of tasks.
+
+Gary Marcus, an AI researcher at New York University, said: "By the end of the decade there was a growing realisation that current techniques can only carry us so far."
+
+He thinks the industry needs some "real innovation" to go further.
+
+"There is a general feeling of plateau," said Verena Rieser, a professor in conversational AI at Edinburgh's Heriot Watt University.
+
+One AI researcher who wishes to remain anonymous said we're entering a period where we are especially sceptical about AGI.
+
+"The public perception of AI is increasingly dark: the public believes AI is a sinister technology," they said.
+
+For its part, DeepMind has a more optimistic view of AI's potential, suggesting that as yet "we're only just scratching the surface of what might be possible".
+
+"As the community solves and discovers more, further challenging problems open up," explained Koray Kavukcuoglu, its vice president of research.
+
+"This is why AI is a long-term scientific research journey.
+
+"We believe AI will be one of the most powerful enabling technologies ever created - a single invention that could unlock solutions to thousands of problems. The next decade will see renewed efforts to generalise the capabilities of AI systems to help achieve that potential - both building on methods that have already been successful and researching how to build general-purpose AI that can tackle a wide range of tasks."
+
+'Far to go'
+
+While AGI isn't going to be created any time soon, machines have learned how to master complex tasks like:
+
+playing the ancient Chinese board game Go
+
+identifying human faces
+
+translating text into practically every language
+
+spotting tumours
+
+driving cars
+
+identifying animals.
+
+The relevance of these advances was overhyped at times, says ex-DeepMinder Edward Grefenstette, who now works in the Facebook AI Research group as a research scientist.
+
+Image copyright Facebook Image caption Edward Grefenstette is a research scientist at Facebook in London
+
+"The field has come a very long way in the past decade, but we are very much aware that we still have far to go in scientific and technological advances to make machines truly intelligent," he said.
+
+"One of the biggest challenges is to develop methods that are much more efficient in terms of the data and compute power required to learn to solve a problem well. In the past decade, we've seen impressive advances made by increasing the scale of data and computation available, but that's not appropriate or scalable for every problem.
+
+"If we want to scale to more complex behaviour, we need to do better with less data, and we need to generalise more."
+
+Neil Lawrence, who recently left Amazon and joined the University of Cambridge as the first DeepMind-funded professor of machine learning, thinks that the AI industry is very much still in the "wonder years".
+
+Reality check
+
+So what will AI look like at the end of the 20s, and how will researchers go about developing it?
+
+"In the next decade, I hope we'll see a more measured, realistic view of AI's capability, rather than the hype we've seen so far," said Catherine Breslin, an ex-Amazon AI researcher.
+
+The term "AI" became a real buzzword through the last decade, with companies of all shapes and sizes latching onto the term, often for marketing purposes.
+
+"The manifold of things which were lumped into the term "AI" will be recognised and discussed separately," said Samim Winiger, a former AI researcher at Google in Berlin.
+
+"What we called 'AI' or 'machine learning' during the past 10-20 years, will be seen as just yet another form of 'computation'".

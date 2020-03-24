@@ -1,0 +1,13 @@
+Set Default Regional Edition
+
+Select your default regional edition of MiningWeekly.com
+
+Africa
+
+Americas
+
+Australasia
+
+Europe
+
+Note: When you select a default region you will be directed to the MiningWeekly.com home page of your choice whenever you visit miningweekly.com. This setting is controlled by cookies and should your cookies be re-set you will then be directed to the regional edition associated with the geographic location of our IP address. Should your cookies be reset then you may again use the drop-down menu to select a default region.

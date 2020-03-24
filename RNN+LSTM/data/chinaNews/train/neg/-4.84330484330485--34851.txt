@@ -1,0 +1,7 @@
+WASHINGTON — The Interior Department announced on Wednesday that it was grounding its entire fleet of drones out of concerns that Chinese parts in them might be used for spying, making exceptions only for emergency missions like fighting wildfires and search-and-rescue operations.
+
+The move, an extension of an order made last year, reflects concerns that drones made in China could expose sensitive data. Unease is growing in Washington about potential security vulnerabilities presented by Chinese technology, though Chinese companies have denied that their products pose a security threat.
+
+Last year, pending an internal security investigation, the agency temporarily grounded its drones, which are used for surveying critical infrastructure like dams, collecting information about endangered species, conducting search-and-rescue operations and tracking wildfires.
+
+The new order, signed by David Bernhardt, the secretary of the interior, says the current fleet of 810 drones will remain grounded “while we ensure that cybersecurity, technology and domestic production concerns are adequately addressed.” The order does not explicitly mention China, but a senior administration official said it was “without question” aimed at drones made or assembled in China.

@@ -1,0 +1,110 @@
+A close look at thin ice
+
+
+
+by Staff Writers
+
+
+
+Philadelphia PA (SPX) Jan 07, 2020
+
+
+
+An international team of scientists, including atmospheric chemists from Penn, describe the first-ever visualization of the atomic structure of two-dimensional ice as it formed. (Image: Courtesy of Joseph Francisco)
+
+On frigid days, water vapor in the air can transform directly into solid ice, depositing a thin layer on surfaces such as a windowpane or car windshield. Though commonplace, this process is one that has kept physicists and chemists busy figuring out the details for decades.
+
+In a new Nature paper, an international team of scientists describe the first-ever visualization of the atomic structure of two-dimensional ice as it formed. Insights from the findings, which were driven by computer simulations that inspired experimental work, may one day inform the design of materials that make ice removal a simpler and less costly process.
+
+"One of the things that I find very exciting is that this challenges the traditional view of how ice grows," says Joseph S. Francisco, an atmospheric chemist at the University of Pennsylvania and an author on the paper.
+
+"Knowing the structure is very important," adds coauthor Chongqin Zhu, a postdoctoral fellow in Francisco's group who led much of the computational work for the study. "Low-dimensional water is ubiquitous in nature and plays a critical role in an incredibly broad spectrum of sciences, including materials science, chemistry, biology, and atmospheric science.
+
+"It also has practical significance. For example, removing ice is critical when it comes to things like wind turbines, which cannot function when they are covered in ice. If we understand the interaction between water and surfaces, then we might be able to develop new materials to make this ice removal easier."
+
+In recent years, Francisco's lab has devoted considerable attention to studying the behavior of water, and specifically ice, at the interface of solid surfaces. What they've learned about ice's growth mechanisms and structures in this context helps them understand how ice behaves in more complex scenarios, like when interacting with other chemicals and water vapor in the atmosphere.
+
+"We're interested in the chemistry of ice at the transition with the gas phase, as that's relevant to the reactions that are happening in our atmosphere," Francisco explains.
+
+To understand basic principles of ice growth, researchers have entered this area of study by investigating two-dimensional structures: layers of ice that are only several water molecules thick.
+
+In previous studies of two-dimensional ice, using computational methods and simulations, Francisco, Zhu, and colleagues showed that ice grows differently depending on whether a surface repels or attracts water, and the structure of that surface.
+
+In the current work, they sought real-world verification of their simulations, reaching out to a team at Peking University to see if they could obtain images of two-dimensional ice.
+
+The Peking team employed super-powerful atomic force microscopy, which uses a mechanical probe to "feel" the material being studied, translating the feedback into nanoscale-resolution images. Atomic force microscopy is capable of capturing structural information with a minimum of disruption to the material itself, allowing the scientists to identify even unstable intermediate structures that arose during the process of ice formation.
+
+Virtually all naturally occurring ice on Earth is known as hexagonal ice for its six-sided structure. This is why snowflakes all have six-fold symmetry. One plane of hexagonal ice has a similar structure to that of two-dimensional ice and can terminate in two types of edges - "zigzag" or "armchair." Usually this plane of natural ice terminates with a zigzag edges.
+
+However, when ice is grown in two dimensions, researchers find that the pattern of growth is different. The current work, for the first time, shows that the armchair edges can be stabilized and that their growth follows a novel reaction pathway.
+
+"This is a totally different mechanism from what was known," Zhu says.
+
+Although the zigzag growth patterns were previously believed to only have six-membered rings of water molecules, both Zhu's calculations and the atomic force microscopy revealed an intermediate stage where five-membered rings were present.
+
+This result, the researchers say, may help explain the experimental observations reported in their 2017 PNAS paper, which found that ice could grow in two different ways on a surface, depending on the properties of that surface.
+
+In addition to lending insight into future design of materials conducive to ice removal, the techniques used in the work are also applicable to probe the growth of a large family of two-dimensional materials beyond two-dimensional ices, thus opening a new avenue of visualizing the structure and dynamics of low-dimensional matter.
+
+For chemist Jeffrey Saven, a professor in Penn Arts and Sciences who was not directly involved in the current work, the collaboration between the theorists in Francisco's group and their colleagues in China called to mind a parable he learned from a mentor during his training.
+
+"An experimentalist is talking with theorists about data collected in the lab. The mediocre theorist says, 'I can't really explain your data.' The good theorist says, 'I have a theory that fits your data.' The great theorist says, 'That's interesting, but here is the experiment you should be doing and why.'"
+
+To build on this successful partnership, Zhu, Francisco, and their colleagues are embarking on theoretical and experimental work to begin to fill in the gaps related to how two-dimensional ice builds into three dimensions.
+
+"The two-dimensional work is fundamental to laying the background," says Francisco. "And having the calculations verified by experiments is so good, because that allows us to go back to the calculations and take the next bold step toward three dimensions."
+
+"Looking for features of three-dimensional ice will be the next step," Zhu says, "and should be very important in looking for applications of this work."
+
+Research paper
+
+
+
+Related Links
+
+University of Pennsylvania
+
+Water News - Science, Technology and Politics
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Washington (UPI) Dec 18, 2019
+

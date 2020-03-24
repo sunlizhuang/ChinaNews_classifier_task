@@ -1,0 +1,45 @@
+The goal of this article is to teach you how to use price to earnings ratios (P/E ratios). We'll show how you can use Beijing Jingkelong Company Limited's (HKG:814) P/E ratio to inform your assessment of the investment opportunity. What is Beijing Jingkelong's P/E ratio? Well, based on the last twelve months it is 7.34. In other words, at today's prices, investors are paying HK$7.34 for every HK$1 in prior year profit.
+
+View our latest analysis for Beijing Jingkelong
+
+How Do You Calculate A P/E Ratio?
+
+The formula for P/E is:
+
+Price to Earnings Ratio = Share Price (in reporting currency) ÷ Earnings per Share (EPS)
+
+Or for Beijing Jingkelong:
+
+P/E of 7.34 = CNY1.20 (Note: this is the share price in the reporting currency, namely, CNY ) ÷ CNY0.16 (Based on the year to September 2019.)
+
+Is A High Price-to-Earnings Ratio Good?
+
+A higher P/E ratio implies that investors pay a higher price for the earning power of the business. All else being equal, it's better to pay a low price -- but as Warren Buffett said, 'It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price'.
+
+Does Beijing Jingkelong Have A Relatively High Or Low P/E For Its Industry?
+
+We can get an indication of market expectations by looking at the P/E ratio. The image below shows that Beijing Jingkelong has a lower P/E than the average (21.3) P/E for companies in the consumer retailing industry.
+
+SEHK:814 Price Estimation Relative to Market, February 18th 2020 More
+
+Beijing Jingkelong's P/E tells us that market participants think it will not fare as well as its peers in the same industry. Many investors like to buy stocks when the market is pessimistic about their prospects. If you consider the stock interesting, further research is recommended. For example, I often monitor director buying and selling.
+
+How Growth Rates Impact P/E Ratios
+
+P/E ratios primarily reflect market expectations around earnings growth rates. When earnings grow, the 'E' increases, over time. That means unless the share price increases, the P/E will reduce in a few years. A lower P/E should indicate the stock is cheap relative to others -- and that may attract buyers.
+
+It's great to see that Beijing Jingkelong grew EPS by 10% in the last year.
+
+A Limitation: P/E Ratios Ignore Debt and Cash In The Bank
+
+One drawback of using a P/E ratio is that it considers market capitalization, but not the balance sheet. So it won't reflect the advantage of cash, or disadvantage of debt. The exact same company would hypothetically deserve a higher P/E ratio if it had a strong balance sheet, than if it had a weak one with lots of debt, because a cashed up company can spend on growth.
+
+While growth expenditure doesn't always pay off, the point is that it is a good option to have; but one that the P/E ratio ignores.
+
+So What Does Beijing Jingkelong's Balance Sheet Tell Us?
+
+Beijing Jingkelong has net debt worth a very significant 283% of its market capitalization. This is a relatively high level of debt, so the stock probably deserves a relatively low P/E ratio. Keep that in mind when comparing it to other companies.
+
+The Verdict On Beijing Jingkelong's P/E Ratio
+
+Beijing Jingkelong trades on a P/E ratio of 7.3, which is below the HK market average of 10.1. The company may have significant debt, but EPS growth was good last year. The low P/E ratio suggests current market expectations are muted, implying these levels of growth will not continue.

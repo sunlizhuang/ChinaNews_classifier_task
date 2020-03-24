@@ -1,0 +1,27 @@
+(Bloomberg Opinion) -- It might be the first workplace tip I was ever given: Always propose a solution when pointing out a problem.
+
+The U.S. seems finally to have taken the adage to heart for its approach to China’s Huawei Technologies Co. Attorney General William Barr suggested on Friday that the U.S., either directly or in a consortium with private American or “allied” companies, consider taking a controlling stake in Huawei’s biggest telecommunications-equipment rivals: the European companies Ericsson AB and Nokia Oyj.
+
+Sure, the proposed solution might be ill-considered — in this context there is such a thing as a bad idea — but let’s keep things upbeat and try to find a way to make it workable. Where there’s a will, there’s a way, and all that.
+
+Having a positive cross-Atlantic proposal on the table is a refreshing change from the U.S.’s general tone over the past 14 months, characterized as it has been by sniping and threats toward nations considering Huawei kit for the fifth-generation mobile networks that are crucial to making the Internet of Things a reality. (As early as 2009, the U.S. found so-called “back doors” in Huawei’s mobile-phone networks and has been telling allies such as the U.K. and Germany about them since late last year, the Wall Street Journal reported on Tuesday.)
+
+The U.K., which has been actively managing the role of Huawei’s gear in its network for a decade, has plowed ahead irrespective, albeit with some important checks and balances which seem a sensible way of limiting malicious actors’ access. As Barr himself said on Friday, “It's all very well to tell our friends and allies that they shouldn't install Huawei, but whose infrastructure are they going to install?”
+
+QuicktakeHow Huawei Landed at the Center of Global Tech Tussle
+
+The proposal was welcomed by some, not least by Cevian Capital AB, the activist fund that’s Stockholm-based Ericsson’s biggest shareholder. No surprise there. Takeover talk helps a share price, and both Ericsson and Helsinki-based Nokia have been among the five worst-performing stocks in the MSCI World Information Technology Index in the past decade.
+
+To find a workable solution, a good place to start is to identify the problem. Barr stated it thus:
+
+The question is whether, within this window, the United States and our allies can mount sufficient competition to Huawei to retain and capture enough market share to sustain the kind of long-term and robust competitive position necessary to avoid surrendering dominance to the Chinese.
+
+That makes it seem like a question of capital. But if cash is what Nokia and Ericsson need, the solution is not simply to acquire them. Were Ericsson to become the target, the buyers would likely need to spend $40 billion on the deal — money that would go straight into the pockets of existing investors before a cent was injected into the firm’s operations. That seems a shoddy allocation of taxpayers’ money. If equity was indeed the means by which to invest, then perhaps a capital increase would be the best option? But for shareholders to stomach the sort of dilution involved, there would have to be a clear way for the firm to benefit from the proceeds and translate them into more value.
+
+QuicktakeThe 70-Year-Old Spy Alliance the U.S. Says It May Cut Off
+
+Why would either firm need the capital? Their disadvantage to Huawei in recent years has been their inability, first, to invest in research and development at the same pace, and second, to see their customers’ network costs subsidized with generous financing offers. Huawei has benefited from as much as $75 billion in state-backed financial assistance over the years, the Wall Street Journal reported in December. That helped it charge about 30% less than rivals for its gear. It’s all very well seeking a market-based solution, but China has been leaning on the scales.
+
+Being undercut by Huawei has made it harder for Nokia and Ericsson to foot the massive R&D expense that’s needed while they’re having to compete more viciously on price. That’s left them lagging in key technologies related to 5G such as network slicing, a much sought-after technique that will let carriers allocate their capacity more efficiently. Catching up could cost each firm $5 billion, a significant sum similar to what they’re each already spending annually, which already represents an eye-watering 20% of sales. The companies probably have three years before carriers start seeking such capabilities with gusto.
+
+Story continues

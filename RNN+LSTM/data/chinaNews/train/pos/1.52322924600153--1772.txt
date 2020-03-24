@@ -1,0 +1,53 @@
+PHOTO: Pawel Nolbert
+
+If you were looking for areas of competition between technology vendors and where it is likely to be most intense over the coming year, you would be hard to find an area that will be more closely fought over, or scrutinized, than cloud computing.
+
+In the middle of last year, data from Synergy Research Group showed that across seven key cloud service and infrastructure market segments, operator and vendor revenues for the first half of 2019 passed the $150 billion milestone, having grown by 24% from the first half of 2018. In the cloud service segments, IaaS & PaaS had the highest growth rate at 44%, followed by enterprise SaaS at 27%.
+
+Behind those figures is a trend that has persisted over past ten years since the emergence of cloud computing, notably that AWS dominates the field with Google and Microsoft making up the Big 3. Looking outside of the U.S. there is fierce competition too with Alibaba growing by nearly 93% over the year. For its part, according to Gartner, Microsoft Azure grew 59% for the quarter with Google (60.2%) scored comparatively, with Amazon (26.8%). AWS while still dominating the field is not growing as fast as its competitors. Will Google and Microsoft catch up?
+
+AWS, Azure and Google
+
+Cole Torres is the owner of Cole's Computer Solutions in Athens, Ga. He believes that Azure will continue its growth path over the coming year and into the future. While AWS is certainly the front runner when it comes to overall usage of their platform, he believes Azure will continue to catch up as they secure large contracts, like the $10 billion JEDI contract with DoD, and as they build more services that directly integrate into a customer's existing environment.
+
+“We continue to see more companies move services and infrastructure to the cloud. Most of these companies are also operating in a Windows environment. I don't ever see that changing,” he said. Microsoft's integrated services with Office 365 allows small-to-medium sized business eliminate a decent amount of hardware, licensing, and maintenance costs as they build their infrastructure utilizing Office 365, Azure Active Directory, managed virtual desktops, Intune, SSO and MFA for their applications, Azure storage, logic apps, and more.
+
+He also pointed out that it has become extremely cheap and relatively painless for someone to administer an office due to the cohesiveness of the tools Microsoft has available. “One of the main areas that AWS wins is direct costs comparisons, but with the amount of time users are able to save I believe that businesses can come out ahead utilizing the Azure platform when their business needs alignment,” he added.
+
+Related Article: Open Data Initiative, Meet Cloud Information Model: Do We Really Need Both?
+
+AWS Dominance
+
+Despite this, AWS will most likely remain as a market leader, according to Chris Presley, director of solutions architecture at New York City-based Pythian, a global IT services company. He said that other clouds are aggressively going after market share through one of these options:
+
+Implementing creative new offerings Implementing newer versions of AWS offerings Targeting industries and pockets of discontented current clients of the other providers — it's an all-out war Replacing expensive on-prem hardware with much cheaper, managed offerings.
+
+“It’d be really interesting to see if any of the big three start to kill off more services that haven’t taken hold in the market, “Presley said. “However, I do suspect this will start to happen soon. The other thing we’re witnessing is a recognition that most substantial organizations will be multi-cloud. This is why you’re seeing management consoles and tools that can span from one cloud to the others, as it attempts to be your “primary” cloud.”
+
+But it’s still early days yet in the cloud space, according to Hyoun Park of San Francisco-based Amalgam Insights. He said that even though the public cloud market has grown beyond $150 billion/year in spend, it is still an extremely early stage for cloud in context of the $5 trillion global IT market. “As massive as the cloud can be and as big as the likes of AWS and Microsoft already are, there is still 40 years of legacy IT to replace and room for the public cloud to grow another 300% or more over the next decade,” he said.
+
+Related Article: Will Open Data Initiative From Adobe, Microsoft, SAP Break Down Silos?
+
+1. AWS
+
+AWS will continue to be the market leader in Cloud Computing for 2020 but is starting to face the reality of having significant competition in the enterprise market between Microsoft, Google, and Alibaba. In 2020, Amalgam Insights expects AWS to start looking at the SaaS market and to start focusing on non-developer end users, as this represents a significant gap in AWS offerings compared to offerings that both Microsoft and Google bring to market. Both Chime and QuickSight are massive opportunities for AWS to gain wallet share within existing accounts.
+
+2. Microsoft
+
+Microsoft continues to be the rising star in the cloud because it is seen as a “safer” cloud to partner with compared to Amazon’s unflinching approach to competing with its partners. Also, Microsoft will continue to take advantage of the strong developer community it has developed over the past decades, hybrid cloud support strength, and clearer billing and cloud economics environment to continue winning deals.
+
+3. Google
+
+Google is the big wildcard. With enterprise pros like Thomas Kurian and Bob Enslin at the top, Google Cloud Platform has the executive expertise to improve their greatest weakness: customer experience. Google has long been a “Build it and they will come” company, but this approach simply doesn’t work at the massive scale needed to support enterprise cloud. “Amazon and Microsoft have succeeded in the public cloud by being both extremely ambitious and, paradoxically, extremely humble about side-lining services that their customers do not ask for,” he said.
+
+“If Google can gain this customer-centricity in the GCP business, Google will be able to take advantage of their innate technical advantages and consumer technologies similarly to how Yahoo drove the Big Data revolution.”
+
+Chinese Cloud Competitors?
+
+But what about companies other than Amazon, Microsoft and Google. While there are other players out there, there are two other companies that can really sit at the top table. Both those companies are based in China, Alibaba and Tencent. Peter Guagenti is CMO of San Francisco-based MemSQL. “The existing Big 3 cloud providers — AWS, Microsoft Azure and Google Cloud — will lose more ground globally in 2020 to Chinese providers like Alibaba and Tencent,” he said. It might be the Big 5 before long. Maybe not by the end of 2020, but not too much longer after that.”
+
+The reason? The Chinese cloud companies, he said, are innovating and investing at a level and scale that even the biggest American tech companies can't match. Even though the U.S. is in a trade war with China now, these Chinese cloud companies are relentlessly growing on a global basis. Chinese and other Asian tech companies used to be perceived by Americans as copycats, but, by and large, that's not true anymore. “Companies like Alibaba, Tencent and Huawei are real innovators doing exciting things.
+
+Alibaba will continue to grow rapidly and, based on current growth rates, will likely be the #2 global cloud provider by the middle of the 20s based solely on its current success in Asia. Alibaba’s global success and growth are highly dependent on larger geopolitical issues, such as the perception of government ownership, China’s interest in funding Alibaba Cloud, and free trade agreements with the Western World. But even in a worst-case scenario, it is hard to see it Alibaba’s
+
+growth slowing down as it accesses Chinese, Indian, and increasingly, African markets.

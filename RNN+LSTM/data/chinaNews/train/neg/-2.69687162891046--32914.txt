@@ -1,0 +1,89 @@
+The UK has decided to let Huawei continue to be used in its 5G networks but with restrictions, despite pressure from the US to block the firm.
+
+The Chinese firm will be banned from supplying kit to "sensitive parts" of the network, known as the core.
+
+In addition, it will only be allowed to account for 35% of the kit in a network's periphery, which includes radio masts.
+
+And it will be excluded from areas near military bases and nuclear sites.
+
+"Huawei is reassured by the UK government's confirmation that we can continue working with our customers to keep the 5G rollout on track," the firm's UK chief Victor Zhang said in a statement.
+
+"It gives the UK access to world-leading technology and ensures a competitive market."
+
+The Prime Minister had faced pressure from the US and some Conservative MPs to block the Chinese tech giant on the grounds of national security.
+
+But Beijing had warned the UK there could be "substantial" repercussions to other trade and investment plans had the company been banned outright.
+
+The decision has been described as the biggest test of Boris Johnson's post-Brexit strategy to date.
+
+Huawei has always denied that it would help the Chinese government attack one of its clients. The firm's founder has said he would "shut the company down" rather than aid "any spying activities".
+
+Three out of four of the UK's mobile networks had already decided to use and deploy Huawei's 5G products in the periphery.
+
+"This is a good compromise between alleviating 'security' concerns and making sure that the 5G UK market is not harmed," commented Dimitris Mavrakis, a telecoms analyst at ABI Research.
+
+"It means there will be minimal disruption to existing 5G rollout plans."
+
+The government has also said the UK needs to "improve the diversity in the supply of equipment" to the country's telecom networks.
+
+At present, beyond Huawei, there are four main providers:
+
+Nokia - a Finnish company
+
+Ericsson - a Swedish company
+
+Samsung - a South Korean company
+
+ZTE - a Chinese company that the country's government part-owns
+
+Ministers will support "the emergence of new, disruptive entrants to the supply chain" and promote "the adoption of open, interoperable standards," a statement from the Department for Digital, Culture, Media and Sport said.
+
+The new rules still have to be debated and approved by MPs.
+
+What is the core and why is Huawei being kept out of it?
+
+A mobile phone network's core is sometimes likened to its heart or brain.
+
+It is where voice and other data is routed across various sub-networks and computer servers to ensure it gets to its desired destination.
+
+This involves:
+
+authenticating subscribers so that specific users only get access to the services they have paid for and opted into
+
+sending a call to the right radio tower to connect to another person's mobile phone
+
+managing facilities such as call-forwarding and voicemail
+
+delivering SMS messages and multimedia from one handset to another
+
+routing data back and forth to third-party services such as apps and websites
+
+keeping track of usage to calculate an individual's bill
+
+While once, a lot of this involved physical equipment known as routers and switches, in the 5G world much of this kit has been "virtualised". That means software rather than specialised hardware now takes care of much of the job.
+
+This opens the door to new capabilities. But a perceived risk is that it could also open the system up to new kinds of attack.
+
+And even if encryption means the information being handled cannot be spied upon, the fear is that a rogue participant could still crash the network - or at least disrupt the data flow.
+
+How does this differ from the rest of the network?
+
+The core is distinct from the Radio Access Network, which is sometimes referred to as the "periphery".
+
+The RAN includes the base stations and antennas used to provide a link between individual mobile devices and the core.
+
+Insiders sometimes describe this as the "innovative but dumb" part of the network. That is because new traffic management software and other advances mean more traffic can be handled than before, but the equipment does not actually affect what happens to the data itself beyond transmitting it back and forth.
+
+Although it has commonly been reported that Huawei's advantage here is cost, industry insiders say a bigger advantage is that it can currently do the same job as its rivals using fewer antennas. That means fewer planning permission requests need to be approved, and 5G can be rolled out more quickly as a result.
+
+The theory is that by limiting Huawei to the RAN but banning it from the core, the authorities make the risk of its involvement more "manageable".
+
+So why are the Americans still worried?
+
+The Trump administration's cyber-security chiefs, along with their Australian counterparts, contend that over time the "edge" - the name given to the boundary between the core and periphery - will disappear, as more and more sensitive operations are carried out closer to users.
+
+As a result, they claim it will no longer be possible to keep Huawei, and by extension the Chinese state, out of the network's most sensitive areas.
+
+UK network operators acknowledge that over time more functions will indeed move from centralised sites to individual exchanges and even base stations themselves.
+
+But they are adamant that they can still design the architecture of their networks to keep the core distinct and protected.

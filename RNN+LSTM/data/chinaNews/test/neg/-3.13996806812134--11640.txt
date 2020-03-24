@@ -1,0 +1,77 @@
+The initial coin offering crypto buzz hit all-time high popularity in 2017 when there were 875 projects, a significant jump from 29 in the previous year. 2018 picked up on the trend, introducing a further 1,253 projects. To date, there have been a staggering 5,683 ICO projects with 2,318 of them being cryptocurrencies. Of the total projects, 4,932 are based on the Ethereum platform.
+
+However, only a few of these projects have lived up to expectations or the bear potential to pull through. A significant number have faded out and are now considered dead. Deadcoins, a platform that chronicles crypto projects that have ceased or have negligible operations, puts the number of dead crypto at 1,867 as of Jan. 16, 2020. Coinopsy, a similar platform, puts the number at 1,416. Similarly, CoinMarketCap, which provides daily crypto trading volumes, lists over 1,000 coins with volumes below $1,000. Thus, the number of dead cryptocurrencies is evidently in the range of 1,000+.
+
+Besides dead crypto, there are lost crypto due to inaccessible wallets. Since crypto contained in such wallets are locked in and cannot be retrieved, they are considered “dead wallets.” While it is not possible to calculate the exact number of dead wallets, it is estimated that 300 wallets holding between 1,000 and 10,000 Bitcoin are lost, according to a digital forensics firm Chainalysis. This puts the amount of crypto out of circulation at about 20% (or, 4 million coins) that could be lost forever. According to Coin Metrics’ recent reports, 1.6 million of these coins are BTC.
+
+Dead projects: Causes and effects
+
+Crypto projects are considered dead if they satisfy one or more of the following: abandonment, low trading volume (below $1,000 for over three months), dead websites and inactive social platforms/lack of social updates, no nodes, wallet issues, confirmed scams and developers leaving the project.
+
+Abandonment and low trading volumes
+
+Although the majority of the projects start out with optimism and good intentions, it is reported that 60% die even before listing on exchanges. Of these, 63.1% are dead as a result of abandonment or low transaction volumes. The main reason behind this is the lack of utility. Since a significant number of projects are niche-directed, use cases are often limited and overlap. Often, in this case, price values for the projects depreciate to $0.01 and below, effectively leading to their deaths within six to 12 months.
+
+Scams
+
+It has been reported that 29.9% of ICO projects are outright scams. Scam projects manage to fleece investors because many investors enter into projects on the basis of speculation. To steer clear of scams, investors should sufficiently scrutinize projects they are interested in. According to statistics received by the results of the last year, about 30% of all scams were frauds, which were followed by hacking attacks, theft and phishing.
+
+Failed funding
+
+A small but considerable number of projects, 3.6% of the cumulative, do not take off due to failing at the fundraising stage, thus closing down altogether. This is attributed to the failure to attract interest and investors. This does not speak on a project’s viability or lack of. Generally, investors are attracted by a high return on their investments and the simplicity of the investment process.
+
+Joke projects
+
+Another category of projects that inevitably do not see the light of the day, by design, are “joke coins,” with a 90%–95% failure rate. Interestingly, joke coins make up 3.2 % of dead projects. One would think they would not receive any funding, but Jesus coin, ObamaCoin and Useless Ethereum Token have proved otherwise. UET, for instance, raised over $300,000 during its ICO.
+
+Arieh Levi, an analyst at CB Insights, feels the problem lies in utility:
+
+“I don’t think we found the killer app yet. It just seems like there’s been a lot of projects tried, but there aren’t really many users of blockchain protocols beyond speculators and traders.”
+
+Widespread losses through dead projects draw attention from governments and legislative bodies tasked with citizen’s financial protection. In September 2017, China banned ICO ventures, terming them illegal. Coupled with other suspicious activities in the crypto industry, the United States Securities and Exchanges Commission was pushed to define the nature of crypto as well as provide guidelines on crypto regulation. Although crypto was built on the back of freedom away from governmental interference, the course of the industry is changing as projects have to conform to external pressure. While this development cannot be solely nailed on dead coins, they are a substantial contribution.
+
+Dead wallets: Investor’s Achilles' heel, industry's blessing
+
+Satoshi Nakamoto wrote:
+
+“Lost coins only make everyone else's coins worth slightly more. Think of it as a donation to everyone.”
+
+The quote made by Nakamoto indicates dead wallets are nothing out of the ordinary. Predicatively, crypto wallets will continue to be lost. The extent, however, can be expected to reduce as value increases. Today’s crypto users are more intentional than they were before, hence are more careful with their investments.
+
+Also, as the industry takes shape, crypto platforms come up with tools to ensure ease of recovery while maintaining desirable security. Some investment platforms can already offer asset management services that include legacy planning. Other projects are moving forward and releasing the next blockchain generation. Blockchain platform Relictum Pro called this brand-new technology Blockchain 5.0 and revealed that it provides unmatched transactions processing rate, and offers a network that's fully decentralized and protected from all kinds of online risks. This creates an effective way to transfer the inheritance to nominated beneficiaries. In the event that a person is incapacitated or for some reason does not check-in for a given period, its life scheduling program reaches out to the family.
+
+Currently, there is no technology to restore dead wallets. Efforts by so-called crypto hunters, who offer services on recovery attempts by “breaking into” digital wallets, see dismal results. Their crypto-hypnotists counterparts, who claim to hypnotize clients into remembering keys, equally have a negligible success rate. Consequently, dead crypto might as well be forgotten. James Howell and Gizmodo’s editor Campbell Simpson are two of the most painful cases of lost crypto. Howell managed to effortlessly mine 7,500 Bitcoins, while Simpson purchased 1,400 coins for $25 — both of whom threw them out shortly before Bitcoin prices started skyrocketing.
+
+Speaking about the current market situation, GLBrain CEO Wolfgang Pinegger stated:
+
+“The implication is that lost crypto contributes to the sum total of what will eventually be in existence by taking away from it. Essentially, there will be fewer cryptos in the market than initially intended. In the long run, depending on how much is lost in total, the crypto ‘dead share’ will cause a price increase by some percentage as demand goes up against a shorter supply.”
+
+It is important to note that the current estimation assumes Satoshi’s share, about 1 million Bitcoin, will never be circulated. Satoshi’s identity is under speculation and one of the theories supporting the assumption is that the person or group of persons using the pseudonym is dead. In the same vein, the presumed dead wallets could be held by crypto whales awaiting an opportune moment to release the coins. Taken into consideration, this could drastically reduce the amount and value of lost crypto.
+
+Crypto whales are suspected and reported to be influential during bull runs, as they dump large hordes of crypto. According to analysts, there is a possible 1 million Bitcoin being held by individuals ranging from 12,000 BTC at the lowest and 75,000 at the highest. The motivation for this sort of holding is twofold: First, crypto could appreciate in price and holders stand to rake in millions and billions of dollars in the future. Secondly, if Bitcoin becomes scarce and the demand rises, coins could be a valuable store of value like gold. This goes on to propose that crypto whales are buyers rather than dumpers, as suggested by theories around rising and falling crypto prices.
+
+In the future, the crypto industry could be rid of whales. Whale Alert is developing analytics to identify whales to curb fraud and hacks. Accordingly, it will push out bad actors in the space. Speaking for Whale Alert, co-founder Frank van Weert said:
+
+“We’re going to be able to collect data from the first moment, from the first block, for every chain, and start analyzing from there, both forward and backward.”
+
+Van Weert further predicts that crypto whales are well on their way to natural extinction, saying:
+
+“Eventually, those people will have to sell their coins, and more people are interested — more people are buying — and so, eventually, the distribution of BTC is going to hopefully level out a bit more, and there’s going to be hopefully fewer whales.”
+
+Getting it right from the start
+
+The crypto industry will keep developing and adjusting to eradicate the challenges that hinder project viability. A notable evolution is seen in diverse experimentations on consensus algorithms to reduce expenses, increase scalability, create transparency and speed up operations to meet consumer needs. The Ethereum network, responsible for the rapid expansion of the crypto industry, introduced the proof-of-authority concept, currently being tested by projects built on the network and adopted by businesses including Microsoft for Xbox Live.
+
+The PoA protocol’s features allow users to participate in securing and development of networks. Vlad Miller, CEO of Ethereum Express — a community-driven blockchain-platform working on the PoA algorithm — told Cointelegraph:
+
+“One of the significant advantages of PoA-based platforms is the ability to scale horizontally. PoA services can combine computing power for joint transaction processing, thus increasing the throughput of the entire network. The importance of this approach is that projects are user-driven, thus reduces the chances of failure.”
+
+On one hand, dead coins have a direct influence on the funding of future crypto projects as well as the industry’s ability to present a convincing case on the importance, practicality and need for crypto. On the other hand, they affect how much people can trust startups as the engine for crypto and blockchain development. From the outset, the crypto community set itself apart as a democratic group with solutions to traditional financial upsets.
+
+Unfortunately, the inability to establish real use projects by the community and the growing interest in blockchain and crypto from traditional institutions could spell doom for the entire venture. Traditional entities interested in blockchain technology could tap into its benefits while ignoring the fundamental basics of the technology, which are based on decentralization, trust and transparency. Dead crypto projects could involuntarily shift the power of the industry to traditional actors that are more likely to manipulate it for financial benefit.
+
+Tightening regulations could help nip scam projects. For the greater 60% whose deaths are not deliberate, the crypto space is making concerted efforts in conducting better market research, investing in skilled developers and innovations as a means to prevent future failures. Other dedicated moves include community-based project CoinJanitor, which buys out dead coins and failed projects, and then burns them to clean out the market. More needs to be undertaken toward eliminating nonviable projects. As the market matures, crypto and blockchain consumers, enthusiasts and developers will keep inventing solutions that will push the industry closer to its goal.
+
+The views, thoughts and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk. You should conduct your own research when making a decision.

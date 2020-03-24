@@ -1,0 +1,85 @@
+Back in 2015, GitLab set a very specific goal: It would go public in November 2020. Now worth $2.75 billion, GitLab is still on target — though GitLab CEO Sid Sijbrandij says that it "might be sooner, and it might be later" depending on market conditions.
+
+Sijbrandij says that to get there, the company needs to build a more "predictable" business and make itself more transparent to would-be investors.
+
+In the past year, GitLab nearly tripled in size, but has also undergone some internal turmoil as employees and executives depart under unusual circumstances.
+
+GitLab also faces intense competition from GitHub, which is backed by Microsoft's vast resources.
+
+Visit Business Insider's homepage for more stories.
+
+Back in 2015, developer startup GitLab called its shot: It would go public in November 2020.
+
+As that date draws closer, the startup has built itself up to a $2.75 billion valuation, and closed a $268 million funding round in September. In January of this year, GitLab also announced that it had surpassed $100 million in annual recurring revenue. And the all-remote company hit 1,100 employees, almost tripling from 400 a year ago.
+
+Despite all these changes, GitLab CEO Sid Sijbrandij says the company is still on track to go public this year — though it may or may not be right at its original planned date of November 18th. He notes that the company is "not beholden to that date," and that market conditions might forcing plans to change.
+
+"It might be sooner, and it might be later," Sijbrandij told Business Insider. "The date we set is an ambition."
+
+The timing is for a few reasons, Sijbrandij said. In 2015, when it set the goal, the company took its first venture capital, and Sijbrandij said that it wanted to show investors a return on the investment sooner rather than later. Secondly, that same year is when it started issuing stock options to early employees, with a four-year vesting period.
+
+In other words, employees and investors alike are primed and ready for the chance to cash out on their GitLab shares. "We want to make sure that pretty soon afterwards, there was liquidity," Sijbrandij said.
+
+Previously, Sijbrandij told Business Insider that the company is leaning towards a direct listing, but he now says that it could still go the more traditional IPO route.
+
+Either way, Sijbrandij says, the company has some work to do in order to make its very startup-like business and working style more palatable to Wall Street investors — especially as the rising competitive threat from the Microsoft-owned GitHub only grows.
+
+"Reviewing all the aspects of our business is a lot of work," Sijbrandij said. "I expect a lot of discussions about transparency and combine that with making sure the investors have the right information to base our decisions."
+
+Transparency
+
+A big part of the company's IPO prep is around its much-prized culture of transparency, Sijbrandij says.
+
+GitLab has always prided itself on making all information available to parties inside and outside the company — its IPO plans were in a public document for anybody to view, from the moment they were made. Similarly, the company publishes certain information about its revenue, employment stats, and even the employee handbook, where anybody can see.
+
+Sijbrandij says that if GitLab wants to keep up that transparency after IPO, it will have to get a lot more diligent about making sure that any information it does share publicly is up to Wall Street standards. And once it's subject to SEC scrutiny, it will also have to come up with a plan for quickly correcting any mistakes in public documents.
+
+"One of the things that will be different from other companies is we're a much more transparent company than most," Sijbrandij said. "Being a public company means you're sharing more with the world...We want to keep saying a lot and keep sharing a lot, but whenever there is an inaccuracy, we're much better at addressing that inaccuracy."
+
+A 'predictable' business
+
+Sijbrandij also says GitLab is working to make sure business becomes "predictable," even as its revenue grows. As a public company, Wall Street will be keeping extremely close tabs on the company, and Sijbrandij says GitLab needs to "manage expectations accordingly."
+
+"If you're a public company, investors don't just want to see growth," Sijbrandij said. "We have to rely on meeting the predictions that you gave off. At GitLab, we're good at growing fast, but in the past, we had one quarter that was good, one quarter that was not as good, and the next quarter was even better."
+
+A big bar to that predictability has been hiring, Sijbrandij says. There have been quarters where the company simply didn't have enough headcount to keep pace with growth, holding it back from reaching higher highs, he said. It's something the company has gotten better at over time, he says.
+
+"It's hard to keep hiring the exact high amount of people while having a super high bar," Sijbrandij said.
+
+Sijbrandij also says GitLab has a "high-margin business," which will help as it prepares to go public. He expects that in the long term, GitLab will show "high profitability."
+
+Executive changes
+
+Another step towards the IPO has been some new executive hires.
+
+In January, it hired Michelle Hodges as vice president of global channels and Robin Schulman as chief legal officer. Sijbrandij said that hiring a chief legal officer was "a really important goal" as GitLab gets closer to becoming a public company.
+
+However, the appointment of Schulman to the role follows a period of upheaval at the company. Schulman's predecessor as the company's top lawyer, vice president of legal Jamie Hurewitz, was fired from GitLab in January, as Bloomberg reported at the time.
+
+The Register reported that her termination was linked to Hurewitz's support for Candice Ciresi, GitLab's former director of risk and global compliance, who resigned over claims that the company is 'engaging in discriminatory and retaliatory behavior' after proposing a ban on hiring in China and Russia.
+
+In a broader sense, the Register report indicates that the company has seen some executive turnover, linked to concerns among GitLab's female employees of unfair treatment, unequal pay, or limited advancement opportunities at the company.
+
+A company spokesperson says that "diversity and inclusion is a core GitLab value," and that "because we value the privacy of our current and former employees, we do not discuss personnel issues publicly."
+
+Market timing
+
+In the run-up to IPO, Sijbrandij says he's also keeping an eye on murmurs about a possible economic downturn. He says that GitLab would have some advantages in such a situation — the company's technology helps developers be more productive, if nothing else — such a downturn would certainly impact the company.
+
+"If you Google GitLab's biggest risks, an economic downturn is one of the biggest things we list," Sijbrandij said. "On one hand, it won't hurt so much because GitLab is not only a way to increase revenue for companies but also a way to save money...What you do see in an economic downturn is that decisions are delayed and the sales cycle gets longer."
+
+If GitLab were to go public, it would also be in a market climate that hasn't always been kind to high-flying startups Companies like Uber, Lyft, and Casper have hit turbulence since their own recent IPOs.
+
+Bigger goals ahead
+
+Right now, one of GitLab's biggest competitors is GitHub, which is now owned by Microsoft. To compete with GitHub and its very deep-pocketed owner, Sijbrandij says GitLab needs to make sure that it uses its biggest advantage as a smaller company and move faster.
+
+"Every month we're shipping a new version that has 50 significant features," Sijbrandij said. "We want to keep innovating faster than the rest of the industry. If you're going to base your whole company on one DevOps platform, it better be the best and most complete platform."
+
+It's also important to note that the November 2020 wasn't the end of GitLab's plans for the company. By November 2023, it plans to hit a billion dollars of revenue, to be cash flow positive, and for its employees to have a high satisfaction rate about working at the company — among other milestones.
+
+In the interim, Sijbrandij says, he's gratified that the company has seen the growth that it has.
+
+"We're excited that customers are trusting us and investing in GitLab," Sijbrandij said. "We're excited that we've been able to grow at a really rapid pace last year."
+
+Do you work at GitLab? Got a tip? Contact this reporter via email at rmchan@businessinsider.com, Signal at 646.376.6106, Telegram at @rosaliechan, or Twitter DM at @rosaliechan17. (PR pitches by email only, please.) Other types of secure messaging available upon request. You can also contact Business Insider securely via SecureDrop.

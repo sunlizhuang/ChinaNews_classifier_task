@@ -1,0 +1,63 @@
+The remaining issues, such as cyber theft, cyber security, and standardization, are untouched by the Agreement and could be the source of tension in the future.
+
+The US-China Economic and Trade Agreement, described as a "phase one" deal, entered into force today (30 days after signature, pursuant to Article 8.3, para. 1). The Agreement has created a temporary tariff truce. For the time being, it seems that tariffs will not be raised further, and both sides lowered their retaliatory tariffs to some extent, which is good news.
+
+But with all the talk of tariffs, it is easy to lose sight of the U.S. concerns about Chinese trade practices. How does the Agreement do in terms of addressing the purported basis for the trade war?
+
+The trade war began with a Section 301 investigation and report by the U.S. Trade Representative's Office on China’s "Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation." Pursuant to the Agreement, China has agreed to undertake new obligations in these areas. Will these new obligations successfully address the concerns? In this blog post, we offer some preliminary observations on this question, based on the text of the Agreement. A full analysis will have to await China's actions to implement the Agreement. (Under Article 1.35, "Within 30 working days after the date of entry into force of this Agreement, China will promulgate an Action Plan to strengthen intellectual property protection aimed at promoting its high-quality growth.")
+
+The main findings of the Section 301 report were as follows:
+
+• “China uses joint venture requirements, foreign investment restrictions, and administrative review and licensing processes to require or pressure technology transfer from U.S. companies”;
+
+• “China deprives U.S. companies of the ability to set market-based terms in licensing and other technology-related negotiations”;
+
+• “China directs and unfairly facilitates the systematic investment in, and acquisition of, U.S. companies and assets to generate large-scale technology transfer”;
+
+• “China conducts and supports cyber intrusions into U.S. commercial computer networks to gain unauthorized access to commercially-valuable business information.”
+
+In addition to these four findings, USTR also concluded that certain “other Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation may also burden or restrict US commerce.”
+
+We will now go through each of the findings and evaluate whether, and to what extent, it has been addressed in the Agreement.
+
+Forced technology transfer
+
+In the Section 301 report, USTR found that China uses its foreign investment policy to encourage technology transfer by foreign companies to their Chinese joint venture partners. American (and other foreign) companies are forced to partner with Chinese companies in exchange for entering the Chinese market, and as part of this arrangement, the foreign companies have to share their technology with the Chinese partners.
+
+Ideally, the requirement that foreign investors use joint ventures would be eliminated. In the Agreement, China does not make commitments to open its market (other than the financial services sector) to wholly owned foreign investments. However, recently, outside the context of the Agreement, China announced that it would lift foreign capital restrictions in some manufacturing sectors, including aircraft and automobile manufacturing, within several years. This will help ease forced technology transfer concerns to some extent.
+
+In addition, the Agreement has more detailed and clearer rules on forced technology transfer than are found in existing WTO rules. Article 2.1, para. 1 states that: "Natural or legal persons (“persons”) of a Party shall have effective access to and be able to operate openly and freely in the jurisdiction of the other Party without any force or pressure from the other Party to transfer their technology to persons of the other Party." Article 2.3 then offers more specific obligations:
+
+1. Neither Party shall adopt or maintain administrative and licensing requirements and processes that require or pressure technology transfer from persons of the other Party to its persons. 2. Neither Party shall require or pressure, formally or informally, persons of the other Party to transfer technology to its persons as a condition for, inter alia: (a) approving any administrative or licensing requirements;
+
+(b) operating in the jurisdiction of the Party of otherwise having access to the Party’s market; or
+
+(c) receiving or continuing to receive any advantages conferred by the Party.
+
+This language identifies a wide range of administration actions through which technology transfer may be encouraged. At first glance, it looks like it could be effective in the fight against foreign technology transfer.
+
+In some instances, international pressure can help push domestic reforms, and that may be the case here, as the US-China trade negotiation might have helped the Chinese government in incorporating these policies into domestic law. China’s new Foreign Investment Law has language that prohibits administrative officials from forcing technology transfer (Article 22). And the Implementing Regulation of the Foreign Investment Law also has specific language that prohibits agencies and officials from forcing technology transfer through licensing, inspection, penalty and other administrative actions (Article 24) and stipulates administrative punishment for officials who are involved in forced technology transfer (Article 43). Whether these laws are effective in stopping forced technology transfer will depend on the implementation.
+
+In addition to forced technology transfer, the Section 301 report points out that the reviewing process may also lead to forced disclosure of information and leakage of such information to parties with a competing interest. To address this, paragraph 2(d) of Article 1.9 of the Agreement prohibits personnel with business interest from gaining access to such information.
+
+In this regard, China’s Foreign Investment Law already prohibits government officials from disclosing confidential information to others (Article 23), and the Implementing Regulation has further detailed provisions. But the language of the Agreement goes beyond the current law and would have a broader scope of application. It applies not only to government officials, but also to all third-party experts and consultants who may be involved in the administrative process.
+
+Licensing restrictions
+
+The Section 301 report concluded that there has been discriminatory treatment of U.S. companies and U.S. intellectual property in China. In particular, it found that Chinese laws impose restrictions on licensing terms, which discriminate against foreign IP and provide an unfair advantage to domestic licensees.
+
+These practices would likely be found in violation of China’s WTO obligations under Article 3 (national treatment) and Article 28 (IP rights conferred) of the Agreement on Trade-Related Aspects of Intellectual Property Rights. In this regard, the United States filed a WTO complaint against China in 2018. Soon after, China abolished the relevant provisions or laws cited in the U.S. claims, and now the case is suspended. (The EU has a similar case on China’s IP practice, but the EU’s claim is broader and the case is still ongoing.) Since the relevant practices have already been revoked, this issue is not addressed in the Agreement.
+
+Since the relevant laws and regulations have already been revoked, this issue is not a main focus of the Agreement. Article 2.1, para. 2 does provide a general principle that should apply to licensing: “Any transfer or licensing of technology between persons of a Party and those of the other Party must be based on market terms that are voluntary and reflect mutual agreement.” To this end, China’s new Foreign Investment Law promises to protect the intellectual property rights of foreign investors and companies (Article 22, para.1). It also has provisions that “encourage” technical cooperation on voluntary principles and commercial rules, and require the terms of such technical cooperation to be determined by fair and equal negotiations between the parties. (Article 22, para. 2). This, hopefully, will prevent future administrative intervention in licensing terms in contracts.
+
+Outbound investment
+
+Another focus of the Section 301 report is China’s outbound investment policy and how China is using outbound investment to acquire foreign technology in sectors with strategic importance.
+
+In the Agreement, China agrees to a general obligation not to “support or direct” outbound investment to reach its industrial goals in a way that would distort the market. (Paragraph 3 of Article 2.1). There are aspects to the language used in this provision that are vague and might be difficult to enforce. As a result, it could be a challenge to assess China’s compliance with the Agreement on this point.
+
+A more powerful tool may be America’s domestic law. Separate from the Agreement, the United States has also taken some unilateral actions to tighten technology transfer that takes place through outward investment. For instance, the Foreign Investment Risk Review Modernization Act (FIRRMA) passed in 2018, and related implementing regulations, are designed to enhance the screening of Chinese investment in many sectors. This move will make it more difficult for Chinese companies to invest in the United States and would probably have more impact on curbing the Chinese practice of acquiring technology through foreign investments than the provision in the Agreement.
+
+Cyber theft
+
+The Section 301 report also concludes that the Chinese government has supported cyber intrusion to steal confidential business information. It distinguishes the Chinese government’s cyber activities from those of Western countries because “the intrusions occur within the framework of China’s extensive state-driven economic development model,” which allows China to use government intelligence for economic gains.

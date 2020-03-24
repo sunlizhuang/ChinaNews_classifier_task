@@ -1,0 +1,41 @@
+Credit: FAST
+
+The world's largest and most sensitive radio telescope is officially open for business, according to Xinhua, China's official state-run media. The FAST Radio Telescope saw first light in 2016, but has been undergoing testing and commissioning since then. FAST stands for Five-hundred meter Aperture Spherical Telescope.
+
+FAST's nickname is Tianyan, which means "Eye of the Sky" or "Eye of Heaven." It's built in a natural depression in Guizhou, Southwest China. Among other things, its scientific goals are to study pulsars. FAST has already discovered two of those, in August 2017.
+
+FAST's name is not exactly accurate. Though it does have a 500 meter diameter, only 300 meters of it is used at any one time. The telescope is active and can change so that one 300 meter segment is focused on the receiver.
+
+According to Xinhua, all the technical indicators from FAST are meeting or exceeding planned levels. FAST is a powerful radio telescope, and scientists think it will make some major discoveries, especially in its first couple of years.
+
+FAST's science goals include:
+
+FAST will also perform two sky surveys, which will take about five years. It'll take another 10 years just to analyze all that data. Still, there's room for flexibility in the telescope's operational schedule to pursue any surprises that come up. The surveys will take up about half of the telescope's observing time, leaving room for objectives like searching for exoplanets with magnetic fields, which are probably crucial for life.
+
+FAST has a 500 meter diameter but only 300 meters is "illuminated" at once. Image Credit: By Phoenix7777—Own workData source: (2011-05-20). "The Five-Hundred-Meter Aperture Spherical Radio Telescope (FAST) Project" Credit: International Journal of Modern Physics D 20 (6): 989–1024. DOI:10.1142/S0218271811019335., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=51795209
+
+FAST's power is already clear to astronomers. The telescope discovered two new pulsars in August 2017. In fact, the telescope has discovered 102 pulsars in just over two years. XINHUA is happy to point out in their press release that this is more than the total number of pulsars discovered by researchers in the US and Europe during the same time period.
+
+FAST's sensitivity allows for the timing of pulsars to be measured about 50 times more accurately than before. With FAST, researchers will be able to measure extremely low-frequency Nahertz gravitational waves for the first time.
+
+In terms of sky coverage, FAST is a huge step forward for radio astronomy. It has expanded four times the volume of the space range that radio telescopes can effectively explore. This is a leap, and it means that "scientists can discover more unknown stars, cosmic phenomena and laws of the universe, or even detect extraterrestrial life," said Li Kejia, a scientist at the Kavli Institute for Astronomy and Astrophysics at Peking University. China never shies away from grandiose claims about its various accomplishments, but in this case, FAST may be truly revolutionary.
+
+FAST in its home in a natural karst basin in Guizhou, southwest China. Credit: Xinhua/Ou Dongqu
+
+FAST was completed in 2016, 20 years after it was first proposed. It cost about $170 million US to build. It's operated by the Chinese National Astronomical Observatory, part of the Chinese Academy of Sciences. China intends to allow international researchers to use the facility, mirroring how other astronomical facilities are used around the world. So far, almost ten scientists from other countries have already used FAST.
+
+FAST has superseded the world's previous largest radio telescope, the Arecibo Observatory in Puerto Rico. Both telescopes are large parabolic dishes, and both can only use a portion of their area at a time. But FAST is not just larger, it's operated differently and is more flexible. While Arecibo is a fixed shape, FAST can change its surface shape.
+
+FAST is kind of like a segmented mirror telescope. Its surface is made of nearly 4500 individual panels. There are more than 2200 winches on the underside which can shape the surface, forming a parabola aimed at different parts of the sky. FAST is a significantly deeper dish than Arecibo, too, which gives it a wider field of view.
+
+FAST is a massive scientific megaproject. Four photos of its construction from left to right. Credit: FAST/National Astronomical Observatories of Chinese Academy of Sciences
+
+This diagram compares the Arecibo radio telescope (top) in Puerto Rico with China’s FAST telescope (bottom.). Credit: Cmglee – Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50085510
+
+Arecibo can use its entire surface to observe something directly overhead, but that's rare. Objects typically aren't at zenith, and are observed with an inclined view and a surface area of only about 221 meters diameter. FAST's 300-meter-diameter aperture is a significant advantage.
+
+According to some reports, China is having trouble staffing the telescope internally, as they have few radio astronomers. They've been trying to recruit internationally, but one of the obstacles may be the telescope's remote location. China is also looking for a chief scientist for FAST, but according to some reports, there is reluctance among qualified personnel because of fears of China's heavy handed authoritative approach.
+
+Explore further FAST's first discovery of a millisecond pulsar
+
+More information: Rendong Nan et al. The Five-Hundred-Meter Aperture Spherical Radio Telescope (FAST) Project, International Journal of Modern Physics D (2011). Rendong Nan et al. The Five-Hundred-Meter Aperture Spherical Radio Telescope (FAST) Project,(2011). DOI: 10.1142/S0218271811019335

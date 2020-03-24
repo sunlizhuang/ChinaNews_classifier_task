@@ -1,0 +1,25 @@
+We aren’t completely unprepared for the Wuhan coronavirus now spreading around the world. Just ask the people who work in Tyvek suits and respirators, such as epidemiologist Timothy Sheahan of the University of North Carolina.
+
+He has been studying coronaviruses since 2003, shortly after a similar virus triggered the SARS outbreak, which also started in China and spread to North America. In the end, it killed fewer than 800 people but raised legitimate fears about a global pandemic.
+
+Now there’s a drug called remdesivir which Sheahan and his colleagues at UNC, in collaboration with Gilead Sciences, have been testing in a level 3 containment facility for its ability to fight a whole range of coronaviruses — so named for their spiky shape, which resembles a crown.
+
+Sheahan said their drug targets an enzyme that different kinds of coronaviruses need to replicate themselves. They’ve tested the drug in mice infected with the SARS virus, as well as MERS — Middle East respiratory syndrome — another coronavirus that has killed 851 people since it broke out in 2012. They published the MERS results this month in Nature Communications.
+
+Clinical trials in these cases usually test drugs’ effectiveness as compared with other therapies, rather than against a placebo. Such comparative testing is still being done with Ebola — which is currently infecting people in the Democratic Republic of Congo. Though Ebola is not a coronavirus, it is, like SARS and the new infection, a so-called RNA virus, and so doctors tested remdesivir against other Ebola therapies. It didn’t perform as well as a different kind of therapy, but it did prove reasonably safe.
+
+Sheahan says his work is part of a program on emerging infectious diseases, funded by the National Institutes of Health. How did the NIH have the foresight to fund research on coronavirus cures, when there hasn’t been a case of SARS since 2004 and there’s little fear that MERS will spread in the United States?
+
+Experts say they knew it was likely that another dangerous coronavirus would emerge in China. That’s because SARS — which stands for Severe Acute Respiratory Syndrome — was eventually found to come from wild bats, and bats carry a whole cauldron of different strains of SARS-like coronaviruses. Bats are considered a “reservoir” for coronaviruses because they can carry them without getting sick.
+
+The story of SARS is well-told in David Quammen’s book “Spillover: Animal Infections and the Next Human Pandemic.” A determined group of investigators swabbing thousands of animals eventually found that people in China got the disease from eating small mammals called civets. The civets were likely infected by bats in a so-called wet market, where a vast array of wild and domestic species are stored in stacked up cages and exposed to one another’s wastes and germs before being butchered. The Chinese killed thousands of civets in an attempt to eradicate the virus, before they realized it was going to remain indefinitely in the bodies of wild bats — which some people there still consider a delicacy. The new disease appears to have emerged from a seafood market that also sold live mammals and birds, though the original animal host has yet to be identified.
+
+SARS was, ultimately, the story of a bullet dodged. According to Quammen’s account, the factor that worked in humanity’s favor was the pattern of contagion. While influenza tends to spread most readily when people first get sick, before the peak of their symptoms, SARS becomes most transmissible during or after symptoms hit their peak. It’s a lot easier to quarantine people who are or have been sick than those who have yet to notice symptoms.
+
+If the scientists working in level 3 containment facilities to develop cures can be thought of as the “special ops” part of the effort to protect the public, there’s also important work being done by the infantry: making sure hospitals worldwide are using the best standards for sanitation and protection of healthcare workers. All hospitals should be equipped to diagnose the disease, says virologist David Sanders of Purdue University, and regional centers should be set up as needed to treat patients.
+
+One chilling aspect of the SARS epidemic was the speed with which health care workers got sick and died. It happened in Asia, and then in Toronto, where the disease first appeared in North America. Investigations of the Toronto hospitals showed lapses, in some cases simply because health care workers had no idea what they were dealing with. SARS wasn’t a global pandemic, but it was still a tragic story as dozens of doctors and nurses, many of them young, were struck down in the line of duty.
+
+Experts say this Wuhan virus is unlikely to turn into a global pandemic — and whether it becomes as tragic as SARS depends on cutting-edge science and simple sanitation. The fact that our world is full of potentially deadly viruses is scary, but we are not helpless in the face of them.
+
+Bloomberg

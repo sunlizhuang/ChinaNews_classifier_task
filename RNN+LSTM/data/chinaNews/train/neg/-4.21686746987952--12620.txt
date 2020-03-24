@@ -1,0 +1,13 @@
+Chinese scientists have identified a mosquito salivary protein as a key factor in facilitating virus transmission, providing a new target for the prevention and control of mosquito-borne disease.
+
+Previous studies have shown that mosquito saliva can facilitate viral transmission, but salivary proteins with related functions have not been effectively identified.
+
+Researchers from Tsinghua University, Shenzhen Center for Disease Control and Prevention as well as other institutions conducted a series of screenings on 32 mosquito salivary proteins and found that the protein AaVA-1 promotes dengue and Zika virus infection and AaVA-1-deficient mosquitoes reduce Zika virus transmission.
+
+This study also showed that AaVA-1 promotes virus transmission by activation of autophagy in host immune cells.
+
+Cheng Gong, the leading researcher, said the study provides insight into the mechanism of saliva-aided viral transmission.
+
+The development of a vaccine targeting the AaVA-1 protein may help reduce Zika virus transmission, Cheng said.
+
+The research was published in the journal Nature Communications.

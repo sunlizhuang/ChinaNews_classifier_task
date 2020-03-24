@@ -1,0 +1,41 @@
+UK Prime Minister Boris Johnson gave the go ahead today for the UK to use some Huawei 5G technology.
+
+The U.K. government has given the green light for Huawei Technologies Co. to build part of its next-generation 5G cellular network, dismissing calls from the Trump administration to boycott the Chinese telecom-equipment vendor over security fears. The decision is a major setback for American-led efforts to clamp down on the use of Huawei products, and could embolden other countries to follow the U.K.’s lead. Germany is expected to make a decision on whether to allow Huawei to build sections of its own 5G network this year. Canada is also still to decide whether to block the equipment maker. U.S. officials visited London recently to reiterate their fears that the use of Huawei would strengthen China’s attempt to gain a stranglehold on the global telecom-equipment market. In recent days, President Trump, Treasury Secretary Steven Mnuchin and Secretary of State Mike Pompeo have warned U.K. officials of what they describe as the dangers of allowing telecom companies to use Huawei equipment. The U.K.’s decision doesn’t give Huawei a full pass: The country will ban the company’s equipment from centralized parts of the 5G infrastructure that route data across the network, as well as sensitive locations such as near military and nuclear installations.
+
+Despite intense pressure form the Trump administration, the WSJ reports U.K. Allows Huawei to Build Parts of 5G Network
+
+Politico reports Boris Johnson Allows Huawei to Build Parts of UK 5G Network.
+
+The U.K. has come under intense lobbying from the U.S. against the Chinese firm, which they say poses security risks. The decision on Huawei was repeatedly postponed amid disagreement at the highest level of government. The White House, which was informed of the decision just after noon U.K. time, blasted the move. “The United States is disappointed by the UK’s decision,” a senior administration official, who declined to be named, said in a statement. “There is no safe option for untrusted vendors to control any part of a 5G network.” In a press statement, Culture Secretary Nicky Morgan said, “We want world-class connectivity as soon as possible but this must not be at the expense of our national security. High-risk vendors never have been, and never will be, in our most sensitive networks.”
+
+Germany, EU will Follow
+
+With the UK on board, Germany is a strong bet to do the same, and may have anyway.
+
+Germany would have huge problems scrapping Huawei because most of its 4G network is built on Huawei components. There is backward compatibility, but only if one uses the same vendor.
+
+Scrapping Huawei would likely set Germany back by close to two years. And China also threatened retaliation.
+
+In Huawei Battle, China Threatens Germany ‘Where It Hurts’
+
+The New York Times commented In Huawei Battle, China Threatens Germany ‘Where It Hurts’: Automakers
+
+Analysts say Nokia and Ericsson, which have won 5G contracts in Denmark and elsewhere, have the competence to build the 5G network, but it would take longer and cost more — not least because Huawei is already a huge part of the existing networks in Germany. Switching will be messy and costly. “If we ban Huawei, the German car industry will be pushed out of the Chinese market — and this in a situation where the American president is also threatening to punish German carmakers,” said Sigmar Gabriel, a former German foreign minister and vice chancellor. “Just because we have an American president who doesn’t like alliances, we give all that up?” he said. “Why would we? Especially since he does exactly what the Chinese do and threatens the German car industry.” “See, last year, 28 million cars were sold in China, 7 million of those were German,” Mr. Wu, China’s ambassador to Germany, added in his remarks in December, making what many in Germany interpreted as a veiled threat. Markus Söder, Bavaria’s conservative leader, has publicly defended Huawei’s right to bid, while also lashing out at the United States.
+
+Competitors
+
+Huawei has emerged as the world’s biggest maker of telecom gear, including base stations, switches and routers. It competes chiefly with Sweden’s Ericsson AB and Finland’s Nokia Corp. and benefits from Chinese state subsidies. It is currently the telecom-equipment market leader in the U.K., according to a government report published in 2019. The British government in 2018 estimated that Huawei’s market share for 4G networks in the U.K. was around 35%. That figure rises to 45% for ultrafast fiber networks.
+
+Trump Won’t Get His Way
+
+It appears the UK has similar problems to Germany, just not to the same degree.
+
+The Financial Times reports US Attacks UK’s Decision on Huawei.
+
+The UK’s four mobile operators — EE, O2, Three and Vodafone — have all launched 5G services during the past six months, all using Huawei kit.
+
+Europe is stuck with Huawei.
+
+This is what happens when you let China get a huge lead in technology.
+
+Mike “Mish” Shedlock

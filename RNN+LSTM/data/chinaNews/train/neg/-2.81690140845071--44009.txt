@@ -1,0 +1,47 @@
+When Wei Sun, a 48-year-old engineer at Raytheon Missile Systems, left for an overseas trip last year, he told the company he planned to bring his company-issued HP EliteBook 840 laptop along.
+
+Sun, a Chinese-born American citizen, had been working at Raytheon, the fourth-largest US defense contractor, for a decade. He held a secret-level security clearance and worked on highly sensitive missile programs used by the US military.
+
+Since Sun’s computer contained large amounts of restricted data, Raytheon officials told him that taking it abroad would not only be a violation of company policy, but a serious violation of federal law, as well.
+
+Sun had access to sensitive missile defense technology.
+
+Sun didn’t listen, according to US prosecutors. While he was out of the country, Sun connected to Raytheon’s internal network on the laptop. He sent an email suddenly announcing he was quitting his job after 10 years in order to study and work overseas.
+
+When Sun returned to the United States a week later, he told Raytheon security officials that he had only visited Singapore and the Philippines during his travels. But inconsistent stories about his itinerary led Sun to confess that he traveled to China with the laptop.
+
+A Raytheon lawyer examined the machine, and confirmed it contained technical specifications prohibited from export by the International Traffic in Arms Regulations (ITAR), in addition to security software that is itself export-controlled and requires a special license to take outside the United States.
+
+Sun was arrested by FBI agents the next day. His attorney, Cameron Morgan, did not respond to a request for comment. Raytheon said only that the company “cooperated with this investigation,” declining to elaborate further.
+
+Court documents reviewed by Quartz refer to Sun possessing classified files related to several different air defense systems designed by Raytheon for the US military and sold to American allies and proxies around the world.
+
+The case, which has not been reported until now, is yet another example of China’s increasing efforts to acquire American military technology. The country’s security services have already compromised dozens of crucial US weapons systems, such as the Army’s Terminal High Altitude Area Defense (THAAD) ballistic missile defense system, and the Aegis ballistic missile defense system used by the Navy. In 2018, Chinese hackers stole top-secret plans for a supersonic anti-ship missile being developed by the Navy known as Sea Dragon. The intruders reportedly managed to get massive amounts of sensitive signals and sensor data, in addition to the Navy submarine development unit’s entire electronic warfare library.
+
+The weapons with which Sun worked are “pretty much top-of-the-line American systems,” according to Dean Cheng, a fellow at the Heritage Foundation who studies China’s military capabilities.
+
+The AMRAAM, or Advanced Medium Range Air to Air Missile, is used on US fighter jets like the F-16 and F-22 to destroy other aircraft before they can be seen by anything but radar. It has also been converted into a ground-based air defense system, which may have been Sun’s focus, since prosecutors describe his work as centered on ballistic missile defense.
+
+The documents also say Raytheon employees will provide testimony about the Stinger missile, a “man-portable” air-defense missile that can be fired by troops on the ground, made most famous when the US supplied it to Afghan warlords fighting against occupying Soviet troops.
+
+Perhaps most significant is Sun’s involvement with the Redesigned Kill Vehicle (RKV) program, an effort to replace the interceptor used by US air defense systems to shoot down incoming ballistic missiles.
+
+The Pentagon cancelled the program last year because of technical problems, but information about the project would still be useful to China to understand what the US might do to defend from conventional or nuclear missiles. Missile technology has become central to Beijing’s strategy to deter US power (Quartz member exclusive) in the Pacific, making up for deficiencies and a lack of experience with weapons systems like jet fighters.
+
+China would be eager to learn how to defeat the missiles by understanding the technical details of how they find their targets with radar and other sensors, and how they respond to attempts to jam or distract them, Cheng told Quartz.
+
+China already has its own equivalents of these weapons, so it’s not necessarily seeking to copy US technology. However, as one example, China’s advanced air-to-air missile has never been used in combat, while the AMRAAM has, so its design may offer lessons that China’s defense industrial base has yet to learn.
+
+Cheng said this is “one piece of the larger Chinese espionage picture…we tend to focus on Chinese cyber [but] they have human intelligence, they have people trying to steal examples of it in other countries as well.”
+
+None of the documents shed any light on Sun’s co-conspirators, if any, and it’s not clear if Sun was acting at the behest of Chinese intelligence.
+
+“I can assume that Chinese government agencies are keeping their eye on former citizens who are working in big US companies [like Raytheon],” said Janosh Neumann, a former counterintelligence officer with Russia’s Federal Security Service who now lives in the United States.
+
+Regardless, William Mackie, the lead prosecutor on the Sun case, said someone who brings a computer to China can do damage without directly cooperating with anyone. The files can easily be purloined by an adversarial spy service without the person’s knowledge, said Mackie, who made clear that he was speaking strictly in generalities, not about Sun.
+
+“If your computer gets left in a hotel room, somebody could image the whole thing and you’d never know it,” Mackie told Quartz. “There’s always the risk of something like that—no different than if somebody took pictures or copies of blueprints or a paper file.”
+
+A grand jury in Arizona last week returned a superseding indictment charging Sun with additional counts of violating ITAR. Legal filings suggest that Sun, who initially pleaded not guilty, is preparing to change his plea to guilty as part of an agreement with the Department of Justice. He is scheduled to appear in court on Feb. 14.
+
+This article has been updated with further information about the additional charges against Sun.

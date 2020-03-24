@@ -1,0 +1,38 @@
+The Xpeng P7 Tackles -30°C Weather In Cold Weather Performance Testing
+
+February 19th, 2020 by Kyle Field
+
+Guangzhou Xiaopeng Motors Technology Co., Ltd., also known as Xpeng, waited for some serious cold weather to hit, then took the P7 out onto the track for an epic good time. Sure, they called it “cold weather performance testing” but we all know it was just a bunch of engineers sitting around a pot of warm tea dreaming up ways to have the most fun in the snow.
+
+In all seriousness, the Xpeng P7 looks beautiful drifting around the snow-covered track at the Red River Valley Automotive Test Center in Heihe, China, kicking off a fountain of snow as it beautifully flies around one of the many U-turns on the track. Xpeng’s team was at the track performing cold weather testing for a staggering 120 days to ensure the vehicle would perform as expected in the worst of winter conditions. The cold weather did not disappoint, with lows of -40°C putting the thermal management systems and other critical systems of the vehicle to the test.
+
+“We are proud of the P7’s exceptional performance in the most testing winter conditions,” Jack Xu, Vice President of Xpeng Motors, said. “The test results are a credit to Xpeng’s engineers, and to the superior quality systems of the P7.”
+
+Traction control in the sketchy conditions was one of the key systems being tested, with an average speed of 110km/h or 62 mph putting the dual motor, four-wheel drive system to the test. Dynamic torque vectoring in the P7 maximizes traction by adjusting the power output to each axle every 0.3 seconds.
+
+Xpeng is proud of the results achieved in the winter testing, as it should be. The P7 sustained 35km/h drifting around the U-turn on the track and 55km/h drifting around the S-bend turn. While the testing is a critical step in validating the base functionality and tuning of the car and its suspension, it also serves as a reminder about just how much fun electric vehicles are to drive. That’s one of the main reasons we believe new customers will pull the trigger on the purchase of an electric vehicle because it truly evokes an emotional response. Ok, the adrenaline is nice too, but they really are fun to drive.
+
+The company attributes its results to the partnership with Porsche Engineering to develop the chassis. According to Nicolas Zart, “Although Xpeng Motors prides itself on developing most of its technology in-house, the company made the right choice by collaborating with a carmaker that has a lot of experience in handling.” On top of that stable foundation, Xpeng has been hard at work tuning the chassis for the last two years, with hundreds of thousands of miles put onto various test mules.
+
+Prior to the testing, Xpeng’s team visited the track to install a dedicated EV charger for the location, ensuring the P7 would always have enough power to run whatever tests they had in store for it. In fact, cold weather charging was also one of the vehicle systems they wanted to test. They charged the Xpeng P7 in extreme low temperatures and in various real-world scenarios to see how the charging system and batteries would perform.
+
+The P7’s active thermal management system is wrapped in an insulated shell that minimizes the effect of external weather on the cells themselves. From there, Xpeng developed a proprietary thermal management system that heats and cools the pack as needed. Xpeng spared no expense with the thermal management system, opting for a MAHLE air-conditioning system and controllers, HAON compressors, Bosch water pumps, and Continental water valves.
+
+Down underneath, the Xpeng P7 utilizes prismatic battery cells as the building blocks of the primary pack. The cells boast an energy density of just over 160Wh/kg stacked together for a total pack storage capacity of 80.87kWh . That translates to a total range of 650 kilometers for the rear wheel drive configuration and 550 kilometers for the all-wheel drive configuration.
+
+Take a look at the video below for a glimpse into the winter weather testing of the P7.
+
+
+
+
+
+Follow CleanTechnica on Google News.
+
+It will make you happy & help you live in peace for the rest of your life.
+
+
+
+
+
+
+

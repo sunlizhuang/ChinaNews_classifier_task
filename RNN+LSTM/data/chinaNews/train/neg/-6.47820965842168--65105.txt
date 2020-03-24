@@ -1,0 +1,21 @@
+READ MORE | Equifax to pay up to $700M in data breach settlement
+
+
+
+Once they accessed files of interest, the conspirators then stored the stolen information in temporary output files, compressed and divided the files, and ultimately were able to download and exfiltrate the data from Equifax’s network to computers outside the United States. In total, the attackers ran approximately 9,000 queries on Equifax’s system, obtaining names, birth dates and social security numbers for nearly half of all American citizens.
+
+
+
+The indictment also charges the defendants with stealing trade secret information, namely Equifax’s data compilations and database designs. “In short, this was an organized and remarkably brazen criminal heist of sensitive information of nearly half of all Americans, as well as the hard work and intellectual property of an American company, by a unit of the Chinese military,” said Barr.
+
+
+
+The defendants took steps to evade detection throughout the intrusion, as alleged in the indictment. They routed traffic through approximately 34 servers located in nearly 20 countries to obfuscate their true location, used encrypted communication channels within Equifax’s network to blend in with normal network activity, and deleted compressed files and wiped log files on a daily basis in an effort to eliminate records of their activity.
+
+
+
+The defendants are charged with three counts of conspiracy to commit computer fraud, conspiracy to commit economic espionage, and conspiracy to commit wire fraud. The defendants are also charged with two counts of unauthorized access and intentional damage to a protected computer, one count of economic espionage, and three counts of wire fraud. The details contained in the charging document are allegations. The defendants are presumed innocent until proven guilty beyond a reasonable doubt in a court of law.
+
+
+
+The U.S. Attorney’s Office for the Northern District of Georgia, the Criminal and National Security Divisions of the Department of Justice, and the FBI’s Atlanta Field Office are investigating the case. The FBI’s Cyber Division also provided support. Equifax cooperated fully and provided valuable assistance in the investigation.

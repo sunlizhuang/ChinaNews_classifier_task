@@ -1,0 +1,9 @@
+An element that props up plants’ cell walls can turn soya protein into a strong and eco-friendly glue.
+
+The adhesives commonly used to bond wood into plywood and particleboard come from petroleum. But the earliest wood glues were made from proteins, such as soya flour. To make a comeback, soya adhesives must be made strong enough to meet building standards.
+
+Jianzhang Li and his colleagues at Beijing Forestry University brought in boron, an element that provides essential support in plants’ cell walls. The researchers stirred soya protein into water, then added a pinch of borate salt and a dash of a large, branched molecule. The borate ions formed weak links with the hydrogen atoms on the branched molecules and those on soya protein’s long-chained molecules, linking them into a loose 3D mesh.
+
+The authors used the soya-based adhesive to glue together sheets of veneer into plywood. When this plywood was pressed and heated, the borates’ weak bonds transformed into strong bonds, producing the same network structure found in plant cell walls.
+
+The boron-containing adhesive was more than three times stronger than plain soya protein.

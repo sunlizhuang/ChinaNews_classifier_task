@@ -1,0 +1,657 @@
+Q1 2020 Skyworks Solutions Inc Earnings Call
+
+WOBURN Jan 28, 2020 (Thomson StreetEvents) -- Edited Transcript of Skyworks Solutions Inc earnings conference call or presentation Thursday, January 23, 2020 at 9:30:00pm GMT
+
+TEXT version of Transcript
+
+================================================================================
+
+Corporate Participants
+
+================================================================================
+
+* Kris Sennesael
+
+Skyworks Solutions, Inc. - Senior VP & CFO
+
+* Liam K. Griffin
+
+Skyworks Solutions, Inc. - CEO, President & Director
+
+* Mitchell J. Haws
+
+Skyworks Solutions, Inc. - VP of IR
+
+================================================================================
+
+Conference Call Participants
+
+================================================================================
+
+* Ambrish Srivastava
+
+BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst
+
+* Christopher Caso
+
+Raymond James & Associates, Inc., Research Division - Research Analyst
+
+* Craig Andrew Ellis
+
+B. Riley FBR, Inc., Research Division - Senior MD & Director of Research
+
+* Edward Francis Snyder
+
+Charter Equity Research - MD and Principal Analyst
+
+* Harsh V. Kumar
+
+Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+
+* Karl Fredrick Ackerman
+
+Cowen and Company, LLC, Research Division - Director & Senior Research Analyst
+
+* Thomas James O'Malley
+
+Barclays Bank PLC, Research Division - Research Analyst
+
+* Timothy Michael Arcuri
+
+UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment
+
+* Toshiya Hari
+
+Goldman Sachs Group Inc., Research Division - MD
+
+* Vivek Arya
+
+BofA Merrill Lynch, Research Division - Director
+
+* William Chapman Peterson
+
+JP Morgan Chase & Co, Research Division - Analyst
+
+================================================================================
+
+Presentation
+
+--------------------------------------------------------------------------------
+
+Operator [1]
+
+--------------------------------------------------------------------------------
+
+Good afternoon, and welcome to Skyworks Solutions' First Quarter Fiscal Year 2020 Earnings Call. This call is being recorded.
+
+At this time, I will turn the call over to Mitch Haws, Investor Relations for Skyworks. Mr. Haws, please go ahead.
+
+--------------------------------------------------------------------------------
+
+Mitchell J. Haws, Skyworks Solutions, Inc. - VP of IR [2]
+
+--------------------------------------------------------------------------------
+
+Thank you, Rob. Good afternoon, everyone, and welcome to Skyworks' First Fiscal Quarter 2020 Conference Call. With me on the call today are Liam Griffin, our President and Chief Executive Officer; and Kris Sennesael, our Chief Financial Officer.
+
+Before we begin, I would like to remind everyone that our discussion will include statements related to future results and expectations that are or may be considered forward-looking statements. Please refer to our earnings press release and recent SEC filings, including our annual report on Form 10-K for information on certain risks that could cause actual outcomes to differ materially and adversely from any forward-looking statements made today.
+
+Additionally, the results and guidance we will discuss include non-GAAP financial measures consistent with our past practice. Please refer to our press release within the Investor Relations section of our company website for a complete reconciliation to GAAP.
+
+With that, I'll turn the call over to Liam.
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [3]
+
+--------------------------------------------------------------------------------
+
+Thanks, Mitch, and welcome, everyone. Skyworks exceeded December quarter expectations driven by a global demand for high-performance connectivity solutions. As our results demonstrate, Skyworks is leveraging decades of experience, scale and vertical integration capabilities, along with our highly advanced Sky5 platform, accelerating the adoption of 5G technology across a broadening set of end markets and customers.
+
+Now looking at the first quarter in more detail. We grew revenues by 8% sequentially to $896 million, produced gross margin of 50.1% and operating margin of 35.2%. We posted earnings per share of $1.68, $0.03 ahead of our guidance and up 11% sequentially. And we generated exceptional operating cash flow, totaling $398 million in the quarter.
+
+Story continues
+
+At a higher level, Skyworks is ushering in an age of truly ubiquitous connectivity, enabling richer, smarter and more convenient ways to live, work, play and educate. Smartphones are leading this early transition with substantial volumes of 5G-enabled devices shipping this quarter. But more importantly, over time, we expect an incredible unit uptake outside of mobile, where connected devices and things will be measured in tens of billions.
+
+And as we've noted in prior calls, 5G catalyzes new markets from IoT, autonomous transport, artificial intelligence and high-definition streaming media. Currently, in the U.S., there are approximately 8 networked devices per person. A number that is expected to climb to 14 devices by 2022. That represents a 50% increase.
+
+And as a recent example, a higher percentage of U.S. households now subscribe to a streaming media service rather than traditional pay TV. Clearly, our world continues to rely upon seamless, high-speed connectivity, and this trend will only accelerate as 5G adoption grows and novel usage cases emerge.
+
+Recall, 5G is a technology, not a product, not a brand or a slogan. It offers gigabit speeds, ultra-low latency and greatly enhanced network capacity, fueling a wide range of applications while becoming the universal connector.
+
+Skyworks is playing a pivotal role in the deployment of this standard with a rich 20-year heritage in designing and delivering highly integrated and customized system solutions. We have demonstrated technology leadership across a vast set of critical product categories, resolving increasingly complex architectures and preparing our customers for the performance gains demanded in 5G.
+
+As we look ahead, the expanding product pipeline at Skyworks is clearly generating strong design win momentum across both mobile and broad market segments. Specifically, in our mobile business, traction in 5G is gaining strength with our Sky5 platform powering launches at Oppo, Vivo, Xiaomi and Samsung. Our baseband agnostic solutions offer interoperability and are being deployed across leading chipset suppliers, including MediaTek, Samsung and Qualcomm. And with our expanding filter capabilities in TC SAW and bulk acoustic wave, we help our customers navigate complex challenges while extending our reach across a broader spectrum of 4 and 5G bands.
+
+Moving on to broad markets. At CES, Skyworks announced a unique set of 5G-enabled solutions, including massive MIMO IoT, a suite of connected home devices and high-fidelity smart audio products. Specifically, we are powering rapidly emerging IoT applications with cellular-based platforms certified by KDDI, NTT Docomo, SoftBank and Verizon.
+
+We're driving growth with the launch of our WiFi 6 platforms, expanding our customer reach with industry leaders, including AT&T, Cisco, NETGEAR, ARRIS and Aruba.
+
+We're advancing automotive content with SkyOne in our emerging V2X portfolio and supplying low-power, long-range IoT products at Ring and many others. In the infrastructure space, Skyworks is leveraging its capabilities in silicon germanium, SOI, gallium arsenide, bulk acoustic wave and ceramic filters, while powering 5G MIMO and small cell base station design wins.
+
+In addition, we are gaining momentum in automotive, enabling new wins with leaders like Continental, Nissan and Renault, along with industrial players, including Honeywell, Bosch and GE. As these highlights suggest, we remain focused on driving diversification across high-value segments and markets with more than 2,000 products supporting thousands of customers.
+
+So in summary, Skyworks has decades of connectivity experience across multiple technology transitions, uniquely positioning us to meet the performance demands of 5G. Our portfolio of highly integrated customized connectivity engines bolstered by the early strategic investments we have made, anticipating both the complexity and the immense opportunity across our end markets. And finally, a highly profitable and predictable business model that allows us to invest aggressively while providing consistent returns to our shareholders.
+
+With that, I will turn the call over to Kris for a discussion of Q1 and our outlook for Q2.
+
+--------------------------------------------------------------------------------
+
+Kris Sennesael, Skyworks Solutions, Inc. - Senior VP & CFO [4]
+
+--------------------------------------------------------------------------------
+
+Thanks, Liam. Skyworks' revenue for the first fiscal quarter of 2020 was $896 million, up 8% sequentially and $16 million above the midpoint of the outlook we provided in November, driven by the successful launch of flagship phones and the early success of our Sky5 product portfolio as new 5G phones start ramping globally.
+
+Gross profit in the first quarter was $449 million, resulting in a gross margin of 50.1%, in line with expectations. Operating expenses were $134 million, down 4% year-over-year as we continue to prudently manage OpEx while making the necessary investments to accelerate future growth of the business. We generated $315 million of operating income, translating into an operating margin of 35.2%, up 120 basis points from fiscal Q4. Other income was $1 million, and our effective tax rate was 8.9%, driving net income of $289 million or $1.68 of diluted earnings per share, up 11% sequentially.
+
+Turning to the balance sheet and cash flow. First fiscal quarter cash flow from operations was $398 million. Capital expenditures were $111 million, resulting in $287 million of free cash flow on $896 million of revenue, translating into a strong free cash flow margin of 32%. We paid $75 million in dividends and repurchased 742,000 shares of our common stock for a total of $74 million. During the last 12 months, we have returned 87% of free cash flow back to the shareholders through a combination of our dividends and share buyback program. We ended the first fiscal quarter with cash and investments of $1.2 billion, and we have no debt.
+
+Now let's move on to our outlook for Q2 of fiscal 2020. Early momentum from the initial launch of 5G as we ramp design wins in our mobile business matched with solid traction in broad markets are driving better-than-seasonal performance in the March quarter. For the second fiscal quarter of 2020, we anticipate revenue to be between $800 million and $820 million. At the midpoint of the range, our revenues would be flat to last year's Q2. However, including Huawei or excluding Huawei in the second quarter of fiscal '19 and fiscal '20, revenue is expected to be up mid-teens year-over-year. We expect gross margin between 50% and 50.5% and operating expenses of approximately $135 million.
+
+Below the line, we anticipate roughly $2 million in other income and a tax rate of 9%. We expect our diluted share count to further reduce to approximately 171 million shares. Accordingly, at the midpoint of these ranges, we intend to deliver diluted earnings per share of $1.46.
+
+With that, I'll turn the call back over to Liam.
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [5]
+
+--------------------------------------------------------------------------------
+
+Thanks, Kris. Skyworks delivered strong results to start fiscal 2020. Looking ahead, we are in the early innings of a multiyear technology cycle with 5G gaining momentum and the growth of connected people and things continuing to expand. We have invested aggressively ahead of this transition, and we are uniquely positioned with strategic technologies crafted in our own fabs, providing sustainable, competitive advantage. At the same time, through crisp operational execution and a strong business model, we are translating these results into long-term shareholder value.
+
+That concludes our prepared remarks. Operator, let's open the lines for questions.
+
+================================================================================
+
+Questions and Answers
+
+--------------------------------------------------------------------------------
+
+Operator [1]
+
+--------------------------------------------------------------------------------
+
+(Operator Instructions) And your first question comes from the line of Vivek Arya from Bank of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+
+Vivek Arya, BofA Merrill Lynch, Research Division - Director [2]
+
+--------------------------------------------------------------------------------
+
+Congratulations on the strong results and guidance, good to see the recovery in the sector after a while. So Liam, I had 2 questions. First, just on the core business, I'm curious, you mentioned the start of the 5G ramp. How much of that ramp are you seeing in the March quarter? And just roughly, what is the direction of content that you're seeing in these 5G smartphones? And I think you mentioned integration. Is it kind of a winner-take-all in some of these initial wins or are you still kind of maintaining your share in the specific component that you have expertise in?
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [3]
+
+--------------------------------------------------------------------------------
+
+Sure. Well, the way we're seeing it right now, we believe we're absolutely gaining share in 5G, and the rollouts of these new highly complex phones are exactly what we want to see. We're continuing to gain share with our Sky5 platform. We're doing the very difficult things that we've been talking about in prior calls, really crafting and creating these wonderful devices that are going into 5G-enabled phones. We're seeing that across a number of customers, great position in China with a number of leading players, position at Samsung, and then also with some of the larger players in the U.S. that haven't even launched their 5G phone yet. So there's a lot of positive momentum there. And we feel very upbeat about where we're going in the second half.
+
+--------------------------------------------------------------------------------
+
+Vivek Arya, BofA Merrill Lynch, Research Division - Director [4]
+
+--------------------------------------------------------------------------------
+
+Got it. And my follow-up is kind of a strategic question. So you have been developing your internal BAW capability for some time, but one of your competitors put up their RF assets for sale. I'm curious if those assets get sold to a potential competitor or customer, what's the impact? Or are those assets something that you might be interested in taking a look at? Just how should we think about kind of the impact of this potential consolidation on Skyworks?
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [5]
+
+--------------------------------------------------------------------------------
+
+Sure, sure, appreciate the question. Well, we really can't get into any specifics around M&A. We're well aware of the opportunity that you just suggested. But at the same time, we are really happy with what we're doing in our organic business, and we see a tremendous opportunity there with 5G now just starting and the momentum in our demand really accelerating. So we feel good about it. But at the same time, we have to look at M&A opportunities. And I'm pleased to say that we have the powder and the cash flow to do deals when deals are necessary. But at this point, we really just can't comment on anything specifically.
+
+--------------------------------------------------------------------------------
+
+Operator [6]
+
+--------------------------------------------------------------------------------
+
+And your next question comes from the line of Timothy Arcuri from UBS.
+
+--------------------------------------------------------------------------------
+
+Timothy Michael Arcuri, UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment [7]
+
+--------------------------------------------------------------------------------
+
+Kris, can you give us the splits for both businesses for December and how you think about it for the guidance for March?
+
+--------------------------------------------------------------------------------
+
+Kris Sennesael, Skyworks Solutions, Inc. - Senior VP & CFO [8]
+
+--------------------------------------------------------------------------------
+
+Yes. So our broad markets business in the December quarter was approximately 27% of total revenue that is in line with what we saw last year. Keep in mind that the December quarter is typically a very strong mobile quarter with, obviously, a lot of business with our large customer and then the ramp of 5G phones. So mobile was 73% of total revenue. Looking forward into the March quarter, that is why we see a little bit of a flip, right? This is typically a stronger broad markets quarter. We do expect some mid-single-digit sequential growth in our broad markets business, and we will see some mid-single to -- yes, mid-single year-over-year growth in broad markets in the March quarter. And then, of course, even further stronger growth in the second half of 2020.
+
+--------------------------------------------------------------------------------
+
+Timothy Michael Arcuri, UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment [9]
+
+--------------------------------------------------------------------------------
+
+Great. And can you just talk about Huawei and how it ended up playing out? I think you expected about $10 million. And my guess is that it was maybe a little bit better than that. But how did it play out in sort of -- how do you think not just about them as a customer, but how do you think about how the export restrictions might change and how that is impacting what that customer and what your other Chinese customers are pulling, how hard they might be pulling? Are they perhaps double ordering?
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [10]
+
+--------------------------------------------------------------------------------
+
+Sure. Well, obviously, it's an evolving situation. And we have a really dynamic business today in China with Oppo, Vivo, Xiaomi and even some of the MediaTek ecosystem supported. Huawei, of course, there's been some limitations in what we can do. As we've said in the past, we can't provide a quarter-by-quarter guidance by customer, but I will say that in the Q1 time frame, Huawei came in a little bit better than we expected, but I will tell you that we are derisking exposure to Huawei in the business. We're still going after the design wins. We're going to do everything we can to gain share when it's available, but we are derisking that in our financial outlook as we go forward. So we want to make sure that, that's clear to the investors.
+
+--------------------------------------------------------------------------------
+
+Operator [11]
+
+--------------------------------------------------------------------------------
+
+And your next question comes from the line of Toshiya Hari from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+
+Toshiya Hari, Goldman Sachs Group Inc., Research Division - MD [12]
+
+--------------------------------------------------------------------------------
+
+Congrats on the strong results. Liam, I was hoping you could talk a little bit about the infrastructure business within broad markets. A couple of your peers have talked a pause in activity on the part of your customers. Is that sort of the case with Skyworks? And if so, how much of a drag was it in the quarter? And more importantly, I guess, what's the outlook into fiscal Q2 and the back half of the year? And then I have a follow-up.
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [13]
+
+--------------------------------------------------------------------------------
+
+Sure. Yes. I mean the infrastructure business has been a little bit slow, and I don't think it's changed in terms of its pace, but it's a very necessary element in 5G. And I know some of the players like Ericsson and Nokia are really stepping up right now. Obviously, there's Huawei opportunities in there as well. They have some limitations, but it's obviously an opportunity. So I see the infrastructure space still very vital for us. We do some incredible work there with our MIMO solutions, antenna arrays, some of the filtering that we mentioned, including ceramic filters. So we have a role and we have the necessary role in that area, but I would expect infrastructure to pick up in the second half of the year. It's also a positive margin driver for us across broad markets. We know how to operate in those industries. We have very good relationships with the customers. So we should expect a better climate there in the second half.
+
+--------------------------------------------------------------------------------
+
+Toshiya Hari, Goldman Sachs Group Inc., Research Division - MD [14]
+
+--------------------------------------------------------------------------------
+
+Got it. That's great. And then as a follow-up, this one is for Kris. On your last call, you guys talked about gross margins potentially hitting your 53% target in the back half of the fiscal year. I just wanted to confirm it's still the case? And if so, what were some of the key drivers on a half-over-half basis?
+
+--------------------------------------------------------------------------------
+
+Kris Sennesael, Skyworks Solutions, Inc. - Senior VP & CFO [15]
+
+--------------------------------------------------------------------------------
+
+Yes. First of all, I'm pleased with our gross margin execution. So on the December quarter, we came in at 50.1%, slightly above what we guided. And so we are guiding slightly up in the March quarter at 50% to 50.5% despite our normal seasonal decline in revenue going into the March quarter. And then in the back half of 2020, I do expect further gross margin improvements towards our longer-term goal of 53%. And I didn't say last time that we were going to hit 53% at the end of 2020, but continue to make very good progress towards that target, longer-term target of 53%.
+
+--------------------------------------------------------------------------------
+
+Operator [16]
+
+--------------------------------------------------------------------------------
+
+And your next question comes from the line of Blayne Curtis from Barclays.
+
+--------------------------------------------------------------------------------
+
+Thomas James O'Malley, Barclays Bank PLC, Research Division - Research Analyst [17]
+
+--------------------------------------------------------------------------------
+
+This is Tom O'Malley on for Blayne Curtis. I just want to clarify real quick, Kris, you made a comment about broad markets into March. You originally said that it was going to be up mid-single digits. And then you said mid-single-digit growth year-over-year. Could you just clarify, is it sequential or year-over-year?
+
+--------------------------------------------------------------------------------
+
+Kris Sennesael, Skyworks Solutions, Inc. - Senior VP & CFO [18]
+
+--------------------------------------------------------------------------------
+
+So it's both. So sequentially, it's mid-single digits as well as year-over-year, it's mid-single digits, excluding Huawei, right? Because we have some Huawei infrastructure business that was part of that broad markets. Obviously, due to the ban, we lost most or almost all of that. And so if I exclude Huawei, we will be back to a mid-single-digit year-over-year growth in March and then potentially even stronger year-over-year growth, excluding Huawei, in the second half of 2020.
+
+--------------------------------------------------------------------------------
+
+Thomas James O'Malley, Barclays Bank PLC, Research Division - Research Analyst [19]
+
+--------------------------------------------------------------------------------
+
+Great. That's helpful. And then just a broader question. When you guys are looking at design wins, particularly in 5G. You guys have a competitor that also does the modems. Clearly, the competition is pretty fierce there, and there's a lot of talk about them being attached with the RF on many early solutions. Just how do you compete there? And how do you break down kind of the bundling aspect?
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [20]
+
+--------------------------------------------------------------------------------
+
+Sure. Well, our customers drive that. And our customers want solutions from Skyworks, the integration capabilities that we bring, specifically in 5G where the architectures are substantially more complex than they were in 4G. Integration around solutions, such as our Sky5 platform, are ideal for customers moving into 5G. And I mean, the proof is in the pudding. If you look at the devices today, the 5G devices that are going to market right now, you're going to see that kind of integration from Skyworks. It's not being driven by the chipset provider. That may work in small markets where the customer doesn't have a level of sophistication and they want a turnkey solution all-in, but that's not what we're seeing right now. We're seeing best-in-class solutions, leveraging integration, looking for companies that have their own facilities like us, from filter to gallium arsenide to assembly and test, customizing and crafting a solution. That's how we win. And by the way, we work with every baseband supplier, whether they're a friend or a foe. And we take our lead from the customer, and that's always worked for us.
+
+--------------------------------------------------------------------------------
+
+Operator [21]
+
+--------------------------------------------------------------------------------
+
+And your next question comes from the line of Ambrish Srivastava from BMO.
+
+--------------------------------------------------------------------------------
+
+Ambrish Srivastava, BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst [22]
+
+--------------------------------------------------------------------------------
+
+Liam, you may not have to worry about that, whether you have to buy their business or not, looks like a PR hit the tape as soon as your call started that.
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [23]
+
+--------------------------------------------------------------------------------
+
+Oh, really. Okay.
+
+--------------------------------------------------------------------------------
+
+Ambrish Srivastava, BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst [24]
+
+--------------------------------------------------------------------------------
+
+Yes. They signed a multiyear deal with Apple. Maybe should just focus on you guys. What does your portfolio look like for 5G for BAW? And then within your portfolio, where do you think you have the most opportunity to gain content in 5G?
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [25]
+
+--------------------------------------------------------------------------------
+
+Sure. Well, I mean, just to take a long look, just a little bit of a backdrop here. Understand right now 4G phones are basically driving spectrum from 700 megahertz to about 2.5 to 3 gig, right? So all that action continues in a mobile phone today. And then you add to that with 5G solutions, unique solutions that roam at 5G spectrum, let's say, 3 to 6 gig or 6 gig and higher. That's an incredible opportunity. It's all incremental physical content. And each one of the players in our space looks at it differently.
+
+What we want to do is capture the maximum opportunity, work with our customers, give them absolute choice on the kind of componentry they want, the markets that they're going to roam in, their current budget, all of these things and then craft an integrated solution for them. So when we say Sky5 is a platform, it's a platform. It could be very different from the largest customer, to a customer in Korea, to customers in China, and that is a unique Skyworks differentiator. And we have the tool sets to do that. Now we've added bulk acoustic wave. We have high capacity in TC SAW. We have standard SAW. We have crafted assembly and test with facilities under our watch, really unique stuff. And that makes a big difference for us. And it broadens the opportunity reach that we have in any given 5G device.
+
+--------------------------------------------------------------------------------
+
+Ambrish Srivastava, BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst [26]
+
+--------------------------------------------------------------------------------
+
+Okay. And my follow-up for Kris is on the operating model. And as you try to avail of the opportunities, what does it do to OpEx and also CapEx as we think through? And just remind us what CapEx was, the guidance for this year as well, if that changes or not.
+
+--------------------------------------------------------------------------------
+
+Kris Sennesael, Skyworks Solutions, Inc. - Senior VP & CFO [27]
+
+--------------------------------------------------------------------------------
+
+Yes. Yes. So in terms of operating model, we are driving the business and growing the top line above market. We are driving operational efficiencies and bringing high added value products to the market that will drive the gross margins towards our long-term target of 53% and our operating margins approaching 40%. Currently, OpEx is running on or about 15%. And I think we can do a little bit better there. So you get to an operating margin that approach 40%. At the same time, we're very much focused on driving free cash flow at 30% or slightly above 30%. And you saw last quarter, we had 32% of free cash flow margin. We will continue to invest in the business. There's no question about that. As Liam just explained, one of our strengths is our operational footprint with our gallium arsenide fabs, our filter operation as well as our back-end operation. And we continue to expand the capacity in those fabs, and we continue to develop new technology, package technologies and filter technologies. And that, of course, requires sufficient CapEx support. CapEx is running on or about 10% to revenue. And I think in the foreseeable future, that's what you have to put into your models.
+
+--------------------------------------------------------------------------------
+
+Operator [28]
+
+--------------------------------------------------------------------------------
+
+And your next question comes from the line of Bill Peterson from JPMorgan.
+
+--------------------------------------------------------------------------------
+
+William Chapman Peterson, JP Morgan Chase & Co, Research Division - Analyst [29]
+
+--------------------------------------------------------------------------------
+
+Coming back to broad markets. You spoke to the infrastructure opportunities. Of course, a large portion is your WiFi and IoT. You mentioned that infrastructure is kind of back half weighted, but trying to get a feel for how you expect the ramp of WiFi to progress and I guess, how that manifests itself in your broad markets growth really for the full year -- for the full fiscal year and especially in the back half?
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [30]
+
+--------------------------------------------------------------------------------
+
+Sure. Yes, no, makes sense, Bill. So I think if you look at broad markets in total, want to give you a little bit more of a broad view here. So we have, first of all, a wide set of protocols to reach for, right? 5G, WiFi 6, Bluetooth, GPS, Zigbee, LoRa, all those are opportunities for us to connect things with our customer. The WiFi 6 now is really gaining momentum. We've got some new strategic design wins that are just coming about in this last quarter and looking into the second half of the year, more ramps with names like AT&T and Cisco and NETGEAR. And we've also done some great work moving into industrial and automotive spaces. So we're securing wins now with Bosch, Honeywell, Siemens, GE. These were not customers 2 or 3 years ago. They were not at all on the playing field for Skyworks.
+
+And now we're also moving in automotive. We've got wins with Continental, BMW, Renault, Nissan and others, so a lot of really cool things. And even some amazing consumer products, we've got some devices now, infant monitoring with Procter & Gamble. Of course, we're lined up with Ring. We've got a lot of product with Amazon. So it's a really rich portfolio that goes from high end to mid tier. But the key for us, Bill, is it levers technology and it levers connectivity. And the fact that we have that broad set of protocols, we can pick and choose with our customer what's the right connectivity protocol to lock into their solution. So we feel really good about that. And we think that, that momentum is going to carry forward for many, many years.
+
+--------------------------------------------------------------------------------
+
+William Chapman Peterson, JP Morgan Chase & Co, Research Division - Analyst [31]
+
+--------------------------------------------------------------------------------
+
+Okay. And I guess, if you think about the 5G phones that are going to be launched here in the first half of this year, of course, Samsung already launched 5G phones last year. You have the, as you guys call it, OVX. Can you speak specifically to the 5G wins you have, I guess, for really like ultra-high? And I know that the 4G bands are clearly important, LTE, LTE Advanced Pro and so forth. But can you speak to the design wins you have in the OVX camp and Samsung?
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [32]
+
+--------------------------------------------------------------------------------
+
+Yes, absolutely. So the 5G momentum, the early momentum in 5G, a lot of that is actually led by the China names. So we have great position in 5G solutions. So this is again 5G. So we still have great 4G position with these accounts, but we're overlaying incremental content in 5G with names like Oppo, Vivo and Xiaomi. So those players, we're very strong. We're doing some good work partnering with chipset providers. MediaTek is one, as an example, in their Phase 7 designs. We've got great position, designed reference position. These are all 5G solutions. And again, early moves with China with those players that I named, but also some really significant moves that we expect later in the year with some of the larger customers as well, where you'll see substantial content gains as well.
+
+--------------------------------------------------------------------------------
+
+Operator [33]
+
+--------------------------------------------------------------------------------
+
+And your next question comes from the line of Edward Snyder from Charter Equity Research.
+
+--------------------------------------------------------------------------------
+
+Edward Francis Snyder, Charter Equity Research - MD and Principal Analyst [34]
+
+--------------------------------------------------------------------------------
+
+Liam, we talk a lot about 5G. I'd like to clarify, if we could. And especially regarding your comments about share gains with some of the new products coming out, the smartphone products coming out here. If we divide the world into like 4G, 4G Advanced, 4G Pro and then pure 5G content, which is mostly ultra-wideband, are you referring to both? Are you referring to one? I know you guys were strong in some of the initial ultra-high band last year, and I know they're wrapping not only that, but also the band, n77 bands into the Chinese phone. Is that where you're seeing most of your share gains?
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [35]
+
+--------------------------------------------------------------------------------
+
+Yes, exactly. So we're continuing to have the 4G placement, which is basically kind of backward compatibility. And then UHB bands, n77, n79, unique products there that are incremental that you wouldn't see in a 4G phone, but there'd be incremental dollars that would lay into a 5G phone. And the other point that we've been making here is, and as you know, the more complexity that you have, the more devices that we have physically, we've got to deal with size, we've got to deal with competition for current consumption, coexistence and all the challenges that you get when you put more and more semiconductors together. So our approach with that is to offer that customer the Sky5 platform and configure it in such a way that some of those challenges that one would have in putting together a complex device may be resolved with Skyworks overlaying that into a platform solution. But the incremental comment, it's UHB, it's n77, n79. There's more bands coming out over time. But we're in really good position to capitalize as 5G continues to roll out.
+
+--------------------------------------------------------------------------------
+
+Edward Francis Snyder, Charter Equity Research - MD and Principal Analyst [36]
+
+--------------------------------------------------------------------------------
+
+Yes. And you've done really well there. So as a separate part of that, then let's talk about the 4G, if we could for a while. China went to Phase 6 last year. As we all know, Qorvo took a lot of that because there's a lot of nervousness on the OEMs' part about going to a fully integrated front end so they wanted one guy. We've gotten feedback that, that's starting to change now and that Skyworks is starting to carve out your traditional low-band part of that platform. Are you seeing that to any material extent? And then and the larger question, how do you -- I know your BAW filter program is coming along very well. You've got some receive devices now and they're going to have duplexers, but that seems to be a long way from being able to offer the kind of performance that you have to offer to actually capture the mid and high bands, too. Is there a path to that mid-, high-band portion of the 4G section of these phones over the next year or so or is it going to be something further out?
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [37]
+
+--------------------------------------------------------------------------------
+
+Yes. Yes. So let me try to capture both. So on the MediaTek side, when you're getting to the lower band opportunities, there's a tremendous amount of Skyworks opportunity there with low-band PAD, with DSM, et cetera. So that's the 4G space. When you go to the ultra-high band or mid- and high-band solutions, we recognize that's a challenge, but we're on pace right now to address it. We've done some good work with some UHB opportunities. We do recognize the performance merits with some of the leading players in mid and high band, and we aspire to get there. We're doing the work internally, but we understand that it is going to be a task, it's going to be a challenge, but we have the expertise, growing expertise, engagement with customers. The facilities are important. We've got some facilities here and fab position that will help us. But yes, we're on the path to achieving the highest grade, but we still have a lot of work to do, quite frankly.
+
+--------------------------------------------------------------------------------
+
+Operator [38]
+
+--------------------------------------------------------------------------------
+
+And your next question comes from the line of Craig Ellis from B. Riley FBR.
+
+--------------------------------------------------------------------------------
+
+Craig Andrew Ellis, B. Riley FBR, Inc., Research Division - Senior MD & Director of Research [39]
+
+--------------------------------------------------------------------------------
+
+Congratulations on the good execution, guys. Liam, I wanted to follow up on that last question and maybe tie it into one that Vivek, you answered, and really focus on a longer-term dynamic. So Skyworks is historically working with customers 18 months out of a handset launch on new products. So from the vantage point that you have now, what does content gain look like in the funnel for things that will be launching in calendar '21 versus the early content gain that you're getting in year 1 of 5G? Is it flat? Is it up? If it's up, to what extent would it be up next year as you continue to try and flex into things like mid-band or high-band PADs with your BAW capability?
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [40]
+
+--------------------------------------------------------------------------------
+
+Sure. Sure. So let me just be really clear about one thing. The technologies that we have right now, we don't have everything. But the technologies that we have right now in 4G and the new technology that we have in 5G are going to add substantial content to our opportunities, no question about that. So now we're talking about further out in BAW, what else can we do? We've got aspirations to continue to do more, but the things that we're doing now today, leveraging BAW, leveraging Sky5 as a platform, leveraging the incremental content that 5G bands bring are going to be a great, great opportunity for us to step up. And one of the things that's helping us is the complexity. And we keep saying this but it's really important. The technology burden in a 5G device is substantially harder and more difficult to implement, more challenging for the customer and then bring that to market quickly. So there's a lot there.
+
+We are the experts at doing that. That's why we talk about decades of experience. We've been through these transitions. This is one of the harder ones. And that's great for us, and it's great for the top players in the market because we're going to be able to enjoy solving our customers' problems and putting them in a position to win. So we're excited about it. We're going to lever all of our technologies, our TC SAW capability, our packaging technology, bulk acoustic wave, ceramic. But all of these technologies that we have will play a role, but the content opportunity is absolutely there. We've talked about that before in presentations, prepared remarks, but we see meaningful dollars of content opportunity. And some of that will start in the second half of this year.
+
+--------------------------------------------------------------------------------
+
+Craig Andrew Ellis, B. Riley FBR, Inc., Research Division - Senior MD & Director of Research [41]
+
+--------------------------------------------------------------------------------
+
+And with regards to that last point, with content kicking in, in the second half of the year beyond what we're seeing with momentum in the business here in the quarter that you're just guiding to, which is above seasonal. So is it fair to think that with the content that you've got, you've got a year where integrated mobile can drive consistently above seasonal performance in the business or is it just too early to be able to have that kind of visibility from where you are today?
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [42]
+
+--------------------------------------------------------------------------------
+
+Yes. Yes. I mean it's difficult to figure out what the natural seasonality is going to be, but we definitely see improving opportunities for us, design wins that have been consummated that haven't yet shipped. And let's also look at where the customers are. One of the largest customers, great customer hasn't put a 5G phone out yet. So that's another thing to think through. So I think there's plenty on the horizon. We're really excited about it. We just delivered a beat and raised Q1 and Q2. I think the broad markets business is going to accelerate. We talked a little bit about that with Kris. The 5G opportunities are right there in front of us. We're executing fully. We're adding capital. And we're really enthused about the opportunities that are in front of us.
+
+--------------------------------------------------------------------------------
+
+Operator [43]
+
+--------------------------------------------------------------------------------
+
+Your next question comes from the line of Chris Caso from Raymond James.
+
+--------------------------------------------------------------------------------
+
+Christopher Caso, Raymond James & Associates, Inc., Research Division - Research Analyst [44]
+
+--------------------------------------------------------------------------------
+
+I guess first question is, if you could characterize the strength that you're seeing and kind of where the strength is coming from that's driving the better seasonal Q1. I guess I'm assuming that the new Chinese 5G phones are a large part of that, if you can clarify that. And then as we go through the year, what is going to be the pace of new introductions and your content gains from the Chinese phones? Is that going to be something that's steady through the year? Is it more kind of front-end loaded? Maybe give some clarification on that.
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [45]
+
+--------------------------------------------------------------------------------
+
+Sure. Sure, Chris. Well, a couple of things. This is the first period that we're actually talking about 5G in devices and bringing revenue to the table. So we're early, early innings and we're already seeing some improvements in our numbers, Q1 and Q2. And that's the early part of 5G. And if I were to look at that, a lot of that is China. It's Oppo, Vivo, Xiaomi, names like that. But we're also seeing ramps coming in with Samsung. I think there's going to be some really nice ramps with one of the larger customers, again, hasn't put a 5G phone out. And the complexity that we see that I've talked about on this call is real, and it's a great opportunity for Skyworks. I mean we're the company that knows how to do the complex things very well. We know mobile. We've been doing this for 20 years. So the transition from 2G to 3G to 4G, talked about that. 5G is much harder. And it's calling upon the resources, our people, our know-how, the facilities, the ability to troubleshoot, all that really good stuff is coming to bear right now and allowing us to win business and allowing our customers to be successful. So there's a lot going on, on that end.
+
+And then the broad market business, the numbers bounce around a little bit, but I can tell you that one of the metrics that we look at is customer acquisition. We want to add customers. We want to add high-class, high-end players, margin-rich customers. And we're doing it. Some of the names that we talked about, Bosch, Raytheon, names like that. Getting into industrial and automotive, working with companies like BMW and Nissan. I mean that's really cool stuff, and it still plays on the connectivity core. And what's really important for Skyworks is connectivity. And we still can lever those technologies and those resources to port into other markets outside of the mobile phone.
+
+--------------------------------------------------------------------------------
+
+Christopher Caso, Raymond James & Associates, Inc., Research Division - Research Analyst [46]
+
+--------------------------------------------------------------------------------
+
+That's helpful. As a follow-up to really what you just said. How does that affect your capacity planning as you go through the year? And your CapEx has been fairly steady, I guess, maybe up a little bit. But as the 5G ramp proceeds, are there scenarios where you need to put in more substantial CapEx in order to meet that? And at what point in time do you need to make some of those decisions?
+
+--------------------------------------------------------------------------------
+
+Kris Sennesael, Skyworks Solutions, Inc. - Senior VP & CFO [47]
+
+--------------------------------------------------------------------------------
+
+No. We're making those decisions on a continuous basis. Just look at the December quarter, we put in an additional $100 million of CapEx. And so we will continue to do so every quarter. And again, it's a combination. Some of that is pure capacity-related, right, and expanding the capacity so we can handle the higher volumes. But a big part of that is also technology-related, different and more complex type of packaging and testing, expanding our reach in filter technologies as well as with our gallium arsenide power amplifiers. So again, count on or about 10% of CapEx. And despite that, we will continue to drive a 30-plus percent free cash flow margin.
+
+--------------------------------------------------------------------------------
+
+Operator [48]
+
+--------------------------------------------------------------------------------
+
+And your next question comes from the line of Karl Ackerman from Cowen.
+
+--------------------------------------------------------------------------------
+
+Karl Fredrick Ackerman, Cowen and Company, LLC, Research Division - Director & Senior Research Analyst [49]
+
+--------------------------------------------------------------------------------
+
+I have 2, if I may. First of all, could we just go back to the March quarter outlook, there's a question on inventory. But how would we classify or how would you classify your inventory across the channel given all top 6 smartphone suppliers are launching flagships in the March and April time frame and it seems to be kind of a fairly tight window? And I have a follow-up.
+
+--------------------------------------------------------------------------------
+
+Kris Sennesael, Skyworks Solutions, Inc. - Senior VP & CFO [50]
+
+--------------------------------------------------------------------------------
+
+The inventory in the channel seems to be very healthy, at least as far as we have visibility, right, on the component level. There is definitely a little bit of a buildup in anticipation of Chinese New Year. But what we see is that the supply chain is actually struggling a little bit to keep up with the launches of those new 5G phones and so inventory in the channel is pretty healthy.
+
+--------------------------------------------------------------------------------
+
+Karl Fredrick Ackerman, Cowen and Company, LLC, Research Division - Director & Senior Research Analyst [51]
+
+--------------------------------------------------------------------------------
+
+Got it. That's helpful. As my follow-up, there's been a lot of noise and I guess perhaps overly concerned on the FCC's decision to halt satellite operators from offering private auctions of the C-band for cellular 5G services here in the United States. Do you think that creates a delay in the implementation of 5G-enabled phones here? Should we be worried about it at all? Any color there would be helpful.
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [52]
+
+--------------------------------------------------------------------------------
+
+Sure. Yes, I don't think that it is going to affect us in any way. In fact, and if they open it up to the public, then it may be an opportunity to have more spectrum and create more opportunities for us to roam, have our devices roam on. But the base case right now doesn't assume any upside from the 3.5 auction on our end, but that's a good question. We'll probably learn more over time, but I don't think there's a negative spin on that on our end. I think we've pretty much positioned 5G and we're very well aligned with the standards boards and where the spectrum is going to be. So we're all over that, but we'll definitely keep our eyes on the opportunity. If there's more spectrum that's added, we'll absolutely be able to develop solutions that will support transmission and communication over that spectrum.
+
+--------------------------------------------------------------------------------
+
+Operator [53]
+
+--------------------------------------------------------------------------------
+
+And our last question comes from the line of Harsh Kumar from Piper Jaffray.
+
+--------------------------------------------------------------------------------
+
+Harsh V. Kumar, Piper Sandler & Co., Research Division - MD & Senior Research Analyst [54]
+
+--------------------------------------------------------------------------------
+
+Two questions as well. Liam, one for you. There's a lot of debate on whether the first generation of 5G handsets in the U.S. will be millimeter wave capable. Clearly, they'll have some sub-6. I was curious, where does Skyworks and you guys stand on that thought process? And then also, how is your preparedness for millimeter wave at this point? Then I had a follow-up.
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [55]
+
+--------------------------------------------------------------------------------
+
+Sure, Harsh. Well, millimeter wave, it's an interesting technology. It's an interesting technology, and it has some benefits. Theoretically, it has tremendous speed and latency opportunities, but at the same time there's some drawbacks. It's expensive. It draws a lot of current. You have line of sight impediments there. So it isn't something that we're seeing today. We're working with all these customers where it's going to be a kind of a standard offer. It may be a great technology for high-density areas, whether college campuses or going into a stadium and you need some really high-speed connection over a short distance that's unimpeded by any objects. It's possible, but there's some challenges. Now over time that could evolve. And maybe there's a way for the technology to evolve and make it cost effective and also performance effective. But right now, it's a little bit out of the aperture. A lot of our customers are not looking at it right now. Some are. We do have some small incremental bets on millimeter wave. And as we've talked about, we have our own fab so we can run some of the technologies that we need to if that starts to blossom. But we talk to our customers, and that's where we get our cues, and we share information about technology, of course, that help them. But at this point, I don't think it's going to be a significant element in 5G, at least for the next year.
+
+--------------------------------------------------------------------------------
+
+Harsh V. Kumar, Piper Sandler & Co., Research Division - MD & Senior Research Analyst [56]
+
+--------------------------------------------------------------------------------
+
+Understood, and very helpful. And then I think at the beginning of the call, I think Vivek had asked a question on content increases. And I believe you answered a lot of stuff, but I think you might have skipped that part. I was curious what ex WiFi upgrades and other kind of things, like Bluetooth upgrades that might be happening on the RF side, just pure cellular content increase in 5G over 4G. What are you guys seeing? Would you put that as in line with historical or greater than that or even if you want to give a number and be generous with us, we'll take that.
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [57]
+
+--------------------------------------------------------------------------------
+
+No, it's going to be more than -- okay, I'll tell you. It's going to be higher than the 3G to 4G upgrade, that I definitely believe. And again, it's because the content, it's the physical content and the specific devices that are necessary to build the 5G solution. That incremental value is bigger than the incremental value that went from 3G to 4G. That's an absolute fact. Now the question is, who is best positioned to capitalize? We have an incredibly broad reach. We have engagements with all the customers. We have the unique technologies that we've noted, not just for capacity, but as Kris said, technology. So we love that. So we think there's going to be a meaningful multi-dollar opportunity. We've talked about in our presentations maybe $5 to $7 or more incremental from 4G. And then the capture on that is all about how do you execute, how do you provide the best solution to your customer and how you bring that to market on time. So those are the factors. And that's the stuff we love to do. I mean that's the strength of our company.
+
+--------------------------------------------------------------------------------
+
+Operator [58]
+
+--------------------------------------------------------------------------------
+
+Ladies and gentlemen, that concludes today's question-and-answer session. I'll now turn the call back over to Mr. Griffin for any closing remarks.
+
+--------------------------------------------------------------------------------
+
+Liam K. Griffin, Skyworks Solutions, Inc. - CEO, President & Director [59]
+
+--------------------------------------------------------------------------------
+
+Thank you all for participating on today's call. We look forward to seeing you at upcoming investor conferences during the quarter. Thank you.
+
+--------------------------------------------------------------------------------
+
+Operator [60]
+
+--------------------------------------------------------------------------------
+
+Ladies and gentlemen, that does conclude today's conference call. We thank you for your participation.

@@ -1,0 +1,37 @@
+Tencent LiCaiTong Releases “Online Wealth Management Behavior and Security Report (2019)“
+
+On January 14th, LiCaiTong, Tencent’s wealth management platform, and National Institution for Finance & Development (NIFD) jointly released the “Online Wealth Management Behavior and Security Report (2019)”. The report published the 2019 online wealth management index, presenting a comprehensive analysis of the market and consumer behavior during the past year.
+
+According to the report, the overall market volume of online wealth management in China decreased from RMB 135.4 trillion in 2018 to RMB 129.7 billion in 2019. The downward trend was partially attributed to the stringent regulation towards money funds and p2p lending. The report recommends that investors should choose a platform that offers proper cybersecurity and customer protection, instead of just focusing on the high yield. (Source: mpaypass)
+
+People’s Bank of China Announces the First 6 Pilot Projects Involved in its Fintech Sandbox
+
+On January 14th, the Operations Office of People’s Bank of China announced the first 6 pilot projects involved in its fintech sandbox. The 6 pilots are: (Source: The Paper)
+
+IoT-based item traceability and supply-chain finance system (Industrial and Commercial Bank of China); Weijie Loan (Agricultural Bank of China); CITIC Bank smart token (CITIC Bank, China UnionPay, Duxiaoman and Ctrip); AIBank Inside products for Open Banking (Baixin Bank); Express Loan (Bank of Ningbo); mobile POS application (China UnionPay, Xiaomi Digital Technologies and JD Digits).
+
+People’s Bank of China Announces the First 6 Pilot Projects Involved in its #Fintech Sandbox Click to Tweet
+
+Fintech Solution Provider Yusys Technologies Receives RMB 600 Million Strategic Investment from Baidu
+
+On January 7th, fintech solution provider Yusys Technologies announced that it had received RMB 600 million strategic investment from Baidu. According to the announcement, the two parties will cooperate in key areas such as financial cloud, big data, artificial intelligence, and blockchain to promote the large-scale landing of cloud + AI in the financial industry and accelerate the intelligent upgrade of the financial industry.
+
+Yusys Technologies was established in 1999. After its establishment, it entered the banking software and service market, and has gradually grown into a fintech solution platform with a certain scale in China. It provides banking customers with consulting planning, software products, software development and implementation, technical services, operation and maintenance services. As of the end of 2019, Yusys Technologies has 27 holding subsidiaries and 13 participating companies in China. (Source: iyiou)
+
+#Fintech Solution Provider Yusys Technologies Receives RMB 600 Million Strategic Investment from Baidu Click to Tweet
+
+Fintech Service Provider Miotech Completes Series A + Round of Financing Led by Horizons Ventures
+
+Fintech service provider Miotech has completed the A + round of financing, led by Li Ka-shing’s private fund Horizons Ventures. A Hong Kong-listed company followed suit. The specific transaction amount was not disclosed. Tu Jianyu, founder and CEO of Miotech, said that this round of financing funds will be mainly used to further iterate ESG / alternative data products. In addition to covering the Hong Kong and Singapore markets, it will further expand into the mainland market. (Source: 36Kr)
+
+#Fintech Service Provider Miotech Completes Series A + Round of Financing Led by Horizons Ventures Click to Tweet
+
+No Virtual Currency Exchange License Will be Issued in China
+
+On January 11st, Huo Xuewen, director of the Beijing Municipal Bureau of Financial Work, told reporters from the Beijing News that only the People’s Bank of China can launch legal digital currency. In addition, he made it clear that no virtual currency exchange license will be issued in China. He pointed out that China “does not allow cross-border virtual currency transactions, any institution cannot sell overseas virtual currencies to the country, and no institution may provide an exchange of virtual currencies with RMB. (Source: The Beijing News)
+
+No Virtual Currency Exchange License Will be Issued in China #Fintech Click to Tweet
+
+The above is a weekly synopsis of the biggest stories on Fintech in China provided by WeiyangX, part of Tsinghua University, in partnership with Crowdfund Insider.
+
+WeiyangX is the most influential website focusing on Fintech in China. The site covers the latest news, industry data analysis, business practices, and in-depth Fintech cases in Fintech. WeiyangX is incubated by Fintech Lab. Founded by Tsinghua University’s People’s Bank of China (PBC) School of Finance in 2012, the Fintech Lab is the first and leading research entity dedicated to leading best practices, promoting interdisciplinary innovation, and encouraging entrepreneurship in the field of fintech through scientific research and innovative project incubation.

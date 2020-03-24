@@ -1,0 +1,55 @@
+WASHINGTON, DC - FEBRUARY 10: Attorney General William Barr participates in a press conference at the Department of Justice along with DOJ officials on February 10, 2020 in Washington, DC. Barr announced the indictment of four members of China's military on charges of hacking into Equifax Inc. and stealing data from millions of Americans. (Photo by Sarah Silbiger/Getty Images)
+
+Chinese Military Officers Charged With Stealing 145 Million Americans’ Data in Equifax Hack
+
+U.S. authorities have indicted four members of the Chinese military on charges of hacking the credit-reporting agency Equifax, stealing the sensitive personal information of roughly 145 million Americans and Equifax’s trade secrets, the Department of Justice (DOJ) said on Jan. 10.
+
+The breach into Equifax in mid-2017 was one of the largest hacks on record, and exposed Americans’ sensitive financial records, Social Security numbers, and driver’s license data.
+
+A federal grand jury in Atlanta returned a nine-count indictment last week that accused four members of the People’s Liberation Army (PLA) of engaging in a hacking operation that involved exploiting a vulnerability in Equifax’s online dispute portal.
+
+“This was a deliberate and sweeping intrusion into the private information of the American people,” said U.S. Attorney General William Barr in a press release.
+
+Wu Zhiyong, Wang Qian, Xu Ke, and Liu Lei were members of the PLA’s 54th Research Institute, a unit of the Chinese military, the DOJ stated.
+
+Allegations
+
+The hackers spent weeks in the system, uploading malicious software and stealing login credentials to carry out their theft, Barr said at a Feb. 10 press conference.
+
+Prosecutors allege that the hackers ran about 9,000 queries on Equifax’s system to search for sensitive personal data, and managed to obtain names, birth dates, and Social Security numbers for about 145 million Americans—almost half of all U.S. citizens.
+
+They also routed traffic through 34 servers in nearly 20 locations in order to hide their links to China, the department said.
+
+The indictment also charges the hackers with theft of Equifax’s trade secrets, namely its data compilations and database designs.
+
+The announcement came after a two-year investigation, Barr said.
+
+Equifax CEO Mark Begor said the company was grateful for the federal investigation.
+
+“It is reassuring that our federal law enforcement agencies treat cybercrime—especially state-sponsored crime—with the seriousness it deserves,” he said in a Feb. 10 press release.
+
+In the aftermath of the cyberattack, Equifax has agreed to pay up to $700 million to settle claims by harmed customers.
+
+The controversy also led to the departure of its then-CEO Richard Smith and several congressional hearings into the company’s delayed disclosure of the breach and its cybersecurity practices.
+
+Sen. Ben Sasse (R-Neb.), a member of the U.S. Senate Select Committee on Intelligence, denounced the Chinese regime’s role in the hack.
+
+“The Chinese Communist Party will leave no stone unturned in its effort to steal and exploit American data,” he said in a Feb. 10 statement.
+
+“These indictments are good news, but we’ve got to do more to protect Americans’ data from Chinese Communist Party influence operations.”
+
+Hacking Campaigns
+
+The Equifax breach, Barr said, was one among a range of Chinese state-backed hacking operations aimed to steal sensitive personal information from Americans.
+
+These include the 2014 hack of the U.S. Office of Personnel Management (OPM), which resulted in the theft of around 23 million records of federal employees; the 2014 hack of Marriott Hotels, which exposed the personal information of up to 500 million customers; and the 2015 breach of U.S. insurer Anthem, which affected a computer system containing data on nearly 80 million people.
+
+“This data has economic value, and these thefts can feed China’s development of artificial intelligence tools as well as the creation of intelligence-targeting packages,” Barr said at the press conference.
+
+The OPM data breach involved exfiltrating personal data submitted by applicants for U.S. government security clearances. This included the names, Social Security numbers, and addresses of more than 22 million current and former federal employees and contractors, as well as 5.6 million fingerprints.
+
+Previous reporting by The Epoch Times revealed that the Chinese regime was using stolen information from the OPM hack and other breaches to build a massive database on Americans, and using it for the purpose of political and economic espionage.
+
+State-sponsored hackers have also targeted foreign companies to steal trade secrets, Barr noted.
+
+For instance, in December 2019, the DOJ charged two Chinese nationals working for the regime’s top intelligence agency, the Ministry of State Security, over an extensive hacking campaign targeting U.S. government agencies and private companies in the United States and at least a dozen other countries.

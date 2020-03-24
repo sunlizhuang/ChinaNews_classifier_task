@@ -1,0 +1,169 @@
+BEIJING - It was almost the Lunar New Year and Pan Chuntao was feeling festive.
+
+He knew there were reports of a virus in his city, Wuhan. But local officials urged calm. There was no evidence it was transmitted person to person, they said. They had not reported a new case in days.
+
+On Jan. 16, the 76-year-old left his two-bedroom apartment to attend a government-organized fair.
+
+"We told him not to go because we saw some rumors on WeChat of doctors getting infected," said Pan's son-in-law, Zhang Siqiang. "But he insisted on going. He said, 'The government says it's not a problem, there are no cases anymore.' "
+
+Pan and his daughter may now be among the nearly 12,000 people infected with a new strain of coronavirus - an outbreak that has killed at least 259 people in China, spread to more than 20 countries, disrupted the global economy and left 55 million people in China's Hubei province under an unprecedented lockdown.
+
+Pan was one of millions of Chinese who mingled, traveled and carried on with daily life during the critical period from mid-December to mid-January.
+
+It was a time when Chinese officials were beginning to grasp the threat of a contagious new disease in Wuhan but did little to inform the public - even with the approach of the Lunar New Year holiday that has hundreds of millions of Chinese traveling.
+
+An analysis of those early weeks - from official statements, leaked accounts from Chinese medical professionals, newly released scientific data and interviews with public health officials and infectious disease experts - reveals potential missteps by China's overburdened public health officials.
+
+It also underscores how a bureaucratic culture that prioritized political stability over all else likely allowed the virus to spread farther and faster.
+
+"It's clear that a much stronger public health system could save China lives and money," said Tom Frieden, former director of the U.S. Centers for Disease Control and Prevention.
+
+In 2002, China suffered an outbreak of severe acute respiratory syndrome (SARS) that was caused by a genetically similar coronavirus, which sickened more than 8,000 people and killed nearly 800 as it spread to more than two dozen countries. China’s government, which was blamed for covering up cases and reacting slowly, vowed to learn from its mistakes and established a surveillance system to quickly react to new pathogens.
+
+Parts of that system - namely Chinese science - held up well in the past two months. But obfuscation from public health officials and other government missteps showed a system that is more rigid and authoritarian than in 2002.
+
+Medical professionals who tried to sound an alarm were seized by police. Key state media omitted mention of the outbreak for weeks. Cadres focused on maintaining stability - and praising party leader Xi Jinping - as the crisis worsened.
+
+"China's public health system has modernized but China's political system hasn't," said Jude Blanchette, head of China studies at the Center for Strategic and International Studies in Washington. "If anything, there's been a regression."
+
+- - -
+
+In mid-December, patients in Wuhan presented with what seemed like a mix of wintry symptoms: fever, trouble breathing, coughs.
+
+It looked like viral pneumonia. But doctors in Wuhan, a city of 11 million in central China, could not pinpoint the cause. Rumors of a mysterious virus started to swirl on Chinese social media, particularly among medical professionals.
+
+It is clear, now, that Chinese officials soon knew something was amiss.
+
+An account published Thursday in Chinese news sites by an anonymous technician who claimed to work at a lab contracted by hospitals said his company had received samples from Wuhan and reached a stunning conclusion as early as the morning of Dec. 26. The samples contained a new coronavirus with an 87% similarity to bat SARS.
+
+A day later, lab executives held urgent meetings to brief Wuhan health officials and hospital management, the technician wrote.
+
+The technician's account, which included extensive screenshots of test results and contemporaneous messages sent by the technician, could not be independently verified by The Washington Post. Scientists outside China would later confirm that the genetic sequence bore a striking resemblance to that of SARS.
+
+By the evening of Dec. 30, word was beginning to get out.
+
+At 5:43 p.m., Li Wenliang, an ophthalmologist at Wuhan Central Hospital, told his fellow medical school alumni in a private chat that seven people had contracted what he believed to be SARS, and one patient was quarantined at his hospital.
+
+He posted a snippet of an RNA analysis finding "SARS coronavirus" and extensive bacteria colonies in a patient's airways, according to a chat transcript he and other chat members later shared online.
+
+That same evening, Wuhan's public health authorities took action.
+
+The health commission sent an "urgent notice" to all hospitals about the existence of "pneumonia of unclear cause" - but omitted any mention of SARS or a coronavirus - and ordered all departments to immediately compile information about known cases and report them up their chain of command.
+
+- - -
+
+The first official reports of a mysterious outbreak in Wuhan came Dec. 30, when Chinese authorities confirmed that they were investigating 27 cases of viral pneumonia.
+
+Wuhan health officials linked the outbreak to the Huanan Seafood Wholesale Market, a destination for shoppers looking for all manner of live animals - and quickly shut it down.
+
+Chinese officials began looking for others who may have been sickened, but they were focused on people with pneumonia and had some connection to the seafood and animal market. They were not looking for people with broader respiratory illnesses.
+
+Only later would scientists and officials suspect that many others were infected. But they had milder illnesses and were released after some medical care, allowing the virus to further spread, experts said.
+
+Chinese scientists would later confirm that "the apparent presence of many mild infections" posed a challenge to controlling the outbreak, according to a study published Thursday in the New England Journal of Medicine.
+
+On Dec. 31, the Chinese informed the World Health Organization's China Country Office of the mysterious pneumonia cases in Wuhan. WHO officials sent Beijing a list of questions about the outbreak and offered assistance.
+
+While scientists and public health experts scrambled to collect more information, China's security services tried to smother it.
+
+On Jan. 1, the Wuhan Public Security Bureau summoned eight people for posting and spreading "rumors" about Wuhan hospitals receiving SARS-like cases - detentions that were reported on "Xinwen Lianbo," a newscast watched by tens of millions.
+
+The police followed up in the state-run Xinhua News Agency with a chilling warning. "The police call on all netizens to not fabricate rumors, not spread rumors, not believe rumors," the Wuhan authorities said, adding that they encouraged Web users to "jointly build a harmonious, clear and bright cyberspace."
+
+All eight people detained that day were doctors, including Li, the Wuhan ophthalmologist.
+
+Wang Guangbao, a surgeon and popular science writer in eastern China, later said speculation about a return of SARS-like virus was rampant around Jan. 1 within medical circles, but the detentions dissuaded many, including himself, from speaking openly about it.
+
+"The eight posters getting seized made all of us doctors feel we were at risk," he said.
+
+- - -
+
+With the world watching, Chinese scientists raced to decode the virus.
+
+On Jan. 9, with 59 cases on the books, China announced that it had isolated and obtained the genome sequence of the new form of coronavirus, confirming rumors that the mystery ailment was linked to SARS and Middle East respiratory syndrome (MERS).
+
+They went on to sequence the genome of the virus and post it on a publicly accessible genetic data repository, allowing scientists to quickly develop tests to diagnose and confirm the infection in people.
+
+Their work garnered praise from scientists and public health experts around the world - but there was information missing.
+
+Epidemiologists need to know the details about when people get sick, what their symptoms are, and other demographic characteristics, such as age, gender, and underlying medical conditions that might make them at higher risk for respiratory diseases.
+
+That information is the best way for disease detectives to get an assessment in the early stages of the outbreak to determine how readily the virus spreads, and how potentially deadly it is.
+
+"We need to know for each case when they first became ill so we can gauge when in the epidemic the case occurred," said Jennifer Nuzzo, an epidemiologist and senior scholar at the Johns Hopkins Center for Health Security.
+
+But key information about who got sick and when was not released publicly until weeks later, scientists and researchers said.
+
+The NEJM study published Thursday of the first 425 patients in Wuhan who became sick between Dec. 10 and Jan. 4. It revealed long delays for patients to get admitted to hospitals. Those delays indicate how hard it was to identify and isolate cases earlier in their illness, according to the study, which was led by researchers at China's Center for Disease Control and Prevention. Person-to-person spread occurred as early as mid-December, and cases were doubling every seven days.
+
+Yet in Wuhan, local cadres were focused on a days-long Communist Party conclave that was scheduled to run from Jan. 11 to Jan. 17. During that time, the Wuhan Health Commission each day claimed there were no new infections or deaths.
+
+Then, at 10 minutes after midnight, on Jan. 18, the commission announced the existence of four new infections. Still, officials downplayed the risk of human-to-human transmission.
+
+Even after cases were being reported in Thailand and South Korea, Wuhan officials organized holiday shopping fairs like the one Pan visited. They held a downtown community potluck attended by as many as 40,000 families. They distributed hundreds of thousands of tickets to local attractions.
+
+"Everything was down to not collecting cases, not letting the public know," said Dali Yang, a prominent scholar of China's governance system at the University of Chicago. "They were still pushing ahead, wanting to keep up appearances."
+
+Without clear government warnings, people kept traveling - both within and beyond China.
+
+Yang Jun, a prominent sales executive in the photovoltaic equipment industry, traveled to a meeting in Wuhan on Jan. 6 and returned home on the train to Beijing via Shanghai a week later.
+
+A day before he checked himself into a hospital, he attended a school event with his daughter and sat in a lecture hall with hundreds of other parents, according to urgent statement released later by the Beijing school that asked all parents to quarantine themselves.
+
+Yang died this week.
+
+- - -
+
+On Jan. 20, as more than 400 million Chinese prepared to travel home to mark the Lunar New Year, the mood shifted.
+
+For the first time that morning, Wuhan public health officials changed the wording of their daily statements to omit their previous references to "limited human-to-human transmission."
+
+Later that day, renowned pulmonologist Zhong Nanshan, an 83-year-old veteran of the SARS crisis who is considered a national hero, appeared on state media to announce that the virus was in fact transmissible between people.
+
+Beijing finally seemed to react.
+
+For weeks, the Communist Party's official newspaper, The People's Daily, had been extensively covering Xi's agenda for 2020, including his popular poverty alleviation effort. For the first time on Jan. 21, the paper mentioned the epidemic and Xi's response in an item on Page 2.
+
+Xi issued "important instructions" to cadres to "put the people's health and safety first," said the report, which noted there were already 224 cases nationwide - and the disease had spread to Thailand, Japan and South Korea.
+
+That day, a top Communist Party political commission warned in a commentary that any bureaucrat who covered up the epidemic would be "nailed to the pillar of shame for eternity."
+
+Suddenly, the government seemed to grasp the looming scale of the crisis.
+
+Within days, all of Wuhan and several nearby cities - an area the size of Washington state with more than 50 million people - would be locked down in an unprecedented effort to curb transmission.
+
+Officials broke ground on at least three emergency hospitals around Wuhan. Intercity buses nationwide were halted. Many cities extended the new year holiday, delayed the spring school semester and encouraged residents not to hurry back to work. Hospitals all over the country dispatched volunteer medical teams into the quarantine zone to reinforce doctors.
+
+- - -
+
+With the number of reported cases hitting 4,500, officials in Wuhan and beyond began to publicy accept blame - and point fingers.
+
+In a Jan. 27 state media interview this week, Wuhan Mayor Zhou Xianwang said he was not authorized by his superiors to disclose the epidemic earlier. On Friday, Wuhan's Communist Party chief - who outranks the mayor - acknowledged his culpability for failing to taking "strict, preventive measures earlier."
+
+"I'm in a state of guilt, shame and self-reproach," Ma Guoqiang told the country in state media interview.
+
+The Supreme People's Court also issued an unusual statement admonishing the Wuhan police for detaining eight scientists.
+
+"If society had at the time believed those 'rumors,' and wore masks, used disinfectant and avoided going to the wildlife market as if there were a SARS outbreak, perhaps it would've meant we could better control the coronavirus today," the high court said. "Rumors end when there is openness."
+
+Li, the detained ophthalmologist, was released by Wuhan police on Jan. 3 after signing a document acknowledging that he committed "illegal acts." He hurried back to work to see sick patients but became infected by the coronavirus himself.
+
+Today, he remains under intensive care at his workplace, Wuhan Central Hospital.
+
+- - -
+
+Inside the quarantine zone, hospitals have openly pleaded on social media for donations of basic equipment such as masks and protective suits. Wuhan residents widely report a severe shortage of testing kits, raising the possibility that the true number of cases are far greater than the confirmed figures released by officials.
+
+After city hospitals were overwhelmed by patients who sought coronavirus tests, local authorities this week announced that hospitals would only give tests to those who showed severe symptoms and obtained a referral from smaller neighborhood clinics.
+
+Patients who are admitted are jammed into hospital rooms, with beds overflowing into crowded hallways. Some patients died in waiting areas before spots could open up, said Chen Qiushi, a well-known Chinese video blogger who has been roaming and filming inside Wuhan's hospitals.
+
+Pan Chuntao came home from his shopping fair and developed a fever six days later. His daughter, Pan Xia, fell ill the next day and her cough has been steadily worsening, said Zhang Siqiang, who is convinced his father-in-law should not have gone out on Jan 16.
+
+For the past week, Zhang has isolated his father-in-law and his wife in two separate bedrooms while he and his frail mother-in-law sleep in the living room. They leave food by the bedroom door three times a day.
+
+After venturing out every morning onto the empty streets to line up at Wuhan's No. 7. Hospital, Zhang finally received virus testing kits on Saturday.
+
+"I can say for sure that the misleading information early on resulted in our situation," he said. "It didn't only hurt my family but many others, too."
+
+- - -

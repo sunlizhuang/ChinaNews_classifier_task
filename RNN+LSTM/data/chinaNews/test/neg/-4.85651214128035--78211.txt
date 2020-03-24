@@ -1,0 +1,23 @@
+An American court has rejected Huawei's constitutional challenge to a US law that bans federal agencies and contractors from buying and using the Chinese firm's telecoms equipment.
+
+The decision [PDF], handed down yesterday by Texas judge Amos Mazzant, at the East Texas District Court, concluded that Congress had acted within its powers by including restrictions in the National Defense Authorisation Act (NDAA), passed by Congress last August.
+
+Section 889 of the legislation effectively bars US government agencies and their contractors from purchasing or using telecoms kit built by Huawei or domestic rival ZTE.
+
+Huawei's case, which was filed in March last year by the manufacturer's USA wing, based in Plano, Texas, requested a permanent injunction against the ban and asked for a declaratory judgement saying it flouted the US Constitution. The comms giant argued the broad legislation was designed to directly target its kit without giving it a fair hearing.
+
+"Huawei equipment and services are subject to advanced security procedures, and no back doors, implants, or other intentional security vulnerabilities have been documented in any of more than 170 countries in the world where Huawei equipment and services are used," the court filing said [PDF].
+
+But the court disagreed. Judge Mazzant ruled that Section 889 was not overly broad because it "tailors the covered equipment to the types of technology that pose a risk of being disrupted by 'hostile actors' who engage in cyber-attacks and -espionage."
+
+"Contracting with the federal government is a privilege, not a constitutionally guaranteed right," he concluded.
+
+A Huawei spokesperson said the company was disappointed by the ruling. "While we understand the paramount significance of national security, the approach taken by the US Government in the 2019 NDAA provides a false sense of protection while undermining Huawei's constitutional rights. We will continue to consider further legal options."
+
+The decision comes as Washington continues its push to keep Huawei's kit out of its 5G networks. The US government has long warned that Huawei's close relationship with the Chinese state means it could easily slip surveillance software and hardware into critical network components, allowing Beijing to spy on nations and companies.
+
+Last week, the US government charged the Chinese telecoms maker with 16 charges of racketeering, fraud, money laundering and theft of source code. Huawei denied the claims.
+
+Earlier this week, the the US Commerce Department was considering forcing all companies using US chipmaking equipment to obtain licences to sell their products to Huawei (PDF). The changes would block the megacorp from buying chip companies such as Taiwan's TSMC, which uses American equipment and software. ®
+
+Sponsored: Quit your addiction to storage

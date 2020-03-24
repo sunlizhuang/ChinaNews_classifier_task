@@ -1,0 +1,21 @@
+A paper published on 30 January in The New England Journal of Medicine (NEJM) about the first four people in Germany infected with a novel coronavirus made many headlines because it seemed to confirm what public health experts feared: that someone who has no symptoms from infection with the virus, named 2019-nCoV, can still transmit it to others. That might make controlling the virus much harder.1
+
+It was a critical piece of information weighed when formulating unprecedented quarantines and travel restrictions.2 On Jan. 31, the Centers for Disease Control and Prevention used the NEJM paper as part of its rationale for ordering a 14-day quarantine of Americans who had been evacuated from Wuhan, the epicenter of the coronavirus outbreak.3
+
+“There has been an increasing number of reports of person-to-person spread. And now most recently, a report from the New England Journal of Medicine of asymptomatic spread,” said Dr. Nancy Messonnier, director of CDC’s National Center for Immunization and Respiratory Diseases. “While we still don’t have the full picture and we can’t predict how this situation will play out in the U.S., the current situation, the current scenario is a cause for concern.”3
+
+The revelation underscores how the urgency to make sweeping public health decisions about the spread of the coronavirus is clashing with the uncertainties surrounding a novel virus. The essential question public health experts are grappling with is how easily the virus spreads, particularly from people who have mild symptoms. And despite the error in the report from Germany, it’s still possible that people can spread it before they have symptoms.2
+
+“This paper may or may not be flawed — it needs further investigation,” said Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases. “But I don’t think it negates the concept.”4
+
+“We had been getting reports from highly reliable people in China — scientists, investigators and public health people who we’ve known over the years — and they’ve been telling us, ‘There’s asymptomatic disease, for sure, and we are seeing asymptomatic transmission,’” Dr. Fauci said.4
+
+Asymptomatic transmission is unlikely to be driving the epidemic within China, he added, but “it complicates our job.”
+
+1. Study Claiming New Coronavirus Can be Transmitted by People Without Symptoms Was Flawed Science
+
+2. Key Evidence for Coronavirus Spread is Flawed as Public Health Decisions Loom Washington Post
+
+3. High-Profile Report On Asymptomatic Spread Of Coronavirus Based On Faulty Information, Health Officials Say STAT
+
+4. Even Without Symptoms, Wuhan Coronavirus May Spread, Experts Fear NY Times

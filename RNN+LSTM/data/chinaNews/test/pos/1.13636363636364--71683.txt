@@ -1,0 +1,83 @@
+Martin and Dorothie Hellman on Love, Crypto & Saving the World
+
+Martin Hellman, co-creator of the Diffie-Hellman key exchange, and his wife of 53 years, Dorothie, talk about the current state of cryptography and what making peace at home taught them about making peace on Earth.
+
+(image by Greyparrot, via Adobe Stock)
+
+Dozens of adoring, young Chinese university students (and not-so-young infosec professionals) surround Martin Hellman, posing for selfies that are surely destined for WeChat. The cryptographer and national security expert still revered for his work with Whitfield Diffie on the Diffie-Hellman key exchange — or Diffie-Hellmann-Merkle, as he prefers to call it, in recognition of Ralph Merkle’s work — has just completed a presentation at the INSEC 2019 conference in Chengdu, China.
+
+Also in attendance is Dorothie Hellman, who has witnessed such outbursts of celebrity many times before. Dorothie doesn’t need any help being glamorous, but her mystique is nevertheless enhanced by having been featured in Martin’s presentation on public key cryptography. (Instead of the crypto keys being swapped between the proverbial Bob, Alice, and Eve, Hellman’s presentation hustled keys between Marty, Whit, and Dorothie.) She herself was formerly a CPA at Touch Ross and the vice president of fundraising at the Beyond War Foundation.
+
+Dorothie and Martin have been wedded for 53 years (and counting). But that partnership almost didn’t last. The couple recently self-published a book about their road back from the brink of separation, titled A New Map for Relationships: Creating True Love at Home and Peace on the Planet.
+
+But this book is rather different than most books on marriage you’ll find in the self-help aisle.
+
+A New Map is splashed with endorsements by scientists and security experts: a former US Secretary of Defense, the designer of the first microprocessor, the president of the Nuclear Age Peace Foundation, and a former ambassador to Afghanistan who called it “the most thoughtful, unique, and fascinating book I have ever read on personal and international diplomacy.”
+
+The Hellmans explain the essence of the story in the forward: “The experiments we carried out in our marriage allowed us to see how adversaries could eventually achieve a level of harmony that would seem impossible from their starting point. At the personal level, we reclaimed the true love that we felt when we first fell for one another. Extending what we learned in our marriage to the global level would result in something that, from today’s perspective, would look like world peace.”
+
+So what got them to put their story on paper? “For 40 years the two of us have worked to try to save humanity from destroying itself," says Martin Hellman in an interview with Dark Reading. "And yet there’s very little interest in that in the air. … What got us initially started was not wanting to save the world. It was wanting to save our marriage.”
+
+Cold Times Abroad and at Home
+
+Although the book was self-published in 2016, the research for it began in the 1980s. Martin had put cryptography and cybersecurity mostly aside to focus on international security. It was the thick of the Cold War. The threat of nuclear warfare was imminent. And the fracturing of the Hellmans’ marriage was just as heavy in the air.
+
+“Our relationship was very, very difficult at that time,” says Dorothie. “We weren’t communicating at all, and we were leading separate lives.”
+
+“And you were ready to leave me, right?” says Martin.
+
+“And I decided it just wasn’t what marriage was about,” says Dorothie
+
+“You contemplated leaving me?” repeats Martin.
+
+“I was contemplating leaving,” she admits to me. “But I decided I wasn’t going to do that — that he was 'the one.' And I needed to figure out how to really make this marriage work. So that’s where it began.”
+
+Chapter 1 may be a terribly familiar story. Dorothie was reading a map, Martin took the map from her "to help," Dorothie stormed away, Martin awkwardly pretended that nothing at all had happened, and when Dorothie returned, she grabbed the map back and tore it into little pieces. Fortunately, they were able to see the comedy they were starring in, laughed at themselves, and put the map back together like a puzzle.
+
+The lesson: Although they are very different people with different ways of thinking (opposites attract, after all), both of their methods are equally valid. In fact, their differences are a strength.
+
+The Hellmans tell me they have not had an argument in 20 years.
+
+Really.
+
+Well, then, they must be grand compromisers, I say.
+
+No. They’ve agreed to never make compromises with each other. Compromises always result in both parties feeling they’ve lost something.
+
+(I briefly lose the capacity for speech.) How is this scientifically possible? You must have disagreements, surely?
+
+“We disagree all the time!” says Martin. “Now, disagreements become opportunities to discover better solutions than either of us thought. … She thought she wanted X, I thought I wanted Y, which seemed totally incompatible, and then since we agreed that we weren’t going to compromise … we commit to not doing anything until we have a solution Z that we both really love.”
+
+The book continues with other lessons they learned: For example, practice compassion and holistic thinking, realize that inconceivable does not mean impossible, get curious not furious, and realize deeply held beliefs may be mistaken.
+
+“And the same things we learned to make our relationship right,” says Dorothie, “are the same things we need to learn internationally to make the world right.”
+
+Time for a 'Shift in Consciousness'
+
+Dorothie recalls a conversation relating to that.
+
+“We had a congressman sitting in our living room, and we were talking about shifts in attitude like this,” she says, “and what he said was, ‘I can’t get too far ahead of my people.’ And so what needs to happen is a shift in consciousness among people, so that our leaders aren’t fighting the territorial kind of attitude where somebody wins and somebody loses.”
+
+“And,” adds Martin, “that they’re not seen as weak for doing that.”
+
+In a recent Federation of American Scientists paper “Rethinking National Security,” Martin suggested that to truly address certain security issues, we need to adjust our mindset – and see that “national security” now depends on “global security.”
+
+“We usually act as if national security makes sense in and of itself,” he wrote, “but nuclear weapons, other weapons of mass destruction technologies, cyber warfare, terrorism, and global environmental crises are making our national security increasingly dependent on all nations feeling more secure, including those we regard as adversaries.”
+
+Martin cautioned against allowing a cyberarms race to proceed and follow the same pattern that the nuclear arms race did. Supporters of Hellman’s initiative to rethink national security include former members of the national security council, Ronald Reagan’s ambassador to Moscow, Nobel laureates in chemistry and physics, and one of Hellman’s own former adversaries: former Director of NSA, Adm. Bobby Inman.
+
+When Martin first met Inman in 1978, NSA thought Hellman was the “devil incarnate,” says Hellman, “and I thought of them largely the same way.”
+
+Upon meeting, Inman said with a smile: ‘It’s nice to see you don’t have horns.’
+
+Martin replied: ‘Same here.’
+
+Forty-one years later, Adm. Inman signed his statement of support to Hellman’s paper.
+
+“We went from demonizing each other to becoming friends,” Martin says. “And that can happen.”
+
+(continued on next page: A crypto pioneer's thoughts on crypto today)
+
+Sara Peters is Senior Editor at Dark Reading and formerly the editor-in-chief of Enterprise Efficiency. Prior that she was senior editor for the Computer Security Institute, writing and speaking about virtualization, identity management, cybersecurity law, and a myriad ... View Full Bio
+
+1 of 2

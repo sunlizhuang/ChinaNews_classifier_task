@@ -1,0 +1,17 @@
+Why did a Chinese university hire Charles Lieber to do battery research?
+
+Among the ongoing mysteries surrounding last week’s arrest of Harvard University nanoscientist Charles Lieber is the precise nature of the research program Lieber was conducting in his cooperation with Chinese researchers.
+
+Lieber was arrested on 28 January on charges of making false statements to U.S. law enforcement officials and federal funding agencies about a collaboration he forged with researchers in China. He was released two days later on a $1 million bond. An affidavit outlining the charges against Lieber notes that in January 2013, he signed an agreement between Harvard and Wuhan University of Technology (WUT) in China. According to the affidavit, “The stated purpose of the agreement, which had a five-year effective term, was to ‘carry out advanced research and development of nanowire-based lithium ion batteries with high performance for electric vehicles.’”
+
+Officials at WUT have not responded to requests for comment on their agreement with Lieber. But it outlines just the kind of high-tech work that U.S. prosecutors involved in efforts to investigate Chinese attempts to acquire advanced technology from U.S.-based researchers say they are concerned about. They allege that the Chinese government has used such collaborations to improperly take advantage of the federally funded research enterprise, and gain an edge in economic and military advances.
+
+In Lieber’s case, however, the battery angle poses a puzzle. That’s because a search of the titles of Lieber’s more than 400 papers and more than 75 U.S. and Chinese patents reveals no mentions of “battery,” “batteries,” “vehicle,” or “vehicles.” (According to Lieber’s CV, through 2019 he has co-authored 412 research papers and has 65 awarded and pending U.S. patents. The website of the Chinese National Intellectual Property Administration indicates that Lieber has been awarded 11 Chinese patents.)
+
+In fact, one U.S. nanoscientist and former student of Lieber’s says: “I have never seen Charlie working on batteries or nanowire batteries.” (The scientist asked that their name not be used because of the sensitivity surrounding Lieber’s case.)
+
+Lieber joined Harvard in 1991. Early on he pioneered a variety of techniques for growing nanowires from the bottom up in a chemical flask. Researchers have long been able to etch large chunks of semiconductors, metals, and other materials to make wirelike structures. But this top-down approach typically requires the use of expensive clean room facilities, the sorts used by computer chip–makers. Lieber’s strategy opened the door to making pristine nanostructures with simple and inexpensive chemical techniques. He went on to show that he could use these nanowires to serve as transistors, complex logic circuits, data storage devices, and even sensors.
+
+More recently, Lieber’s Harvard lab has shifted gears to integrate nanowires with biology. In 2017, for example, he reported creating soft, flexible 3D nanowire mesh that could be injected into the brains or retina of animals, unfurl and wrap around neurons, and eavesdrop on the electrical communication between cells.
+
+Other research groups have adopted Lieber’s nanowire growth methods to fabricate nanomaterials useful in making batteries. But that’s never been the focus of Lieber’s research. Which begs the question of why his supposed collaboration in Wuhan was focused on a line of research outside of his specialty.

@@ -1,0 +1,47 @@
+Scientists mapped music samples according to the 13 key emotions triggered in more than 2,500 people in the United States and China when they listened to the audio clips. Credit: Alan Cowen
+
+The "Star-Spangled Banner" stirs pride. Ed Sheeran's "The Shape of You" sparks joy. And "ooh là là!" best sums up the seductive power of George Michael's "Careless Whispers."
+
+Scientists at the University of California, Berkeley, have surveyed more than 2,500 people in the United States and China about their emotional responses to these and thousands of other songs from genres including rock, folk, jazz, classical, marching band, experimental and heavy metal.
+
+The upshot? The subjective experience of music across cultures can be mapped within at least 13 overarching feelings: Amusement, joy, eroticism, beauty, relaxation, sadness, dreaminess, triumph, anxiety, scariness, annoyance, defiance, and feeling pumped up.
+
+"Imagine organizing a massively eclectic music library by emotion and capturing the combination of feelings associated with each track. That's essentially what our study has done," said study lead author Alan Cowen, a UC Berkeley doctoral student in neuroscience.
+
+The findings are set to appear this week in the journal Proceedings of the National Academy of Sciences.
+
+"We have rigorously documented the largest array of emotions that are universally felt through the language of music," said study senior author Dacher Keltner, a UC Berkeley professor of psychology.
+
+Cowen translated the data into an interactive audio map, where visitors can move their cursors to listen to any of thousands of music snippets to find out, among other things, if their emotional reactions match how people from different cultures respond to the music.
+
+Potential applications for these research findings range from informing psychological and psychiatric therapies designed to evoke certain feelings to helping music streaming services like Spotify adjust their algorithms to satisfy their customers' audio cravings or set the mood.
+
+While both U.S. and Chinese study participants identified similar emotions—such as feeling fear hearing the "Jaws" movie score—they differed on whether those emotions made them feel good or bad.
+
+"People from different cultures can agree that a song is angry, but can differ on whether that feeling is positive or negative," said Cowen, noting that positive and negative values, known in psychology parlance as "valence," are more culture-specific.
+
+Furthermore, across cultures, study participants mostly agreed on general emotional characterizations of musical sounds, such as angry, joyful and annoying. But their opinions varied on the level of "arousal," which refers in the study to the degree of calmness or stimulation evoked by a piece of music.
+
+For the study, more than 2,500 people in the United States and China were recruited via Amazon Mechanical Turk's crowdsourcing platform.
+
+First, volunteers scanned thousands of videos on YouTube for music evoking a variety of emotions. From those, the researchers built a collection of audio clips to use in their experiments.
+
+Next, nearly 2,000 study participants in the United States and China each rated some 40 music samples based on 28 different categories of emotion, as well as on a scale of positivity and negativity, and for levels of arousal.
+
+Using statistical analyses, the researchers arrived at 13 overall categories of experience that were preserved across cultures and found to correspond to specific feelings, such as being "depressing" or "dreamy."
+
+To ensure the accuracy of these findings in a second experiment, nearly 1,000 people from the United States and China rated over 300 additional Western and traditional Chinese music samples that were specifically intended to evoke variations in valence and arousal. Their responses validated the 13 categories.
+
+Vivaldi's "Four Seasons" made people feel energized. The Clash's "Rock the Casbah" pumped them up. Al Green's "Let's Stay Together" evoked sensuality and Israel Kamakawiwo?ole's "Somewhere over the Rainbow" elicited joy.
+
+Meanwhile, heavy metal was widely viewed as defiant and, just as its composer intended, the shower scene score from the movie "Psycho" triggered fear.
+
+Researchers acknowledge that some of these associations may be based on the context in which the study participants had previously heard a certain piece of music, such as in a movie or YouTube video. But this is less likely the case with traditional Chinese music, with which the findings were validated.
+
+Cowen and Keltner previously conducted a study in which they identified 27 emotions in response to evocative YouTube video clips. For Cowen, who comes from a family of musicians, studying the emotional effects of music seemed like the next logical step.
+
+"Music is a universal language, but we don't always pay enough attention to what it's saying and how it's being understood," Cowen said. "We wanted to take an important first step toward solving the mystery of how music can evoke so many nuanced emotions."
+
+Explore further Music evokes powerful positive emotions through personal memories
+
+More information: Alan S. Cowen el al., "What music makes us feel: At least 13 dimensions organize subjective experiences associated with music across different cultures," PNAS (2019). Journal information: Proceedings of the National Academy of Sciences Alan S. Cowen el al., "What music makes us feel: At least 13 dimensions organize subjective experiences associated with music across different cultures,"(2019). www.pnas.org/cgi/doi/10.1073/pnas.1910704117

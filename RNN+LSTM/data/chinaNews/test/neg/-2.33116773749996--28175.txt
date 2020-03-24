@@ -1,0 +1,33 @@
+Credit: CC0 Public Domain
+
+Computer modeling and long-term ecological monitoring will be essential to assess the environmental risks of the rapidly growing number of chemicals across the world, according to a new review paper in the journal Science.
+
+The analysis, led by the UK Centre for Ecology & Hydrology (UKCEH), says the sheer number of chemicals and substances is making it increasingly challenging to carry out the risk assessments required to check all products are completely safe for wildlife.
+
+The EU's REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals) regulation 2006 set an important precedent—that the onus to demonstrate a chemical was safe for humans and the environment should lie with the manufacturer.
+
+However, out of more than 100,000 chemicals on the market in Europe, only a small fraction have been thoroughly evaluated for their potential harmful impacts on humans and the environment.
+
+Professor Andrew Johnson of UKCEH, lead author of the paper, explains that, for example, there has been a lot of evaluation of the effects of pesticides on the environment but not washing detergents, despite their widespread use. He adds pharmaceuticals do not need an environmental risk assessment, and there has been little research into the potential impacts of several key classes of drugs on wildlife.
+
+Meanwhile, weak regulations or inconsistent local enforcement have contributed to the creation of severe pollution hotspots in some parts of the world, particularly Asia where chemical sales are more than 60% higher than the US and EU combined, according to Professor Johnson and his co-authors.
+
+He says: "Given the many chemicals that entered the market before REACH came into force, a retrospective authorization process is trying to catch up.
+
+"An ever-growing number of chemicals and uses for them means the challenge is enormous, and regulators are struggling to keep up. But it isn't necessarily a lost cause. We've learned from the past and chemicals are generally safer."
+
+Along with progress in the regulation and management of chemicals, Professor Johnson and his co-authors say another reason for optimism is the improvement in analytical techniques in recent years. Computer modeling enables scientists to predict the effects of chemicals without animal testing but regulators are reluctant to rely entirely on these theoretical models.
+
+The paper's authors—from UKCEH, the China National Environmental Monitoring Centre, Kyoto University and Brunel University—also recommend a more consistent retrospective risk assessment. This would involve long-term ecological monitoring to establish the trends in wildlife populations that are exposed to chemicals, and then carrying out forensic scientific analysis to establish if these are linked to chemical pollutants.
+
+The paper's authors say this approach requires greater co-operation between scientists across different disciplines, and are calling on ecotoxicologists and environmental chemists to collaborate with ecologists.
+
+One example of best practice of retrospective risk assessment and multidisciplinary collaboration, cited in the paper, is the investigative research carried out after declines were noted in bee populations. Several global studies, including UKCEH's pan-European field trial in 2014/15, showed that exposure to certain neonicotinoids had a negative impact on bees, resulting in EU bans on those pesticides.
+
+Professor Johnson explains: "Our current system of chemical risk assessment is based on prospective rather than both prospective and retrospective analysis. Long-term environmental monitoring is not normally at the front of the queue for receiving funding, but it's cost effective and can provide the most compelling evidence of whether our use of chemicals is sustainable."
+
+Explore further Chemicals in the environment: A focus on mixtures
+
+More information: Andrew C. Johnson et al, Learning from the past and considering the future of chemicals in the environment, Science (2020). Journal information: Science Andrew C. Johnson et al, Learning from the past and considering the future of chemicals in the environment,(2020). DOI: 10.1126/science.aay6637
+
+Provided by Centre for Ecology & Hydrology

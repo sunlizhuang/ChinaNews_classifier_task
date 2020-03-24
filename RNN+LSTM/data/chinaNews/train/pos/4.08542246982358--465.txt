@@ -1,0 +1,31 @@
+Big data is transforming economies and societies.
+
+Outdated governance is holding back the promise of new tech.
+
+Forward-looking cities and countries are prioritizing innovation.
+
+The Fourth Industrial Revolution is changing various social structures. In Japan, the results of these social changes are commonly referred to as Society 5.0. We have progressed from a hunting and gathering society (Society 1.0) to an agricultural society (Society 2.0), an industrial society (Society 3.0) and an information society (Society 4.0), and now a new, human-centered society is dawning. New systems are set to bring together the cyber world and the physical world in sophisticated ways, driving economic development while solving social issues.
+
+Society 5.0 is run by collecting the vast volume of information used in the physical world and transferring it to the cyber world using technology such as sensors. This big data is then analyzed in cyberspace and the results are applied in various forms to our social activities in the physical world.
+
+New technology such as artificial intelligence has an incredible impact here. Robots, self-driving cars and other autonomous technologies make it possible to overcome issues such as declining birthrates and aging populations, the depopulation of rural areas and unequal distribution of wealth. These social innovations are expected to break down walls that have existed between people and build a society where people can have hope, one where people of all generations respect each other, one where everyone can live comfortably and thrive.
+
+Bumps in the road to the future
+
+However, there are major hurdles that need to be overcome first. There is a big gap between the various things that technological advances can achieve in theory and whether those technologies are being adopted in our societies in practice. It’s the gap between technology invention and technological innovation. Thomas Edison, known as the King of Invention, is known to have created 1300 inventions and technological innovations. He also started 14 companies with the help of investors. Some of those electrical and mechanical companies are still global corporations today.
+
+Unfortunately, as society matured into its current form, various rules and systems were put in place, and it is now difficult to take an invention or technological innovation and connect it to social systems immediately. An example of this is blockchain and distributed ledger technology: this has the potential to bring immense changes to financial systems, but its advancement has stalled in many countries due to the legal systems that govern banks and other financial facilities today.
+
+Basically, the social and legal systems that were created based on our current lifestyles are holding technological innovation back. The success of the Fourth Industrial Revolution and our transition to Society 5.0 depends on how smoothly we can relax regulations and update our legal systems.
+
+Who is winning the innovation race?
+
+I am the director of the Center for Global Innovation Studies at Toyo University. The Center recently published a Global Innovation Index, ranking the innovation performance of each country. The index was created by selecting and integrating a total of 58 indexes for comparison from five main fields: international cooperation, market trends, technological innovation, resourcefulness and relevant policies. Statistics related to these indexes are available for 60 countries, so these countries were ranked.
+
+Toyo's global ranking of innovative countries
+
+Singapore was the top-ranking country, followed by Luxembourg in second, Switzerland in third and New Zealand in fourth. All of these countries have a comparatively small population, which presumably means that openness is prioritized and consensuses concerning system reforms can be reached more quickly.
+
+A symbolic predictor of the shift to a new economic society is the trialing of measures to manage urban areas using big data. In Hangzhou, China, where the head office of Alibaba is located, real-time traffic information for major routes is collected as big data and AI is used to optimize the signals of traffic lights. This is said to have dramatically reduced congestion in the city. Big data is also being used in new digital marketing ventures, and many attempts have been made to build “smart cities”. The urban technology concept that is attracting the most attention is that of “super cities”, which consists not of a test of one technological innovation but an endeavor to build “future-looking cities” by innovating city life as a whole.
+
+Super city initiatives include Smart Dubai, launched in 2013, along with Smart Nation Singapore (2014) and the Xiong’an New Area in China (2017). A distinctive characteristic of these projects is that they have the support of political leaders. Japanese leaders, too, are discussing how the legal system should be adapted to make super cities a reality. The key will be how to use big data while still protecting people’s privacy.

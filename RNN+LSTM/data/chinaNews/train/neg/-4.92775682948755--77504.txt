@@ -1,0 +1,49 @@
+The current outbreak of a new coronavirus disease, named COVID-19, raises the question of where diseases like this come from and where the risks lie. By the middle of February almost 2000 people had died in this outbreak, which has also had a global economic impact.
+
+It is clear that the virus may have an animal reservoir. In other words, it may be permanently found in a host species of animal, where it does not normally cause disease. Viruses can spill over from the host to other animals and humans. Evidence points to a possible initial spillover of the virus into humans and other animals in an animal market in Wuhan in China.
+
+Read more: A clue to stopping coronavirus: Knowing how viruses adapt from animals to humans
+
+Bats are prone to act as reservoir for viruses. Chinese populations of the horseshoe bat genus (Rhinolophus) have already been found to host viruses similar to the new coronavirus. This suggests that it’s important to watch out for related viruses in this genus of bats elsewhere, including African countries.
+
+Scientists on the continent do keep a watch by doing bio-surveillance and specifically looking for pieces of coronavirus genomes in bat species. If these are found, the researchers can determine the genome sequence and analyse how it is related to other animal and human coronaviruses.
+
+If it’s closely related, it may be an indication of where the spillover of new viruses came from and whether it poses a risk of a disease outbreak.
+
+The horseshoe bat genus is found around the world and there are 40 species in Africa. But so far no viruses related to the cause of COVID-19 disease have been reported from African bat species.
+
+The lesson from SARS
+
+Global surveillance for coronavirus diversity in bats has expanded rapidly in the past two decades because of a previous novel coronavirus disease outbreak, severe acute respiratory syndrome (SARS), in China in 2002. This virus resulted in significant illness and death (10%) among human populations. It also spread globally due to travel. The virus appeared to have originated in animals and “jumped” to humans for the first time.
+
+At first, it was thought that masked palm civets and raccoon dogs were the animal hosts for the SARS virus. But it later appeared that they were probably infected by another reservoir source. The horseshoe bat genus hosted viruses similar to SARS but these were sufficiently different to rule out a direct spillover from bats.
+
+Dr. Low de Vries, University of Pretoria , Author provided
+
+Still, the similarity gave rise to a lot of research into Chinese horseshoe bat species. After 11 years of continued surveillance, viruses were identified that were nearly identical to human SARS. They were also capable of using the same binding receptor as human SARS coronavirus. This indicated the potential for direct infection from bats to humans – a feature that most bat-borne SARS-related viruses were lacking.
+
+These viruses in bats weren’t directly linked to the human outbreak. But it did indicate that spillover of these viruses circulating in bat populations was possible when opportunities for contact occurred. No new cases of SARS have been reported since 2004 but the continued presence of various SARS-related strains in horseshoe bat populations makes re-emergence possible.
+
+Thanks to all the efforts to identify the potential reservoir of SARS, many coronavirus viral sequences have been detected in bats globally.
+
+Studying African bats
+
+Work done in South Africa by our group has not detected any viruses related to SARS or the COVID-19 disease in local bats.
+
+Coronavirus surveillance studies in bats in other African countries have been mostly one-off studies and haven’t included all the species or considered seasonal shedding of viruses. Highly diverse and novel coronavirus sequences were reported in cases where surveillance studies were performed. This contributed to the hypothesis that bats were the original evolutionary source.
+
+Viral sequences distantly related to SARS were identified in horseshoe bats collected in Rwanda and Uganda and the free-tailed bat (Chaerephon) genus in Kenya. Because SARS-related viruses are so strongly associated with horseshoe bats, though, the free-tailed bat is not considered an important host for transmission.
+
+The sequences found in Rwanda, Uganda and Kenya are not SARS, though they have some genetic relatedness. They do not pose a direct spillover risk and haven’t been shown to be able to infect human cells. There have not been any human outbreaks of SARS or other coronaviruses linked to bats on the continent.
+
+Most countries in Africa do not have active programmes in place to watch for corona- and other bat-borne viruses in bats and to understand their epidemiology and ecology. We do know that bat coronaviruses are excreted in faecal material, which makes it easier to transmit them through bat populations and creates opportunities for exposure to other species.
+
+Novel coronaviruses
+
+No outbreaks of coronaviruses with a link to bats have been reported in Africa. But we still need to be vigilant.
+
+Coronaviruses are known to have a high mutation rate and can recombine with other coronaviruses, creating new virus variants with the potential to emerge as outbreak viruses in humans. The emergence of novel coronaviruses is also strongly linked to a high diversity present in host populations and to contact between bats, humans and other animals, creating opportunities for spillover.
+
+Understanding viral presence and diversity is the first step. And further understanding of the many factors that may play a role in the spillover of pathogens from bats to humans requires systematic surveillance of bat populations through a variety of disciplines.
+
+This is particularly needed on the African continent in view of high species diversity and other pressures.

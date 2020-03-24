@@ -1,0 +1,103 @@
+Cyberwarfare / Nation-State Attacks , Fraud Management & Cybercrime , Governance & Risk Management
+
+No Surprise: China Blamed for 'Big Data' Hack of Equifax
+
+Analysis: Equifax Failed on Security, But Only Governments Can Hold Each Other to Account
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+LinkedIn
+
+
+
+
+
+Get Permission
+
+
+
+Excerpt from U.S. federal grand jury indictment against Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei
+
+Show of hands: Who's surprised Chinese military hackers allegedly hacked Equifax?
+
+See Also: Redefining Secure Access to Private Applications
+
+For a foreign power that continues to attempt to amass personal information on Americans, targeting one of the country's big three data brokers is an obvious play. For personally identifiable information, why not hit a business that gets rich by buying and selling such data?
+
+"Absent major progress toward international norms in cyberspace, crimes like this will continue to be committed."
+
+And its systems were poorly secured? And Congress has failed to pass any privacy legislation that makes businesses such as Equifax responsible for safeguarding Americans' data?
+
+Cue bonus points for the People's Liberation Army wielding the capitalists' shortcomings against them. As a federal grand jury indictment states: "In a single breach, the PLA obtained sensitive personally identifiable information for nearly half of all American citizens."
+
+Those are just some of the obvious takeaways from the U.S. Department of Justice unsealing indictments on Monday against four Chinese military officers serving with the People's Liberation Army's 54th Research Institute.
+
+Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei have been charged with stealing 145 million Americans' PII in the hack attack against Equifax, which began in March 2017 before being discovered in August 2017. The Chinese government denies the allegations.
+
+Three of the four PLA hackers indicted Monday by a federal grand jury (from left): Wu Zhiyong, Wang Qian and Xu Ke (Source: Justice Department)
+
+The takedown of Equifax begs the question of whether attackers might also have been camping out in the networks of other consumer credit reporting agencies - Experian, TransUnion and others - as well as other data brokers.
+
+China's Hacking Feeds 'Big Data' Machine
+
+The Equifax hack is best viewed in connection with other massive hacks with suspected or alleged ties to China:
+
+Anthem: In 2014, health insurer Anthem was hit by a breach of PII for 78.8 million individuals. In May 2019, a federal grand jury charged Chinese hackers with perpetrating the attacks (see: Anthem Cyberattack Indictment Provides Defense Lessons ).
+
+In 2014, health insurer Anthem was hit by a breach of PII for 78.8 million individuals. In May 2019, a federal grand jury charged Chinese hackers with perpetrating the attacks (see: ). Marriott: Marriott's Starwood guest reservation system first got hacked in 2014, and the breach lasted four years and exposed 339 million global customer records (see: Reports: China Suspected in Marriott Database Breach ).
+
+Marriott's Starwood guest reservation system first got hacked in 2014, and the breach lasted four years and exposed 339 million global customer records (see: ). OPM: The U.S. Office of Personnel Management in June 2015 announced that hackers had stolen data - including extremely sensitive background investigation information - for 21.5 million government employees and contractors (see: Analysis: Why the OPM Breach Is So Bad).
+
+Interesting overlay: In 2015, President Barack Obama threatened China with severe sanctions if it didn't cease its hack attack ways, and in September of that year, he reached a landmark agreement with Chinese President Xi Jinping, which aimed to put intellectual property off limits for nation-state espionage operators. Experts say China initially appeared to abide by the agreement (see: Cyber Pact With China: Distrust But Verify).
+
+Since President Donald Trump took office in January 2017, however, cybersecurity watchers say Beijing has resumed its efforts, perhaps emboldened by the ongoing U.S.-China trade war (see: White House Axes Top Cybersecurity Job).
+
+'Disturbing Pattern'
+
+The old hacking cliché was that if a bank got hit, it was the Russians, while if massive quantities of intellectual property or personal details got lifted, it was the Chinese. It's important to never rush to attribution, but as a mounting number of Justice Department indictments allege, the evidence behind the theft of massive sets of American's personal data often seems to trace to Beijing.
+
+"Unfortunately, the Equifax hack fits a disturbing and unacceptable pattern of state-sponsored computer intrusions and thefts by China and its citizens that have targeted personally identifiable information, trade secrets and other confidential information," U.S. Attorney General William Barr said at a Monday press conference.
+
+But calling out Chinese hackers is unlikely to put a dent in Beijing's efforts (see: Political Play: Indicting Other Nations' Hackers).
+
+"This indictment has no teeth," says Jake Williams, a former hacker with the National Security Agency's Tailored Access Operations unit and founder of Rendition Infosec, a security consultancy in Atlanta. "Unlike U.S. operators, Chinese operators [government hackers] lack the choice to say, 'No, I don't want to hack for you.'"
+
+What's the Plan?
+
+Meanwhile, China continues to hit U.S. targets hard. "The threat from China is real, it's persistent, it's well-orchestrated, it's well-resourced, and it's not going away anytime soon," John Demers, assistant attorney general for national security, said at a Washington conference last week, as ZDNet reported, adding that the FBI has more than 1,000 open cases into the alleged theft of U.S. intellectual property by China (see: FBI's Wray on China's Counterintelligence Capabilities).
+
+"I would argue that for a long time, this country was under-focused on the counterintelligence threat that China poses," said FBI Director Christopher Wray at the RSA Conference 2019 in San Francisco on March 5, 2019. "There is nothing like it. I am not someone who is prone to hyperbole, but ... the thing that shocked me was the breadth, depth and the scale of the Chinese counterintelligence."
+
+One risk is that these breaches are allowing China to collect a massive amount of PII on any given American. This may make it easier to identify U.S. intelligence agents and assets, as well as individuals who might be more susceptible to blackmail, for example, to obtain intellectual property or intelligence secrets.
+
+"In espionage they talk about susceptibility and vulnerability as the two angles to explore for recruitment," the operational security expert known as the Grugq said of the OPM breach. "China has all that data now." And then some.
+
+"The aggregate scale of information obtained by China about Americans is staggering," says Susan Hennessey, a former National Security Agency attorney who is now the executive editor of Lawfare, via Twitter. "Law enforcement and intelligence agencies have been sounding the alarm about the need to focus on China with increasing urgency for over a year now."
+
+Basics Matter More Than Ever
+
+Indictment against Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei
+
+Focusing on good cybersecurity defenses remains essential. As has now been well documented, Equifax's failings were many.
+
+The Monday indictment alleges that Chinese hackers exploited an unpatched, critical Apache Struts flaw, found plaintext credentials being stored in text files and pivoted across the network. Attackers also ran about 9,000 queries on Equifax's systems, while using encrypted communications to mask their activity, including deploying their own remote desktop protocol and web shell software, and using leased Swiss servers as a staging area, according to the indictment.
+
+Equifax had defenses that might have spotted this behavior, as previous investigations have found. But the massive data broker had allowed eight SSL certificates to expire, leaving it unable to spot data being exfiltrated via encrypted means. Once the security team renewed the certificates, its security tools spotted the malicious activity (see: Congressional Report Rips Equifax for Weak Security).
+
+Behavioral Norms Needed Now
+
+While having a good defense helps, it's not a complete solution (see: Gartner's Avivah Litan on Impact of Marriott Breach).
+
+That's because nation-state attacks remain a reality, and unless governments are held to behavioral norms, it's unclear how businesses will be able to blunt online attacks launched by well-resourced nation states, says Stephen Cobb, an independent security and privacy researcher (see: Microsoft Advocates 'Digital Geneva Convention').
+
+"The persistent aggregation of ever more detailed information about consumers, conducted by under-regulated commercial entities, some of whom have questionable ethical standards - not to mention inadequate security practices and budgets - has created a target-rich environment for any government agency, foreign or domestic, that sees value in acquiring such data," he tells me. "Absent major progress toward international norms in cyberspace, crimes like this will continue to be committed."

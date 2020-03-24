@@ -1,0 +1,31 @@
+Dating apps like Tinder, OkCupid and Grindr are sharing users' "highly personal" data like sexual preferences and location with advertising partners, according to a European data protection agency.
+
+The Norwegian Consumer Council released findings on Tuesday suggesting the information you enter on dating apps is being used to create comprehensive profiles, which are then sold and used for targeted advertising and other practices.
+
+"These practices are out of control and are rife with privacy violations and breaches of European law," including the General Data Protection Regulation, said Finn Myrstad, director of digital policy in the Norwegian Consumer Council in a statement.
+
+Who inspires you? USA TODAY seeks your Women of the Century to commemorate 19th Amendment
+
+Coming out:NikkieTutorials, the famous beauty blogger, comes out as transgender
+
+The consumer advocacy group filed three GDPR complaints against the queer dating app Grindr and five advertising divisions of tech companies that reportedly receive the personal data including Twitter's MoPub and AT&T’s AppNexus.
+
+“Every time you open an app like Grindr, advertisement networks get your GPS location, device identifiers and even the fact that you use a gay dating app," said Max Schrems, founder of the European privacy non-profit noyb. The name is also an internet acronym for "none of your business."
+
+Twitter suspended Grindr from its advertising network after the report published, the social media network confirmed to The Hill.
+
+A Grindr spokesperson said in a statement that the company rejects some of the report's "assumptions and conclusions," though it's working on rolling out a privacy consent platform in the app.
+
+"We welcome the opportunity to be a small part in a larger conversation about how we can collectively evolve the practices of mobile publishers and continue to provide users with access to an option of a free platform," the company said.
+
+Match Group, which owns Tinder and OkCupid, said its business model relies on customers paying for subscriptions "unlike other tech companies whose model relies on the sale of personal information."
+
+Tinder and OkCupid rely on third party providers to "assist with technical operations," Match Group said.
+
+Grindr, which is owned by the Chinese gaming company Kunlun Tech, describes itself as the "world’s largest social networking app for gay, bi, trans and queer people." Tinder is a location-based mobile app that's mostly used for dating. The American-based website OkCupid functions similarly.
+
+While the dating app report focuses on practices in Europe, these types of mobile applications could also pose personal and national security risks here in the U.S., the Department of Justice recently told NBC Nightly News Anchor Lester Holt.
+
+"There's a lot of information there in the app that you're voluntarily turning over," said John Demers, assistant attorney general for national security at the Department of Justice, in the NBC interview. "Some of it you know you're doing, some of it maybe you don't realize."
+
+Grindr has information on its user's preferred sexual positions, HIV status, race and location. Tinder and OkCupid collect similar data points.

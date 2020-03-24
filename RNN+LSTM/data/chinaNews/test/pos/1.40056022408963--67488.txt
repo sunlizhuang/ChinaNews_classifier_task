@@ -1,0 +1,31 @@
+InterSystems announced this week that it released a functionality allowing users of the latest editions of TrakCare to screen and support patients with 2019-nCoV, as the fight against the spread of the outbreak intensifies.
+
+The company said customers in China, the UK, the United Arab Emirates and others had already started using it.
+
+The functionality is based on guidance from the World Health Organization and links to the Wuhan Coronavirus Global Cases app from the Johns Hopkins Center for Systems Science and Engineering in the US.
+
+“We are proud to have deployed this quickly for our users,” said TrakCare chief medical officer Hazem El Oraby.
+
+WHY IT MATTERS
+
+The news comes in the wake of reports from the Chinese stated media that Zhang Jin, party secretary of the Health Commission of Hubei Province, where the novel coronavirus was first identified, and Liu Yingzi, director of the Hubei Provincial Health Commission, had been sacked.
+
+According to the National Health Commission, the death toll in mainland China has now exceeded 1,000.
+
+The virus has been spreading quickly. As of yesterday, the World Health Organization reported 40,554 cases of the virus. Of those cases, 40,325 are in China.
+
+Professor Gabriel Leung, chair of public health medicine at Hong Kong University, told the Guardian today that it could infect around two-thirds of the world’s population if not controlled.
+
+In the UK, with eight confirmed cases, health secretary Matt Hancock declared it an “imminent threat to public health” on 10 February.
+
+THE LARGER TREND
+
+With the announcement, InterSystems joins a growing list of health tech vendors that have taken steps to help halt the spread of the disease.
+
+This week, medtech giant Medtronic and the Medtronic Foundation said they would commit over $1 million to global relief efforts, including cash contributions and product donations that will be sent to Wuhan Huoshenshan Hospital, an emergency site built in just 10 days to battle the outbreak.
+
+At the same time, Israel’s Sheba Medical Center is said to have launched a coronavirus telemedicine programme, working with Californian company InTouch Health and Datos Health.
+
+ON THE RECORD
+
+“This is a great example of how TrakCare can be updated in real-time to urgently respond to threats and deployed rapidly to the organisations and clinicians that need it; particularly those using the latest edition of our systems,” the TrakCare CMO added in a statement.

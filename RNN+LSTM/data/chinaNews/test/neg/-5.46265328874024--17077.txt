@@ -1,0 +1,57 @@
+Copyright 2020 NPR. To see more, visit https://www.npr.org.
+
+AILSA CHANG, HOST:
+
+A man from Washington state recently returned from China infected with a new virus that is responsible for about 300 cases and at least six deaths. It's the first case of the disease reported in the U.S. Public health officials say the risk to the general public remains low. And NPR science correspondent Richard Harris joins us now with more.
+
+Hey, Richard.
+
+RICHARD HARRIS, BYLINE: Hey, Ailsa.
+
+CHANG: So we are talking about the coronavirus here. Tell us a little more about this disease.
+
+HARRIS: Well, it's a lung infection caused by this virus, the coronavirus. And coronaviruses include mild viruses that cause a common cold but also nasty viruses, like the virus responsible for two previous global outbreaks you may remember - SARS and maybe MERS.
+
+CHANG: Yeah.
+
+HARRIS: And this one cropped up in Wuhan, China, late last year. At first, Chinese health officials said it was just confined to that city; nothing to worry about. But there are now reports of it among people who traveled from China to Thailand, Taiwan, Japan and South Korea.
+
+CHANG: And now the U.S. So tell us about what happened with this first U.S. case.
+
+HARRIS: Well, this story was laid out today in a telephone press briefing with officials from the Centers for Disease Control and Prevention, as long - as well as health officials from Washington state. As they recounted, a man in his 30s had returned home from - to Snohomish County in the middle of last week, and he started to feel off. So he called his doctor, and he told his doctor he traveled to Wuhan. That immediately triggered public health officials to suspect that he might have contracted this new coronavirus.
+
+So he was taken to Providence Regional Medical Center in Everett, Wash., which is incidentally where Boeing makes its airplanes, and he was placed in isolation. Yeah. And then the CDC actually was able to identify this overnight.
+
+CHANG: How is he doing now?
+
+HARRIS: Health officials in Washington state say he's doing just fine. In fact, the main reason he's in the hospital is to isolate him and make sure that other people aren't being put at risk.
+
+CHANG: OK, so what exactly is that risk of spreading this disease?
+
+HARRIS: Well, researchers don't know a whole bunch about this virus yet. It did show up first in a market that had live seafood and animals. They do know it can spread from person to person, though, and that could happen through sneezes or coughs or, potentially, if someone shedding the virus then touches a surface that then somebody else touches.
+
+CHANG: OK, so what are health officials doing now to try to contain this?
+
+HARRIS: So first of all, they're starting to contact the people that the man had contact with. They say, thankfully, that's a very small number of people because he was so vigilant. He called his doctor right away, as soon as he got concerned about this, and he was quickly isolated. But the CDC has sent investigators to Washington state to track everyone he contacted. That includes people like - in seats near his on his airplane, on his various flights back from China.
+
+CHANG: Wow. So last Friday, the CDC announced that it was going to be setting up screening at three major airports to check the health of people returning from Wuhan. That was San Francisco, Los Angeles, JFK in New York. Did this man actually come through that screening process?
+
+HARRIS: He actually arrived before they had set up that screening process.
+
+CHANG: OK.
+
+HARRIS: But as a result of this case, the CDC is now adding a couple of airports to its screening plan. They're adding Chicago and Atlanta. So it's a total of five now. And it's requiring anyone who's returning from Wuhan to be routed through one of those airports so they can get screened.
+
+CHANG: Anyone returning from Wuhan, but cases are now being reported in Japan, South Korea, Thailand and Taiwan. It doesn't seem like we're in position to catch all the cases.
+
+HARRIS: Yeah. You can never get 100% right, but the CDC is playing the odds and picking the most likely travelers. That said, you know, this public health strategy is evolving quickly, and if the disease starts to spread in a meaningful way, I'm sure that CDC will adjust. Public health officials have set up some fairly sophisticated systems, especially since the SARS outbreak of 2003. You may recall that back then, there was huge concern about that spread around the world.
+
+CHANG: Yeah.
+
+HARRIS: But in the U.S., there were only eight people who ended up being infected with SARS, and these public health measures back then helped that from spreading any farther.
+
+CHANG: That's NPR science correspondent Richard Harris.
+
+Thanks, Richard.
+
+HARRIS: My pleasure. Transcript provided by NPR, Copyright NPR.

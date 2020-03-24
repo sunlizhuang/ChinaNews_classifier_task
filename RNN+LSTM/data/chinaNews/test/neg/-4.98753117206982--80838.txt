@@ -1,0 +1,37 @@
+Here are the main hypotheses about how it does spread:
+
+Respiratory Droplets
+
+AD
+
+It’s widely assumed that the virus spreads in respiratory droplets -- spatters of liquid that are sometimes visible to the naked eye -- forcefully expelled from an infected person’s cough or sneeze. These are usually heavy enough to fall immediately to the ground or surrounding surfaces. Infection could occur if the droplets reach the mouth, nose or possibly the eye of someone nearby, perhaps from an unwashed hand that’s touched a contaminated surface. The World Health Organization recommends avoiding close contact with anyone who has a fever and a cough or other respiratory symptoms. That means keeping at least 1 meter (3 feet) from a sick person and avoiding shaking hands, hugging and kissing people with the symptoms.
+
+AD
+
+The possibility of transmission through the eyes hasn’t been thoroughly investigated, but Guangfa Wang, a member of China’s national expert panel on pneumonia, has said he thought he’d contracted the disease that way during an inspection of patients in which he wore a face mask. A group of ophthalmologists has supported his hypothesis in a letter to the Lancet. The tissue known as the conjunctiva that lines the inside of the eyelids and covers the whites of the eye has been shown to be the gateway for other infections. The eye doctors writing to the Lancet called for their colleagues examining suspected cases to wear protective eyewear.
+
+Tiny Aerosol Particles
+
+AD
+
+When people sneeze, cough or even breath, they also emit particles so small that instead of falling right to the ground, these aerosols can float for a time through the air. When a virus is carried by such particulates, its odds of infecting people are higher because of the potential for them to be inhaled. More studies are needed to determine if this is the case with the Covid-19 virus. If it is, it might mean health-care workers interacting with infected people require extra precautions, similar to those taken when treating other infectious diseases that travel in this way, such as tuberculosis, according to Benjamin Cowling, a professor of public health at the University of Hong Kong. For the hordes of regular people rushing out to buy masks, however, Cowling says it’s less clear how helpful they would be even if this is the primary mode through which the novel coronavirus spreads. The confusion has prompted shortages of protective gear from face masks to surgical gloves to hand sanitizer, and even toilet paper around the world.
+
+AD
+
+Fecal-to-Oral
+
+Another possible route of transmission is infected people improperly washing their hands after using the toilet, and then touching surfaces or preparing food that comes in contact with healthy people. Recent research suggests this fecal-oral route may be an important and under-recognized pathway for the novel coronavirus.
+
+AD
+
+It may also explain how the virus has spread among hundreds of passengers and crew aboard cruise ships. If that’s the case, regular hand-washing and sanitizing bathrooms, food-preparation and serving areas could be more effective in slowing the virus than outfitting people with face masks, according to John Nicholls, a professor of pathology at Hong Kong University, who was part of the research team that isolated and characterized the virus responsible for the 2002-2003 epidemic of severe acute respiratory syndrome, or SARS. “Masks will be of benefit in this condition only because they stop you from putting contaminated fingers in your mouth,” he said.
+
+AD
+
+Fomites
+
+Water, food, and so-called fomites -- inanimate objects or materials, such as clothing or utensils -- may be a source of infection, especially if they have been contaminated by an infected person’s respiratory secretions or feces. In recognition of that risk, Chinese health officials recommend measures to strengthen sanitation and hygiene in epidemic areas. These include drinking boiled water, avoiding eating raw food, washing hands frequently, disinfecting toilets, and preventing water and food from being contaminated by patients.
+
+To contact the reporters on this story: Ari Altstedter in Mumbai at aaltstedter@bloomberg.net;Jason Gale in Melbourne at j.gale@bloomberg.net
+
+To contact the editors responsible for this story: Drew Armstrong at darmstrong17@bloomberg.net, Lisa Beyer, Jeff Sutherland

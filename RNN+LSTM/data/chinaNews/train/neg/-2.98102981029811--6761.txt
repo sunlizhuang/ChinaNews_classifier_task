@@ -1,0 +1,71 @@
+Open this photo in gallery Supporters of Taiwan President Tsai Ing-wen cheer for her victory as they gather to watch early election returns in Taipei on Saturday, Jan. 11, 2020. Chiang Ying-ying/The Associated Press
+
+Hour by hour, the Taiwanese government website kept a detailed tally of the money pouring into digital election advertisements. Powered by data from Facebook, it was a near-live window into the flows of money and paid influence during a campaign to elect Taiwan’s president and legislature.
+
+The idea, Taiwan’s Digital Minister Audrey Tang said, was that “if anybody tries to pull a hyperprecision targeting movement that discourages people from voting by spreading disinformation through hypertargeted means, there could be social sanction against it – like literally the next hour, instead of waiting until after the election.”
+
+It was a new system devised by Facebook for the Taiwanese election, but one with global implications.
+
+Story continues below advertisement
+
+“If this turns out well, I’m sure they will take it elsewhere,” Ms. Tang said.
+
+Taiwan lies just off the shores of mainland China and is a place with all the functions of an independent state – but one that is claimed by Beijing as its territory. That has made it perhaps the world’s foremost theatre in a sophisticated struggle for influence, as China seeks to bring Taiwan into its fold, while many in Taiwan seek to maintain their own distinct democratic identity.
+
+For months, Taiwan’s leaders warned that Chinese meddling threatened the information sanctity of the election that took place Saturday. Facebook played an important role in a major campaign to suppress fiction and preserve fact, as the Taiwanese election distilled problems common to countries elsewhere, too.
+
+With Beijing deploying “a sophisticated strategy to influence every stage of the global information supply chain,” Rush Doshi, director of the Brookings China Strategy Initiative, wrote in Foreign Affairs last week, “democracies around the world should pay close attention to what happens in Taiwan’s election.”
+
+But the election also demonstrated the immense difficulty in addressing disinformation.
+
+Facebook staffed an election war room in Taiwan and sent notifications about disinformation to people who forwarded untrue content. “Over the last three years, we have dedicated unprecedented resources to fighting malicious activity on our platform and, in particular, to protecting the integrity of elections on Facebook,” the company said in a statement.
+
+Meanwhile, political parties and government agencies alike deployed rapid-response teams to develop factual graphics and memes to respond to disinformation within an hour or two.
+
+Story continues below advertisement
+
+Political and community leaders had warned that China would marshal its disinformation powers to support the more Beijing-friendly Nationalist Party Leader Han Kuo-yu, the opponent of incumbent Tsai Ing-wen, whose Democratic Progressive Party has loudly defended Taiwan’s sovereignty against China.
+
+Ms. Tsai was re-elected with a large margin, and maintained her party’s majority in the legislature. But the election nonetheless illustrated the immensity of the challenge in guarding factual information.
+
+“This is my fourth presidential election in Taiwan and it is, by far, the worst. Nobody is talking policy,” J. Michael Cole, a senior fellow with the Macdonald-Laurier Institute who lives in Taipei, wrote last week, assigning blame primarily to the exaggerations and fabrications of local politicians. “The disinformation campaign that has been unleashed upon Taiwan has yielded absurdity and caused tremendous damage to its democracy.”
+
+And Ms. Tsai’s victory, despite opposition from China, is scant cause for celebration, said Paul Huang, who has worked with the Taiwanese Public Opinion Foundation.
+
+“What I’m worried [about] is that people will take the wrong lesson from this election,” he said. “They might believe that, because of the outcome, Taiwan defeated China’s interference – that China’s interference didn’t work.”
+
+His research showed evidence that Chinese disinformation helped boost the prospects for Mr. Han in 2018, when he was voted mayor of the city of Kaohsiung. Mr. Huang saw a sharp decline in the presidential campaign, which he attributes in part to Chinese state-backed meddlers diverting their attention to the protest movement in Hong Kong.
+
+Story continues below advertisement
+
+But China continues to possess potent tools of influence that it can use in the future. “And Taiwan doesn’t have a systematic way to fix the problem,” he said.
+
+At the same time, the election saw no shortage of questionable information.
+
+A content farm spread false details about the cost of purchasing fighter jets and Taiwan aid contributions to Paraguay. Facebook shuttered at least one of the pro-Han groups spreading the information. Fan pages spread disinformation on collapsing agricultural prices, faulting Ms. Tsai’s party for alienating Taiwan from buyers in China.
+
+Other fan pages spread untrue allegations about manipulation of a photo that showed large crowds amassed against Mr. Han. Memes and roadside banners warned that Ms. Tsai’s party had funded a Pride parade in Taipei.
+
+On YouTube, meanwhile, videos from influencers with pro-Beijing messages attracted “very suspicious” numbers of comments, which elevated their profile on the streaming site, said Puma Shen, a scholar at National Taipei University’s Graduate School of Criminology who is director of DoubleThink Labs, one of Taiwan’s most respected institutes studying disinformation.
+
+Prof. Shen has gathered documents showing efforts in China “to fund companies that can trend these YouTubers,” he said. ”And we know that one part of Chinese propaganda is to have all these YouTubers who talk about pro-China messages.”
+
+Story continues below advertisement
+
+He credits Facebook, however, with a “very effective” response.
+
+On Line, the most popular chat app in Taiwan, volunteers built Cofacts, a bot that allows users to forward a message and receive an instant response, at any time of day, as to whether information is real or questionable. An information war is being waged inside Line’s closed chatrooms, and Cofacts is “trying to make it all open, transparent,” co-founder Billion Lee said.
+
+But its usage statistics don’t suggest a great success: In the six months prior to the election, users forwarded an average of 600 messages a day to the chatbot. Line counts 21 million monthly active users in Taiwan.
+
+Prof. Shen sees the solution as equal parts technological and old-fashioned – through classroom education. Educators have begun to travel Taiwan, delivering instruction to elderly groups, among others, about discerning false information.
+
+“It’s working, in a very micro way,” Prof. Shen said. ”But if they’re doing that for five years, 10 years, there will definitely be a change.”
+
+The harder problem to solve is the one at home. A crowd-sourced 2020 Presidential Candidates Fact Verification Program analyzed nearly 3,000 statements from the two main presidential candidates. It found that just 35 per cent of those from Mr. Han, a leader likened to Donald Trump, were fully factual (compared with 84 per cent from Ms. Tsai).
+
+Story continues below advertisement
+
+“We have so much disinformation locally here in Taiwan. So what Chinese cyberforces could do is to amplify its distribution,” Prof. Shen said. “They don’t need to produce fake news. They can use the fake news we already have in our society.”
+
+With reporting by Milo Hsieh

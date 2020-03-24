@@ -1,0 +1,39 @@
+Chinese phone companies Huawei, Oppo, Vivo, and Xiaomi are banding together to create an alternative to Android's Play Store.
+
+Known as the Global Developer Service Alliance (GDSA), the Play Store alternative would standardize each of the Chinese manufacturers' app stores. This would mean app developers would only need to develop one app to appear on each of the companies' app stores. By standardizing with the GDSA, Huawei, Oppo, Vivo, and Xiaomi make their stores significantly more attractive to developers — and mark a serious challenge to Google.
+
+Is this part of Huawei's fightback against Google? Is this the first sign of a nascent Chinese-dominated internet?
+
+Why are these Companies Creating the GDSA?
+
+There are two main reasons why the companies are joining forces to create a Play Store alternative.
+
+Firstly, the Google Play Store has been banned in China by the Chinese government. This is due to the Chinese government's severe internet censorship measures which block all Google services. Instead, app developers have to rely on using the Android Open Source Project, which isn't technically owned by Google and is free for anyone to use.
+
+Secondly, and perhaps more importantly, the US government has banned Huawei from using Google's services around the world. As a result, it has been unable to use the Play Store on its most recent phones, which has led tech reviewers to brand phones such as the Mate 30 Pro “the best phone you shouldn't buy.” Huawei has needed to find an app store which would still offer access to the market-leading apps that consumers demand, without using the Play Store.
+
+In fact, Huawei has also been creating a rival operating system to Android, called Harmony OS. It's clear that Huawei is planning a fightback against Google and the US government.
+
+However, it is important to note that according to Reuters, the companies have been coy about the project.
+
+“A Xiaomi spokesman said the alliance was not intended to challenge Google and denied Huawei’s involvement with it, but Oppo and Vivo made no mention of Huawei in their statements. Huawei declined to comment.”
+
+How Significant will the GDSA be?
+
+It's likely that the GDSA, if successful, would provide a serious challenger to Android — at least in Asia.
+
+Together, the four companies control some 40% of the global phone market. However, in North America, for example, the companies barely manage a combined 5% market penetration. But, as smartphone sales stagnate in North America and Europe, Asia is one of the few growth markets meaning that there is a huge opportunity for the GDSA.
+
+There has also been talk of a great internet schism coming, with a US-dominated internet in one corner and a China-dominated internet in the other. The arrival of the GDSA might be one of the first examples of the divide at a consumer level.
+
+In China, most internet functions happen through apps such as WeChat — users can chat to each other, do their banking, and much more through these apps. Outside of China, meanwhile, each function has a range of different apps, reflecting the more decentralized internet created by a (relatively) decentralized capitalist system.
+
+With companies such as Oppo expanding rapidly in Europe, there's every chance that the GDSA might make its way outside of China's great internet firewall. If so, users could be faced with the stark choice between convenient and streamlined but surveilled Chinese software, and the existing software they know and (sometimes) love.
+
+How Different will the GDSA be?
+
+At the moment, it's difficult to say with any degree of certainty what the GDSA will look like — it's largely dependent on which app developers will start working on the system.
+
+However, it seems logical that the GDSA might be based on the Android Open Source project. This would make app development easier and would entice large companies to start developing for the system.
+
+But there's the small matter of geopolitics. Depending on how bellicose the US government is, there's the chance that US companies might be prevented from working with the Chinese companies. If so, this would deepen the already significant rift between the US and China.

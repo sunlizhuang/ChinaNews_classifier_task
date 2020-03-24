@@ -1,0 +1,37 @@
+(Jan 30): The new coronavirus roiling financial markets and prompting travel bans is taking on a life of its own on the internet, once again putting U.S.-based social media companies on the defensive about their efforts to curb the spread of false or dangerous information.
+
+Researchers and journalists have documented a growing number of cases of misinformation about the virus, ranging from racist explanations for the disease’s origin to false claims about miracle cures. Conspiracy theorists, trolls and cynics hoping to use the panic to boost traffic to their own accounts have all contributed to the cloud of bad information.
+
+“It’s the perfect intersection of fear, racism and distrust of the government and Big Pharma,” said Maarten Schenk, co-founder of the fact-checking site Lead Stories. “People don’t trust the official narrative.”
+
+The novel coronavirus, which originated in the Chinese city of Wuhan, has killed 132 people and infected over 6,000, with cases in 19 countries.
+
+One set of tweets and Facebook posts from U.S. conspiracy theory accounts said drinking bleach could protect against the virus or even cure it. On YouTube, a series of videos accusing media organizations of suppressing information had hundreds of thousands of views.
+
+Fact-checkers, medical experts and academics reviewing coronavirus-related misinformation said some of the most viral hoaxes have concerned vaccines that claim to prevent or cure the disease and that would soon be commercially accessible to the public. Though medical authorities and biotechnology companies have begun researching and developing vaccines, they’re far from being stocked on pharmacy shelves.
+
+“Rumors can travel more quickly and more widely than they could” in an era before social media, said Thomas Rid, a professor of strategic studies at Johns Hopkins University, who has a forthcoming book on the history of disinformation. “That of course lends itself to conspiracies spreading more quickly. They spread more widely and they are more persistent in the sense that you can’t undo them.”
+
+Some of the internet traffic and misinformation has been outright racist against Chinese people and Asians in general. Posts attributing the coronavirus to Chinese culinary practices have blown up, and a review of a new Chinese restaurant in Toronto was swarmed by racist trolls.
+
+“There’s a lot of misinformation out there, and some of that can be quite dangerous,” Maria Van Kerkhove, head of the World Health Organization’s emerging diseases unit, said at a Wednesday press conference in Geneva.
+
+Viruses have always sparked fear and misinformation, striking panic as rumors spread and people desperate for information latch onto whatever snippets they can find -- whether they’re true or not. But the advent of social media has supercharged this process, leading to waves of misinformation over elections, mass shootings, plane crashes and natural disasters.
+
+The outbreak is just the latest test of social networks’ ability to handle the spread of false and dangerous information.
+
+Twitter Inc. is trying to stave off bad information related to coronavirus by directing users to more reliable sources, prompting users who search for “coronavirus” to visit the Centers for Disease Control and Prevention website. The company has not seen an uptick in disinformation since coronavirus became a worldwide problem, a spokeswoman said. Twitter has a policy against people trying to “mislead” others with “deceptive activity.”
+
+Facebook Inc.’s fact-checking partners -- independent organizations that flag problematic posts on the platform -- have been labeling misinformation about the coronavirus so users know it’s false, according to a company spokeswoman. Facebook is also alerting people who may have shared misinformation before it was fact-checked. On Tuesday, Facebook searches for “coronavirus” and related terms surfaced mostly credible reports from sites like the BBC and CNN, but there were also links touting dubious immune-boosting services and posts from users that questioned whether the virus news was a conspiracy from the World Health Organization.
+
+Information shared in private groups are outside of Facebook’s fact-checking apparatus, and they have been known to incubate conspiracies on many different topics.
+
+Alphabet Inc.’s Google searches for the virus are topped with a special panel linking to the Centers for Disease Control.
+
+On Google’s YouTube, coronavirus was being treated as a news event, so searches for videos related to the outbreak mostly returned results from large, mainstream news organizations, though some conspiracy theory videos slipped through. Much of the dubious information being shared could be considered what YouTube labels “borderline” content. That’s information that isn’t necessarily wrong or racist but peddles unconfirmed conspiracies or shoddy medical information. YouTube said its algorithms are built to lower the number of times “borderline” content is recommended to viewers.
+
+In China itself, where homegrown social media apps like WeChat and Weibo dominate, misinformation has spread alongside protests against the government’s handling of the situation. Generally, social media is closely monitored and censored by the communist party. But the sheer amount of posts criticizing the government and demanding more action mean some have evaded censors. Videos and posts that otherwise wouldn’t have left China have circulated through the internet, giving the world a view into the situation that isn’t totally controlled by the government.
+
+“Early days in an outbreak, there’s so much uncertainty. People don’t like uncertainty. They want answers,” said Timothy Caulfield, a health law professor at the University of Alberta.
+
+“Social media is a polarization machine where the loudest voices win,” he said. “In an outbreak, where you want accurate, measured discourse, that’s kind of a worst-case scenario.”

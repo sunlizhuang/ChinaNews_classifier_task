@@ -1,0 +1,39 @@
+This year could see the fulfillment of a number of long-promised achievements in human spaceflight. For the first time, private companies could launch humans into orbit in 2020, and two different companies could send paying tourists on suborbital missions. The aerospace community has been watching and waiting for these milestones for years, but 2020 is probably the year for both.
+
+We may also see a number of new rocket debuts this year, both big and small. A record number of missions—four—are also due to launch to Mars from four different space agencies. That's just the beginning of what promises to be an exciting year; here's a look at what we're most eagerly anticipating in the coming 11.5 months.
+
+Commercial crew
+
+Yes, it's happening. Probably. Both SpaceX and Boeing have made considerable progress toward launching humans to the International Space Station from Florida. They've also had setbacks. SpaceX's Crew Dragon performed a successful test back in March, but a month later the capsule exploded during a thruster test. Boeing completed an orbital uncrewed test flight in December, but it was hampered by a software issue and unable to perform the primary task of its flight, approaching and docking with the International Space Station.
+
+These issues are likely surmountable. SpaceX plans to conduct a test of its in-flight abort systems on Saturday—using a slightly modified version of the SuperDraco thrusters that caused problems in April. Success with this test could set up a crewed launch in late spring depending on how fast NASA can review data from that and other tests before signing off on Crew Dragon's readiness for flight.
+
+Less clear is how long Boeing's software issues will set the company back. Starliner also experienced some thruster issues during its test flight. NASA has said it will spend the next two months reviewing the issue before deciding how to proceed. The bottom line is that it seems likely that one or both companies probably will get crewed flights off in 2020. We can't wait.
+
+Space tourism
+
+Let's face it: we've heard this before. Richard Branson has been promising to take tourists on a suborbital space ride for a long time. As far back as July 2008, Sir Richard said Virgin Galactic would be ready to bring its first paying customers into space within 18 months. More than a decade has since passed since then, but Virgin appears to be getting close.
+
+The company has completed two successful suborbital test flights to the edge of space with its VSS Unity spacecraft, and Virgin has since begun refitting the cabin interior for customer missions. The first paying customers will likely fly later this year—including Sir Richard himself.
+
+Meanwhile, Blue Origin's New Shepard vehicle passed a quiet year in 2019, with a seven-month hiatus between uncrewed missions from May to December. The company's chief executive, Bob Smith, said in October that Blue Origin had "tapped the brakes a bit" to ensure that everything inside the six-person spacecraft was safe for humans. It seems reasonable to ask, "If no humans fly on New Shepard in 2020, will they ever?"
+
+A Martian quartet
+
+Most readers will know that NASA's Mars 2020 rover (along with a small helicopter) is due to be launched in July 2020. But as many as three other spacecraft may leave Earth for the red planet this summer. That's partly because summer is when the prime launch window for Mars opens; this is the point every 26 months when the least amount of delta-v, or energy, is needed to get there.
+
+The high number of launches is also because other countries want to get in on the red action. China plans to launch its first spacecraft to Mars, and the HX-1 mission is an ambitious one. It combines an orbiter, lander, and rover all into one mission. No country other than the United States has ever soft-landed a spacecraft on Mars and had it operate for any substantial period of time.
+
+The European Space Agency, in concert with Roscosmos, is also attempting to put its ExoMars 2020 lander safely on Mars. There have been some serious problems with parachute testing and this mission, so it's not clear whether ExoMars will actually launch in 2020 or sit out until the next launch opportunity.
+
+Finally, the United Arab Emirates will attempt to fly its Hope Mars Mission orbiter during the July window. The orbiter will launch from Japan on an H2-A rocket. The mission seeks to study the thin Martian atmosphere as well as inspire a generation of Emirati engineers.
+
+New smallsat rockets
+
+Several smallsat-launch companies said at the outset of 2019 that they planned to launch their first orbital missions last year and, well, none of that happened. Instead, the biggest news in the realm of small-satellite rockets was the continued plugging away by Rocket Lab, with six successful missions, construction of a new launch pad, and plans to reuse the Electron booster's first stage (which the company may try in 2020).
+
+However, we really do expect new players to enter the smallsat-launch race this year. Virgin Orbit has taken some final steps toward flying its Launcher One booster from the Cosmic Girl airplane. This mission could come in the first quarter of 2020, and the company hopes to move smoothly into operation flights shortly after with an additional half-dozen rockets under production on its factory floor. (Good luck—the step from test flight to operational flight is often a big one).
+
+Firefly Aerospace, too, says it is getting closer to the inaugural flight of the Alpha rocket from Vandenberg Air Force Base in California. After it had to switch from an automated flight-termination system to a more traditional one, the company is now targeting April for the first launch.
+
+And then there may well be some surprises in 2020. Astra Space, which has also gone by Stealth Space Company, may emerge from a period of quietude this year. Moreover, a handful of other entities around the world—including Ariane Group's Vega C rocket, India's Small Satellite Launch Vehicle, and a few players in in China—may step forward with orbital flights in 2020.

@@ -1,0 +1,35 @@
+Chinese telecommunications giant Huawei will launch upcoming flagship smartphones in South Africa, even though they don’t have access to Google Mobile Services, the company said on Friday.
+
+Though Akhram Mohamed, chief technology officer for the Consumer Business Group at Huawei South Africa, declined to comment on forthcoming models, phones that are expected to get a local launch include the Huawei P40 series, including the P40 Pro, which is likely to be launched in March.
+
+The Mate 40 series, including the Mate 40 Pro, is also likely coming to South Africa later this year.
+
+We are ready, and we want to take it (HMS) to market. If we were not confident, we would not be doing this
+
+Mohamed told TechCentral that the Mate 30 series, launched late last year, may also come to South Africa, though the company hasn’t yet made a business decision about this.
+
+Though the phones, including the P40 Pro, won’t ship with Google Mobile Services — these are Google’s services running on top of the open-source Android operating system — they will ship with Huawei’s equivalent, known as Huawei Mobile Services, or HMS.
+
+“We are ready, and we want to take it (HMS) to market. If we were not confident, we would not be doing this,” Mohamed said.
+
+The company is working hard to ensure it’s as easy as possible for consumers to access popular apps, including Facebook, Instagram and WhatsApp, without access to Google’s Play store.
+
+AppGallery
+
+Though many apps are already available through Huawei’s AppGallery alternative, Mohamed conceded that some apps will have to be loaded directly from links to the APK (Android application) files, including Facebook. These links will be available in AppGallery and will be secure, Mohamed said.
+
+“From an ecosystem perspective, we have been running it (HMS) in China for many years without Google services,” he said. “It’s not just a matter of copy and paste; we are customising it for the local market. When we do roll this out, it cannot just be another Android experience; it has to be better than that.”
+
+He said it’s “not the perfect scenario by any means”, but added that HMS is getting to the point where the company feels confident putting it in the hands of consumers.
+
+Huawei didn’t launch 2019’s Mate 30 series in South Africa and other markets outside China because of the lack of Google Mobile Services. Whether the work Huawei has done on HMS in the past nine months — since the US slapped a ban on American companies like Google supplying their software to the Chinese firm — is enough to keep consumers happy remains to be seen. But the company said it plans to hand-hold customers through any issues they may encounter.
+
+It will offer 24-hour access to a support call centre, a WhatsApp line as well as installing customer service points in more than 100 shopping centres across South Africa.
+
+For this year, we hope after the first several HMS phones we can bring all advanced and the latest products to South Africa
+
+Even if the US lifts the restrictions on Huawei — once again giving it access to Google services — Mohamed said Huawei will continue to invest in HMS. “I’m not saying we will or won’t go back” to Google Mobile Services, but the company will continue to develop its own core software stack on Android, he said.
+
+Likun Zhao, vice president of the Huawei Consumer Business Group, Middle East & Africa, said: “We will do our best to guarantee the experience of the local consumer and we will look after the experience of the early users. We will listen to all feedback and questions, complaints and suggestions for Huawei HMS. We will continue to improve our HMS phone experience.
+
+“This is our biggest strategy for the future. For this year, we hope after the first several HMS phones we can bring all advanced and the latest products to South Africa. This is our strategy and expectation,” he said. — © 2020 NewsCentral Media
