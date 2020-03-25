@@ -1,5 +1,5 @@
 # ChinaNews_classifier_task
- using RNN LSTM BERT to classify postive or negtive by news about china from global website（check another repo）
+ using RNN LSTM BERT to classify postive or negtive by news about china from global website（datasets check another repo）
  
  RNN LSTM base on Keras， 
  BERT base on Tensorflow（jupyter）
