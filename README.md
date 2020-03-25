@@ -2,7 +2,7 @@
  using RNN LSTM BERT to classify postive or negtive by news about china from global website（datasets check another repo）
  
  RNN LSTM base on Keras， 
- BERT base on Tensorflow（jupyter）
+ BERT base on Tensorflow（jupyter,colab）
  
  ### Results
  | Type      |    acc| 
