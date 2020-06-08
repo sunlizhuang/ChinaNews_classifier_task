@@ -1,0 +1,59 @@
+Lenovo’s president EMEA discusses the company’s 2020 business strategy
+
+Francois Bornibus is the president for EMEA at Lenovo.
+
+Lenovo's president EMEA, Francois Bornibus, sat down with Information Age at CES to discuss the company's business strategy for 2020
+
+Lenovo, the smart device and infrastructure giant, has a clearly defined business strategy for 2020.
+
+According to its president EMEA, Francois Bornibus, the company will prioritise expanding it’s reach into the SME market, on top of its other business commitments.
+
+“In the SME market in EMEA, we are the number two PC [and related devices] provider,” he told Information Age at CES. “This year, we will be accelerating and executing on our current strategy; growth. Our intention is to become the number one SME provider in EMEA.”
+
+Chinese computer company Lenovo is the world’s largest PC vendor, contributing a 25% share to the global PC market in 2019, followed by HP and Dell, according to Gartner.
+
+The SME market drive makes up one of Lenovo’s three main businesses. The other two focus on the consumer market and the large accounts customer base — the organisation’s that deploy Lenovo’s PCs and other products in a professional setting.
+
+“I joined nine years ago when we had 10% of the market share, now we have 25%. In EMEA, we are the top large account and consumer PC (and related device) provider,” Bornibus continued.
+
+The Lenovo business strategy 2020
+
+Lenovo’s business strategy in 2020 will differ compared to 2019 “in terms of balance between the different businesses,” explained the EMEA president.
+
+“In 2019, we had a very strong year with the large accounts — it was booming with a growth of between 10-15% year-on-year.”
+
+The large account boom in EMEA was mainly due to Windows 7 end of life and the need to deploy Windows 10 — as Gartner wrote; business demand remained strong, as companies and government organisations continued with Windows 10 deployments and a refresh of their PC installed base.
+
+“It’s still a very strong part of our business strategy, but in 2020 the large account market will be smaller,” suggested Bornibus.
+
+“But, the SME market will grow, while the consumer market remains stable.
+
+“The focus will be on gaining share in the SME space.”
+
+Driving a successful digital transformation strategy Gordon Cullum, CTO at Mastek looks at what it takes to drive a successful and evolving digital transformation strategy. Read here
+
+On whether the current US/China trade war would disrupt this strategy, Bornibus commented:
+
+“To date there has been negligible material impact on the business and our results this quarter show that we continue to thrive. Lenovo is outperforming the market and leading the global tech sector in spite of industry-wide geopolitical and trade uncertainties.”
+
+B2B product strategy
+
+Aside from Lenovo’s strong delivery in the PC space — notebooks, workstations and desktops — the company is looking at innovating products that organisations can use to improve (and change) how they work.
+
+The president EMEA referred to the ThinkSmart Hub as an example, which looks to redefine the meeting space through creating a more efficient and personalised experience for the business users.
+
+Of course, Lenovo is not the only market player looking to pivot their business in this way. The smart office, which deploys technologies such as the IoT, VR and AR, is an increasingly popular space that the CIO or IT manager should be aware of. Incorporating new technologies and new ways of working into the work environment will attract the next generation coming up, while helping streamline current workloads and hopefully, improving efficiency — if the deployed solutions are solving a current business problem.
+
+“Design, ease of use and security are critical to the success of any product” — Bornibus
+
+Another area where Lenovo is making a move is at the edge.
+
+As more and more data is generated the need to analyse it at the location it is being produced has become of paramount importance. As such, “we have developed small form factor PCs and edge devices that can sit on an organisation’s network,” Bornibus explained.
+
+These devices capture the information or data, analyse it and send the results to the customer without it having to go back to the data centre.
+
+“This is important, because all of the large accounts we are dealing with want this capability,” he said.
+
+“They want a machine that sits inbetween the network and data centre that is knowledgable and capable in taking an immediate decision on the data, instead pulling everything off the server.”
+
+“These kind of devices will drive additional revenue opportunities and contribute to the Lenovo business strategy in 2020,” Bornibus added.

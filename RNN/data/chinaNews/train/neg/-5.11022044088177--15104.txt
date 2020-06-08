@@ -1,0 +1,103 @@
+Fire-prevention technology linked to blackouts in Apollo Bay, frustrating businesses
+
+Updated
+
+While the eastern end of Victoria is dealing with extreme bushfires, regional businesses in the west are contending with blackouts that have been linked to a new powerline technology that is meant to prevent bushfires from starting.
+
+Key points: REFCL technology is being installed in some parts of Victoria to help prevent powerline faults from starting bushfires
+
+Businesses in Apollo Bay have complained that the technology is causing blackouts in their town
+
+The local bakery has bought a $70,000 generator to use when blackouts occur
+
+The technology is called REFCL, or Rapid Earth Fault Current Limiter.
+
+Late last year 7.30 revealed the $700 million REFCL technology may not work to reduce the risk, and could even potentially start fires.
+
+In the town of Apollo Bay on Victoria's Surf Coast, REFCLs have been linked to a series of blackouts that have caused big problems for local businesses at the height of the tourist season.
+
+"The population of Apollo Bay goes from 1,500 to 15,000, so it's a very busy time for everybody," Apollo Bay Bakery owner Sally Cannon told 7.30.
+
+While Ms Cannon and other Apollo Bay traders agree bushfire safety must be the highest priority for the town, she is worried about the impact of power cuts on her business.
+
+She has had to invest in a large generator that cost about $70,000 after a number of power cuts over the past several months that have cost her tens of thousands of dollars in lost business.
+
+"We can't trade, we basically have to close the door," she said.
+
+"We can't open our fridges, the ovens go off, the coffee machine can't work."
+
+With stock worth $30,000 in her cool room over the summer, she says she cannot afford another blackout.
+
+But the same day 7.30 visited Apollo Bay, the power was cut off for three hours due to the operation of the REFCL system.
+
+And it is not just Ms Cannon's business that has had to bear the cost of REFCLs.
+
+About 90 of the state's biggest regional employers have been forced to upgrade their connections to the grid because there is a risk the REFCL technology could damage their electrical equipment.
+
+The total cost is expected to reach about $20 million.
+
+While the Victorian Government is contributing about half that amount, several big Victorian businesses have told 7.30 REFCLs have been a frustrating and expensive problem.
+
+'We can go broke'
+
+When 7.30 visited the Apollo Bay Fishermen's Co-op, fisherman Nick Polgeest was looking after about $200,000 worth of live lobsters, which were being prepared for export to China.
+
+The lobsters must be kept in tanks of oxygenated water, at a temperature of 10 degrees Celsius, for up to three weeks.
+
+"It takes power — 240 volts — to run it, and it takes a heap of it," Mr Polgeest said.
+
+"If the power goes off for whatever reason we're in deep strife, we can go broke."
+
+But he says over the past few months power cuts have become a regular event.
+
+Mr Polgeest says he has been at the co-op most nights to re-set the electrical equipment that keeps the lobster tanks running.
+
+The local electricity network Powercor has been operating REFCLs on high-voltage lines in the area since June last year.
+
+"What I'm frightened of is that we are the guinea pigs at the moment, that the system hasn't been proven," Mr Polgeest said.
+
+"That's what everybody's frightened of at the moment in Apollo Bay."
+
+Powercor has acknowledged it had to turn off the REFCL system temporarily in September last year because it is not compatible with existing backup systems meant to guarantee supply.
+
+But Powercor insists the devices do work and are keeping communities safer.
+
+It also says REFCLs do not cause power outages, but power may be cut after a REFCL device activates, as the network tries to find out the cause of the fault.
+
+How much of a problem are powerlines in starting fires?
+
+While authorities say electrical faults are not suspected of starting any of the larger blazes in Victoria this fire season, powerline faults spark hundreds of fires in the state each year.
+
+A recent report from the Victorian electrical safety regulator found that over the 2018-19 financial year, there were 568 fires related to the electricity network, with 242 of those spreading across the ground.
+
+Associate Professor Kevin Tolhurst from the University of Melbourne told 7.30 powerline faults were responsible for the deadliest fires in Australia's history because they tended to happen near where people lived.
+
+"They're a very significant threat because they really only cause a significant problem when it's very windy, it's very hot," he said.
+
+"Fires that start from powerlines are generally very difficult to stop, but they're also occurring in populated areas."
+
+One hundred and seventy three people died on Black Saturday in 2009, the vast majority of them in fires started by powerlines.
+
+What are REFCLs and how does it work?
+
+REFCLs function like a safety switch, rapidly detecting a powerline fault and reducing the power flowing through the faulty line.
+
+There is no suggestion that the REFCL devices are in any way defective.
+
+REFCL devices can only function on certain types of powerlines and are only designed to prevent fires starting when powerlines hit a tree branch or the ground — just two of the ways that powerlines can start a fire.
+
+Electrical engineer David Sweeting, who gave expert evidence at the royal commission into the 2009 Black Saturday fires, argues REFCLs will not work because they cannot stop the first droplets of molten metal caused by a powerline fault.
+
+"I don't think REFCL will reduce the number of electrically ignited fires by any significant amount," Dr Sweeting told 7.30.
+
+He says fires start from just one droplet of molten copper or burning aluminium, and while REFCLs can reduce the number of droplets, fires will start regardless.
+
+Victoria's Department of Environment, Land, Water and Planning (DELWP) says this fire season REFCLs have "activated more than 15 times in circumstances where a line fault has occurred and not cleared within a few seconds".
+
+In a statement, the DELWP said "at least six of these REFCLs activations, and probably more, likely prevented potentially catastrophic bushfires".
+
+Watch this story tonight on 7.30.
+
+Topics: fires, disasters-and-accidents, electricity-energy-and-utilities, regional, small-business, apollo-bay-3233, australia, vic
+
+First posted

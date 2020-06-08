@@ -1,0 +1,49 @@
+WASHINGTON – Four members of the Chinese People's Liberation Army have been charged with hacking into the computer systems of the credit reporting agency Equifax in 2017, which Attorney General William Barr called a "deliberate and sweeping intrusion" that compromised private data of 145 million Americans.
+
+The suspects were members of the PLA's 54th Research Institute, according to a nine-count federal indictment unsealed Monday. Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei were charged with three counts of conspiracy to commit computer fraud, conspiracy to commit economic espionage and conspiracy to commit wire fraud.
+
+"The scale of the theft was staggering," Barr said. "The theft not only caused significant financial damage to Equifax, but invaded the privacy of many millions of Americans, and imposed substantial costs and burdens on them as they had to take measures to protect against identity theft."
+
+FBI Deputy Director David Bowdich described the intrusion as the largest instance of state-sponsored theft in U.S. history.
+
+"This is not the end of our investigation," Bowdich said. "To all who seek to disrupt the safety, security and confidence of the global citizenry in this digitally connected world, this is a day of reckoning."
+
+The Chinese army identified a flaw in Equifax's security system, executed a plan of attack to penetrate the system and devised a scheme to cover their tracks on their way out, according to the indictment.
+
+From about May through July 2017, hackers obtained names, birth dates and Social Security numbers of 145 million Americans, and driver's license numbers for at least 10 million Americans, prosecutors allege.
+
+"In a single breach, the PLA obtained sensitive personally identifiable information for nearly half of all American citizens," prosecutors wrote.
+
+How it happened:Chinese military hackers identified flaw in Equifax's security and exploited it
+
+Hackers also stole credit card numbers and other personal information for 200,000 Americans and personal information for nearly a million citizens of the United Kingdom and Canada, the indictment says.
+
+Equifax has agreed to pay up to $700 million to settle federal and state investigations into how it handled the data breach.
+
+The settlement includes $425 million to help consumers affected by the breach and a restitution fund with at least $380.5 million allotted to consumer compensation. The fund will also include an additional $125 million if the initial funds run out.
+
+Equifax breach settlement:Wednesday is last day to file a claim for free credit monitoring or money
+
+The Equifax theft is among several high-profile breaches of American databases, including the U.S. Office of Personnel Management, Marriott hotels and Anthem health insurance company.
+
+"About 80% of economic espionage prosecutions have implicated the Chinese government, and about 60% of all trade secret theft cases in recent years involved some connection to China," Barr said.
+
+The Justice Department and the FBI have been investigating individuals for alleged theft of trade secrets and economic espionage as part of its China Initiative, launched in 2018 in response to government agencies' findings about China's practice of acquiring intellectual property and technology from other countries.
+
+Last week, FBI Director Christopher Wray said the communist power’s theft of technology and trade secrets is the “greatest long-term threat to our economic vitality."
+
+Wray said the Chinese government will use any means necessary to “steal their way up the economic ladder at our expense'' by penetrating information technology systems, aerospace, agriculture, defense and research programs, and broad swaths of academia.
+
+The FBI has 1,000 open investigations into suspected Chinese economic espionage and technology theft, he said.
+
+Last month, the Justice Department charged a Harvard University professor for allegedly lying about money he received from the Chinese government. Charles Lieber, chair of the Department of Chemistry and Chemical Biology at Harvard, made false statements about work he did for a program run by the Chinese government that seeks to lure American talent to China, according to the Justice Department.
+
+On Monday, Sen. Ben Sasse, R-Neb., a member of the Intelligence Committee, said the threat does not end with the charges in the Equifax case.
+
+"The Chinese Communist Party will leave no stone unturned in its effort to steal and exploit American data," Sasse said. "These indictments are good news, but we've got to do more to protect Americans' data from Chinese Communist Party influence operations."
+
+Sen. Mark Warner, D-Va., vice chairman of the Intelligence Committee, lamented that the Trump administration's trade deal with China, signed last month, did not reference the kind of espionage outlined in the Monday's court papers.
+
+"For years, the Chinese government has targeted Western commercial firms," Warner said. "It is disappointing that despite a lot of rhetoric, President Trump’s recent agreement with China does nothing to address this specific issue."
+
+Contributing: Nathan Bomey, Kristine Phillips

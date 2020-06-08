@@ -1,0 +1,67 @@
+WATERLOO, Canada — With over 1 million retail partners spread across 175 countries, Shopify is the second largest e-commerce platform in the US, with the company announcing last week annual revenue north of $1.5 billion for 2019. Founded in 2004, at a time of distinct digital disruption in retail, Shopify’s 16-year history includes a successful IPO in 2015 where shares traded 60 percent higher than its offering price on the New York Stock Exchange, and the platform has evolved to meet the business needs of its community.
+
+Having launched apps, API platforms, payment solutions, marketing products and its own fulfilment network, in 2014 the business also launched Shopify Plus — a division of Shopify that focuses on high-volume businesses, providing a platform that enables integrations and customisation through Shopify apps and partners, as well as an accelerated and customisable checkout to more than 7,000 brands.
+
+Due to its diverse range of retailers, many of which operate in the fashion industry, Shopify Plus possesses an enviable perspective on the wider retail market and the fashion industry as a whole. Shopify Plus is launching its dedicated Fashion Industry Report to share that insight, compiling its findings into an accessible report summarising the greatest challenges and opportunities facing fashion retailers today.
+
+Below, we share extracts from the Shopify Plus report supplemented by related BoF analysis.
+
+Opportunities for retailers in the fashion industry
+
+Opportunity 1: “In such a fast-growing global market, brands are fighting to fill every gap in the fashion industry — and they’re looking to China to do it.”
+
+“Of all the regions with the most growth and potential, Asia Pacific consistently comes out on top. By revenue alone, China is the top consumer of fashion: The Asia Pacific is projected to make up 38 percent of market demand in 2020. Expected additional growth in Asia includes emerging markets such as smartphone penetration and the unprecedented expansion of the global middle class.
+
+High-end US fashion brands are increasingly vulnerable to an increase in trade war tariffs due to its reliance on China for manufacturing. While basic apparel items (T-shirts and underwear) can be shifted to other lower cost production hubs, due to technological constraints, other countries cannot yet produce the same quantity or with the same quality as China.” — Fashion Industry Report by Shopify Plus.
+
+Consumer-driven consumption is the engine behind China’s gross domestic product (GDP) — adding the wealth of the entirety of Australia to its economy each year. But the colossal market which is responsible for 70 percent of the luxury market's expansion since 2012 is proving harder to crack than brands anticipated. Major luxury houses have had high-profile PR issues due to advertising and brand materials offending consumer sentiment in the country. Additionally, some international mass-market brands have struggled to compete against established brick-and-mortar players, some of which have thousands of outlets. Local Chinese brands like Urban Revivo and Peacebird have been growing at pace in the region and ramping up competition with foreign brands.
+
+Crucially, connecting with Chinese consumers requires nuanced communication strategies and an inherent understanding of native social media platforms and customer behaviour. GSMA Intelligence forecasts that the Asia Pacific region will account for just over half of new mobile subscribers globally by 2025. The region's early rollout of 4G and then 5G networks and the mobile-first nature of consumer behaviour has long meant that Asia is a natural environment for social media to flourish.
+
+Indeed, Asia is now the where the bulk of social innovation is happening, so much so that Silicone Valley's giants have begun to imitate their new eastern rivals. Though strategies will vary on each platform, the brands who will get the most out of "next-gen" social media platforms will be the ones who see them through the eyes of their users, not as purely promotional channels. Market incumbents and entrants alike must remember to build trust and credibility on each platform if they are to effectively engage an increasingly digitally discerning consumer. The bottom line? The path to success in China can be elusive and expensive, and many successful retailers have become over-reliant on Chinese consumer demand.
+
+Shopify Plus recommends that companies consider reducing risk by diversifying their production centres outside of China. Indeed, it makes sense for brands to direct at least some of their attention towards other smaller, yet high growth markets in APAC. Southeast Asia provides significant opportunities; at nearly 270 million people, Indonesia is the fourth largest country in the world by population. Vietnam and the Philippines are seeing rapid GDP growth as large numbers enter the workforce each year.
+
+Opportunity 2: Increasingly, sustainability is top-of-mind for fashion retailers — but sustainability goes beyond the products retailers are selling.
+
+“In a landmark pact called the G7 Fashion Pact, 32 companies signed with the intention of protecting the oceans and focusing on biodiversity and climate change. Some of the world’s largest brands were involved in the agreement; Chanel, Nike, H&M and Adidas all agreed to reach zero carbon emissions by 2050, sustainably source raw materials in an effort to reduce chemicals in water supplies and the oceans, eliminate single-use plastics in B2B and D2C by 2030, and switch to 100 percent renewable energy by 2030.
+
+Sustainability goes beyond the products retailers are selling. It’s also in the packaging used for shipping. The G7 Fashion Pact has already proved that being serious about sustainability means the elimination of single-use plastics. Average box sizes and usable packaging all play a role in reducing the carbon footprint on the planet. Consumers are demanding this from their retailers, who need to consider other options for fulfilment, like partnering with more localised centres to reduce the number of emissions from vehicles.” — Fashion Industry Report by Shopify Plus.
+
+Fashion accounts for 20 to 35 percent of the microplastic that flows into the ocean, and outweighs the carbon footprint of international flights and shipping combined. In the fashion industry, consumers scrutinise over which products are truly green and which ones have undergone “greenwashing” through review sites like Good on You — an app that displays brand ratings, articles and guides on ethical and sustainable fashion. Activist movements like the Global Climate Strike and Extinction Rebellion are making consumers increasingly aware of the environmental impact of fashion.
+
+Consumer activism is putting mounting pressure on fashion brands to show there’s depth to claims about transparency and sustainability. McKinsey & Company has called out “a rising trust deficit” among consumers. That’s an advantage for brands like Veja, Reformation, Eileen Fisher and others that have already taken steps to lift the curtain on their business practices. Brands like Everlane, Reformation and Veja have grabbed the attention of coveted Millennial and Gen-Z consumers with promises of radical transparency on company ethics, sustainability and pricing.
+
+With call-out culture on the rise, it’s a delicate balance: promise too much and risk a backlash that undercuts any good work that might be underway. On the other hand, if brands fail to really educate consumers, rivals doing less may benefit from a halo of greenwashing from which it is difficult to stand out.
+
+As a result, industry players should consider fresh ways to tackle transparency, both at the point of sale and other touch points, understanding the need to both educate and emotionally engage.
+
+Threats for retailers in the fashion industry
+
+Threat 1: In the new age of commerce, consumers are calling the shots. Brands are adapting their strategies to provide what customers demand.
+
+“The ‘death’ of brand loyalty combined with fast fashion’s ability to manufacture on demand and dropship from anywhere pose threats to established businesses who don’t have a strong brand presence. ‘Sticky’ brands with loyal customers are agile in how they deliver their customer experience — whether that’s aligning themselves to a social cause, or hiring multiple influencers to represent their brand on social media.
+
+In the new age of commerce, consumers are calling the shots. Brands are adapting their strategies to provide what customers demand, which means having a seamless experience both online and offline: being omnichannel and planning pop-ups with limited-edition apparel. All of these examples give customers the reins with the hope of creating brand evangelists who return again and again for new and thrilling experiences.
+
+Not adapting to this new model where the customer’s need is prioritised is a threat to fashion retailers stuck in older modes of commerce. Participating in the culture, learning how to shape it and stepping aside for customer interaction are all crucial in this highly competitive landscape.” — Fashion Industry Report by Shopify Plus
+
+Today’s consumers are used to getting what they want — when and where they want it. Convenience is key, and in terms of shopping, that often means local in tandem with online shopping. Given that many consumers still like to touch, feel and try fashion items before they buy, a local brick-and-mortar store can mean the difference between gaining a customer for life and a lost sale. We expect fashion retailers to ramp up their presence in neighbourhoods and new districts, with stores that reflect the local community and focus on service and unique experiences, like workshops or invite-only sales.
+
+In countries where urbanisation is still a prevailing demographic trend, fashion retailers are more likely to move into new retail spaces in smaller satellite cities, and mixed-used residential complexes in the megacities. Whatever the store format or brand aesthetic, the winning formula will be focused on maximising the use of these new spaces both for servicing and acquiring customers.
+
+Threat 2: It’s important to understand that Amazon might not be every retailer’s favourite channel, but should be an important part of every e-commerce strategy.
+
+
+
+“It comes as no real surprise that analysts predict the two main e-commerce giants will command over 50 percent of all e-commerce sales by 2021. It can be intimidating to think about how soon that is. Nearly 55 percent of product searches begin on Amazon, making it the largest marketplace search engine. It’s important to understand that Amazon might not be every retailer’s favourite channel but should be an important part of every e-commerce strategy.
+
+When you consider Amazon as a highly discoverable entry-point to your omnichannel retail strategy, you can integrate the channel into the rest of your customers’ brand experience. Your customers will be able to tell the difference between your owned customer experience and a search engine’s, and hopefully, they prefer yours.” — Fashion Industry Report by Shopify Plus.
+
+When Amazon enters into a new category, it doesn’t stay fragmented for long. The company has used its strengths to clobber incumbents — namely, its 100 million Prime subscribers and unmatched logistics operation that allow it to sell goods at lower prices. The greatest weapon in Amazon’s arsenal is its logistics network, which includes warehouses and fleets of trucks, cargo planes and delivery vans. According to a recent Morgan Stanley report, Amazon is on track to exceed both UPS and FedEx in delivered packages by 2022.
+
+But what Amazon lacks that current e-commerce players excel in is the look and feel of a custom digital experience. Today’s fashion retailers must develop a deep understanding of their customers in order to deliver personalised experiences at scale.
+
+Ensuring that the customer experience feels like the white-glove service from shopping at the Chanel boutique on Madison Avenue requires a beautiful user experience, accessible but unobtrusive customer support and creative content on product pages.
+
+This is a sponsored feature paid for by Shopify as part of a BoF partnership. For a closer look at the trends impacting the fashion industry in 2020, download the Shopify Plus Fashion Industry Report.

@@ -1,0 +1,43 @@
+First tests of the research could occur within a few months, but approval would take longer
+
+Several drugmakers are racing to develop vaccines that could protect against the new respiratory virus originating in China, as fears mount it could spread more widely.
+
+Moderna Inc., Inovio Pharmaceuticals Inc. and Novavax Inc. said Thursday they plan to develop vaccines against the newly identified viral strain, which emerged in the Chinese city of Wuhan. Researchers at the University of Queensland in Australia are also trying to develop a vaccine against the strain.
+
+Some of the experimental vaccines targeting the Wuhan virus could be ready for human testing in a few months, though approval for widespread use will take longer.
+
+The research was triggered by the rapid spread of the virus, which has infected hundreds in China, killing more than a dozen people. Since first appearing in a meat-and-fish market last month, the virus has spread to other countries in Asia and a man in Washington state has been diagnosed, the first confirmed U.S. case.
+
+There are no known vaccines or treatments approved specifically for the virus, dubbed nCoV-2019, which belongs to a family of coronaviruses responsible for outbreaks of severe acute respiratory syndrome, known as SARS, and Middle East respiratory syndrome, or MERS, in recent years.
+
+Without an available vaccine or treatment, U.S. government agencies have been mobilizing to limit the virus's spread. Certain airports are screening international travelers for fevers, and some state health agencies are urging doctors and hospitals to step up surveillance of patients for possible signs of the virus.
+
+The Massachusetts Department of Public Health sent an alert to physicians and hospitals with guidance on the use of isolating rooms and collecting specimens from patients reporting travel to Wuhan. The Hawaii Department of Health also sent out information to health-care providers outlining interim infection-control measures.
+
+The outbreak has lifted shares of vaccine makers, because investors see a new opportunity for the companies.
+
+A Norwegian nonprofit, the Coalition for Epidemic Preparedness Innovations, said Thursday it is providing as much as $11 million in funding to Moderna, Inovio and the University of Queensland in Australia to develop vaccines against the strain.
+
+CEPI Chief Executive Richard Hatchett said in an interview the group acted after concluding the geographic spread and human-to-human transmission of the virus could turn it into "a very serious epidemic."
+
+Moderna, of Cambridge, Mass., is working on its vaccine with the U.S. National Institute of Allergy and Infectious Diseases. It could be ready for an early-stage clinical trial in about three months, though full testing and regulatory approval would take much longer, said Anthony Fauci, the institute's director.
+
+"We don't see any confounding obstacles" to creating the vaccine, Dr. Fauci said. "The body is capable of making a good immune response. You can get a vaccine that can induce a similar response."
+
+The NIAID-Moderna vaccine is based on molecular couriers, known as messenger RNA, which direct the body's cells to manufacture proteins that trigger an immune response to protect against a virus, said Moderna President Stephen Hoge. The NIAID will conduct initial studies of the vaccine, Moderna said.
+
+The NIAID had developed a vaccine against the SARS coronavirus during an epidemic in 2002 and 2003, but the SARS vaccine was shelved after the epidemic ended, Dr. Fauci said. That virus hasn't reappeared since.
+
+Inovio, of Plymouth Meeting, Pa., is developing what is known as a DNA-based vaccine to fight off infection from the Wuhan virus, Chief Executive Joseph Kim said in an interview. Inovio's vaccine will be made from DNA synthesized in a lab to resemble the genetic material from the Wuhan virus. Once injected, the vaccine is designed to spur a protective immune response to the virus. Inovio developed such a vaccine to combat Zika.
+
+Dr. Kim said the company was able to quickly design a potential vaccine for the new coronavirus after health authorities made the genetic sequence available online earlier this month. Inovio's DNA-based technology doesn't require samples of the actual virus to develop a vaccine, he said.
+
+"We've been working very rapidly to move our new vaccine through preclinical testing in the next few weeks, and into human testing in the U.S. as rapidly as possible," he said. Inovio could eventually test it in China as well, he said. Human testing could begin in the next few months, he said.
+
+The University of Queensland project will try to develop a coronavirus vaccine based on technology known as molecular clamp, according to CEPI. With this technology, researchers engineer viral proteins and then clamp them into a shape designed to make it easier for the human immune system to recognize them and begin an immune response.
+
+A spokeswoman for Novavax, of Gaithersburg, Md., said the company began working on its vaccine as soon as the genetic sequence was made available, and expects to take roughly three months to develop it
+
+In addition to the vaccine work, researchers are also exploring whether existing antiviral drugs could treat the new coronavirus.
+
+Gilead Sciences Inc. said Wednesday it has been in discussions with U.S. and Chinese researchers about the potential use of its experimental drug remdesivir as a potential treatment for the new virus. Gilead said remdesivir has been active against other coronaviruses in lab and animal studies.

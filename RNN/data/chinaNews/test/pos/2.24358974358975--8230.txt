@@ -1,0 +1,19 @@
+tech2 News Staff
+
+After its China launch, Honor released the 9X smartphone in India along with the Magic Watch 2 and Band 5i. Powered by the Kirin 710F SoC that’s manufactured by HiSilicon, a subsidiary of its parent company Huawei, it starts at a price of Rs 13,999. This is for the base variant with 4 GB of RAM and 128 GB of storage. There’s also a 6 GB + 128 GB variant that’s priced at Rs 16,999.
+
+It packs a triple camera system on the rear that comes with a 48 MP primary camera. The other two include an 8 MP f/1.8 ultra-wide-angle camera and a 2 MP f/2.4 depth sensor. On the front, it houses a 16 MP f/2.2 shooter for selfies.
+
+The Honor 9X runs on EMUI 9.1 which is based on Android 9.0 Pie with no mention of Android 10 coming to the device yet.
+
+With a 4,000 mAh battery packed inside, it should last for a day. However, it only supports 10 W fast charging that is lower compared to its competitors offering 18 W fast charging support. To put it into perspective, we have compared the Honor 9X with the Redmi Note 8 Pro, Mi A3, Realme 5 Pro and the Vivo Z1Pro that also shows the other specifications and features.
+
+Smartphone Honor 9X Redmi Note 8 Pro Xiaomi Mi A3 Realme 5 Pro Vivo Z1Pro Display Size (inch) 6.59 6.53 6.01 6.3 6.53 Resolution (pixels) 1080 x 2340 1080 x 2340 720 x 1560 1080 x 2340 1080 x 2340 Display Type IPS LCD IPS LCD Super AMOLED IPS LCD IPS LCD Processor Kirin 710F MediaTek Helio G90T Qualcomm Snapdragon 665 Qualcomm Snapdragon 712 Qualcomm Snapdragon 712 RAM 4/6 GB 6/8 GB 4/6 GB 4/6/8 GB 4/6 GB Internal storage 64/128 GB 64/128 GB 64/128 GB 64/128 GB 64/128 GB Expandable Memory Yes, up to 512 GB (SIM shared) Yes, up to 512 GB (SIM shared) Yes, up to 256 GB (SIM shared) Yes, up to 256 GB (SIM shared) Yes, Up to 256 GB (dedicated) Primary camera 48 MP f/1.8 (primary), 8 MP f/2.4 (ultrawide), 2 MP f/2.4 (depth) 64 MP f/1.9 (primary), 8 MP f/2.2, (ultra-wide), 2 MP f/2.4 (macro), 2 MP f/2.4 (depth) 48 MP f/1.8 (primary), 8 MP f/2.2 (ultra-wide), 2 MP f/2.4 (depth) 48 MP f/1.8 (primary), 8 MP f/2.2 (ultra-wide), 2 MP f/2.4 (ultra-macro), 2 MP f/2.4 (depth) 16 MP f/1.8 (primary), 8 MP f/2.2 (ultra-wide), 2 MP f/2.4 (depth) Secondary Camera 16 MP f/2.2 20 MP f/2.0 32 MP f/2.0 16 MP f/2.0 32 MP f/2.0 OS Version Android 9.0 Pie (EMUI 9.1) Android 9.0 Pie (MIUI 10) Android 9.0 Pie (Android One) Android 9.0 Pie (ColorOS 6) Android 9.0 Pie (Funtouch 9) Fingerprint Scanner Rear-mounted Rear-mounted In-display Rear-mounted Rear-mounted 3.5mm jack Yes Yes Yes Yes Yes Battery (mAh) 4,000 4,500 4,030 4,035 5,000 Fast charging No (10 W) Quick Charge 3 (18 W) Quick Charge 3 (18 W) VOOC 3.0 (20 W) Yes (18 W) Colours Sapphire Blue, Midnight Black Halo White, Gamma Green, Shadow Black, Dark Blue Not Just Blue, More Than White, Kind of Grey Crystal Green, Sparkling Blue Sonic Blue, Sonic Black, Mirror Black Prices in India Starting at Rs 13,999 Starting at Rs 14,999 Starting at Rs 12,499 Starting at Rs 13,999 Starting at Rs 12,990
+
+Conclusion
+
+The Honor 9X has a good camera system on paper along with a big and notch-less IPS LCD display. Although it’s a newly launched device, it lacks the latest version of Android and instead, runs on EMUI 9.1 that’s based on Android 9 Pie. While the camera performed decently during our time with the device, there’s still a lot of testing left in different lighting conditions. It will be interesting to see how the Kirin 710F chipset performs compared to the Qualcomm Snapdragon 665 and 712, and also the MediaTek Helio G90T on the Redmi Note 8 Pro.
+
+The Honor 9X goes on sale via Flipkart on 20 January. Until then, stay tuned for our full review.
+
+Find latest and upcoming tech gadgets online on Tech2 Gadgets. Get technology news, gadgets reviews & ratings. Popular gadgets including laptop, tablet and mobile specifications, features, prices, comparison.

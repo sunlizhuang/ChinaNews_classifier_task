@@ -1,0 +1,91 @@
+Neon is the name of the company and also the name of its only product – if you can call it that. I’m told a Neon is a living entity, but it doesn’t have a physical body. I’m told a Neon is computationally created, but it’s not an AI assistant. So what the fuck is Neon and what is all this talk about artificial humans?
+
+At this point, if you’re totally confused, that’s a perfectly reasonable feeling. Prior to CES 2020, the hype started ramping up around Neon, its relationship with Samsung, and the far-out presentation it would give this week. Now I’ve seen everything Neon has to offer and I’m pretty sure I get it. So let’s break this thing down.
+
+The Basics
+
+Neon founder and CEO, Pranav Mistry (Photo: Sam Rutherford/Gizmodo)
+
+Neon is a project helmed by Star Labs, which is an independent startup/incubator funded by Samsung. The CEO of Neon and Star Labs is Pranav Mistry, who is also a global vice president of research at Samsung, and was responsible for helping create gadgets like the original Galaxy Gear, the Sixth Sense wearable computer, and more.
+
+So what is a Neon?
+
+In short, a Neon is an artificial intelligence in the vein of Halo’s Cortana or Red Dwarf’s Holly, a computer-generated life form that can think and learn on its own, control its own virtual body, has a unique personality, and retains its own set of memories, or at least that’s the goal. A Neon doesn’t have a physical body (aside from the processor and computer components that its software runs on), so in a way, you can sort of think of a Neon as a cyberbrain from Ghost in the Shell too. Mistry describes Neon as a way to discover the “soul of tech.”
+
+Here’s a look at three Neons, two of which were part of Mistry’s announcement presentation at CES. (Graphic: Neon)
+
+Whatever.
+
+But unlike a lot of the AIs we interact with today, like Siri and Alexa, Neon’s aren’t digital assistants. They weren’t created specifically to help humans and they aren’t supposed to be all-knowing. They are fallible and have emotions, possibly even free will, and presumably, they have the potential to die. Though that last one isn’t quite clear.
+
+OK, but those things look A LOT like humans. What’s the deal?
+
+That’s because Neons were originally modelled on humans. The company used computers to record different people’s faces, expressions, and bodies, and then all that info was rolled into a platform called Core R3, which forms the basis of how Neons appear to look, move, and react so naturally.
+
+Mistry showed how Neon started out by recording human movements, before transitioning to have Neon’s Core R3 engine generate animations on its own. (Photo: Sam Rutherford/Gizmodo)
+
+If you break it down even further, the three Rs in Core R3 stand for reality, realtime, and responsiveness, each R representing a major tenet for what defines a Neon. Reality is meant to show that a Neon is it’s own thing, and not simply a copy or motion capture footage from an actor or something else. Realtime is supposed to signify that a Neon isn’t just a preprogrammed line of code, scripted to perform a certain task without variation like you would get from a robot. Finally, the part about responsiveness represents that Neons, like humans, can react to stimuli, with Mistry claiming latency as low as a few milliseconds.
+
+Whoo, that’s quite a doozy. Is that it?
+
+Photo: Sam Rutherford (Gizmodo)
+
+Oh, I see, a computer-generated human simulation with emotions, free will, and the ability to die isn’t enough for you? Well, there’s also Spectra, which is Neon’s (the company) learning platform that’s designed to teach Neons (the artificial humans) how to learn new skills, develop emotions, retain memories, and more. It’s the other half of the puzzle. Core R3 is responsible for the look, mannerisms, and animations of a Neon’s general appearance, including their voice. Spectra is responsible for a Neon’s personality and intelligence.
+
+Oh yeah, did we mention they can talk too?
+
+So is Neon Skynet?
+
+Yes. No. Maybe. It’s too early to tell.
+
+That all sounds nice, but what actually happened at Neon’s CES presentation?
+
+After explaining the concept behind Neon’s artificial humans and how the company started off creating their appearance by recording and modelling humans, Mistry showed how after becoming adequately sophisticated, the Core R3 engine allows a Neon to animate a realistic-looking avatar on its own.
+
+From left to right, meet Karen, Cathy, and Maya. (Photo: Sam Rutherford/Gizmodo)
+
+Then, Mistry and another Neon employee attempted to present a live demo of a Neon’s abilities, which is sort of when things went awry. To Neon’s credit, Mistry did preface everything by saying the tech is still very early, and given the complexity of the task and issues with doing a live demo at CES, it’s not really a surprise the Neon team ran into technical difficulties.
+
+At first, the demo went smooth, as Mistry introduced three Neons whose avatars were displayed in a row of nearby displays: Karen, an airline worker, Cathy, a yoga instructor, and Maya, a student. From there, each Neon was commanded to perform various things like laugh, smile, and talk, through controls on a nearby tablet. To be clear, in this case, the Neons weren’t moving on their own but were manually controlled to demonstrate the lifelike mannerisms.
+
+If you’re thinking a digital version of the creepy Sophia-bot you’re not far off.
+
+For the most part, each Neon did appear quite realistic, avoiding nearly all the awkwardness you get from even high-quality CGI like the kind Disney used to animate young Princess Leia in recent Star Wars movies. In fact, when the Neons were asked to move and laugh, the crowd at Neon’s booth let out a small murmur of shock and awe (and maybe fear).
+
+From there, Mistry introduced a fourth Neon along with a visualisation of the Neon’s neural network, which is essentially an image of its brain. And after getting the Neon to talk in English, Chinese, and Korean (which sounded a bit robotic and less natural than what you’d hear from Alexa or the Google Assistant), Misty attempted to demo even more actions. But that’s when the demo seemed to freeze, with the Neon not responding properly to commands.
+
+At this point, Mistry apologised to the crowd and promised that the team would work on fixings things so it could run through more in-depth demos later this week. I’m hoping to revisit the Neon booth to see if that’s the case, so stay tuned for potential updates.
+
+So what’s the actual product? There’s a product, right?
+
+Yes, or at least there will be eventually. Right now, even in such an early state, Mistry said he just wanted to share his work with the world. However, sometime near the end of 2020, Neon plans to launch a beta version of the Neon software at Neon World 2020, a convention dedicated to all things Neon. This software will feature Core R3 and will allow users to tinker with making their own Neons, while Neon the company continues to work on developing its Spectra software to give Neon’s life and emotion.
+
+How much will Neon cost? What is Neon’s business model?
+
+Supposedly there isn’t one. Mistry says that instead of worrying about how to make money, he just wants Neon to “make a positive impact.” That said, Misty also mentioned that Neon (the platform) would be made available to business partners, who may be able to tweak the Neon software to sell things or serve in call centres or something. The bottom line is this: If Neon can pull off what it’s aiming to pull off, there would be a healthy business in replacing countless service workers.
+
+Can I have sex with a Neon?
+
+Neons are going to be our friends. (Photo: Sam Rutherford/Gizmodo)
+
+Get your mind out of the gutter. But at some point, probably yes. Everything we do eventually comes around to sex, right? Furthermore, this does bring up some interesting concerns about consent.
+
+How can I learn more?
+
+Go to Neon.life.
+
+Really?
+
+Really.
+
+So what happens next?
+
+Neon are going to Neon, I don’t know. I’m a messenger trying to explain the latest chapter of CES quackery. Don’t get me wrong, the idea behind Neon is super interesting and is something sci-fi writers have been writing about for decades. But for right now, it’s not even clear how legit all this is.
+
+Here are some of the core building blocks of Neon’s software. (Photo: Sam Rutherford/Gizmodo)
+
+It’s unclear how much a Neon can do on its own, and how long it will take for Neon to live up to its goal of creating a truly independent artificial human. What is really real? It’s weird, ambitious, and could be the start of a new era in human development. For now? It’s still quackery.
+
+Keep up with more coverage from CES 2020 by clicking here.
+
+Featured image: Sam Rutherford (Gizmodo)

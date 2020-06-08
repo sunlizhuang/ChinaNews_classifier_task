@@ -1,0 +1,73 @@
+MANILA, Philippines (2nd UPDATE) – The Department of Health (DOH) on Thursday, January 30, confirmed the first case of novel coronavirus (2019-nCoV) in the Philippines.
+
+
+
+The country's first 2019-nCoV patient is among the 29 people being monitored by the DOH.
+
+The World Health Organization (WHO) said the mode of transmission for the virus is still being determined, though a Beijing government expert said it could be contagious between humans.
+
+Here’s what we know so far:
+
+When did it start?
+
+The first cases of nCoV were revealed by Chinese state media on December 31, after 44 people from the Chinese city of Wuhan were confirmed to be infected. Initial reports referred to the disease as “mystery viral pneumonia,” as infected people exhibited flu-like symptoms like persistent coughing, fever, shortness of breath, and difficulty in breathing.
+
+Where did it come from?
+
+The infections started in the Chinese city of Wuhan, a city of 11 million. It is the capital of China’s Hubei province and also serves as a major transport hub in the country. Officials in Wuhan have put in place strict screening measures of people traveling out of the city, with medics even taking passengers’ temperatures before planes are allowed to fly out. The city is also currently on lockdown, effectively trapping its citizens.
+
+So far, cases have been confirmed in all regions of China. The virus has also reached South Korea, Japan, Thailand, Cambodia, Hong Kong, Malaysia, Nepal, Singapore, Sri Lanka, India, Taiwan, Vietnam, the Philippines, Australia, the US, Canada, Finland, France, Germany, and the United Arab Emirates, with most cases confirmed in people with history of travel to Wuhan.
+
+Health officials in China have said that the virus probably originated in animals and was transmitted to humans by contact with animals at a live market, but such suspicion has yet to be confirmed. Chinese officials in China have also said that the virus can spread from person to person, and the WHO said there is sufficient evidence to say so.
+
+How is it related to SARS and MERS?
+
+The pneumonia-like disease caused by the 2019-nCoV is similar to SARS and MERS in that nCoV, like MERS-CoV and SARS-CoV, is also a coronavirus. Coronaviruses are a large group of viruses that can cause a range of diseases in humans and animals – diseases as simple as the common cold to diseases like MERS and SARS. (READ: What is coronavirus? New disease spreading in Asia revives SARS fears)
+
+MERS is a viral respiratory disease that was first identified in Saudi Arabia in 2012. By the end of 2015, 483 deaths and a total of 1,180 cases were reported in the Middle East. MERS symptoms include fever, cough, and shortness of breath. Pneumonia may also be present, but not always.
+
+Though it remains unknown where exactly the virus came from, health officials have said that the virus might have come from camels, which is common in the Horn of Africa and the Middle East.
+
+SARS is another viral respiratory disease which originated in Guangdong province, southern China in 2003. A SARS epidemic spread to 26 countries in 2003, resulting in a total of 8,000 cases and over 800 deaths in China and Hong Kong. Transmitted by human-to-human contact, it is characterized by the following flu-like symptoms: fever, headache, diarrhea, shivering, dry cough, and shortness of breath.
+
+The virus is believed to have come from bats and spread to other animals. Unlike MERS that was found to infect mostly older men with chronic conditions, SARS was found to infect both health and unhealthy individuals.
+
+It is not yet known whether the 2019 disease infecting over 7,000 in China is caused by a more severe kind of coronavirus like MERS and SARS, but the WHO has emphasized that many of those who have died due to the new virus had pre-existing illnesses. Like MERS and SARS, though, the disease emerging from the 2019-nCoV cannot be treated through vaccination. Control of the disease is done through close monitoring, symptom management, and rest.
+
+How severe is it?
+
+WHO has declared the current 2019-nCoV situation in China a public health emergency of international concern.
+
+"Our greatest concern is the potential for the virus to spread to countries with weaker health systems," WHO chief Tedros Adhanom Ghebreyesus said after the WHO emergency council meeting on January 30.
+
+Tedros also said there was no reason for any of the international travel or trade restrictions with current evidence.
+
+WHO’s country representative to the Philippines, Rabindra Abeyasinghe, said in a January 21 press briefing that “it is too early to say this is a severe disease.”
+
+There are two crucial indicators that health authorities look at to assess the severity of a potential pandemic: how infectious it is and how deadly.
+
+Infectiousness is measured by what is called R0 (R-naught). Scientific knowledge about 2019-nCoV is still expanding, but for now scientists have pegged the virus's R0 at 1.4 to 2.5. This means an infected person can potentially spread it to 1 to 2 others.
+
+This would mean that 2019-nCoV is less contagious that SARS, whose R0 is 3. Measles turns out to be more contagious, with an R0 of 11-18. But it is more contagious that the seasonal flu, whose R0 is 1.8.
+
+Another indicator is how deadly it is, which is measured through the case fatality rate (CFR). With 212 deaths and a total of 8,236 cases as of January 31, 2019-nCoV has a CFR of about 2.6%. This is lower than SARS, whose CFR was 10%, and MERS, whose CFR was about 35%. But this figure is not unshakeable, as figures continue to rise.
+
+“We still need to understand better the mode of transmission and what needs to be done specifically for management,” WHO's Abeyasinghe added. WHO recommends the use of tried and tested guidelines used for MERS-CoV and SARS-CoV.
+
+DOH and WHO are reminding people to practice proper hygiene, as transmission may be from contacts with animals or other humans. They have also advised the public to practice frequent handwashing and avoid unprotected contact with farm or wild animals.
+
+Proper cough etiquette is to be observed as well: maintaining distance and covering your nose and mouth with tissue, a towel, or the crook of your elbow. DOH and WHO are also calling on people to ensure that food is well-cooked while the potential source of the virus is still being identified.
+
+What is the government doing?
+
+The health department’s Bureau of Quarantine (BOQ) is on high alert, especially with travelers from Wuhan and China manifesting fever or signs of respiratory infection. The BOQ has met with airlines to remind them of measures to observe in light of the scare. They will ensure that airlines have universal protective kits on board and remind them of protocols in handling cases on board and reporting cases to authorities on the ground.
+
+DOH also said that health workers are also expected to be more vigilant when in contact with patients with acute respiratory infection, especially those with travel history to China.
+
+Health Secretary Francisco Duque III said the Philippines’ “detection capability is still evolving.” The Research Institute for Tropical Medicine (RITM), DOH’s main research arm for prevention and control of infectious and tropical diseases, now has the test kit necessary to determine whether a sample is positive for the 2019-nCoV.
+
+Duque has also led a meeting of the Inter-Agency Task Force for the Management of Emerging Infectious Diseases, which has discouraged non-essential travel to China. The Department of Foreign Affairs (DFA) will also begin repatriating Filipinos in Wuhan and Hubei province by the first week of February.
+
+Duque had earlier said that travel restrictions may not be necessary, as WHO does not recommend them, but later said he would propose a travel ban on all people coming from Wuhan and Hubei province to the President. Lawmakers and citizens have called on the government to impose a temporary travel ban on all of China. – Rappler.com
+
+Sources: World Health Organization, Centers for Disease Control and Prevention, Department of Health

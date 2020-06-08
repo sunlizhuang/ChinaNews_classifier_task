@@ -1,0 +1,39 @@
+The United States has charged four Chinese military hackers in the 2017 breach of the Equifax credit reporting agency that affected nearly 150 million American citizens, Attorney General William Barr said on Monday.
+
+"This was a deliberate and sweeping intrusion into the private information of the American people," Barr said in announcing the indictments of four members of the Chinese Liberation Army in connection with one of the largest data breaches in US history.
+
+The Chinese Embassy in Washington did not immediately respond to a request for comment.
+
+The announcement is the latest in an aggressive campaign by American authorities to root out Chinese espionage operations in the United States. Since turning the spotlight on China in 2018, the US has snared a growing group of Chinese government officials, business people, and academics pursuing American secrets.
+
+Roughly 147 million people had information, including Social Security numbers, birth dates and driver's license data, compromised by the Equifax breach.
+
+The hackers spent weeks in the Equifax system, breaking into computer networks, stealing company secrets and personal data. The hackers routed traffic through approximately 34 servers located in nearly 20 countries to obfuscate their true location.
+
+Equifax Chief Executive Mark Begor said the company was grateful for the Justice Department investigation.
+
+"It is reassuring that our federal law enforcement agencies treat cybercrime – especially state-sponsored crime – with the seriousness it deserves," he said in a statement.
+
+US officials have said Chinese hackers were behind a massive breach at the Office of Personnel Management, which came to light in 2015 and involved the compromise of sensitive personal data submitted by applicants for US government security clearances.
+
+That breach exposed the names, Social Security numbers and addresses of more than 22 million current and former US federal employees and contractors, as well as 5.6 million fingerprints.
+
+Chinese hackers are similarly suspected of being behind a massive breach at hotel group Marriott International.
+
+The Equifax hack fits into a pattern of past Chinese cyber-attacks, said Michael Daniel, a former White House cyber-security coordinator, because the stolen data can support other spying efforts.
+
+"It's primary utility would be in developing potential targets for approach by intelligence operatives or feeding artificial intelligence [and] machine learning tools," said Daniel, who currently serves as president of the Cyber Threat Alliance, a cyber-security information sharing group.
+
+Senator Ben Sasse, a Republican member of the Senate Select Committee on Intelligence, urged tougher action to counter Chinese hacking.
+
+"The Chinese Communist Party will leave no stone unturned in its effort to steal and exploit American data. These indictments are good news, but we've got to do more to protect Americans' data from Chinese Communist Party influence operations," he said in a statement.
+
+The Equifax data breach, because it was so large and involved so much sensitive financial information on so many Americans, had far-reaching implications for Equifax and the consumer credit industry.
+
+The company agreed to pay up to $700 million to settle claims it broke the law during the data breach and to repay harmed consumers.
+
+The scandal sent the company into turmoil, leading to the exit of its then-CEO, Richard Smith, and multiple congressional hearings as the company's slowness to disclose the breach and security practices were challenged by lawmakers.
+
+Policymakers and consumer groups have questioned how private companies could amass so much personal data, sparking efforts to bolster consumers' ability to control their information. Both the Senate Banking and House of Representatives Financial Services Committees are considering legislation that would require companies to better protect consumer data.
+
+© Thomson Reuters 2020

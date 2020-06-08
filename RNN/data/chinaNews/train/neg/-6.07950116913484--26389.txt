@@ -1,0 +1,65 @@
+A video featuring doctors in masks plays in a subway station Sunday in Beijing. The number of cases of a new coronavirus rose to more than 2,000 in mainland China Sunday.
+
+Containing new coronavirus may not be feasible, experts say, as they warn of possible sustained global spread
+
+Some infectious disease experts are warning that it may no longer be feasible to contain the new coronavirus circulating in China. Failure to stop it there could see the virus spread in a sustained way around the world and even perhaps join the ranks of respiratory viruses that regularly infect people.
+
+“The more we learn about it, the greater the possibility is that transmission will not be able to be controlled with public health measures,” said Dr. Allison McGeer, a Toronto-based infectious disease specialist who contracted SARS in 2003 and who helped Saudi Arabia control several hospital-based outbreaks of MERS.
+
+If that’s the case, she said, “we’re living with a new human virus, and we’re going to find out if it will spread around the globe.” McGeer cautioned that because the true severity of the outbreak isn’t yet known, it’s impossible to predict what the impact of that spread would be, though she noted it would likely pose significant challenges to health care facilities.
+
+advertisement
+
+The pessimistic assessment comes from both researchers studying the dynamics of the outbreak — the rate at which cases are rising in and emerging from China — and infectious diseases experts who are parsing the first published studies describing cases to see if public health tools such as isolation and quarantine could as effective in this outbreak as they were in the 2003 SARS epidemic.
+
+And the warnings come as the United States reported over the weekend finding three more cases, the country’s third, fourth, and fifth. Two were diagnosed in California. One is a traveler from Wuhan, where the outbreak is believed to have started, who was diagnosed in Orange County. The other is someone who visited Wuhan who was diagnosed in Los Angeles County. The fifth case was diagnosed in Arizona and is a student at Arizona State University; the person had also traveled to Wuhan.
+
+Confirmed infections within China climbed to nearly 2,750 and the death toll rose to 80.
+
+China’s health minister, Ma Xiaowei, warned Sunday that the virus seems to be becoming more transmissible and the country — which has taken unprecedentedly draconian steps to control the virus — was entering a “crucial stage.”
+
+China’s actions — which include shutting off flights and trains from some affected cities and effectively putting tens of millions of people into quarantine — may not be enough to stop the virus, experts said.
+
+“Despite the enormous and admirable efforts in China and around the world, we need to plan for the possibility containment of this epidemic isn’t possible,” said Neil Ferguson, an infectious diseases epidemiology at Imperial College London who has issued a series of modeling studies on the outbreak.
+
+There may be as many as 100,000 cases already in China, Ferguson told The Guardian newspaper on Sunday, adding the model suggests the number could be between 30,000 and 200,000 cases. “Almost certainly many tens of thousands of people are infected,” he told the British newspaper.
+
+The Bill and Melinda Gates Foundation announced Sunday it is donating $10 million to the response to the virus. Half the money will be given to Chinese groups to help them in containment efforts. The other half will be given to the African Center for Disease Control to fund its efforts to help African countries prepare to have to cope with the new infection.
+
+Also on Sunday, World Health Organization Director-General Tedros Adhanom Ghebreyesus tweeted that he is traveling to Beijing to meet with Chinese authorities to offer support and to learn more about the outbreak.
+
+The WHO so far has not declared the outbreak a global health emergency, though Tedros, as he is known, has said the spread of the new virus is a crisis for China and a risk to countries beyond it. The WHO declined to label the outbreak a global health emergency of international concern on the advice of a panel of experts who met Wednesday and Thursday, though those experts were split on whether a PHEIC should be declared.
+
+This outbreak is caused by a virus — currently known as 2019-nCoV — that belongs to the same family as the viruses that caused the SARS outbreak and which cause sporadic flare-ups of cases of MERS on the Arabian Peninsula.
+
+The SARS virus caused an explosive outbreak in late 2002 and early 2003, infecting more than 8,000 people around the globe and killing nearly 800 before it was contained. MERS has never caused a sustain global outbreak, though a number of large hospital-based outbreaks — including one in South Korea sparked by a businessman who contracted the virus in the Middle East — have been recorded.
+
+One of the luckiest breaks the world got with the SARS outbreak was the fact that the virus did not transmit before people developed symptoms.
+
+With some diseases, like influenza and measles, people who are infected but who are not yet feeling sick — people who are still going to work or school, taking public transit, shopping in malls, or going to movies — can pass the viruses to others.
+
+Tools like quarantine and isolation — which were key to controlling SARS — are unlikely stop spread of a virus that can transmit during the period from infection to symptoms, experts say.
+
+Dr. Nancy Messonnier, director of National Center for Immunization and Respiratory Diseases at the Centers for Disease Control and Prevention, said the agency knows transmission of the virus within the United States may be on the horizon.
+
+“We’re leaning far forward. And we have been every step of the way with an aggressive stance to everything we can do in the U.S.,” she told STAT. “And yet those of us who have been around long enough know that everything we do might not be enough to stop this from spreading in the U.S.”
+
+To date, at least 14 countries and territories outside of mainland China have reported nearly 60 cases. There have been no reports yet of unchecked spreading from those imported cases to others.
+
+“In hours where I’m feeling optimistic I think about the fact that none of the other countries, including the U.S., have seen significant sustained chains of transmission,” Messonnier said. “But that doesn’t mean that it’s not coming.”
+
+It also appears that the incubation time — the time from infection to the development of symptoms — may be a bit shorter than that of SARS, McGeer said, citing a paper published Friday that described transmission within a family in Hong Kong. With SARS, most people developed symptoms about four or five days after infection, she said.
+
+A short incubation period gives health authorities less time to track down and quarantine people who have been exposed to the virus and who are en route to becoming infectious.
+
+Scientists who have been studying the genetic sequences of viruses from China and a few other of the countries that have recorded cases have calculated what is known as the reproductive rate of this outbreak — the number of people, on average, that each case will infect.
+
+An outbreak with a reproductive number of below 1 will peter out. But a number of groups have calculated a reproductive rate for this current outbreak — known by the term R-naught or R0 — in the range of 2 to 3 or beyond.
+
+Trevor Bedford, a computational biologist at the Fred Hutchinson Cancer Research Center in Seattle, suggested the estimates are sobering and point to continued spread.
+
+“If it’s not contained shortly, I think we are looking at a pandemic,” Bedford said, though he cautioned that it’s impossible to know at this point how severe that type of event would be.
+
+Dr. Tom Inglesby, director of the Center for Health Security at Johns Hopkins School of Public Health, urged countries to start planning to deal with global spread of the new virus. Such plans need to include far more aggressive efforts to develop a vaccine than have already been announced, he suggested.
+
+“I’m not making a prediction that it’s going to happen,” Inglesby said, though he noted the mathematical modeling, the statements from Chinese authorities, and the sharply rising infection numbers make a case for this possible outcome. “I think just based on those pieces of limited information, it’s important for us to begin some planning around the possibility that this won’t be contained.”

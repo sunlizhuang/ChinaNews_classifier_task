@@ -1,0 +1,49 @@
+Automation
+
+Welcome to Thomas Insights — every day, we publish the latest news and analysis to keep our readers up to date on what’s happening in industry. to get the day’s top stories delivered straight to your inbox.
+
+You’d probably be lying if you claimed to never have imagined the sheer luxury and convenience of having your very own Johnny Cab. Not only does this self-driving taxi service (featured in the 1990 Schwarzenegger hit Total Recall) keep its passengers entertained with the in-built robot’s repartee, almost no human intervention is required, which means you could blissfully nap your way through any journey.
+
+Unfortunately, fully autonomous vehicles like Johnny Cab are not expected to go mainstream for the next decade or so, but significant progress in developing the technology is being made.
+
+The market is predicted to grow to $36 billion by 2025 when industry experts predict robotaxis will be available to the public. By 2035 it’s estimated that there will be 4.5 million self-driving cars on U.S. roads.
+
+Commercializing the technology promises to significantly decrease labor costs for both public and private transport providers and delivery services, along with potentially reducing motor vehicle deaths by 90%. However, we aren't there yet; these vehicles currently have a higher accident rate than human-driven cars. To date, safety regulations imposed on U.S. companies testing autonomous vehicles have been sporadic and inconsistent, varying widely from state to state.
+
+Let’s take a look at some of the biggest players in the self-driving car race and how they’re working to ensure their vehicles are road-safe.
+
+Meet the 6 Self-driving Car Leaders
+
+Waymo, a subsidiary of Google parent company Alphabet, is often hailed as the front runner of autonomous vehicles, likely because it boasts the lowest disengagement rate (instances when a human is required to take control of the wheel) of once every 5,127 miles.
+
+The company began testing vehicles with self-driving features in 2009 and has since logged over 10 million road miles in 25 cities. Partnering with Fiat Chrysler, Jaguar Land Rover, Honda Motor, and Lyft, the company has obtained 2,118 patents for self-driving technologies and members of the public have been testing commercial self-driving service, Waymo One, since 2018.
+
+As of December 2019, Waymo became the first and only company to obtain a permit for fully driverless delivery testing on public roads in California.
+
+Uber’s self-driving vehicle journey has been tarnished with controversy. Following the company’s purchase of Otto Trucking (a self-driving start-up full of former Alphabet employees) in 2016, Alphabet responded with a hefty trades secrets lawsuit. In March 2018, one of Uber’s self-driving Volvo XC90 SUVs killed a pedestrian in Tempe, Arizona.
+
+Despite these major setbacks and a lengthy hiatus, Uber’s self-driving SUVs returned to the roads. In 2019, Uber announced the third generation of its self-driving car, which included multiple backup systems to improve safety, and secured an additional $1 billion in investments from Softbank’s Vision Fund, Toyota, and auto-parts maker Denso. Last December the company purchased 600 acres of land near Pittsburgh, which will be used to build a new test track for self-driving cars.
+
+California-based start-up Zoox has developed a self-driving vehicle using Toyota SUVs that can drive at highway speeds and accurately navigate the narrow streets of San Francisco, its primary testing ground. Following $200 million of additional investment in late 2019, the company is working to launch a ride-hailing service to paying passengers by the end of 2020.
+
+Zoox announced in October that it would be launching a robot taxi service in Las Vegas and plans to develop its own purpose-built vehicle.
+
+In 2016, General Motors (GM) acquired Cruise Automation for $581 million to help launch self-driving vehicles as part of its ride-sharing fleets. Following this, GM initially pledged to deliver a version of its self-driving Chevy Bolts without steering wheels or pedals by 2019, but this timeline was eventually revised.
+
+As of December 2019, the company is petitioning the U.S. National Highway Traffic Safety Administration (NHTSA) for permission to test its cars without steering wheels on public streets, which, if successful, would make them the first company to do so.
+
+Would it really be an article about self-driving cars if we didn't mention Tesla?
+
+Since October 2016, Tesla has equipped all of its cars with self-driving hardware including 360-degree visibility surround cameras, ultrasonic sensors, and radar with enhanced processing that can see through heavy rain, fog, dust, and even the car ahead. In true Elon Musk style, he promised a Tesla car would complete a self-driven trip across the U.S. in 2017.
+
+Tesla’s current plan is to make its electric cars fully autonomous in 2020 and create a network of robotic taxis to rival Uber. However, three fatalities on the same day involving a Tesla Model S and a Tesla Model 3 have raised concerns over the company’s safety measures for autonomous cars, so stay tuned to see if they meet their goal this year.
+
+Chinese search engine Baidu is working toward the launch of a commercial robot taxi fleet in mainland China. The company’s autonomous vehicles have traveled over one million miles in 13 cities and recently announced it had secured 40 licenses to test in specific streets in Beijing. Baidu has partnered with Geely, Ford, and Chinese state-owned company FAW Group to develop its vehicles.
+
+Today, as many as 56% of Americans claim they wouldn’t feel safe in a driverless vehicle, which suggests these companies still have a long way to go to establish customer trust. In addition to this, no company has yet tested a vehicle with Level 5 automation (as defined by SAE International), which means full automation in all conditions.
+
+Autonomous vehicle technology has lately gained the feeling of an itch we just can't scratch; we're so close but yet so far. Although the road is long and winding for the current leaders, true frontrunners might not emerge for several years to come when we eventually cross the finish line.
+
+Image Credit: Courtesy of Tesla
+
+More from Automation

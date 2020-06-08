@@ -1,0 +1,101 @@
+By the beginning of 2020, all branches of the US military had announced a ban on popular social media platform TikTok from government devices.
+
+The ban followed an announcement from the Department of Defense that determined the Chinese-owned app posed a "cyber threat."
+
+Despite the ban on government phones, the app is still allowed to be used on the personal devices of members of the US military, though after Insider contacted service members and the Department of Defense, one service member was told to delete TikTok from all his devices.
+
+An Insider survey determined members of the military across branches were still regularly posting to TikTok.
+
+Security experts warn that similar security risks remain when posting to personal devices.
+
+In late November, a cybersecurity firm identified vulnerabilities in TikTok that could allow hackers to access sensitive personal information, among other things.
+
+Read more stories like this on Business Insider.
+
+TikTok has been deemed a potential "cyber threat" by every branch of the US military, resulting in its ban from government-issued devices, but that hasn't stopped troops from continuing to use the Chinese-owned meme factory on their personal devices, according to a review conducted by Insider. And according to cybersecurity experts, this continues to pose many of the same security threats that were present when the app was being used on government phones.
+
+In late December, Military.com broke the news that the Army had forbidden the use of the popular social network on government phones over fears that the Beijing-owned platform posed a security risk after a call for an investigation into the app from Democratic Sen. Chuck Schumer of New York and Republican Sen. Tom Cotton of Arkansas.
+
+Concerns have stemmed from the ownership by Chinese company ByteDance, given potentially divergent international interests, and how the company handles its userbase's data. As recently as January 8, a now-patched security flaw was revealed by Israeli cybersecurity firm Check Point. The flaw reportedly allowed hackers to access TikTok users' personal information and make changes to content they post to the platform.
+
+Spies could use meta-data from these videos to track the movements of US personnel, potentially exposing a secret mission or endangering the lives of deployed troops. And phone hacking could expose their personal finances, relationships or any sexting in a way that makes them susceptible to blackmail.
+
+The Army imposed a TikTok ban on government phones along with the four other military branches, but the intelligence risks remain. The services don't have the authority or resources to enforce a ban on the personal devices that almost all troops have; government phones are usually only issued to a few personnel at a command.
+
+A US Army representative Robin Ochoa told Insider that TikTok was used beginning in summer 2019 as a recruiting tool, which according to Military.com, continued through November.
+
+Ochoa noted that there was some concern that the Chinese company still had access to the information it had potentially collected from the government devices, typically only assigned to higher-ranking individuals in the Army, while it was installed.
+
+Still, despite the ban on government devices, TikTok is permitted on the personal devices belonging to troops, though after Insider reached out to the Department of Defense and numerous members of various military branches, at least one Navy officer was told to delete TikTok from all of his devices.
+
+"We cannot direct anyone to do anything with their personal devices," Ochoa said. "If they do download this or any application on their device they are recommended to be wary of the ones they download."
+
+Ochoa said members of the Army were asked to avoid using TikTok in an official capacity, appearing in uniform in videos posted or generally associating the Army with their usage of the social network, though she said it was just a request and not a mandate.
+
+Troops are still using their personal devices to post TikToks
+
+One TikTok creator, who identified himself as a member of the US Marines, posted three videos on TikTok since the beginning of 2020. One video appears to show him in a military vehicle driving on a desert road, though it's not exactly clear where the creator might be in the video. The videos included the tags #military and #usmarines.
+
+Another video posted showed the same creator packing what appeared to be military gear into a bag with a caption that mentioned the ongoing conflict between the United States and Iran following the US government's killing of Iran Qasem Soleimani. It's not uncommon to see similar jokes and memes about rising tensions between the US and Iran on TikTok.
+
+"Iran keeps playin," the TikTok user wrote in the caption to the video. "Im [sic] just chillin here making tiktoks yo."
+
+The TikTok creator declined an Insider request to be interviewed.
+
+Ben Allen, a 23-year-old member of the US Army Reserve who retired as an active duty member of the Army at the end of last year, regularly posted content to social during his time in the Army across social-media platforms, including TikTok.
+
+Allen, who said he primarily posts to YouTube, has some 6,300 followers on TikTok and told Insider there wasn't much instruction given to service members in the Army about what could and could not be posted on social-media platforms. While Allen said he didn't know many other servicemen or women who posted to TikTok, he added he believed many had the application installed on their personal devices and used it to casually view videos on the social network.
+
+"As far as policy goes, there is one but it's not super strict," Allen, who began posting videos about his military service in 2015, told Insider. "They just kinda advise you not to make the Army look in a negative light – a don't bring a bad name to the military type of deal, make sure what you post is in good taste, and you're not disrespecting the uniform. As far as the legality of it goes, as far as you're not promoting products in uniform, for the most part, you're gonna be good."
+
+Despite the lack of clear rules about personal social media usage, Allen said he often faced scrutiny from higher-ups about what he posted online despite positive comments from members closer to his rank.
+
+"For the most part, it's kinda looked down upon in the military," Allen said of his videos. "I can't tell you how much hate I've gotten. Like from high ranking leaders in my own leadership that were like 'what do you know about the military, like why do you even have a channel,' things like that..."
+
+Although Allen left active-duty at the end of the December, he said he was never directed to avoid using TikTok on his personal device.
+
+"From the top down they really don't talk to us," Allen said.
+
+Allen added that while he hadn't received specific training about TikTok, members of the Army were given general information about potential risks of social media – particularly of posting information about times and locations of deployment – during general Operational Security (OPSEC) training.
+
+Hudson Evans, an 18-year-old in the US Navy, told Insider that while he was aware of the ban on government-issued devices from news articles, he hadn't received any briefing from superiors or information about TikTok or its potential security risks prior to being interviewed.
+
+Evans, who has more than 7,000 followers on TikTok said he used it to stay connected to his family, said in general, it had been recommended that servicemembers avoid mentioning they were in the Navy on social media, but he added that was merely a suggestion for safety and not a requirement. Evans deleted all content from his TikTok since he spoke with Insider, and said he was told, "it violates the UCMJ for service members to possess a tiktok (all branches)."
+
+Another TikTok creator, @littlebucksh0t, who did not respond to Insider's request to be interviewed, identifies herself on the platform as a member of the US Marines. She has posted to the platform since it was known as Musical.ly prior to its merger with TikTok following its purchase by ByteDance in 2017.
+
+@littlebucksh0t The bans only apply to government issued devices. They can’t force people to delete the app on personal devices. #thatsthetea ♬ original sound - avivasofia
+
+In one video posted earlier in January, the creator (who does not provide her real name on the platform) explained the ban to her 2.5 million followers.
+
+"The bans only apply to government-issued devices," she wrote in the caption to a video that showed a screenshot from a news article about the ban. "They can't force people to delete the app on personal devices. #thatsthetea."
+
+Security experts warn that there are still risks to using TikTok on personal devices
+
+Michael Nowatkowski, an associate professor of cyber sciences at Augusta University and senior research fellow at the Army Cyber Institute, told Insider that while he believed TikTok poses similar risks on both government and personal devices, the overall risk to the US military is reduced by banning it from the government devices.
+
+"You are still likely to get malware on either a government device or a personal device," Nowatkowski said. "There's likely to be some way that they can track you somehow or look at other information on that device, whether it's a government device or personal device. It's just that on the government device, there could be other sensitive data that's contained on that device and it could be that that device is then connected to a government network at a government facility that you normally would not be allowed to connect your personal device to."
+
+Nowatkowski added he believed TikTok posed a greater risks than other social-media companies, like Instagram and Twitter, because of ByteDance's Chinese ownership. Still, he said he didn't believe the military had the resources to enforce an outright ban on personal devices. Instead, Nowatkowski said he believed the branches should educate troops on the risks of downloading TikTok on their personal devices.
+
+"The military can put physical locations on an 'off limits list' if there's a potential hazard to the servicemember by going to that physical location," he said.
+
+When asked about the security concerns, TikTok spokesperson Josh Gartner directed Insider to a press release from October 2019 that said all TikTok data from the US is stored within the country and backed up in Singapore. The months-old statement from TikTok, which says its US data is not subject to Chinese law, does not directly address the US military restrictions that were imposed months later.
+
+Jay Heslen, a current member of the US Air Force Reserve and former active-duty US Air Force member that worked as a Cyber Intelligence Analyst said that many of the risks posed by TikTok on government phones are likely the same as the risks posted on personal devices. Despite the potential risks of TikTok, Heslen speculated a personal device ban of the app would lead to conflict.
+
+"I think the military probably didn't want to start getting into these freedom of speech concerns and things like that, and I think that they would probably run into a lot of resistance if they actually banned TikTok across the board," Heslen told Insider.
+
+"I think they can't necessarily negate all the risks, but they're just trying to control the risk as much as they can, and the one way they can do that is by banning TikTok on government-issued devices," Heslen, who is now an Assistant Professor of Political Science at the Augusta University Cyber Institute Facility, added
+
+Helsen added, however, that military business doesn't always stay constrained to military phones.
+
+Read more:
+
+TikTok accounts posing as politicians like Trump and Bernie Sanders keep cropping up, and it's another symptom of the app's ongoing struggle to police itself
+
+Major security flaws found on TikTok left people's sensitive personal data and videos vulnerable to hackers
+
+TikTok says it will explicitly ban Holocaust denial and other conspiracy theories denying violent events
+
+On TikTok, teens are imagining that Mike Pence runs a thriving gay conversion camp

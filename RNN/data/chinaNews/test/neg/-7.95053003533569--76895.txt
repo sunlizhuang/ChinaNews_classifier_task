@@ -1,0 +1,55 @@
+Image via Amanda Jones
+
+Special feature Cyberwar and the Future of Cybersecurity Today's security threats have expanded in scope and seriousness. There can now be millions -- or even billions -- of dollars at risk when information security isn't handled properly. Read More
+
+Since the summer of 2019, a group of professional Chinese hackers has been targeting and hacking into companies that run online gambling and online betting websites.
+
+According to reports published this week by cyber-security firms Talent-Jump and Trend Micro, hacks have been officially confirmed at gambling companies located in Southeast Asia, while unconfirmed rumors of additional hacks have also come from Europe and the Middle East.
+
+Talent-Jump and Trend Micro say hackers appear to have stolen company databases and source code, but not money, suggesting the attacks were espionage-focused, rather than cybercrime motivated.
+
+The two security firms said the attacks had been carried out by a group they called DRBControl.
+
+Trend Micro said the group's malware and operational tactics overlap with similar tools and tactics used by Winnti and Emissary Panda, two hacking groups that have conducted attacks over the past decade in the interests of the Chinese government.
+
+Currently, it is unclear if DRBControl is carrying out attacks on behalf of Beijing. Most likely not. In August 2019, cyber-security firm FireEye reported that some Chinese state-sponsored hacking groups are now carrying out cyber-attacks on the side, in their free time, for their own gains and interests, separate from their normal state-sponsored operations.
+
+DRBControl modus operandi
+
+The recent DRBControl attacks are neither complex or unique in regards to the tactics being used to infect victims and steal their data.
+
+Attacks start with a spear-phishing link sent to targets. Employees who fall for the emails and open the documents they received are infected with backdoor trojans.
+
+These backdoor trojans are somewhat different from other backdoors because they heavily rely on the Dropbox file hosting and file sharing service, which they use as a command-and-control (C&C) service and as a storage medium for second-stage payloads and stolen data -- hence the group's name of DRopBox Control.
+
+Typically, the Chinese hackers will use the backdoors to download other hacking tools and malware that they'll use to move laterally through a company's network until they find databases and source code repositories from where they can steal data.
+
+Tools DRBControl has been seen downloading and using include:
+
+Tools to scan for NETBIOS servers
+
+Tools to carry out brute-force attacks
+
+Tools to perform Windows UAC bypasses
+
+Tools to elevate an attacker's privileges on an infected host
+
+Tools to dump passwords from infected hosts
+
+Tools to steal clipboard data
+
+Tools to load and execute malicious code on infected hosts
+
+Tools to retrieve a workstation's public IP address
+
+Tools to create network traffic tunnels to outside networks
+
+DRBControl has infected hundreds of computers
+
+Talent-Jump says they've been able to keep a close eye on the group's operations between July and September 2019.
+
+During the respective interval, the hackers have infected and kept track of around 200 computers through one Dropbox account, and another 80 through a second.
+
+Attacks are ongoing, and the two security firms have published indicators of compromise (IOCs) in their reports [1, 2] that organizations can use to detect suspicious activity or DRBControl's malware.
+
+These are not the first attacks on online betting and gambling sites. In 2018, cyber-security ESET reported that North Korean state-backed hackers had hit at least one online casino in Central America from where they're believed to have attempted to steal funds.

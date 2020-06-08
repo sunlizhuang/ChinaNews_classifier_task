@@ -1,0 +1,29 @@
+NEW YORK -- The U.S. has indicted four members of the Chinese People's Liberation Army in the 2017 attack on credit reporting agency Equifax's computer systems, which authorities say compromised personal information for nearly half of all Americans in one of the nation's largest data breaches.
+
+The nine charges covering wire fraud, computer fraud and economic espionage allege that Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei broke into Equifax's systems and stole the personal data of 145 million Americans. The U.S. Justice Department announced the indictment Monday.
+
+The four Chinese nationals also are accused of stealing trade secrets from Equifax in the form of its credit data as well as the technology used to store it.
+
+"This kind of attack on American industry is of a piece with other Chinese illegal acquisitions of sensitive personal data," U.S. Attorney General William Barr told reporters. "This data has economic value, and these thefts can feed China's development of artificial intelligence tools as well as the creation of intelligence-targeting packages."
+
+The Chinese Embassy in the U.S. did not immediately respond to a request for comment.
+
+Theft of trade secrets remains one of sources of friction in U.S.-China relations as the two countries consider a deeper trade agreement following the signing of a "phase one" deal in January.
+
+The indictment comes as countries decide whether to use Chinese-made equipment in building their fifth-generation wireless infrastructure. The U.S. has urged allies worldwide against doing so, alleging links between Chinese tech companies and the country's military and citing the resulting security risks.
+
+The U.K. defied Washington's warning last month, saying it will let Chinese telecommunications equipment provider Huawei Technologies have a presence in part of the country's 5G network.
+
+Following the Justice Department's announcement Monday, Republican Sen. Mitt Romney called the Equifax hack "yet another example of China's commitment to data theft."
+
+"A warning to our allies: remember the inherent threat that accompanies incorporating Chinese technology into your infrastructure," Romney tweeted.
+
+Last year, the Justice Department also unsealed an indictment against two Chinese nationals accused of hacking into American health insurance provider Anthem's systems and obtaining personal information on 78 million customers. The case did not connect the hacking -- disclosed in 2015 -- to the military.
+
+"The attack on Equifax was an attack on U.S. consumers as well as the United States," Equifax CEO Mark Begor said in a statement Monday.
+
+Combating cybercrime "from well-financed nation-state actors that operate outside the rule of law is increasingly difficult," Begor said. "Fighting this cyberwar will require the type of open cooperation and partnership between government, law enforcement and private business that we have experienced firsthand."
+
+The Equifax security breach shocked the nation when it was disclosed in summer 2017, as the names, birthdates and Social Security numbers of so many Americans were exposed.
+
+The company, one of the three leading U.S. credit agencies, was fined an initial $575 million last year in a settlement with the Federal Trade Commission for failing to protect sensitive data. The total penalty could reach as high as $700 million. The scandal led to the resignation of the company's CEO, Richard Smith.

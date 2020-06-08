@@ -1,0 +1,139 @@
+Via Westpac just now:
+
+A viral epidemic centred in China’s Hubei Province has escalated materially in recent weeks, resulting in the World Health Organisation (WHO) declaring a public health emergency of international concern in late January. As at February 5, the WHO has reported around 25k confirmed cases across 25 countries with 492 deaths. Evidence to date suggests the virus is more contagious but less lethal than the SARS virus in 2003, when 8k confirmed cases across 29 countries resulted in 774 deaths (a mortality rate of close to 10% compared to around 2% for the coronavirus).
+
+The vast majority of coronavirus cases so far have been in China, with around two thirds occurring in Wuhan and the Hubei province.
+
+However, the rapid spread of the disease within China has led authorities to issue quarantine restrictions on domestic travel in many areas. Many countries including Australia have also imposed temporary entry bans on travellers from China, and many airlines are suspending flights. Quarantine measures apply for a minimum of 14 days, reflecting the incubation period of the virus.
+
+Below we set out revised forecasts for China, the global economy and Australia. The scenario we present has the Australian economy stalling in Q1 2020 then rebounding in Q2 (the Q1 forecast also includes a -0.1ppt impact from this summer’s bushfire emergency).
+
+Annual growth for December 2020 rounds down to 1.9%yr from 2.1%yr previously. This is in the context our revised 2020 growth forecasts of 5.3% for China and 2.8% for the world overall.
+
+Note, quantifying the economic impact of the coronavirus is extremely difficult given the single historic precedent and the evolution of the global economy since 2003. Risks to the revised forecasts below are therefore significant.
+
+Regarding policy, the RBA has shown that they believe these shocks (the coronavirus outbreak and Australia’s bushfire emergency) will temporary and so a near-term policy reaction is unlikely. We however remain of the view that further policy accommodation will prove necessary when it becomes clear to the RBA that its current overly-optimistic expectations for growth and jobs are not being met.
+
+Currently we have April pencilled in for the next cut, but recognise that the Governor may need more time to be convinced that further action will be required.
+
+China: severe shock to growth to reverse following containment
+
+The historical benchmark: the 2003 SARS outbreak
+
+In 2003, annualised Chinese GDP growth fell from 12% in Q1 to around 4% in Q2, when the outbreak was most active, but subsequently rebounded to 15% in Q3 and was strong again in Q4 (11%) once the outbreak had been effectively contained.
+
+If we interpolate a profile for the 2020 coronavirus episode using the SARS experience, annualised growth would be expected to fall from 6% in Q4 2019 to 2% in Q1 2020, then rebound to 8% in Q2 and settle at 6% in the second half of 2020. If this occurred, our existing 5.8% yearaverage growth forecast for 2020 would fall to 5.5% – a 0.3ppt reduction.
+
+2020 is not 2003
+
+We must however recognise that there are a number of differences between the 2003 and 2020 outbreaks. Most notably, the 2020 coronavirus outbreak was active during the Lunar New Year holiday period – the peak time for household consumption and travel. Further, given the scale of Wuhan’s population, its position as a large transport hub for central China as well as the virus’ highly-contagious nature (more akin to influenza than SARS), the coronavirus looks to be spreading much more rapidly and broadly than SARS, making it more difficult to contain.
+
+The stringent imposition of travel restrictions by China and other nations will hopefully prove a positive in time, but
+
+while in place these will amplify the shock to the economy.
+
+Taking these factors into consideration, we believe growth in Q1 will be weaker than the SARS benchmarking suggests. We expect growth to stall in the three months to March instead of rising 2.0% annualised.
+
+Assuming the virus can be contained by March, we look for growth to rebound in Q2 and beyond, broadly in line with the SARS experience.
+
+Year-average growth for 2020 would then print at 5.3% and recover to 6.1% in 2021.
+
+Risks to our new baseline
+
+The risks to this view clearly lay to the downside. Most notably, the virus is still spreading and underlying momentum in China’s economy is materially weaker than in 2003. Ahead, headwinds for growth from trade tensions, modest global growth and authorities’ continued focus on the quality of investment and financing will also remain.
+
+To highlight the scale of these risks, if containment and the ensuing recovery were delayed by an additional three months, resulting in nil growth in Q2 as well, then year-average growth for 2020 would fall below 4.0%. A dip into outright contraction in Q1 could result in a similar outcome, depending on the actions of authorities.
+
+Potential offsets
+
+Such a weak outcome is unlikely to eventuate because fiscal stimulus from the Government will be proportional to the shock that China’s economy experiences. There is no real limit on the support the Central Government can provide, and local governments are well positioned to finance investment through new market issuance following the financial sector reforms of 2017–2019.
+
+Note also that the longer the outbreak lasts, the greater the ‘benefit’ to Chinese GDP from reduced service imports. China’s services deficit was negligible back in 2003, but in 2019 amounted to 2% of GDP.
+
+If containment were to take six months, a year-average 2020 growth outcome near or slightly below 5.0% is more plausible than 4.0%.
+
+Anticipated stimulus
+
+Whether our new baseline forecast proves accurate, or downside risks eventuate, stimulus provided by Chinese authorities to their economy expected to be targeted and consistent with their long-term development agenda.
+
+In the short-term, financial relief for affected businesses and households is expected, and there will be additional spending on health services and infrastructure. This spending will be broadened to other components of essential infrastructure across the nation over the remainder of 2020. Support given to local governments to undertake investment will be proportional to need and regional development opportunities. The expected return and risks of each project will still be assessed carefully.
+
+The provision of additional liquidity to the banking system (through RRR cuts and the MLF) will aid the private sector by reducing the cost of credit and increasing its availability. However, for the economy to benefit from these initiatives, the private sector’s confidence in the outlook will have to return – hence the need to act quickly to stop the virus’ spread.
+
+With real estate investment and price gains remaining robust, we do not anticipate any targeted easing of housing policy.
+
+Global growth: East Asia to bear brunt of shock, impact on US/ Europe negligible
+
+Assessing the impact of this crisis on the entire global economy, there are two aspects to consider. First is the immediate pass-through from lower Chinese growth. Second, the spillover effects to other nations. If we are right in anticipating that China’s growth rate will slow to 5.3%, then global growth will be 0.1ppt lower in 2020 than our
+
+baseline of 3.0%, i.e. 2.9%.
+
+Spillover effects to other nations through the global production chain and service exports are then expected to take another 0.1ppts off, leaving our 2020 global growth forecast at 2.8%.
+
+East Asia is expected to be most affected, with 2020 growth revised down from 3.7% to 3.3%. Thailand, Singapore, Hong Kong and South Korea have some of the highest incidences of coronavirus outside of China. This is in keeping with the strong tourist flows these nations receive from China, particularly at this time of the year, and also their positions in the global manufacturing supply chain. Japan also has a strong connection to China, but their recently-announced fiscal stimulus is likely to insulate their economy (to an extent).
+
+As for China, the relationship between the global economic impact of the outbreak and its duration is non-linear. For a time, inventories of components can allow manufacturing production to continue, but inevitably the parts will run out. Alternative suppliers are not necessarily easy to find, particularly at short notice. Hyundai has already announced the suspension of production in South Korea.
+
+Others will follow in the coming days and weeks.
+
+For services, the longer the outbreak continues in a given country, the less likely they are to attract foreign visitors from other nations. And throughout this time, arrivals from China will remain absent.
+
+Our forecasts for North America and Europe remain unchanged at this time, with restrictions on travel having, to date, proven effective at keeping the virus away from these jurisdictions. Our base case is that these containment lines hold. If they do, then the key risk for Europe and the US is arguably that business investment is held back by yet another source of global uncertainty.
+
+The Australian economy and coronavirus
+
+The Australian economy will be adversely impacted by the coronavirus, the epicentre of which is China, the nation’s number one trading partner.
+
+The full extent of the impact remains highly uncertain. Key is the duration and intensity of disruptions, as well as confidence effects.
+
+Another consideration is the extent of any policy responses, particularly from China.
+
+Here we consider a scenario – with a view to incorporating a coronavirus impact into our central case forecasts for the Australian economy. Alternative scenarios and different assumptions will lead to different outcomes.
+
+As a starting point, we assume that intense disruptions to travel between Australia and China will last in the order of 1½ months – with the risk of a more protracted interruption. The Prime Minister of Australia announced on February 2 a halt to inbound arrivals from mainland China for non-residents. This will impact inbound, as well as outbound, tourism and education. Trade in goods, inbound and outbound, will also be disrupted.
+
+By way of context, goods exports to China account for 38% of total exports, with a focus on iron ore, coal, LNG, as well as food. Turning to service exports, China is a key market for education, with a share of around 33% and valued at about $1bn a month. For tourism, China’s share is a little under 20% and valued at about $0.4bn a month.
+
+Consumer and business confidence will likely take a hit, in part because global growth will be adversely impacted. This will weigh on spending decisions.
+
+Scenario:
+
+In our scenario, Australian output growth for the year to December 2020 is rounded down to 1.9% from 2.1% previously.
+
+This reflects a softer profile for business investment, downgraded
+
+from an already modest 2.2%yr to 1.3%yr; as well as a slight revision to consumer spending, from 1.7%yr to 1.6%yr. National output stalls in the March quarter (downgraded from growth of 0.4%), with a rebound in the June quarter, 0.8% (revised up from 0.5%), while growth is around a 0.6% pace over the following two quarters (unchanged from before). The March quarter view also includes a 0.1ppt disruption from the bushfires.
+
+Key to the uneven growth profile over the first half of the year is the temporary disruption to exports and imports. Net exports lop 0.3ppts from Q1 growth (downgraded from +0.1ppt), then reverse, adding 0.4ppts in Q2 (upgraded from +0.1ppt).
+
+Exports of goods and services are dented by a little over $3bn in the March quarter (representing around 3% of total quarterly exports and a little over 0.6% of quarterly GDP) and are hit by a little more than $3bn for the 2020 year as a whole.
+
+In the March quarter, service exports are impacted by $1.6bn, across tourism ($0.6bn on a total loss of arrivals during this period) and education (a cost of $1.0bn). The total impact on education will be mitigated to the extent that some students are already in Australia and the willingness of universities to accept fees and provide studies remotely.
+
+Goods exports to China, worth about $32bn each quarter in real terms, are dented by $1.5bn in the March quarter, a 5% reduction – with delays at ports and reduced demand. Bloomberg report that Chinese regions accounting for about 90% of copper smelting; 60% of steel production, 65% of oil refining and 40% of coal output have told companies to delay the restart of operations until at least February 10. Exports of seafood, as well as live animals, will be disrupted, with this market worth in excess of $1bn a year – with the Lunar New Year holiday period one of the busiest times of the year.
+
+Beyond this initial disruption, service exports progressively recover over the June and September quarters. Goods exports have a partial rebound in the June quarter – but with a net reduction over the half year due to weaker demand.
+
+Imports are also lower in this scenario, down by a little over $1bn for 2020, concentrated in the March quarter, due to disruptions and softer domestic demand.
+
+Commodities
+
+China’s rise since the start of the 21st century has led to it dominating demand for commodities. This means the coronavirus outbreak will have far greater implications for global commodity markets than SARS in 2003.
+
+Looking back at the price action at the time of the SARS outbreak, a broad depreciation in commodity prices was seen following the WHO’s decision to issue its first global alert (12 March 2003).
+
+A recovery in prices then followed once the outbreak had been contained. While uncertainty is high, we do know that, unlike in 2003 when the government prioritised growth above all else, in 2020 there is a reluctance to overstimulate the property sector. In addition, the need for China to develop new industry and export markets for the long-term to offset the cost of the ongoing trade war with the US means fiscal stimulus and support for the private sector has to be measured and targeted.
+
+To date the most significant impact on commodity prices has been for crude oil with Brent down 17% since 31 December 2019. All other commodities have been more resilient, admittedly at least partly due to supply issues. Coal prices have risen (+3% for thermal coal, +11% for met coal), while iron ore prices are down by 10%, with some support from reduced tonnages from both Brazil and Australia in January.
+
+Copper and nickel prices are also down by around 10%, while the rest of the base metals complex has fallen by around 5%. Soft/farm commodities have been more mixed, with supply also a factor – as an example, Australian beef prices have been rising due to the drought.
+
+Ahead, we are looking for crude, coal and iron ore prices to hold around current levels until Chinese growth recovers in the second half, lifting prices. Soft/ farm commodities will continue to be affected by both demand and supply, and so have a more uncertain outlook.
+
+Conclusion
+
+In this note we have set out a central set of forecasts that are notably based on a profile similar to the SARS virus.
+
+However, as discussed there are considerable differences with respect to the virus itself; the degree of importance of China to the world economy; and the extent of governments’ responses.
+
+At this stage, those risks are reasonably assessed to be skewed the impact of this virus being more severe than we have adopted in our central case.

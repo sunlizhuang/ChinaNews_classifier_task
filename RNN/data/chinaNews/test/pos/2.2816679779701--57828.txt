@@ -1,0 +1,49 @@
+Federal Communications Commission (FCC) Chairman Ajit Pai on Thursday revealed some details about his plan for opening up the C-band for terrestrial 5G, and that includes a proposed $9.7 billion in accelerated relocation payments for satellite operators to make room for 5G.
+
+The C-band is used largely by satellite operators that serve broadcast, audio and other content distributors, and they’ve agreed that they can continue serving their existing customers after moving to the upper part of the 3.7-4.2 GHz C-band. At issue has been how fast they can move and at what price.
+
+A more detailed draft of his plan will be made public on Friday, but during an appearance at an Information Technology & Innovation Foundation (ITIF) event Thursday, Pai explained that he’s proposing “accelerated relocation payments” to satellite operators if they meet deadlines for clearing C-band spectrum quickly.
+
+SPONSORED BY SPRINT BUSINESS Free webinar: How leading manufacturing, infra and service providers are using edge computing to deploy innovative IoT solutions that drive business results. There’s a lot of talk about IoT’s potential. What about its reality, now? Find out how leaders are building and deploying innovative IoT solutions at bare-metal level. And if you’re among the first 25 to register, we’ll give you a free developer kit. Free Webinar
+
+Specifically, satellite operators would receive these payments if they clear the lower 100 megahertz of the C-band in 46 of the top 50 Partial Economic Areas (PEAs) by September 2021 and the remaining 180 megahertz of the C-band by September 2023.
+
+That’s four years and two years faster, respectively, than the September 2025 timeframe the FCC’s record indicates it might otherwise expect. Winning bidders in the auction would have to reimburse the satellite companies for relocation costs, including things like new satellites and filter technology.
+
+RELATED: C-band key to U.S. beating China in 5G, groups tell FCC
+
+The accelerated payments are separate from the relocation costs, which are expected to range from $3 billion to $5 billion. Under the draft rules, the winning bidders in the C-band auction would be required to reimburse satellite operators for “reasonable” relocation costs.
+
+“Some might ask (and I’m sure some will): Why are any accelerated relocation payments necessary? The answer is pretty simple: speed. Remember, we aren’t just asking the incumbents to move their services to the upper 200 megahertz of the C-band,” he said in prepared remarks. “We want them to do that quickly in order to free up spectrum for 5G sooner rather than later. And this transition will be much faster if we can create powerful incentives for incumbent operators to expedite the transition. And to make sure they follow through—they would only be paid the full amount if in fact they did so. That is why I favor targeted accelerated relocation payments.”
+
+Under the chairman’s proposal, the auction of the lower portion of the band would start December 8.
+
+RELATED: Editor’s Corner—U.S. needs to fix its midband problem, stat
+
+The C-band has been the subject of scrutiny at the FCC for more than two years but more recently landed in the crosshairs of lawmakers like Senator John Kennedy, R-Louisiana, who blasted the idea of foreign satellite companies benefiting from the sale of the U.S. airwaves. The C-Band Alliance (CBA), comprised of Intelsat, SES and Telesat, fought much of last year for a private auction of the spectrum. Kennedy successfully argued for a public auction, an idea Pai last year said he supported.
+
+RELATED: Senators introduce C-band legislation to prevent windfall for satellite companies
+
+The CBA said via email that it was pleased with Chairman Pai’s statement regarding the C-band draft order.
+
+“The imminent issuance of the draft order reflects the tireless efforts of many over the past several years to ensure that this critical spectrum comes to market safely, quickly, and efficiently. Today’s comments by Chairman Pai are a significant development in this important proceeding. We look forward to reviewing the draft order, once issued, to place Chairman Pai’s comments in full context," CBA said in a statement.
+
+The chairman shared the draft rules with fellow commissioners Thursday morning, and they’re due to vote on it at the February 28 open meeting.
+
+Based on their initial statements, it appears the chairman has a majority supporting his plan.
+
+Fellow Republican Commissioner Mike O’Rielly said he still needs to review the particulars, but the chairman’s proposal appears to be consistent with the principles O’Rielly set forth a while ago and worked hard with appropriate parties to secure. He intends to support it.
+
+“Freeing the 280 MHz of spectrum, while protecting existing systems and remaining users, was my highest priority and where I successfully focused most of my effort,” he said in a statement. “Much time and attention has been spent on the appropriate incentive payment for the satellite providers, and I am pleased that an agreement was reached that should allow them to fully and voluntarily participate in this transition. As I have always said, the satellite providers’ cooperation will be absolutely necessary for a speedy and successful reallocation, and I thank the chairman for making this possible and for considering this item at the February meeting. Sticking to the announced auction date this December and conducting it on time will be paramount.”
+
+As expected, Commissioner Brendan Carr also is on board with the chairman’s plan. “It is a rare win-win-win in Washington, and I am proud to strongly support it,” he said in a statement. “Unlocking the C-Band’s potential has been one of the most challenging public policy puzzles to solve that I’ve seen in my time on the FCC. Chairman Pai and his team deserve tremendous credit for where we are today. He’s landed this plane in the right spot and deserves tremendous credit for his leadership.”
+
+Commissioner Jessica Rosenworcel, a Democrat, previously has criticized FCC leadership for not moving fast enough to make mid-band spectrum available for 5G, something other countries did long ago. She’s also been critical of this administration’s lack of a coordinated plan for 5G. (Neither Rosenworcel nor fellow Democratic Commissioner Geoffrey Starks had released a comment on the chairman’s new C-band plan by press time.)
+
+Pai was asked after his presentation about his thoughts generally in regard to criticism from fellow commissioners about the U.S. not doing enough on mid-band spectrum. Clearly, he's been thinking about it.
+
+“I think the focus on mid-band is appropriate, as I said, and we need a mix of spectrum strategies in order to accomplish our goal of advancing American leadership in 5G,” a goal he and President Trump advanced at the White House last year, he said. “What I will say is that criticism is curious coming from those who have consistently opposed every single initiative on mid-band spectrum that we have teed up. As I mentioned, we started in 2017 unanimously looking at a variety of mid-band spectrum opportunities and over the last couple of years, we’ve been exceptionally aggressive by any metric, in keying up the 2.5, 3.5, C-band, 4.9, 5.9, 6 and other spectrum opportunities.”
+
+In addition, these activities accompany other components of the FCC's 5G FAST plan, most notably modernizing the rules to promote the wireless infrastructure of the future, like small cells, to make the spectrum actually work.
+
+Pai said that when he hears criticisms—and he expects to hear more in the next three weeks as well—it’s interesting that it’s coming from those who have voted against some of his proposals in the past to make more licensed mid-band spectrum available, such as in the 3.5 GHz framework, where Rosenworcel dissented. “I find it curious, but it’s all too common I think here in Washington,” he said.

@@ -1,0 +1,33 @@
+Image Credit:
+
+eICU
+
+Philips eICU is a scalable, centralised tele-ICU solution combining audiovisual technology, predictive analytics, data visualisation and advanced reporting to extend critical care resources to the bedside via technology, regardless of location. This centralised model puts an intensivist-led team in a central monitoring facility where they can be responsible for 50-500 remote ICU beds. It is not a replacement for the bedside team but rather a support system to continuously advance the established plan of care. More than 4.25 million patients have been monitored with Philips eICU programme.
+
+BioMind
+
+BioMind’s showcasing the world’s first European CE-certified artificial intelligence (AI) application for brain diagnosis solution at Arab Health. An AI company that specialises in creating predictive applications to assist doctors, it uses deep learning to detect and analyse conditions in radiology. Through continuous training on a large plethora of past medical scans corroborated by biopsy results, and combining the experience of medical experts, it can achieve a diagnosis accuracy as good as a senior radiologist. The outcome is that it can screen for brain abnormalities in medical scans, as well as propose plausible conditions as a reference for radiologists. Clinically, this has proven to achieve a much higher accuracy than the average radiologists. The entire process from analysing to generating automated reports can be completed within seconds, thus improving overall efficiency, accuracy and consistency in radiology and imaging departments.
+
+Genano 350
+
+Genano’s patented air decontamination units claim to kill viruses and bacteria, safeguarding hospital staff and patients against even the coronavirus. These units equipped with a negative pressure kit are the fastest and most cost-effective way to rapidly set up isolation rooms as per your need. Pictured here is Genano 350, a new, small but efficient, mobile air purifier. In addition to eliminating viruses, bacteria and mould, it removes dangerous VOC-gases and smells. It is perfect for hospital wards for infection control needs fighting against hospital-acquired infections and laboratories for removing needed impurities. Not to mention offices and schools for securing better air for people and decreasing sick leaves.
+
+Critical Care Suite
+
+GE Healthcare’s Critical Care Suite is an industry-first collection of artificial intelligence (AI) algorithms embedded on a mobile X-ray device for triage. Built in collaboration with the University of California San Francisco, using GE Healthcare’s Edison platform, the AI algorithms help to reduce the turn-around time for radiologists to review a suspected pneumothorax, a type of collapsed lung.
+
+Quality-focused AI algorithms simultaneously analyse and flag protocol and field of view errors as well as auto rotate the images on-device. For further assistance, four additional features are also available in the Middle East including on-device pneumothorax alert as soon as the X-ray image is acquired, AI score from 0-100 is presented in which the higher the score, the more confident the algorithm is that a pneumothorax is detected, image overlay can be seen on-device (as well as on the secondary capture image sent to PACS) and accurately localised 96 per cent of positive pneumothorax findings, and customisation of preferences allowing users to set an AI operating point (5 setting options) in order to tune the performance of the system to preferred sensitivity or specificity.
+
+The new Atlan
+
+Since the first Roth-Dräger anaesthetic machine in 1902, the new Atlan family has continued Dräger’s series of reliable and innovative anaesthesia machines. The latest one has comprehensive safety functions support even in critical situations, high flexibility with tailored workstations and efficient hygiene support. Thanks to its robust electronic piston ventilator, the Atlan allows for safe and precise intraoperative ventilation of surgical patients, even for neonates. The device is supplied with a system of extensive safety functions, which helps avoid unintentionally high tidal volumes or inspiratory pressures, for example. Not only the surfaces, but also the interiors of medical devices such as the ventilation system can increase the transmission of germs in the event of irregular hygienic measures.
+
+Kasvuseula
+
+VTT Technical Research Centre of Finland has developed an online service, Kasvuseula, to provide parents with reliable data on the growth of their child and any related abnormalities. Parents can also log their child’s vaccination information in the service and follow the completion of the vaccination programme. The goal is to use knowledge and motivation to help parents take better care of their children’s health. As a digital medium, it brings services within the reach of families cost-effectively and complements the available healthcare system. The service can be localised for different languages and country-specific growth references.
+
+Total-body PET/CT uEXPLORER
+
+United Imaging will showcase the world’s first total-body PET/CT uEXPLORER, a molecular imaging product that extends the axial field of view from about 20-30cm to nearly 2m and accomplishes total-body imaging in a single bed position in as little as 20-30 seconds. It also allows for fast and continuous tracking of tracer distribution in blood, organs, and tissues throughout the body. With these cutting-edge capabilities, the uEXPLORER opens new research opportunities that have not been possible with traditional PET/CT technology. The uEXPLORER has been deployed at the newly established EXPLORER Molecular Imaging Centre at University of California, Davis, in the US and Zhongshan Hospital of Fudan University in Shanghai, China.
+
+SurgeryVision

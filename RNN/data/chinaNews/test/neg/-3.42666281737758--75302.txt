@@ -1,0 +1,59 @@
+Beijing is tightening access to the uncensored global internet, while carefully controlling its domestic news reports, to increase its grip on the media narrative around the coronavirus epidemic.
+
+China's most popular VPN services, which allow foreign businesses and locals to circumvent internet censorship, have faced an onslaught of government attacks in recent weeks. As a result, some users are finding it more difficult to access censored websites, such as Google, Twitter and most foreign newspapers.
+
+READ MORE:
+
+• Coronavirus: Is China telling the truth about the virus slowdown?
+
+• Coronavirus: Chinese aviation reeling, more Air NZ cuts
+
+• Coronavirus: 'Bored' Chinese in lockdown hunt online for NZ boltholes
+
+VPNs, or virtual private networks, allow users in China to access the internet as if they were doing so in an uncensored third country, by sending data to and from a foreign server.
+
+Beijing's system of internet controls, called the Great Firewall, often restricts the use of VPNs during politically sensitive periods such as the June 4 Tiananmen Square massacre anniversary, typically by blocking their third-country servers.
+
+However, many providers have faced an uptick of restrictions in recent weeks.
+
+"We are aware of a new escalation in blocks in China, and our team is working around the clock to address the impact on connectivity," wrote ExpressVPN, one of the biggest services, on their public website on Monday.
+
+Focus Live: Chinese Ambassador gives coronavirus update.
+
+The rapid spread of the coronavirus epidemic has led to calls for freedom of speech in China, after officials' early attempts to cover up the crisis incensed many citizens. On domestic social media, users hailed the whistleblower Li Wenliang, a doctor who was punished by police for warning others about the new virus, and later died from the disease, as a martyr.
+
+Advertisement
+
+In response, Beijing is increasing efforts to ensure pro-Communist party domestic media coverage. On Sunday, the broadcast media regulator wrote that its "biggest political task" of the moment was to guide the coverage of the epidemic and fulfil the party's news ideals.
+
+Meanwhile earlier this month, the party's propaganda department sent in 300 journalists to Hubei province, where the coronavirus originated. Foreign journalists have been turned back from getting near Hubei's provincial borders by local authorities who say they are enforcing quarantine requirements.
+
+The rapid spread of the coronavirus epidemic has led to calls for freedom of speech in China. Photo / Bloomberg
+
+Despite the government's efforts, Chinese citizens have grown increasingly distrustful of state cover-ups, and some are looking to alternative sources for news about the outbreak. Daily traffic to GreatFire's FreeBrowser.org, a website that allows Chinese users to browse uncensored foreign news articles, has roughly doubled since January 25, two days after the epidemic centre of Wuhan began its lockdown.
+
+"Despite the wide availability of domestic news about the coronavirus, Chinese people are still looking to overseas, uncensored platforms, for more information. This is a very strong sign that most Chinese people do not trust the authorities to tell them the truth about the virus," said Charlie Smith of GreatFire, an internet censorship monitoring organisation.
+
+But the crackdown on commercially available VPNs means it is getting more difficult for Chinese readers to find uncensored information.
+
+According to GreatFire's Circumvention Central, a website that allows users to test the stability of their VPNs, the stability of Astrill, another big VPN service used in China, dipped in January to a four-year low.
+
+The number of people testing their VPNs using Circumvention Central has also increased in the past month, usually a sign that VPN users are experiencing problems. Astrill did not respond immediately to a request for comment.
+
+While ordinary citizens are finding it harder to get on to censored platforms such as Twitter, China's foreign ministry spokesperson Hua Chunying drew mockery online after launching her Twitter account on Friday, with some commenters asking her what VPN she was using.
+
+Advertisement
+
+"No winter lasts forever, every spring is sure to follow," Hua wrote in her first tweet.
+
+Hua's account is the first launched by an individual Chinese spokesperson, although the foreign ministry opened its official account in November.
+
+Written by: Yuan Yang
+
+
+
+
+
+
+
+© Financial Times

@@ -1,0 +1,27 @@
+Robots and scanners bring tech to front line - Chinadaily.com.cn
+
+China has been stepping up technology-assisted efforts to contain the spread of the novel coronavirus pneumonia, with technologies from facial recognition to artificial intelligence kicking in to arrest the epidemic.
+
+With the number of confirmed cases rising in Hubei province, the epicenter of the outbreak, and other parts of China, local transport authorities nationwide have been taking full advantage of multiple technologies in a bid to effectively combat the disease.
+
+In Wuhan, Hubei's provincial capital－which has been locked down since late January, with all public transport suspended－delivery robots from e-commerce platform JD.com's logistics arm have been delivering parcels as part of efforts to sustain daily operations and curb the spread of the virus.
+
+Kong Qi, director of JD Logistics' autopilot research and development department, said each robot, loaded with around 30 parcels, is capable of monitoring the surrounding environment through radar and other sensors, which helps it avoid roadblocks and pedestrians. They use facial recognition when handing over the packages.
+
+On Thursday, JD Logistics started a trial delivery service for medical supplies and daily necessities for healthcare workers at Wuhan Ninth Hospital, one of the city's designated hospitals for treating infected patients.
+
+As human-to-human contact is discouraged across the country to reduce the risk of infection, the company has also transferred robots from other cities to Wuhan to cover more areas including quarantined neighborhoods to make sure unmanned delivery will become the norm in the virus-stricken city, Kong added.
+
+To better protect people from infection, Guangzhou Communication Information Investment Group, a transportation infrastructure company in Guangzhou, Guangdong province, rolled out a new function for the city's more than 20,000 taxis that warns people who do not wear face masks.
+
+Drivers and passengers are checked via facial and action recognition technologies during the ride and those not wearing a mask will be reminded to put one on.
+
+Guangzhou, where many migrant workers are employed, will see a large number of people travel back to the city in the coming week. Wearing a mask can greatly reduce the possibility of getting infected, said Hu Peng, project manager at the company.
+
+"With the new function, we can supervise and remind the drivers and passengers online instead of launching outdoor inspections that are less efficient and more timeconsuming," he said.
+
+The transport authority in Shandong province is using a temperature screening tool that can help monitor human body temperatures in crowded transportation hubs and identify individuals who might have a fever.
+
+Coupled with big data and artificial intelligence, the system is also able to trace the previous movements of people with high temperatures and find others who might have been in close contact with them.
+
+The department said it has started piloting the technology in Jinan's highway services work, enhancing the efficiency of health checks, reducing drivers' wait times and helping front-line workers avoid infection.

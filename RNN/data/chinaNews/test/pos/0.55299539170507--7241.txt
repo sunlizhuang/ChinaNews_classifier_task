@@ -1,0 +1,65 @@
+Technology
+
+China's all-virtual specialty internet courts look set to expand into other areas of the law
+
+Photo courtesy of Sara Xia
+
+In September, Beijing’s internet court celebrated its one-year anniversary.
+
+The second of three such pilot courts in China, internet courts are limited subject-matter courts for civil and administrative claims stemming from e-commerce and other online activity. More novel, and as the name implies, the court process is all virtual.
+
+“It allows you to file a case and participate in litigation easier because you don’t have to go to the court,” says Sara Xia, an attorney at Harris Bricken in Seattle who practices in Beijing. “You just do everything online.”
+
+Built to more efficiently resolve the increasing number of online disputes finding their way into the Chinese court system, internet courts also act as an incubator for a judiciary going through rapid change.
+
+First piloted in 2017 in Hangzhou—the hometown of Alibaba, essentially China’s Amazon—the court handles cases involving online purchases, including product liability, service agreements and small loan contracts. It also handles disputes regarding online defamation, domain names, online copyright issues and conflicts arising from the government’s administration of the internet.
+
+A year ago, pilot sites were added in Beijing and Guangzhou.
+
+This comes at a time when China is experiencing a drastic rise in e-commerce and internet access, says Meng Yu, co-founder of China Justice Observer, a legal consultancy.
+
+At the end of 2017, 55.8% of Chinese people were online, according to the China Internet Network Information Center, up from 44.1% in 2013. With increased access, online commerce has taken off. Over 35% of retail sales in China occur online, according to a 2019 report by eMarketer, a research firm. By contrast, e-commerce in the U.S. makes up about 11% of retail sales.
+
+Just the beginning?
+
+Beyond this growth, there’s increased use of courts in China in general. In the first six months of 2019, 14.89 million cases were filed, up 14.5% over the same period a year before, according to a press release from the Supreme People’s Court, the country’s highest judicial body. In the country’s civil courts, contract disputes were the most-filed type of case in the first quarter of the year, according to a separate release.
+
+Infographic by Sara Wadford
+
+With this confluence of added pressures, the Chinese court system is looking to leverage technology to create a more efficient process. To do that, internet courts are incubating new technologies and processes.
+
+“The internet courts are like explorers,” Yu says.
+
+For example, internet court users must be verified before they can participate in a case. To accomplish this, the court allows people to upload their national ID or passport, which is verified by facial recognition, Xia explains. A user may also sign into the court with an existing Alipay account, Alibaba’s payment platform. If any Luddites antithetically want to access the court, they can file in-person with a court clerk.
+
+Once an account is created, a litigant can use the court’s website or smartphone app or communicate with the court through WeChat, a communication app similar to WhatsApp.
+
+By reflecting the technology of the times, the courts are also approaching evidence in a novel way. Last year, the SPC formally recognized that evidence can be authenticated on a blockchain—the ledger technology behind cryptocurrencies like bitcoin.
+
+To Yu, the use of blockchain is an opportunity to push down the cost of evidence-gathering and authentication because evidence on the blockchain does not require a public notary and associated fees.
+
+While many observers say China has embraced the role of blockchain for evidentiary purposes more than any other country, Yu notes that it is still early, and the practice is being used sparingly. (See “Best Evidence,” page 22, September-October 2019.)
+
+Not solely meant to improve litigants’ court experience, judges are also getting new toys. In June, the court launched an “AI judge,” which is intended to help take on repetitive judicial tasks and provide guidance during litigation, according to a press release.
+
+Photo by Shutterstock
+
+Collectively, the internet courts are efficient. Recent government data states that case filing and acceptance takes about five minutes, while hearings run an average of 28 minutes. Cases go through their life cycle, from open to close, in an average of 20 days, not including appeals, which are handled by separate, nonvirtual intermediate courts. By comparison, according to Yu’s China Justice Observer colleagues, civil courts generally take two to 10 days to accept a case filing and six months to complete a trial. Yu adds that IP cases handled by traditional courts take an average of nearly 88 days to resolve.
+
+This efficiency, according to Yu, is appreciated by attorneys because they largely use flat-rate or contingency-fee models.
+
+Even so, a recent report requested by the SPC found that trial-level IT created usability shortcomings for litigants. Looking more broadly than just internet courts, the report by the Institute of Law of the Chinese Academy of Social Sciences, a governmental body, found that litigation service platforms used by Chinese courts are not well-coordinated. That means inaccurate or untimely information is given to litigants, explains Susan Finder, distinguished scholar in residence at Peking University in Shenzhen, citing the report. She adds that the report found that attorneys were displeased with court technology that didn’t live up to their needs.
+
+The internet courts were not created in a vacuum: They fall into a larger set of judicial reforms as China looks to improve the rule of law and international confidence in its court system.
+
+Meng Yu, co-founder of China Justice Observer. Photo courtesy of Meng Yu.
+
+“The last round of judicial reforms involved 65 different reforms seeking to improve the judicial system in various ways, including making it more transparent, more professional, more specialized, and give judges an increased amount of autonomy,” Finder says.
+
+Since the current round of reforms began, the country’s courts published more than 73 million verdicts on its website and allow trials to be watched online.
+
+As these broader reforms march forward, the internet courts will continue to test new practices, which, Yu notes, is receiving clear support from the country’s leaders.
+
+Anticipating that almost all court hearings in China will be held online in the future, “it’s just a matter of time to get this technology nationwide,” Yu says.
+
+This article ran in the Winter 2019-2020 issue of the ABA Journal with the headline “Order in the (Virtual) Court: Originally designed to handle disputes arising from e-commerce and other online activities in China, all-virtual specialty internet courts look set to expand into other areas of law.”

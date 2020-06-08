@@ -1,0 +1,53 @@
+Humankind now speaks more than 5,000 languages, which as anyone who has traveled or lived in a foreign country can attest to, makes life more interesting, if not at times several times more complicated. It is fairly common then for us to turn to translation tools for help, and Google Translate is probably one of the most trusted popular among them (despite the hurdles of the GFW). Yet when translating a language like Chinese – one that is radically different from the Latin language family – digital translators may not be savvy enough to provide a nuanced, reliable definition after all.
+
+It may not surprise you to hear that Google Translate has problems interpreting slang, but more concerning is the fact that it seems to have trouble with even simple words and phrases. Below are a few examples that we've found along the way.
+
+Heteronyms
+
+Tones in Chinese are enough to cause anyone a headache, yet heteronyms – words (or in this case, characters) that are spelled the same but pronounced differently – make things even trickier. Apparently, Google Translate's endless machine learning hasn't yet caught up to comprehend the all of the rules of pronunciation for Chinese heteronyms, such as:
+
+戛纳 gānà - Cannes
+
+One of the most commonly misspoken phrases crops up whenever the Cannes Film Festival comes around. Rather than 戛纳 gānà, Google Translate opts instead for jiá, usually meaning "gently tap" or used in the phrase "cease abruptly" (戛然而止 jiárán ér zhǐ).
+
+佛系 fóxì
+
+佛系 fóxì, a word made popular online to describe a chill, laid-back, and carefree lifestyle, takes the place of Buddhism (佛教 fójiào) on Google Translate. The mix-up likely comes from the fact that 佛 means Buddha when it is pronounced fó. Meanwhile, the pinyin fú is usually seen in phrases like 仿佛 fǎngfú, meaning “as if.”
+
+怒喝 nù hè - Shout angrily
+
+The character 喝 means either the action of drinking when said in the first tone (hē) or the action of shouting when pronounced with the fourth tone (hè). Here, it seems that Google was unable to select the correct tone from the context provided.
+
+丈量 zhàngliáng - Measure
+
+The second tone of 量 liáng frequently refers to the act of measuring and is used in words like 测量 cèliáng (measuring), 衡量 héngliáng (weighing), while with a fourth tone, liàng is typically interpreted as “amount” such as in 数量 shùliàng (amount) and 重量 zhòngliàng (weight). Here, Google appears to get them confused and opts for the latter, incorrect option.
+
+Literary Chinese
+
+Another area of learning that is often intimidating for Chinese learners is the ancient literary Chinese, which differs from modern Mandarin in many ways. Many ancient characters are pronounced differently, leaving both us, and Google, confused.
+
+学而时习之，不亦说乎? xué ér shí xí zhī, bù yì yuè hū? - Is there no pleasure in learning and practicing?
+
+It may be that you're able to recall this sentence if you didn’t slack off in your 论语 lúnyǔ Analects of Confucius class. However, put it through Google Translate and you'll find that the rhetorical question, meaning, "Is there no pleasure in learning and practicing?", sees the character 说 yuè (joy) replaced by the more modern spelling 悦 yuè. Meanwhile, 说 continues to mean speak (shuō) or persuade (shuì).
+
+千里走单骑 qiānlǐ zǒu dān jì - Riding alone for thousands of miles
+
+A plot in Romance of the Three Kingdoms depicts the loyal and valiant warrior Guan Yu riding for thousands of miles to reunite with his lord Liu Bei and protect his family along the way. The word 骑 here is not read qí, the verb to ride, but instead, a quantifier for people riding on a horse in ancient literary Chinese pronounced as jì.
+
+Pronunciation of names
+
+Some characters in Chinese are pronounced differently when they're used as the surname, for example:
+
+任正非 rénzhèngfēi
+
+The founder and CEO of Shenzhen-based telecommunications and technology giant Huawei. Usually, the character 任 is pronounced as rèn, such as in 任免 rènmiǎn (appoint and remove) and 任意 rènyì (at someone’s will). But when used as the surname, its pronunciation changes to rén.
+
+朴槿惠 piáojǐnhuì - Park Geun-hye
+
+The former president of South Korea, Park Geun-hye's surname 朴 piáo is common in Korea, including among the Korean minority that lives in China. When used in other phrases, it is usually spelled as pǔ, such as in 朴实 pǔshí (simple) or 朴素 pǔsù (plain). It also has two less common pronunciations: pō, to refer to a traditional sword 朴刀 pōdāo, and pò, as a type of tree.
+
+All in all, while Google's services remain a great way to get by in a foreign language, it's good to be aware that as things start to get more advanced, you may want to double-check your results.
+
+READ: Learn Some Viral Mandarin to Fight Coronavirus Boredom
+
+Images: Google, YouTube

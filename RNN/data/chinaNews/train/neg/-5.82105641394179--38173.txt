@@ -1,0 +1,147 @@
+An outbreak of viral pneumonia that began in the central Chinese city of Wuhan at the end of 2019 has now sickened thousands, and led to more than 100 deaths.
+
+Although much is still unknown, scientists have made rapid progress in understanding the culprit, a new virus in the coronavirus family, which temporarily goes by the name 2019 novel coronavirus, or 2019-nCoV.
+
+As the virus has spread, however, misinformation has, too. We’ve written about several bogus claims about the new coronavirus, and will continue to debunk stories as they surface.
+
+Here, we answer some key questions about what is known so far about the outbreak and the virus.
+
+Confirmed Coronavirus Cases
+
+When did the outbreak begin, and what is the cause?
+
+Scientists are still working to determine when the virus first emerged in people, but the earliest known instances of the disease occurred in early December in Wuhan, a city of 11 million in central China.
+
+After a string of mysterious pneumonia cases, many of them linked to a seafood market selling wild game and live animals, officials reported the outbreak to the World Health Organization on Dec. 31.
+
+By Jan. 7, Chinese authorities had isolated 2019-nCoV as the cause of the disease, and shared the genome a few days later. This allowed other countries to test for the virus, and for scientists to begin devising treatments and investigating how the outbreak began.
+
+Coronaviruses are a diverse family of large RNA viruses that have characteristic spikes on their surface, making them look like they have a halo, or corona, when viewed under a microscope.
+
+Most coronaviruses that infect humans are relatively benign and cause mild respiratory diseases such as the common cold, said Susan Weiss, a coronavirus researcher at the University of Pennsylvania, in a phone interview.
+
+But in recent years, new coronaviruses have cropped up that are far more dangerous to humans, including the severe acute respiratory syndrome, or SARS, virus, which led to a global outbreak in 2003, and the Middle East Respiratory Syndrome, or MERS, virus, which was identified in 2012.
+
+According to the WHO, SARS ultimately infected more than 8,000 people, killing 774. Since 2012, there have been nearly 2,500 MERS cases and 858 deaths.
+
+The new virus is fairly similar to the SARS virus — and is in the same betacoronavirus subgroup as both the SARS and MERS viruses — but is considered a new pathogen.
+
+What are the symptoms, and how severe is the disease?
+
+The virus causes a pneumonia-like respiratory illness that varies in severity, but can be deadly. Symptoms include fever, cough and difficulty breathing.
+
+A report in the Lancet that analyzed the first 41 people admitted to the hospital for 2019-nCoV infection suggests that clinically, the illness is similar to SARS, although fewer patients appear to have diarrhea or upper respiratory symptoms, such as sneezing, a runny nose and sore throat.
+
+Some people also report fatigue, and in at least one case, a person has been found to be infected, but clear of any symptoms.
+
+Many of the symptoms are common to other respiratory diseases, so unless a person has been to Wuhan, China — or been in contact with someone who has — the illness is unlikely to be due to the new coronavirus. Lab tests based on the virus’ genetic sequence can confirm infection.
+
+As of Jan. 30, 171 people have died, out of 8,235 confirmed cases worldwide. That suggests, very roughly, a case fatality rate of around 2-3%. For comparison, SARS killed around 10% of infected people, if not more, while seasonal influenza typically kills 0.1% or less, David Fisman, an epidemiologist at the University of Toronto, said in an email.
+
+These figures, however, may not accurately reflect how dangerous the virus is, Fisman said, since the disease course is still underway for many patients. It’s also likely that far more people have been infected, but have not gone to hospitals or had their illnesses confirmed. For example, if two-thirds of cases are unreported, he said, the case fatality rate may be around 1%.
+
+According to the WHO, as of Jan. 28, about 20% of confirmed cases have been severe. Clinical guidance from the WHO suggests the most serious concerns for patients are the development of acute respiratory distress syndrome, or ARDS, and sepsis, both of which can be fatal.
+
+Initial reports indicate that while healthy people can fall seriously ill, deaths are largely confined to older folks and those with preexisting conditions such as diabetes, Parkinson’s disease and liver cirrhosis.
+
+There nevertheless has been one report of a 36-year-old man with no known health concerns who died.
+
+How is the virus transmitted, and how contagious is it?
+
+While the new virus almost certainly was first transmitted to people from an animal, it’s clear from how the pathogen has spread that the virus can be passed from person to person.
+
+Scientists aren’t yet sure how that’s happening, but they suspect it is similar to how influenza is spread, with the virus travelling through saliva droplets when infected people cough or sneeze. This is how scientists believe past coronaviruses such as SARS and MERS have spread.
+
+The incubation period, or how long before someone who is infected shows symptoms, is estimated to be 2 to 14 days, according to the Centers for Disease Control and Prevention. China has suggested that it is possible for people to be contagious during this period, but the CDC does not yet have evidence for that. Fisman noted that the timing of some of the German cases also suggests potential asymptomatic transmission, but he said more data is needed to know for sure.
+
+It’s also unclear exactly how infectious the new virus is. Several groups of scientists have attempted to estimate 2019-nCoV’s basic reproduction number, or R0, which is the average number of other people one person infects, assuming everyone in the population is susceptible.
+
+Using a variety of methods, multiple teams have arrived at figures that generally range from 1.5 to 4, which suggest the transmissibility is roughly in line with that of SARS, but below that of the measles virus, which has an R0 of around 12 to 18, and is one of the most infectious viruses in the world.
+
+“Despite the diversity of approaches taken there’s remarkable consistency in estimates from highly competent investigators, which seem to fall between 2 and 3,” said Fisman.
+
+An early estimate from the WHO, for example, suggested that every infected person would spread the virus to 1.4 to 2.5 people, on average, while a team at Imperial College London pegged the R0 at 2.6. A group at the University of Bern in Switzerland calculated an R0 of 1.4 to 3.8, and Harvard researchers Maia Majumder and Kenneth Mandl estimated a figure between 2 and 3.1.
+
+All of the estimates are preliminary, and limited by the available data, which is changing by the day. While the figures provide some clue as to how contagious the virus is, it’s important to recognize that these values don’t necessarily say anything about how widespread the outbreak will be.
+
+As Majumder pointed out on Twitter, the R0 reflects potential transmission, not actual transmission — and that even though seasonal flu has a relatively low R0 of about 1.3, it causes millions of cases per year, whereas SARS had an R0 between 2 and 5, and led to fewer than 10,000 cases.
+
+“Planning, preparedness, and infection control can effectively bring an outbreak of a novel, moderate-R_0 disease to a close even in the absence of vaccines,” Majumder said in a tweet. “Because of this, estimates of R_0 for #nCoV2019 should be viewed as a call to action instead of a reason to panic.”
+
+Where have cases been reported?
+
+As of Jan. 30, there have been 8,235 confirmed cases, the vast majority in China, and more than half in Hubei province, which is home to Wuhan. Many other Chinese cities have recorded dozens of cases, including more than 100 in Shanghai and Beijing.
+
+Numerous other Asian countries, such as Japan, Thailand, South Korea, Singapore, Malaysia and Vietnam, have reported at least two cases.
+
+The U.S. has confirmed five cases, current as of Jan. 29, and Canada has three. The first cases in Europe were reported in France on Jan. 24.
+
+Given the speed of the outbreak, these tallies will soon be out of date, but updates are available in a visualization tool put together by Johns Hopkins University that pulls information from the WHO, the CDC and Chinese sources.
+
+The CDC has also launched its own state and global maps to show the location of confirmed cases.
+
+What information do we have about the U.S. cases?
+
+The CDC announced the first American case on Jan. 21 in a man in his 30s who returned home to Washington state after a trip to Wuhan and then fell ill. He is reportedly in satisfactory condition and remains in isolation at a hospital north of Seattle as of Jan. 27.
+
+The CDC confirmed a second case on Jan. 24 in a Chicago woman. The woman, who is in her 60s, also had recently been to Wuhan; she is stable and is hospitalized largely to prevent disease spread.
+
+Both patients did not have symptoms until they were already in the U.S.
+
+Three more cases were announced on Jan. 26: one in Arizona, in an Arizona State University student, and two in California, including one in Orange County and another in a Wuhan resident flying through Los Angeles International Airport.
+
+The CDC announced on Jan. 30 the first instance of person-to-person transmission of the virus, in this case, from the Chicago woman to her husband, who had not traveled to Wuhan. This case is not yet reflected in the total case counts.
+
+Health officials suspect that there will be more American cases over time, although the CDC considers the immediate risk to Americans to be low.
+
+Where did the virus come from?
+
+Scientists do not yet know the origin of the virus, but coronaviruses are zoonotic viruses, meaning they can transfer from animals to humans.
+
+Both the SARS and MERS coronaviruses are thought to have started in bats, and then made the jump into humans through other animals — civets and racoon dogs, in the case of SARS, and camels in the case of MERS.
+
+For 2019-nCoV, experts also suspect the virus originated in bats, although that has not yet been demonstrated. An unpublished analysis of several viral genomes from patients indicates the virus is about 80% similar to SARS, but shares even more similarity — 96% — to a SARS-like bat virus.
+
+“It very likely suggests the virus [came] from bats,” Yize Li, a researcher working on coronaviruses in the Weiss lab at the University of Pennsylvania, told us.
+
+But even if bats are the so-called reservoir for the virus, that doesn’t necessarily mean that a bat transmitted the virus directly to a human. As with SARS and MERS, there could be an as-yet unidentified intermediate host.
+
+“We believe that an intermediate host might be involved, but we don’t know for sure and we don’t know what animal,” said Kristian Andersen, a professor of infectious disease genomics at the Scripps Research Translational Institute, in an email.
+
+Scientists also have been comparing viral sequences from numerous patients to begin to understand when the virus first emerged and how the outbreak first unfolded.
+
+An analysis from Andersen, for instance, found that the data is “highly suggestive” of a single introduction into the human population, followed by human-to-human transfer.
+
+Another assessment from the University of Edinburgh’s Andrew Rambaut, based on the viral genomes from 42 patients, estimates the virus popped up in late November.
+
+What is China doing to combat the outbreak, and how is the rest of the world responding?
+
+China closed the seafood market in Wuhan that is suspected of spreading the virus on Jan. 1.
+
+The government proceeded to cordon off the entire city about three weeks later, just before the Lunar New Year, cancelling air and train travel in or out of Wuhan, and shutting down all public transit within the city. The transportation lockdown has since been extended to other cities in the same province, affecting an estimated 56 million people.
+
+Such quarantine efforts of this magnitude are unprecedented, and it remains to be seen how effective they are at limiting the spread of the virus. The mayor of Wuhan acknowledged that as many as 5 million people left Wuhan before the lockdown was put into effect, which may have undercut much of its value. Some experts have also suggested that the strategy could backfire, if the travel restrictions make it more difficult to deliver supplies.
+
+On Jan. 26, China also banned the sale of wild animals until the outbreak resolves.
+
+Several neighboring countries, including Malaysia and Mongolia, have begun limiting travel from China, while others, including the U.S., have started to evacuate citizens from Wuhan. Hong Kong has announced it will be halting rail transit from mainland China, and slashing the number of flights in half.
+
+The WHO has thus far declined to declare the outbreak a global emergency, or what is officially known as a Public Health Emergency of International Concern, or PHEIC. After meeting for two days in a row, the committee of WHO experts was unable to determine if the outbreak warranted such a designation on Jan. 23, although the group is reconvening on Jan. 30 to reevaluate the situation.
+
+For its part, the CDC began screening travelers flying in from Wuhan for signs of infection at U.S. airports on Jan. 17, and is in the process of testing people for suspected cases of the disease. As of Jan. 29, the agency said that it had identified a total of 165 suspected cases across 36 states, including 5 confirmed cases and 68 negative ones.
+
+On Jan. 27, the CDC also issued a level 3 travel alert, its highest, advising travelers to avoid “all nonessential travel” to China. Previously, the agency had only advised people to avoid traveling to Wuhan or Hubei province.
+
+What is the outlook for the outbreak?
+
+It is still too early to tell how the outbreak will unfold, including how long it might last, how widespread the virus will become and the ultimate death toll.
+
+But while the Wuhan coronavirus is very concerning globally, for almost all Americans, seasonal influenza is a greater health risk. As Ian Lipkin, an epidemiologist at Columbia University who was actively involved in responding to the SARS epidemic, told the Washington Post, flu claims 30,000 to 40,000 American lives every year. “It is very unlikely,” he said, “that this will ever reach the level that we annually lose to flu.” The CDC estimates there were more than 34,000 flu-related deaths in the U.S. in the 2018-19 flu season.
+
+As we have written before, there is no 2019-nCoV vaccine yet available for people to use. A lab in Hong Kong announced on Jan. 28 that they had already developed one, but that it would still take months to test the vaccine on animals, and an additional year to do clinical trials before it would be ready to use.
+
+Other researchers around the world, including those in the U.S., are also racing to create a vaccine, but the timetables are the same. Even with fast-tracking, it’s almost certain no vaccine will be ready for another year, which likely means this outbreak will conclude without the benefit of one.
+
+According to the CDC, the best way to prevent coronavirus infection is to do all the things that one usually should do to avoid respiratory viruses, including washing your hands with soap, avoiding touching your face and avoiding those who are sick.
+
+There is no need for people in the U.S. to wear face masks unless someone is infected with 2019-nCoV, or a health care worker is treating someone who is infected. Physicians and other providers, however, should use specialized respirators, which can actually filter out most of the viral particles. The basic surgical masks aren’t worthless — for those in crowded areas of China, they’re a good idea because they will limit some exposure — but they’re not especially protective.

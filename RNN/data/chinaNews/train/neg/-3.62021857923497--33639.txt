@@ -1,0 +1,219 @@
+US Secretary of State Mike Pompeo warned Huawei's 5G role is a 'real risk' as he landed in the UK and started potentially stormy talks with Dominic Raab tonight.
+
+Mr Pompeo urged Boris Johnson to look again at the decision to involve the Chinese tech giant in the infrastructure project.
+
+The pressure came as the PM vowed the Huawei row will not 'imperil' the Special Relationship.
+
+Amid claims Mr Johnson defied misgivings from his own ministers to give the firm a limited part in the 5G network, former Cabinet ministers have suggested his huge 80-strong majority might not be enough to save him from defeat on the issue.
+
+However, following the meeting between Mr Pompeo and Mr Raab last night, a statement was issued by a spokesman for the Foreign Secretary that made no reference to the Huawei deal.
+
+The spokesman said: "The Foreign Secretary's discussions with Secretary Pompeo this evening focused on future opportunities for economic and security co-operation between the UK and US.
+
+"The pair discussed the US' proposal for peace between Israelis and Palestinians, and the situation in Iran and Yemen, and the Foreign Secretary underlined the need to de-escalate regional tensions."
+
+Earlier, Defence Secretary Ben Wallace reportedly branded Beijing a 'friend of no-one' at a crucial security meeting yesterday - but eventually accepted the decision to allow the firm 'limited' involvement in the infrastructure project.
+
+The White House has voiced 'disappointment' over the decision, after intensely lobbying for the UK to shun Huawei.
+
+But challenged on the issue at PMQs this afternoon, Mr Johnson said: 'I want to assure the House and indeed the country that I think it is absolutely vital that people in this country do have access to the best technology available...
+
+'But that we also do absolutely nothing to imperil our relationship with the United States, to do anything to compromise our critical national security infrastructure or to do anything to imperil our extremely valuable cooperation with Five Eyes security partners.'
+
+Foreign Secretary Dominic Raab meets US Secretary of State Mike Pompeo at the Foreign Secretary's Residence this evening
+
+Speaking to reporters en route to the UK, Mike Pompeo urged Boris Johnson to look again at the decision to involve Chinese tech giant Huawei in the 5G project
+
+Boris Johnson insisted he would not do anything to 'imperil' relations with the US as he took PMQs today
+
+Defence Secretary Ben Wallace (pictured left arriving for the National Security Council meeting yesterday) is said to have urged the PM at a crunch National Security Council meeting to heed warnings from the US over the Chinese tech giant
+
+Why is Huawei's involvement in UK 5G controversial? Huawei has come under scrutiny over allegations of close ties to the Chinese state. Founder Ren Zhengfei's past links to the military have been cited as a concern, as has China's history of state sponsorship and surveillance. Chinese law can also compel firms to co-operate with Chinese national intelligence work, which some critics have suggested could see Beijing require Huawei to spy on people through so-called 'back doors' in its telecoms equipment. Huawei has vehemently denied the allegations of any ties with the Chinese state and says it abides by the laws of every country in which it operates.
+
+There have been warnings that intelligence-sharing could be at risk, although the government insists there is no link between 5G and dissemination of classified material.
+
+Mr Johnson spoke to Donald Trump by telephone yesterday to explain the move in an attempt to defuse the row.
+
+And speaking to reporters en route to London, Mr Pompeo said: 'Our view of Huawei is putting it in your system creates real risk.'
+
+While urging the UK to 're-look' at the move, he did offer an apparent olive branch by suggesting there is an issue with a lack of competitors to Huawei on 5G technology - something the government has complained about.
+
+'There is also a chance for the United Kingdom to re-look at this as implementation moves forward and then it's important for everyone to know there is also real work being done by lots of private companies inside the United States and in Europe to make sure that there are true competitors to Huawei,' he said.
+
+'We will make sure that when American information passes across a network we are confident that that network is a trusted one.
+
+'We'll work with the United Kingdom. We were urging them to make a decision that was different than the one they made and we'll have a conversation about how to proceed.'
+
+Former Cabinet minister Damian Green warned this morning that Mr Johnson could face a damaging Commons revolt on the issue - despite his huge 80-strong majority.
+
+Pointing out that a slew of Tory MPs criticised the decision during a debate yesterday, Mr Green told BBC Radio 4's Today programme: 'One of the things that that frankly surprised me was the breadth of the opposition to the current stance of the government on the Conservative back benches.
+
+'We don't know yet, when push comes to shove and votes happen, how many people will actually put their heads above the parapet. But certainly it's very widespread.'
+
+With Washington focused on the unveiling of the president's Middle East peace plan, the official response to the news from London was muted.
+
+However a series of senior congressional figures spoke out to condemn the move - warning it could damage Boris Johnson's hopes of a swift, post-Brexit trade deal.
+
+Senator Lindsey Graham, a strong supporter of the president, said he was 'very concerned' and urged the UK to think again.
+
+'This decision has the potential to jeopardise US-UK intelligence sharing agreements and could greatly complicate a US-UK free trade agreement,' he tweeted.
+
+'I hope the British government will reconsider its decision.'
+
+Restrictions being placed by ministers on 'high-risk' 5G vendors The advice being issued to UK telecoms operators is that 'high-risk vendors' should be: Excluded from all safety related and safety critical networks in critical national infrastructure
+
+Excluded from security critical 'core' functions, the sensitive part of the network
+
+Excluded from sensitive geographic locations, such as nuclear sites and military bases
+
+Limited to a minority presence of no more than 35 per cent in the periphery of the network, known as the access network, which connect devices and equipment to mobile phone masts
+
+Senator Mitt Romney, a former Republican presidential candidate, described the decision as 'disconcerting'.
+
+'By prioritising costs, the UK is sacrificing national security and inviting the Chinese Communist Party's surveillance state in. I implore our British allies to reverse their decision,' he said.
+
+Senator Tom Cotton, a member of the Senate intelligence committee called for a 'thorough review' of intelligence sharing arrangements with the UK.
+
+'I fear London has freed itself from Brussels only to cede sovereignty to Beijing,' he said.
+
+'Allowing Huawei to the build the UK's 5G networks today is like allowing the KGB to build its telephone network during the Cold War.'
+
+However, Culture Secretary Baroness Morgan said Britain's use of Huawei equipment in its 4G network meant the UK was better placed than others to monitor possible spying by China within the 5G network roll-out.
+
+The Cabinet minister told BBC Breakfast: 'We've had conversations with our other allies around the world to make absolutely clear that yesterday's decision in no way affects the ability for the UK to share classified data with our allies and partners, including the US.
+
+Mr Johnson called Donald Trump (pictured in Washington last night) to explain the Huawei decision, but the White House made clear it was 'disappointed'
+
+'But the US start from a different position from us because they haven't had Huawei in their 4G networks.
+
+'We've got that expertise, we've had the oversight of Huawei for quite a number of years now, which gives our agencies the ability to give reassurance that having them involved in the periphery of the network does not present the security challenge I think others are worried about.'
+
+The 'ultra-secretive cell' in Banbury where British spies decided it was safe to open up the UK 5G network to China It's totally tip-top secret - right up to the massive sign on the front that announces the presence of the Huawei Cyber Security Evaluation Centre (HCSEC) It could be the home of a real-life Wernham Hogg, the fictional firm in Ricky Gervais's hit comedy The Office. The nondescript unit is in an 'office village' on the outskirts of the Oxfordshire town of Banbury, close to the M40 motorway and in the shadow of an enormous Amazon warehouse shipping goods around the UK. But in fact this is the home of a secret operation nicknamed 'The Cell', tasked with making sure that Chinese tech giant Huawei isn't helping the Communist state to spy on Britain. And it's totally tip-top secret - right up to the massive sign on the front that announces the presence of the Huawei Cyber Security Evaluation Centre (HCSEC). It is immediately visible to anyone wandering past - admittedly probably not that many - but also to millions via Google Street View. Part of the National Cyber Security Centre (NCSC), this is where spooks decided that Huawei could be allowed to take part in the UK's 5G network, a decision that has angered Washington and Tory back-benchers alike.
+
+Mr Pompeo's two-day visit - during which he will meet Mr Johnson and Dominic Raab - is likely to offer the first real indication of the extent of any damage to the so-called special relationship.
+
+The US administration has consistently argued that giving Huawei a role in 5G could allow the Chinese a 'back door' into the telecoms network through which they could carry out espionage or cyber attacks.
+
+President Trump raised the issue personally with Mr Johnson at December's meeting of Nato leaders in London while a high-level delegation was dispatched from Washington earlier this month in a last ditch attempt to persuade ministers not to go ahead.
+
+The Government has acknowledged Huawei is a 'high risk vendor' but argues that by banning it from the most sensitive elements of the network and restricting its involvement to 35 per cent, it can manage the risks.
+
+The clash comes at sensitive moment in US-UK relations - just as Mr Johnson is hoping to make rapid progress on a trade deal.
+
+The US has already threatened to retaliate with tariffs on the UK car industry, if the Government goes ahead with a planned tax on big tech companies.
+
+The two countries are also at odds over the Iran nuclear deal and the refusal of the US to extradite the wife of an American intelligence official charged with causing the death of 19-year-old motorcyclist Harry Dunn.
+
+Meanwhile Mr Johnson is facing a backlash at home from Tory MPs fiercely opposed to the Huawei decision, including former leader Sir Iain Duncan Smith and ex-Brexit secretary David Davis.
+
+Ministers have said they will legislate at the 'earliest opportunity' to put the new guidance on telecoms providers into law, opening up the prospect of a potentially damaging Commons revolt.
+
+Mr Johnson however appears to have concluded that honouring his general election pledge to 'level up' the 'left behind' areas of the country must be the priority.
+
+Rolling out 5G across the country is regarded as key to improving economic performance and excluding Huawei would mean delays and higher costs.
+
+What is 5G, why do we need it... and can we trust the Chinese to build it? ROSS CLARK analyses the controversial impending tech deal with Huawei
+
+By Ross Clark for the Daily Mail
+
+What is 5G?
+
+5G is the 'fifth generation' upgrade to mobile telecommunications. It does not consist of a single new operating system but a 'system of systems' that will so dramatically increase data speeds you'll be able to download a movie in just three seconds. It will also increase internet capacity a thousand-fold when it's fully operational.
+
+What is the difference between 4G and 5G?
+
+4G, like all the 'G's before it, is principally designed for smartphone browsing. But 5G is far more ambitious, linking together all kinds of devices, from household appliances such as fridges and washing machines to cars and electricity meters.
+
+It is supposed to create what has been termed the 'internet of things', where everything we use in our day-to-day lives can be controlled remotely.
+
+For example, you could use the 5G network to control your washing machine from the other side of the world.
+
+It could also speed up the development of driverless cars by allowing vehicles to interact with each other.
+
+Why do we need it?
+
+In its strategy document for 5G roll-out, published in 2017, the Government predicted that global data traffic would grow from 3.7 exabytes (3.7 billion billion bytes of information, where one byte is equivalent to a short email) in 2015 to 30.6 exabytes in 2020.
+
+That's the same as if the number of passengers on London's Tube network grew by 53 per cent every year. Without an upgrade, existing systems face being overloaded.
+
+But there are also government policies which are dependent on 5G. If we are to reach net zero carbon emissions by 2050 – the ambitious target unveiled by outgoing Prime Minister Theresa May last summer.
+
+For example, we will need to make much smarter use of the electricity grid.
+
+The 5G network would allow appliances like fridges and electric car chargers to switch in and out of the grid when needed.
+
+Are there risks?
+
+Yes. An 'internet of things', where every appliance is inter-connected, provides new opportunities for hackers to interfere with electronic systems.
+
+They could potentially seize control of vehicles and cause them to crash, or hack smart door locks to gain entry to a house.
+
+Hostile nations could exploit 5G to try to disrupt our utility supplies, nuclear plants or airports. There are also serious privacy issues as 5G will make it easier for governments and corporations to track our lives one click at a time.
+
+But there are also advantages – 5G networks involve far more secure data encryption.
+
+So while there will be more appliances for hackers to target, doing so won't be easy.
+
+What's the problem with Huawei?
+
+Whoever builds the 5G grid, or supplies equipment for it, could potentially plant bugs to allow interference with the network or enable mass surveillance by accessing data.
+
+Huawei has repeatedly denied that it is an arm of the Chinese state, but as a Chinese company it is vulnerable to the control of a dictatorship with an appalling human rights record.
+
+We wouldn't allow a Chinese company to supply fighter jets for the RAF, goes the argument, and therefore we shouldn't allow one to supply vital communications infrastructure.
+
+Former national security adviser Lord Ricketts has dismissed the fears, however, saying: 'I personally think we can find a solution which does allow them to have some role.'
+
+Another serious concern is what it would mean for Britain's role within the 'Five Eyes' network of security partners – the US, Australia, Canada, New Zealand and Britain – who exchange intelligence. Canada has yet to make a decision, while New Zealand initially stopped Huawei providing 5G equipment but has since said it has not imposed a complete ban.
+
+Why is the US worried?
+
+Donald Trump doesn't trust Huawei to build even the smallest part of our 5G network and the US has warned that it might be reluctant to share intelligence with the UK if we employ the Chinese company – although MI5 chief Andrew Parker recently claimed that this is an unlikely consequence.
+
+Some have argued that the US is only saying this as a protectionist ruse in its trade war with China.
+
+But that doesn't explain why Australia, too, has banned Huawei from building its own 5G network.
+
+The chair of Australia's intelligence and security committee, Andrew Hastie, claims it is a question of 'digital sovereignty', while his colleague James Paterson points out: 'Successive Australian governments banned Huawei from our broadband and 5G networks with very little controversy.'
+
+In any case, no US company currently makes 5G network equipment. Instead, the US is considering subsidising Swedish firm Ericsson and Finnish company Nokia in order to help develop its own 5G network.
+
+In the US T-Mobile has already switched on a slower version of its 5G network, claiming it covers 200 million people.
+
+What about our other allies?
+
+German Chancellor Angela Merkel is reluctant to ban Huawei, fearing retaliation against German companies exporting to China.
+
+France, too, has said it will allow Huawei to build parts of its 5G network.
+
+Isn't Huawei already involved?
+
+Under Theresa May's premiership, the Government announced that Huawei would be allowed to provide equipment for the periphery of the 5G network, such as masts, but not the control systems at the core of the network.
+
+These security services claim that the risk to 5G from using a Chinese supplier is manageable.
+
+But one complication is that our existing 3G and 4G telecoms networks already contain equipment manufactured by Huawei.
+
+In 2005, for example, BT signed a contract with Huawei that allowed it to connect customer lines to the main part of the network.
+
+Does 5G have to include Huawei?
+
+Our government claims that Huawei has such a technological head-start in creating 5G equipment that shunning it would delay the introduction and increase costs.
+
+Alternative, though significantly more expensive, suppliers are ZTE, which is owned by the Chinese government, Ericsson, Nokia, Samsung (South Korean) and Viettel (owned by the Vietnamese military).
+
+The cost to the Government of Huawei's input into 5G is unknown, as is the time frame.
+
+Restricting Huawei's involvement would delay the launch of 5G by up to two years and cost the economy between £4.5billion and £6.6billion, according to a 2019 report by the telecoms industry body, Mobile UK.
+
+What is the most likely outcome?
+
+The Government is most likely to stick to its existing policy, which is to allow Huawei to build communication towers and other peripheral equipment for the 5G network but ban it from the core parts of the network.
+
+There may also be measures to reduce future reliance on China by imposing a cap on Huawei's share of the market.
+
+What are our alternatives?
+
+We could upgrade the existing 4G network which would give extra capacity for now.
+
+But in the long run it would lead to Britain lagging behind in telecommunicat

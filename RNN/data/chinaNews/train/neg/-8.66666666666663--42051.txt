@@ -1,0 +1,15 @@
+On Thursday, as coronavirus infections spread, the World Health Organization classified the outbreak as a global emergency. On Friday, United States officials placed 195 people in a two-week federal quarantine at a California military base after evacuating them from Wuhan, China. Amid international efforts to contain transmission of the virus, online scammers have already begun exploiting the uncertainty and fear.
+
+A sample phishing email from Tuesday, detected by security firm Mimecast, shows attackers disseminating malicious links and PDFs that claim to contain information on how to protect yourself from the spread of the disease. "Go through the attached document on safety measures regarding the spreading of corona virus," reads the message, which purports to come from a virologist. "This little measure can save you."
+
+Email scammers often try to elicit a sense of fear and urgency in victims. It's not surprising that they would attempt to incorporate the coronavirus into that playbook so quickly. But the move illustrates how phishing attempts so consistently hew to certain time-tested topics and themes.
+
+"Unfortunately we see this often in geopolitical events and world events," says Francis Gaffney, the director of threat intelligence at Mimecast. "This is when cybercriminals seek opportunities to use the confusion that vulnerable people have. They’ll click on links because they’re not sure."
+
+Courtesy of Pan Communications
+
+Attackers often tailor phishing scams to seasonal events like holidays or tax season in an attempt to capitalize on anxiety or eagerness. Different attackers will launch different variations of the same scam to steal login credentials, distribute spyware, or collect personal information from their victims. They'll also try to overtake legitimate email accounts and target a specific group. If an attachment appears to come from a colleague, you're that much more likely to open it.
+
+The success rate of seasonally themed phishing emails pales in comparison, though, to those pegged to a critical world event. People living through Brexit uncertainty or a natural disaster have disproportionate questions and concerns. Attackers can exploit those fears and doubts by suggesting they have answers.
+
+Very recent history bears that out. In the beginning of January, as tensions escalated between the United States and Iran, scammers sent SMS text messages with malicious links claiming that recipients had been chosen for a US military draft. US Army Recruiting Command, which does not initiate or manage drafts, issued a statement debunking the false texts. And the Selective Service System warned about fraudulent websites that urged victims "register" for the draft and pay a "fee." The specifics of the ploys varied, but all fed on the same anxieties, attempting to trick young people into entering their information into a form and sending money directly to scammers.

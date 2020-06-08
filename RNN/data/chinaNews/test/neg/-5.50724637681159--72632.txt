@@ -1,0 +1,55 @@
+Key point: Despite Beijing's claims, it is likely still a ways away from building a really good laser rifle.
+
+Stephen Chen caused a minor media sensation on July 1 when he wrote about a new Chinese laser rifle for the South China Morning Post.
+
+Since the 1990s, China has developed a slew of fantastical looking laser small arms. Benefiting from over $300 million in funding from Beijing in 2015, Chinese companies recently developed a new sleeker generation of weapons, most of which are designed to temporarily blind human beings and damage sensitive electronic sensors.
+
+However, according to Chen, the ZKZM-500, developed by the Xi’an Institute of Optics and Precision Mechanics is far more powerful than earlier weapons and supposedly can inflict painful burns on exposed skin (instant carbonization) which leaves “permanent” and “horrid” scars.
+
+This laser “assault rifle”—which resembles a bulky sci-fi blaster with a giant camera lens—reportedly weighs 6.6 pounds, fires a fifteen millimeter diameter laser, and has a lithium-ion battery capable of firing one thousand two-second shots. Furthermore, the laser supposedly has a range of eight hundred meters, which is on the upper end for man-portable laser weapons.
+
+Chen further quotes an expert claiming it can “burn through a gas tank and ignite the fuel storage facility of a military airport.” So imagine a less deadly version of Star Wars blasters that inflict nasty burns—but without the cool special effects, as lasers produce no sound and military types are usually invisible. The ZKZM-500 is reportedly ready for mass production, with sales exclusively to police or military units at the equivalent of $15,000 per unit.
+
+Notably, however, there are no details as to its power output. Initially, there were also no demonstration videos of it being fired. However, on July 4 the manufactures released to SCMP a video of laser test in May that showed a ZKZM-500 apparently burning through cardboard on a rooftop in Shaanxi from dozens of meters away. A tire, a piece of bacon, and a t-shirt are also set on fire—presumably from a similar distance, thought that cannot be verified from the footage. It is also unclear how long it took to achieve these effects.
+
+In this second article, the manufacturer claims that ZKZM-500 does not require range adjustments and focusing like other laser weapons do, and that the rifle will be developed into a laser cannon capable of destroying drones from kilometers away.
+
+Is the ZKZM-500 Really That Powerful?
+
+Most analysts have expressed skepticism about the claimed performance parameters. Quite simply, a laser powerful enough to cause significant heat damage to most nonoptical materials requires a great deal of electricity, and thus very heavy batteries—on the order of dozens or hundreds of pounds. For this reason, various anti-drone and anti-missile laser weapons being developed by the United States and China are mounted on vehicles or fixed sites.
+
+Many earlier Chinese blinding lasers guns weigh up to twice as much as the ZKZM-500 while claiming to have lesser destructive impact and range. Obviously, the Xi’an institute may have made a technical breakthrough, but a thousand-meter range, gas-tank piercing ZKZM-500 that weighs only seven pounds seems to strain credibility compared to earlier lasers.
+
+Are there any ways to reconcile the claims, and what appears to occur in the test video, with what seems technically feasible?
+
+That the rooftop laser demonstration appears to have occurred at below one hundred meters range may support the notion that the ZKZM-500 is capable of inducing painful burns or heat combustion of certain materials at short distances—but it would likely produce more limited effects up to the claimed one thousand meter range. This is because lasers lose coherence (or “bloom”) over distance due to intervening atmospheric particles, which is why weather conditions also have a major impact on laser performance.
+
+As for the battery-weight issue, in the July 4 video there is no clear footage of how the gun is being held or mounted. This invites speculation that the six-pound gun could be connected to a heavier separate powerpack or an outlet to achieve the necessary output for the carbonization-level attacks. Obviously, this would limit the rifle’s use in mobile operations.
+
+Critics have also brought up safety concerns, including the likelihood of intense heat buildup from such an ostensibly powerful laser, and the potential effects of a catastrophic failure on the user.
+
+Would Such a Weapon Be Legal?
+
+Protocol IV of the Geneva Convention on Certain Conventional Weapons states that laser weapons cannot be used with the intention of permanently blinding human beings. This protocol came into effect in 1998 and has over a hundred signatories including China and the United States. Because nearly any laser that can have deadly anti-personnel effects could also cause permanent blindness, Protocol IV is generally interpreted around the world as a ban on designing and employing lasers intended specifically as lethal anti-personnel weapons, though the SCMP article emphasizes that they are not explicitly banned.
+
+As it stands, the Protocol does have significant significant exceptions: lasers can be used to target optical systems and vehicles, or they can be used to inflict temporary blindness. U.S. troops have used lasers to briefly blind drivers approaching checkpoints in Iraq; and the laser on, say, a Type 99 tank or an AC-130 gunship may be used to destroy a tank’s optics or a truck’s engine block, even if that indirectly damages a crewmember’s eyes.
+
+Nonetheless, it follows that if the ZKZM-500 is powerful enough to burn through skin and clothing and leave permanent scars, it would be capable of inflicting permanent blindness. Descriptions along the lines of “the pain will be beyond endurance” suggest applications not likely to conform to international human rights law in the Convention on Certain Conventional Weapons.
+
+As the weapon is being produced foremost for the Chinese Civil Police, and the article cites a Chinese government document foreseeing using laser rifles against “terrorists” and “protesters,” not, say, drones or tank optics—it seems indisputable that the ZKZM-500 is marketed specifically to target human beings. Though officially nonlethal, if the weapon is designed for use against humans and inflicts permanent, painful injuries which could include blindness, it arguably violates the protocol.
+
+Is a Laser Rifle Useful Militarily? Or This Really a Police Weapon for Use Against Protesters?
+
+Tactically, an anti-material laser rifle would interest special forces operators because they are silent, invisible and can be fired through windows, thus offering potential for stealthy and precise sabotage. Human beings, of course, will notice if they are having holes burned into them, but appropriately calibrated lasers might be used for non-lethal incapacitation effects.
+
+However, for most laser small arms, the primary applications remain blinding advanced, and very expensive, sensors on vehicles—as well as their operators. In 2018 the Chinese military apparently began using lasers to harass U.S. military pilots both over Africa and the waters of the Pacific—in at least one instance, causing lasting eye injuries to two transport pilots.
+
+However, in my earlier piece on Chinese laser I remarked “One is tempted to see a running thread in many of the Chinese police laser guns would be their application against protesters and rioters.” Lo-and-behold, the SCMP article describes a Chinese government document detailing the applications of lasers which specifically mentions setting protest banners on fire and lighting up protesters’ clothing or hair so they “lose . . . their power of persuasion.”
+
+Protests over local grievances are actually common in China. However, the Chinese Communist Party’s nightmare, however, are large-scale protests which could destabilize its hold on power, as the Tiananmen Square protests in 1989 (the June 4 incident) threatened to. Large-scale unrest involving Uighur or Tibetan ethnic minorities have also been dealt with using military force.
+
+China hardly has a monopoly on excessive employment of force and technology in the face of civil unrest, and admittedly lasers are not nearly as deadly as existing kinetic technologies. Nonetheless, there should be a collective interest in preventing the proliferation of portable laser weapons which could be used to inflict unnecessarily painful, long-lasting injuries or commit clandestine acts of sabotage and harassment.
+
+Sébastien Roblin holds a Master’s Degree in Conflict Resolution from Georgetown University and served as a university instructor for the Peace Corps in China. He has also worked in education, editing, and refugee resettlement in France and the United States. He currently writes on security and military history for War Is Boring. This first appeared in July 2018.
+
+Image: Creative Commons.

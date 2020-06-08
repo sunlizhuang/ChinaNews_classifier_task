@@ -1,0 +1,27 @@
+Antibiotics obtained easily without prescription in China, study finds
+
+Medical students posing as patients were able to obtain antibiotics without a prescription in 84% of Chinese retail pharmacies, Chinese researchers reported today in Antimicrobial Resistance and Infection Control.
+
+For the cross-sectional survey, pairs of undergraduate medical students were sent to pharmacies in 13 provinces representing all three regions of China. The students were instructed to tell pharmacists they had a sore throat and a headache, then request antibiotics, following a three-step protocol in which the request became increasingly specific when antibiotics were not offered. They then recorded whether they were offered antibiotics, and at which step, along with the characteristics of the pharmacy and other details of their experience.
+
+Overall, the students visited 1,106 pharmacies and obtained antibiotics without a prescription in 925 (83.6%; 95% confidence interval [CI], 81.5% to 85.8%). In 279 (25.2%) of the pharmacies, antibiotics were obtained at step 1, in which the students described their symptoms. More than half of the pharmacies (576, 52.1%) gave out antibiotics at step 2, when the students asked for antibiotics, and 70 (6.3%) gave out antibiotics when students specifically asked for penicillin or cephalosporins.
+
+There were significant differences between provinces, with antibiotic access (at any stage) ranging from 57.0% (57/100) in Zhejiang (81/82) to 98.8% in Guizhou. However, there were no significant differences in access to antibiotics by level of city, county, township, or village (P = 0.25), whether the pharmacy was part of a chain or independent (P = 0.23), whether a licensed pharmacist was attending (P = 0.82) or whether there was a sign saying that prescriptions were required for antibiotics (P = 0.19).
+
+Noting that previous studies have documented the ease of obtaining antibiotics from Chinese retail pharmacies, the authors of the study say these results are further evidence that little progress has been made toward the Chinese government's goal of prescription-only antibiotics by 2020. One study published in October 2019 found that 70% of patients reporting upper respiratory tract symptoms received antibiotics in Chinese pharmacies across six provinces.
+
+"The very easy access to antibiotics in retail pharmacies in China needs to be addressed as a matter of urgency," the authors conclude. "This should be part of the wider anti-microbial stewardship effort."
+
+Jan 15 Antimicrob Resist Infect Control study
+
+Oct 7, 2019, CIDRAP News story on previous study
+
+Study finds high rates of antimicrobial use in animals, people in Vietnam
+
+Total antimicrobial usage in humans and animals in Vietnam reaches an estimated 3,842 tons a year, with usage in pigs far outpacing usage in people, according to a separate study yesterday in Antimicrobial Resistance and Infection Control.
+
+The investigators used 2015 data to come up with their estimates. Of the 3,842 tons of antimicrobials used that year, 2,741 tons (71.7%) were used in animals and 1,086 tons (28.3%) in humans. The greatest use was in pigs (41.7% of the total), people (28.3%), aquaculture (21.9%), and chickens (4.8%).
+
+Per kilogram of body weight, the results were similar: 261.7 milligrams (mg) of antimicrobials per kilogram (kg) in humans and 247.3 mg/kg in animals. That compares with 122.0 mg/kg in people and 151.1 mg/kg in Europe, the authors noted. They add that their data can help refine policies and interventions aimed at reducing antibiotic use in Vietnam.
+
+Jan 14 Antimicrob Resist Infect Control study

@@ -1,0 +1,61 @@
+DARPA Aims To Have Coronavirus Therapy Shortly After Outbreak's Start
+
+The Defense Advanced Research Projects Agency supports a pandemic preparedness program that is designed to respond rapidly to an emerging threat such as the coronavirus.
+
+RACHEL MARTIN, HOST:
+
+More disturbing numbers about the coronavirus. Today, China's National Health Commission disclosed that 1,700 medical workers are among those who've contracted the disease, which is now known as COVID-19. Six of those workers have died. They're among the more than 5,000 new coronavirus cases reported in just the past 24 hours. Labs all over the world are racing to design diagnostic tests, vaccines, new therapies all to deal with the virus. NPR's Joe Palca is here to talk about a promising pilot program happening here in the U.S. Hi, Joe.
+
+JOE PALCA, BYLINE: Hi there.
+
+MARTIN: What is it? What's the effort? Who's behind it?
+
+PALCA: Well, it's an effort called the Pandemic Prevention Platform - or P3. And it's funded by the Defense Advanced Research Agency - Defense Advanced Research Projects Agency, which does some really cool, cutting-edge stuff in science for the Defense Department and everybody else, as it happens. It's a four-year program. It started two years ago. And their idea is to be able to respond rapidly to an emerging threat, whether it's COVID-19 or something else. Amy Jenkins runs the program for DARPA.
+
+AMY JENKINS: We envision the P3 platform actually functioning as a firebreak in the instance that there's a pandemic outbreak.
+
+MARTIN: What does she mean by firebreak?
+
+PALCA: Well, it's something that will at least temporarily protect someone from contracting the virus before a vaccine is ready. It might be a stopgap therapy, even. And the department is interested because what if they have to deploy troops into an area where there is a pandemic going on, and they want their troops to get there without being hurt?
+
+MARTIN: Right.
+
+PALCA: And even if there were a vaccine, you get a vaccine - it takes a couple weeks to develop immunity. So they want something to work right away. But this is temporary. It would only last for about six months.
+
+MARTIN: So I know it's complicated, but can you explain how this temporary solution, the P3 platform, works?
+
+PALCA: It has two basic parts. The first is to identify antibodies. So those are the things that our immune system use to fight disease. They're going to try and get antibodies from people who've been infected with COVID-19 and recovered.
+
+MARTIN: OK.
+
+PALCA: So they can fish those out of people's plasma, their blood. And then they're going to - that usually - that takes some time, but they're trying to shorten that period to three weeks. And then they're trying to develop a drug that can be used based on these antibodies. Now, typically, when you make a drug like that, you make them in these big bioreactors, but they're going to try something different. They're going to try and just take the genetic material that codes for these antibodies and put that into people and let the people's own cells make the antibody. So the people become the bioreactors, so to speak.
+
+MARTIN: But how long does all that take? Is any of this going to make a difference for people who are suffering from the coronavirus?
+
+PALCA: Well, I put that question to DARPA's Amy Jenkins.
+
+JENKINS: This technology could be used in this current coronavirus. I will caveat that. But this is still a very early technology. It has, yes, been in human clinical studies, but it has not been in thousands of patients. It's been in tens of patients.
+
+MARTIN: So, again, what does that mean about the timeline?
+
+PALCA: Well, it means she thinks that there might be something ready in as soon as 90 days. But we'll see.
+
+MARTIN: Do scientists really think that this can work, Joe?
+
+PALCA: Well, the ones I talked to seem to think there's reason to believe that. Margaret Kielian is a professor of cell biology at Albert Einstein College of Medicine.
+
+MARGARET KIELIAN: Obviously, something very much in development, but I think the strategy and the basic idea is sound.
+
+PALCA: So, I mean, the idea is, yeah, it's experimental. It's cutting-edge. It's new. But there's...
+
+MARTIN: It's something.
+
+PALCA: It's something. I was actually - when I came across this, I was pretty surprised that it even existed. But, apparently, it does. And they're confident. Who knows?
+
+MARTIN: OK. Well, worth watching. NPR's Joe Palca, thank you. We appreciate it.
+
+PALCA: You're welcome.
+
+Copyright © 2020 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.

@@ -1,0 +1,57 @@
+Credit: Andre M. Chang/Zuma Press/PA Images
+
+The government has approved the use of technology from vendor Huawei in the construction of the UK’s 5G network.
+
+The formal announcement comes 14 months after the government kicked off the Telecoms Supply Chain review, and nine months after then-prime minister Theresa May was understood have given her approval for the use of Huawei kit in so-called non-core parts of the next-generation network.
+
+That approval has now, effectively, been ratified.
+
+Further details have also been provided on exactly what restrictions are to be placed on Huawei.
+
+"High-risk vendors never have been and never will be in our most sensitive networks."
+
+Digital secretary, Nicky Morgan
+
+These include excluding the vendor’s technology from “all safety-related and safety-critical networks in critical national infrastructure”, as well as from “security-critical core functions” that the government said represent the “sensitive part of the network”.
+
+The Chinese vendor will also be barred from installing kit in “sensitive geographic locations”, including those close to military bases or nuclear facilities.
+
+Its technology will not be allowed to constitute a cumulative total of more than 35% of “the access network, which connects devices and equipment to mobile phone masts”. Government characterised this as the “periphery” of the 5G network. The percentage threshold will also be periodically reviewed – and may even be reduced, “as the market diversifies”.
+
+The decision and the conditions placed on Huawei were informed by advice from the National Cyber Security Centre, which has also provided advice for the telecoms operators that will work with Huawei and any other “high-risk” vendors of network hardware.
+
+The government said that it will, “at the earliest opportunity”, look to pass legislation enshrining in law the security framework, which was announced yesterday.
+
+It claimed that the measures being introduced represent “the most stringent set of controls ever” applied to telecoms networks.
+
+“The government is certain that these measures, taken together, will allow us to mitigate the potential risk posed by the supply chain and to combat the range of threats, whether cyber criminals, or state sponsored attacks,” it added.
+
+Digital secretary Nicky Morgan said that following the review “we can now move forward and seize the huge opportunities of 21st-centurt technologies”.
+
+“We want world-class connectivity as soon as possible but this must not be at the expense of our national security,” she added. “High-risk vendors never have been and never will be in our most sensitive networks. The government has reviewed the supply chain for telecoms networks and concluded today it is necessary to have tight restrictions on the presence of high-risk vendors. This is a UK-specific solution for UK-specific reasons and the decision deals with the challenges we face right now. It not only paves the way for secure and resilient networks, with our sovereignty over data protected, but it also builds on our strategy to develop a diversity of suppliers.”
+
+Huawei is not actually mentioned by name anywhere in the government announcement, which refers only to “high-risk vendors”.
+
+But the significance of the decision is clear, and Huawei’s vice president Victor Zhang said that the company is “reassured by the UK government’s confirmation that we can continue working with our customers to keep the 5G rollout on track”.
+
+“This evidence-based decision will result in a more advanced, more secure and more cost-effective telecoms infrastructure that is fit for the future,” he added. “We have supplied cutting-edge technology to telecoms operators in the UK for more than 15 years. We will build on this strong track record, supporting our customers as they invest in their 5G networks, boosting economic growth and helping the UK to compete globally.
+
+“We agree a diverse vendor market and fair competition are essential for network reliability and innovation, as well as ensuring consumers have access to the best possible technology.”
+
+'Concern from all sides'
+
+Despite the government finally reaching a decision, today’s news is unlikely to be the final word on the subject.
+
+Representatives from the US and Australian governments – which, along with other countries including Japan, Czechia and New Zealand, have permanently or temporarily banned Huawei from their 5G network – have expressed their wish for the UK to follow this lead.
+
+The decision not to do so could put strain on the Five Eyes intelligence alliance, which supports information sharing and cooperation between the UK, Australia, New Zealand, the US, and Canada – the only country of the five which is yet to decide whether to admit Huawei to its 5G network.
+
+US government sources have also previously indicated that the UK welcoming Huawei into its network could have repercussions for post-Brexit trade deals between the two nations.
+
+"We agree a diverse vendor market and fair competition are essential for network reliability and innovation."
+
+Victor Zhang, Huawei
+
+There has also been significant resistance to the Chinese vendor from within parliament from MPs, with Conservatives parliamentarian for the Isle of Wight Bob Seely saying there is "overwhelming concern from all sides of the house. Quite clear that positive Huawei decision would fly in the face of common sense.”
+
+Other Tories to have openly voiced opposition include David Davis and Tom Tugendhat. It has also been reported that cabinet members, including home secretary Priti Patel and defence secretary Ben Wallace have strong concerns.

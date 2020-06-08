@@ -1,0 +1,37 @@
+The AMD Nano series of cards was an awesome idea for powerful SFF gaming PCs and we got to see at least one product based on the design as the Radeon R9 Nano. As a successor, the Radeon RX Vega Nano was teased all the way back in 2017 with the only working sample being handed out to Tim Sweeny of EPIC Games at their Vega press event, but the card was never in action ever again. However, after 3 years, a Chinese modder over at Chiphell forums has recreated a fully functional Radeon RX Vega Nano that sticks true to the original design that AMD had planned.
+
+Modder Brings Radeon RX Vega Nano To Life 3 Years After Its Unveiling - An Elegant Graphics Cards For SFF PC Gaming Powerhouses
+
+Back when Fiji GPUs were announced, AMD wanted to take advantage of the smaller footprint of PCBs that HBM allowed for and the result of it was the first Nano card, the Radeon R9 Nano. The card featured enthusiast levels of performance, packing in top-notch specifications into a tiny package, running quietly and very efficiently too. Its follow up was to be based on the Vega 64 GPU which would be the flagship enthusiast chip for gamers and was teased by AMD's ex-marketing guru, Chris Hook.
+
+Dell’s New XPS Desktops Feature Intel’s 10th Generation CPUs
+
+However, there was no word on the RX Vega Nano release even after the Vega 64 and Vega 56 had launched, which meant that the last time we would officially get a look at the RX Vega Nano would be AMD's Capsaicin Siggraph event (2017). A year later, at Computex 2018, AMD did announce the Radeon RX Vega 56 Nano but that was a custom design made by the AIB partner PowerColor. The chip featured was also not the Vega 64 SKU but the Vega 56 SKU. The card did offer a small form factor, but had a slightly larger heatsink than what the Nano was originally shown to offer. Also, the design aesthetics of AMD's reference Radeon design were missing on the card.
+
+But since Fiji and Vega, AMD has moved on to traditional GDDR memory designs due to cost and supply constraints for the higher-end HBM2 stacks which are now limited to HPC/AI parts. It has been 5 years since the last official Nano card's release but while there has been no confirmation of a new Nano card, there are fans in the SFF PC Gaming segment who still find that product very impressive on its own. As such, a Chinese modder has taken upon the task himself to create his very own and fully functional RX Vega Nano graphics card.
+
+The modding work done may look very simple but in fact, it requires some effort. The first obstacle in all of it was the PCB and the modder went with the XFX Radeon RX Vega 56 which like the variant from PowerColor and Sapphire, comes with the compact PCB design. The shroud is fully custom-made with a brushed aluminum design as the original variant and several fans were tested, even ASUS's dual-axial but the modder eventually settled for a regular 11 blade airflow fan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The card comes in a single-slot design but actually takes up two slots with its rather massive aluminum fin based heatsink. The most surprising addition to the card was the Radeon badge on the corner that was taken off a Vega Frontier Edition graphics card and a custom Radeon logo on the front of the card which is lit up with LEDs. It is also mentioned that the card sticks to under 80C under full load and the noise is lower than the R9 Nano.
+
+The modder states it took him 6 months to make this card a reality and it really is the only thing that comes close to the original RX Vega Nano design. With AMD launching their enthusiast Navi chips later this year, we can expect an HBM VRAM powered GPU for enthusiast gamers which would once again allow AMD to develop a true Nano graphics card for SFF PC enthusiasts!
+
+Would you like to see a new Radeon Nano graphics card based on Navi or next-gen GPU architecture? Yes, Nano graphics cards are awesome for SFF builders!
+
+No, they might sound cool but not of much practical use. View Results Poll Options are limited because JavaScript is disabled in your browser.
+
+Products mentioned in this post RX Vega 56
+
+The links above are affiliate links. As an Amazon Associate, Wccftech.com may earn from qualifying purchases.

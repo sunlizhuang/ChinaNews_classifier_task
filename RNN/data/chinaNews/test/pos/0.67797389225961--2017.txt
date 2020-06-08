@@ -1,0 +1,25 @@
+Autonomous vehicle startup AutoX, which is backed by Alibaba, said Tuesday that it is partnering with Fiat Chrysler to roll out a fleet of robotaxis for China and other countries in Asia.
+
+A fleet of Chrysler Pacifica vans is going to be in service to the public in China in early 2020, according to AutoX. Passengers will be able to call a robotaxi using a WeChat mini-program and other popular apps in China.
+
+The partnership is an important step for AutoX, which is developing a full self-driving stack. While AutoX has been operating robotaxi pilots in California and China, its real aim is to license its technology to companies that want to operate robotaxi fleets of their own.
+
+While the partnership might not be as critical to FCA, it would theoretically give the automaker access to a robotaxi platform that can operate in China, if it were to choose to make that move.
+
+AutoX, which is based in Hong Kong and San Jose, Calif., already tests in California and China. The company began offering public rides in downtown Shenzhen in early 2019, and in September partnered with Shanghai to launch 100 of its robotaxis to pilot a fleet there.
+
+AutoX CEO Jianxiong Xiao said the next challenge is to remove the safety driver and go truly driverless.
+
+“Getting hardware ready is a crucial step towards this goal,” he said. The partnership with FCA will help it get there, according to the company.
+
+“Achieving completely driverless operation needs a very reliable vehicle platform with full redundancy of the vehicle’s drive-by-wire system,” said Xiao. “This level of redundancy is still new and rare in the auto industry. The Chrysler Pacifica platform has proven trustworthy for driverless deployment.”
+
+AutoX is exhibiting the Chrysler Pacifica minivan at CES 2020. The vehicle is outfitted with an array of sensors.The hybrid vehicle now has 360 degrees of solid state lidar sensors, along with numerous high-definition cameras, blind spot lidar sensors and radar sensors. AutoX has tapped RoboSense and drone manufacturer DJI for its lidar sensors.
+
+The vehicle is also equipped with a vehicle control unit, called the XCU, that AutoX developed. The XCU, pictured below, powers and integrates the self-driving stack, including sensors like lidar and radar, into the vehicle. AutoX says its XCU has faster processing speed and more computational capability, making it ideal for the complex scenarios found in China’s cities.
+
+“There are a lot more cars, pedestrians, bikers, scooters, and moving objects on the street, many of which are not following the traffic rules,” COO Zhuo Li said in a statement. “Due to the fast development speeds in China, construction and reconstruction can happen overnight. The streets can look completely different in the morning, afternoon, and at night. This requires our system to process faster and extremely accurate to recognize and track each object to guarantee safety.”
+
+Meanwhile, FCA’s autonomy strategy has largely hinged on partnering with AV developers. In May 2016, Waymo and FCA announced a collaboration to produce about 100 Chrysler Pacifica Hybrid minivans integrated with Waymo’s self-driving system. And last year, FCA struck a deal with Aurora to develop self-driving commercial vehicles.
+
+Last year, AutoX announced a partnership with Swedish holding company and electric vehicle manufacturer NEVS to deploy a robotaxi pilot service in Europe by the end of 2020. It received permission from California regulators to transport passengers in its robotaxis (human safety driver required). AutoX is calling its California robotaxi service xTaxi.

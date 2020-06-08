@@ -1,0 +1,49 @@
+Supplier News
+
+13 January 2020
+
+Shanghai - CWT, the global B2B4E travel management specialist, announces the launch of its flagship platform, myCWT, in China - marking the latest milestone in its journey to simplify business travel for companies and their employees around the world. The launch makes CWT the first global travel management provider to deploy an omni-channel, open API-based platform that has been tailored for the specific needs of the China market.
+
+Advertisements
+
+"Our focus globally is to deliver the leading employee-grade business travel experience, and we have made significant investments in our myCWT platform to create a best-in-class proposition," said Kurt Ekert, CWT's President and CEO. "Given China's high-tech, mobile-oriented pace of life, we are excited to launch a digitally-driven customer experience here that helps clients and employees in this dynamic market achieve their true potential."
+
+Working with several specialized Chinese travel, technology and e-commerce partners, CWT has specifically adapted myCWT for deployment in China. It addresses the unique needs and nuances of the market - from content, to payments and integration capabilities - while maintaining a consistent user experience with CWT's global offer. Its open API architecture facilitates easy integration with third party applications and clients' internal systems, allowing CWT to provide a broad selection of products, services and content.
+
+"The myCWT platform in China has been purpose-built for this market, keeping in mind the priorities and expectations of our customers and their employees," said Albert Zhong, General Manager, China, CWT. "We want to ensure that we're offering a digital experience that is second to none. Combined with the deep expertise and servicing capabilities we have around the world, it makes us the perfect partner for fast-growing Chinese companies who are expanding their footprint overseas, and for global multinationals who need help managing their travel in China."
+
+"In 1996, CAS and CWT worked together to introduce the concept of managed corporate travel in China," said Qu Li, Board Chairman at China Air Service (CAS), CWT's joint venture partner in China. "Since then, we have continued to pioneer together, delivering several 'industry firsts'. The launch of the myCWT platform in China further reinforces our partnership and our commitment to elevating the business travel experience in this market."
+
+Highlights of myCWT in China include:
+
+(1) A truly omni-channel experience - In China, travelers and travel arrangers will be able to connect with CWT through multiple channels, including an H5 website [1], a mobile app, messaging (i.e. live chat), email and phone calls. They can initiate a booking through one touchpoint, and then pick up where they left off on another.
+
+They can also manage all aspects of their trip - from re-booking or making changes to cancelations and refunds, online check-in, seat selection for trains and flights, hotel room preferences and visa consultation services - or reach out for support, through any channel.
+
+In particular, special focus has been placed on creating an industry-leading digital experience, as a significant and growing percentage of bookings by CWT's customers in China are made using online and mobile channels.
+
+(2) More choices for travelers - The platform will offer extensive domestic and international travel content including flights, rail, hotels and ground transportation. In addition to using the global distribution systems (GDSs) like TravelSky, it will incorporate content from other sources such as aggregators by using API connections, giving travelers far more choices than was previously possible.
+
+For example, travelers will be able to book low-cost carriers (LCCs), ride-hailing services such as Didi, and even amenities like security fast-tracking and lounge access in airports and train stations.
+
+They will also have more than 800,000 business-appropriate accommodation options in 73,000 locations around the world, including 100,000 properties in China, via RoomIt, CWT's hotel distribution division.
+
+(3) A simplified booking process, from search to approvals and payments - The rapid expansion of China's high-speed rail network is making it an attractive option for business travelers. myCWT will allow travelers to compare flight and rail options for domestic journeys in a single view, including the cost and travel time, to make more informed decisions.
+
+Travel approvals, a common requirement by companies in China, can be requested via email, SMS, the mobile app or through API integration with companies' own internal approval systems.
+
+Multiple payment methods will be supported including WeChat Pay and AliPay, the two third-party payment providers which account for over 90% of mobile payments in the market, as well as credit cards and UATP lodge cards.
+
+(4) Integration with companies' internal systems - Using API connections, myCWT can be integrated with organizations' own internal management systems including expense and approvals, office automation (OA), business process management, HR and finance, and intranet, for greater efficiency and automatic synchronization.
+
+CWT is currently piloting myCWT with a few clients in China. A full roll-out will commence in Q2 2020, progressively replacing CWT Online, the current online booking tool and mobile app used by CWT's customers in China since 2012.
+
+[1] An H5 - or HTML 5 - website is one that is mobile-friendly and enables myCWT to be integrated into applications like WeChat, as well as clients' internal systems.
+
+About CWT
+
+CWT is a Business-to-Business-for-Employees (B2B4E) travel management platform. Companies and governments rely on us to keep their people connected - anywhere, anytime, anyhow - and across six continents, we provide their employees with innovative technology and an efficient, safe and secure travel experience. Every single day, we look after enough travelers to fill more than 100,000 hotel rooms, while our meetings and events division handles more than 100 events every 24 hours.
+
+CWT first entered China in 1996, with China Air Service (CAS) as its appointed partner. In 2003, CWT and CAS established a joint venture - CWT China - with 27 employees in Beijing. Today, CWT China employs more than 700 people in Beijing, Guangzhou, Meishan, Shanghai and Tianjin.
+
+Follow us on Facebook, LinkedIn, Twitter and WeChat (ID: CWTChina).

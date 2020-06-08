@@ -1,0 +1,23 @@
+Smartphone supply chains are very complicated things, and when there's a massive outbreak of a life-threatening virus, a lot of people and companies will prefer to err on the side of caution.
+
+While it's impossible to predict just how large of an impact the coronavirus outbreak will have on smartphone demand and production in the coming weeks, those two facts give reason to think that the situation will be messy in the near-term, as various parties quite understandably choose to play it safe.
+
+Apple (AAPL) , which relies on China for the lion's share of its hardware production and received 15% of its December quarter revenue from Mainland China, Hong Kong and Taiwan, definitely has its share of exposure. During Apple's Jan. 28 earnings call, CFO Luca Maestri noted that Apple's March quarter sales guidance takes coronavirus uncertainty into account, while Tim Cook added that Apple has begun limiting its China-related travel and that Chinese retail traffic has begun to be impacted.
+
+More recently, Apple announced that the reopening of recently-closed Chinese stores and offices, which was previously set for today, is being pushed back. Bloomberg observed (citing a review of Apple's Chinese websites) that most stores will remain closed until Feb. 15.
+
+Separately, Reuters reported on Sunday that top Apple contract manufacturer Foxconn got the go-ahead to re-open two major plants that were shut down due to the coronavirus. However, it added (citing a source) that only 10% of the workforce had returned as of the time of the article.
+
+For his part, well-connected Apple analyst Ming-Chi Kuo reported over the weekend that shutdowns are impacting both Foxconn's iPhone manufacturing plants and a Shanghai iPhone plant owned by contract manufacturer Pegatron. Kuo added that the resumption of work at the Pegatron plant was originally scheduled for today, but has been delayed by "at least several days."
+
+Apple is far from the only major smartphone industry firm to be impacted by the coronavirus outbreak. Over the last couple of weeks, we've also seen:
+
+Qualcomm (QCOM) attribute its wider-than-usual quarterly guidance to the coronavirus, while adding that there's "significant uncertainty" related to the outbreak's impact on both the supply chain and smartphone demand. Qualcomm rival MediaTek slightly lower its 2020 forecast for 5G phone sales due to the coronavirus. Samsung (SSNLF) temporarily shut down a flagship store in Shanghai, as well as offer $2.2 billion worth of loans to suppliers facing coronavirus-related issues. A host of major tech companies either pull out of or scale back their presence at the Mobile World Congress (MWC), which takes place in Barcelona in two weeks.
+
+Admittedly, there are some major companies with strong Chinese exposure that are humming along. Huawei reopened manufacturing plants a week ago, and some Chinese chip manufacturers have also announced that they continue to operate. Also, Taiwan Semiconductor (TSM) , which sees a large portion of chip output go to Chinese plants, has affirmed its Q1 sales guidance.
+
+But it's worth keeping in mind that making a smartphone requires contributions from dozens of parts suppliers, assemblers and manufacturers. If just a handful of these companies see their operations disrupted, it can throw a major wrench into production.
+
+And even if products end up being made, end-user sales take a hit to the extent that the coronavirus outbreak impacts purchasing activity among Chinese consumers and businesses. In a Monday note, Bernstein analyst Stacy Rasgon observed that China now accounts for about 30% of global semiconductor consumption and a quarter of all phone sales, to go with a majority of phone production.
+
+It's possible (and one can definitely hope) that a couple months from now, the worst of the coronavirus outbreak will be over, and it will be business as usual in China and elsewhere. But given what's known and what has been reported so far, investors should be ready to see some more negative headlines in the near-term.

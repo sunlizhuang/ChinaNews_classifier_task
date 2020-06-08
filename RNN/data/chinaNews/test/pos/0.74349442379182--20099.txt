@@ -1,0 +1,19 @@
+Paul van Gerven
+
+Whether ASML should be allowed to sell EUV scanners to China may be a geopolitical hot-button issue, the company itself is rather indifferent on it. Its scanners will sell out one way or another.
+
+Arguably, 2019 was an outstanding year for ASML. After two decades of development, EUV-made chips finally started powering electronic devices. The first full-fledged EUV scanners were shipped and EUV bookings now constitute half of ASML’s order book (in terms of dollars). The company grew 8 percent, despite the semiconductor equipment industry as a whole registering an overall decline of 10 percent. And net sales – yet again – set a record.
+
+None of this seemed of particular interest to the journalists who attended the annual results press conference on Wednesday. They made the trip to Veldhoven for one reason and one reason only: the US-Chinese power play over ASML’s EUV technology. With both the US and Chinese ambassador to the Netherlands weighing in, the issue has been dominating the news recently.
+
+CEO Peter Wennink was a good sport about it, though. None of the press material issued in advance mentioned the awkward circumstance the company finds itself in, and Wennink didn’t say anything about it during his presentation. But once the floor was opened to questions and the elephant in the room was addressed, he presented his arguments on why the issue doesn’t impact his company all that much – despite the involvement of two superpowers.
+
+“EUV is a driver of so many technologies that we can be sure there will be demand for the chips around the world. If for whatever reason we’re not allowed to sell EUV systems to China, another company will jump in to satisfy the demand. We’ll just ship to that company. It doesn’t matter to us where the chips are manufactured,” Wennink explained. In other words, ASML doesn’t expect to lose a single order. “Financially, the impact is zero.”
+
+Geopolitical arena
+
+Wennink stressed that the risk of the Chinese using an EUV system to steal the technology is nil. “We’re the only company in the world capable of making these systems. What do you think would happen if we catch them trying to copy it?” Wennink countered. The scanners themselves are well-protected, he assured, with ASML crews surrounding it 24/7 and sensors alerting Veldhoven even if someone removes a panel.
+
+Should the Chinese want to give it a try anyway: good luck to them. Wennink cited the (in high tech well-known) story of a Chinese university that took apart an ASML scanner years ago, copied every single part to assemble a new machine, yet never succeeded in getting it to work. “We’re a systems integrator in a collaborative knowledge network. Our knowledge is in the minds of people, not in patents.”
+
+So indeed, should the Dutch government OK the export license to China, ASML will be more than happy to ship the scanner. And if it shouldn’t, that’s fine too. In essence, Wennink tried to divert the spotlight away from his company and towards the geopolitical arena. Let governments worry about it, we have work to do.

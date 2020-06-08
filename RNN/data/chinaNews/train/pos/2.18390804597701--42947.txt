@@ -1,0 +1,51 @@
+Since the end of World War II, the United States has been an undisputed global leader in innovation. From putting a man on the moon to the “Traitorous Eight” of Fairchild and the birth of today’s Silicon Valley, the U.S. has been at the forefront of embracing emerging technology. This position has given the country a strategic advantage in dictating how technology is adopted and setting the basic standards for its use. However, as we enter the new decade, the U.S. is at risk of losing its place as the leading innovator to Asia, impacting our technological future significantly.
+
+The rise of China
+
+The largest competitor to the American innovation hegemony is China. Over the past few years, China has heavily focused on developing emerging technologies such as blockchain and AI. While PwC survey respondents viewed the U.S. as the most advanced territory developing blockchain today, they believe that in the next three to five years, the leader will be China.
+
+Over 500 projects have registered with China’s Cyberspace Administration since being required to do so this past January. There are nearly three times as many blockchain-related patents filed in China than the next closest country. China’s spending on blockchain technology will exceed $2 billion by 2023 according to a report from American market intelligence firm IDC. Even local governments are pledging funds to blockchain projects.
+
+A national priority
+
+All this activity and interest in blockchain technology has come about because the Chinese government openly supported it.
+
+Blockchain development became a national priority when it was included in the country’s “13th Five Year Plan” back in 2016. China President Xi Jinping reinforced its importance to the country’s future during a speech in late October of last year, stating:
+
+“We must take blockchain as an important breakthrough for independent innovation of core technologies, clarify the main directions, increase investment, focus on a number of key technologies, and accelerate the development of blockchain and industrial innovation.”
+
+He also stressed that “it is necessary to lead the standard setting and right to speak in the world.”
+
+“De-intermediarization”
+
+China is not known for little government oversight, and its approach towards blockchain is no different. A Chinese official even explained on state TV:
+
+“When talking about blockchain, many people are talking about ‘decentralization.’ I’d like to make a small change to the word. I think the essence of blockchain is ‘de-intermediarization.’ There is no way to get rid of the center.”
+
+The standards China would like to set strongly differ from the underlying philosophy of peer-to-peer transactions created without the involvement of a state or central party. For blockchain pursuits, this might pose an uncomfortable thought, as Washington Post columnist Josh Rogin described: “While Westerners envision blockchain-based Web 3.0 as an open system, China could build a closed blockchain that it controls and corrupts for its own purposes.”
+
+By leading the standard setting, China could significantly steer the industry in any direction of its liking and potentially limit the adoption of certain blockchain platforms it can’t control.
+
+Beyond the Great Wall
+
+One way to set standards is to work with other global players early.
+
+Partnering with 12 EU member states and 5 Balkan countries, China created the China-CEEC Blockchain Centre of Excellence, “focused on boosting the applied and fundamental research on blockchain and DLT technologies.”
+
+China also formed a banking consortium with the other BRIC countries to “collaborative research on distributed ledger and blockchain technology in the context of the development of the digital economy.”
+
+Even Walmart and IBM joined forces with JD.com and Tsinghua University to create the Blockchain Food Safety Alliance to “enhance food tracking, traceability and safety in China.”
+
+China isn’t the only one
+
+While China is certainly in the best position to lead blockchain innovation, it’s not the only country that could outpace the U.S. this coming decade.
+
+The Korean market also has potential to become a leader for blockchain adoption in the world. The country is pioneering blockchain adoption in many areas of large business, startups and government. The Ministry of Science and Technology in South Korea has launched initiatives for training blockchain developers, and the Seoul Metropolitan Government plans to invest over $1 billion in blockchain and fintech startups by 2022.
+
+A major part of enterprise blockchain development is happening in India. India is the number one country worldwide in the highly specialized field of systems integration engineering, and as a global leader in software innovation, India houses some of the world’s leading blockchain teams. India’s blockchain development leaders are leading decision-making and engineering for enterprises around the globe.
+
+Not too late
+
+While other countries are gaining on its position, the U.S. can still take action to keep its place as the leading global innovator. Through a combination of government intervention, investment and partnering with both private and public enterprises, the U.S. can support young industries like blockchain, fostering its growth and setting the standards for its use.
+
+The views, thoughts and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.

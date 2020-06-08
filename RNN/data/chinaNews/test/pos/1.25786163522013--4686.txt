@@ -1,0 +1,71 @@
+Questo comunicato è stato pubblicato più di 30 giorni fa. Le informazioni su questa pagina potrebbero non essere attendibili.
+
+San Francisco, 10 January 2020: The Report Application Delivery Controller (ADC) Market Analysis By Deployment (Hardware-Based, Virtual), By Enterprise Size (Small & Medium Enterprise, Large Enterprise), By End-Use (IT & Telecom, BFSI, Government, Healthcare, Retail) And Segment Forecasts To 2024
+
+The global application delivery controller (ADC) market is expected to reach USD 4.34 billion by 2024, according to a new report by Grand View Research, Inc. The application delivery controller market is anticipated to witness a high growth over the forecast period. This may be accredited to the increasing globalization and distributed enterprise architecture, which requires networks that can deliver their business-critical applications faster, thereby ensuring security. The increase in the data center traffic and the growing ADC popularity, particularly in the consolidated data center segment, are expected to be the major factors spurring the ADC market growth over the forecast period.
+
+The increasing adoption of the BYOD phenomenon has led to the widespread usage of tablets and smartphones particularly in large organizations as it significantly increases the scope and span of enterprises. This, in turn, has resulted in a rise in the ADC demand in order to balance and maintain the server load. In addition, emerging technologies, such as software-defined storage (SDS) and software-defined networking (SDN), are also anticipated to spur the ADC market growth over the coming years.
+
+Access Research Report of Application Delivery Controller (ADC) Market @ https://www.grandviewresearch.com/industry-analysis/application-delivery-controller-market
+
+Further key findings from the report suggest:
+
+The virtual segment captured over 30% of the total revenue share in 2015 and is anticipated to exhibit growth exceeding 5.0% from 2016 to 2024. This can be attributed to the improved IT agility, performance, and cost benefits offered by them over the hardware-based ADCs as well as the increasing cloud-based data center traffic.
+
+The small & medium enterprise (SME) segment is expected to gain prominence over the forecast period exceeding a compound annual growth rate of 5% from 2016 to 2024. This is ascribed to the increasing adoption of web-enabled services and web-based apps for running their business as well as to the proliferation of internet-enabled devices.
+
+The IT & telecom segment accounted for a significant revenue share in 2015 capturing over 25% of the overall revenue share in the same year. The segment is expected to grow at a CAGR exceeding 5.5% from 2016 to 2024. This is majorly due to the integration of ADCs into enterprise IT systems to enhance efficiency.
+
+Asia Pacific is expected to emerge as the fastest growing segment accounting for more than 20% of the overall share in 2015. This growth is due to increasing investments in the IT infrastructure, primarily in China and India. Furthermore, the rising demand in this region can be ascribed to the high market penetration, owing to the webification of organizational applications along with the growing ADC application in server firewalls and network security systems.
+
+The key application delivery controller market purveyors comprise F5 Networks Inc., Citrix Systems, A10 Networks Inc., Array Networks, Inc., and Brocade Communications Systems, Inc. Companies, with their extensive distribution channels and worldwide presence, lay emphasis on adopting the best practices for developing solutions to achieve competitive advantage in this industry.
+
+Browse more reports of this category by Grand View Research at: https://www.grandviewresearch.com/industry/network-security-software-and-services
+
+Grand View Research has segmented the application delivery controller market on the basis of deployment, enterprise size, end-use, and region:
+
+Application Delivery Controller Deployment Outlook (Revenue, USD Million; 2014 - 2024)
+
+Hardware-based ADCs
+
+Virtual ADCs
+
+Application Delivery Controller Enterprise Size Outlook (Revenue, USD Million; 2014 - 2024)
+
+Small & Medium Enterprise
+
+Large Enterprise
+
+Application Delivery Controller End-Use Outlook (Revenue, USD Million; 2014 - 2024)
+
+IT & Telecom
+
+BFSI
+
+Government
+
+Healthcare
+
+Retail
+
+Others
+
+Application Delivery Controller Regional Outlook (Revenue, USD Million; 2014 - 2024)
+
+North America
+
+Europe
+
+Asia Pacific
+
+Latin America
+
+MEA
+
+Access Press Release of Application Delivery Controller (ADC) Market @ https://www.grandviewresearch.com/press-release/global-application-delivery-controller-market
+
+About Grand View Research
+
+Grand View Research, Inc. is a U.S. based market research and consulting company, registered in the State of California and headquartered in San Francisco. The company provides syndicated research reports, customized research reports, and consulting services. To help clients make informed business decisions, we offer market intelligence studies ensuring relevant and fact-based research across a range of industries, from technology to chemicals, materials and healthcare.
+
+For More Information: www.grandviewresearch.com

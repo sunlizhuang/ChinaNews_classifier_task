@@ -1,0 +1,31 @@
+While there have been more than 60 confirmed cases of a new mystery virus emerging from Wuhan, China, UK experts estimate that closer to 1,700 have been sickened with the SARS-like pneumonia, according to the BBC. Meanwhile, SCMP reports three suspected cases in Shenzhen, Shanghai.
+
+"I am substantially more concerned than I was a week ago," disease specialist Prof Neil Ferguson told the outlet.
+
+The work was conducted by the MRC Centre for Global Infectious Disease Analysis at Imperial College London, which advises bodies including the UK government and the World Health Organization (WHO). -BBC
+
+The estimate was calculated by the Imperial College of London based on the following assumptions:
+
+Wuhan International Airport has a catchment population of 19 million individuals [1].
+
+There is a mean 10-day delay between infection and detection, comprising a 5-6 day incubation period [8,9] and a 4-5 day delay from symptom onset to detection/hospitalisation of a case (the cases detected in Thailand and Japan were hospitalised 3 and 7 days after onset, respectively) [4,10].
+
+Total volume of international travel from Wuhan over the last two months has been 3,301 passengers per day. This estimate is derived from the 3,418 foreign passengers per day in the top 20 country destinations based on 2018 IATA data [11], and uses 2016 IATA data held by Imperial College to correct for the travel surge at Chinese New Year present in the latter data (which has not happened yet this year) and for travel to countries outside the top 20 destination list.
+
+According to the report, "It is likely that the Wuhan outbreak of a novel coronavirus has caused substantially more cases of moderate or severe respiratory illness than currently reported. The estimates presented here suggest surveillance should be expanded to include all hospitalised cases of pneumonia or severe respiratory disease in the Wuhan area and other well-connected Chinese cities. This analysis does not directly address transmission routes, but past experience with SARS and MERS-CoV outbreaks of similar scale suggests currently self-sustaining human-to-human transmission should not be ruled out."
+
+To that end, airports in Singapore and Hong Kong have been screening passengers from Wuhan, while three US airports announced similar measures on Friday at three major airports; San Francisco, Los Angeles and New York. While most of the cases have occurred in China, there has been at least one reported in Japan, after a Chinese national traveled from Wuhan to his home in Kanagawa Prefecture.
+
+About the virus:
+
+The BBC also reports that this virus is just one of six Coronaviruses known to infect people.
+
+At the mild end they cause the common cold, but severe acute respiratory syndrome (Sars) is a coronavirus that killed 774 of the 8,098 people infected in an outbreak that started in China in 2002. Analysis of the genetic code of the new virus shows it is more closely related to Sars than any other human coronavirus. -BBC
+
+Preliminary analysis of the novel coronavirus (in red) believed to be responsible for an outbreak of pneumonia in Wuhan, China shows it's closely related to SARS CoV. https://t.co/Vf6U2W4oYR pic.twitter.com/3WbFpQ02Pc — EcoHealth Alliance (@EcoHealthNYC) January 11, 2020
+
+According to Ferguson, it's "too early to be alarmist" over the virus, but that "people should be considering the possibility of substantial human-to-human transmission more seriously than they have so far," adding "It would be unlikely in my mind, given what we know about coronaviruses, to have animal exposure, be the principal cause of such a number of human infections."
+
+Understanding how a novel virus is spreading is a crucial part of assessing its threat. The WHO's China office said the analysis was helpful and would help officials plan the response to the outbreak. "Much remains to be understood about the new coronavirus," it said. "Not enough is known to draw definitive conclusions about how it is transmitted, the clinical features of the disease, the extent to which it has spread, or its source, which remains unknown." -BBC
+
+So far just two deaths have been reported.

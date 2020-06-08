@@ -1,0 +1,57 @@
+The speed of 6G will exceed 125GB/s, allowing for ultra-high fidelity virtual reality, zero latency for machine-to-machine communication and global high-speed internet coverage using extensive satellite networks. GERD ALTMANN/PIXABAY
+
+Global race is on for 6G technology
+
+Before the first image of a black hole could be added to the treasure trove of mankind’s greatest scientific achievements in April, scientists responsible for processing it had a big problem – they had to piece together the image from half a metric tonne of hard drives holding around five million gigabytes of data.
+
+It would take years, if not decades, to send that much data efficiently over the internet, so scientists loaded those clunky hard drives onto trucks and planes and delivered them to data centres around the globe, according to the Event Horizon Telescope project, the international science body responsible for the image.
+
+One might feel a sense of irony that such an iconic image of a cosmic wonder had to be produced in such an old-fashioned way, but scientists said they are already working on the next generation of telecommunication technology after 5G that will be able to transport data faster, be more tailored to users’ needs, and make conducting global science projects more convenient and efficient.
+
+However, the so-called 6G technology is still in its infancy and must overcome several technical hurdles in basic research, hardware design, and its environmental impact before the technology becomes commercially available in 2030, according to a white paper on 6G published in September by Finland’s University of Oulu.
+
+Moreover, some scientists worried that 6G’s new infrastructure, the increased integration of space-air-ground-sea communication technologies, and the use of a new frequency range to transmit data might affect astronomical instruments or public health, or be too expensive or insecure for researchers to use.
+
+“The sharing, analysis and management of research data are crucial for scientific and technological innovation in today’s big data era,” Wang Ruidan, deputy director of the National Science and Technology Infrastructure Centre, said during a Beijing forum on digitised scientific research in early December.
+
+Enter the race
+
+In November, the Ministry of Science and Technology announced that China had entered the global 6G race, and has established two dedicated offices, one for related policymaking and the other, comprising of 37 experts from colleges, research institutions and enterprises, to work out the technical details.
+
+China Telecom, China Unicom and Huawei, as well as companies and telecommunication providers in the US, Russia and Europe are conducting related research on 6G technologies, according to media reports.
+
+Telecommunication technologies, coupled with large-scale computing infrastructure and big data, have played a crucial role in some of China’s largest scientific projects in recent years, especially those involving major scientific instruments, according to a blue paper published in Springer Nature last month.
+
+For example, “we used telecommunication technologies to connect observatories from around China to provide key navigation data to help the Chang’e 4 probe land on the far side of the moon for the first time in human history”, said Wang Shuzhi, executive deputy director of the Leading Group of Cyberspace at the Chinese Academy of Sciences (CAS).
+
+“Better connections will undoubtedly improve the precision and efficiency of using big data to conduct cross-regional, interdisciplinary mega science projects,” he said.
+
+Nigel Jefferies, chairman of the Wireless World Research Forum, said that although there was no universally accepted definition for 6G technology so far, its future application will have a profound impact on daily life and how scientific research is conducted.
+
+The speed of 6G will exceed 125GB/s, allowing for ultra-high fidelity virtual reality, zero latency for machine-to-machine communication and global high-speed internet coverage using extensive satellite networks, he said during the World 5G Convention in Beijing in November.
+
+Terahertz signals
+
+“6G will incorporate technologies that are left out of 5G, such as terahertz signals, satellites and visible light communication,” he said.
+
+Terahertz signal waves occupy the 300GHz to three terahertz band of the spectrum. This means the frequencies are higher than the highest frequencies that will be used by 5G, which are known as millimetre waves, and fall between 30 and 300GHz, said Lu Jianhua, president of the School of Information Science and Technology at Tsinghua University.
+
+The shorter wavelengths and higher frequencies suggest that terahertz waves should be able to carry more data more quickly than millimetre waves. But they will have greater trouble penetrating objects than 5G millimetre waves, which already require the installation of a large amount of indoor and outdoor cellular equipment to ensure reliable coverage.
+
+“This creates an existential problem with telecommunication technology, because the whole purpose of our field is to transport more data efficiently with less energy and infrastructure,” he said. “But we are doing the opposite for 5G technology and beyond. It will be extremely costly and unsustainable if we still use the same strategy to roll out 6G as we did with 5G.”
+
+One of the more popular solutions is to create an integrated global communication network with land, sea, air and space infrastructure to provide 6G coverage, Lu said.
+
+However, Li Jinzeng, a research professor at the National Astronomical Observatories of the CAS and the chief scientist of the China-Argentina Radio Telescope, said many telescopes rely on the terahertz range to examine the universe and a global terahertz 6G network may interfere with astronomical observation.
+
+Moreover, the physiological effects of electromagnetic radiation associated with 5G technology are still being researched, he said.
+
+Zhang Zhang, executive deputy director of the BIG Data Centre at the Beijing Institute of Genomics of the CAS, said 6G technology will be a positive factor for scientific projects that require the transmission and analysis of large quantities of data.
+
+But there also two major issues – data security and cost, he said. “With 6G, we might be transmitting so much data so rapidly that we fail to notice either small leaks or security risks.”
+
+In addition, it costs millions of yuan annually to operate a large data centre, and this expense is typically shouldered by the government or the institution.
+
+“A full-speed 6G network may be too expensive to use, so funders and policymakers will have to balance the cost and benefits and customise the technology to better suit users’ needs,” Zhang said.
+
+CHINA DAILY/ASIA NEWS NETWORK

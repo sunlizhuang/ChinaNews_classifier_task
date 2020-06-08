@@ -1,0 +1,19 @@
+According to a Reuters report, the Trump administration is contemplating altering US trade regulations in a move that would effectively block shipments of chips to Huawei from international chipmakers like Taiwan-based TSMC.
+
+Huawei has become a bête noire for the Trump administration as trade tensions bubble between the US and China. The White House has blacklisted the Shenzhen-based telecommunications giant – adding it to the Entity List in May 2019 – and has been engaged in an effort to convince US allies to exclude Huawei from their 5G networks on the grounds that it constitutes a national security risk as an earpiece for the Chinese Communist Party. Huawei has repeatedly denied these allegations and offered to sign ‘no-spy’ agreements.
+
+In a further escalation in Trump’s battle against Huawei, proposed restrictions have been drafted at high-level White House meetings that would impact Huawei’s global business.
+
+The proposals involve changes to the US Foreign Direct Product Rule, which subjects some goods manufactured outside the country to national regulations if they use some US technology. Under the proposals, foreign companies that use US chipmaking technology would need to apply for a license from the US government in order to supply Huawei with hardware.
+
+Whether these proposals will be pursued further remains unknown.
+
+According to a 2019 report from Everbright Securities, there is no Chinese production line that uses solely Chinese equipment, making it extremely difficult to manufacture chipsets without US technology.
+
+One of two sources told Reuters that: “What they’re trying to do is make sure that no chips go to Huawei that they can possibly control.”
+
+If pursued, these restrictions would have a severe impact on large fabless chipmakers like Taiwan-based TSMC. TSMC is the world’s largest contract chipmaker, counting Apple, Qualcomm, Nvidia, and AMD among its customers, as well as Huawei’s semiconductor subsidiary HiSilicon.
+
+Although the US Department of Commerce did not comment on the alleged proposal, a spokesperson said that recent criminal charges filed against Huawei, “reaffirm the need for caution in considering license applications. The US continues to have major concerns about Huawei.”
+
+In the last week, the US Department of Justice has charged Huawei and its subsidiary with racketeering and stealing trade secrets, and a senior White House official has told the New York Times that Huawei has backdoor access to information sent through telecommunications networks that use its equipment. By law, Chinese companies must assist state intelligence services if requested.

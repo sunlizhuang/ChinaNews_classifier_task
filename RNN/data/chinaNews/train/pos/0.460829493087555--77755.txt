@@ -1,0 +1,29 @@
+KEY POINTS A noted analyst claims Apple will launch its Tile-like tracker later this year
+
+The new device is expected to enhance the iPhone's ability to locate lost items
+
+The new tracker is also expected to improve Apple's AR offerings
+
+An analyst claims that Apple will launch its Tile-like trackers within the second and third quarter of the year.
+
+Cupertino tech giant Apple is expected to launch a slew of new products this year. These expected products include a new iPhone lineup, new MacBooks with new keyboards, new iPads, and more. These will also include new devices that are meant to do more than just type, text, call and surf the web.
+
+One of the new devices to be included in Apple's 2020 lineup is a Tile-like tracking device that uses the same Ultra-Wideband (UWB) technology used on the iPhone 11 series. Noted analyst Ming-Chi Kuo said the device, a UWB tag believed to fetch the name “AirTag,” is expected to arrive between the second and third quarter of the year.
+
+In a research note shared by 9To5Mac, the famed analyst said he expects Apple's suppliers to start shipping the device during the aforementioned period. He also expects Apple to sell many units to interested consumers where it is made available:
+
+“We expect Universal Asahi Electronics to begin shipping SiP for UWB tags in 2–3Q20, with shipments reaching tens of millions in 2020.”
+
+The analyst believes that the new device will further enhance the iPhone's capability to locate missing items. He added that Apple's Tile-like trackers will also be able to improve the company's augmented reality offerings in some way:
+
+“We believe that UWB tags can enhance the iOS search and AR application experience through the close-range measurement function.”
+
+The analyst also noted that Apple will have more than one supplier for the AirTags:
+
+“We expect Huaxu to be the main supplier of SiP for UWB tags, with a supply ratio of approximately 60%.”
+
+It's worth noting that Kuo's predictions were made amid the current spread of Coronavirus in China, where most of Apple's suppliers are located. The outbreak forced the company to close stores and stop production temporarily. Recent reports, however, indicated that it has already moved production to other facilities outside China.
+
+The factories in Taiwan, for example, are already working on MacBooks. The iPhone SE successor is also being produced at the moment.
+
+Photo: AFP / GREG BAKER

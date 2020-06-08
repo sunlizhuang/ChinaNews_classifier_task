@@ -1,0 +1,57 @@
+(Reuters) - Drugmakers racing to find a vaccine or effective treatment for the deadly new coronavirus in China cautioned that they have a long way to go.
+
+That runs counter to reports of a supposed "breakthrough" that on Wednesday boosted financial markets and spurred optimism not necessarily backed by reality.
+
+At least a dozen drugmakers are working on vaccines or antivirals and other treatments to help those infected with the fast-spreading contagion.
+
+Investment costs for vaccines could run as high as $800 million in a process that, even if accelerated, will likely take more than a year until approval, according to executives from companies involved in the effort.
+
+"It will take at least 12 to 18 months, which means in the acute situation we are in now - at least in China - that will not create a benefit," said Thomas Breuer, chief medical officer of GlaxoSmithKline's vaccine unit. GSK is working with developers by providing a technology that could make their vaccines more potent.
+
+The virus, which emerged in December in China, has killed nearly 500 people and shows no sign of abating, with thousands of new cases reported each day, mostly in central China's Hubei province. But its spread to some 27 countries and regions has caused global alarm.
+
+To be sure, companies developing treatments for patients who are already sick may be able to get a drug approved faster than a vaccine that would be given to healthy people. Even so, logistical and regulatory challenges remain, according to two executives at Gilead Sciences Inc, which is working on an experimental antiviral treatment.
+
+"There is a distinction there between a therapeutic and a vaccine. Having said that, I think it is true that this won't be super fast and it will involve us investing at risk right now," said Gilead Chief Medical Officer Merdad Parsey.
+
+Clinical trials for treatments can be smaller and of shorter duration than for vaccines, Parsey acknowledged.
+
+Challenges in making sure therapies are effective and then scaling up production still remain. Gilead has only a limited supply of its remdesivir, which will be tested against the coronavirus after previously failing in trials as a treatment for Ebola.
+
+'LOOKING FOR A MAGIC BULLET'
+
+Dr. Thomas Frieden, who was director of the U.S. Centers for Disease Control and Prevention during the also deadly MERS outbreak, said the benefit of antiviral treatments for such emergencies in the past has been modest.
+
+What worked with MERS and SARS, for example, was better infection control in healthcare facilities, he said of two other types of coronaviruses that also caused global alarm.
+
+"It doesn't mean we shouldn't try, but we're often looking for a magic bullet and the bright shiny object. Sometimes we need to just have the basics," Frieden said.
+
+A Chinese TV report on Wednesday said that a research team at Zhejiang University had found an effective drug for the virus, while researchers in the UK told Sky News separately they had made a "significant breakthrough" in finding a vaccine.
+
+Reuters could not independently verify the reports, but several traders cited them for sharp upticks in global stock markets.
+
+"There are no known effective therapeutics against this 2019-nCoV," said World Health Organization spokesman Tarik Jasarevic, using the current designation for the new coronavirus, when asked about reports of "drug breakthroughs."
+
+Health officials in the United States and China have set ambitious goals for getting a vaccine to initial human testing within the next few months.
+
+Newer vaccine platforms, such as one developed by Moderna Inc, allow scientists to create a potential vaccine in record time just based on knowing the genetic code of the novel coronavirus. With the genetic code in hand, scientists can start vaccine development without needing a sample of the virus.
+
+Anthony Fauci, director of the U.S. National Institutes of Allergy and Infectious Diseases, which is using Moderna's platform, said the agency is on the fastest pace ever to develop a vaccine candidate.
+
+He hopes to have a vaccine available for initial safety testing within two and a half to three months from the time scientists determined the genetic sequence of the virus.
+
+Novavax Inc research chief Gregory Glenn told Reuters his company has taken vaccines from discovery to clinical testing in 90 days and believes it could do something similar for the new coronavirus.
+
+But to move vaccine candidates from the lab to widespread use in patients involves a number of hurdles, according to health experts and executives for drugmakers working on coronavirus vaccines and treatments.
+
+In addition to scaling up manufacturing capacity and building distribution networks, there are regulatory hurdles such as conducting large clinical trials to make sure a vaccine not only confers immunity to the virus but is safe for use in the general population.
+
+"The earliest you could even know if it's going to work is a year," Fauci said.
+
+Whether even a highly effective vaccine will prove profitable for companies is another big question.
+
+"The outbreak could be abating by the time a vaccine is deemed safe," Karen Andersen, who follows biotech companies for Morningstar, said in a research note.
+
+The Coalition for Epidemic Preparedness Innovations (CEPI) has raised around $800 million from donors to aid in preventing pandemic diseases and has allocated some of those funds to biotechs, including Inovio Pharmaceuticals Inc, Moderna Inc and CureVac, which are working on coronavirus vaccines.
+
+"We stepped into this with no economic expectation," said Paul Stoffels, Johnson & Johnson's chief scientific officer. "We'll see whether in the end it gives a reward."

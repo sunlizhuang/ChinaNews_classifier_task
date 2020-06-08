@@ -1,0 +1,45 @@
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+In light of the recent Coronavirus outbreak, Deirdre Crowley, partner in Matheson's Employment, Technology and Innovation Groups, discusses the legal considerations in response to the evolving health risk situation internationally.
+
+As of this morning, 30 January 2020, the World Health Organisation ("WHO") has assessed the global risk for the Coronavirus as a "high risk". The situation remains fluid, with the WHO due to convene this afternoon to consider whether to reclassify the outbreak as a Public Health Emergency of International Concern. Any updates to the current classification are due to be published on the WHO website following this meeting, along with any recommendations released by the WHO on how to manage the virus.
+
+The virus has now spread to a number of countries outside of China. In the most recent WHO Situation Report, published on 29 January 2020, 6,065 cases of Coronavirus have been identified globally, with 68 cases now confirmed across a total of 15 different countries outside of China. Eight cases of Coronavirus have been confirmed in Europe, with four cases in France and four cases in Germany.
+
+In a statement on the Department of Foreign Affairs website, the Irish government has advised Irish travellers to reconsider non-essential travel to China. According to news reports, Minister for Foreign Affairs Simon Coveney, has confirmed that he is arranging for the evacuation of some Irish citizens from Wuhan, at the request of the citizens concerned. Mr Coveney emphasised at lunchtime today that there are no confirmed cases of Irish citizens having contracted the virus at this time. It is reported that the Irish citizens evacuated from Wuhan are likely to be quarantined for a period of two weeks in France following their return to Europe. The Health Service Executive, in conjunction with the Health Protection Surveillance Centre, is expected to release an update on the Coronavirus later today.
+
+1. What are the main legal implications of the Coronavirus for employers based in Ireland, particularly employers with an international presence?
+
+In association with your Chief Medical Officer or Occupational Health Physician and Health and Safety Compliance Manager, we recommend that employers check the status of the virus as it applies to each organisation. In the event that your organisation's Chief Medical Officer or Occupational Health Physician advises that the Coronavirus presents a risk to the health and safety of employees in your organisation, it is necessary to risk assess the situation in light of the medical advice and to take preventative or remedial steps where necessary. The following high level and general legal considerations apply. Other legal considerations may apply depending on the type of specific issues in play for your organisation and case by case legal advice is recommended.
+
+(1) The obligation to provide a safe and healthy place of work under section 8 of the Safety, Health and Welfare at Work Act 2005 (the "2005 Act"). This obligation obliges employers to take reasonable steps to address any health and safety risks.
+
+(2) The appropriate legal basis for the processing of high risk, special category health data in accordance with the Data Protection Acts 1988 – 2018 (the "DPA") and the General Data Protection Regulations (the "GDPR").
+
+(3) Confidentiality; and
+
+(4) Consistency in terms of how this issue is addressed in Ireland and internationally.
+
+2. Some likely questions that may arise:
+
+2.1 Can we compel our employees to undertake a medical exam to test for the presence of Coronavirus?
+
+Where employers reserve the right to have employees medically examined in contracts or policies, then where an examination is justified in all of the circumstances, particularly where the location of the employee is within a high risk zone, an employee cannot reasonably refuse to be medically examined. Where no such contractual or policy provision exists and the need to medically examine the employee is clear in light of the status of the risk, then it is likely that it is in the best interests of the employee (and their colleagues) to agree to be medically examined to assess whether they are symptomatic. If the WHO declares the situation to be a Public Health Emergency of International Concern or if your organisation categorises the risk as a serious risk, any refusal by an employee to participate in a medical examination should be dealt with formally if necessary.
+
+2.2 What is the lawful basis for processing health data of employees?
+
+Coupled with the legal obligation to provide a safe and healthy place of work which may justify the processing of health data to deal with the Coronavirus in line with Article 6(c) GDPR, employers should also consider Article 6(d) GDPR which lawfully permits the processing of data to protect the vital interests of a "data subject or of another natural person". In addition, section 51 of the DPA provides for the processing of special category data for reasons of "substantial public interest". Each employer will need to risk assess the relevance of these provisions to the particular data processing functions in play. Section 46 of the DPA provides for the processing of special category data for the purposes of employment and social welfare law but the section stops short of expressly providing a lawful basis for the processing of special category data for extraordinary reasons, such as an international health emergency.
+
+Separately, it is notable that health data falls within the category of "special category data" under GDPR and the DPA. As such, employers must not only have a lawful basis for processing such data under Article 6 GDPR but also an additional basis for processing under Article 9 GDPR.
+
+2.3 Does Health and Safety leave apply where a medical emergency is declared?
+
+Health and safety leave is available to employees who are pregnant, have recently given birth, or who are breastfeeding (Section 18 of the Maternity Protection Act 1994). Due to the limited nature of health and safety leave, it is unlikely to apply in the context of a medical emergency such as the Coronavirus.
+
+3. Practical advice
+
+This situation is evolving rapidly and we suggest that HR and health and safety personnel should be ready to deal with any escalation in the WHO and government agencies' risk categorisation of the virus.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

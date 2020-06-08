@@ -1,0 +1,9 @@
+According to a new report, Huawei, Oppo, Vivo, and Xiaomi – all popular Chinese smartphone makers – are coming together to develop a joint app store for developers outside of China to release their apps onto. In order to achieve their goal, the firms have come together as a group called the Global Developer Service Alliance (GDSA). The store will offer games, apps, music, and movies according to people familiar with the matter.
+
+According to Nicole Peng, VP of Mobility at Canalys, each of the firms will be looking to leverage each others' advantages in various regions. She pointed out that Xiaomi is strong in India, Vivo and Oppo do well in Southeast Asia, and Huawei has a foothold in Europe. The GDSA can use this to bring the new app store to millions of new customers and could pose a serious challenge to Google’s dominance.
+
+The move will help protect them from the threat of loss of access to Google services in the future. While Oppo, Vivo, and Xiaomi have full access to Google services, Huawei lost access for new devices after the U.S. banned American firms from selling goods and services to it over national security fears. An app store is a good starting point for gaining independence from Google and the move will protect the other three firms if they suffer a similar ban to that which Huawei was slapped with.
+
+Analysts have speculated that the app store could lure developers with the promise that their apps will be more visible as the Play Store is fairly crowded. The Chinese firms could also allow developers to keep a greater slice of revenues – Google currently takes a 30% cut on movies, books, and apps.
+
+Source: Reuters

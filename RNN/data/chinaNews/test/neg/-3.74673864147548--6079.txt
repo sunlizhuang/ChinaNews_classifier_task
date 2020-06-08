@@ -1,0 +1,9 @@
+The US government has reiterated its threat to stop sharing crucial intelligence information with its allies, if they continue to use Huawei components in their 5G networks.
+
+US Senator, Tom Cotton has introduced a bill, which would make it illegal for the US to share sensitive information with countries who continue to do business with the world’s biggest 5G vendor, according to reporters at Reuters.
+
+Cotton has been a long-time critic of Huawei and has repeatedly claimed that Huawei’s telecommunications networks pose a security risk to the US. Cotton, and the US government as a whole, have so far offered no proof to corroborate this accusation, leading some analysts to argue that the US is merely engineering security concerns to be used as leverage in its protracted trade war with China.
+
+Should the bill be signed into law, the US could withhold crucial intelligence information from any country who continues to work with the Chinese tech giant. Given that Huawei enjoys a near 35 per cent market share of the 4G and 5G networks in the UK, Germany, Italy, Spain and much of the rest of Europe, the outcome of the proposed bill could have drastic implications for European governments and mobile network operators alike.
+
+The bill stands as a stark warning to countries like the UK, which is due to make a decision on the long term future of Huawei in its networks in the coming weeks. British MNOs have universally called for the government to allow them to continue to use Huawei’s technology in their networks. Given that current non-standalone 5G is built on top of existing 4G architecture, any ban on Huawei for 5G would cost UK MNOs hundreds of millions of dollars, as they would be forced to retrofit their existing 4G networks – this would be an enormous logistical challenge and would certainly cost the country its position as an early leader in European 5G deployment.

@@ -1,0 +1,25 @@
+1 min read
+
+Pinduoduo added a new social e-commerce feature to its app, creating so-called “circles of trust,” through which users can exchange product reviews with a group of selected contacts, the company said in its newsletter on Tuesday.
+
+Why it matters: The feature, dubbed “Pinxiaoquan,” is meant to tackle counterfeit and substandard goods, especially those related to medical supplies like protective face masks during the coronavirus outbreak in China.
+
+The launch of Pinxiaoquan adds to last week’s crackdown on substandard mask listings on Chinese e-commerce platforms.
+
+Details: Online shoppers can select friends and family to include in their trusted circles, and then follow their purchase histories and comments on listings, cutting through the noise produced by Pinduoduo’s 536 million users.
+
+Pinxiaoquan provides a shortcut to finding trustworthy merchants by bringing together people with established trust, saving time and tackling information asymmetries, the e-commerce platform said.
+
+Starting yesterday, the feature is being rolled out to users in batches, according to the company.
+
+Context: Requests for refunds and returns on Pinduoduo have risen by 120% compared with the same period last year, the company said, attributing the increase to “panic buying and erroneous purchases” when the users lack sufficient information and time to select high-quality products.
+
+Daily demand for masks reached hundreds of millions in China within a few days, the head of Pinduoduo’s anti-epidemic team told TechNode in an emailed statement last week.
+
+Domestic mask production capacity is around just 20 million, a spokesperson from the Ministry of Information and Technology told Chinese media.
+
+Pinduoduo said that more than 100,000 merchants and 600,000 products related to masks are listed on its platform.
+
+Last week, Pinduoduo took down 500,715 listings and 40 shops selling mask-related products that weren’t up to national standards for particle filtering. Alibaba said that it removed 570,000 listings for similar reasons.
+
+Correction: an earlier version of the story identified the feature as the “Circle of Trust” instead of using the pinyin for its official name in Chinese only, “Pinxiaoquan.”

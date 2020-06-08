@@ -1,0 +1,39 @@
+ABOVE: © ISTOCK.COM, DR_MICROBE
+
+Update (February 5): Health officials in Germany say the evidence reported in the New England Journal of Medicine around a case of asymptomatic transmission is inaccurate, and that the patient did indeed feel sick at the time she spread the virus.
+
+Last weekend, Ma Xiaowei, director of China’s National Health Commission, announced that researchers believe the viral incubation period—the time it takes for an infected person to develop symptoms—could last up to 14 days for infections of the novel coronavirus 2019-nCoV. Xiaowei also said it appeared that at least some patients could transmit the virus during that time. Then yesterday (January 30), physicians described a case in The New England Journal of Medicine of a patient in Germany who apparently caught the virus from a business partner visiting from Shanghai while she was asymptomatic.
+
+These revelations raise the possibility that people could spread the virus long before they know they have it.
+
+Understanding the characteristics of the incubation period is crucial to designing public health efforts.
+
+Right now, scientists know very little for certain about what’s going on during 2019-nCoV’s incubation period, but there are some definitive characteristics they’re looking for, such as where the virus tends to enter the body, where it’s ultimately most likely to take hold, and how it affects the immune system.
+
+See “Scientists Scrutinize New Coronavirus Genome for Answers”
+
+To cause an infection, a virus must invade cells and begin replicating. How quickly the virus spreads throughout the body depends on the virus’ lifecycle. “For SARS, that’s less than 24 hours: the virus particle could affect the cell and then emit thousands of progeny less than a day later,” says Tim Sheahan, an epidemiologist at the University of North Carolina at Chapel Hill who studied the SARS outbreak of 2003. “And that’s how the virus [is] capable of exponential growth.” Eventually, the virus rearranges the cell’s membrane and prompts several cells to fuse together. This causes enough damage to host tissues to tip off the immune system, triggering a response that causes symptoms as patients begin fighting off the infection.
+
+Coronaviruses such as those that cause SARS and Middle East respiratory syndrome (MERS) are particularly adept at evading immune detection and dampening immune responses. This partly explains why they tend to have longer incubation periods—two to seven days on average, but lasting up to two weeks—than infections such as influenza, which has an incubation period of just one to four days. It’s not yet clear exactly how the 2019-nCoV affects the immune system.
+
+Although scientists in the United States may soon have access to samples of 2019-nCoV to study in the lab, so far they’ve only been able to study the virus by analyzing the epidemiological and genetic data that researchers in China have published. Understanding the characteristics of the incubation period is crucial to designing public health efforts, helping researchers and physicians to determine when, and for how long, a patient should remain quarantined.
+
+See “Australian Lab Cultures New Coronavirus as Infections Climb”
+
+One recent preprint based on data from 34 patients outside of Wuhan estimated that the incubation period ranges from one to more than 11 days, averaging about six. But scientists have several questions that they’ll only be able to investigate once they’re able to study the actual virus.
+
+See “Where Coronaviruses Come From”
+
+One approach will be to use animal models to see how the virus travels through the respiratory tract. “Where you’re getting infected and where the virus really establishes” is key to both the severity of an infection and how contagious it is, says Vineet Menachery, a virologist at the University of Texas Medical Branch who is following the 2019-nCoV data as they come out. A virus that replicates in the lower airway is generally more severe, but a virus that replicates in the upper airway may be easier to spread, he notes.
+
+Where the virus replicates also has implications for how patients are screened for the disease. “The major screening protocol all around the world is [looking for] high temperature and respiratory disease,” says Menachery. But it’s possible a patient could be infected and not display those traits. If 2019-nCoV replicates in the upper airway, nasal swabs could be used to screen patients who may be highly infectious, even if they don’t show symptoms.
+
+I think we have to open the possibility that this one is more contagious [than] SARS. —Michael Buchmeier, University of California, Irvine
+
+It’s also possible that the virus can enter the body through multiple routes, says Buchmeier. “You might assume that it’s a respiratory-only disease,” he says, because the disease primarily causes respiratory symptoms. “But in fact, it can infect via any mucosal surface. And we don’t know what the difference is in the incubation based on an infection by different routes.”
+
+Menachery says he also plans to study how the virus interacts with the immune system in human respiratory cell lines. He and his team hope to determine what tools the virus uses to evade the immune system, and how long it takes for the body to mount an immune response through conducting these in vitro experiments. They’ll use the answers to those questions to figure out if they can prime the immune system before exposure to the infection—the key to developing a vaccine.
+
+One thing the scientists all note is that even without access to the virus, information about it has spread through the scientific community much more rapidly than in in previous outbreaks. “Six months from now, a lot of these things will become more clear,” Sheahan says.
+
+Emma Yasinski is a Florida-based freelance reporter. Follow her on Twitter @EmmaYas24.

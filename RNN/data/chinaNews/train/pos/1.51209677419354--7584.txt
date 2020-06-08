@@ -1,0 +1,55 @@
+Photo: Shutterstock
+
+For many years, the prevailing view was that the rapid growth of China’s economy after it joined the World Trade Organization in 2001 had a positive effect on developed economies.
+
+Any deleterious impacts were thought to be largely temporary and borne by only a modest number of workers in particular regions. But as more and better research has since been performed, it has become clear that this view was overly optimistic, and the harms were worse than many had forecasted, not just on jobs but on the pace of technological innovation.
+
+Damaging Mercantilism
+
+In fact, as a new report from the Information Technology and Innovation Foundation (ITIF) shows, a careful review of the scholarly literature and industry cases suggests that the effect of Chinese economic growth and trade expansion, fueled by a corrosive set of “innovation mercantilist” policies and practices has been negative for innovation in most developed nations, including North America, Europe and Japan.
+
+The problem did not arise simply from China joining the WTO. In fact, most studies have found that increased global integration with low-wage nations actually increased innovation in developed economies because it let their economies specialize more in innovation-based activities.
+
+Unfair Advantage
+
+But China was different because of its systemic embrace of mercantilist policies, such as showering massive subsidies on domestic companies, manipulating its currency to gain an unfair price advantage in foreign markets and obtaining massive amounts of foreign IP without paying for it.
+
+These and other policies have conferred an unfair advantage to Chinese companies — which, on average, are significantly less innovative than their foreign competitors, the very reason China embarked on its innovation mercantilist efforts.
+
+These unfair policies created such intense competitive pressures that many foreign companies have either closed or cut back on their R&D expenditures and other innovative activities. And as China dramatically steps up its efforts with initiatives such as its Made in China 2025 plan, it will likely cause even greater harm for the overall rate of global innovation progress.
+
+How Have Chinese Policies Been Harmful to Foreign Innovation?
+
+To understand why, it’s important to understand the nature of innovation industries. These industries usually have high fixed costs for design and development, but relatively low marginal costs for production.
+
+In other words, the cost of the first product is extremely high, while subsequent items are much less costly. Think software or jet aircraft. In these industries, larger markets better enable firms to amortize those fixed costs over more sales, so unit costs can be lower and revenues for reinvestment in innovation higher. Firms in most innovation industries are, therefore, global.
+
+If policymakers want to ensure robust rates of global innovation going forward, working to ensure China plays by the rules it agreed to when it joined WTO is a critical task.
+
+But Chinese mercantilist policies limit foreign firms’ market share. For example, China’s indigenous innovation policies are designed to favor Chinese-owned innovation firms’ foreign markets or reduce sales in the Chinese market from foreign firms, which often reduces profits by leading to market overcapacity and lower prices than what market forces would produce.
+
+Take China’s Solar Energy Policies
+
+After the 2008 Great Recession, the Chinese government poured hundreds of billions of yuan into its solar energy firms to help them gain global market share.
+
+As a result, Chinese crystalline solar PV prices decreased by 85% between 2009 and 2017 — and China exported 38% of the world’s solar panels in 2018. If the Chinese firms were innovation leaders, this might advance clean energy innovation. But they are not. At least through the 2000s, Chinese solar firms invested a much lower percentage of revenue on R&D compared with American and European solar firms — and clean energy patents in China were 4% of U.S. levels, when controlling for population.
+
+The result of this government-induced overcapacity was the bankruptcy of innovative solar firms in the United States.
+
+IP Is Another Example
+
+Another form of excess competition relates to intellectual property (IP). The purpose of IP protection (e.g., patents) is to enable firms investing in innovation to make enough returns over a fixed period of time to recoup their costs and more.
+
+As such, weak IP protection, state-sanctioned IP theft and non-market-based technology transfer weaken innovation. If Chinese firms are able to enter and remain in the market because they obtain an innovator’s IP at less than the fair market price (either through theft or coerced transfer), they are able to siphon off sales that would otherwise go to innovators. Why would a firm invest in IP when other firms could copy it to compete against them?
+
+This is why most scholarly econometric studies examining the impact of Chinese competition on R&D and innovation in other economies have found the effect to be negative, harming innovation.
+
+One study that has, perhaps, received the most attention is Foreign Competition and Domestic Innovation: Evidence from U.S. Patents from NBER. It documents the “robust, negative impact of rising Chinese competition on firm-level and technology class-level patent production.”
+
+A Drag on Global Innovation
+
+Accompanying this fall in innovation, global employment, sales, profitability and R&D expenditure all decline within trade-exposed firms. Similar findings apply to the impact on innovation in other nations and regions, including Canada, Europe, Japan, Taiwan and Vietnam.
+
+In short, while Chinese innovation may benefit from its array of unfair policies, foreign innovation does not. And because, at least for now, companies in advanced economies are more innovative than Chinese companies, the net result is a drag on global innovation.
+
+As such, if policymakers want to ensure robust rates of global innovation going forward, working to ensure China plays by the rules it agreed to when it joined WTO is a critical task.

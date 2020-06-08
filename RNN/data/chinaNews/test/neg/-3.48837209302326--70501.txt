@@ -1,0 +1,13 @@
+MUNICH, Germany — Huawei’s deployment of next-generation wireless technology in Western countries would enable Chinese authorities to censor communications within democracies and steal the data of entire populations, according to U.S. officials.
+
+“We want to make sure that whatever 5G becomes, it ensures freedom of speech, not the ability to censor [that] which any government does not feel is supportive of their overall ideology,” Robert Blair, the White House special representative for international telecommunications policy, told reporters on the sidelines of the Munich Security Conference.
+
+British Prime Minister Boris Johnson rebuffed American pleas to bar Huawei and other “high-risk” companies from the United Kingdom’s 5G networks last month, maintaining that London’s counterintelligence and cybersecurity officials can protect classified information from Beijing-based espionage threats. Secretary of State Mike Pompeo has warned that Huawei would make British networks “open doors for Beijing’s spymasters,” but Blair and other U.S. officials pledged that London and Washington would continue to share intelligence even while continuing to dispute the wisdom of Johnson’s decision.
+
+“We always just said we had to reassess how we should share to protect the very important information that we had,” Rob Strayer, the State Department’s lead official for cybersecurity issues, said alongside Blair. “We never meant this as a threat by the way. This is not a threat to anyone here or around the world. It was just sort of stating the obvious that if the networks are insecure, we need to work together, and that might slow down the way we communicate. It could have other operational implications that nobody wants to see happen.”
+
+Blair’s renewed warning shifted the spotlight to how those Chinese telecommunications giants could threaten “the values and principles” of Western societies. Blair emphasized privacy of data "so that we can protect our citizens and ensure that our most sensitive information is not made available to feed some AI machine in a foreign country."
+
+Artificial intelligence and other cutting-edge surveillance and military technologies rely upon vast quantities of data to operate and improve, according to military officials. Blair’s comments suggest that China could augment the data they collect from their own population with the private information stolen from millions of people in other countries who rely on Huawei.
+
+“We are concerned that if they get access to a network and have the ability to censor data or have the ability to determine where dissidents are, that they will use every tool that they have at their disposal,” Blair said.

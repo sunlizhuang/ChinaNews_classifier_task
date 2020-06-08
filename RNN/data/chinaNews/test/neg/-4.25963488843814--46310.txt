@@ -1,0 +1,37 @@
+Downstream producers hit by virus outbreak
+
+By Chen Cheng-hui / Staff reporter
+
+
+
+
+
+The effects of the coronavirus outbreak on downstream electronics industries with operations in China are expected to continue for some time, as the Lunar New Year holiday has been extended and public transport restricted, analysts said.
+
+For PC manufacturing, China’s extended holiday is increasing the effect of weak seasonality this quarter, while quarantine and travel restrictions would exacerbate labor shortage issues, Yuanta Securities Investment Consulting Co (元大投顧) said in a note last week.
+
+“We expect the impact on [PC] sales to last for at least a quarter,” Yuanta analysts led by Calvin Wei (魏建發) said in the note.
+
+Taiwanese printed circuit board (PCB) suppliers operating in China have also been adversely affected by measures to curb the spread of infection, as most PCB plants — including those making copper-clad laminates, substrates, rigid PCBs and flexible PCBs — are in areas severely affected by the outbreak, the analysts said.
+
+In China, most PCB plants operated by Taiwanese firms are in Huangshi and Xiantao in Hubei Province, as well as Suzhou, Changshu and Kunshan in Jiangsu Province.
+
+Supply chain disruptions could occur as most PCB suppliers’ Chinese production facilities would remain closed until Monday next week to comply with local government policies, the analysts said.
+
+“Given the transit shutdown and extension of the Lunar New Year holiday in certain regions, we expect sales to be affected in the near term,” they said.
+
+The outbreak has also caused delays in component deliveries, the analysts said, adding that alternative supply sources are unclear, leading to uncertainty regarding the sales outlooks of major smartphone vendors.
+
+“Assuming the outbreak cools down toward the end of this quarter, we still expect some impact in the second quarter, as the disease has prevented some overseas employees from returning to China ... which will hinder product launches,” they said.
+
+Market researcher Strategy Analytics forecast that the global market would ship 2 percent fewer smartphones than expected this year, as the effects of the virus outbreak would lead to reduced GDP growth and consumer spending.
+
+It would also affect global smartphone supply and manufacturing, because China makes 70 percent of all smartphones sold in the world, it said.
+
+“China smartphone shipments will be 5 percent less than expected in 2020. The biggest impact will hit China, but other connected economies will feel a ripple, like Japan or the US,” Strategy Analytics said in a note last week.
+
+As a result, semiconductor makers, operators, and service and content providers, as well as related parties, should closely monitor their channels and plan ahead to avoid excess inventory, the consultancy firm said.
+
+The viral outbreak has had a mixed effect on the networking and motherboard industries, Yuanta analysts said.
+
+The lockdown in Wuhan and delayed operations at factories in Guangdong, Jiangsu and Shanghai should weigh on the production of networking products, while the effect on the motherboard supply chain seems to be limited, the analysts said.

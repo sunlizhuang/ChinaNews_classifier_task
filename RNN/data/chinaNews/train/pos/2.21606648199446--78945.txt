@@ -1,0 +1,27 @@
+When residing in Beijing, keeping an eye on the AQI is a must, but it’s far from the only city in the world that regularly experiences toxic levels of air. It is, however, at the forefront of a global movement air pollution awareness battle. That is because AirVisual, a project owned by Swiss air quality company IQAir, is based in the Chinese capital, from where it oversees a massive and growing field of air quality data from around the world. Their air quality map can be viewed here, and it is pretty cool to look at.
+
+Big data, about to get bigger
+
+Yann Boquillod, air quality monitoring director at IQAir AirVisual, tells the Beijinger that the platform has already had a huge impact on awareness. "People watch our top ten most polluted cities list very carefully. Whenever a city enters the list, people start tweeting about it." Then again, they may just be getting started. Boquillod expects that the project’s pool of data is about to grow exponentially over the next year thanks to a new partnership with the United Nations Environment Programme and UN-Habitat. Together, they launched the world's largest air quality data platform, which effectively aggregates official government data from over 450 different sources.
+
+According to Boquillod, the partnership is an example of international government meeting a private company gone right. “The UN had been trying to do something like this for years,” he said, “but you have to be in startup mode to do it right. You have to be extremely nimble.”
+
+He takes Beijing as an example of just how easy it is for things to go wrong when dealing with such a large amount of fluctuating data. Historically, Beijing has gone from 10 to 500 AQI in just an hour (or vice versa). One key solution that AirVisual has provided is to implement artificial intelligence in order to distinguish between genuine jumps like this and sensor errors. Even governments can sometimes publish incorrect data, and this solution allows the platform to verify all of the data before passing it on to users.
+
+“You need AI to correct the inaccuracies, and that’s what no one else has done,” says Boquillod with regards to why the UN partnership makes so much sense. “The UN went to look for different solutions and saw that we were years ahead of everyone else.”
+
+Quality monitoring for everyone, by everyone
+
+But AI is just part of the equation. While software solutions can verify data more efficiently, bringing in more data requires more hardware. The problem is that an accurate air sensor can cost between USD 50,000-100,000 per year to maintain.
+
+This is another area where the UN and AirVisual's partnership is mutually beneficial. The UN already knew that the solution was to crowdsource monitoring; creating a device that is less accurate but cheap enough that more volunteers can place them locally to create a useful data pool. However, their prototype still cost upwards of USD 1,000. “It was a good attempt,” says Boquillod “but there was no quality control or mass production.”
+
+In 2018, however, AirVisual was able to create a low-cost sensor, called a “local sensor,” that costs less than USD 300. So far, hundreds of these devices have been placed outside of homes and offices around the world. Moreover, the people who place them are credited on the AirVisual app whenever the data is accessed.
+
+Recently, the sensors have been used to inform action, such as determining when school activities should be canceled in Bangkok, and made waves in Lahore when a long-term Beijing resident returned to his home in Pakistan and used the sensors to raise awareness about his home country's poor air quality.
+
+“Now that we have the UN stamp on that effort, it’s going to be even bigger,” Boquillod says. Combine all of these additional sensors with the aforementioned artificial intelligence, and it looks like global air quality monitoring is about to get a whole lot more accurate.
+
+READ: Fresh as a Daisy: Easy Indoor Composting With This Beijing-Made Kit
+
+Images courtesy of IQAir, AirVisual

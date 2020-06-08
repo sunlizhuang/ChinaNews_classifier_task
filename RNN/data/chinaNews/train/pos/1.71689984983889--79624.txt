@@ -1,0 +1,39 @@
+China's Yutu-2 lunar rover has discovered what appear to be relatively young rocks during its recent exploration activities on the lunar far side.
+
+The Chang'e-4 mission's rover imaged the scattered, apparently lighter-colored rocks during lunar day 13 of the mission, in December 2019, according to the Chinese-language 'Our Space' science outreach blog.
+
+The specimens, which are quite different from those already studied by the rover, could round out the team's insights into the geologic history and evolution of the area, called Von Kármán crater .
+
+Related: China releases huge batch of amazing Chang'e-4 images from moon's far side
+
+Closer inspection of the rocks by the rover team revealed little erosion, which on the moon is caused by micrometeorites and the huge changes in temperature across long lunar days and nights. That anomaly suggests that the fragments are relatively young. Over time, rocks tend to erode into soils.
+
+The relative brightness of the rocks also indicated they may have originated in an area very different to the one Yutu-2 is exploring .
+
+Chang'e-4 made a historic, first-ever soft landing on the far side of the moon in January 2019 . Von Kármán, a roughly 110-mile-wide (180 kilometers) crater, is around 3.6 billion years old. Lava has flooded it multiple times since its formation, leaving it relatively smooth and dark. The crater itself lies within the South Pole-Aitken Basin, an even more massive and more ancient impact crater.
+
+A rock fragment viewed by a Yutu-2 obstacle-avoidance camera. (Image credit: CNSA/CLEP/Our Space)
+
+Dan Moriarty, NASA Postdoctoral Program Fellow at the Goddard Space Flight Center in Maryland, said the size, shape and color of the rocks provide clues to their origin.
+
+"Because [the rocks] all look fairly similar in size and shape, it is reasonable to guess that they might all be related," he told Space.com. "Chang'e-4 landed on a volcanic mare, [a] basalt patch , and those volcanic materials are much darker than normal lunar highlands crust. If these rocks are indeed brighter than the soil, it could mean that they are made up of a higher component of bright, highlands crust materials than the surrounding volcanic-rich soils."
+
+Image of the surface of Von Kármán crater from Yutu-2, released in February 2020. (Image credit: CNSA/CLEP)
+
+Moriarty noted that higher-resolution images of the rock would provide more information. "If the rock has the appearance of many heterogeneous fragments 'welded' together, this would indicate a regolith breccia," which are formed by the immense heat of a meteorite impact, he said. "If the rock appears more coherent, then it might be a primary crustal rock excavated by the impact."
+
+China recently published a huge batch of data and amazing images from the Chang'e-4 lander and Yutu-2 rover. However, the release did not include data from day 13, meaning high-resolution images of these intriguing specimens are not yet public.
+
+Regarding the age of the rocks, Moriarty said that "fresh" is a relative term: In this case, it means that the rocks formed after the major resurfacing events in Von Kármán crater. "So that could be 10-100 million years [ago] or 1-2 billion years. It's really hard to say definitively."
+
+To learn more, the Yutu-2 team navigated the rover in order to analyze one of the specimens with its Visible and Near-infrared Imaging Spectrometer (VNIS) instrument, which detects light that is scattered or reflected off materials to reveal their makeup.
+
+Because the fragments are small and the lunar terrain is very challenging, the team made careful calculations and fine adjustments in order to get the rocks into the VNIS field of view, according to Our Space. This may account for the relatively short distance Yutu-2 traveled during lunar day 13: 41.3 feet (12.6 meters). Overall, Yutu-2 has driven 1,170 feet (357 m) since arriving in Von Kármán crater.
+
+Yutu-2 looks back over tracks it made in the lunar soil. (Image credit: CNSA/CLEP)
+
+Earlier in 2019, Yutu-2 made numerous approaches to an unidentified rock sample, which Our Space described as "gel-like."
+
+The Chang'e-4 lander and Yutu-2 completed their 14th lunar day of science and exploration on Jan. 31, ahead of sunset over the landing area in Von Kármán crater. Day 15 began on Feb. 17, with Yutu-2 due to head to the northwest and then southwest to reach a designated target point.
+
+China plans to launch Chang'e-5, a sample-return mission, in the second half of this year. It will collect around 4 lbs. (2 kilograms) of samples from Oceanus Procellarum on the moon's near side before returning to Earth. If this is successful, the backup Chang'e-6 mission could attempt to retrieve samples from the South Pole-Aitken Basin or the lunar south pole around 2023.

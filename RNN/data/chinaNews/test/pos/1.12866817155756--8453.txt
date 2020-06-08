@@ -1,0 +1,15 @@
+A small start-up company in California has unveiled a new proposal for a stealthy unmanned aircraft system (UAS) to offer the U.S. Air Force as a “fifth-generation” target drone or a low-cost attritable aircraft.
+
+Tehachapi, California-based Sierra Technical Services, a company founded by previously retired Lockheed Martin Skunk Works engineers, unveiled the first photos of the completed Fifth Generation Aerial Target (5GAT) prototype after completing engine tests on the ground. A first flight of the 5GAT is scheduled in early 2020.
+
+The name of the aircraft is derived from its origins as a prototype funded by the Defense Department’s Director of Operational Test and Evaluation (DOT&E), says Roger Hayes, president and CEO of Sierra Technical Services.
+
+Several years ago, DOT&E recognized an emerging gap for a new target drone that could fly as a surrogate for fifth-generation fighters emerging in Russia and China such as the Sukhoi Su-57 and AVIC Chengdu J-20. In 2017, DOT&E awarded Sierra Technical Services a $15.9 million contract to develop the 5GAT prototype, Hayes said.
+
+The pace of assembly has been dictated by the availability of parts cannibalized from other military aircraft, such as the engines and metallic components from the Northrop T-38 trainer and F-5 fighter, as well as aileron actuators from the Boeing F/A-18, Hayes said. Sierra Technical Services supplemented its revenue as assembly continued by working on other programs, including supplying components for the Kratos XQ-58A Valkyrie.
+
+As development continued, the Air Force started to develop interest in a fifth-generation target. The service has awarded Lockheed Martin a contract to develop the AIM-260 Joint Advanced Tactical Missile, which is being designed to counter the PL-15 missile fielded on China’s J-20 fighter. The Air Force needs to test the AIM-260 and other missiles against a representative threat. Last May, the Air Force released a request for information for the Next Generation Aerial Target, which included a version that can replicate fifth-generation fighter attributes, such as a stealthy airframe with canted tails and serpentine inlet ducts.
+
+The Air Force also is developing a concept to pair manned fighters such as the F-22 and F-35 with an unmanned partner, known sometimes as a Loyal Wingman. The Air Force Research Laboratory (AFRL) funded Kratos’ XQ-58A, which completed a first flight in March.
+
+AFRL also plans to demonstrate a UAS controlled by a “software brain” using artificial intelligence. This Skyborg program is sometimes considered a follow-on for the XQ-58A program, but Hayes said Sierra Technical Services could offer the 5GAT for the Skyborg contract.

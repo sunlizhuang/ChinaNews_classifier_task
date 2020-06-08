@@ -1,0 +1,107 @@
+A new kind of coronavirus has spread from a central Chinese city to all but two continents, and growing outbreaks outside China have raised fears of a pandemic. The death toll has is approaching 2,800. Economic disruptions in China, where millions are under lockdown, are expected to hurt global growth. The World Health Organisation has declared the the spread of Covid-19 -- the name given to the disease caused by the novel coronavirus -- a Public Health Emergency of International Concern.
+
+This guide will help you understand the scale of the coronavirus outbreak, and explore different facets of the story -- from basics such as symptoms and precautions to the ongoing "infodemic" and the impact on global business. You'll regularly find links to other useful resources on Covid-19 and related stories.
+
+You can use the links to navigate.
+
+1. What is the novel coronavirus?
+
+2. Are you at risk?
+
+3. How deadly is Cov-19?
+
+4. Symptoms and precautions
+
+5. Beware fake news!
+
+6. Coronavirus in India
+
+7. Tracking the virus: Data analysis
+
+8. Life under lockdown
+
+9. Business woes
+
+10. The whistleblower
+
+Let's begin.
+
+What is the novel coronavirus?
+
+Notice the spike proteins on the visualisation of a coronavirus, left, and on the surface of the avian infectious bronchitis virus virion (left in inset collage). They create an effect resembling the solar corona (visible during a total eclipse) and give the family Coronaviridae its name. [Credits (from left): (1) CDC. (2) CDC/Fred Murphy; Sylvia Whitfield. (3) NASA/Aubrey Gemignani. Montage by ITGD Design Team/Vikas Vashisht]
+
+Coronaviruses are a family of viruses named for the crown-like effect (corona is Latin for crown) created by the spike proteins they use to invade cells. Found in a number of animals, they can sometimes be transferred to human beings in a "spillover event", causing mild to severe disease. The pathogens causing MERS (Middle East respiratory syndrome) and SARS (Severe acute respiratory syndrome) are coronaviruses.
+
+A previously unknown variety of coronavirus was discovered recently through a cluster of mysterious pneumonia cases linked to a seafood and live animal market in Wuhan, the capital city of China's Hubei province. The pathogen, now named SARS-CoV-2, can spread between people and has reached every continent except Antarctica. It causes a condition called Coronovirus Disease 2019, or Covid-19. No specific treatments exist yet. The death toll has is approaching 2,800.
+
+Are you at risk?
+
+This electron microscope image shows the novel coronavirus SARS-CoV-2, yellow, emerging from the surface of cells. (Photo: US National Institutes of Health via AP)
+
+Infection risk is higher in places where there's currently an outbreak. The overwhelming majority of cases are in China, but there are now growing outbreaks in countries such as South Korea and Iran. People in close contact with Covid-19 patients, such as their families and heathcare providers, are among the groups at greatest risk. For now, according to the World Health Organisation (WHO), it seems infections are more likely to be severe in the elderly and people with pre-existing medical conditions.
+
+Only three Covid-19 cases have been reported so far in India, all of them in Kerala. The patients have been discharged and are in home quarantine. All Indian nationals evacuated from China so far have tested negative, but some Indians aboard the Diamond Princess, a cruise ship moored off the coast of Japan, have tested positive.
+
+How deadly is Cov-19?
+
+Although we still don't know exactly how deadly the coronavirus disease is, available data show that deaths account for a tiny fraction of the case count -- only around 2.3%, based on the biggest ever study of Chinese cases. But even this number varied by region, and -- significantly -- increased with age; deaths were at 8% for senior citizens aged between 70 and 79, and 14.8% for patients aged 80 or older. By contrast, it was 0.2% for ages 10 to 39. The fatality rate was higher for men (2.8%) than for women (1.7%).
+
+On February 17, the director-general of WHO, Tedros Adhanom Ghebreyesus, said 80 per cent of coronavirus patients had "mild disease" and would recover. The graphic above, created by IndiaToday.in's Mukesh Rawat, shows the increasing trend in the number of discharged Chinese patients between February 2 and February 20.
+
+Symptoms and precautions
+
+Photo: Reuters. Infographic by ITGD Design Team/Vikas Vashisht
+
+Here's what WHO says about Covid-19 symptoms.
+
+As with other respiratory illnesses, infection with [the novel coronavirus] can cause mild symptoms including a runny nose, sore throat, cough, and fever. It can be more severe for some persons and can lead to pneumonia or breathing difficulties. More rarely, the disease can be fatal. Older people, and people with pre-existing medical conditions (such as, diabetes and heart disease) appear to be more vulnerable to becoming severely ill with the virus.
+
+WHO recommends good hand and respiratory hygiene, as well as social distancing, as precautionary measures. We highly recommend that you read the UN body's detailed advisory, available here, to learn how you can reduce your and your loved ones' risk of infection. Don't put off going to the doctor if you have fever, cough or breathing difficulties, and make sure you inform her (or him) if you've travelled to a part of China where the novel coronavirus has been circulating. Ditto if you're been in close contact with someone who's returned from China and now shows signs of respiratory illness.
+
+Beware fake news!
+
+A screenshot of a fake coronavirus news story posted on Facebook.
+
+Does keeping your throat moist help keep out the novel coronavirus? Has India found a cure? Did China ask for a court's permission to kill thousands of coronavirus patients? No, no, and no. This is all fake news, as India Today TV reporters demonstrate in the links attached to the above questions. And it is part of what WHO has called an "infodemic" surrounding the outbreak of Covid-19.
+
+Naturally, sharing or acting uncritically on such information is dangerous. Make sure you follow trusted sources like WHO and India's Ministry of Health and Family Welfare. You can also get the latest stories and news videos from the India Today website's dedicated coronavirus page.
+
+Coronavirus in India
+
+A health desk set up to screen travellers for signs of the coronavirus at Maharaja Bir Bikram Airport in Agartala, Tripura, on January 31, 2020. (Photo: Reuters)
+
+Indian authorities have been working to detect and contain the novel coronavirus, and three people in Kerala who were found to be infected have been discharged. Hundreds of Indian citizens have been brought back from Wuhan and have been declared infection-free.
+
+Another batch of 76 Indians -- and 36 foreigners -- who were evacuated from Wuhan on February 27 were taken to a Delhi ITBP facility to be quarantined. As well, an Air India flight has brought back 119 Indians and 5 foreigners who were on board a cruise ship docked off the Japanese coast. 16 Indian crew members who tested positive for Covid-19 are receiving treatment in Japan.
+
+Congress leader Rahul Gandhi recently claimed, without offering proof, that the government isn't taking the coronavirus threat seriously. Though that is clearly not the case, there are issues of concern, such as potential risk factors like the lack of supportive intensive care outside big cities and limited expertise. Experts have also raised eyebrows at recent AYUSH ministry advisories pushing homeopathy and unani.
+
+Tracking the virus: Data analysis
+
+How have the coronavirus case count and death toll risen with time? Are more or fewer people dying each day? How are cases spread out in China? And what do infection patterns elsewhere look like? Answers to such questions help experts better understand and respond to public health crises like the outbreak of Covid-19. Now, you too can track this data using simple visualisations created by IndiaToday.in's Mukesh Rawat -- take a look at the example above. Click here to explore further.
+
+Life under lockdown
+
+A main avenue in Wuhan, epicentre of the novel coronavirus outbreak, in China's Hubei province, on February 20, 2020. (Photo: Reuters)
+
+China has declared a "people's war" against the coronavirus epidemic. Hundreds of millions are under varying degrees of lockdown. Satellite images of Wuhan from Planet Labs show eerily deserted streets, bearing out an Air India pilot's description of flying into what looked "like an apocalypse".
+
+Planet SkySats capture the desolate streets and railways of Wuhan, China as businesses temporarily suspend operations in an attempt to limit the spread of the deadly coronavirus. pic.twitter.com/phR2BocpCF Planet (@planetlabs) January 29, 2020
+
+Distraught Chinese in Hubei were recently advised to "have a good cry" or take their stress out on a punching bag. Psychological support helplines are, according to a Reuters report, "overwhelmed".
+
+Business woes
+
+A financial center in Beijing's Central Business District, on February 22, 2020. (Photo: Reuters)
+
+A China under lockdown is bad news for global business. The International Monetary Fund (IMF) says the country will grow 0.4 percentage points slower in 2020 (at 5.6%) than predicted earlier, shaving 0.1 percentage points off global growth. And that's in the best-case scenario. "We are also looking at more dire scenarios where the spread of the virus continues for longer and more globally, and the growth consequences are more protracted," said Kristalina Georgieva, managing director of the IMF, on February 22. Chinese President Xi Jinping says the coronavirus outbreak won't hurt his country's long-term growth.
+
+India Inc is sure to be watching closely. Choked supply from China could hurt sectors like automobiles, pharma and consumer electronics. While some experts believe Indian business is already feeling the pinch, the RBI says the impact here will be limited. Check out this India Today TV Data Intelligence Unit report for an analysis of the potential coronavirus impact on Indian imports from and exports to China.
+
+The whistleblower
+
+A makeshift memorial for Li Wenliang at an entrance to the Central Hospital of Wuhan in Hubei province, China, on February 7, 2020. (Photo: Reuters)
+
+Li Wenliang didn't know the names of the virus or disease that would kill him on February 7 -- they were chosen later -- but he was one of the first to detect the threat. But when the Chinese ophthalmologist, 33, alerted fellow doctors to the outbreak of a SARS-like disease, he was accused by authorities of spreading rumours and had to sign a statement promising no more trouble. For many of his distraught compatriots, he died a hero. According to a CNN report, one user of Weibo, a Chinese social media platform, wrote to the Wuhan hospital that announced Li's death: "Countless young people will mature overnight after today: the world is not as beautiful as we imagined."
+
+"Are you angry? If any of us here is fortunate enough to speak up for the public in the future, please make sure you remember tonight's anger."

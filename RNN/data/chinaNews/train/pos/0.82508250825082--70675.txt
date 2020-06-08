@@ -1,0 +1,27 @@
+The Pentagon fiscal year 2021 budget requests $449 million in research and development for the 5G next generation information communications technology program, $249 million more than provided by Congress last year.
+
+5G “is a critical technology to the Department of Defense” and “enables high bandwidth, real-time, densely-connected networks, which represent many of the use cases central to defense command, control, and communications,” Charles Clancy, vice president of intelligence programs at MITRE, wrote in an email to Defense Daily.
+
+Clancy is the author of a recent MITRE paper, 5G and the Front Lines of the U.S.-China Great Power Competition.
+
+In December, Congress called on DoD to speed development of 5G telecommunications technologies and to provide quarterly updates on 5G advancement starting next month.
+
+Eric Schmidt, the former Google [GOOGL] CEO and current chair of the Pentagon’s Defense Innovation Advisory Board, told a House Science Committee hearing last month that China has plans to overtake the U.S. in quantum computing, supercomputing, aerospace, 5G, mobile payments, new energy vehicles, high speed rail, financial technology and artificial intelligence.
+
+On 5G, Schmidt told lawmakers that the U.S. needs a counter to China’s Huawei. The Pentagon has cited potential security concerns in calling the United Kingdom’s recent decision to allow Huawei to work on U.K. 5G telecommunications “problematic.”
+
+5G will likely be a key component in next generation military avionics.
+
+“With respect to 5G and military aviation, there are many use cases,” Clancy wrote. “5G’s millimeter wave technology could enable a new class of high-bandwidth air-to-air and air-to-ground communications. The Internet of Things features in 5G could be used for secure fly-by-wireless avionics, dramatically reducing aircraft weight. Secure, ubiquitous ground connectivity could fundamentally change how ground logistics, operations, and maintenance are performed.”
+
+Last October, DoD said that it will conduct large-scale 5G experimentation at four U.S. installations. One of those experiments at Hill Air Force Base in Utah is to develop 5G dynamic spectrum sharing capabilities between airborne radar systems and 5G cellular systems in the 3,100-3,450 MHz band.
+
+“The objective of this effort is to construct and operate a localized full scale 5G mobile cellular network in order to evaluate the impact of the 5G network on airborne radar systems and the radar systems’ impact on the 5G network, employing both active and passive techniques to enable sharing or coexistence,” according to DoD. “The outcome of the project will be capabilities, e.g. fieldable equipment and control systems, and processes to allow radar spectrum sharing or coexistence with cooperating and non-cooperating 5G networks.”
+
+The other 5G experiments involve “smart warehouses” at Marine Corps Logistics Base Albany in Georgia and NAVSUP Fleet Logistics Center in San Diego and a virtual reality training effort at Joint Base Lewis-McChord in Washington.
+
+The Pentagon said it has a five-year deal with the National Spectrum Consortium to manage 5G pilot programs, including distributing documents and contract notices.
+
+Military and commercial spectrum sharing and collaboration on 5G development look to be critical components of U.S. 5G efforts.
+
+“As there is increasing pressure on the U.S. military to share its spectrum with commercial systems, a huge opportunity is for the military to take advantage of reverse sharing, wherein it leverages the capabilities of commercial systems deployed in those bands,” Clancy wrote in his email to Defense Daily.

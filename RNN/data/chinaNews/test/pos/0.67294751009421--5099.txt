@@ -1,0 +1,7 @@
+Summary
+
+Taiwan Semiconductor is the world's largest foundry for making ICs for fabless semiconductor companies, manufacturing 10,436 different products using 261 distinct technologies for 481 different customers.
+
+TSMC is the largest spender among the semiconductor foundries, representing 73.4% of all capex in 2019, which enables the company to purchase state-of-the-art manufacturing equipment.
+
+TSMC is the technology leader at the 7nm node and the leader in utilizing EUV lithography for chip making.

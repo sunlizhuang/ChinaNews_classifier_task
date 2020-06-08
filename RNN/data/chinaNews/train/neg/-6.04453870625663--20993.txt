@@ -1,0 +1,45 @@
+The first confirmed U.S. case of a traveler infected with the virus behind China’s continuing pneumonia outbreak has health authorities on alert to prevent it from spreading. The patient—a man in his 30s—returned from the country’s city of Wuhan (where the virus appears to have originated) to his home in Snohomish County in Washington State on January 15. He developed symptoms and sought treatment from his doctor on January 19, and a day later, a real time reverse transcription-polymerase chain reaction (rRT-PCR) test confirmed he had the virus. The patient appears to be doing well and was being treated this week at a hospital in Everett, Wash., and placed in isolation out of an abundance of caution, said a spokesperson for the U.S. Centers for Disease Control and Prevention in a news briefing on Tuesday afternoon.
+
+The virus, called 2019 novel coronavirus (2019-nCoV), is known to have infected hundreds of people so far, and Chinese authorities have now reported at least 17 deaths. It was first identified in Wuhan late last year and is believed to have jumped from animals to humans at a local seafood market that also sold other wild animal meat. Authorities have since confirmed cases of human-to-human transmission. The pathogen is a coronavirus, a member of a family of viruses that include severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), which caused major outbreaks in 2003 and 2012, respectively.
+
+Cases of 2019-nCoV have been confirmed in several other countries, including Thailand, Japan and South Korea. Three U.S. airports—in San Francisco, Los Angeles and New York City—began screening travelers from Wuhan last week. Such measures have now been expanded to two more airports—in Atlanta and Chicago—and passengers traveling to the U.S. from Wuhan will be funneled to those five locations. The risk to the U.S. public is low at this time, according to the Centers for Disease Control and Prevention. But the agency says it is working closely with other health organizations to contain the virus’s spread.
+
+National Institute of Allergy and Infectious Diseases director Anthony Fauci has been closely following developments related to the new virus. Scientific American spoke with Fauci about 2019-nCoV’s likely mode of transmission, its similarity to other coronaviruses and the question of whether a vaccine is on the horizon.
+
+[An edited transcript of the conversation follows.]
+
+Do we know how the U.S. patient contracted the virus?
+
+He was not in any market where there may have been an animal reservoir, and he does not recall coming into contact with someone who was ill. That’s not surprising: often people contract respiratory infections without knowing the definite exposure source. But he was in Wuhan.
+
+Is the most likely source of this virus an animal market in Wuhan?
+
+It almost certainly came from an animal—almost certainly.
+
+Do you suspect the virus is transmitted via a respiratory route?
+
+A respiratory infection is almost certainly transmitted through droplets. Respiratory spread is a very good guess. We have not definitively proved that the virus entered through the respiratory tract, but it is highly likely. When you have symptoms of fever, cough, infiltrates in the lung and respiratory symptoms, historically, respiratory is the route.
+
+How similar or different is the virus from other coronaviruses such as SARS or MERS?
+
+First of all, it’s a coronavirus, the same family as SARS. It has some of the same molecular homology as SARS. It’s closer to SARS than it is to MERS. But it isn’t overwhelmingly close.
+
+Do we know the mortality rate of the new virus?
+
+It’s a moving target. It’s a rough estimate. If you look at the number of cases, it’s around 300. There have been six deaths so far. [Editor’s Note: On Wednesday, several outlets reported that Chinese authorities had announced 17 deaths, and some had cited more than 540 cases.] We’re only seeing the ones who are hospitalized. If there are asymptomatic infections, the mortality rate would be much less. Among symptomatic people, the mortality rate is around 2 percent. It was 10 percent with SARS, and 30 to 35 percent with MERS. It may be less virulent than those two or it may evolve. It’s too early to know.
+
+Aren’t the symptoms of this viral infection similar to many other types of respiratory infection? How can you tell them apart?
+
+It’s a syndromic and epidemiological association. If somebody comes into an emergency room in Washington State with a respiratory illness, and they haven’t been to China, they probably have the flu or some other virus. But if they came from Wuhan, it’s likely to be the new coronavirus. The symptoms are very common to a number of viruses, though, so [the association] is based on epidemiology [and is confirmed by the rRT-PCR test].
+
+How are the patients with this virus being treated?
+
+It’s mostly symptomatic treatment. There are experimental antivirals that have been used in vitro and in vivo. If the patients need antibiotics for complicating bacterial infections, you give them antibiotics. If they need to be put on a respirator, they’re put on a respirator. Most patients in China are doing well. But a proportion of them are very ill and are on respirators.
+
+How long will it be before we have a vaccine for this virus?
+
+We’ve already started to develop a vaccine. We got the [genetic] sequence from the Chinese. We’re partnering with a company called Moderna to develop a messenger RNA–based platform for a vaccine. We will likely have a candidate in early phase I trials for safety in about three months. That doesn’t mean we will have a vaccine ready for use in three months; even in an emergency, that would take a year or more. But we’re already on it.
+
+How common are coronaviruses, and how often do they jump from animals to humans?
+
+Coronaviruses represent 10 to 30 percent of common colds. Over the past 18 years we’ve had three coronaviruses from animal reservoirs: SARS, MERS and now this. There could be several intermediary hosts, but at least with SARS and MERS, the primary host is thought to be a bat. We don’t know what the primary host is for this virus yet.

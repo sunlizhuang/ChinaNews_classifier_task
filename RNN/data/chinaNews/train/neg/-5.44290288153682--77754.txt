@@ -1,0 +1,51 @@
+On January 31, Health and Human Services (HHS) Secretary Alex M. Azar II declared a formal public health emergency in response to the rising number of cases of coronavirus disease 2019 (COVID-19) around the world and in the United States.
+
+The declaration allows the government to introduce temporary measures to help contain the spread of the virus. But some legal experts question the efficacy and legality of certain approaches the US government has instituted.
+
+During such crises, the government must thoughtfully balance public health protections and civil liberties, emphasize Lawrence O. Gostin, JD, from Georgetown University Law Center, Washington, DC, and James G. Hodge Jr, JD, LLM, from the Sandra Day O'Connor College of Law, Arizona State University, Phoenix, in a viewpoint article published online February 13 in JAMA.
+
+On the basis of current epidemiologic data, the incubation period of COVID-19 is estimated to range from 2 to 14 days. The case fatality rate seems to be 2% or less, which is lower than that associated with other novel coronaviruses (eg, severe acute respiratory syndrome [SARS], Middle East respiratory syndrome [MERS]).
+
+Most cases of COVID-19 and associated deaths have occurred in China, especially in Wuhan and surrounding regions of Hubei province, Gostin and Hodge note.
+
+The immediate health risk from COVID-19 remains low, though sustained transmission of the virus could lead to a rise in cases in the United States. With this in mind, the public health response has focused on confirming COVID-19 illness and separating individuals who are infected or have been exposed to the virus.
+
+Despite the lower mortality rate and the limited risk to the US public, the HHS has exerted federal powers in response to COVID-19 that exceed those used in response to SARS, H1N1 influenza, and Ebola, Gostin and Hodge write. Aiming to avoid "cascading public health, economic, national security, and societal consequences," the administration implemented travel warnings, entry bans, and border protections.
+
+The State Department has issued stringent travel restrictions. These include a highest-level advisory against travel to China, the rerouting of direct flights from China to select US airports for health screening and self-quarantine for up to 14 days, and temporarily banning entry of at-risk foreign nationals into the United States. Major US airlines have also suspended flights to and from China.
+
+On January 31, the US Centers for Disease Control and Prevention (CDC) implemented a 14-day quarantine of almost 200 US evacuees from Wuhan at a California military. Since then, authorities have established mandatory quarantine for anyone entering the United States who has recently visited Hubei province.
+
+The authors note that the CDC has the right to detain, medically examine, and quarantine individuals under the federal Public Health Service Act. However, compulsory public health powers should be assessed, and they should be justified under a common legal and ethical standard. Such actions are legally required to be the "least-restrictive means necessary to achieve public health objectives," they write.
+
+Although the "precautionary principle" can be applied during emerging crises for which scientific certainty is lacking, Gostin and Hodge stress that health emergencies do not justify coercive practices that are indiscriminate, overbroad, excessive, or without evidentiary support.
+
+"Extraordinary" Response
+
+In an interview with Medscape Medical News, Gostin stressed that the United States does need to take precautions to prevent further introduction of the virus into the country. "But the key is whether the travel restrictions and quarantines are justified by good science," he said.
+
+Gostin noted, for example, that the targeted 2-week quarantines of Americans returning from Wuhan may be justified under the precautionary principle because Hubei is at the center of the coronavirus epidemic and the incubation period is up to 14 days.
+
+But the authors believe the quarantines of people arriving from elsewhere in China are excessive and are inconsistent with available epidemiologic data. Most passengers from mainland China have not been exposed to infection, they say. They note that less restrictive measures, such as improved screening and active monitoring, could reduce transmission risks within the United States.
+
+In addition, "the total travel ban on foreign nationals is unlawful and ineffective," Gostin said. These entry bans are overly broad because they do not involve individualized risk assessment. Indeed, the World Health Organization is advising against such widespread travel restrictions.
+
+In an interview with Medscape Medical News, Preeti N. Malani, MD, from the Division of Infectious Diseases, Department of Internal Medicine, University of Michigan, Ann Arbor, underscored the complicated nature of the COVID-19 outbreak, especially given the many unknowns.
+
+"In some ways, the unpredictability of the situation makes it difficult to know how to respond," she said.
+
+Nevertheless, "the mandatory quarantines are extraordinary," she said. She pointed out that it has been about 50 years since the United States issued such an order, which was in response to a smallpox outbreak.
+
+Malani also highlighted how the State Department's regulations in response to COVID-19 seem to affect different groups of people differently. She stressed the need to have dialogues with public health experts in order to correctly size the response according to risk and to adjust the response as the situation evolves and more information emerges.
+
+"One important message that I hope doesn't get lost is the importance of public health — not just globally but also locally," she said.
+
+Malani urged clinicians to get to know their local public health experts and officials. This can improve clinicians' preparedness to deal with disease outbreaks and especially with public health crises such as the COVID-19 outbreak, she concluded.
+
+Medscape Medical News reached out to CDC and HHS multiple times, but they did not respond to requests for comments.
+
+The authors have reported no financial conflicts of interest. Malani is an associate editor of JAMA.
+
+JAMA. Published online February 13, 2019. Full text
+
+Follow Medscape on Facebook, Twitter, Instagram, and YouTube.

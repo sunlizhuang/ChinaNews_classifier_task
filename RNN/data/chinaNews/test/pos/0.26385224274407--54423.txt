@@ -1,0 +1,81 @@
+The RED Komodo seems to be in the final stages of development and it looks like RED started the production process. Mechanical development is done and RED released dimensional drawings for third party manufacturers to start working on accessories. Read further for latest update about the RED Komodo cinema camera.
+
+It can sometimes be a bit difficult to find new relevant information on the Reduser forum. Even more so in case of the new RED Komodo camera. Its original Reduser forum thread with all the information has grown to a whopping 3709 posts on 371 pages. Thankfully, Jarred Land finally decided to open a new category about the Komodo camera to make things a bit easier to follow. I followed the Komodo thread over the last couple of weeks and gathered all the new information in this update post. What do we know so far?
+
+RED Komodo was first mentioned in July 2019. What was initially supposed to be just a camera module for the RED HYDROGEN One phone and for the planed RED HYDROGEN Two phone, became a standalone new cinema camera. We already published two articles about Komodo – if you want to refresh memory before reading my new update post, check them here:
+
+Ad
+
+RED Komodo Features Roundup
+
+Phil Holland posted a roundup of known Komodo specs on Reduser in November 2019. I based the following list on his roundup and added new information as they got revealed by Jarred Land later.
+
+Sensor Technology: New 6K Sensor that features global shutter and rolling shutter modes as well as Phase Detect Auto Focus
+
+Max Resolution: 6144×3240 (full sensor with DCI aspect ratio)
+
+Max Framerate: 6K FF @ 40fps, 6K WS @50fps, 4k @60fps shouldn’t be a problem, there should be 48fps modes available
+
+Anamorphic Support: Yes, but it will not be officially available till around two months after initial release
+
+Codec Support: Internal Compressed RAW (REDCODE RAW, R3D), unknown if other codecs are supported as of now
+
+Lens Mount: Integrated Canon RF Mount. Jarred said they are doing the EF protocol first, so native support for RF lenses will most likely not be there at launch.
+
+Media Type: CFast 2.0 (body features a media slot compartment w/ door). Jarred later said they are also testing CFexpress for future use, but for Komodo they decided to stick with CFast 2.0.
+
+Power Options: Dual slot Canon BP style batteries (various capacities) with hot swap and ability to run off one battery, DC input 12V (LEMO), Lower power draw than DSMC2
+
+Camera Control: Integrated Touch Screen, On Camera Buttons, Some sort of Smartphone Interface, WiFi Control, EXT Port
+
+Monitoring: Top Side Pogo Cableless Display Tech, 4K 6G or 12G SDI Out
+
+Audio: Mic In 3.5mm jack, Headphone Jack, Internal Scratch Mic
+
+Camera Cooling: It appears there’s an internal heat sink and fan w/ vent
+
+Form Factor: < 4x4x4″ with magnesium/aluminum alloy body
+
+Body Weight: < 2lbs
+
+Buttons/Indicators: on/off switch, power/status indicator, record button, tally light, menu, menu selection up/down, funtion set, playback (probably toggle), 2X eject buttons for batteries, media compartment open
+
+Wireless Camera Inteface/Control: WiFi w/ Antenna
+
+Mobile Phone Support: Android and iOS
+
+Rigging: 1/4″-20 around Pogo, 4X M4 around front of camera, 1X M3 for focus hook, general base plate form factor of DSMC2-style bodies
+
+RED Komodo AC Adapter
+
+The Komodo’s AC adapter is considerably smaller than the AC adapters for previous RED cameras. Jarred posted a photo of it next to the 33mm RED COIN for size reference. The adapter’s specifications are 15v @ 3 amps. It connects to Komodo via 12V LEMO connector.
+
+New External Antenna
+
+Last mechanical update on Komodo’s body was the addition of an external antenna for wireless camera control as the original internal antenna was too weak. Jarred posted a photo of the external antenna with SMA connector. The connector lets users put longer antennas if needed.
+
+According to Jarred, with the little antenna RED was able to send the signal to 300 feet (in perfect unobstructed conditions). Jarred was testing the range in an environment with lot of signal interference in his office and got somewhere between 80 and 100 feet. The range is important as Komodo is designed for example for drone use.
+
+Mechanical Drawings Published
+
+On February 4th, RED published dimensional mechanical drawings for the Komodo (full resolution version is available here). All third party manufacturers can therefore now start designing the accessories for the camera. Bright Tangerine, for example, immediately confirmed working on some accessories. We can be sure, that Jarred’s own accessories brand Global Dynamics United (GDU) will also offer enough stuff for komodo.
+
+First Footage from RED Komodo
+
+There is no official Komodo footage available yet. Jarred said, they are still not 100% done with refining Komodo’s R3D color science, but we should see first official footage very soon.
+
+In the meantime, Michael Bay was playing with pre-production Komodos and he used it on his Hard Rock Superbowl commercial. It was shot with RED Komodo, RED Helium and RED Monstro cameras. In terms of grading flexibility, Jarred said he was in the DI during postproduction and they pushed the raw color 200% and it was an equal opportunity across all sensors. Can you spot Komodo shots in the video?
+
+Price and Availability
+
+From the very beginning, Komodo was supposed to be available for RED HYDROGEN One owners at a discounted price. This still remains the plan. The discounted price was supposed to be under $5,000. The first price estimate was $6,000 for customers who don’t own HYDROGEN.
+
+During the development of the camera, Jarred Land, however, stated, that these prices will most likely be higher due to many added features. The real final prices for RED Komodo with and without discount further remain unknown.
+
+When it comes to HYDROGEN discount, according to Jarred it is tied to the serial number of the phone. There is one discount per serial number, and as soon as that serial number is used the discount is retired. It is regardless of the version of the phone and the fact if it was pre-ordered or bought later. If you bought HYDROGEN One second hand before the cut off then you can get the discount but the original owner cannot, and vice versa.
+
+The exact release date for the camera has not been fixed yet. There is a certain possibility that the release gets slightly postponed by the production delays due to the coronavirus in China. Jarred said, however, that RED has alternative production paths for those components which are made in China – some other parts are made in the US, in Mexico, Japan, Europe, and Singapore.
+
+On February 4th, 2020 Jarred wrote on Reduser, that they put up the 12-week target calendar up on the weekend after they locked mechanicals, which would mean the release date to be around April 27th, 2020 (my guesstimate only) if the production does not get postponed by any unexpected delays. That would be just after NAB Show in Las Vegas.
+
+What do you think of RED Komodo so far? Are you planning to invest in the camera? Let us know in the comments underneath the article.

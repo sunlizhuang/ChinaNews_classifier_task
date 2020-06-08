@@ -1,0 +1,47 @@
+China’s energy-guzzling internet and data centre giants are using more clean energy, but remain woefully behind their global peers, a new study by environmental advocacy group Greenpeace and the North China Electric Power University has found.
+
+Data centre operator Chindata and internet giants Alibaba and Tencent emerged the frontrunners in the study’s ranking of China’s 15 biggest internet and data centre players.
+
+The analysis took into account the companies’ renewable energy procurement, energy efficiency and carbon reduction, disclosure of energy usage and emissions, and efforts to influence government and the industry.
+
+On December 27 last year, Chindata, which is backed by investment firm Bain Capital, became the first China-based data center operator to set a target for 100 per cent renewable energy use. It is the only company in the study that has done so.
+
+China’s data centres are 73 per cent powered by coal, the fossil fuel that is the single biggest contributor to global greenhouse gas emissions.
+
+In contrast, 16 global tech firms such as Facebook, Apple, and Google had adopted targets to be fully powered by clean energy as of 2017.
+
+More than half of the Chinese companies analysed have begun to actively procure renewable energy on a limited scale, said the study’s authors. Alibaba, Chindata, GDS, and Baidu each operate one data centre that is powered in significant part by wind and solar energy.
+
+The tech companies’ procurement mechanisms have expanded over the last three years to include rooftop solar, direct power purchase from markets and green power certificates.
+
+In the first nine months of 2019, Alibaba, Baidu, Huawei, Tencent, Chindata and GDS actively procured 400,000 MWh of renewable energy, which is roughly equivalent to Beijing’s total power consumption over a 24-hour period, the study, Clean Cloud 2020: Tracking Renewable Energy Use in China’s Tech Industry, noted.
+
+But Chinese tech companies must scale up their renewable energy ambitions, Greenpeace said.
+
+“In the face of global climate crisis, there’s an urgent need to clean up our internet. Power consumption from China’s internet industry is skyrocketing, and it’s imperative that Chinese internet giants lead the sector to break away from its reliance on coal,” said its East Asia climate and energy campaigner Ye Ruiqi.
+
+Greenpeace urged the internet and data centre companies to set targets for 100 per cent renewable energy use, scale up procurement of wind and solar energy, and actively disclose energy use data and greenhouse gas emissions.
+
+The study found that only 20 per cent of the Chinese tech corporations analysed disclose electricity use and greenhouse gases emissions, compared to 80 per cent of 16 mainstream global tech companies.
+
+Tencent, operator of the mainland’s popular messaging app WeChat, was the only firm to publicly disclose energy consumption statistics for data centres constructed over the last four years. But it has made almost no progress on renewable energy procurement.
+
+The Clean Cloud 2020 report also showed how none of the Chinese companies analysed have disclosed their energy mix, while 50 per cent of the global companies gave out this information in the previous report by Greenpeace.
+
+“ Many of China’s biggest tech companies have made some progress on renewable energy procurement in recent years, but they still lag behind their global peers. They must scale up their ambition and action. Ye Ruiqi, climate and energy campaigner, Greenpeace East Asia
+
+How Chinese tech companies are gaining pace in the renewable energy race
+
+The study also noted how Chinese companies have started to influence the government on energy efficiency and renewable energy.
+
+Chindata and Alibaba have been working with the government of Zhangjiakou, in Hebei province, to advocate a “four party cooperation mechanism”—which includes the government, grid, power plants and consumers—that allows cloud companies and data centre operators to purchase renewable energy directly from wind and solar power generators.
+
+In the first nine months of 2019, Alibaba procured 140 GWh of renewable energy while Chindata procured 96 GWh in the area. Chindata’s Guangting Reservoir Data Center in Zhangjiakou ran on 56 per cent renewable energy during the first half of last year.
+
+Over 60 per cent of Chinese companies surveyed have participated in green power certificate schemes, which measure sustainability commitments made by data centres.
+
+In July 2017, China launched a pilot programme that permits voluntary trade of green power certificates from solar and wind power, with each certificate representing 1 MWh of electricity.
+
+Buying green power certificates allows companies to claim environmental benefits associated with renewable energy generation, even if electricity from a renewable power plant does not feed directly into a data centre facility.
+
+“As China’s power market reforms deepen, a number of pilot procurement markets have emerged, including distributed generation markets, interprovincial and spot markets for green energy. These will likely be scaled up within the next few years, which will offer more diversified and cost-effective procurement options for cloud companies and data center operators,” said the report.

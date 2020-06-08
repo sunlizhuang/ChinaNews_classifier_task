@@ -1,0 +1,35 @@
+This article is a collaboration between MedPage Today and:
+
+ORLANDO -- U.S. hospitals need to prepare now to deal with a possible influx of COVID-19 coronavirus cases by having a plan in place to identify patients, isolate them, and collect and report case data, infection control specialists said here.
+
+Hospital preparedness was top of mind at a panel discussion on preparing for COVID-19 in the U.S., held Monday afternoon at the Society of Critical Care Medicine annual congress.
+
+Clinical care specialist Laura E. Evans, MD, of the University of Washington, Seattle, discussed hospital preparedness in the U.S. at the COVID-19 session. While serving as director of critical care at Bellevue Hospital in New York City, she led the medical Ebola team that successfully treated physician Craig Spencer, who was infected with Ebola virus while volunteering in West Africa.
+
+"The situation is rapidly evolving, and there is substantial uncertainty about what this outbreak may eventually look like," Evans said. "But I think we know that in the United States if we experience a significant influx of seriously ill patients, this will, perhaps, put stress and strain on our healthcare delivery system, including emergency departments, inpatient units, and ICUs."
+
+She said this means that hospitals need to have a plan in place ahead of time to identify and isolate patients and inform relevant stakeholders about their cases. Having a hierarchy of controls, tight adherence to infection prevention and control polices, and making sure medical personnel are familiar with infection control procedures for using personal protective equipment (PPE) are all key, she noted.
+
+Also at the Monday afternoon session, infectious disease and critical care specialist Ryan C. Maves, MD, of Navel Medical Center in San Diego, discussed what is and is not known about COVID-19, from epidemiology to surveillance.
+
+He said while initial cases were linked to the Huanan Wholesale Seafood market in Wuhan, case analysis now shows many patients without a link to the market developed symptoms earlier. This suggests the market may have contributed to the spread of COVID-19, but was not the place of origin, Maves noted.
+
+He added the estimated range of droplet transmission spread for COVID-19 appears to be slightly higher than for influenza, slightly lower than for SARS, and much lower than for measles. But commercial multiplex PCR assays, such as the BioFire respiratory panel, do not detect the novel coronavirus and that care for patients is principally supportive, Maves said.
+
+In an interview with MedPage Today, Maves called for standardized data collection of COVID-19 cases.
+
+"One of the challenges in understanding outbreaks is that every institution is following their own protocol for doing observational studies, and those studies are difficult to compare," he said. "So there is a push for standardizing our mode of gathering clinical data in public health emergencies."
+
+He suggested that the Resilience Intelligence Network's proposed protocol could potentially "standardize the collection of clinical data" for such situations.
+
+"The global collaborative clinical studies platform ISARIC could also help standardize case collection if it were more widely utilized," Maves said.
+
+"Lets say every hospital has five cases. We can either have an infinity of case series' or we can have one standardized way of assessing [cases]. I think that would be useful."
+
+In addition, the panel discussion included a physician on the front lines of the COVID-19 outbreak, speaking by video call from Wuhan, China.
+
+Zhiyong Peng, MD, who heads the department of critical care medicine at Zhongnan Hospital of Wuhan University, discussed patient characteristics and outcomes at his hospital, which treated 138 cases in January. The single-center report by Peng and colleagues was published Feb. 7 in JAMA.
+
+As of Feb. 8, 58 of the patients were still hospitalized, 72 had been discharged, and eight had died, Peng noted at the presentation.
+
+"The transmission of novel coronavirus pneumonia was frequent, characterized by hospital-related infection but low mortality," Peng said, adding that critically ill patients tended to be older, with comorbidities, specific symptoms, and laboratory abnormalities.

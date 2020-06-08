@@ -1,0 +1,53 @@
+Despite being the world’s largest carbon emitter, China produces vastly more patents related to climate change than other major patent offices.
+
+With a 317 per cent increase between the years of 2008 and 2018, China chased and won the title of publishing the most climate-change patents. In 2018 China published nearly three times as many as the US, four times more than the European Patent Office and five and six times more than Japan and South Korea, respectively.
+
+China’s victory in this race is one among many signals that the country is eager to show the rest of the world it is serious about cutting carbon emissions and battling climate change.
+
+But by emitting nearly ten billion tonnes each year - or more than a quarter of global emissions - China's road to drop the title as the largest emitter will be rough. According to 2017 statistics, the country’s carbon emissions equalled those of the US, India, and Russia combined. High reliance on coal power remains a major barrier.
+
+Among other reasons, a push for greener production of goods and energy solutions and adapting to climate change with new technologies are behind “policy [that] has dramatically increased the number of published applications and grants in China", Larry Cady, senior analyst at the US-based patent consulting firm IFI CLAIMS told E&T.
+
+Image credit: E&T, IFI CLAIMS
+
+Despite the vast increase in published intellectual property in the climate category, there is some scepticism regarding patent quality. “State-owned Chinese companies are encouraged to file patents by the government. We have not examined patent quality, but we note that most of these Chinese filings are never filed abroad. This suggests many of these patents may be of lesser quality,” Cady added.
+
+Climate-change patent classes are not the only category experiencing a glut. One analysis from last year found that between 2008 and 2017 the number of patent applications filed across all categories in China skyrocketed from 204,000 to 1.3 million. Experts say state sponsorship was a catalyst behind the rapid surge.
+
+“The sheer volume of patent applications being made in China in comparison to ten years ago, raises some red flags, and there are other telltale signs that the number of applications at face value isn’t resulting in as much innovation as a spectator may expect,” Peter Finnie, a partner at Gill Jennings & Every, an intellectual property firm, wrote in a blog post.
+
+This analysis identified climate change patents as those which belonged to a subgroup of the emerging cross-sectional technologies CPC class (Cooperative Patent Classification). Only patents with the specific Y02 attribute - technologies or applications for mitigation or adaptation against climate change - were considered.
+
+China is not the only patent office experiencing uplift in this area. Numbers between 2008 and a decade later were up for the South Korean patent office. For the US patent office, filings surged by 44 per cent. Figures for the European and Germany patent offices increased by 23 per cent. The only location where publications dropped was in Japan, where one single firm created a relatively large number: Toyota Motor Corp. In 2016, it said it aimed at erasing the carbon footprint of its vehicles and factories by 2050.
+
+Various sub-classes this analysis considered what motivated changes in the number of climate-change patents. Innovation on production or processing of goods was China’s largest source of patents in 2018. Inventions to make processing goods greener comes as no surprise. China is the world's largest exporter by value.
+
+Responsibility for reducing emissions of export goods should not lie only with Chinese producers, some argue. China is the world’s largest carbon emitter in the apparel sector. 72 per cent of emissions arising from its clothing industry are embodied in clothing exported to other countries. Oversea companies, where products are sold, should bear some of the blame, research by the Carbon Trust argues.
+
+For Chinese patents least attention attracted IP on climate change mitigation technology for transportation. It is weak across all the patent offices IFI CLAIMS issued data for.
+
+Image credit: E&T, IFI CLAIMS
+
+China’s upstart category seems the class for adapting to climate change. Y02A, the official class name, grew most strongly between 2008 and 2018. It involves IP that deals with adverse effects in human, industrial - including agriculture and livestock - as well as economic activities.
+
+Chinese institutions that published the most climate change patents
+
+Filtered data revealed companies and institutions accounting for the largest share of Chinese Y02 patents published. State Grid was the largest publisher in 2018 (see chart). Widely unknown, it is one of the world’s largest firms with nearly a million employees and more than one billion customers.
+
+Beyond coming up with nifty IP, it has far bigger plans to transform how China produces and transmits electricity. Recently, the state-owned electric utility monopoly announced plans to tie together the electricity systems of neighbouring nations into transcontinental 'supergrids' capable of swapping energy across borders and oceans. Experts think this could help cut climate emissions by enabling fluctuating renewable sources like wind and solar to generate a larger share of the electricity used by these countries.
+
+Image credit: E&T, IFI CLAIMS
+
+With 216 patents, Zhejiang University comes third. The teaching and research institution is based in Hangzhou, the capital of Zhejiang province. It is one of China's oldest and most prestigious universities. One stimulus for so many patents in this area could be that Hangzhou is among the most polluted cities in China. E&T analysed 288 Chinese cities and found Hangzhou to rank 4th in terms of its indirect and 24th in its direct carbon emissions, based on data posted by Harvard Kennedy School's Belfer Center for science and international affairs.
+
+Image credit: E&T, IFI CLAIMS
+
+IFI CLAIMS’s findings on more climate patents challenges results from other studies. A report by the International Energy Agency (IEA) and the Organisation for Economic Co-operation and Development (OECD) compared the filings of climate change patents between 2005 and 2012. It suggests filings have dropped. But this research also found that collaboration between researchers residing in the US with those in China and India became more common, and saying numbers “[have] risen markedly relative to previous years”.
+
+The road to lower emissions remains tough, with China suffering from slowing economic growth. Also, last year E&T reported on China’s advancing level in coal power capacity and international criticism.
+
+Despite those domestic setbacks, China appears afoot in making progress and conditions may be brighter than gloomsters have it. E&T’s analysis of Chinese climate change patents comes after one study published last July in Nature Sustainability that found that the country’s emissions could drop sooner than expected. It projected emissions to peak between 2021 and 2025 or around five to ten years ahead of the current Paris Agreement target of 2030.
+
+Other factors such as creating an efficient national carbon market could provide China with further uplift. The Chinese Emission Trading Scheme or ETS is expected to cover a quarter of worldwide emissions. Pakistan reached out to China to have discussions about how to link its plans for building a carbon emissions market with the Chinese scheme.
+
+Also, China recently joined the coalition Partnership for Market Implementation by the World Bank. It is among 23 other countries to benefit from technical assistance for the implementation of carbon pricing and market instruments and is expected to start operating from July this year.

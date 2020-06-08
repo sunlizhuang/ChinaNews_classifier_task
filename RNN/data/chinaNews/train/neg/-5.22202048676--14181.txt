@@ -1,0 +1,235 @@
+Robert Rodriguez/CNET
+
+A cluster of respiratory illness, originating in the Chinese province of Hubei in December 2019, has health officials on high alert around the world. In January, the causative agent of the disease was found to be a novel coronavirus, dubbed SARS-CoV-2, and the disease it causes was given a name: COVID-19 (for "coronavirus disease 2019"). It has proven to be particularly infectious and claimed about 3,000 lives in around three months.
+
+The spate of illness was first reported to the World Health Organization on New Year's Eve and in the following weeks was linked to a family of viruses known as coronaviruses, the same family responsible for the diseases SARS and MERS, as well as some cases of the common cold. A special WHO committee declared a public health emergency on Jan. 30 and later raised its global risk assessment for the coronavirus to "very high."
+
+Now playing: Watch this: Coronavirus and COVID-19: Everything you need to know
+
+The situation continues to evolve as more information becomes available. We've collated everything we know about the novel virus, what's next for researchers and some of the steps you can take to reduce your risk.
+
+Now playing: Watch this: Deadly coronavirus detected in the US
+
+What is a coronavirus?
+
+
+
+Coronaviruses belong to a family known as Coronaviridae, and under an electron microscope they look like spiked rings. They're named for these spikes, which form a halo or "crown" (corona is Latin for crown) around their viral envelope.
+
+Coronaviruses contain a single strand of RNA (as opposed to DNA, which is double-stranded) within the envelope and, as a virus, can't reproduce without getting inside living cells and hijacking their machinery. The spikes on the viral envelope help coronaviruses bind to cells, which gives them a way in, like blasting a door open with C4. Once inside, they turn the cell into a virus factory -- the RNA and some enzymes use the cell's molecular machinery to produce more viruses, which are then shipped out of the cell to infect other cells. Thus, the cycle starts anew.
+
+Typically, these types of viruses are found in animals ranging from livestock and household pets to wildlife such as bats. Some are responsible for disease, like the common cold. When they make the jump to humans, they can cause fever, respiratory illness and inflammation in the lungs. In immunocompromised individuals, such as the elderly or those with HIV-AIDS, such viruses can cause severe respiratory illness, resulting in pneumonia and even death.
+
+Extremely pathogenic coronaviruses were behind the diseases SARS (severe acute respiratory syndrome) and MERS (Middle East respiratory syndrome) in the last two decades. These viruses were easily transmitted from human to human but were suspected to have passed through different animal intermediaries: SARS was traced to civet cats and MERS to dromedary camels. SARS, which showed up in the early 2000s, infected more than 8,000 people and resulted in nearly 800 deaths. MERS, which appeared in the early 2010s, infected almost 2,500 people and led to more than 850 deaths.
+
+The WHO has named the new disease COVID-19. "Having a name matters to prevent the use of other names that can be inaccurate or stigmatizing," said Tedros Adhanom Ghebreyesus, director-general of the WHO. "It also gives us a standard format to use for any future coronavirus outbreaks."
+
+The Coronavirus Study Group, part of the International Committee on Taxonomy of Viruses, was responsible for naming the novel coronavirus itself. The novel coronavirus is known as SARS-CoV-2. The group "formally recognizes this virus as a sister to severe acute respiratory syndrome coronaviruses (SARS-CoVs)," the species responsible for the SARS outbreak in 2002-2003. The virus itself was originally given a placeholder name of "2019-nCoV."
+
+To avoid confusion:
+
+The novel coronavirus is officially named SARS-CoV-2.
+
+The disease caused by SARS-CoV-2 is officially named COVID-19.
+
+
+
+
+
+Where did the virus come from?
+
+The virus appears to have originated in Wuhan, a Chinese city about 650 miles south of Beijing that has a population of more than 11 million people. The Huanan Seafood Wholesale Market, which sells fish, as well as a panoply of meat from other animals, including bats, snakes and pangolins, was implicated in the spread in early January.
+
+Prestigious medical journal The Lancet published an extensive summary of the clinical features of patients infected with the disease stretching back to Dec. 1, 2019. The very first patient identified had not been exposed to the market, suggesting the virus may have originated elsewhere and been transported to the market, where it was able to thrive or jump from human to animal and back again. Chinese authorities shut down the market on Jan. 1.
+
+On Feb. 22, a report by the Global Times, a Chinese state media publication, suggested the Huanan seafood market was not the birthplace of the disease citing a Chinese study published on an open-access server in China.
+
+Markets have been implicated in the origin and spread of viral diseases in past epidemics, including SARS and MERS. A large majority of the people so far confirmed to have come down with the new coronavirus had been to the Huanan Seafood marketplace in recent weeks. The market appears to be an integral piece of the puzzle, but research into the likely origin and connecting a "patient zero" to the initial spread is ongoing.
+
+An early report, published in the Journal of Medical Virology on Jan. 22, suggested snakes were the most probable wildlife animal reservoir for SARS-CoV-2, but the work was soundly refuted by two further studies just a day later, on Jan. 23. "We haven't seen evidence ample enough to suggest a snake reservoir for Wuhan coronavirus," said Peter Daszak, president of nonprofit EcoHealth Alliance, which researches the links between human and animal health.
+
+"This work is really interesting, but when we compare the genetic sequence of this new virus with all other known coronaviruses, all of its closest relatives have origins in mammals, specifically bats. Therefore, without further details on testing of animals in the markets, it looks like we are no closer to knowing this virus' natural reservoir."
+
+Another group of Chinese scientists uploaded a paper to preprint website biorXiv, having studied the viral genetic code and compared it to the previous SARS coronavirus and other bat coronaviruses. They discovered the genetic similarities run deep: The virus shares 80% of its genes with the previous SARS virus and 96% of its genes with bat coronaviruses. Importantly, the study also demonstrated the virus can get into and hijack cells the same way SARS did.
+
+The ant-eating pangolin, a small, scaly mammal, has also been implicated in the spread of SARS-CoV-2. According to the New York Times, it may be one of the most trafficked animals in the world and it was sold at the Huanan Seafood Market. The virus likely originated in bats but may have been able to hide out in the pangolin, before spreading from that animal to humans. Researchers caution the full data have not yet been published but coronaviruses similar to SARS-CoV-2 have been found in pangolins before.
+
+All good science builds off previous discoveries -- and there is still more to learn about the basic biology of SARS-CoV-2 before we have a good grasp of exactly which animal vector is responsible for transmission -- but early indications are the virus is similar to those seen in bats and likely originated from them.
+
+How many confirmed cases and deaths have been reported?
+
+
+
+The virus has spread to over 50 countries since its discovery in late 2019 and the number of cases and deaths have been steadily rising since early January. The best way to keep track of the spread of the virus across the globe is this handy online tool, which is collating data from a number of sources including the CDC, the WHO and Chinese health professionals and is maintained by Johns Hopkins University.
+
+The bulk of the confirmed cases and deaths have been recorded in China's Hubei province where the outbreak originated. However, secondary outbreaks have been seen in South Korea, Italy and Iran and a cruise ship, the Diamond Princess, was quarantined in the Japanese port of Yokohama for 14 days in February due to an outbreak onboard. In total, 705 people on the ship were found to be infected with the coronavirus.
+
+Getty Images
+
+How do we know it's a new coronavirus?
+
+
+
+The Chinese Center for Disease Control and Prevention dispatched a team of scientists to Wuhan to gather information about the new disease and perform testing in patients, hoping to isolate the virus. Their work, published in the New England Journal of Medicine on Jan. 24, examined samples from three patients. Using an electron microscope, which can resolve images of cells and their internal mechanics, and studying the genetic code, the team were able to visualize and genetically identify the novel coronavirus.
+
+Understanding the genetic code helps researchers in two ways: It allows them to create tests that can identify the virus from patient samples, and it gives them potential insight into creating treatments or vaccines.
+
+The Peter Doherty Institute in Melbourne, Australia, was able to identify and grow the virus in a lab from a patient sample. They announced their discovery on Jan. 28. This is seen as one of the major breakthroughs in developing a vaccine and provides laboratories with the capability to both assess and provide expert information to health authorities and detect the virus in patients suspected of harboring the disease.
+
+How does the coronavirus spread?
+
+
+
+This is one of the major questions researchers are still working hard to answer. The first infections were potentially the result of animal-to-human transmission, but confirmation that human-to-human transmission was obtained in late January. As the virus has spread, local transmission has been seen across the world. Some of the most at-risk people are those that work in healthcare.
+
+"The major concern is hospital outbreaks, which were seen with SARS and MERS coronaviruses," said Raina MacIntyre, a professor of global biosecurity at the University of New South Wales, Australia. "Meticulous triage and infection control is needed to prevent these outbreaks and protect health workers."
+
+WHO says the virus can move from person to person via:
+
+Respiratory droplets -- when a person sneezes or coughs.
+
+Direct contact with infected individuals.
+
+Contact with contaminated surfaces and objects.
+
+On Feb. 5, Chinese state media reported a newborn had been diagnosed with COVID-19 just 30 hours after birth, opening up the potential for mother-child transmission. Viruses can be transmitted through the placenta, but experts say it's too early to tell whether this is the case with the novel coronavirus, which is "unlikely" to be passed on in the womb.
+
+A handful of viruses, including MERS, can survive for periods in the air after being sneezed or coughed from an infected individual. Although recent reports suggest the novel coronavirus may be transmitted in this way, the Chinese Center for Diseases Control and Prevention have reiterated there is no evidence for this. Writing in The Conversation on Feb. 14, virologists Ian Mackay and Katherine Arden explain "no infectious virus has been recovered from captured air samples."
+
+Getty Images
+
+What are the symptoms?
+
+
+
+The new coronavirus causes symptoms similar to those of previously identified disease-causing coronaviruses. In currently identified patients, there seems to be a spectrum of illness: A large number experience mild pneumonia-like symptoms, while others have a much more severe response.
+
+On Jan. 24, prestigious medical journal The Lancet published an extensive analysis of the clinical features of the disease.
+
+According to the report, patients present with:
+
+Fever, elevated body temperature
+
+Dry cough
+
+
+
+Fatigue or muscle pain
+
+Breathing difficulties
+
+
+
+Less common symptoms include:
+
+Coughing up mucus or blood
+
+Headaches
+
+Diarrhea
+
+Kidney failure
+
+As the disease progresses, patients also come down with pneumonia, which inflames the lungs and causes them to fill with fluid. This can be detected by an X-ray.
+
+How infectious is the coronavirus?
+
+
+
+A widely shared Twitter thread by Eric Feigl-Ding, a Harvard University epidemiologist, suggested the new coronavirus is "thermonuclear pandemic level bad" based on a metric known as the "r nought" (R0) value. This metric helps determine the basic reproduction number of an infectious disease. In the simplest terms, the value relates to how many people can be infected by one person carrying the disease. It was widely criticized before being deleted.
+
+Infectious diseases such as measles have an R0 of 12 to 18, which is remarkably high. The SARS epidemic of 2002-2003 had an R0 of around 3. A handful of studies modeling the COVID-19 outbreak have given a similar value with a range between 1.4 and 3.8. However, there is plenty of variation between studies and models attempting to predict the R0 of novel coronavirus due to the constantly changing number of cases. It seems to have settled on a figure around 2.2.
+
+In the early stages of understanding the disease and its spread, it should be stressed these studies are informative, but they aren't definitive. They give an indication of the potential for the disease to move from person-to-person, but we still don't have enough information about how the new virus spreads.
+
+"Some experts are saying it is the most infectious virus ever seen -- that is not correct," MacIntyre said. "If it was highly infectious (more infectious than influenza as suggested by some) we should have seen hundreds, if not thousands of cases outside of China by now, given Wuhan is a major travel hub."
+
+China has suggested the virus can spread before symptoms present. Writing in The Conversation on Jan. 28, MacIntyre noted there was no evidence for these claims so far but does suggest children and young people could be infectious without displaying any symptoms. This also makes airport screening less impactful, because harboring the disease but showing no signs could allow it to insidiously spread further.
+
+How long can the coronavirus survive on surfaces?
+
+There's still a lot to learn about the hardiness of this particular virus, but similar members of the coronavirus family have been explored in detail, including the coronaviruses responsible for the SARS and MERS outbreaks. Particularly notable is an article published on Feb. 6 in The Journal of Hospital Infection, which looked at a host of previous studies (22 in total) and found coronaviruses may persist on surfaces for up to nine days.
+
+A chief concern for the public has been whether global package shipments could help spread the virus. Different materials can keep the virus alive for longer outside the body, but a range of factors needs to be taken into account when evaluating virus survival. The CDC is still investigating this but has come up with numbers for certain surfaces.
+
+"On copper and steel it's pretty typical, it's pretty much about two hours," Robert Redfield, director of the CDC, told US lawmakers on Feb. 27, according to a report by Reuters. "But I will say on other surfaces -- cardboard or plastic -- it's longer, and so we are looking at this."
+
+The CDC will continue to investigate but believes the risk of contracting coronavirus from packages is still low.
+
+Should you make your own hand sanitizer?
+
+As unnecessary panic surrounding the spread of the coronavirus has gripped consumers, the shelves have emptied. In Australia, shoppers have raced out to buy up whatever they can: toilet paper, paracetamol, pasta and, of course, hand sanitizer. As CNET Wellness editor Sarah Mitroff reports, most places in the US are also sold out of the latter, as are many online stores.
+
+That's led to widespread reports that it's a good idea to make your own hand sanitizer -- but experts warn that you risk making a sanitizer that either isn't effective or is way too harsh.
+
+In CNET's guide to DIY hand sanitizer, we also rule out using hard liquor. Recipes that call for vodka or spirits should be avoided entirely, because you need a high proof liquor to get the right concentration of alcohol by volume. That's because most liquor is mixed with water, so if you mix an 80-proof vodka (which is the standard proof) with aloe, you'll have hand sanitizer that contains roughly only 40% alcohol.
+
+The alternative is to wash your hands. As the CDC and WHO continue to suggest, washing your hands with soap and water for around 20 seconds is one of the best ways to protect yourself from getting sick right now. You should also avoid touching your face if you can, as the virus can be transferred into the body if you've been in contact with someone who's infected.
+
+Should you be worried?
+
+
+
+Despite the increasing spread of the disease outside China, the WHO remains resolute that the outbreak hasn't yet reached "pandemic" levels. "Using the word pandemic now does not fit the facts, but it may certainly cause fear," said Tedros Adhanom Ghebreyesus, WHO director general.
+
+As the virus continues to spread, it's easy to get caught up in the fear and alarmism rampantly escalating through social media. There's misinformation and disinformation swirling about the effects of the disease, where it's spreading and how. Experts still caution that the virus appears to be mild, especially in comparison with infections by other viruses, such as influenza or measles, and has a markedly lower death rate than previous coronavirus outbreaks.
+
+Read more: CNET fact checks the coronavirus rumors and myths
+
+Is there a treatment for the coronavirus?
+
+
+
+Coronaviruses are hardy organisms. They're effective at hiding from the human immune system, and we haven't developed any reliable treatments or vaccines to eradicate them. In most cases, health officials attempt to deal with the symptoms.
+
+"There is no recognized therapeutic against coronaviruses," said Mike Ryan, executive director of the WHO Health Emergencies Programme, during a press conference on Jan. 29. "The primary objective in an outbreak related to a coronavirus is to give adequate support of care to patients, particularly in terms of respiratory support and multiorgan support."
+
+That doesn't mean vaccines are an impossibility. Chinese scientists were able to sequence the virus' genetic code quickly, giving scientists a chance to study it and look for ways to combat the disease. According to CNN, researchers at the US National Institutes of Health are already working on a vaccine, though it could be a year or more away from release.
+
+Notably, SARS, which infected around 8,000 people and killed around 800, seemed to run its course and then mostly disappear. It wasn't a vaccine that turned the tide on the disease but rather effective communication between nations and a range of tools that helped track the disease and its spread.
+
+"We learnt that epidemics can be controlled without drugs or vaccines, using enhanced surveillance, case isolation, contact tracking, PPE and infection control measures," MacIntyre said.
+
+China is running clinical trials on the experimental antiviral drug remdesivir, which was originally developed to treat Ebola. Remdesivir was also given to a US patient in Washington state whose symptoms worsened. In that case, doctors made a "compassionate use" request to the Food and Drug Administration. Those allow people to try experimental drugs outside of clinical trials, usually in emergency situations.
+
+China is also running a small clinical trial of Kaletra, an anti-HIV drug, according to The Guardian.
+
+Developing new drugs requires time and resources, so "while you're waiting for the new miracle drug, it's worthwhile looking for existing drugs that could be repurposed" to treat new viruses, Stephen Morse, a professor at Columbia University's Mailman School of Public Health, told Live Science.
+
+Scientists are racing to develop a vaccine against the new #coronavirus. China's CDC, Shanghai-based Stemirna Therapeutics Co., US' Johnson & Johnson, Moderna Therapeutics, and Inovio Pharmaceuticals are all working quickly to develop a vaccine. pic.twitter.com/bwiUPvSWJ0 — Global Times (@globaltimesnews) January 29, 2020
+
+In a press conference on Feb. 11, the WHO said a vaccine could be ready in 18 months.
+
+China has started clinical trials of two drugs to combat the coronavirus, officials from WHO announced Thursday. Remdesivir, originally designed to combat the Ebola virus, showed promise in one American patient but hasn't yet been licensed for use. On Wednesday, a new study in the journal Science showed researchers were able to create a 3D map of a coronavirus protein, paving the way for vaccines to be designed against the virus.
+
+How to reduce your risk of coronavirus
+
+With confirmed cases now seen across the globe, it's possible that SARS-CoV-2 may spread much further afield than China. The WHO recommends a range of measures to protect yourself from contracting the disease, based on good hand hygiene and good respiratory hygiene -- in much the same way you'd reduce the risk of contracting the flu. The novel coronavirus does spread and infect humans slightly differently to the flu, but because it predominantly affects the respiratory tract, the protection measures are similar.
+
+Meanwhile, the US State Department on Jan. 30 issued a travel advisory with a blunt message: "Do not travel to China." An earlier warning from the CDC advised people to "avoid nonessential travel."
+
+A Twitter thread, developed by the WHO, is below.
+
+Q: What can I do to protect myself from #coronavirus?
+
+
+
+A: https://t.co/PKzKaO2yfK pic.twitter.com/eNhlhR0PEq — World Health Organization (WHO) (@WHO) January 17, 2020
+
+You may also be considering buying a face mask to protect yourself from contracting the virus. You're not alone -- stocks of face masks have been selling out across the world, with Amazon and Walmart.com experiencing shortages. Reporting from Sydney in January, I found lines at the pharmacy extending down the street.
+
+Unreal scenes in Sydney CBD. Line up down the street for masks from Chemist Warehouse. #coronavirus pic.twitter.com/I1qcBBOXr6 — jackson ryan 🙏 (@dctrjack) January 28, 2020
+
+On Feb. 29, US Surgeon General Jerome Adams issued a plea on Twitter for people to stop indiscriminately snapping up masks. "Seriously people- STOP BUYING MASKS!" the tweet said. "They are NOT effective in preventing general public from catching #Coronavirus, but if healthcare providers can't get them to care for sick patients, it puts them and our communities at risk!"
+
+Seriously people- STOP BUYING MASKS!
+
+
+
+They are NOT effective in preventing general public from catching #Coronavirus, but if healthcare providers can’t get them to care for sick patients, it puts them and our communities at risk!
+
+https://t.co/UxZRwxxKL9 — U.S. Surgeon General (@Surgeon_General) February 29, 2020
+
+The surgeon general's tweet points to online guidance from the US Centers for Disease Control and Prevention. The CDC says it doesn't advise healthy members of the public to wear face masks to guard against COVID-19 and other respiratory diseases. Who should wear them, according to the agency? "Facemasks should be used by people who show symptoms of COVID-19 to help prevent the spread of the disease to others," says the CDC's page on COVID-19 treatment and prevention. "The use of facemasks is also crucial for health workers and people who are taking care of someone in close settings (at home or in a health care facility)." CNET's Wellness team has a story up with more details about face masks.
+
+Originally published in January and updated frequently. Sarah Mitroff, Leslie Katz, Carrie Mihalcik, Edward Moyer, Andrew Morse, Corinne Reichert contributed to this report.

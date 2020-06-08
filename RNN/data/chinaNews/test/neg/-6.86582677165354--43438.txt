@@ -1,0 +1,47 @@
+Ebola kills half of the people who get it. China’s last worrying viral outbreak, SARS, killed 10 percent.
+
+The new coronavirus that originated in the Chinese city of Wuhan appears far less fatal, with about 2 percent of all confirmed cases dying. For many, the illness is about as serious as a cold or the flu.
+
+That seems like good news, but it is exactly what worries the scientists and public health experts who study infectious diseases ranging from the terrifying to the mundane.
+
+“These hot viruses are very scary and very deadly, but unless they land in the middle of Heathrow Airport or another densely populated place, they aren’t likely to be long-lasting,” said Jennifer Rohn, head of the center for urological biology at the University College London and an expert in pandemics. “They burn fast, and burn through the population. A virus needs a host to survive.”
+
+In an epidemiological twist of fate, the coronavirus’s mildness may help it spread undetected until it hits the most vulnerable people. Experts are concerned that it could find a devastating “sweet spot” — mild enough that some patients will go about their normal routines and spread the virus far and wide, triggering an increase in deaths. And if some patients may spread the virus when they have mild or no symptoms at all, as Chinese officials have asserted, that would undercut efforts to halt transmission.
+
+The coronavirus has been compared to the flu, which every year infects 10 million to 50 million people each year in the U.S., leaving tens of thousands of people dead, according to the U.S. Centers for Disease Control and Prevention. It is a mild-mannered serial killer. The aggressive response to the coronavirus is meant to stop the new pathogen from becoming a deadlier copycat.
+
+Behind the decisions to lock down travel for tens of millions in China, isolate suspected cases and put the public and health workers on high alert is a simple but worrying piece of math: If the new coronavirus somehow were to infect 60 million Americans, as the swine flu did in 2009 and 2010, but with the same 2 percent death rate for the new virus, it could kill over 1 million people.
+
+“Even if only 1 percent of people who are infected die, if it can spread globally, that will be a lot of people,” said Christian Althaus, a computational epidemiologist at the University of Bern in Switzerland.
+
+So far, the vast majority of the cases of the new coronavirus, known for now as 2019-nCov, have been contained to China.
+
+But the disease has spread inside the world’s most populous nation, a major hub of travel and trade for the region, with cases emerging in Beijing, Shanghai and elsewhere. There are early reports of spread in other countries, as well. Four people in Germany were infected by a coworker visiting from China who didn’t get sick until her plane ride back. In Vietnam, a Chinese man from Wuhan spread the disease to his son there during a visit to the country, during a trip where the infected family traveled around the country on planes, trains, and taxis.
+
+Inside China, the actual case count may be far higher than has been reported. One estimate says the number of infections may have surpassed 26,000 by Tuesday, according to research from Jinan University published in the biology preprint website Biorxiv.
+
+Within China, “what the numbers are telling us is this is a very serious situation, and the virus is spreading in a very concerning way,” said Michael Olsterholm, director of the Center for Infectious Disease Research and Policy at the University of Minnesota. So far, it appears “it is going to be much more difficult to control than SARS.”
+
+Viruses are helpless on their own. Without a living thing to make their home, they can’t reproduce and spread. Often, that host may be an animal, and from there the virus may jump to people.
+
+When an outbreak happens, isolating people isolates the virus. Hospital gowns and masks stop it from spreading through the air or in bodily fluids. Quarantines keep sick people away from new hosts.
+
+The perfect virus makes people sick enough to spread — sneezing up droplets of germ-laden mist into the air, or leaving a thin residue from a wiped nose on a subway pole — without making them so sick or killing them so quickly that they never get the chance to pass it on.
+
+“There is definitely a sweet spot,” said Rohn, the University College London pandemic expert. “The minute you run out of people, it’s game over for that virus. It’s a balance the virus needs to strike.”
+
+Coronaviruses were long thought to mostly cause cold-like symptoms in humans. But in 2002 and 2003, the SARS coronavirus caused more than 8,000 cases and killed around 800 after it emerged in southern China — a roughly 10 percent mortality rate. In part because most cases were severe and easily recognized, it was contained within months, despite an initial period of uncontained spread because of China’s slow response.
+
+“Public health controlled SARS because SARS let it, because you could recognize and isolate disease,” said Mark Denison, director of infectious diseases and pediatrics professor at the Vanderbilt University School of Medicine, who has studied antiviral drugs against coronaviruses.
+
+In 2009 and 2010, another new pathogen, the H1N1 swine flu virus, raced around the world like wildfire. It eventually infected nearly 61 million Americans, though it was so mild that many didn’t know they had it. It caused more than 12,000 deaths in the U.S. — a number lower than what is normally from the flu.
+
+“We are still trying to figure out where this is on the spectrum between SARS, where the vast majority of transmission occurs from very sick people, to something like influenza,” said Julie Gerberding, who was the director of the CDC during the SARS outbreak and now works as the chief patient officer at Merck & Co. “This is probably somewhere in between those two extremes, but where it’s going to fall is a little bit too early to say. That pertains to the mortality figures as well.”
+
+In the coronavirus outbreak, more than a fifth of confirmed patients have developed serious illnesses, according to figures from the Chinese government. Many are elderly or have underlying health conditions that put them more at risk. But people with milder cases may keep going to work, traveling, shopping and spreading the virus.
+
+“If this is a mild infection that only in rare circumstances causes pneumonia or death, many people would probably breathe a sigh of relief,” said Amesh Adalja, an expert on infectious diseases at Johns Hopkins University in Baltimore. “But it’s often a trade-off. You want to have this contained.”
+
+Whatever happens with the Wuhan outbreak, it is not going to be the last time a new coronavirus emerges from bats or other animals and starts infecting people. In the last two decades, the world has dealt with two significant Ebola outbreaks, another coronavirus disease — MERS in the Middle East — and SARS. People will keep bumping into new viruses, ones that humans have never before encountered and to which they have no natural immunity, and have developed no drugs or vaccines.
+
+“There is every reason to believe these events are going to continue to occur,” said Mark Feinberg, a former Merck vaccine executive and president of the International AIDS Vaccine Initiative.

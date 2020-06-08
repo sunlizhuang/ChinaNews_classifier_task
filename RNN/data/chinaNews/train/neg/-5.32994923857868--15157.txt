@@ -1,0 +1,25 @@
+Gene edited and virus resistant Pavel Trefil
+
+CRISPR genome editing has been used to make chickens resistant to a common virus. The approach could boost egg and meat production worldwide while improving welfare.
+
+The altered chickens showed no signs of disease even when exposed to high doses of the avian leukosis virus (ALV). The virus is a problem for poultry farmers around the world, says Jiri Hejnar at the Czech Academy of Sciences.
+
+Infected birds become ill, emaciated and depressed, and often develop tumours. The virus gets into cells by binding to a protein called chicken NHE-1 (chNHE-1). Hejnar’s team has previously shown that deleting three DNA letters from the chNHE-1 gene that makes this protein prevents ALV from infecting chicken cells.
+
+Advertisement
+
+The challenge was to make this change in entire animals rather than just in a few cells. No strains of chickens naturally have this mutation, so it can’t be done by breeding alone. But genetically modifying chickens is more difficult than modifying other animals such as pigs.
+
+The conventional method is to extract so-called primordial germ cells, alter them outside the body and then add the modified cells to embryos inside freshly laid eggs. This approach was used to create CRISPR chickens in 2016, but the success rate is extremely low.
+
+In 2017, Hejnar developed a better method: using altered germ cells to restore semen production in sterilised cockerels. His team then went on to create a cockerel with sperm that have the precise deletion in the chNHE-1 gene.
+
+By crossing its offspring, they have produced a flock of white leghorn chickens that have this deletion in both copies of the gene.
+
+A company called Biopharm is now in discussion with poultry producers in Vietnam and China about introducing this change into commercial breeds. “It’s quite simple to do,” says Hejnar.
+
+Hejnar also plans to use CRISPR to make chickens resistant to other viruses, such as bird flu. This would make us all safer: bird flu viruses sometime kill people and there are fears a mutant strain could cause a deadly global pandemic.
+
+However, there is still opposition to GM foods in many countries. It remains to be seen whether consumers will find CRISPR chickens to their taste.
+
+Journal reference: PNAS, DOI: 10.1073/pnas.1913827117

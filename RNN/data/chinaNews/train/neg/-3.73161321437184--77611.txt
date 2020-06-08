@@ -1,0 +1,17 @@
+LONDON — The Trump administration is stepping up pressure on European allies to ban Chinese tech firm Huawei from supplying next-generation mobile networks, with more officials visiting this week to press the case.
+
+The diplomatic push seems to be failing, however, after Britain decided to allow Huawei as a potential supplier.
+
+The visit to London by a United States delegation highlights how China’s involvement in new 5G networks is an increasingly important part of President Donald Trump’s battle with China over economic and technological preeminence.
+
+Europe finds itself caught in the middle. If Germany, one of Europe’s biggest U.S. allies, defies Washington, it risks upsetting that alliance. U.S. officials have threatened to cut off intelligence sharing with any countries that use Huawei gear, which they fear is a security risk. On the other hand, rejecting Huawei could have wider repercussions, especially for Germany’s relationship with China, one of its biggest trading partners.
+
+The signs are that Germany does not intend to exclude Huawei explicitly from its 5G networks in advance, though the government has not yet finalized legislation. German government officials have said consultations should wrap up soon, without giving a timeline.
+
+Complicating matters, European mobile phone companies used Huawei equipment in their 4G networks. If they do not use Huawei equipment for the initial 5G rollout, which will run on 4G gear, it could result in higher costs and delays.
+
+For more than a year, the U.S. has campaigned against Huawei over fears that China’s communist leaders can use the company to tap into communications running through the networking equipment it sells globally.
+
+Britain last month gave Huawei limited access to its 5G networks, in what was seen as a snub to the U.S. The British government said it would let Huawei provide 35% of a wireless carrier’s “radio access network” of antennas and base stations, but it would not allow “high risk vendors” into the sensitive “core” — the servers that act as a network’s control center.
+
+A U.S. delegation led by Trump’s acting chief of staff, Mick Mulvaney, is due in London to meet with officials from Prime Minister Boris Johnson’s government to express their unhappiness. U.K. officials are pinning their hopes on 5G and related technologies such as artificial intelligence to help boost the economy by kickstarting lagging productivity levels.

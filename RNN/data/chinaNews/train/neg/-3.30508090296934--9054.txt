@@ -1,0 +1,25 @@
+(Photo by Joe Raedle/Getty Images)
+
+President Trump is weighing in on the encryption debate, and demanding that Apple help the FBI unlock two iPhones that belonged to the Pensacola naval base shooter.
+
+"We are helping Apple all of the time on TRADE and so many other issues, and yet they refuse to unlock phones used by killers, drug dealers and other violent criminal elements," Trump tweeted on Tuesday. "They will have to step up to the plate and help our great Country, NOW!"
+
+We are helping Apple all of the time on TRADE and so many other issues, and yet they refuse to unlock phones used by killers, drug dealers and other violent criminal elements. They will have to step up to the plate and help our great Country, NOW! MAKE AMERICA GREAT AGAIN. — Donald J. Trump (@realDonaldTrump) January 14, 2020
+
+The day before, US Attorney General William Barr called on Apple to assist federal agents in unlocking two iPhones from the shooter, Saudi military cadet Mohammed Saeed Alshamrani, who killed three people on Dec. 6. The FBI has been trying to determine who Alshamrani had been speaking to prior to last month's attack. However, the encryption on the iPhones has been preventing federal investigators from accessing any of the data inside.
+
+"This situation perfectly illustrates why it is critical that investigators be able to get access to digital evidence once they have obtained a court order based on probable cause," Barr said yesterday in demanding the company come up with a solution to unlocking the two iPhones.
+
+However, Apple disagrees with Barr's framing of the debate. According to the company, the solution the FBI wants actually amounts to a backdoor into iOS, which could be exploited to weaken the software's security for all. "We have always maintained there is no such thing as a backdoor just for the good guys. Backdoors can also be exploited by those who threaten our national security and the data security of our customers," Apple said yesterday.
+
+So far, the company hasn't commented on the President's latest tweet. But it isn't the first time Trump has sided with the FBI on the encryption debate. In 2016, when Trump was still campaigning for the presidency, he called on his supporters to boycott Apple until it helped federal investigators access a seperate iPhone belonging to the San Bernardino shooter, Syed Farook.
+
+Since then, the President has been both critical and supportive of the company, especially on the matter of creating manufacturing jobs in the US. In September, Apple announced it would build the new Mac Pro in Texas after the Trump administration waived tariffs on certain Chinese-made components needed to build the hardware.
+
+"When you build in the United States you don't have to worry about tariffs," Trump reportedly said during a visit of the Mac Pro factory in Texas back in November. A month later, the White House struck a deal with China to avoid imposing tariffs on Chinese-made smartphones, which would have also ensnared Apple's iPhones.
+
+Further Reading
+
+Security Reviews
+
+Security Best Picks

@@ -1,0 +1,59 @@
+The report shows that enterprises with mature privacy policies saw millions in tangible returns from investments in protecting their data.
+
+Want to attain and retain customers? Adopt data privacy policies Customers won't buy services or products from companies if they don't trust how their data will be used, Cisco found.
+
+Privacy regulations have become all the rage since the landmark GDPR came into effect over the last few years. Dozens of countries have started work on their own privacy legislation while US states like California, Nevada and Washington have passed laws forcing companies to put some rules in place over their data.
+
+The new "Data Privacy Benchmark Study 2020" report from Cisco shows that while these laws may seem onerous, companies are seeing tangible financial benefits from having mature privacy rules governing the data they collect from customers.
+
+Cisco's researchers spoke with 2,800 security professionals in 13 countries about how their company's handled privacy and data security.
+
+The study found that an increased focus on privacy led to shorter sales delays, better security and fewer data breaches. More than 40% of the companies surveyed are seeing benefits at least twice that of what they spend to ensure privacy.
+
+The percentage of organizations saying they found significant business benefits from privacy grew to over 70% and another 82% view privacy certifications as a buying factor when selecting a product or vendor in their supply chain.
+
+In an interview, Robert Waitman, Cisco's director of privacy insights and innovation, said that over three years, its research looked at and quantified the benefits of having a good privacy program.
+
+SEE: 60 ways to get the most value from your big data initiatives (free PDF) (TechRepublic)
+
+"At Cisco, we've done privacy research over the past few years thinking about the benefits or the costs that organizations are incurring as a result of the regulations and the increased scrutiny that they're getting from their customers around data privacy," Waitman said.
+
+"On average, for every $100 a company is spending on privacy, they're getting back $270 of business benefit, which comes in the flavor of better security, shorter sales delays, greater innovation and agility as well as competitive advantages. Some things are hard to quantify so we looked at the results of what companies have told us about their benefits," he added.
+
+The companies surveyed spend between $2 million to $500,000 each year on privacy protections. The average spend was $1.2 million, yet the average return companies saw was $2.7 million.
+
+For bigger enterprises with 10,000 employees or more, the benefits were even larger, with estimated benefits reaching more than $4 million. Another 17% said they had returns of more than $10 million while small businesses estimated an average of about $2 million.
+
+"Privacy and accountability are central to our data-driven innovation, and have become key differentiators for our brand. This research reinforces the fact that privacy is a critical investment for forward-looking companies," Caroline Louveaux, chief privacy officer for Mastercard, said in the survey.
+
+When it comes to data breaches, companies that had mature privacy policies reported steep decreases in the number of attacks and the severity.
+
+The report found that having mature and accountable processes to manage, control, and curate data seems to help organizations avoid and limit the impact of data breaches. The length of sales delays also was directly correlated to how sophisticated your privacy programs are.
+
+"The companies that are most advanced are more than twice as likely to not have been breached last year. Only 13% of enterprises didn't get breached if they were low on the privacy scale. If you were more mature on the privacy scale, 28% were not breached," Waitman said.
+
+"You're twice as likely to have a breach-free year if you invested in privacy. Going further, among those organizations, they had less down time from breaches, with 19% less downtime, 28% fewer records breached and total breach costs down 10%."
+
+Privacy certifications are one way companies are able to differentiate themselves and send clear messages to customers and suppliers that they are at the top of their game when it comes to protecting data.
+
+In the report, Cisco mention commonly held privacy certifications, programs and practices like ISO 27701, EU/Swiss-U.S. Privacy Shield, APEC Cross-Border Privacy Rules and EU Binding Corporate Rules.
+
+More than 90% of companies in Brazil, India and China told Cisco researchers that these certifications represented a buying factor when selecting a vendor or product.
+
+"You need to be thinking about getting these certifications because this is something your buyers are increasingly looking to and caring about. It simplifies the buying process. If you can say 'Hey, do you have that certification' and the answer is yes, they don't have to ask any other questions on that topic," Waitman added.
+
+"We were very surprised at how high that number was and it was really true around the world."
+
+One interesting aspect of the study was the difference between enterprises in countries across the world.
+
+According to the study, the average return on privacy investment varies significantly based on country, with the highest average returns being found in the United Kingdom, Brazil and Mexico, which all had returns over three times as large as their privacy investment.
+
+While there has been some concern about all of the privacy laws making their way through state legislatures in the United States, companies across the world said regulations like the GDPR forced them to gain a better handle on their data.
+
+"We heard many stories about this anecdotally because of all the privacy regulation recently. Many organizations are thinking that they can't do anything with personal data. They think they're not allowed to touch that data or use those emails or do anything involving personal data. That's not true. It just has to be properly used and protected and have a legal basis for its usage," Waitman said.
+
+"If you help people understand what they can do by knowing what they can't do, that enables them to do many things around agility and have the company try new things. Having 71% of the companies say that they are better at that because of privacy is a big deal."
+
+Data, Analytics and AI Newsletter Learn the latest news and best practices about data science, big data analytics, and artificial intelligence. Delivered Mondays Sign up today
+
+Also see

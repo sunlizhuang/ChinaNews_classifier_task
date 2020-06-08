@@ -1,0 +1,59 @@
+Europe revealed ambitious plans to challenge US and Chinese dominance in tech and artificial intelligence.
+
+The EU wants to make it easier for local businesses, tech firms, and startups to trade in data through a proposed "data single market" that would allow them to compete with US data titans Google and Facebook.
+
+It also wants to boost the adoption and development of artificial intelligence in Europe, as US and Chinese firms dominate the industry.
+
+The proposals were set out Wednesday by Margrethe Vestager, Thierry Breton, and Ursula von der Leyen, all senior members of the European Commission.
+
+Silicon Valley executives including Facebook CEO Mark Zuckerberg visited Brussels in recent weeks to lobby lawmakers on regulation - with limited success.
+
+Visit Business Insider's homepage for more stories.
+
+Europe has unveiled its blueprint of how it plans to challenge Silicon Valley and China's dominance in artificial intelligence and technology.
+
+The European Commission's wide-ranging policy proposals, published Wednesday, set out ideas around access to data, the regulation of artificial intelligence and facial recognition technologies, and supporting the growth of European tech.
+
+The proposals were set out Wednesday by Margrethe Vestager, Thierry Breton, and Ursula von der Leyen, who are all senior members of the Commission.
+
+In an op-ed article published earlier on Wednesday, von der Leyen explained the new rules' ultimate purpose.
+
+"We believe citizens should be empowered to make better decisions based on insights gleaned from non-personal data," she wrote.
+
+"And we want that data to be available to all - whether public or private, big or small, startup or giant. This will help society as a whole to get the most out of innovation and competition and ensure that we all benefit from a digital dividend."
+
+The underlying meaning: Europe wants to encourage its homegrown startups and tech firms to challenge China and the US.
+
+Europe doesn't want Silicon Valley hogging everyone's data
+
+As expected, one proposal centres on a "data single market" to let data flow freely within the EU.
+
+The goal is to create the data single market by 2030, covering everything from health data to financial and energy data.
+
+In a public communique, the commission outlined its concerns over the "accumulation of vast amounts of data" by big tech - likely referring to US giants Facebook, Amazon, and Google. The commission hinted at further regulation to curb these giants' power.
+
+The goal of all this is to boost data-sharing between member states, between businesses, and between public authorities.
+
+Europe also wants to get ahead on artificial intelligence, and will scrutinize facial recognition
+
+In a whitepaper, the commission also outlined proposals around the development of AI within Europe.
+
+Currently, the US and China dominate on AI development. Europe lacks a tech giant of its own to rival US firms such as Facebook, Google, Amazon, or Apple, or China's Baidu or Tencent. As these firms deepen their hold on the increasingly vital field of artificial intelligence, Europe may lag further behind.
+
+According to a 2019 report by the Center for Data Innovation, the US leads globally with the highest number of AI startups and the largest amount of capital flowing into the sector.
+
+China has inched ahead of Europe thanks to local tech companies' unfettered access people's personal data, fundamental to the development of AI.
+
+Europe is ahead on AI talent, but behind in terms of funding and adoption of AI.
+
+The goal is to try and change this - while maintaining the balancing act with its own strict regulation around people's privacy and personal data.
+
+According to the commission's whitepaper: "[Europe] can develop an AI ecosystem that brings the benefits of the technology to the whole of European society and economy." The whitepaper touches on AI's potential use in healthcare, cybersecurity, agriculture, and in sustainability.
+
+The paper also touches on the growing use of facial recognition in public spaces, noting that technically this breaches European privacy law in most instances. The commission said it will debate the use of facial recognition in public spaces.
+
+Per the whitepaper: "In order to address possible societal concerns relating to the use of AI for such purposes in public places... the Commission will launch abroad Europe and debate on the specific circumstances, if any, which might justify such use, and on common safeguards."
+
+Silicon Valley executives have visited Brussels in recent weeks ahead of the EU's new proposals.
+
+Facebook CEO Mark Zuckerberg visited this week to discuss regulation with Vestager, Breton, and other EU policymakers, with mixed results. Google CEO Sundar Pichai and Apple's John Giannandrea also made a trip, according to the New York Times.

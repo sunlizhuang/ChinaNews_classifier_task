@@ -1,0 +1,85 @@
+The XGIMI MoGo Pro is a balanced product that delivers where it matters for remote workers and business professionals on the move. Easy to carry, use and put in place.
+
+Where to buy? You can purchase the XGIMI MoGo Pro from Amazon for just $549.99.
+
+XGIMI is a brand that has yet to match the sort of cachet that the likes of Epson or BenQ carry when it comes to business projectors. And yet, despite its relative anonymity, this Chinese brand has won the prestigious reddot and IF design awards several times.
+
+Like Vivo or Redmi, XGIMI is also a well established AV player in China where the lack of space in dwellings can make it problematic to have a large screen television. Its latest flagship portable projector, the XGIMI MoGo Pro (XK03S or XGIMI Play in China), debuted on Indiegogo and raised more than $385,000 there from more than 1,000 backers.
+
+(Image credit: Future)
+
+Design
+
+By market share, XGIMI is the undisputed leader in China in what has been identified as screenless TV market. These try to differentiate themselves from traditional projectors through the features they offer as well as the design with perhaps laptops versus desktop PCs being the closest analogy.
+
+The MoGo Pro is a compact projector that reminded us of one of those anonymous canisters that are used to store tea bags. It is cylindrical in shape and looks every much like a polished product with a design philosophy that combines function and appearance.
+
+(Image credit: Future)
+
+No garish colours here with white and grey dominating the design; there’s ventilation slots that hide a fan and the speakers on three sides with a power socket, a USB 2.0 port, an HDMI one, an audio connector and an on/off button at the back.
+
+(Image credit: Future)
+
+On top is an indicator light, touch sensitive volume and play/pause buttons.
+
+(Image credit: Future)
+
+The base hides a tripod screw, rubber base, useful information and notices. Despite its relatively modest dimensions (146 x 106 x 95mm), it weighs a hefty 895g, something to bear in mind if you want to buy a tripod for it.
+
+(Image credit: Future)
+
+The remote control is of the same vein; minimalist with buttons that require little explanation. You will need it to change the source or to control Google Assistant for example. Lose it and you will have to rely on the free XGIMI assistant app .
+
+(Image credit: Future)
+
+Hardware
+
+At the heart of the MoGo Pro is a 0.23-inch DMD (Digital MicroMirror Display) chip. Like all DMDs, it is built by Texas Instruments and has a standard resolution of 1920 x 1080 pixels (full HD). XGIMI claims that it has a luminance of 300 ANSI lumens and a lamp life of up to 30,000 hours.
+
+An Amlogic T950X2 system-on-chip with a Mali-G31 GPU powers it, helped by 2GB of RAM and 16GB onboard storage. Bear in mind that this is an Android TV 9.0 system that costs $550 and one can legitimately feel slightly short changed.
+
+In comparison, an Android thin client with a similar configuration would cost about $20. Connectivity is done via Chromecast, Bluetooth 5.0 and 802.11n Wi-Fi plus the sound quality is provided by Samsung-owned Harman Kardon.
+
+A 36Whr/10400mAh battery, powered by a 65W power adaptor (19V,3.42A), keeps the projector working untethered.
+
+(Image credit: Future)
+
+In use
+
+We were surprised to get a firmware update shortly after switching it on. V2.1.55 was a hefty 722MB file that promises a few important improvements like adding Bluetooth OUT function. The MoGo Pro comes with a stock Android TV 9.0 which, the company confirmed, will be upgraded when the time is right.
+
+A spokesperson for the company has already confirmed to us that they will release a new firmware soon that will fix Amazon Prime Video (currently not available) and offer a new way to watch Netflix. Currently the best way to do it is via KODI , not the best situation.
+
+(Image credit: Future)
+
+The projector has a projection ratio of 1.2:1, meaning it will display a 76-inch screen at 200cm. It has a keystone correction of +/- 40 degrees on both axis. Noise was kept to a minimum; XGIMI quotes less than 30dB and while we didn’t test it objectively, this number is likely to be higher under load.
+
+Although the MoGo Pro will look at ease in any business setup, its main crowd is likely to be consumers looking for a massive display without the hassle of owning one.
+
+(Image credit: Future)
+
+The Harman Kardon sound system comes with two 3W speakers which might sound ridiculously tiny but deliver a clear, crisp sound with just good enough bass. Bear in mind that the drivers on this projector are quite small.
+
+Note the absence of any card readers which tend to be popular on cheaper models. You can however push any downloaded content either through a USB drive or an adapter or by connecting the player via the HDMI cable.
+
+(Image credit: Future)
+
+The MoGo Pro delivers a great viewing experience; content displayed at native resolution on a smooth white wall looked bright with colour reproduction being vivid without being too brash. There’s lashings of detail and motion remains silky smooth throughout.
+
+The competition
+
+Remember that the XGIMI MoGo Pro retails for $549.99 at Amazon with a $50 voucher bringing it to just under $500. Competitors would have to include Android TV 9.0 and have a native full HD resolution.
+
+The Xiaomi Mijia MJJGTYDS02FM is a 1080P portable projector that retails for $410 and uses TI’s DLP technology. It uses Xiaomi’s proprietary user interface, known as MIUI, and has a rated brightness of 500 ANSI Lumens, 66% higher than XGIMI’s. Note that it doesn’t have a battery but it does have a USB 3.0 port plus a HDMI one and HDR10 compatibility.
+
+A slightly more expensive model, the Xiaomi Mijia TYY01ZM , costs $536 and boasts of an even higher brightness at 800 ANSI rating. Its keystone correction is slightly higher as well at 45 degree and its enclosure is made out of aluminum which should help keep the device cooler. Bear in mind though that there is no battery in this one as well.
+
+If a battery is top of your list, then the $510 Fengmi M055CFN - which is part of the Xiaomi Ecosystem scheme - may fit the bill. We liked the stylish strap to carry the device around and we can only applaud the inclusion of a massive 16Ah battery, bigger than XGIMI’s own. With a USB 3.0 port and a higher brightness level (550 ANSI Lumens), it seems on paper to be a better choice.
+
+Business take
+
+It is difficult not to be enamoured with the MoGo Pro. After all, it is the latest of a family of products that have improved over the past few years and issues we encountered were minor compared to the overall value of the package.
+
+This product delivers a powerful punch with plenty of options and no real learning curve. When it comes to the core qualities, image reproduction and sound quality, it is as good as it gets.
+
+XGIMI confirmed that there won’t be a 4K version of this projector in the near future as this would consume far more power and require a bigger fan/cooling system.

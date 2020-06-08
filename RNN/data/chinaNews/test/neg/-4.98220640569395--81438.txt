@@ -1,0 +1,29 @@
+Two months after the coronavirus outbreak began in the Chinese city of Wuhan, the deadly pathogen has gone on to claim the lives of more than 2,100 people around the globe. The outbreak has led to many alarmist reports about the virus and has caused a global uproar over the way China’s Communist Party mishandled the first reported cases and then attempted to downplay any potential threat. In order to clear the air about the exact details of the Coronavirus, New Europe’s Federico Grandesso sat down with Andrea Crisanti, a Professor of Microbiology at Padua University, to discus the pathology of the virus.
+
+New Europe (NE): Professor Crisanti, have we reached the peak of virus?
+
+Andrea Crisanti (AC): If we want to make a forecast, the biggest problem that we have is that we don’t know the virus’ basic reproduction number, or R0. If we don’t know this, our forecasts are really only estimates. At the beginning, the told us that the reproductive index of the virus was 1.4, or 1.5 but now this seems to be wrong so it is still difficult to understand if we reached the “highest” point of the virus.
+
+NE: How do you evaluate the role that Europe has in this crisis?
+
+AC: Every country has different priorities and different experts that don’t agree with each other, I don’t know if Europe should or could have done more, but it’s a fact that Brussels failed to confront the crisis in a coherent way. The EU gave several contradictory messages during the critical early stages of the outbreak. For example, some countries stopped all flights from China while some others kept the door open. All of that was going on while some other European countries screened only those who were already sick people, while others examined everybody. The real problem here in Europe is that there’s no common EU health policy. This really is a shame because the European Union has all the resources to take action during moments like this.
+
+NE: There are some experts in Italy and in Europe who are forecasting that a major increase in the number of cases could occur. Do you think that will be the case?
+
+AC: It will depend a lot on how China controls the infection. The most alarming element is that they have not been able to control the infection on the cruise ship The Diamond Princess in Japan. In that ship there are 3,000 people, all of whom should be easily controlled, but what we have are more and more cases every day. If the Chinese health authorities are not able to control a closed space like a cruise ship, the question becomes “how would they able to control and monitor an entire country?” This is a very concerning issue. Basically, if the authorities can’t stop the virus on that ship, then nobody will be able to stop it.
+
+NE: There are a lot of major concerns that the virus could spread to Africa. Do you see that as a possibility?
+
+AC: In general, respiratory viruses have different impacts on different locations. Africa has a climate and social habits that are very different from ours. They live more in the open air and this is actually positive if you want to fight the virus and block the spread of it. In fact, I think that there would be more serious damage done to Europe than in Africa. Without question, their health care system is woefully inadequate and the mortality rate would be excessively high, but the transmission would be lower than a major outbreak in Europe.
+
+NE: Where do you get your daily updates about the evolution of the virus?
+
+AC: There are several agencies like the WHO and the Centers for Disease Control and Prevention that provide good updates and tips on how to operate. We are starting to get more concrete details about the virus, but a lot of the studies and articles are contradictory. That said, we now have a much better understanding about how the virus’ symptomatology. In Italy, the Spallanzani Hospital in Rome is the epicenter for research into the coronavirus. The Italian government is collaborating with the hospital on how to manage this outbreak.
+
+NE: A new study found that the virus can live on several surfaces for up to nine days, what should the general public understand about this fact?
+
+AC: We still haven’t studied the virus thoroughly enough to properly corroborate that theory. More experiments on various surfaces in different conditions need to be done to verify if the virus is still resisting the elements on a specific surface and if it is still infectious. All of these observations must be corroborated by experimental tests, but this hasn’t been the case as of yet. Researchers still haven’t defined what they mean by “a surface”. Details like humidity, dryness, temperature – all of these haven’t been defined. You have to consider all of these before you have a full picture. There are so many variables to take into consideration.
+
+NE: Other experts are saying that after a period of remission, the virus could actually return. What do we actually know about that?
+
+AC: I haven’t read enough about that. There are some possibilities, though. In a single scenario we should imagine a virus that is continuously changing, but the sequence data doesn’t seem to support this theory. I would be truly astonished if there would be a total susceptibility, because it wouldn’t have recovered.

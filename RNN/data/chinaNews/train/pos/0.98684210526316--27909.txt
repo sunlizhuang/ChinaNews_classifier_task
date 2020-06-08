@@ -1,0 +1,13 @@
+The latest news comes by way of the Industry Minister Agus Gumiwang while at the World Economic Forum (WEF) in Davos, Switzerland. He said: “This investment can boost Indonesia to become a strategic digital hub. The AWS region in Indonesia will certainly support the start-up ecosystem so it can grow rapidly.
+
+“It can also help create more jobs and companies in the technology sector.”
+
+Gumiwang said this after a meeting with AWS's global public policy VP Michael Punke, according to The Jakarta Post.
+
+Jakarta will be joining other AWS regions in the Asia-Pacific such as Hong Kong, Beijing and Ningxia in China, Mumbai, Seoul, Singapore, Tokyo, and Sydney.
+
+Data laws
+
+In November, representatives of Indonesia's digital infrastructure operators protested a proposed reform to the country’s Electronic Systems and Transactions law, also known as Government Regulation 82 of 2012 (PP 82/2012).
+
+Rather than treating all data the same way, the proposal divides it into different categories, and non-critical data would be allowed to be stored outside of Indonesia. However, the Indonesian operators said in a joint press release that a hasty relaxation of data localization policy could harm national industrial growth and erode data protection frameworks.

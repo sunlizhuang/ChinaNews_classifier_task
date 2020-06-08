@@ -1,0 +1,86 @@
+Tesla Shanghai Model 3 May Go Cobalt-Free Using CATL’s LFP Cells — Diving Deeper
+
+February 18th, 2020 by Dr. Maximilian Holland
+
+Tesla is in talks with battery producer CATL* to supply lithium-iron-phosphate (LFP) cells for the Shanghai-made Tesla Model 3, according to a report by Reuters. LFP cells are slightly less energy dense than Tesla’s typical NCA cells, but are cheaper, simpler to package, and require no scarce minerals (cobalt and nickel). They are ideal for further reducing the cost of the Tesla Model 3 Standard Range Plus whilst still providing adequate range.
+
+Lithium-Iron-Phosphate Battery Pros & Cons
+
+All lithium-ion cell chemistries are gaining steady improvements in energy density and benefiting from reductions in cost. Until now, for weight-sensitive EV applications, lithium-ion cells with nickel-cobalt-manganese (NCM) or nickel-cobalt-aluminium (NCA) cathodes have typically been favoured for their higher energy density.
+
+The slightly less energy dense iron-phosphate (LFP) cathodes have been well suited to electric buses and other heavy vehicles (sanitation trucks, etc.), which have modest range requirements but demanding duty cycles and have taken over 90% of this market. LFP typically can be charged and discharged at higher power levels than their NCM and NCA cousins (let’s call these NCx), and they can endure more use cycles before degrading, giving a longer life in high-duty applications such as buses.
+
+With continuing chemistry advances, LFP cells are now starting to reach energy densities (both in weight and volume) that can make good sense for decent-range passenger electric cars, especially those which use energy efficiently, like the Tesla Model 3 SR+, which has a 250 mile EPA range rating.
+
+Although the ~55 kWh pack of the SR+ with LFP cells may weigh perhaps 40–60 kg (around 10-15%) more than the NCA version of the pack, this is only ~3% of the weight of the overall vehicle, and still well under the weight of the Model 3 Long Range variants. The slight added weight is easily compensated by adding another 1 or 2 kWh of energy to keep the overall range the same, and perhaps tweaking the motor peak power to keep peak acceleration the same.
+
+The higher energy density of batteries using NCx chemistries still gives them the edge for EVs needing to offer more energy for range closer to 300 miles (or more). Tesla’s Long Range variants will continue to use these and emerging high-density chemistries for the foreseeable future.
+
+In EVs that don’t need the most extreme energy densities, LFP has advantages of long life, high charging rates, and, perhaps most importantly, cost competitiveness with no risk of any mineral supply constraints, either now or in the future.
+
+No Mineral Constraints
+
+The cobalt supply chain required for NCx batteries is famously complex. Commercially viable cobalt deposits are uncommon globally, and some of the most viable are found in the Democratic Republic of the Congo (DRC), which supplies around two-thirds of the global cobalt market. Although most DRC supply is from modern mining techniques, as of 2016, up to 20% of supply was from “artisanal mining” often involving children and unsafe working conditions. Being associated with this form of mining obviously caries reputational risk for automakers (amongst other industries that use batteries), even the ones (like Tesla) that have committed to not sourcing cobalt from this region or other regions with such problems. Also, since it’s not always possible to have 100% accurate supply-chain tracking, Tesla and other automakers have rightfully been under pressure to reduce cobalt content in cells.
+
+We use less than 3% cobalt in our batteries & will use none in next gen — Elon Musk (@elonmusk) June 13, 2018
+
+Tesla is already far advanced in its effort to reduce cobalt. Whilst the latest generation of NCM 811 cathodes have just 10% cobalt, Tesla’s NCA cathodes have less still. In June 2018, Musk claimed under 3% and heading towards none, and likely well under 3% by now. Switching one of Tesla’s highest0volume products (Shanghai Model 3 Standard Range) over to entirely cobalt-free LFP cells — now that LFP chemistry has reached the threshold energy density — will obviously be a win in this respect.
+
+Volkswagen has also indicated that it intends to use latest-chemistry LFP cells for its high-volume China-market EVs. Volkswagen could also potentially do so for its standard-range ID.3 and other upcoming EVs for European and US markets. Though, Volkswagen’s longest-range variants (which won’t be the highest volume sellers in Europe or China) will likely still need NCx chemistries for the reasons discussed above.
+
+Not requiring nickel is another advantage of LFP cells. Although nickel use in EV batteries is accommodated by supply volumes in 2019–2020 (requiring around 6% of global high-grade nickel supply), as EV sales move from 2.5% of the market to 25%, that would obviously require substantial additions to nickel supply if NCx chemistries are still favoured.
+
+LFP cathodes are made up of iron, phosphate, oxygen, and sometimes manganese. Other key cell materials are lithium salts, polymer separators, graphite anodes, copper and aluminium current collectors, and aluminum casing. All of these are already abundant in principle, and most are extensively mined (or synthesized) at relatively high volumes compared to the current and future needs of EVs. Lithium mining will need to match scale with growing EV demand. Though, it’s actually a small proportion of the cell by weight. And as a backstop, at the limit, lithium is present in seawater and could be extracted at a cost which would still allow for affordable EVs, if conventional sources proved slow to ramp or otherwise economically or politically constrained.
+
+In short, there are a wide variety of possible mineral chemistries that can store electrical energy, even though some have a longer history and are currently more commercially viable than others. NCx chemistries still have the best balance of cost and energy density for long-range and high-performance EVs. LFP chemistries are now reaching energy density that matches the needs of medium-range EVs, whilst bringing along their other strengths (charging, longevity, safety) and low cost. They are also effectively free from any mineral constraints that are sometimes are leveled at NCx chemistries.
+
+The plurality of mineral supply chain approaches to EV batteries means the market is fundamentally diversified and — in the long run — resilient to being derailed by any particular mineral constraint that may arise. This fact in itself then reduces the chance than one mineral will become “critical,” since it will be substituted before that squeeze arises. If the reported collaboration between Tesla and CATL on LFP cells comes to fruition, in addition to their collaboration on NCx cells, both companies will gain from diversification, greater mineral supply chain abundance, and lowered risk.
+
+LFP Industry Developments
+
+We saw back in December that several Chinese battery manufacturers have been advancing their LFP technology. Amongst the biggest LFP players are CATL, Guoxuan, Lishen, EVE, BYD, and BAIC. Guoxuan was already producing 190 Wh/kg LFP cells in 2019 and is now pushing towards 200 Wh/kg:
+
+#Guoxuan to develop 200 Wh/kg #LFP #cell by 2021 latest, company said.
+
+Guoxuan already installed 190 Wh/kg LFP cells on >400 km range vehicles, company added. pic.twitter.com/vJtYEPQjKS — Moneyball (@DKurac) December 15, 2019
+
+CATL, BAIC, and others are also aiming for 200 Wh/kg:
+
+Since June, four #China #NEV/#EV #battery manufacturers said they developed cell-to-pack (#C2P) tech.#BYD's CTP to be used on its #LFP super-battery, expected to be launched May or June 2020.
+
+Says it increases volumetric energy density by 50%, cuts manufacturing costs by 30%. pic.twitter.com/WhNx2G1Ycw — Moneyball (@DKurac) November 23, 2019
+
+Cell-to-pack technology refers to innovative approaches to battery pack design, to optimise for the strengths of LFP cells. The cells are typically more heat tolerant than NCx cells, and less prone to thermal runaway, so potentially need relatively less weight and volume of cooling and packaging material. This means that although the LFP cells themselves may be only around 66% of the energy density of the leading NCx cells, they can close this gap on the packaging front. An LFP pack can thus perhaps get towards 70-80% of the energy density of NCx packs.
+
+That’s potentially more than adequate energy density for many medium-range EVs, whilst boosting LFP’s $/kWh cost advantages at the pack level, which is what counts at the end of the day. CATL’s LFP packs are reportedly already at >20% cost advantage per kWh, compared to their NCM 811 packs, according to Autohome:
+
+Tesla Shanghai Model 3 #NMC #battery pack provided by #CATL might cost￥63.5 K-76.2 K, SPIR reports
+
+Earlier Autohome reported CATL 2019 NMC battery pack cost at ￥1-1.2/Wh, #LFP at ￥0.8/Wh. pic.twitter.com/7HjKTFbHdn — Moneyball (@DKurac) February 8, 2020
+
+We know that Tesla has its own approach to battery packaging for its traditional NCA cylindrical cells, so it will be interesting to see how they work with CATL LFP cells. Much will depend on whether these LFP cells are also cylindrical or are in pouch format. If the latter, Tesla may potentially lean on CATL for some aspects of the packaging technology, or collaborate with the Chinese battery company.
+
+Will we then actually see LFP batteries used in some of Tesla’s Standard Range vehicles? Will these be restricted to the China market or also come to other markets where the SR+ is popular? Will the Model Y SR+, and the future, more affordable Tesla model take this path also?
+
+In my eyes, it makes sense for Tesla to take this flexible approach. So long as minimum parameters are met in terms of energy density (range), charging speed, longevity, and stability, the key criterion is cost per kWh of energy. Within these requirements, Tesla is not dogmatic about its technology path, and is already using multiple suppliers (and form factors) for its cells. LFP may yet have a long-term advantage in cost compared to NCx, simply because its mineral components are more widely available and essentially immune to bottlenecks and price spikes. This may become more evident with EV demand quickly increasing from today’s 2.5% of the market to the majority of the market, certainly in Europe and China, within a decade.
+
+We will learn more about Tesla’s plans for batteries at its planned Battery and Powertrain Investor Day sometime in the coming few months. Please jump in below with your comments if you have more thoughts on this matter.
+
+*Disclosure: CATL was a sponsor of our newest report, Electric Car Drivers: Demands, Desires & Dreams.
+
+All images courtesy Tesla
+
+
+
+
+
+Follow CleanTechnica on Google News.
+
+It will make you happy & help you live in peace for the rest of your life.
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+In this installment of the ‘In Charts' series, Colin Fain of Agronometrics illustrates how the U.S. market is evolving. Each week the series looks at a different horticultural commodity, focusing on a specific origin or topic visualizing the market factors that are driving change.
+
+The phase one trade agreement with China signed on Jan. 15 offers California avocado producers a window of opportunity into the Chinese markets. Specifically, the text in annex 11 of the agreement reads:
+
+“Within three months of the date of entry into force of this Agreement, USDA/APHIS and the GACC shall sign and implement a phytosanitary protocol to allow the importation of California Hass avocados into China.”
+
+In light of this, here we take a look at the market data to see if we can estimate what the impact of this new agreement could be on the industry.
+
+The production of avocados in California has remained relatively stable for the last 20 years, with an average of around 160m kilos.
+
+The prices, on the other hand, have generally been increasing steadily. The highest prices are usually the result of a shortfall in production in California, which in 2019 coincided with a year of low production in Mexico, resulting in the highest prices California producers had ever seen.
+
+For the sake of our analysis, we will focus on the 2018 price of US$3.11 per kilo and volume of 164m kilos, which was very close to the 20-year average.
+
+Non-Organic Avocado Prices (USD per Kilo)
+
+(Source: USDA Market News via Agronometrics. Agronometrics users can view this chart with live updates here )
+
+In all fairness, it’s hard to compare the Shipping Point prices directly to trade value. However, we can't transform the USDA prices to be on par with the UN COMTRADE, bringing us closer to comparing the proverbial apples to apples.
+
+Through this methodology, the market price of California avocados gets adjusted down to US$2.57 per kilo at 164m kilos, a good baseline to compare the US market data to UN COMTRADE data available for China, which was last reported by the Chinese government also in 2018. This year, China imported 68m kilos, split between Peru, Mexico and Chile at an average price of US$2.81 per kilo.
+
+The question then is whether a US$0.24 per kilo premium is worthwhile for California producers to ship their fruit across the world? Bear in mind, they would be competing directly with Peru, who’s entire supply chain has been set up for export.
+
+What’s more, in 2018 Peru only shipped 17m kilos to China. If California were to share a part of this volume, it would only account for a tiny portion of their production, arguably not enough to make a significant difference for producers.
+
+The silver lining is that China is a market that is growing very quickly. Imports of avocados into China totaled 8m kilos in 2014, after which they grew by 54m kilos in four years.
+
+If this rate continues and if prices remain attractive, there could be an opportunity for California producers to take part in the Chinese market in a couple of years. From the available trade data, however, it seems like these are still early days for avocados in China.
+
+In our ‘In Charts’ series, we work to tell some of the stories that are moving the industry. Feel free to take a look at the other articles by clicking here.
+
+You can keep track of the markets daily through Agronometrics, a data visualization tool built to help the industry make sense of the huge amounts of data that professionals need to access to make informed decisions. If you found the information and the charts from this article useful, feel free to visit us at www.agronometrics.com where you can easily access these same graphs, or explore the other 20 fruits we currently track.

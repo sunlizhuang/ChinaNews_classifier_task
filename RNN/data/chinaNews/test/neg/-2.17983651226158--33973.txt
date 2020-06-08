@@ -1,0 +1,187 @@
+It could be the home of a real-life Wernham Hogg, the fictional firm in Ricky Gervais's hit comedy The Office.
+
+The nondescript unit is in an 'office village' on the outskirts of the Oxfordshire town of Banbury, close to the M40 motorway and in the shadow of an enormous Amazon warehouse shipping goods around the UK.
+
+But in fact this is the home of a secret operation nicknamed 'The Cell', tasked with making sure that Chinese tech giant Huawei isn't helping the Communist state to spy on Britain.
+
+And it's totally tip-top secret - right up to the massive sign on the front that announces the presence of the Huawei Cyber Security Evaluation Centre (HCSEC) - as The Cell is more correctly called.
+
+It is immediately visible to anyone wandering past - admittedly probably not that many - but also to millions via Google Street View.
+
+Part of the National Cyber Security Centre (NCSC), this is where spooks decided that Huawei could be allowed to take part in the UK's 5G network, a decision that has angered Washington and Tory back-benchers alike.
+
+Boris Johnson today defended the Government's decision, saying it would not do anything to compromise the country's critical national security infrastructure.
+
+Mr Johnson told MPs at Prime Minister's Questions: 'I think that it is absolutely vital that people in this country do have access to the best technology available but that we also do absolutely nothing to imperil our relationship with the United States, to do anything to compromise our critical national security infrastructure, or to do anything to imperil our extremely valuable co-operation with Five Eyes security partners.'
+
+It's totally tip-top secret - right up to the massive sign on the front that announces the presence of the Huawei Cyber Security Evaluation Centre (HCSEC)
+
+Covert: Endeavour House, on the outskirts of Banbury, has tinted windows that protect the highly confidential work going on inside
+
+The set of rooms in Endeavour House is owned by Huawei and is the home base of around 35 staff from the HCSEC, which was set up in 2010.
+
+At a glance: What is the Huawei Cyber Security Evaluation Centre? It's a joint operation set up in 2010 'to mitigate any perceived risks arising from the involvement of Huawei in parts of the United Kingdom’s critical national infrastructure'. What does it do? It checks Huawei's latest hardware and software products to make sure they are not being used as a cover for spying or data theft by the autocratic Communist state. Or as its oversight board says, it provides 'security evaluation for a range of products used in the UK telecommunications market'. Who works there? There are around 35 British staff there who are employed by Huawei. Since 2014 their work has been monitored by GCHQ, the Cabinet Office and Home Office. Where is it? It is on the northern edge of Banbury, a market town in Northern Oxfordshire better known for having a medieval cross mentioned in a nursery rhyme. The set of rooms, owned by Huawei, are in Endeavour House. Its neighbours include the British Valve And Actuator Association.
+
+At this out-of-the-way site they test equipment supplied by Huawei, destined for use in the UK.
+
+Crucially, the Cell has the only access to Huawei's confidential 'source code' and is the only facility that can really test whether there are vulnerabilities that could allow 'back-door' access to networks.
+
+Since 2014 the work of the British nationals employed there has been monitored by GCHQ, the Cabinet Office and Home Office.
+
+The Cell’s British cyber security experts – who are nonetheless on the Huawei payroll – have to go through ‘developed vetting’, the top level of clearance for people with access to top secret information.
+
+Their work is monitored by Government officials on the HCSEC oversight board, set up after Parliament’s Intelligence and Security Committee, led by former Defence Secretary Sir Malcolm Rifkind, expressed concern about the firm’s grip on the UK telecoms market in 2013.
+
+According to its 2019 report, the HCSEC's oversight board is made up of a mixture of security service and civil service figures and senior Huawei managers.
+
+The board is chaired by Ciaran Martin, the NCSC's chief executive, with Huawei's executive director Ryan Ding as his deputy.
+
+While Huawei is a private firm, critics say it is part of China's state security apparatus and could be used as a cover for espionage, which is why yesterday's 5G decision is so controversial.
+
+The Government acknowledged Huawei is a 'high risk vendor' but argues that it will not have a role in the core parts of the 5G network
+
+Mr Johnson was earlier accused of defying misgivings from his own ministers to press ahead.
+
+Defence Secretary Ben Wallace is said to have urged the PM at a crunch National Security Council meeting to heed warnings from the US over the Chinese tech giant.
+
+Why is Huawei's involvement in UK 5G controversial? Huawei has come under scrutiny over allegations of close ties to the Chinese state. Founder Ren Zhengfei's past links to the military have been cited as a concern, as has China's history of state sponsorship and surveillance. Chinese law can also compel firms to co-operate with Chinese national intelligence work, which some critics have suggested could see Beijing require Huawei to spy on people through so-called 'back doors' in its telecoms equipment. Huawei has vehemently denied the allegations of any ties with the Chinese state and says it abides by the laws of every country in which it operates.
+
+Mr Wallace branded Beijing a 'friend of no-one', according to the Times - but eventually accepted the decision to allow the firm 'limited' involvement in the infrastructure project.
+
+The wrangling emerged as US Secretary of State Mike Pompeo flies into Britain for what could be a turbulent visit.
+
+The White House voiced 'disappointment' over the decision, after intensely lobbying for the UK to shun Huawei.
+
+And the same document, released last March said its work 'has continued to identify concerning issues in Huawei's approach to software development bringing significantly increased risk to UK operators, which requires ongoing management and mitigation'.
+
+As the Government gave the green light for the controversial Chinese tech firm to play a limited role in the UK's 5G network, the NCSC said the risk of its involvement was 'manageable'.
+
+Huawei is already subject to oversight arrangements which ensure that any 'embedded malicious functionality could be detected should it exist', the analysis said.
+
+The NCSC said: 'Due to the UK's mitigation strategy, which includes HCSEC as an essential component, our assessment is that the risk of trojan functionality in Huawei equipment remains manageable.
+
+Why is Huawei so important to 5G? Huawei has invested billions of pounds into research and development around 5G network infrastructure and, as a result, is now considered the industry leader in 5G technology. It is also already part of the existing network infrastructure in a number of countries, including in the UK. As a result, using one of Huawei's rivals, and most likely alternatives - Ericsson or Nokia - for the building of 5G networks, would likely cause a delay and add cost to the introduction of widespread 5G in the UK. In contrast, none of the four largest mobile carriers in the United States use Huawei equipment in their networks.
+
+'Placing ''backdoors'' in any Huawei equipment supplied into the UK is not the lowest risk, easiest to perform or most effective means for the Chinese state to perform a major cyber attack on UK telecoms networks today.'
+
+The NCSC did raise concerns about any single supplier of equipment being allowed to play a dominant role in the network.
+
+The guidance issued by NCSC excludes 'high-risk vendors' such as Huawei from 'core' parts of the network, and sensitive locations including nuclear sites and military bases.
+
+They will also be limited to a minority presence of no more than 35% in the periphery of the network, known as the access network, elements which connect devices and equipment to mobile phone masts.
+
+The NCSC stressed that it was 'important to avoid the situation in which the UK becomes nationally dependent on a particular supplier'.
+
+It added: 'Without government intervention, the NCSC considers there to be a realistic likelihood that due to commercial factors, the UK would become ''nationally dependent'' on Huawei within three years.'
+
+Ricky Gervais and Stephen Merchant's hit comedy The Officer was set in the nondescript, soul-destroying offices of paper manufacturer Wernham Hogg
+
+National dependence on a high-risk vendor would present a 'significant national security risk', the NCSC said.
+
+Restrictions being placed by ministers on 'high-risk' 5G vendors The advice being issued to UK telecoms operators is that 'high-risk vendors' should be: Excluded from all safety related and safety critical networks in critical national infrastructure
+
+Excluded from security critical 'core' functions, the sensitive part of the network
+
+Excluded from sensitive geographic locations, such as nuclear sites and military bases
+
+Limited to a minority presence of no more than 35 per cent in the periphery of the network, known as the access network, which connect devices and equipment to mobile phone masts
+
+NCSC technical director Dr Ian Levy said Huawei had always been treated as a high-risk vendor and the authorities have 'worked to limit their use in the UK'.
+
+'We've never 'trusted' Huawei and the artefacts you can see (like the Huawei Cyber Security Evaluation Centre (HCSEC) and the oversight board reports) exist because we treat them differently to other vendors,' he said.
+
+'We ask operators to use Huawei in a limited way so we can collectively manage the risk and NCSC put in place a wider mitigation strategy, of which HCSEC is the most visible part.'
+
+Ciaran Martin, chief executive of the NCSC, said: 'This package will ensure that the UK has a very strong, practical and technically sound framework for digital security in the years ahead.
+
+'The National Cyber Security Centre has issued advice to telecoms network operators to help with the industry roll-out of 5G and full-fibre networks in line with the Government's objectives.
+
+'High-risk vendors have never been, and never will be, in our most sensitive networks.
+
+'Taken together these measures add up to a very strong framework for digital security.'
+
+Boris Johnson scrambles to stop Huawei's 5G role wrecking Special Relationship with Donald Trump as he faces first Tory mutiny in Commons - and stormy meeting with US Secretary of State Mike Pompeo
+
+Boris Johnson today vowed the Huawei row will not 'imperil' the Special Relationship amid claims he defied misgivings from his own ministers to give the firm a role in the 5G network.
+
+The PM is desperately trying to contain a Tory mutiny after it emerged Defence Secretary Ben Wallace warned against the involvement of the Chinese tech giant at a crunch National Security Council meeting.
+
+Mr Wallace reportedly branded Beijing a 'friend of no-one' - but eventually accepted the decision to allow the firm 'limited' involvement in the infrastructure project.
+
+The wrangling was revealed as Mr Johnson faces the prospect of his first major Commons revolt on the issue - with former Cabinet ministers saying his huge 80-strong majority might not be enough to save him from defeat.
+
+US Secretary of State Mike Pompeo is also flying into Britain later for what could be a stormy visit.
+
+The White House has voiced 'disappointment' over the decision, after intensely lobbying for the UK to shun Huawei.
+
+But challenged on the issue at PMQs this afternoon, Mr Johnson said: ‘I want to assure the House and indeed the country that I think it is absolutely vital that people in this country do have access to the best technology available...
+
+'But that we also do absolutely nothing to imperil our relationship with the United States, to do anything to compromise our critical national security infrastructure or to do anything to imperil our extremely valuable cooperation with Five Eyes security partners.’
+
+Boris Johnson insisted he would not do anything to 'imperil' relations with the US as he took PMQs today
+
+Defence Secretary Ben Wallace (pictured left arriving for the National Security Council meeting yesterday) is said to have urged the PM at a crunch National Security Council meeting to heed warnings from the US over the Chinese tech giant
+
+The wrangling emerged as US Secretary of State Mike Pompeo (left) flies into Britain for what could be a turbulent visit. He is expected to hold talks with Mr Johnson (right) tomorrow
+
+There have been warnings that intelligence-sharing could be at risk, although the government insists there is no link between 5G and dissemination of classified material.
+
+Mr Johnson spoke to Donald Trump by telephone yesterday to explain the move in an attempt to defuse the row.
+
+Former Cabinet minister Damian Green warned this morning that Mr Johnson could face a damaging Commons revolt on the issue - despite his huge 80-strong majority.
+
+Pointing out that a slew of Tory MPs criticised the decision during a debate yesterday, Mr Green told BBC Radio 4's Today programme: 'One of the things that that frankly surprised me was the breadth of the opposition to the current stance of the government on the Conservative back benches.
+
+'We don’t know yet, when push comes to shove and votes happen, how many people will actually put their heads above the parapet. But certainly it’s very widespread.'
+
+With Washington focused on the unveiling of the president's Middle East peace plan, the official response to the news from London was muted.
+
+However a series of senior congressional figures spoke out to condemn the move - warning it could damage Boris Johnson's hopes of a swift, post-Brexit trade deal.
+
+Senator Lindsey Graham, a strong supporter of the president, said he was 'very concerned' and urged the UK to think again.
+
+'This decision has the potential to jeopardise US-UK intelligence sharing agreements and could greatly complicate a US-UK free trade agreement,' he tweeted.
+
+'I hope the British government will reconsider its decision.'
+
+Senator Mitt Romney, a former Republican presidential candidate, described the decision as 'disconcerting'.
+
+'By prioritising costs, the UK is sacrificing national security and inviting the Chinese Communist Party's surveillance state in. I implore our British allies to reverse their decision,' he said.
+
+Senator Tom Cotton, a member of the Senate intelligence committee called for a 'thorough review' of intelligence sharing arrangements with the UK.
+
+'I fear London has freed itself from Brussels only to cede sovereignty to Beijing,' he said.
+
+'Allowing Huawei to the build the UK's 5G networks today is like allowing the KGB to build its telephone network during the Cold War.'
+
+However, Culture Secretary Baroness Morgan said Britain's use of Huawei equipment in its 4G network meant the UK was better placed than others to monitor possible spying by China within the 5G network roll-out.
+
+The Cabinet minister told BBC Breakfast: 'We've had conversations with our other allies around the world to make absolutely clear that yesterday's decision in no way affects the ability for the UK to share classified data with our allies and partners, including the US.
+
+Mr Johnson called Donald Trump (pictured in Washington last night) to explain the Huawei decision, but the White House made clear it was 'disappointed'
+
+'But the US start from a different position from us because they haven't had Huawei in their 4G networks.
+
+'We've got that expertise, we've had the oversight of Huawei for quite a number of years now, which gives our agencies the ability to give reassurance that having them involved in the periphery of the network does not present the security challenge I think others are worried about.'
+
+Mr Pompeo's two-day visit - during which he will meet Mr Johnson and Dominic Raab - is likely to offer the first real indication of the extent of any damage to the so-called special relationship.
+
+The US administration has consistently argued that giving Huawei a role in 5G could allow the Chinese a 'back door' into the telecoms network through which they could carry out espionage or cyber attacks.
+
+President Trump raised the issue personally with Mr Johnson at December's meeting of Nato leaders in London while a high-level delegation was dispatched from Washington earlier this month in a last ditch attempt to persuade ministers not to go ahead.
+
+The Government has acknowledged Huawei is a 'high risk vendor' but argues that by banning it from the most sensitive elements of the network and restricting its involvement to 35 per cent, it can manage the risks.
+
+The clash comes at sensitive moment in US-UK relations - just as Mr Johnson is hoping to make rapid progress on a trade deal.
+
+The US has already threatened to retaliate with tariffs on the UK car industry, if the Government goes ahead with a planned tax on big tech companies.
+
+The two countries are also at odds over the Iran nuclear deal and the refusal of the US to extradite the wife of an American intelligence official charged with causing the death of 19-year-old motorcyclist Harry Dunn.
+
+Meanwhile Mr Johnson is facing a backlash at home from Tory MPs fiercely opposed to the Huawei decision, including former leader Sir Iain Duncan Smith and ex-Brexit secretary David Davis.
+
+Ministers have said they will legislate at the 'earliest opportunity' to put the new guidance on telecoms providers into law, opening up the prospect of a potentially damaging Commons revolt.
+
+Mr Johnson however appears to have concluded that honouring his general election pledge to 'level up' the 'left behind' areas of the country must be the priority.
+
+Rolling out 5G across the country is regarded as key to improving economic performance and excluding Huawei would mean delays and higher costs.

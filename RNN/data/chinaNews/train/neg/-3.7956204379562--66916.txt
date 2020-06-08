@@ -1,0 +1,61 @@
+China rejects US allegations over military 'hackers'
+
+BEIJING: Beijing said on Tuesday it "never engages" in cybertheft, following US indictments of four Chinese army members for alleged involvement in the massive 2017 hacking of credit rating agency Equifax.
+
+
+
+The US Justice Department on Monday accused the hackers of stealing the sensitive personal information of some 145 million Americans, in one of the world's largest-ever data breaches.
+
+Four members of the Chinese army's 54th Research Institute were charged with multiple counts of hacking, computer fraud, economic espionage and wire fraud.
+
+US officials said it took well over a year to track them through the 34 servers in 20 countries they allegedly used to hide their tracks.
+
+"This was an organised and remarkably brazen criminal heist of sensitive information of nearly half of all Americans, as well as the hard work and intellectual property of an American company, by a unit of the Chinese military," Attorney General Bill Barr said.
+
+Beijing firmly rejected the claims on Tuesday, saying it is a "staunch defender of cybersecurity".
+
+"The Chinese government and army... never engage in or participate in activities of trade theft through the internet," said foreign ministry spokesman Geng Shuang at a regular press briefing.
+
+Intelligence gathering
+
+The hack stunned US intelligence officials, following a similar intrusion on the civil service database of the Office of Personnel Management (OPM), also blamed on the Chinese.
+
+Since then, as well, hotels giant Marriott lost data on some 500 million global customers to hackers believed to be Chinese.
+
+US officials believe the Chinese military and security service are collecting personal data on Americans for strictly intelligence purposes.
+
+After the OPM hack there were worries that Beijing could use the information to identify US spies working under the cover of non-intelligence jobs.
+
+FBI Deputy Director David Bowdich said there was no evidence yet of the Equifax data having been used, for example to hijack a person's bank account or credit card.
+
+But he added: "If you get the personal identifying information of people, you can do a lot with that."
+
+Atlanta-based Equifax is one of three giant, little-regulated credit-raters who sweep up financial data on all Americans — their credit cards and banking activity especially — that necessarily comes with identifying data like their addresses and social security numbers.
+
+The hackers allegedly took advantage of a vulnerability in the Apache Struts web-application software that Equifax had on its systems.
+
+While Apache notified clients of the problem in March 2017, Equifax did not fix it for months, allowing the hackers to enter their systems with relative ease.
+
+They infected Equifax's computers with "web shells" that gave them the ability to remotely manipulate the systems and to steal identities that expanded their access.
+
+Investigators said the Chinese, using encrypted channels, ran some 9,000 queries through Equifax's computing systems to obtain, divide, compress and exfiltrate the data, bit by bit.
+
+The US believes the suspects — Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei — are currently in China.
+
+Cutting corners
+
+In a statement Equifax thanked the Justice Department for its help and pledged to better protect consumer data.
+
+"Cybercrime is one of the greatest threats facing our nation today, and it is an ongoing battle that every company will continue to face as attackers grow more sophisticated," it said.
+
+But Senator Ron Wyden said one solution was to implement stronger privacy laws to force better corporate behaviour.
+
+"When companies like Equifax amass vast stores of sensitive personal information and then cut corners on security, they become irresistible targets for unfriendly regimes like China," he said.
+
+Besides the data on Americans, the hackers scored personal information on nearly one million Britons and Canadians in the breach.
+
+Barr said that while many countries gather intelligence for national security reasons, only China has swept up massive data on civilians.
+
+"For years, we have witnessed China's voracious appetite for the personal data of Americans," he said.
+
+"This data has economic value, and these thefts can feed China's development of artificial intelligence tools as well as the creation of intelligence targeting packages."

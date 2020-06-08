@@ -1,0 +1,35 @@
+U.S. charges Chinese military officers in 2017 Equifax hacking
+
+WASHINGTON — The Justice Department announced charges Monday against four members of China’s military on suspicion of hacking into Equifax, one of the nation’s largest credit reporting agencies, in 2017 and stealing trade secrets and the personal data of about 145 million Americans.
+
+“This was a deliberate and sweeping intrusion into the private information of the American people,” Attorney General William Barr said in a statement.
+
+The charges underscored China’s quest to obtain the personal data of Americans — which Beijing can use to propel advances in artificial intelligence and espionage — and its willingness to flout a 2015 agreement with the United States to refrain from hacking and cyberattacks, all in an effort to expand economic power and influence.
+
+Though not as large as other major breaches, the attack on Equifax was far more severe. Hackers stole names, birth dates and Social Security numbers of millions of Americans — data that can be used to access information like medical histories and bank accounts.
+
+MBA BY THE BAY: See how an MBA could change your life with SFGATE's interactive directory of Bay Area programs.
+
+“This kind of attack on American industry is of a piece with other Chinese illegal acquisitions of sensitive personal data,” Barr said in announcing the charges Monday at the Justice Department, citing China’s theft of records in recent years from the government’s Office of Personnel Management, Marriott International and insurance company Anthem.
+
+The indictment suggests the hack was part of a series of major thefts organized by the People’s Liberation Army and Chinese intelligence agencies. Barr said that China can use caches of personal information to better target American intelligence officers and other officials.
+
+The biggest of those breaches was the theft in 2015 of roughly 22 million security clearance files from the government personnel office, which keeps track of federal employees and contractors.
+
+It quickly became clear that that data was of significant value to the Chinese government: American officials with security clearances, including some of the most senior members of the government, had to reveal foreign contacts, relationships including extramarital affairs, their health history and information about their children and other family members.
+
+The breach was so severe that the CIA had to cancel assignments for undercover officers planning to go to China; even though the CIA did not submit its employees’ information to the personnel office, those officials were often undercover as State Department or other American officials.
+
+Then it got worse. Hacks into Anthem’s database and Starwood hotels — later taken over by Marriott — appeared to be orchestrated by the same or related Chinese groups. The United States assessed that China was building a vast database of who worked with whom in national security jobs, where they traveled and what their health histories were, according to American officials.
+
+The information stolen from Equifax would reveal whether any of those officials are also under financial stress and thus susceptible to bribery or blackmail.
+
+The charges against members of the Chinese military were unusual, Barr said. The Justice Department rarely secures indictments against members of foreign militaries or intelligence services, in part to avoid retaliation against American troops and spies, but Barr said it has made exceptions for state-sponsored actors who hacked into U.S. networks to steal intellectual property or interfere in U.S. elections.
+
+The nine-count indictment accused the Chinese military of hacking into the company’s computer networks, maintaining unauthorized access to them and stealing sensitive, personally identifiable information about Americans.
+
+Months before the attack, the government warned Equifax that its network contained a vulnerability, but the company did not patch it, according to government documents.
+
+The defendants — Wu Zhiyong, Wang Qian, Xu Ke and Lui Le, all members of the People’s Liberation Army — exploited that weakness in May 2017 to break into the network and conduct weeks of surveillance and steal Equifax employee login credentials before filching the trade secrets and data. They masked their activity by using encrypted communications and routing their internet traffic through 34 servers in nearly 20 countries, including Switzerland and Singapore, according to prosecutors.
+
+Katie Benner is a New York Times writer.

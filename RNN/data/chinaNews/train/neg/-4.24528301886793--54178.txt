@@ -1,0 +1,27 @@
+A scientific study that influenced how governmental and other healthcare systems around the world have been responding to the Wuhan coronavirus (officially designated 2019 novel coronavirus, or nCoV) has turned out to be false, overturning an important piece of knowledge about the virus.
+
+The paper, corresponding to a study undertaken by a group of German researchers and published by the New England Journal of Medicine (NEJM) on January 30, stated that a person could harbour 2019 nCoV without displaying any of the symptoms of infections – a possibility that rendered the virus’s spread much harder to slow.
+
+For example, it meant officials would have to scan every person who could have acquired the virus instead of only those who showed the corresponding symptoms in screening programmes. This in turn would increase the load stress on hospitals, which could prove especially damaging in resource-poor settings like India and other South and Southeast Asian nations neighbouring China.
+
+At the centre of the study was a woman who had come to Germany from Shanghai on January 20-21 for business meetings. She had no shown no symptoms of a 2019 nCoV infection during her stay but reportedly did on the flight back.
+
+Subsequently, four people she had interacted with during her trip also fell ill. Considering she had been asymptomatic on January 20-21, when the virus could have jumped from her to the four German colleagues, doctors suspected 2019 nCoV is capable of asymptomatic transmission.
+
+As it turns out, the authors of the paper had not spoken to the woman from Shanghai before they penned the paper; they had gleaned the details that supported their conclusions from the four German people. After the paper had been published, the Robert Koch Institute (RKI) and the Health and Food Safety Authority of Bavaria contacted the woman, who said she had experienced some symptoms during her trip to Munich, including muscle pain and fatigue.
+
+As a result, the paper’s conclusion has been overturned: we don’t know yet if 2019 nCoV is capable of asymptomatic transmission or not.
+
+Also read: Flaw Found in Study That Said Coronavirus Could Be Transmitted Sans Symptoms
+
+The RKI, which is the federal agency responsible for disease control in Germany, has also called for the NEJM paper to be correct, and according to Science, has reached out to the World Health Organisation to set the record straight. One of the authors of the paper also told Science that in the end, no one can be faulted because the authors couldn’t contact the Chinese woman quickly enough but at the same time felt compelled to publicise their findings to help what is certainly a rapidly evolving outbreak.
+
+However, others – including Sweden’s Public Health Agency – have argued that the researchers should have been more careful with their wording and honest about where they got their information.
+
+Another interesting bit information that emerged in the NEJM study is that the four Germans who acquired an 2019 nCoV infection from the Chinese woman only displayed mild symptoms. This means that the virus doesn’t always precipitate worrying symptoms as well as that people may not always be aware of having a 2019 nCoV infection, giving rise to a situation similar to, even if not entirely like, asymptomatic transmission.
+
+Thus far, India has reported three positive cases of 2019 nCoV infections, all Kerala-based students who were studying in Wuhan, where virus’s first infection was reported in December 2019, and had come home for the holidays.
+
+Also read: From China to Chhawla: Indian Student Documents Flight from Coronavirus
+
+The Government of India had evacuated over 600 Indian citizens from China’s Hubei province, whose capital is Wuhan, earlier this week. They have been currently admitted to quarantine camps, two of which are in Chhawla and Manesar, where they will spend the next two weeks under medical supervision, and will be allowed to go home once doctors have ascertained none of them harbour the virus.

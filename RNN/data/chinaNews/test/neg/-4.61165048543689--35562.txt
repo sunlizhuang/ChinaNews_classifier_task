@@ -1,0 +1,102 @@
+When Chinese authorities reported an outbreak of a new coronavirus in Wuhan, China, many public health experts had a similar thought: History was repeating itself.
+
+Severe acute respiratory syndrome (SARS), which spread in China 17 years ago, was also a coronavirus. These zoonotic diseases originate in animals before jumping to people. Experts haven't yet confirmed which species was the original host of the new coronavirus, but "there's an indication that it's a bat virus," Vincent Munster, a scientist at Rocky Mountain Laboratories, told Business Insider.
+
+SARS also came from bats, experts say, and these two outbreaks won't be isolated incidents. More zoonotic diseases are expected to come down the pike in the years ahead.
+
+"Infectious diseases will continue to emerge and re-emerge. I think it's part of the world we live in now," Eric Toner, a senior scientist at the Johns Hopkins Center for Health Security, told Business Insider. "We're in an age of epidemics because of globalization, because of encroachment on wild environments."
+
+Many future outbreaks could follow this one
+
+The new coronavirus has killed more than 170 people and infected more than 7,000 since December 31.
+
+In an op-ed for The New York Times on Monday, science writer David Quammen wrote that the wildlife trade in Asia, Africa, and the US - particularly the kind that happens at dense markets in which live and dead animals are sold in a small space - is partially responsible for the current epidemic.
+
+In the case of Wuhan, some experts think the coronavirus jumped from bats to snakes in the wild, then from snakes to people a wet market. The suspected market has since been shuttered, and Wuhan banned the sale of live animals.
+
+SARS and the H7N9 and H5N9 bird flus also originated in wet markets.
+
+In addition to the wildlife trade, global population growth also increases the risk that diseases will spill over from animals to humans. As more people encroach on ecological habitats in their quest for food and resources, that creates opportunities for interspecies virus jumps: "First from animal to human, then from human to human, sometimes on a pandemic scale," Quammen wrote.
+
+"When you're done worrying about this outbreak, worry about the next one," he added.
+
+Wuhan was an ideal point for a coronavirus spillover
+
+More than 75% of emerging diseases originate in animals. In the last century, at least 10 infectious diseases jumped from animals to people.
+
+The 2009-2010 H1N1 pandemic - also known as swine flu - started in pigs then killed nearly 300,000 people. People have caught bird flu strains via direct contact with infected poultry in China.
+
+The density of Wuhan and the presence of live-animal markets there put the city at especially high risk of a disease outbreak, experts say.
+
+Wuhan is the most densely populated city in central China, with 11 million people tightly clustered within the city limits. Crowded conditions increases the likelihood that people will transmit infectious diseases, research from the University of Geneva has shown.
+
+Wuhan is also replete with wet markets.
+
+"Poorly regulated live-animal markets mixed with illegal wildlife trade offer a unique opportunity for viruses to spill over from wildlife hosts into the human population," the Wildlife Conservation Society said in a statement last week.
+
+Adrian Hyzler, chief medical officer at Healix International (which offers risk-management solutions for travelers), told Business Insider that pandemics "are more likely to originate in the Far East because of the close contact with live animals, the population density, the transport hubs, and the commercial spread now with so many flights available."
+
+The coronavirus outbreak isn't currently considered a pandemic, however. The World Health Organization (WHO) has so far not declared it a global public-health emergency either.
+
+The unique threat of bats
+
+Bats were the original hosts of Ebola, SARS, Middle Eastern respiratory syndrome (MERS), and probably this coronavirus outbreak as well. They pass diseases to other species via their poop or saliva, and the unwitting intermediaries can transmit the virus to humans in the same way.
+
+Peter Daszak, president of EcoHealth Alliance, told Quammen that coronaviruses "are making the jump, repeatedly, from bats to humans."
+
+A coronavirus look like a tiny cog under a microscope. Its circular shell is peppered with spike-shaped proteins that helps it attach to a host's cells. If the spikes' shape doesn't fit receptors on a potential host's cells, the virus can't spillover. But when a coronavirus mutates, the shape of these proteins gets altered, and that sometimes allows the virus to dock in a new host.
+
+According to Munster, only specific coronavirus lineages, called betacoronaviruses, can nest in humans' respiratory tracts.
+
+Bats, by contrast, harbor a significantly higher proportion of zoonotic viruses than other mammals, according to a 2017 study. They fly across large geographical ranges, transporting diseases as they go, which makes them an ideal host if you're a virus.
+
+"You're talking about thousands and thousands of these viruses in bats," Munster said.
+
+Bart Haagmans, a virologist at the Erasmus Medical Center in the Netherlands, told Business Insider that "bats and birds are considered reservoir species for viruses with pandemic potential," since people lack immunity to the coronaviruses that hang out in their guts.
+
+A study published in March even predicted that bats could be the source of a new coronavirus outbreak in China.
+
+"It is highly likely that future SARS- or MERS-like coronavirus outbreaks will originate from bats, and there is an increased probability that this will occur in China," the researchers wrote.
+
+That's because the majority of coronaviruses - those that affect humans and animals - can be found in China, and many bats "live near humans in China, potentially transmitting viruses to humans and livestock," the authors said.
+
+The world isn't prepared for the next pandemic
+
+Public-health experts have repeatedly warned that the world is not ready for a deadly pandemic.
+
+"We've been raising the flag on these viruses for 15 years," Daszak told Quammen.
+
+Bill Gates even wrote in 2017 that he considers a deadly pandemic to be one of the world's three biggest threats, next to climate change and nuclear war.
+
+"In the case of biological threats, that sense of urgency is lacking," Gates said in a presentation the following year. "The world needs to prepare for pandemics in the same serious way it prepares for war."
+
+Before SARS emerged, Toner said, a colleague of his at Johns Hopkins warned that next pandemic might be a coronavirus. Then SARS appeared, proving him right.
+
+"Ever since that time, we've been concerned about the potential of coronaviruses," Toner said. "And that got reinforced by MERS."
+
+There's no cure for the new coronavirus, SARS, or MERS.
+
+"There is no recognized therapeutic against coronaviruses," Mike Ryan, executive director of the WHO Health Emergencies Program, said on Wednesday. He added that the best thing hospitals can do to is "give adequate support of care to patients, particularly in terms of respiratory support and multi-organ support."
+
+Because the Wuhan virus is new, experts have not had time to develop a vaccine.
+
+Several companies, including Moderna, Novavax, and Inovio, have announced preliminary vaccine-development plans. But getting a vaccine to market has historically been an arduous, multi-year process (the Ebola vaccine took 20 years). None of the companies have provided expected timelines.
+
+SARS was eventually contained without a vaccine. But streamlining the development of vaccines, Toner said, "would be a game changer."
+
+"The thing that would make the most difference in the future is being able to very significantly shorten the amount of time it takes from the emergence of a new disease to a vaccine or other countermeasure being available," he said.
+
+Read more about the Wuhan coronavirus:
+
+Featured Digital Health Articles:
+
+- Telehealth Industry: Benefits, Services & Examples
+
+- Value-Based Care Model: Pay-for-Performance Healthcare
+
+- Senior Care & Assisted Living Market Trends
+
+- Smart Medical Devices: Wearable Tech in Healthcare
+
+- AI in Healthcare
+

@@ -1,0 +1,35 @@
+Is the new corona virus a mix of two different virus types ? From a Sars-like and the AIDS pathogen HIV? At first glance, one is tempted to put this message on the stack of unbelievable conspiracy theories that are currently circulating on social media.
+
+But a second glance reveals: A team of nine scientists led by protein researcher Bishwajit Kundu from the Indian Institute of Technology makes this claim. So is there anything to it? Only thorough research shows that even the work of well-known researchers and research institutes can occasionally only be enjoyed with great caution at the moment.
+
+Kundu's team had previously published the unpublished work on the “Preprint” portal BioRxiv.org. At the moment this is happening with many research results around the virus 2019 – nCoV. The reason for this is simply that important information should be made accessible quickly.
+
+However, research that is full of mistakes and wrong conclusions also becomes public. In the usual scientific publication process, research work is first checked by other experts before it is published. This ensures that they meet the standards for good science. Many publications fail at this hurdle.
+
+Researchers also want to ride the wave
+
+Uploaded to BioRxiv Manuscripts are therefore to be classified as provisional . A critical look is necessary, such as the reputation of the researchers involved. Bishwajit Kundu is not a virologist. He is otherwise concerned with prions, ie proteins that trigger “mad cow disease” (BSE). Proteins are also found in the shell of viruses – and when the virus in Wuhan begins to draw larger circles, the Kunduz arouses interest.
+
+[Über alle aktuellen Entwicklungen zum Coronavirus hält Sie unser Liveblog an dieser Stelle auf dem Laufenden]
+
+Although his laboratory has no corona viruses in the fridge, the genetic blueprints of the pathogen are now public. So Kundu can also download the genetic sequence and view the blueprints for the virus proteins encoded in the sequence. When he studies the blueprints of the “spike” proteins, with which the viruses dock and infiltrate human cells, he notices four unusual spots that no other corona virus has. And all four seem to match parts of the genetic sequence of a known virus: HIV. Kundu's conclusion: The new coronavirus is a mix of old coronaviruses with HIV .
+
+Sensation or nonsense?
+
+If it were, it would be a sensation. Because the two viruses could not be more different. HIV is a so-called retrovirus with a complicated reproductive cycle. In human cells, its genetic material RNA is first translated into DNA, which then reaches the cell nucleus and is built into the human genome.
+
+Coronaviruses also have RNA as a genetic material, but this remains outside the cell nucleus. Corona viruses leave no traces in the human genome. So that the genetic material of the two virus types could mix – for example in a person who is simultaneously infected with HIV and coronaviruses – the two viruses would have to have their genes copied in the same place in the cells.
+
+Nevertheless, such recombinations of virus heritage are possible , says Lars Hangartner. The Swiss HIV specialist, who now works at the private research laboratory Scripps in La Jolla in California, described the phenomenon himself 2009: An RNA hatched in his Zurich laboratory Virus in the nucleus of a human cell because the researcher brought it together with a “retrotransposon”. Retrotransposons come from plant cells, but are comparable to retroviruses. They also have the enzymes on board that convert RNA into DNA.
+
+In Hangartner's experiment, it translated the DNA of the RNA virus into DNA. In the end, he found the virus, along with the retrotransposon, firmly integrated in the genetic material of the host cell. So if HIV were in a host cell at the same time as a corona virus, they could have mixed. Theoretically.
+
+But the evidence is missing. The HIV-like sequences that Kundu found in the corona virus are “ too short to be able to say anything ,” says Hangartner. What Kundu calls “insertions of HIV” resembles three different types of HIV from Thailand, India and Kenya. How should they have mixed in a host? The similarity to HIV sections could simply be coincidence.
+
+Storm of criticism
+
+With the criticism is the Swiss not alone. Immediately after Kundu put his manuscript online on BioRxiv, a storm of criticism broke out. Some commentators go deep into the technical detail. Others are just annoyed about the title of the work. “Eerie similarity of unique insertions”. A researcher from the RKI says: “Really, that's not a science , it's lurid!”
+
+It is now Manuscript offline, only the heading can be found – with the note that the results are currently being revised. Kundu did not want to comment on the Tagesspiegel.
+
+But the theory of HIV corona is not out of the world. For example, on a website for lovers of conspiracy theories, the fair is passed on – and decorated: Kundu's work is an indication that 2019 – nCoV may be an intentionally designed bio-weapon. Hangartner says that it would make “little sense for a bioweapon maker to construct this.” Because the alleged HIV sections identified by Kundu are of all those that have no special function.

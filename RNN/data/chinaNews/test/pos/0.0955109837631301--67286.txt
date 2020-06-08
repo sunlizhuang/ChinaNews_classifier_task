@@ -1,0 +1,35 @@
+Credit: Qiang et al.
+
+Echoes, sounds that are repeated or reverberate as a result of waves reflected back to the listener, occur in several physical systems. In physics research, echoes are typically used to eliminate the effects of dephasing caused by a system's interactions with the environment, as well as to unveil the inherent properties of certain objects.
+
+Researchers at the Weizmann Institute of Science and East China Normal University (ECNU) have experimentally observed quantum wave-packet echoes in a single, isolated molecule. Their findings, recently published in Nature Physics, could introduce new tools for probing ultrafast intramolecular processes in molecules.
+
+"This work emerged as the result of a discussion we had with our Chinese colleagues in 2017, during FRISNO, a workshop on nonlinear optics organized by the Weizmann Institute in a scenic Kibbutz Ein Gedi, just aside the Dead Sea," Professor Ilya Averbukh, one of the researchers who carried out the study, told Phys.org. "Previously, we had an ongoing successful collaboration with the Shanghai group, as well as with a French team from the University of Burgundy, Dijon, focusing on echoes in molecular rotation."
+
+The theoretical analysis initially carried out by Averbukh and his colleagues suggested that rotational echoes observed in molecular gases should have their counterparts in molecular vibrational dynamics, a prediction that was later confirmed by their experiments. Once they started conducting experiments, however, the researchers realized that the measurement system used at ECNU also allows for the observation of the so-called 'echo effect' in extremely rarefied gases, and potentially even in a single molecule.
+
+The apparatus used by the researchers at the Chinese institution is, in fact, able to detect signals from individual molecules, one at a time. When they realized this, the team set out to investigate quantum wave-packet echoes in an individual molecule. The molecules used in their experiment were vibrationally cold, hence the interaction of all molecules with the laser fields started from the same initial state and is governed by the rules of quantum mechanics.
+
+"Usually, echoes appear in ensembles containing many spins, atoms or molecules whose properties are slightly dispersed," Averbukh said. "In the case of single molecules, the needed 'uncertainty' is introduced by the magic of quantum mechanics. While all the molecules start from the same initial state and they are excited by exactly the same laser fields, their state after the excitation is not fully known and the molecules exist in a 'superposition' of multiple quantum vibrational states."
+
+The effects investigated by Averbukh and his colleagues resemble those introduced in a famous thought experiment by Richard Feynman, who won the Nobel Prize in Physics in 1965. In this 'gedanken experiment', Feynman considered sending electrons one by one through two closely spaced slits, and collecting signal from a screen behind these slits. If no additional measurements are introduced, the laws of quantum mechanics prevent researchers from knowing through which slit each individual electron passed. As a result, while individual electrons are randomly scattered around the screen, when the experiment is repeated many times the individual clicks on the screen form an interference pattern caused by this 'quantum uncertainty'.
+
+"In our case, quantum interference happens inside every individual molecule and it manifests itself in the time-domain rather than in regular space," Averbukh explained. "In some sense, our work presents an intramolecular time-resolved version of the Feynman's thought experiment."
+
+In the experiments carried out by Averbukh and his colleagues, the spatiotemporal dynamics of quantum wave-packet echoes in an isolated single molecule were visualized with femtosecond and Angstrom resolutions. To do this, the researchers used a coincidence-detecting technique devised by the team at ECNU in an ultrahigh vacuum chamber.
+
+"The molecules interact with the laser pulses one at a time and are individually measured," Professor Jian Wu, who led the team performing the experiments at ECNU, told Phys.org. "Similar to the 'single particle' interference experiments, e.g., single electrons or single photons passing through a double slit, here, the measurement is repeated many times until the probability distribution of the single molecule echoes is clearly visualized in space and time."
+
+By impulsively exciting vibrational waves in the molecule, the researchers were able to observe their oscillations and dispersion over time. This allowed them to identify two key mechanisms behind the formation of echoes in the molecules—namely, a stark-induced molecular potential shaking and the creation of a depletion-induced 'hole' in the nuclear space distribution.
+
+The observation of an echo from a single molecule is an unusual result. Most previous studies focused on echoes occurring in an inhomogeneous distribution of molecules, where the echo was typically used to eliminate the individual variations between different molecules. The team behind the current study, on the other hand, was able to inherently probe internal properties of a single molecule, collecting interesting new results.
+
+"Our experiments on the single molecule join a small number of related experiments, such as interference of a single electron or a single atom or a single photon (e.g., in a two-slit Young experiment) and as such, they provide additional perspective on the fundamental element of wave-particle duality in quantum mechanics," Professor Yehiam Prior, another researcher who carried out the study, told Phys.org.
+
+So far, the scientists at Weizmann Institute of Science and ECNU have performed their experiments on small individual molecules. In the future, however, their procedure could, in principle, be used to investigate echoes in larger objects with many internal degrees of freedom, enabling the study of these internal degrees of freedom in isolated molecules. In addition, their findings could pave the way to the development of more efficient tools for probing specific processes in different molecules.
+
+Explore further 2000 atoms in two places at once: A new record in quantum superposition
+
+More information: Junjie Qiang et al. Echo in a single vibrationally excited molecule, Nature Physics (2020). Journal information: Nature Physics Junjie Qiang et al. Echo in a single vibrationally excited molecule,(2020). DOI: 10.1038/s41567-019-0762-7
+
+© 2020 Science X Network

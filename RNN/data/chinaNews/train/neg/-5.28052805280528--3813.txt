@@ -1,0 +1,71 @@
+Chinese scientists have recovered a previously unknown virus from an infected individual and generated a full genetic sequence of it, a key step in efforts to learn more about the cause of an outbreak of unusual pneumonia in the city of Wuhan, state-run media reported Thursday.
+
+Fragments of the same virus were picked up in testing of 15 patients among the 59 who have been identified as infected with the mysterious pneumonia.
+
+The speed of the findings is impressive; the first case in this outbreak became ill less than a month ago.
+
+advertisement
+
+“Preliminary identification of a novel virus in a short period of time is a notable achievement and demonstrates China’s increased capacity to manage new outbreaks,” the World Health Organization’s representative in China, Dr. Gauden Galea, said in a statement.
+
+Newsletters Sign up for Daily Recap A roundup of STAT's top stories of the day. Please enter a valid email address. Privacy Policy Leave this field empty if you're human:
+
+But more work is needed to confirm whether the virus is the cause of the outbreak and, if it is, to identify what animal species transmitted the virus to people and whether there are other cases elsewhere, Galea said.
+
+The report on CCTV appears to be the first official confirmation from Chinese authorities that they believe a new virus is responsible for this outbreak — specifically a coronavirus, a type of virus in the family that includes SARS and MERS.
+
+When viewed under an electron microscope, it exhibits the crown-like halo that gives coronaviruses their name, said Xu Jianguo, identified by CCTV as the leader of the preliminary assessment of the test results and a member of the Chinese Academy of Engineering.
+
+The outbreak is occurring in Wuhan, about 700 miles south of Beijing. Wuhan is a leading center for virology research in China, and infectious diseases experts watching this outbreak have predicted scientists there would quickly find the cause.
+
+Still, they cautioned that this discovery does not mean the outbreak is over or the threat has passed.
+
+“Everybody’s assuming … that this coronavirus is the cause. We don’t know that. They’re assuming that market was the origin. We don’t know that. And we don’t know how many other cases are walking around right now,” said Peter Daszak, president of EcoHealth Alliance, a non-profit organization that works in this sphere.
+
+The first known case in the Wuhan outbreak became noticeably ill on Dec. 12, according to a statement released Sunday by the Wuhan Municipal Health Commission. The discovery of an outbreak and identification of a new virus in a period of less than one month is exceptional, experts said.
+
+“I am stunned by the timeline and speed of this isolation and characterization, if it’s all true,” said Matthew Frieman, a coronavirus expert at the University of Maryland School of Medicine.
+
+The community of scientists who research emerging infectious diseases has been speculating for days that the source of the outbreak was a new coronavirus, a class of viruses that has shown itself adept at making the leap from animals to people. Coronaviruses originate in bats but are able to infect a number of mammals.
+
+Confirmation that scientists have the genetic sequence of the virus will increase pressure on China to release at least part of that sequence, so that health facilities around the world know what to look for as they try to detect possible cases from this outbreak and prevent spread elsewhere. During the 2003 SARS outbreak, infected travelers spread the virus from China to Hong Kong and from there to Vietnam, Singapore, Taiwan, and Toronto, Canada.
+
+In the United States, the Centers for Disease Control and Prevention on Wednesday instructed doctors to ask patients with severe respiratory infections whether they have been to Wuhan. Hong Kong and other countries in Southeast Asia are isolating any such cases until they can be tested for influenza, rhinoviruses, and other viruses that cause colds and flu.
+
+This type of very broad net will draw in many people who were in or near Wuhan and who have a respiratory tract infection but who have nothing to do with this outbreak — especially in the middle of flu season. That will eat up resources and the time of doctors, laboratories, and sick people who don’t need to be isolated.
+
+“If the Chinese truly have sequenced the virus and they’ve demonstrated that it’s present in other patients, that’s means there’s a PCR diagnostic test available. And the Chinese need to make that available to the rest of the world immediately,” said Ralph Baric, a coronavirus expert at the University of North Carolina.
+
+“And the longer they wait, the more likely the scientific community will go from a positive response to a negative response, in terms of how China is handling this outbreak,” he said.
+
+The CCTV report did not provide details on the type of coronavirus that has been discovered — for instance if it is one of several SARS-like viruses that have been found in bats in China, and if so, how genetically different it is from SARS. A number of these SARS-like viruses are able to infect human tissue cells in the laboratory, suggesting they might be able to spill over into people if given the right circumstances.
+
+Xu said more research on the new virus is needed.
+
+There has been limited information about the nature of the illness in people who have been infected. Chinese authorities have said no one has died from this infection; seven, however, were in critical condition as of Sunday. In a statement that same day, the WHO said that the main symptom was fever; some patients had difficulty breathing.
+
+The CCTV report also did not indicate whether scientists investigating the outbreak had identified the source of the virus — which will be key to any effort to determine if the virus is spreading in other locations as well.
+
+Baris said coronaviruses could jump to people directly from bats, which are eaten in China. But this virus could have used what is known as an intermediate host — an animal species that becomes infected with a bat virus that then transmits it to people.
+
+Daszak said he believes efforts to look for the virus in animals have not started.
+
+“There are probably a dozen to two dozen target species that you would go after to do a wildlife investigation. I don’t know if they’re doing that,” he said, adding that EcoHealth Alliance hopes to partner with Chinese researchers on the work “once the politics have died down.”
+
+China was roundly criticized for its early bungling of the SARS outbreak and it is widely believed authorities there have no wish to be embarrassed like that again. The capacity of the country to respond to infectious diseases outbreaks increased markedly in the aftermath of SARS.
+
+During that outbreak, it was determined that palm civets, a wild animal eaten as a delicacy in southern China, were transmitting the virus. Chinese authorities ordered a widespread culling of civets to help stop the outbreak.
+
+The Wuhan outbreak has been linked to a large seafood market that also sells the meat of exotic animals for consumption. The market was closed and decontaminated on Jan. 1. But it is important to know if other markets are selling infected animals, said Malik Peiris, a microbiologist at the University of Hong Kong.
+
+“If it can jump once, then it will jump again,” Peiris said of the virus. He was one of the scientists who first identified the coronavirus that caused the 2003 SARS outbreak, which infected more than 8,000 people and killed nearly 800.
+
+The WHO said Wednesday that Chinese authorities believe the virus “does not transmit readily between people.”
+
+Earlier statements from the Wuhan Municipal Health Authority said there has been no person-to-person spread, but disease experts challenged that claim, saying it is impossible to rule out at this stage in the exploration of a new disease.
+
+“I don’t know how you know that at all,” Frieman said of China’s claim there is no person-to-person transmission. He noted the number of cases reported makes it seem unlikely that animal-to-human transmission is the only way this virus spreads.
+
+There have been at least one or two clusters of cases within families that have raised suspicions of limited person-to-person spread, a source familiar with the outbreak told STAT.
+
+News of the pneumonia cases first emerged on Dec. 30, when the local health authority told hospitals to be on the lookout for cases. The next day Chinese authorities informed the WHO that they were dealing with what looked like an outbreak caused by an unknown virus.

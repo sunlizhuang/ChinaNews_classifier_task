@@ -1,0 +1,43 @@
+Chinese internet company Baidu today officially launched its open-source blockchain network, known as Superchain. Superchain aims to provide an out of the box solution for small to medium-sized businesses, as well as developers.
+
+This represents a significant advancement for the crypto space. But Baidu’s decision to “do blockchain” was primarily born from a need to diversify its business model. All the same, this only demonstrates confidence in crypto as an enduring technology.
+
+Baidu’s Superchain Had Lofty Ambitions
+
+Details of Baidu’s foray into the crypto space first emerged on September 2018, on the release of the Baidu Blockchain White Paper V1.0.
+
+Back then, it was very much touted as a Chinese developer’s dream. Senior R&D Engineer at Baidu, Sun Junyi, acknowledged that there’s no shortage of high-quality public chains, such as EOS, but he sees room for Superchain as it was made with Chinese developers in mind.
+
+“the initial goal is to create a self-developed, high-performance, modular block chain system… We still want to promote domestic self-development, we hope to create a suitable blockchain development platform Chinese developers.”
+
+Also, Junyi spoke of the multi-faceted applications for Superchain. These included expected uses, such as traceability in the supply chain, and immutable records for justice administration. But more futuristic was Junyi’s talk of AI.
+
+“Block chain technology and AI combine to amplify the value of both sides.”
+
+Scaled Back Functionality
+
+However, today’s press report shows a project that has been scaled down from Baidu’s original plans. With no mention of AI whatsoever. Instead, there is talk of a network of supernodes throughout China as well as ready compliance with Chinese regulations.
+
+“It provides users with an environment for rapid deployment and operation of blockchain applications, and computing. The flexible payment capabilities of resources such as storage and storage directly reduce user deployment and operation and maintenance costs, and make trust links more convenient.“
+
+The underlying selling point for Superchain seems to center around cost saving and reducing the barriers to entry in the crypto space. In effect, bringing blockchain to the masses with a ready-made solution.
+
+“Even with autonomous and controllable underlying technologies, most companies and individuals still do not have the ability to successfully build themselves.“
+
+But regardless of differences between then and now, Superchain is still aimed at localizing the efforts of Chinese developers. And with this in mind, blockchain development in China can only benefit.
+
+Baidu Diversifies Into Crypto
+
+Many say Baidu flourished as a direct result of Google’s decision to quit China in 2010. At the time, Google cited reasons to do with pressure, from Beijing, to censor search results.
+
+“We want as many people in the world as possible to have access to our services, including users in mainland China, yet the Chinese government has been crystal clear throughout our discussions that self-censorship is a non-negotiable legal requirement.”
+
+The fallout saw Chinese state media accusing Google of pushing a foreign political agenda to the detriment of the Chinese people.
+
+“pushing a political agenda by “groundlessly accusing the Chinese government” of supporting hacker attacks and by trying to export its own culture, values and ideas.”
+
+Unsurprisingly Google left China, and Baidu benefited from a lack of competition in the search engine/internet advertising space.
+
+But in more recent times, the technological landscape in China is changing, including traffic acquisition costs going up. And this shows in Baidu’s share price, which has been on a long term downward trend.
+
+And with reports of Google trying to make a come back in China, it makes sense for Baidu to diversify. As such, the development of Superchain is a testament to how tech companies see the long term prospect for crypto.

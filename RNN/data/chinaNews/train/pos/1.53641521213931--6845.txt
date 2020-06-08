@@ -1,0 +1,17 @@
+The latest HydrogenOS beta update for the Chinese editions of the OnePlus 7 and OnePlus 7 Pro brings support for the Breeno assistant. The feature is still in beta. Hence, users must first update to the latest Hydrogen OS 7 public beta and then install the Breeno apk. Hydrogen OS is an Oxygen OS alternative for Chinese OnePlus devices.
+
+Chinese manufacturers aren’t very keen on using any kind of Google’s services. In fact, brands like Xiaomi and Realme stick to their own UIs that emphasise heavily on their own ecosystems with their own Google alternatives. This carries on to Google Assistant. For instance, the Chinese editions of some Xiaomi devices used a Chinese assistant as an alternative to Google’s Assistant. Now, Chinese editions of OnePlus devices have begun getting the Breeno Assistant.
+
+Watch: Top 5 Smartphones to launch in January 2020
+
+The Breeno assistant was found on Oppo smartphones from 2018. In case you’re wondering how Breeno got from Oppo to OnePlus, both companies are subsidiaries of the larger BBK Electronics group. It was a matter of time before the Chinese assistant made it to OnePlus devices too.
+
+An official OnePlus forum announcement also mentions the feature coming to the 7T series. This includes OnePlus 7T and 7T Pro smartphones. There is still no clarity if the feature is a Chinese exclusive or we’d see OnePlus bringing Breeno support on global variants as well.
+
+OnePlus 7, 7 Pro: Other changes in the update
+
+Apart from Breeno support, the latest Hydrogen OS beta for the OnePlus 7 series also brings the December security patch and fixes for several camera bugs, including a black screen bug. There is also a new smart home appliance app bundled in the update.
+
+The change could point to something bigger. Are Chinese brands on the lookout to offer homegrown services as Google alternatives? Only time will tell. The matter would put an interesting take on the USA banning Chinese brand Huawei from using their services. Huawei has been forced to use its own HarmonyOS for its smartphones for now. As of now, Chinese brands like OnePlus, Oppo, Realme, Vivo and Xiaomi, all heavily rely on Google’s operating system and services.
+
+Story Timeline

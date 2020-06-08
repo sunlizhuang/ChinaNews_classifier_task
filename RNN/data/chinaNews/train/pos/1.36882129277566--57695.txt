@@ -1,0 +1,107 @@
+Developing a New Cloud PLM Platform in China: Per Johnsson has the World in His Sights
+
+We’ve met Per Johnsson in previous engineering.com articles: the Swede who traveled to China under PTC's flag during the early 2000s, and who started his own PLM company, JWI, in 2007. Over time, the company has developed a number of proprietary solutions in the sub-PLM area and more recently has taken a giant step forward: developing its own comprehensive industrial software solution.
+
+With the new JWI Cloud Platform, the enterprising Per Johnsson has the world in his sights.
+
+The JWI Cloud Platform is based on a modern microservices architecture (MSA). It can be run on-premise, as a local installation and in the cloud, while supporting app-based real-time solutions which connect everyone involved in the engineering and manufacturing chain.
+
+“Our vision is to compete globally,” Johnsson said when I meet him during a seminar in Sweden. “This requires modern software development and business methodology that solves real manufacturing and business challenges and is not only good for the local market, but also has capabilities that allow it to extend into the global, as well.”
+
+An important aspect of the JWI platform is that it is cloud native.
+
+“Product developers and manufacturers with ambitions to stay world-class need accurate, traceable, real-time based and easily accessible product information to manage requirements, innovation and flexible scaling up and down,” Johnsson claimed. “As such, our PLM platform contains specifically developed solutions for product development, manufacturing, edge computing and more, with everything based on microservices.”
+
+According to Johnsson, they have "re-considered what was made earlier regarding PLM technology, and included capabilities related to DevOps, while at the same time the platform has a low code character."
+
+A PLM SET UP OF THE FUTURE. "Microservices" (MSA) may be a key technology in the cloud-based PLM setup of the future, but what is it and what does it mean? Per Johnsson explains that MSA should be seen as a software and design architecture, a variant of Service Oriented Architecture (SOA), where the solution consists of several small, light and individual modules. Really, this means that an application is divided into smaller parts, where each part has a specific function in applications. The application is thus modular and not monolithic, unlike the most common traditional solutions today,” Johnsson said to engineering.com.
+
+The term "microservices" is the key in this context—but what are microservices, and what does the term mean?
+
+Johnsson explains that this should be seen as a software and design architecture—an evolution of Service-Oriented Architecture (SOA)—where the solution consists of several small, light and individual modules. In reality, this means that an application is divided into smaller parts, where each part has a specific function in the application. The software is therefore modular—unlike a monolithic software, which has all the functionality in a single, often complex application.
+
+These smaller modules, in turn, are self-supporting and largely independent, but are still interconnected services where each of the modules is responsible for their own processes.
+
+What Do You Gain with the "Microservices" Setup?
+
+A monolithic application usually has a user interface, database access, light and heavy functions (such as decoding/calculations) and more within the same application.
+
+An application based on the "microservices principle" divides the different functions into modules where each module handles its own specific ‘service’, such as database access or the graphical interface. Each module is usually referred to as its own service—a module that delivers a specific function with clearly defined rules.
+
+But what’s the value of applying a microservice setup?
+
+“A lot, in principle,” asserts Johnsson. “The arrangement means that each microservice can have its own lifecycle and design. In the latter case, in each microservice one can choose the most appropriate programming language and underlying database to implement the functions that you want the MSA to perform. In our platform, we use mySQL, MongoDB, Neo4J, Casandra and time series databases in different services, depending on the functions they perform.”
+
+Each service has its own life, which means that every service can be improved and upgraded independently of other services.
+
+All in all, this means that each team can work independently of others to improve their functions and you do not need to coordinate and test the entire system together. This makes it possible to release new code (features) on a daily or as needed basis, with zero downtime.
+
+Differences Between the JWI Platform and Traditional PLM Solutions
+
+As mentioned above, Johnsson is a former PTC employee. Working in the industry since the middle of the 1990s, he is intimately familiar with the needs of global manufacturing companies. He is also well aware of which capabilities are available, and which challenges are created by legacy PLM products—and therefore he’s also clear on what it is that differentiates his new JWI Cloud platform.
+
+In particular, Johnsson points out that the major players—such as PTC with their Windchill PLM platform, Dassault Systèmes with 3DEXPERIENCE and Siemens Digital Industries with Teamcenter—all still have what can be described as monolithic architectures, such as PLM database and functions, in their core systems.
+
+This means that these platforms are created as a single application where all functions are integrated into the code and everything points to the same database, which is certified by the supplier, Johnsson says.
+
+He explains that this means a significant lack of flexibility in several ways:
+
+Which hardware, operating system and database customers can use. JWI platform users can choose any hardware, software, operating system and database, while traditional systems have a few "certified" third-party vendors and versions that can be used. JWI can configure its solutions on the cloud and then install them on any cloud or server—either on public clouds, private clouds, on-premise (locally installed) or even on the edge such as on Industrial PCs (IPC). The same logical system may even have some services installed on a cloud and others on-premise, but it all still works together as one system. How complex it is to customize and introduce new features that support the users. The JWI system is based on continuous development and DevOps, which basically means the continuous release of new code and new functions. Software upgrades. MSAs can be upgraded on a regular basis without the need to restart the system. Traditional systems are very complex to upgrade and require shutting down the system for days in order to upgrade—not to mention testing. Performance and scalability. Resources—processor power and hardware—can be allocated in real time to different "service packages" based on how much load and how much they are used. In traditional systems, performance and the ability to scale up the system is built into the architecture, but are both difficult to do and take a long time to address. New technologies, which can be applied directly in the core system. Since the platform was developed for the cloud with cloud technology, there are many technologies that are adapted for use in MSA, such as database technologies, AI and machine learning, Robotic Process Automation (RPA), event processing, edge technology and more. All of these are difficult or impossible to apply to traditional monolithic systems with traditional relational databases.
+
+Johnsson adds that what the competitors have done is put one or more layers on top of their PLM systems—think PTC’s ThingWorks and Navigator, Siemens’ Mendix and Dassault’s 3DEXPERIENCE—in order to get data from the PLM systems and to make flexible and advanced apps on top of the old systems. This limited approach only addresses item number 2 above.
+
+EASIER TO CREATE APPLICATIONS. JWI's Cloud Platform is developed for engineering and manufacturing-related applications where you have business services and integrations into typical product development and manufacturing systems to make it easier to create applications.
+
+A New Release This Quarter
+
+With the basic structure in place and their first customer confirmed, Per Johnsson and his employees have big plans for their solution. He stresses that the JWI Cloud Platform is a solution where users can create and deploy applications.
+
+“Our platform is designed for the engineering and manufacturing type of applications where we have functions (business services) and integrations into typical product development and manufacturing systems to make it easier to create applications. Based on this platform—or architecture—JWI has created several standard applications such as JWI Digital PDM, JWI Digital MPM, DeviceMate Industrial IoT (a digital twin solution for manufacturing) and Quality Cloud TQM."
+
+Johnsson also says that the JWI Cloud Platform and applications have been available in China since mid-2019.
+
+“We did a major upgrade release in December, and then we will continuously upgrade with a new release once per quarter. We also plan to release applications for Program Portfolio Management (PPM) and a Design Navigator during the first quarter of 2020.”
+
+KEYNOTE ON THE JWI CLOUD PLATFORM. Per Johnsson (center) spoke about the JWI platform during his keynote at PLM and industry consultant FiloProcess’ seminar day in Stockholm, Sweden. In the picture, Johnsson is together with the FiloProcess manager Bengt Sareyko (left) and Keith Parkhouse (right) from Alfa Laval, who had an exciting presentation about Alfa Laval's handling and arrangement of product variation in "configuration-to-order processes."
+
+The First Fully Developed System for the Cloud
+
+During the event in Sweden arranged by PLM consultant FiloProcess, Johnsson claimed to have developed "the first fully 'cloud-native' PLM system." This isn’t the first time a developer has claimed to be the first with a cloud-based PLM system—Arena PLM and PropelPLM are good examples.
+
+I asked Johnsson what the difference is between JWI’s system and the others who claim to be the first to have cloud-developed systems.
+
+“First and foremost,” he replied, “I want to be clear that you should not mix ‘cloud-native technology’ and ‘with cloud-adapted and ported/hosted solutions.’ When we say ‘cloud-developed’ we are talking about ‘cloud native technology.”’
+
+According to Johnsson, this means that everything JWI does is:
+
+Microservices-based. ‘Container-based,’ which means that JWI can package different services and deploy them in any environment. Set in continuous development, so that JWI can continuously develop and deploy code. Working with DevOps, a system for developing, testing, deploying and maintaining the system as a continuous process.
+
+“We have not, like some others, used the infrastructure (IaaS) of any cloud provider such as Amazon, Azur or Google,” said Johnsson. “But we have an independent infrastructure, which allows us to deploy on any public cloud; or any private cloud; or in a server of the customer.”
+
+BORN IN THE CLOUD. Technology that was born and developed in the cloud: What is the potential and how does it affect you? This illustrates Per Johnsson's view of the matter.
+
+My Take on JWI’s Competitive Position
+
+What does the competitive situation look like for Per Johnsson? What about "microservices" and DevOps?
+
+A general point, of course, is that competition in the PLM market is fierce. However, it’s a market that is, to some extent, undergoing fundamental changes related to disruptive technologies and distribution platforms. This means that new spaces containing interesting potentials for growth will occur on a market that generally showed an annual growth of just under 10 percent.
+
+In terms of space for expansion, my guess is that the Chinese market will initially offer more growth space than the global market, which is a good foundation for JWI’s solution. According to CIMdata, “China's PLM market continues to rapidly expand, exceeding USD$2.35 billion in 2018, up 16.2% from 2017. While the global PLM market grew by 9.4% and reached USD$47.8 billion in 2018, China's PLM market share increased at an even faster rate.”
+
+That being said about the market situation, JWI’s technology offers some very interesting technological and architectural capabilities. It’s also important to note that Johnsson categorizes JWI’s platform as ‘Industrial Software’, recognizing that it delivers more than traditional PLM offerings.
+
+Obviously these pieces are on the move, and more are on the way. Previously on engineering.com we’ve spoken about how Swedish-Chinese CEVT, with PLM responsible Erik Gräns ​​at the forefront, used the DevOps angle in their job of creating world-leading BOM and configuration management within the subsidiary owned by the Geely Group, which develops basic platforms for vehicle development of new models within the group. This has all been very successful.
+
+Autodesk is Thinking and Developing in the Same Track as JWI
+
+Susanna Holt from Autodesk spoke warmly of the three basic elements in Las Vegas: "Microservices," Web APIs and DevOps.
+
+As mentioned above, there are more people and organizations that think in MSA terms; PLM and CAD developer Autodesk is one of them. During the recent Autodesk University event in Las Vegas, Autodesk’s VP and chief of their cloud platform Forge, Susanna Holt, spoke warmly of the three basic elements: "Microservices," Web APIs and DevOps.
+
+These elements are the foundations of the architecture, and are of great importance in this context—Johnsson's JWI platform included.
+
+Autodesk Forge is a growing cloud services platform that can be used extensively in many areas such as visualization, collaboration and automation of things. Furthermore, new services are constantly being added and the platform is becoming more stable, scalable and reliable.
+
+If Autodesk bets on this, it has bearing on how the area will develop, particularly because of the size and development resources of this U.S. PLM and globally dominant CAD developer.
+
+Pioneers like Per Johnsson and JWI will have very exciting and powerful traveling companions on their journey forward.

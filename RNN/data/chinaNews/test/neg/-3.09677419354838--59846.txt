@@ -1,0 +1,41 @@
+The rising sun is seen behind surveillance cameras near Tiananmen Square before a military parade marking the 70th founding anniversary of People's Republic of China, on its National Day in Beijing, China October 1, 2019. Jason Lee, Reuters
+
+
+
+BEIJING/HONG KONG - When the man from Hangzhou returned home from a business trip, the local police got in touch. They had tracked his car by his license plate in nearby Wenzhou, which has had a spate of coronavirus cases despite being far from the epicenter of the outbreak. Stay indoors for two weeks, they requested.
+
+After around 12 days, he was bored and went out early. This time, not only did the police contact him, so did his boss. He had been spotted near Hangzhou's West Lake by a camera with facial recognition technology, and the authorities had alerted his company as a warning.
+
+“I was a bit shocked by the ability and efficiency of the mass surveillance network. They can basically trace our movements with the AI technology and big data at any time and any place,” said the man, who asked not to be identified for fear of repercussions.
+
+The Chinese have long been aware that they are tracked by the world's most sophisticated system of electronic surveillance. The coronavirus emergency has brought some of that technology out of the shadows, providing the authorities with a justification for sweeping methods of high tech social control.
+
+Artificial intelligence and security camera companies boast that their systems can scan the streets for people with even low-grade fevers, recognize their faces even if they are wearing masks and report them to the authorities.
+
+If a coronavirus patient boards a train, the railway's "real name" system can provide a list of people sitting nearby.
+
+Mobile phone apps can tell users if they have been on a flight or a train with a known coronavirus carrier, and maps can show them locations of buildings where infected patients live.
+
+Although there has been some anonymous grumbling on social media, for now Chinese citizens seem to be accepting the extra intrusion, or even embracing it, as a means to combat the health emergency.
+
+“In the circumstances, individuals are likely to consider this to be reasonable even if they are not specifically informed about it,” said Carolyn Bigg, partner at law firm DLA Piper in Hong Kong.
+
+NEW TECHNOLOGIES
+
+Telecoms companies have long quietly tracked the movements of their users. China Mobile promoted this as a service this week, sending text messages to Beijing residents telling them they can check where they have been over the past 30 days. It did not explain why users might need this, but it could be useful if they are questioned by the authorities or their employers about their travel.
+
+“In the era of big data and internet, the flow of each person can be clearly seen. So we are different from the SARS time now,” epidemiologist Li Lanjuan said in an interview with China’s state broadcaster CCTV last week, comparing the outbreak to a virus that killed 800 people in 2003.
+
+"With such new technologies, we should make full use of them to find the source of infection and contain the source of infection."
+
+The industry ministry sent a notice to China’s AI companies and research institutes this week calling on them to help fight the outbreak. Companies have responded with a flurry of announcements touting the capabilities of their technology.
+
+Facial recognition firm Megvii said on Tuesday it had developed a new way to spot and identify people with fevers, with support from the industry and science ministries. Its new “AI temperature measurement system”, which detects temperature with thermal cameras and uses body and facial data to identify individuals, is already being tested in a Beijing district.
+
+SenseTime, another leading AI firm, said it has built a similar system to be used at building entrances, which can identify people wearing masks, overcoming a weakness of earlier technology. Surveillance camera firm Zhejiang Dahua says it can detect fevers with infrared cameras to an accuracy within 0.3ºC.
+
+In an interview with state news agency Xinhua, Zhu Jiansheng of the China Academy of Railway Sciences explained how technology can help the authorities find people who might be exposed to a confirmed or suspected coronavirus case on a train.
+
+“We will retrieve relevant information about the passenger, including the train number, carriage number and information on passengers who were close to the person, such as people sitting three rows of seats before and after the person," he said.
+
+"We will extract the information and then provide it to relevant epidemic prevention departments."

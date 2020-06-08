@@ -1,0 +1,25 @@
+DAVOS, Switzerland/TAIPEI -- Despite the China-U.S. "phase one" trade deal, nothing has changed regarding Qualcomm's halted business dealings with Huawei Technologies.
+
+"I think there is confusion," Cristiano Amon, president of the American chipmaker, told the Nikkei Asian Review on the sidelines of the World Economic Forum on Wednesday. "The Huawei issue is very different to the China issue." He said the tentative trade truce between Washington and Beijing has no impact on Qualcomm's dealings with the Shenzhen-based company being cut off.
+
+"Like any other American company," Amon said, "we apply for a license and requested the ability to provide technology to Huawei, but so far, we have not received a response."
+
+Qualcomm CEO Steve Mollenkopf told Caixin, a Chinese media outlet, in an interview published in September that his company is once again shipping components to Huawei.
+
+While Qualcomm has been unable to sell chips to Huawei, China's government has been accelerating its own chip development program. As for how much of a threat Chinese rivals that are rapidly ascendig the technology ladder will present to Qualcomm, Amon avoided giving a direct answer. "We compete not only with companies in China," he said. "We always had competition, since the beginning."
+
+However, the global chipmaking landscape may have shifted, given the level and magnitude of financial and policy support that Chinese companies receive from their government. The question going forward is whether Qualcomm will be able to secure its technological edge and keep up the cycle of innovation to stave off the Chinese threat.
+
+"The key in our industry is more than economics. It's technology leadership," Amon said, apparently choosing his words carefully. Huawei and many other Chinese companies are Qualcomm clients and competitors.
+
+During a news conference on 5G mobile technology, Amon mentioned that Qualcomm was "fortunate" as it was able to act as a "stabilizing force ... even in the middle of the trade tension." He raised an example: bringing Chinese clients, like Oppo, to the U.S. market.
+
+Qualcomm makes high-end mobile chips and is a key provider to a number of Chinese handset brands, not only to Huawei, but also to Oppo, Vivo and Xiaomi. A major rival to Taiwanese mobile chip developer MediaTek and China's UNISOC Communications, it also relies on Taiwan's TSMC and South Korea's Samsung Electronics for production.
+
+Huawei, through its semiconductor unit HiSilicon Technologies, is working on its own mobile-related chips, including mobile processors and modem chips. The Chinese company was one of Qualcomm's biggest chip buyers before Washington last year banned U.S. companies from selling parts to it. It has since shifted its focus to making chips in-house. It has also turned to MediaTek for supplies.
+
+Although Qualcomm still sells to Oppo, Vivo and Xiaomi as well as to LG and Sony, it is among the hardest hit by the U.S. blacklisting of Huawei.
+
+Meanwhile, Beijing is working on lessening the country's dependence on chip imports. China's ability to replicate the innovative culture of the U.S., Taiwan or South Korea, where leading semiconductor companies thrive, remains an open question. "It is difficult to make predictions," Amon said.
+
+"We have a vibrant model," the Qualcomm president went on. "As long as [we] can continue to invest in R&D, we will continue to see opportunities in the global market. Problems happen when innovation stops ... that's when a lot of existing developed economies relying on innovation start to lose their competitive edge."

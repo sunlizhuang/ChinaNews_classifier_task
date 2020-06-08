@@ -1,0 +1,39 @@
+Equifax hack highlights China interest in U.S. personal data
+
+From left, Principal Associate Deputy Attorney General Seth Ducharm, Chris Hacker, Special Agent in Charge of FBI Atlanta, Assistant Attorney General Brian Benczkowski, Attorney General William Barr, Assistant Attorney General John Demers, and U.S. Attorney for the Northern District of Georgia Byung "BJay" Pak, attend a news conference, Monday, Feb. 10, 2020, at the Justice Department in Washington. Four members of the Chinese military have been charged with breaking into the networks of the Equifax credit reporting agency and stealing the personal information of tens of millions of Americans, the Justice Department said Monday, blaming Beijing for one of the largest hacks in history. less From left, Principal Associate Deputy Attorney General Seth Ducharm, Chris Hacker, Special Agent in Charge of FBI Atlanta, Assistant Attorney General Brian Benczkowski, Attorney General William Barr, Assistant ... more Photo: Jacquelyn Martin, AP Photo: Jacquelyn Martin, AP Image 1 of / 7 Caption Close Equifax hack highlights China interest in U.S. personal data 1 / 7 Back to Gallery
+
+BOSTON (AP) — In 2014, the Obama administration accused five Chinese military agents of targeting Pittsburgh-area industrial companies including Westinghouse Electric, Alcoa and U.S. Steel. Since then, the number of companies allegedly targeted by Chinese hackers has only grown.
+
+Chinese President Xi Jinping assured th en-President Barack Obama in 2015 his military would stop stealing commercial secrets from U.S. companies. The evidence indicates that pledge was short-lived, if it was honored at all.
+
+The latest in a string of China-linked hacking incidents came with the Monday indictment of four members of the Chinese military for breaking into the credit-reporting agency Equifax in 2017. The motives, a s with several others hacks that preceded it, appear to be more about espionage t han stealing trade secrets, cybersecurity experts say.
+
+Among other things, experts who monitor the dark web say they have seen no evidence of data stolen in the Equifax hack — or in an earlier breach of Marriott — being sold to common criminals for ID theft and credit card fraud.
+
+The state-backed Chinese hackers allegedly vacuumed up billions of data points on Americans that could be used to cross-reference data and obtain deep insights into individual lives. The data could be used in the recruitment of spies, and the hackers may have seeded cover identities for Chinese agents inside Equifax's databases, said Priscilla Moriuchi, a former NSA employee now at the cybersecurity firm Recorded Future.
+
+Here are the biggest cases of wholesale data theft blamed on Chinese agents.
+
+OFFICE OF PERSONNEL MANAGEMENT
+
+In a devastating blow to U.S. national security, the personal data of more than 21 million current, former and prospective federal employees was stolen. Although a first hacker was detected in March 2014, a second intruder went undetected until April 2015, by which time data on security clearances, background checks and fingerprint records had been extracted. A House inquiry said the hack was likely the work of “Deep Panda,” a group linked to the Chinese military.
+
+ANTHEM
+
+Hackers stole personal information on nearly 80 million current and former customers and employees of the Indiana-based health insurer over at least seven months ending in January 2015. Two members of a hacking group operating from China were later indicted in the biggest health care hack in U.S. history.
+
+Stolen data included Social Security numbers, birth dates, email addresses, employment details, incomes and street addresses. Anthem said it had no evidence that medical or financial information was taken or than any of the data stolen resulted in fraud.
+
+The security firm Symantec said the hack was believed to be the work of a well-resourced Chinese group it called Black Vine that had been conducting cyber-espionage targeting industries including aerospace, energy and health care.
+
+MARRIOTT
+
+Beginning in 2014, hackers extracted data including credit card and passport numbers, birth dates, phone numbers and hotel arrival and departure dates on as many as 383 million guests of the hotel chain. The breach went undetected for four years and affected hotels in the Starwood chain that Marriott acquired in 2016.
+
+Analysts noted that information from hotels — common venues of extramarital trysts and corporate espionage — could be used for blackmail and counterespionage. On Monday, Attorney General William Barr blamed the hack on Chinese agents.
+
+OTHER MAJOR CORPORATIONS AND AGENCIES
+
+Two hackers were indicted in December 2018 for extensive data theft from major corporations in the U.S. and nearly a dozen other nations beginning in 2006, allegedly on behalf of Beijing’s main intelligence agency. They allegedly obtained names, Social Security numbers and other personal information of more than 100,000 Navy personnel.
+
+Targets included NASA’s Jet Propulsion Lab and Goddard Space Center. The indictment said more than 45 technology companies were targeted by the group, known as “Stone Panda,” and that other victims spanned strategic industries from aerospace to factory automation, laboratory instruments and biotechnology.

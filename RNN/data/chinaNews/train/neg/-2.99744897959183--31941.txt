@@ -1,0 +1,81 @@
+Boris Johnson was fighting to contain a ferocious backlash at home and abroad last night after giving Huawei the green light to take part in the rollout of the 5G network.
+
+After months of Cabinet wrangling, the Prime Minister yesterday announced the controversial Chinese tech giant will be permitted a role – despite pressure from the US and Tory MPs to ban the firm.
+
+Under the compromise solution, Huawei equipment can be used in 'non-core' parts of the network. But its market share will be capped at 35 per cent. And Downing Street said it would work with allies to find alternatives in the hope of driving down the firm's share over time.
+
+Promoters display Huawei's Ascend P1 (left) and D1 (right) smartphones at the CommunicAsia telecom expo and conference in Singapore
+
+Boris Johnson (pictured on Monday) was fighting to contain a ferocious backlash at home and abroad last night after giving Huawei the green light to take part in the rollout of the 5G network
+
+Officials had warned that banning Huawei could slow down the rollout of 5G and full-fibre broadband by up to three years and cost the economy tens of billions of pounds in lost competitiveness.
+
+Britain's security services classified Huawei as a 'high-risk vendor' because of its close links with the oppressive Chinese state. But GCHQ and other spy agencies advised the PM that the risk could be contained provided Huawei remains banned from core functions.
+
+Donald Trump, who has urged the UK to ban Huawei completely, made no public comment on Tuesday night after being talked through the decision by Mr Johnson in a tense phone call.
+
+An engineer from EE checks 5G masts and Huawei Technologies Co. 5G equipment in March 2019
+
+A UK security source also played down the risk of losing intelligence sharing with 'Five Eyes' partners in the US, Australia, Canada and New Zealand. The source said: 'There have been no threats of withdrawal of intelligence sharing.'
+
+But ministers are braced for a potential row with the US administration today when Secretary of State Mike Pompeo arrives in London for a two-day visit. One source said Mr Pompeo was 'at the hawkish end' of the issue.
+
+Senior US politicians in Congress reacted with fury.
+
+Republican Senator Tom Cotton called for a review of US intelligence sharing with the UK, and likened the decision to 'allowing the KGB to build its telephone network during the Cold War'.
+
+He added: 'I fear London has freed itself from Brussels only to cede sovereign to Beijing.'
+
+Former presidential candidate Mitt Romney urged the PM to reverse the 'disconcerting' decision, saying: 'By prioritising costs the UK is sacrificing national security and inviting the Chinese communist party's surveillance state in.'
+
+At Westminster, Mr Johnson faced the first Tory mutiny of the new government, with a string of MPs questioning the decision.
+
+Former Tory leader Sir Iain Duncan Smith said the decision 'beggars belief', and questioned why the UK was allowing a hostile state such as China any role in the UK's telecoms network.
+
+Sir Iain said China was 'a threat to us in cyber-security' and he was 'deeply disappointed' by the decision. Former defence secretary Penny Mordaunt described the decision as 'regrettable'.
+
+The scale of the rebellion prompted fears among Tory whips that the legislation could face problems when it reaches the Commons, even with Mr Johnson's 80-seat majority.
+
+Outside Huawei's main UK offices in Reading
+
+The rollout of the super-fast 5G network is seen as vital to improving the UK's productivity and meeting the PM's pledge to bring greater prosperity to the regions.
+
+Foreign Secretary Dominic Raab said 'market failure' meant the UK had little choice but to use Huawei unless it was willing to accept long delays and higher costs.
+
+Huawei says it would ever act as an agent of the Chinese state, but security officials confirmed they considered the firm 'high risk'.
+
+The designation means the firm will be banned from involvement in the 'core' of the network, which has access to the most sensitive data. But it will be permitted to supply masts, antennae and cables except close to sensitive geographic locations, such as nuclear sites and military bases.
+
+Yesterday's decision followed a 90-minute meeting of the National Security Council. Several ministers, including Defence Secretary Ben Wallace and Home Secretary Priti Patel, are known to have concerns about Huawei but accepted the risks could be managed for now.
+
+Government sources said they hoped to reduce Huawei's market share over time by working with Western allies to bring new entrants into the market. But sources predicted this process would take two to three years, and said the UK could not afford to wait before getting on with 5G.
+
+Former prime minister Theresa May was among those who welcomed the decision, saying it 'protects our national security, but also recognises the interests of our economy'.
+
+The pros and cons... What are the risks of using Huawei? ÷ The US says Huawei could be used as a back door for spying by the Chinese state. ÷ Critics have also warned China could use its access to Britain's data network to shut down critical national infrastructure. ÷ There are fears the UK could lose its intelligence sharing relationship with countries such as the US and Australia, who have warned against allowing Huawei anywhere near their networks. ÷ Members of the US Congress have also threatened to block a post-Brexit trade deal if the UK pushed ahead with using Huawei. But the downside of banning the Chinese? ÷ It would reduce the number of companies supplying 5G, decreasing competition and leading to a rise in costs for consumers. ÷ Whitehall officials have also said it could cost the UK economy tens of billions of pounds in the coming years, from the lost opportunity of the productive gains of using 5G. ÷ There would also be a cost to companies who have started to roll it out across the country. ÷ Officials have warned such a move could slow down the rollout of 5G by up to three years. ÷ It would likely damage relations with China, where Britain is also seeking to strike a trade deal.
+
+Now you tell us! British intelligence experts have 'never' trusted Huawei and fear firm will be ordered by China to damage UK, dossier reveals
+
+British intelligence officials have 'never trusted' Huawei and believe the firm could be ordered by the Chinese state to harm the UK, according to a bombshell dossier.
+
+The National Cyber Security Centre (NCSC) also warned ministers that the Chinese state has carried out and 'will continue to carry out cyber attacks' against the UK.
+
+But in an analysis of Huawei's potential involvement in the UK's 5G network, it concluded that the risk of the tech giant being used as a 'Trojan horse' for Chinese intelligence services was 'manageable'. It said the Chinese state could find easier and more effective ways to launch a cyber-attack than exploiting any 'back door' via Huawei's equipment.
+
+The UK ruled yesterday that Huawei can be rolled out in its 5G networks, but with restrictions imposed, including only being allowed to account for 35 per cent of the kit in a network's periphery.
+
+In an assessment prepared ahead of the decision, the NCSC warned that any market share higher than that could lead to the UK becoming nationally dependent on the 'high-risk' firm and this would lead to an 'unacceptable' threat to security.
+
+NCSC technical director Dr Ian Levy said Huawei had always been treated as a high-risk vendor and the authorities had 'worked to limit their use in the UK'.
+
+He said: 'We've never 'trusted' Huawei and the artefacts you can see... exist because we treat them differently to other vendors.
+
+'We ask operators to use Huawei in a limited way so we can collectively manage the risk and NCSC put in place a wider mitigation strategy.' The Chinese firm's activities in the UK have been overseen by arrangements including the Huawei Cyber Security Evaluation Centre (HCSEC).
+
+The NCSC report said: 'Due to the UK's mitigation strategy, which includes HCSEC as an essential component, our assessment is that the risk of trojan functionality in Huawei equipment remains manageable.
+
+'Placing 'back doors' in any Huawei equipment supplied into the UK is not the lowest risk, easiest to perform or most effective means for the Chinese state to perform a major cyber-attack on UK telecoms networks today.'
+
+The NCSC added: 'It is important to avoid the situation in which the UK becomes nationally dependent on a particular supplier. Once established, a dependence will take time to correct, potentially years, assuming viable alternatives exist.'
+
+The NCSC guidance said Huawei was considered to be a high-risk vendor because 'under China's National Intelligence Law of 2017, it could be ordered to act in a way that is harmful to the UK'.

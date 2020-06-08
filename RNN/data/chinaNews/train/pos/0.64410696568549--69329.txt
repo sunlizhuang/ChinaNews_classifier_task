@@ -1,0 +1,147 @@
+With the further development of “The Belt and Road”, bilateral trade between China and Kenya is becoming increasingly close. In order to further understand the development of bilateral trade in goods between China and Kenya, as well as the development trend of trade potential in the future, this paper uses trade intensity index and trade potential index to estimate the potential of bilateral goods trade between China and Kenya. The following conclusions are drawn: the import trade links between China and Kenya are relatively loose; the export trade links are relatively close; the import/export trade between the two sides is increasing year by year, with a better development trend in the future; although the trade potential index has fluctuated in the past decade, it has been rising in the past three years, with a better trend in the future. Through the analysis of trade potential, this paper summarizes the problems existing in the bilateral trade between China and Kenya, and puts forward relevant countermeasures and suggestions.
+
+Li, W. and Li, C. (2020) The Empirical Study on Potential of Bilateral Trade between China and Kenya in the Context “The Belt and Road”., 119-130. doi: 10.4236/tel.2020.101008
+
+1. Introduction
+
+Since the “The Belt and Road” initiative was put forward in 2013, it has provided a good cooperation platform for the silk road economic belt and the maritime silk road economic belt. Kenya, as an African stop on the maritime silk road, has had economic and trade exchanges with China since Zheng He’s voyage to the west, and the friendship has lasted for more than 600 years. Since 2000, the total import and export value of China and Kenya has been increasing year by year, and the bilateral trade of goods between China and Kenya has been deepening. The “The Belt and Road” initiative provides space for cooperation between China and Kenya, opening up the consumer market each other and promoting trade. There are challenges as well as opportunities. Although China and Kenya are both developing countries, there are problems such as bilateral trade imbalance and aging trade structure in bilateral import and export goods trade due to different national economic scale, population and degree of social development. Moreover, in the bilateral trade between China and Kenya, China has been in surplus for a long time, and Kenya has been in deficit for a long time, which has hindered the in-depth cooperation of bilateral trade in goods. Under the background of both opportunities and challenges of bilateral trade in goods, this paper will analyze the current situation of bilateral trade in goods and the potential of bilateral trade in goods, find out the problems existing in bilateral trade between China and Kenya, and put forward suggestions for in-depth cooperation in bilateral trade.
+
+2. Literature Review
+
+Scholars at home and abroad have done a lot of research on the analysis of trade potential. On the one hand, scholars make empirical analysis of bilateral trade potential by using models. Roberts (2004) used the gravity model to predict the trade flow of China-ASEAN Free Trade Area, and believed that the trade flow between member countries with similar demand structure and per capita income may increase, but the trade creation effect brought by China-ASEAN Free Trade Area is very small [1]. Biyanru and Shibo (2010) used the gravity model to measure the trade potential of China and the five Central Asian countries, and concluded that China and the five Central Asian countries have greater trade complementarity and trade potential [2]. Li Yabo (2013) calculated the potential of bilateral trade between China and Chile based on the gravity model, and concluded that the potential of bilateral trade between China and Chile has not been fully exploited, and there is still room for further expansion [3]. Gao Zhigang and Zhang Yan (2015) used the time-varying stochastic frontier gravity model to calculate the trade potential between China and Pakistan, and concluded that the bilateral trade potential between China and Pakistan is far greater than the export trade potential between China and Pakistan [4]. Gong Xinshu and Qiao Shanshan (2016) estimated the trade potential of the Silk Road Economic Belt by building a stochastic frontier gravity model, and obtained the result that China’s trade potential with the core area of the Silk Road Economic Belt is larger, followed by the expansion area, and the potential of the important area is smaller [5].
+
+On the other hand, scholars estimate and analyze bilateral trade potential through relevant trade potential index. When Mukherji (2003) studied the trade potential of Asia Pacific economic integration, he used “bilateral trade potential” to estimate the trade potential of China’s participation in the Bangkok Agreement for the Asia Pacific region, and reached the conclusion that the trade potential calculated by this method is greater than that calculated by the trade integration index [6]. Pant and Panta (2009) used the “indicative trade potential index” proposed by Helmers and Pasteels to estimate the trade potential of Nepal and the United States [7]. Bano (2013) believed that the measurement methods of Mukherji, Helmers and Pasteels can effectively make up for the shortcomings of gravity model in estimating trade potential, and further pointed out that the trade potential between two countries can be estimated after one country’s export supply of a given commodity matches another country’s import demand for a certain commodity [8].
+
+Through reading and combing the literature, it is found that scholars have little research on the potential of bilateral goods trade between China and Kenya. This paper studies and analyzes the bilateral trade potential of China and Kenya through the import and export intensity index and the modified trade potential estimation method of Bano, and puts forward suggestions for bilateral trade between China and Kenya through the results.
+
+3. Current Situation of Bilateral Goods Trade between China and Kenya
+
+1) China is the first import trade partner of Kenya
+
+According to statistics of Kenya’s National Bureau of statistics, in 2017, China did not enter the top ten of Kenya’s export trade partners. Kenya’s main export partners are neighboring countries and European and American countries. Different from the ranking of export trade partners, China ranks first among Kenya’s major import trade partners, and Kenya’s total imports from China account for 22.6% of Kenya’s total imports, which is the largest import trade partner in Kenya (Figure 1 & Figure 2).
+
+Figure 1. Proportion of export value of Kenya’s export trading partners in 2017. Data Source: Kenya National Bureau of Statistics.
+
+Figure 2. Proportion of import value of Kenya’s import trading partners in 2017. Data Source: Kenya National Bureau of Statistics.
+
+2) China’s long-term surplus in bilateral trade of goods between China and Kenya
+
+Figure 3 shows the bilateral trade value between China and Kenya in 2009-2018. The total import and export value increased from US$1.307 billion in 2009 to US$6.013 billion in 2015. Up to now, it has been fluctuating around US$5.5 billion, and the overall trade scale is increasing. According to the data of China’s export to Kenya, the overall export value is increasing year by year. In recent years, the export value has fluctuated, but all of them are more than US$5 billion. China’s imports from Kenya are far less than China’s exports to Kenya in terms of total value, indicating that China is a surplus country and Kenya is a deficit country in bilateral trade. From 2009 to 2015, China’s surplus increased year by year, and from 2015 to 2017, China’s surplus decreased. However, from the data of ten years, China has been in surplus and Kenya has been in deficit.
+
+3) Most of China’s exports to Kenya are industrial products
+
+Table 1 shows China’s exports of major goods to Kenya and the export value in 2018. According to the data, China’s exports to Kenya are mainly labor-intensive industrial manufactured goods. Including: electrical, electronic equipment, nuclear reactors, boilers, steel machinery, iron and steel, vehicles other than railway, tramway, clothing and accessories, etc. Among them, heavy industrial products account for a large proportion, followed by light industrial products.
+
+4) Most of China’s imports from Kenya are primary products and natural mineral resources
+
+Table 2 shows China’s imports of Kenya’s main commodities and import
+
+Figure 3. Bilateral trade value between China and Kenya in 2009-2018 (unit: US$100 million). Data Source: UN COMTRADE.
+
+Table 1. Main commodities exported by China to Kenya in 2018.
+
+Table 2. Main commodities imported from Kenya by China in 2018.
+
+value in 2018. According to the data, China’s main imports of Kenya are natural mineral resources, agricultural and sideline products, etc. Including: ores, slag and ash; raw hides and skins (other than fur skins) and leather; coffee, tea and spices. This shows that China imports most of Kenya’s primary products and natural mineral resources.
+
+4. Potential Analysis of Bilateral Trade in Goods between China and Kenya
+
+1) Indicators and data sources
+
+a) Import Intensive Index
+
+Import Intensive Index (MII) was proposed by A. J. Brown in 1949 [9], and then modified and improved by Kojima K before it was widely used [10]. The specific measurement indicators are as follows:
+
+M I I i j = M i j / M i X j / ( X w − X i ) (1)
+
+In formula (1): M I I i j is the import intensive index of country i (or region) relative to country j (or region), M i j is the total import value of country i (or region) from country j (or region), M i is the total import value of country i (or region), X j is the total export value of country j (or region), and X w is the total export value of the world. The numerator represents the proportion of total imports of country i (or region) to country j (or region) in total imports of country i (or region), and the denominator represents the proportion of total exports from country j (or region) to the world market excluding country i (or region).
+
+b) Export Intensive Index
+
+X I I i j = X i j / X i M j / ( M w − M i ) (2)
+
+In formula (2), X I I i j is the export intensive index of country i (or region) relative to country j (or region); X i j is the total export value of country i (or region) to country j (or region); X i is the total export value of country i (or region); M j is the total import value of country j (or region); M w is the total import value of the world; and M i is the total import value of country i (or region). The numerator represents the proportion of total exports of country i (or region) to country j (or region) in total exports of country i (or region), and the denominator represents the proportion of total imports of country j (or region) in total imports of the world market excluding country i (or region).
+
+The average value of the import/export intensive index is 1. When the value is 1, it indicates that the import/export tightness of country i (or region) and country j (or region) is the same as that of other markets in the world. When the value is greater than 1, it indicates that the import/export tightness of country i (or region) and country j (or region) is higher. The larger the value, the greater the import/export tightness. When the value is less than 1, it indicates that the import/export tightness of country i (or region) and country j (or region) is lower, and the trade relations between the two countries are loose. The smaller the value, the looser the trade relation.
+
+c) Measurement of trade potential
+
+In this paper, we choose the revised estimation method of trade potential of Bano. The specific estimation indexes are as follows:
+
+T P i j = [ min ( X i , M j ) − X i j ] (3)
+
+In formula (3), T P i j is the trade potential between country i (or region) and country j (or region); X i is the total export value of country i (or region); M j is the total import value of country j (or region); X i j is the total export value of country i (or region) to country j (or region); and min ( X i , M j ) is the minimum value of total exports of country i (or region) and total imports of country j (or region).
+
+d) Data sources
+
+The research object of this paper is China and Kenya. In the formula, country i is China and country j is Kenya. The data of China’s total import and export, Kenya’s total import and export and the world’s total import and export are from the World Trade Organization database, and the data of China’s import and export to Kenya are from the United Nations commodity trade database. In order to compare the changes of indicators and data in terms of time, the data of China and Kenya in 2009-2018 are selected to study and analyze the potential of bilateral trade in goods.
+
+2) Potential analysis of bilateral trade in goods between China and Kenya
+
+a) China’s import trade links with Kenya are relatively loose, and its export trade links are relatively close
+
+According to the collected data, the following Table 3 can be obtained according to formula (1) and (2). That is the import intensive index and export intensive index of China to Kenya in the past ten years of 2009-2018.
+
+In general, the import intensive index of China and Kenya in 2009-2018 is lower than 1, indicating that the import trade links between China and Kenya is loose and the degree of connection is not high. However, the degree of trade ties has been increasing year by year, which shows that the degree of trade ties is gradually close and there is the possibility of in-depth development. The export
+
+Table 3. Import and export intensive index between China and Kenya in 2009-2018.
+
+intensive index of China and Kenya in 2009-2018 is greater than 1, indicating that China and Kenya have strong export trade ties and have a trend of increasing year by year. In the past ten years, the import and export intensive index of China and Kenya has been increasing year by year. It can be seen that the import and export trade between the two countries will continue to increase in the future, which provides a good prospect for the development of bilateral trade.
+
+b) The potential value of bilateral trade in goods between China and Kenya fluctuates slightly, and the future trade potential will be better
+
+According to the data and formula (3), Table 4 can be calculated. That is the estimated trade potential between China and Kenya in 2009-2018. In the past decade, the trade potential between China and Kenya has fluctuated, reaching the highest value in 2012, fluctuating over US$13 billion in 2012-2014, declining in 2015-2016, and then rebounding in 2016-2018. As a whole, the value of trade potential has shown an upward trend in recent years, and there is a tendency to continue to improve. With the further development of the “The Belt and Road” initiative, the trade potential of the two countries is likely to continue to rise.
+
+5. Problems in Bilateral Trade of Goods between China and Kenya
+
+1) Problems in bilateral trade in goods
+
+a) Bilateral trade imbalance in goods
+
+Although the bilateral trade of goods between China and Kenya has developed rapidly over the years, and the scale of import and export trade has increased year by year, the development of bilateral trade has been in an unbalanced state. As shown in Figure 3 above, China’s bilateral trade with Kenya has been in surplus for ten years, and Kenya has been in deficit. Kenya’s deficit increased year by year from 2009 to 2015, and decreased from 2015 to 2017. Although Kenya’s adverse balance has been narrowing in recent years, the unbalanced development of bilateral trade has hindered the further deepening of bilateral trade in goods between China and Kenya.
+
+Table 4. Trade potential between China and Kenya in 2009-2018 (unit: US$ million).
+
+b) Aging structure of bilateral trade in goods
+
+From the perspective of the trade structure of import and export goods between China and Kenya, most of Kenya’s exports to China are primary products and natural mineral resources, while most of China’s exports to Kenya are labor-intensive products such as light industrial textiles and heavy industrial machinery manufacturing products. Kenya’s export value to China is low due to the low processing links and costs of primary products and natural mineral resources. Most of China’s exports to Kenya are industrial products, and the dependence on imports of industrial products is not conducive to Kenya’s industrial development. Therefore, the aging trade structure will further hinder the development of bilateral trade in goods.
+
+2) Problems of China
+
+Lack of understanding of Kenya’s legal policies. China may not have a thorough understanding of trade policies when conducting bilateral trade of goods with Kenya, leading to the failure of bilateral trade cooperation, etc. Lack of understanding of Kenya’s market environment. Many Chinese enterprises lack sufficient knowledge of Kenya’s political environment and market environment, and enter the market without sufficient research on the trade environment and market sales environment, which leads to enterprise losses.
+
+3) Problems of Kenya
+
+a) High trade barriers
+
+Kenya’s tariff includes ad valorem tax, value-added tax and consumption tax. Different import goods are subject to different tariffs. Among them: the tariff on the import of semi-finished products is 10%; on the import of finished products is 25%; on wheat and tobacco is 35% - 55%; on alcohol and tobacco is part of the consumption tax; and Kenya also imposes value-added tax on imported products. In general, Kenya has a high tariff level. In addition, Kenya’s export is also limited. Kenya has a strong protection of national animal and plant resources and public food safety, so it has export restrictions on some products. The high import tariff and export restriction also hinder the bilateral trade of goods between China and Kenya.
+
+b) Unstable political environment
+
+Kenya’s surrounding countries are in a turbulent situation, often with illegal weapons and refugees flowing into the country; the poverty rate and unemployment rate are high; conflicts often occur among tribes due to uneven distribution of resources; poor road traffic conditions, frequent major traffic accidents, etc. In recent years, there have also been cases of robbery and theft of Chinese citizens who have gone to Kenya to work, resulting in property loss and life threat. The unstable political environment has brought inconvenience to the goods trade between China and Kenya.
+
+6. Suggestions on Bilateral Goods Trade Cooperation between China and Kenya
+
+1) Give full play to the advantages of bilateral trade in goods between China and Kenya
+
+From the perspective of Kenya’s import and export trade of goods, most of Kenya’s exports are agricultural products, raw materials and mineral resources, and most of its imports are industrial products. Therefore, China and Kenya should use their own advantageous industries to conduct bilateral trade in goods. China is more dependent on import in mineral resources, while Kenya has more natural mineral resources, so Kenya should take advantage of China’s current situation to export mineral resources to China. Most of the industrial products in Kenya are imported, while China’s industrial development is in a good condition. Therefore, Kenya can import industrial products from China other than its own protected industries. This can not only ensure the development of Kenya’s core industry, but also ensure the supply of other industrial products needed in Kenya. In the process of bilateral trade in goods, the two sides should take advantage of each other, mutual benefit and reciprocity, and jointly promote the development of bilateral trade in goods.
+
+2) Optimizing the structure of bilateral trade in goods
+
+The main reason for the aging of bilateral trade structure is the imbalance of bilateral trade. China and Kenya should learn more about the economic policy environment, market environment and other information of China and Kenya through the China Africa chamber of Commerce, or establish relevant cooperation organizations to provide a platform for the enterprises of China and Kenya. With the help of the platform, we can provide convenience for bilateral trade of goods and optimize bilateral trade structure. Through the docking of the platform, Chinese enterprises can strengthen exchanges with Kenya’s industrial manufacturing industry and service industry, further strengthen the competitiveness of Kenya’s export commodities, so as to reduce the imbalance of bilateral trade in goods.
+
+3) With the help of “The Belt and Road” initiative
+
+The friendly trade of goods between China and Kenya is inseparable from the support and open platform of the country. With the further development of the “The Belt and Road” initiative, the two sides should make full use of this platform to seize the opportunity of bilateral trade in goods. Kenya can use this platform to open China’s consumer market, and China can also enter Kenya’s consumer market in bilateral trade of goods. From the results of the potential indicators of bilateral trade in goods, the potential for trade in goods will continue to rise. Therefore, under the background of “The Belt and Road”, the two countries should seize the opportunity to give full play to the advantages of each country’s trade in goods and promote the common development of the two economies.
+
+7. Conclusion
+
+Based on the analysis of bilateral goods trade between China and Kenya in the past decade, this paper analyzes the potential of bilateral goods trade between China and Kenya by using import/export intensive index and trade potential measurement indicators. The following conclusions are drawn: in the bilateral trade of goods between China and Kenya, China has been in surplus for a long time, and Kenya has been in deficit for a long time; most of Kenya’s exports to China are primary products and natural mineral resources; most of China’s exports to Kenya are labor-intensive industrial products; the import trade links between China and Kenya are loose; and the export trade links are relatively close; In addition, the import/export intensive index between the two sides shows an increasing trend year by year, and the future trade development trend is better; although the trade potential index has fluctuated in the past decade, it has been on the rise in the past three years, and the future trade potential trend between China and Kenya will be better. From the results, we find that the trade imbalance and the aging trade structure exist in the bilateral trade of goods. And for the future bilateral trade in goods, I put forward proposals to give full play to the advantages of the two countries’ trade in goods, optimize the trade structure of the two countries and make use of the cooperation platform of “The Belt and Road” initiative. In the past few years, trade potential has been on the rise. We believe that under the background of “The Belt and Road”, China and Kenya will certainly launch a new chapter in bilateral trade in goods. In addition, there are some shortcomings in this paper. This paper only obtains the current bilateral trade situation of China and Kenya based on the existing data, and forecasts the future trend. However, there are fluctuations in the data of ten years, which is not entirely an upward trend year by year, and the specific reasons are not analyzed in depth.
+
+Funding
+
+Fund Project “Special fund for the construction of high-level teachers in Beijing Institute of Fashion Technology”-Beifu Scholars Program, project number: BIFTXZ201803.
+
+NOTES
+
+*Corresponding author.

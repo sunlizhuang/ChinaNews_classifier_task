@@ -1,0 +1,47 @@
+Deqing, a large freshwater fishery county in Zhejiang Province, east China, has over 13,000 hectares of aquaculture area (COURTESY PHOTO)
+
+Internet of Things (IoT) is an emerging information technology, while fishery is a traditional agricultural industry. The two seem to be incompatible. But for Shen Yunjian, who has been raising fish for 14 years, the IoT has brought him enormous benefits.
+
+Shen, in his 50s, and his wife have contracted a 70-mu (4.67-hectare) fish pond in Quxi Village, Deqing County in the eastern province of Zhejiang. Like most fishermen, they adopted the traditional open-air fishpond farming model, relying on experience to raise fish. It meant they had to patrol the pond every two or three hours, even in the late night, to ensure there was enough oxygen for the fish.
+
+However, things have changed in the last two years. Now, with the help of a mobile phone app, Shen can not only monitor the oxygen level and temperature of the pond at any time, but also remotely control the switch of the oxygen booster from anywhere. He no longer has to worry and stay up all night to raise fish.
+
+All this is possible thanks to the application of the IoT technology in the digital transformation of agriculture in Deqing.
+
+As a major freshwater aquaculture county, Deqing has a total aquaculture area of 205,000 mu (13,667 hectares). For a long time, freshwater aquaculture mainly relied on the experience of fishermen, which carries high risk, causes pollution and requires high investment. How to transform the labor-intensive industry into "smart fishery" was a major challenge. The IoT technology was useful in solving the problem.
+
+Smart ponds
+
+In 2016, Shen Jie, a Ph.D from the Chinese Academy of Sciences and the son of Shen Yunjian, returned to his hometown, Linghu Town in Zhejiang, to help modernize the fishery industry. At the time, he was the head of the General Group of the National Working Group on IoT Basic Standards and had taken the lead in developing the world's first international standard for IoT reference architecture on behalf of China. He set up Zhejiang Celefish Agricultural Technology Co. Ltd. (ZCAT) and created an IoT platform integrating farmers, feed manufacturers, sales outlets and financial institutions, with the aim of reshuffling the local fishery industry.
+
+"The oxygen level in the pond depends on the photosynthesis of algae. There is no sunlight at night, so the dissolved oxygen in the water is greatly reduced, endangering the survival of fish. Therefore, a fish farmer like my dad can't sleep at night in order to adjust the oxygen booster," Shen Jie said, adding that in the event of sudden weather changes or equipment failures, several years of efforts could be lost in one night.
+
+Regulating the water quality is the key to ensuring the healthy growth of fish. Therefore, with the help of the IoT technology, Shen Jie has developed an intelligent aquatic product management platform. It has a sensor in the fish pond, and the observation box near the pond is connected to the monitoring center in the town.
+
+The sensor is a small square box that transmits data to a mobile phone system platform and helps farmers monitor the water quality and oxygen level in real time, analyze fish condition, and control pests and diseases. Moreover, there are people who monitor the pond 24 hours a day.
+
+Jin Hui, General Manager of ZCAT, said the IoT water quality monitoring service can not only reduce the death rate of fish to 1 per 1,000, but also reduce power consumption by more than 15 percent and increase the output by 10 percent.
+
+Zhang Lien, one of the first fishermen to benefit from the IoT model, said, "Not only did I get up less at night, but also the income per mu (0.07 hectare) in the first year increased by 680 yuan ($97), which was something I didn't dare think about before."
+
+In fact, the IoT has not only changed the traditional method of fish farming, but also penetrated the entire industry chain of traditional fishery. Zhang said in the past, fish was sold to local traders on credit. Now he cooperates with the IoT platform with more reasonable pricing. In addition, the IoT technology can predict fish market trends and guide farmers on production.
+
+In 2018, the IoT fish farming model was officially introduced in Deqing, about 40 km southwest of Linghu. According to Zhang Dongsheng, an official with the Bureau of Agriculture and Rural Affairs in Deqing, most farmers engaged in agriculture are elderly and have a poor understanding of technology, so the government offers free equipment, including sensors, to them.
+
+According to Jin, at present, more than 50,000 users have been registered on the platform and the IoT has provided key monitoring services for more than 7,000 fishpond users. According to the data released by the Deqing County Government, the total output of aquatic products in the county is expected to be 150,000 tons and the total output value more than 4.8 billion yuan ($686.2 million) in 2019, accounting for 80 percent of the county's agricultural output.
+
+Wusi Village in Deqing, Zhejiang (CHEN JIAN)
+
+Rural governance
+
+Digitalization has not only helped raise incomes, but its benefits for the governance of modern rural society are also increasingly apparent.
+
+Wusi Village is located at the foot of Mogan Mountain in Deqing. In recent years, it has become a popular destination thanks to the development of leisure agriculture and rural tourism. However, the rapid development of rural tourism has led to an increase in migrant population, raising the demand for more public services.
+
+To address the problem, the village has launched a "Digital Village Map," an online platform for rural governance, which includes rural management and services. "With the map, we can handle small problems without going out of the village," said Sun Guowen, head of the Party branch of Wusi.
+
+He explained that the platform connects data interfaces such as garbage classification and transportation in real time. By means of the new model, villagers can easily deal with affairs related to environmental protection, medical treatment and house construction. Sun said through this platform, people can receive feedback and problems can be solved as soon as possible.
+
+"In 2019, we launched the platform in more than 30 villages in the county. And in 2020, it is expected to cover the entire county," Ying Yuyang, Director of the Big Data Development Administration of Deqing, said in a recent interview with Science and Technology Daily.
+
+Copyedited by Madhusudan Chaubey

@@ -1,0 +1,53 @@
+The novel coronavirus—recently christened COVID-19—has by some definitions reached pandemic status. The Centers for Disease Control and Prevention are working with state and local health departments to ready the public health workforce for a potential US outbreak.
+
+As officials try to gain a clearer picture of the disease’s transmissibility and fatality rates, more countries will likely report cases and some may indicate community spread rather than transmission by travelers bringing the contagion back from Wuhan and the surrounding Hubei Province in China.
+
+Everyone feels underinformed. Facts are slippery things, and rarely immediate ones. For those in charge of communicating news of a disease outbreak, underestimating a threat puts lives at risk, and overestimating it can cause panic and future (perhaps fatal) skepticism.
+
+To get some answers, we interviewed three experts on transmissible disease on the topic of this current outbreak: Anthony Fauci, director or the National Institute of Allergy and Infectious Diseases; Ron Klain, former White House Ebola Response Coordinator; and Nancy Messonnier, director of the National Center for Immunization and Respiratory Diseases at the Centers for Disease Control and Prevention. Here’s what we learned:
+
+1. We don’t know how many people are sick, but the reasons why aren’t all bad.
+
+Even though more than two thousand people have died, we have no concrete idea of how many people are sick—let alone the number who have been exposed and not become symptomatic.
+
+“When you have a disease like Ebola in which transmission is really only by direct contact with an obviously sick person, that really gives you a real good feel for what the potential for spread is,” Fauci said. That isn’t the case with COVID-19, and that is an issue for our policy decisions. At present, we don’t know if asymptomatic people can transmit the infection.
+
+But there does seem to be some good news. The Chinese government reports that 85 percent of the infected are experiencing only mild symptoms. “It’s common in outbreaks like this that the people who come to light first have more severe disease,” Messonier said. “Frequently in the early stages of an epidemic, we actually can overestimate the severity.” She added that among the current cases in the United States, patients haven’t required excessive care and are all improving.
+
+2. Our short attention spans put us in danger.
+
+“People like responding; they don’t like preparing,” Messonier said. That makes it difficult to get hospitals and the health care industry to shift gears into preparation mode. But officials at the CDC and elsewehere are already issuing guidance.
+
+According to Klain, an outbreak like this was inevitable, even though the specifics were unknowable. There has been a boom-and-bust cycle of policy investments as it relates to infectious disease, and that means we are missing the infrastructure we need to respond properly—and quickly.
+
+3. We are hobbled by our patchwork health care system.
+
+As if policy inconsistencies weren’t enough, there’s also the problem of how our health care is delivered. We have no central agency that can require the health care sector to act in a coordinated fashion against an existential threat. That’s true in the US more than in other countries, but it’s also true on a global scale.
+
+Klain, the former “Ebola czar,” has some experience with this frustration. “I was the czar of nothing, because we don’t have a command-and-control health care system in the United States,” he said. “If we have hundreds or thousands of people in hospitals, those beds are going to be provided by private hospitals, public hospitals, and state and local hospitals.” The country lacks a true federal health care system.
+
+4. At best, we’re a year from a vaccine. But don’t expect the best.
+
+Currently, we have no dedicated medical countermeasures: no specific therapies and no vaccine. These are being worked on, but even at a breakneck pace, a vaccine is at least a year away. And that’s if things go well; they likely won’t.
+
+“In general, vaccines that are not on an emergent basis take five, six, seven, eight years to get,” Fauci said. “In an acute situation, you’re not going to just pull a vaccine out of your pocket.”
+
+But in spite of the long game, researchers are already well into the first steps and are moving to create other tools to help until a vaccine arrives. Dr. Messonnier described the progress we’ve made thus far—and how quickly it’s been achieved
+
+5. Many of the things we need to fight this are made in China.
+
+A travel ban may buy us some time, but we can’t bottle up China. Much of our medical tech including personal protective equipment like masks, gowns, and gloves is made there. If Chinese ships are embargoed, the US may find itself with a shortage of the very things that protect the medical professionals battling the disease on the front line. Other medical infrastructure, including drugs and other vital components of the pharmaceutical industry, are also Chinese-made. A complete blockade of Chinese goods would seriously wound our efforts to fight COVID-19 and treat those who suffer from it.
+
+A complete quarantine is a practical impossibility. As Klain noted, “You’ve got to be really careful about what you do. You’ve got to base it on science and medical expertise and then you’ve got to be candid with the American people about what you’re doing and what kind of effect it’s going to have.”
+
+6. Climate change and population pressures make pandemics more likely.
+
+Fauci discussed why it seems we’re experiencing more outbreaks of disastrous diseases. Spoiler: It’s because a growing and transient population is coming into contact with new environments, and it has the potential to get worse.
+
+7. Technology can slow transmission in some surprising ways.
+
+One very effective way of slowing the spread of disease is through something called “social distancing,” or simply encouraging people not to spend too much time in the presence of others during an outbreak. “What’s different now than 10 years ago when we first really started thinking about this,” Messonnier noted, “is the availability of teleworking, teleschooling, and telemedicine as ways to keep people from congregating, including in their physician’s office.”
+
+If a major outbreak occurs in the US, you may hear medical professionals recommending that you spend more time online.
+
+Watch the discussion among the three experts here, and come away informed about where we stand today.

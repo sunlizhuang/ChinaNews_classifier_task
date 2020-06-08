@@ -1,0 +1,31 @@
+Editor: Wang Liyan
+
+Chen Zuoning (R), senior engineer of the Chinese Academy of Engineering, and Huang Lingyi, researcher with Loongson Technology Co, Ltd, are awarded the CCF Xia Peisu Award in 2019. [For Women of China]
+
+Two women computer science research veterans were awarded Xia Peisu Award in 2019 in recognition of their outstanding contributions to China's computer industry by the China Computer Federation (CCF), on January 11, 2020.
+
+Winner Chen Zuoning, born in 1957, is an academician of the Chinese Academy of Engineering(CAE), a senior engineer and CCF member. She won the award for her long-term dedication to the research and development of domestic high-performance computer systems, the systematic and pioneering achievements she made in parallel computer architecture and system software, and her outstanding contributions to China's high-performance computing technology as it caught up with international advanced levels.
+
+Chen received the master's degree in computer science and technology from Zhejiang University in Hangzhou, capital of East China's Zhejiang Province.
+
+Since 1979, Chen participated and took the lead in the research and development of several domestic high-performance computer systems, and took charge of many large-scale software projects.
+
+In the 1980s, she led the development of China's first parallel operating system that was fully compatible with UNIX systems and reached the international advanced level in parallel processing technology.
+
+Huang Lingyi, the other winner of the award, was born in 1936 and is a researcher of Chinese chip maker Loongson Technology Co, Ltd.
+
+She was given the award for her more than half-century long frontline efforts in the research and development of discrete devices, large-scale integrated circuits, and general Loongson CPU chips, through which she made outstanding contributions to the development of China's core computer devices.
+
+Huang graduated from the Huazhong Institute of Technology (now Huazhong University of Science and Technology) in 1958 and continued to study semiconductors at Tsinghua University.
+
+In 1960, Huang returned to the Huazhong institute and established its semiconductor major and laboratories. In 1962, she joined the Institute of Computing Technology of the Chinese Academy of Sciences (CAS) and conducted developmental research on diodes, transistors, large-scale integrated circuits, producing the first CPU chip independently developed in China.
+
+The Xia Peisu Award was established in 2014 in the name of Xia Peisu, the predecessor of computer science in China, to recognize women scientists and engineers who have made outstanding contributions and achievements in computing science, engineering, education and the computer industry.
+
+Xia Peisu was a Chinese computer scientist and educator, and a pioneer in Chinese computer research. She participated in the development of China's first self-designed computer and laid the foundation for China's computer industry.
+
+Xia was elected to the CAS in 1991. In 2011, she was given the first Lifetime Achievement Award from the CCF. In 2014, she died of illness in Beijing at 91.
+
+After the awarding ceremony, the CCF held an inauguration ceremony for its new President Mei Hong. Mei, with the Academy of Military Sciences PLA China, was elected President of the Council of the CCF in October 2019.
+
+(Source: ScienceNet.cn & China Women's News/Translated and edited by Women of China)

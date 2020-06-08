@@ -1,0 +1,82 @@
+Updated at 5:01 p.m. ET
+
+Last week, we asked our audience to share questions they might have about Wuhan coronavirus, the new respiratory virus that was identified in China.
+
+While there is a lot we don't know about the virus — how the disease first emerged, for example — there are things that we do know.
+
+Nearly 100 questions were submitted, on topics ranging from the name of the virus to whether it's safe to touch goods shipped from China. While there is a lot we don't know about the virus — how the disease first emerged, for example — there are questions that we can answer. Although sometimes the answer is "We need more information."
+
+Here are some of the frequently asked questions, answered by NPR's Richard Harris and Elena Renken.
+
+What's the latest on the spread of this disease?
+
+As of Thursday, the latest figures now show more than 7,800 confirmed cases of Wuhan coronavirus and at least 170 deaths. The vast majority of these are in China. Cases have been reported in nearly two dozen countries or locales around the world. Six cases have been diagnosed in the U.S. — five of them among people who had recently been in the city of Wuhan, where the outbreak began in December 2019.
+
+What's the risk that it will spread within the United States?
+
+Health officials say there are likely to be more cases, especially from people who traveled to China. The people at greatest risk would be health-care workers who are caring for these patients — because of their continued exposure. But they are also on the highest alert and are taking precautions.
+
+If the virus spreads, how dangerous is it?
+
+According to reports in the journal The Lancet that came out a few days ago, it appears that only 3% of people who get sick actually die. And it's riskiest in older people in relatively poor health.
+
+But that 3% could well be revised to a higher number. The disease is so new that it's likely some people who have been sick could still die and that will change the mortality rate. As a point of comparison, about 10% of people who contracted a similar coronavirus, SARS (severe acute respiratory syndrome), died as a result.
+
+There have been news reports that people can spread the virus before they actually show symptoms themselves. What's the latest on that?
+
+Yes, that would be an important factor in the spread of this disease. That kind of transmission happens with a lot of diseases, like measles and the flu, but it has not been the case with the most similar coronavirus disease, SARS. In a telephone news conference on Monday, Nancy Messonnier, director of the National Center for Immunization and Respiratory Diseases at the Centers for Disease Control and Prevention, got a question on this point:
+
+"We at CDC don't have any clear evidence of patients being infectious before symptom onset. However we are being — with our state and local health department partners — very aggressive and very cautious in tracking of close contacts to determine if we are able to identify any close contacts who indeed are ill."
+
+Respiratory diseases often spread through a cough, and that is, in fact, a symptom of this infection, along with fever and shortness of breath.
+
+How worried should we be about this coronavirus spreading in the U.S.?
+
+David Fisman, an epidemiologist at the University of Toronto, told NPR this week that it will be hardest by far to get the epidemic under control in China, because there already are so many cases — and each one has the potential to spread the disease farther. He said trying to contain the epidemic in China is like being an outfielder and being told to catch 100 fly balls all at once.
+
+He says it's much easier to control the virus in the U.S. "We're kind of getting knocked fly balls one at a time and the job is not to drop them. But that's much easier than playing catch-up when you've allowed the epidemic to grow to a point where you have thousands of cases, and now you're trying to track everyone down and prevent transmission," says Fisman.
+
+So at this point, the CDC's message is that this is a serious condition but that we in the United States are currently at very low risk. That is always subject to change, but as long as there are just a handful of cases, as is the case right now, health officials can stay on top of it. The trick is to identify sick people, isolate them quickly, keep an eye on their contacts, and make sure the health care providers are taking the right steps to protect themselves.
+
+Are health authorities in the U.S. reacting fast enough?
+
+The CDC very quickly devised a lab test to identify cases rapidly. Right now health departments around the country send samples to the CDC in Atlanta for analysis, but the CDC hopes to make its test available to labs nationwide in a week or two. That will make the response even faster. Health officials also have stepped up screening of passengers returning from China — these are now being conducted at 20 U.S. airports. And they are recommending against nonessential travel to China.
+
+I recently received something in the mail that I ordered from China. Could I catch the virus from it?
+
+There's no evidence at the moment to suggest that goods imported from China could transmit the virus, according to the CDC. The virus wouldn't make it through the trip from China to the United States on packing materials, says Ian Lipkin, director of the Center for Infection and Immunity at the Mailman School of Public Health.
+
+And the same goes for an object you might get in the mail, he adds. "Whether it's a phone or a piece of furniture, it's not going to survive."
+
+The Wuhan virus, like others in the coronavirus family, "doesn't live for very long on surfaces," he says.
+
+But that survival relies on certain qualities of the surroundings, says Amesh Adalja, a senior scholar with the Johns Hopkins University Center for Health Security who focuses on infectious diseases. Some viruses last longer than others outside a body, and it depends on conditions, including surface material and temperature. "Shipping conditions of most products are going to be not conducive to the virus remaining viable, because of time, because of temperature changes, because of humidity," he adds. "I don't think it's a real risk."
+
+Why are people in the U.S. so worried about the coronavirus and not the flu?
+
+Simply put, the Wuhan coronavirus is new, says Lipkin. "It's something that hasn't been seen before, and people are afraid of the unknown."
+
+The CDC says that the risk of contracting the novel coronavirus in the U.S. is low. So far, there have been five confirmed cases of the disease in the U.S. And all five had traveled previously to Wuhan.
+
+Meanwhile, the flu virus has been very active in the U.S. over the past few months. Already this season, the CDC estimates that more than 15 million people in the U.S. have gotten sick with flu, more than 150,000 Americans have been hospitalized, and more than 8,000 people have died from flu.
+
+Read more about the U.S. flu outbreak here.
+
+Why doesn't the coronavirus have a less technical name yet, like Ebola or Zika?
+
+The virus's temporary name, according to the World Health Organization, is 2019-nCoV. It's a combination of the year the virus first emerged and the abbreviation for "novel coronavirus," a term indicating that the virus is a strain that has not been previously identified.
+
+The virus is also referred to as "Wuhan coronavirus," after the city where it first emerged.
+
+Adalja anticipates that another name will emerge soon. "This is a very new virus, and the virology community is trying to come up with a name for it," he says. But naming a virus requires great care, because there can be negative repercussions, he adds.
+
+In 2015, the WHO published a set of best practices for naming new infectious diseases in humans, encouraging scientists, government officials and media to avoid names with unnecessary negative impact. It advises against names that include locations, people's names, animals, foods and terms that create unnecessary fear.
+
+The WHO lists "swine flu" as an example to avoid. Adalja says the name was stigmatizing to pig farmers and influenced many people to stop eating pork, even though eating properly handled pork didn't put anyone at risk of getting infected.
+
+Whatever the name, a group called the International Committee on the Taxonomy of Viruses will eventually make the call, says Lipkin. The ICTV decides names for categories of viruses that are agreed upon internationally. Any virologist can submit proposals, and the ICTV's executive committee will discuss them at its next meeting in October, according to its website.
+
+Elena Renken is the NPR Science Desk intern.
+
+Do you have any questions about the Wuhan coronavirus outbreak? Email them to us with the subject line "Wuhan coronavirus FAQ" to goatsandsoda@npr.org and we may answer them in a story for NPR next week.
+

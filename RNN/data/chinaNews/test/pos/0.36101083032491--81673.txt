@@ -1,0 +1,36 @@
+The new Lenovo Xiaoxin Air 14 is a notebook with a 14 inch, 1920 x 1080 pixel display, a 56.5 Wh battery, support for up to 16GB of RAM and 512GB of storage. Lenovo will offer the laptop with up to an Intel Core i7-1065G7 Ice Lake processor.
+
+But what makes this 3.1 pound laptop (slightly) unusual is that it’s one of the first PCs to ship with support for NVIDIA’s new GeForce MX350 graphics.
+
+Lenovo will begin selling the Xiaoxin Air 14 in China on February 27th for about $725 and up. But I suspect we’ll see a similar laptop with Lenovo IdeaPad branding in the US sometime soon.
+
+While the GeForce MX350 is based on NVIDIA’s aging Pascal architecture, it’s a 25 watt GPU that should offer a considerable performance boost over NVIDIA’s older entry-level laptop graphics solutions thanks to significant increases in the number of CUDA cores, texture units, memory bandwidth, and transistor count.
+
+I’m a little surprised to see Lenovo pair an MX350 CPU with an Intel Ice Lake processor featuring Iris Plus graphics though. I would have thought it would have been a better fit for a system with Intel’s Comet Lake-U chips which have less impressive integrated graphics than Ice Lake chips.
+
+The Lenovo Xiaoxin Air’s other features include a backlit keyboard, a fingerprint sensor, a full-sized HDMI port and SD card slot, a USB Type-C port, and two USB 3.1 Gen 1 ports.
+
+While there’s no word on a US release date or price, the company’s IdeaPad 700 and 900 series notebooks appear to have a noticeably similar design to the Xiaoxin Air 14.
+
+via GizChina, GizmoChina, and TechGenyz
+
+Share this: Facebook
+
+Twitter
+
+Reddit
+
+Pocket
+
+Tumblr
+
+Pinterest
+
+LinkedIn
+
+Email
+
+
+
+
+

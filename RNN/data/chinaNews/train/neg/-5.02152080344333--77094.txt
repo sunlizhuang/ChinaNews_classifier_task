@@ -1,0 +1,65 @@
+Passengers arriving from China, wearing protective masks, wait for their luggage at the Aswan International Airport in Egypt Feb. 18, 2020. Amr Abdallah Dalsh, Reuters
+
+TORONTO — On the shores of Lake Ontario, a Canadian start-up raised one of the earliest alarms about the risk posed by the mystery virus that emerged in the Chinese city of Wuhan. How did it do it? Artificial intelligence.
+
+BlueDot has developed an algorithm that can sift through hundreds of thousands of news stories a day along with air traffic information in order to detect and monitor the spread of infectious diseases.
+
+It sent an alert to clients on December 31 about the new coronavirus outbreak -- a few days before major public health authorities made official statements.
+
+BlueDot, which is based in Toronto, also correctly predicted the countries in which the risk of contagion was most acute.
+
+"What we are trying to do is to really push the boundaries -- to be using data and analytics and technology to keep moving faster," the company's founder Kamran Khan told AFP in an interview.
+
+"Ultimately when you're dealing with an outbreak, time and timing is everything."
+
+The 49-year-old Khan, an epidemiologist by training, first had the idea to launch BlueDot after the SARS epidemic of 2002-03.
+
+At the time, Khan was a doctor specializing in infectious diseases at a Toronto hospital. He watched helplessly as the illness left 44 people dead in Canada's largest city.
+
+"A number of health care workers were infected including one of my colleagues. We had a number of health care workers who died," he said.
+
+"This was a really eye-opening experience and was the motivation behind everything that we're doing at BlueDot."
+
+65 LANGUAGES, 150 DISEASES
+
+In 2014, Khan launched BlueDot, which now has 40 employees -- a team of physicians, veterinarians, epidemiologists, data scientists and software developers.
+
+Together, they thrashed out a real-time warning system based on natural language processing and machine learning.
+
+Every 15 minutes around the clock, the company's algorithm scans official reports, professional forums and online news sources, searching for key words and phrases.
+
+It can read text in 65 languages and can track 150 different types of diseases.
+
+"We call it the needles in the haystack," Khan says.
+
+"There's a massive amount of data and the machine is finding the needles and presenting it to the human experts," who then review it and train the machine to understand if that information corresponds to an actual threat.
+
+If it is credible, it is punched into a database that analyzes the location of the outbreak, nearby airports and commercial air travel itineraries from around the world.
+
+Climate data, national health system databases, and even the presence of mosquitoes or animals that transmit diseases to humans are also taken into account.
+
+Once that analysis is complete, BlueDot sends an alert to its clients -- government agencies, airlines, hospitals -- where the majority of those airline passengers might land.
+
+The goal is to allow authorities to prepare for the worst: a major disease outbreak.
+
+ELEMENTS 'SIMILAR' TO SARS
+
+So on December 31, in the early morning, the BlueDot system picked up an article in Mandarin that mentioned 27 people suffering from pneumonia, all linked to a wet market in Wuhan.
+
+The virus was not yet identified, but the BlueDot algorithm noted two key phrases: "pneumonia" and "cause unknown."
+
+At 10 a.m., a first alert went out to clients, notably in Asia.
+
+"While we didn't know this was going to become a big global outbreak, we did recognize that it had certain ingredients that were similar to what we saw during SARS," Khan explained.
+
+BlueDot also was able to predict that the virus was at risk of spreading from Wuhan to Bangkok, Taipei, Singapore, Tokyo and Hong Kong.
+
+All of those places have since reported cases of the novel coronavirus, which has killed 2,000 people, almost all of them in China.
+
+BlueDot already had a feather in its cap: in 2016, it predicted the spread of Zika from Brazil to south Florida.
+
+"These viruses are complex and these diseases are complex, but we are continuously pushing the envelope in learning from each one of these outbreaks," Khan said.
+
+
+
+© Agence France-Presse

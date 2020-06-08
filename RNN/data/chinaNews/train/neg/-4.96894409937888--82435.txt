@@ -1,0 +1,15 @@
+An axial CT image obtained without intravenous contrast in a 42‐year‐old male in the “late” time group (10 days from symptom onset to this CT) shows bilateral consolidative opacities, with a striking peripheral distribution in the right lower lobe (solid arrows), and with a rounded morphology in the left lower lobe (dashed arrow). Image Courtesy: Radioloy Online
+
+How frequently certain findings show up on a CT scan of a person infected with the coronavirus disease 19 (COVID-19) is directly related to where they are on the disease timeline.
+
+In a new study published in Radiology, investigators from Mount Sinai Health System determined that various CT findings were more common at certain points during disease progression.
+
+“Recognizing imaging patterns based on infection time course is paramount for not only understanding the pathophysiology and natural history of infection, but also for helping to predict patient progression and potential complication development,” wrote lead study author Adam Bernheim, M.D., assistant professor of diagnostic, molecular, and interventional radiology at Icahn School of Medicine at Mount Sinai.
+
+Even though real-time reverse transcriptase polymerase chain reaction (rRT-PCR) kits can be used to diagnose COVID-19, many centers don’t have access to enough kits, and they also carry a possibility of false negative results. Consequently, Chinese health officials have largely recommended relying on clinical and chest CT findings for diagnosis.
+
+To identify common CT findings based upon the time between symptom onset and initial CT exam, the research team analyzed chest CTs from 121 patients (61 men and 60 women) who had been diagnosed with and exhibited symptoms of COVID-19 from four centers in China from Jan. 18, 2020, to Feb. 2, 2020.
+
+For 94 participants, researchers knew the time between the initial emergence of symptoms and a chest CT – early (0-2 days), intermediate (3-5 days), and late (6-12 days). Among those who were imaged early, the team found ground-glass abnormalities, as well as “crazy paving” development. A lack of ancillary chest CT findings, including lymphadenopathy, pleural effusions, pulmonary nodules, and lung cavitation is also characteristic of early COVID-19 cases. Individuals further along in the disease course exhibited increasing consolidation.
+
+Further research is required to evaluate CT scan findings in chronic patients, according to the authors. The analysis could determine if long-term complications emerge.

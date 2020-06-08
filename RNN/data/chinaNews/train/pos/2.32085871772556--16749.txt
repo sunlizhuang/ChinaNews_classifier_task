@@ -1,0 +1,183 @@
+Launched in 2011, with a £5,000 budget and a pair of CDJs from a Littlewoods catalog, London-born music platform NTS now attracts over 1.5 million monthly unique listeners, and is currently growing between 3-10% a month.
+
+Tune in to any NTS show at any time of the day via its two live channels – broadcast from its permanent studios in London, Manchester and Los Angeles, or regular pop-up space in Shanghai – and you’ll hear a level of music appreciation that, the platform suggests, you might struggle to find elsewhere.
+
+“From a curatorial point of view, the global community of artists and record collectors involved in NTS is nuts,” says NTS co-CEO Sean McAuliffe (pictured right).
+
+“They make NTS what it is. We don’t chase numbers. We’re just passionate about the music and artists we love and let the music do the talking.”
+
+There are currently over 500 resident artists, music producers, DJs and record collectors from 50 cities globally making regular shows on the platform, most of whom own share options in the company.
+
+NTS also has between 50-100 guest shows per month. Not to mention a vast back catalog of specialist, on-demand radio shows, all for free and with no advertising.
+
+In total, music by 85,000 artists and 280,000 unique tracks have been played on NTS since it began in 2011. No shows are playlisted at all and NTS hosts and guests have complete control over what gets played.
+
+“[NTS] is a place for people to fully express themselves, to be completely, creatively freeform,” says McAuliffe.
+
+“Not like traditional radio where they may be told what to play. All of that is out the window. NTS is all about total freedom of expression. That lies at the core of it. And we feel like that’s why people enjoy listening to it.”
+
+“[NTS] is a place for people to fully express themselves; to be completely, creatively freeform.” Sean McAuliffe
+
+Artists that play live on NTS include the likes of Blood Orange, Eryka Badu, Flying Lotus, Aphex Twin, Brian Eno, Bjork, Slowthai, Skepta, The XX, Andrew Weatherall, Kamasi Washington, The Black Madonna, Sampha, Kelela, Floating Points, Mac Demarco and many others.
+
+Some of NTS’s DJ stars include the DO!! YOU!!! breakfast show host Charlie Bones, who McAuliffe says “is the greatest radio DJ of all time,” and Moxie, who started on NTS in 2011 and now DJs around the world and is also a BBC Radio 1 resident.
+
+The music platform was founded by Femi Adeyemi (pictured left) in 2011, having spent time DJing, working in record stores, American Apparel and even running a cleaning business called Sweetboy Cleaning. He also had a mixtape music blog called Nuts To Soup, which he says was the beginning of NTS.
+
+Adeyemi explains that he was inspired to launch his own radio station because his circle of friends lacked an outlet that aligned with their diverse music tastes.
+
+“We needed a place online that could embrace weird, interesting and diverse music, without the boundaries of traditional radio and the non-human touch of DSPs,” he says.
+
+His friends included artists and DJs, most of whom he met at the highly influential Ade Fakile-founded Shoreditch club, Plastic People, which McAuliffe and Adeyemi unequivocally agree “changed the music landscape of London”. It was also where the pair met.
+
+“Plastic People was a big part of my history,” says McAuliffe. “I worked in record stores in Soho and for music magazines and eventually had a couple of small businesses, including a restaurant, nightclub and a clothing label,” he recalls of his time before joining Adeyemi at NTS. “Most failed, a couple worked. I also DJ’d a lot, mostly at Plastic People.”
+
+Adeyemi soon realised he needed help after NTS started taking off and was joined by McAuliffe in 2013. “[He] had very similar music taste and a similar vision to me for what NTS could become,” says Adeyemi. “He also had the business skills, so I asked him to come on board as my partner.”
+
+NTS was originally envisioned to be a local community-minded radio station but quickly grew in popularity globally, with Adeyemi explaining that it’s now “global community radio”.
+
+“I don’t want to say there was nothing like [NTS] at the time, but there really wasn’t for people who wanted to go deep into music.” Femi Adeyemi
+
+“I don’t want to say there was nothing like it at the time, but there really wasn’t for people who wanted to go deep into music,” he adds. “And then we look at the stats and you’re like, ‘Oh shit. Someone is randomly listening from Mongolia’.”
+
+They realised they were doing well when they started getting 1,000 concurrent listeners, which the broadcast software they were using at the time was unable to handle.
+
+“1,000 concurrent listeners was a lot back in 2013, especially when you think our average listening session time was verging on 60 minutes and new listeners were tuning in just from word of mouth,” says McAuliffe.
+
+“Because the off-the-shelf streaming software packages that most online radio stations use couldn’t handle our traffic, we built our own servers and streaming infrastructure. We got it to the point where we could have up to 40,000 people streaming concurrently, we’d just increase the capacity when we need it. Our small but powerful tech team make global access to NTS incredibly simple with great tech and (almost) global licensing deals in place.”
+
+NTS’s bosses are keen to note that the company is more than just an online global radio platform, with its diverse activities ranging from merchandise, events around the world, a brand partnership and music supervision agency and an artist development programme called Work In Progress (WIP).
+
+Run in partnership with Arts Council England, WIP attracted 9,000 applications in its first year. “We’ve always tried to meaningfully support and develop talented artists ,” says McAuliffe. “We are not just a digital utensil for listening to music.”
+
+2019 also marked another pivotal year for the company as it launched (an initially limited version of) an NTS membership club, ‘NTS Friends’ which costs £49.50 a year. “We want to work with NTS listeners to make their experience better and give them cool stuff for helping us improve it,” explains McAuliffe.
+
+“First and foremost our live radio won’t be changing, it isn’t going behind a paywall and we certainly aren’t putting ads on it.
+
+“But we are looking at ways of massively improving the live radio experience, like live tracklist information linking directly to artist and release information, variable bitrate streaming, more channels and adding personalisation and recommendation features that help listeners discover music that blows their fucking minds.”
+
+Adeyemi adds: “We’ve been talking about doing it for a long time. Now we feel we’re in the right place. We’re super excited about some of the features we’re going to be adding and some for the people we are going to team up with.”
+
+Here, NTS’s co-CEOs tell MBW about how the company began, how they built it into what it is today, and what differentiates it from other music platforms…
+
+Why did you start NTS as the radio station, Femi? What was your vision?
+
+Femi Adeyemi: The main reason was, I was around all these talented people that I had met who didn’t really have the platform to put themselves out there. At the same time, I was trying to look into taking DJing seriously as my main thing. I was trying to get into the radio stations, the pirates, the BBC.
+
+“Pirate radio stations were laser focused on specific sounds and the mainstream radio stations the same. I was like, ‘Actually, there are so many different tastes in London, why don’t we just set up this thing that plays everything’.” Femi Adeyemi
+
+None of that worked out. And I was like, ‘Actually, you know what? I know enough people like me who have got interesting taste in music, who just want to put their stuff out there’. I thought, ‘I’m going to teach myself how to stream’, and luckily managed to get a space in Gillett Square. I felt like there needed to be something different from what we had.
+
+Pirate radio stations were laser focused on specific sounds and the mainstream radio stations the same. I was like, ‘Actually, there are so many different tastes in London, why don’t we just set up this thing that plays everything’. Let’s keep it as diverse as possible.
+
+Was freedom from restrictions one of the reasons behind not going the FM route or operating on a community radio license?
+
+FA: We did [operate on a community license] for a little bit. We were nervous that we going to get kicked off and we didn’t really want to change our programming for that. The truth is that most young people around the world just don’t listen to traditional FM/AM/DAB radio, so why deal with the expense and regulation.
+
+What was the setup like in the beginning technically?
+
+FA: It cost five grand to set up NTS. It was very DIY. The table was built from pieces of wood picked up from a skip. It was a pretty decent table actually.
+
+A lot of that cost went on getting the right microphones, the CDJs. For the initial CDJs, I had to use my mum’s Littlewoods catalog. They had CDJs in there and she ordered it for me because you could pay it off monthly and I paid her monthly. In the beginning, technically, it was really like pulling things out of thin air.
+
+“It cost five grand to set up NTS. It was very DIY. The table was built from pieces of wood picked up from a skip.” Femi Adeyemi
+
+We were using BT Internet, which barely ever lasted longer than three hours without the stream dying. We were using this broadcast software where you have to pay a monthly fee, but then you are also beholden to them, because they would just drop out and not give you any reason for why they dropped out.
+
+But we kept pushing. Every time the internet dropped out in the studio, we would somehow make it work, we’d get an ethernet cable from somewhere with internet and run it to the studio. We always found ways to keep the stream going.
+
+Sean McAuliffe: We broadcast live for two days from a stage at Notting Hill Carnival in 2013. During Carnival almost no one has good 4G and as Red Stripe were paying for the event, we couldn’t let the broadcast drop out. We had some big names [playing], like Jamie XX, Theo Parish, Gilles Peterson, Hype Williams and Mark Ronson, so we really couldn’t let the live broadcast fuck up.
+
+So to get what we needed, we knocked on every front door to every flat in the high rise building opposite our Carnival stage asking if we could use their internet for 50 quid.
+
+We finally found this guy in one of the top floor flats that let us run a 100 metre ethernet cable out his window onto a tree across to our stage. And it worked. Our 50 quid external broadcasting ventures were a go. Soon we found ourselves broadcasting from the top of a volcano in Italy, the middle of the Adriatic Sea and festivals all over the world.
+
+Could you tell us about the permanent studios you have outside of London and why those locations were selected? Do you plan to set up any other permanent locations in the near future?
+
+SM: When NTS first started there was one live channel. When we realised we had people listening in almost every country in the world and looked at the times of day that people were listening, we realised we needed to build an additional channel so that people waking up in LA had a different experience to someone getting ready for bed on the other side of the world. Once we had two channels we could cater for morning and evening listeners simultaneously.
+
+The LA studio was also picked as a permanent location because so much amazing music is being made there. A group of amazing young DJs and artists in Manchester approached us in 2015 to start an NTS studio.
+
+We believed in them and gave them the resources to build it. NTS Manchester now has over 60 resident hosts. Tokyo, New York, Jakarta, Detroit, Lagos, Dublin, Moscow, Kingston and Melbourne would be great places to start NTS satellites. Basically anywhere where there is enough good music being made.
+
+How did guest/resident host selection work in the beginning and how does it work now?
+
+FA: Not much has changed since day one, except for the scale of things. We have a very open minded programming team that thrives on digging out good hosts.
+
+What we generally look for in a host is someone who’s clearly passionate and deeply knowledgeable about the music they play. You can really hear their passion when listening to the shows.
+
+“We see NTS as a new type of radio platform for artists and labels to promote their music and express themselves in ways they can’t do on DSPs.” Sean McAuliffe
+
+SM: We also work directly with labels and managers. Generally managers, labels and PR approach us about their artists doing guest or resident shows to help promote their new material or a tour.
+
+We even go so far as doing full label takeovers like the recent 30 years of Warp Records takeover weekend that featured over 100 hours of performances and exclusive unheard material from Flying Lotus, Kendrick Lamar, Boards Of Canada, Autechre, Brian Eno, Aphex Twin, Danny Brown, etc.
+
+We see NTS as a new type of radio platform for artists and labels to promote their music and express themselves in ways they can’t do on DSPs. Ultimately though, the programming is all about the taste of the hosts, and NTS not getting steered by commercialism and content insecurity that seems so prevalent on the internet.
+
+You have a show submission tool on the website. How many submissions do you get every month and how many make it to become an actual show?
+
+FA: We sometimes have thousands of show submissions in one month. We generally have about 30 – 60 guest shows a month and we only add one to three new resident shows a month.
+
+What are you listening for?
+
+FA: It’s the approach. The sound yes, what they are playing is important, but it’s also the approach. You can be playing some good stuff. Most people who [submit shows] are playing good stuff, but it’s the approach that they take with it.
+
+SM: One thing we have realised over the years is that when we do specials on particular scenes, or we do specials on particular artists, they generally get a lot more engagement than somebody just doing a straight up eclectic DJ mix.
+
+So it’s having the ability to really understand a particular scene really passionately and deeply and be able to turn that into something original. A straight up eclectic DJ mix is all good, but there is a huge difference between randomly throwing a bunch of good tunes together that sounds like a DSP playlist and taking the time and headspace to turn it into a proper mixtape.
+
+FA: We’re looking for people who are trying to broadcast stuff that you wouldn’t necessarily hear anywhere else. So if someone is coming on just doing a regular mix that you can hear somewhere else then [it won’t work for us].
+
+It’s not to say we don’t do that stuff, too. But what really makes our programming stand out is its diversity and our shows that have an original approach and are original ideas.
+
+You run an artist development program. Why did you decide to launch that and how does it work?
+
+FA: Over the last eight years, we had been informally developing artists. We’ve had some really talented people come through the door and have tried to help them with their music wherever we can.
+
+The reason for the program is basically to help formalise what we have been doing for years and to genuinely make a difference to artist careers.
+
+SM: We worked with the Arts Council for a long time, doing small projects with them, and they could see how much we were helping emerging artists to develop. They suggested that we apply for a four year long funding program and that we should do it specifically around how much we try to nurture young artists.
+
+We created this development program called Work In Progress and it’s match funded by Carhartt, a long-term partner of ours. We also work with equipment and studio partners.
+
+We’re really excited this year to be working with Real World Studios, Peter Gabriel’s studios. The artists that get picked on the program get free equipment, they’ll get an opportunity to go to places like Real World to record and we link them up with different mentors. Like, if one of these young artists wants to chat to Floating Points about how to make tunes or to Octavian about life, we can try to hook that up for them
+
+FA: We had about 9,000 applications in the first year.
+
+SM: We kind of set out to be like Red Bull Music Academy, but longer term and hopefully more meaningful, like a whole year of very bespoke [services] for each artist. Not like a two week firecracker course. It’s working really well. Of all the eight artists we signed up in the first year, almost all of them now have booking agents or managers or have signed record deals.
+
+What is Infinite Mixtapes?
+
+SM: NTS programming has always been for people with very eclectic music tastes, that listen to everything from classical, to techno, to yacht rock to hip hop and every other genre imaginable. Our radio schedules across our two main channels have always reflected this; one hour you could be listening to a psychedelic folk show live from Texas and the next hour it could change to a French Hip Hop show live from Paris.
+
+As our audience grew, lots of listeners asked us to provide more linear broadcast channels as the genre jumping was too much to get their heads around.
+
+We also wanted a way of live broadcasting timeless archive NTS radio episodes. There are over 30,000 of them so we wanted a way to re-shine a light on them live. So we built Infinite Mixtapes.
+
+They are essentially specialist live radio broadcast channels. These channels now account for over 20% of our streaming. We will always promote the main live channels 1 and 2 more than any other channels, as this is best practice for the artists making the shows, but Infinite Mixtapes is a great feature for a lean-back mood based experience.
+
+What distinguishes NTS from other music platforms?
+
+SM: Our tech team decided to run a test on a hack day to compare the music that gets played on NTS versus the music available on Spotify. Using the Spotify API, they were able to cross reference what was available on Spotify against what tracks have been played on NTS.
+
+A staggering 55% of music played on NTS wasn’t available on Spotify. Spotify is incredible tech and great for most music, but what we always knew was that a large amount of the new exciting music wasn’t on Spotify or any DSPs, it was and still is always getting played on radio first.
+
+A lot of the artists that make shows on NTS play their demos and promos on NTS months and sometimes even years before they upload them to DSPs.
+
+There is also a huge amount of incredible old music that simply hasn’t been digitised yet; DJs on NTS play these old obscure records and it’s quite possible that they will never be available on DSPs, simply because no one can track down the rightsholders and/ or there aren’t enough people at the DSPs digging hard enough.
+
+Could you expand on that notion of human versus algorithmic curation?
+
+FA: It’s [about] the experience and the journey that you get. When a human is doing it they are connected to what they are doing. There’s a flow to it. Whereas with an algorithm, it kind of feels like you’re jumping around a little bit. It gets it right a lot of the time.
+
+But it also gets it wrong a lot of the time. Some people love that, but with human-curated playlists, the listener is way more considered than if an algorithm were doing it.
+
+SM: DSPs are dope in many ways, but at NTS we are yet to hear a DSP playlist that has as much marvel, nuance and excitement as an NTS radio show.
+
+This article originally appeared in the latest (Q4 2019) issue of MBW’s premium quarterly publication, Music Business UK (pictured), which is out now.
+
+
+
+MBUK is available via an annual subscription through here.
+
+All physical subscribers will receive a complimentary digital edition with each issue.Music Business Worldwide

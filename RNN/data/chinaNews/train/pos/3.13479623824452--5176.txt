@@ -1,0 +1,11 @@
+Fortune Business Insights (FBI) has released a new report that predicts that the global market for Natural Language Processing (NLP) technology will reach $80.68 billion by 2026. That number reflects a CAGR of 32.4 percent, based on a 2018 market valuation of $8.61 billion.
+
+FBI credits the anticipated growth to big data, and the need to turn that data into something that can be used to make organizational decisions. To that end, NLP solutions leverage artificial intelligence to process vast amounts of information, enabling better responses that account for individual context and historical patterns.
+
+“You can use your voice to do all the interfacing with the automated agent,” explained Sensory CEO Todd Mozer in a recent interview with FindBiometrics, discussing the benefits of his firm’s NLP agent for end users and the companies deploying it. “They get the benefit of the data analytics that goes with a device, that hears you and sees you while you’re communicating.”
+
+According to FBI, the U.S. represented nearly half of the NLP market in 2018, and will continue to display a high demand for NLP tech as startup companies search for better ways to organize unstructured data (FBI called particular attention to the real-time classification feature in Amazon’s Comprehend platform). However, the Asia Pacific region is expected to demonstrate the most growth moving forward as governments take steps to encourage the deployment of AI technology. China will be especially significant in that regard, with the country’s State Council now pursuing a plan to develop a $150 billion domestic AI industry.
+
+FBI named Apple, Amazon, Google, and Microsoft as some of the major corporations currently at the forefront of the NLP market.
+
+The NLP report comes shortly a separate FBI report that pegged the image recognition market at nearly $82 billion in the same 2026 timeframe. The research firm has also predicted that the voice recognition market will climb to $26 billion.

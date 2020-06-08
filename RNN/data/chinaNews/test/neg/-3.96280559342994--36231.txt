@@ -1,0 +1,77 @@
+Note: This story was updated on January 31, 2020, at 10:35 am to reflect new evidence that the 2019 nCoV can be transmitted by asymptomatic patients.
+
+China’s coronavirus outbreak, which began in December 2019, has now spread to 14 countries. Dubbed the 2019 novel coronavirus – 2019 nCoV – by the World Health Organisation (WHO), it has thus far infected 4,593 and killed 106 people.
+
+India is worried too. The Union health ministry has said in recent press releases that it is taking numerous steps to prevent the virus from spreading to India. Key among them is an air-traveller screening program. Till January 27, the ministry said, 29,707 patients had been screened for fever at Indian airports. Of them, samples of 12 passengers, who presumably had symptoms of pneumonia, were sent to the National Institute of Virology. None of these people have tested positive for the novel coronavirus, the ministry said.
+
+Why must India be wary of the coronavirus? And how big is the outbreak likely to get? Read on to find out.
+
+What is novel about this coronavirus?
+
+Coronaviruses get their name from the crown-like circle of spikes they display under a microscope. Six coronaviruses are already known to trigger disease in humans: the Severe Acute Respiratory Syndrome (SARS) and the Middle East Respiratory Syndrome (MERS) among them are the newest and most well-known. Both SARS, discovered in 2003, and MERS, discovered in 2012, caused major epidemics around the world. But these were successfully contained. And India seems to have dodged both of them (as attested here and here), not having reported any confirmed cases.
+
+The other four coronaviruses have been around for much longer. And there is evidence of some of them, like the human coronavirus 229E and the human coronavirus HKU1, circulating in India. These viruses also mainly cause respiratory illness, like SARS and MERS. But their symptoms are typically milder, like a common cold, says Arunkumar Govindakarnavar, a virologist at Karnataka’s Manipal Institute of Virology.
+
+Enter the 2019 novel coronavirus – first detected in the Chinese city of Wuhan in December 2019. After it caused a cluster of pneumonia cases in the city, scientists sequenced its genome and realised it was a brand new member of the coronavirus group. This means humans lack immunity to it, making it liable to spread quickly in human populations.
+
+When novel viruses like the 2019 nCoV appear, there is a high risk of a pandemic – a chain of transmission that envelopes the world. Recall the 2009 emergence in the US of the H1N1 influenza subtype, thought to have jumped to humans from pigs. The virus subsequently became efficient at transmitting among humans, just like the Wuhan coronavirus has. This led to large waves of disease across the world in 2009 and 2010. Eventually, H1N1 spread to every country in the world and now causes regular outbreaks of seasonal flu.
+
+If a seasonal flu sounds better than pandemic flu, it isn’t. As a recurrent illness, H1N1 has killed around 7,000 people in India since 2011, when the so-called post-pandemic phase began. The year 2017 alone witnessed 38,811 Indians being infected, with 2,270 dead.
+
+H1N1’s trajectory illustrates how an explosive pandemic can leave a trail of morbidity even after it dies down. If the 2019 nCoV follows the same trajectory, it could well establish itself as an endemic disease in India, like H1N1 has, says Govindakarnavar. With a large burden of endemic diseases to deal with already – whether malaria, H1N1, dengue or tuberculosis – India could certainly do without one more.
+
+What are the chances that the 2019 nCoV will come to India?
+
+In a highly interconnected world, the chances are very high. Through a note published on January 22, researchers from the UK’s Imperial College London estimated that 3,301 people flew out of Wuhan’s airports every single day in the last two months. Already, such travel has precipitated two cases of 2019 nCoV in India’s neighbours, Nepal and Sri Lanka. So India’s program to thermally screen incoming travellers is a good move.
+
+But it may not be enough. This is because there are hints that the 2010 nCoV can be transmitted even by patients with no symptoms like fever. In a paper published last week, researchers from Shenzhen described the case of a 10-year-old boy who was infected with the virus but showed no symptoms. His family members had contracted the virus on a visit to Wuhan and had requested the doctors to test the boy too. It was only after the boy was put through a CT scan that his lungs showed characteristic changes related to nCoV pneumonia. However, even though the boy was shedding the virus, it wasn’t clear if he had transmitted the virus to anyone else.
+
+A subsequent correspondence in the New England Journal of Medicine on January 30 bolstered the case for asymptomatic transmission further. Here, German researchers reported that a Munich businessman seemed to have contracted the virus from his colleague from Shanghai, a businesswoman travelling to Munich. The Shanghai resident had been well during her visit, but fell ill on her flight back to China. When tested, she was positive for the nCoV. This led to her colleagues in Munich being examined as well, revealing that the Munich businessman, as well as three of his colleagues, had contracted the virus.
+
+“The fact that asymptomatic persons are potential sources of 2019-nCoV infection may warrant a reassessment of transmission dynamics of the current outbreak,” the authors of the correspondence wrote.
+
+This ability to spread asymptomatically could make the nCoV hard to control because it means that infectious people may get past screening programs. In contrast, SARS was mainly transmitted by sick patients; in fact, most infections occurred in hospitals where these patients had been admitted. This allowed SARS to be controlled through hospital-based measures, something that isn’t possible here.
+
+If the coronavirus does come to India, how bad can it get?
+
+As of now, the coronavirus seems to be killing around 3% of those it infects – a number known as the case fatality ratio. This makes it look much better than SARS, which killed 9.6% of the people it infected globally, and MERS, which killed 34.4%.
+
+But this isn’t reason for succour because some of the biggest killers in the world today have low case fatality rates. The 2009 H1N1 pandemic, for example, saw case fatalities of less than 1%. But the virus infected so many people that it may have led to around 284,500 deaths worldwide, according to one estimate.
+
+Also read: The Threat of Flu Pandemics is Real and India Needs a Vaccination Policy in Place Soon
+
+The Wuhan epidemic definitely seems capable of fanning out fast. One way in which scientists estimate a virus’ ability to spread is by calculating its effective reproductive number: the number of new cases to whom each patient transmits the virus. And the 2019 nCoV’s reproductive number seems higher than SARS’s. According to an estimate published as a preprint paper, the Wuhan virus’ reproductive number is 2.9, compared to SARS’s 1.77 in the latter’s early days. Based on this calculation, the authors of the paper suggested that the 2019 nCoV has a “higher pandemic risk.” One reason for this discrepancy between SARS and the nCov could be the ability of the latter to spread asymptomatically, they said.
+
+Won’t China’s quarantine measures prevent such a pandemic?
+
+For sure, a lot is different in China this time compared to the 2003 SARS epidemic. That year, China indulged in a massive cover-up: it avoided reporting the outbreak to the WHO for 158 days, and took five months to announce it to the public. In this time, the virus made its way to several other countries.
+
+This time, however, China publicly acknowledged the outbreak within a month, according to media reports. It also quickly published genome sequences of the viruses isolated from patients, allowing international researchers to analyse this data. But the country also seems to be overcompensating for its previous negligence, by deploying what may be unnecessarily stringent quarantine measures. It has imposed plane and train travel restrictions on some 45 million people in the Hubei province, of which Wuhan is the capital.
+
+The effectiveness of such a massive quarantine will be strongly debated in the days to come. Quarantine measures can be a double-edged sword: on the one hand, they can slow the spread of an outbreak, but on the other, they can trigger panic and starve other public-health priorities of resources.
+
+For example, even though both Beijing and Toronto imposed widespread quarantine measures during the SARS outbreak, experts later questioned their utility. Toronto in 2003 began isolating everyone who came in contact with SARS patients, a total of 23,103 people. These contacts were asked to remain indoors for 10 days, sleep away from their families and use separate utensils, even if they showed no symptoms.
+
+Beijing did something similar but on a smaller scale. If Toronto targeted 100 people for every one patient, Beijing only isolated 12.
+
+Other experts have subsequently argued that smaller quarantines would have worked just as well, without burdening health systems. According to one assessment published in the ‘Morbidity and Mortality Weekly’ report, Beijing could have contained SARS just by quarantining patients who were obviously sick because SARS does not spread asymptomatically. This would have led to 66% fewer people being isolated. As a bonus, healthcare workers would have been less stressed and non-emergency cases like cancer patients would not have been neglected, as they were.
+
+If the 2019 CoV can spread asymptomatically, unlike SARS, this calculation may change. But even so, the current quarantine may have begun too late.
+
+How late?
+
+China imposed the quarantine on January 22, almost two months after the first patient in Wuhan showed symptoms. Subsequently, a virologist at California’s Scripps Research Institute used 27 genome sequences deposited by Chinese scientists into global gene banks to confirm the start date of the outbreak. By calculating the rate at which the virus was mutating, he estimated that the viruses had diverged from their most recent common ancestor (their common source) around December 2. This number is close to the date when China says the first symptoms arose, between December 1 and 8. This means two months have passed since the outbreak began – enough time for thousands of people to have left Wuhan.
+
+Could China have moved faster? Perhaps. American infectious disease expert Daniel Lucey said in an interview to Science that the government likely knew more about the problematic nature of the virus than it let on. For example, until January 17, China maintained there was no person-to-person transmission. Instead, it claimed that most of the 41 patients in the first sick cluster had visited the Hunan Seafood Market, where live wild animals were sold. This led many to think that virus had jumped to each of the patients from animals in this market.
+
+However, a paper published in The Lancet on January 24 raised doubts about this claim. The paper noted that 13 of the 41 patients had never visited the market, which means the virus had to be spreading from one person to another. China would have known this before the paper was published and yet it delayed acknowledgement.
+
+Was the wet market the source for some patients at least?
+
+It is hard to say. In a public notice on January18 , the Wuhan municipal commission did make it sound that way. Among the first steps China took to combat the outbreak was to close down the market. But the Lancet paper shows that the first patient to fall sick never visited the wet market. If so, he or she could have caught the virus elsewhere and then given it to others in the cluster.
+
+Still, the virus does seem to have emerged from an animal source. One analysis reports that 96% of its genome is identical to a bat coronavirus, suggesting a bat origin. Yet another paper – this one more controversial – published last week argues that snakes were a likely source of the outbreak. This latter study examined the codons preferred by the 2019 nCoV to make proteins, and compared them to codons preferred by other species, like snakes, hedgehogs and bats. Because the coronavirus’s preferred codons resembled those preferred by the Chinese krait and the Chinese cobra, the authors concluded that these species were most likely the animal hosts. But other scientists have questioned this theory for a number of reasons – including the fact that there is no previous instance of a cold-blooded reptile hosting a mammalian coronavirus.
+
+If bats are the source, this wouldn’t be the first time. The Indian Nipah outbreak of 2018 was linked with fruit bats, although how the virus jumped to humans remains unclear. Wet markets – where a number of wild animal species are kept together in crowded, unhygienic conditions – are at major risk of such spillover events. For example, after the SARS outbreak, researchers hypothesised that live palm civets sold in Chinese restaurants could have given the virus to customers and attendants. The palm civet, in turn, may have acquired the virus from a bat.
+
+As it happened with the SARS outbreak, the current one has also turned the spotlight onto China’s booming illegal trade in wild animals. One study in Southern China found that few people took precautions, like wearing masks and gloves, while purchasing animals from wet markets. After SARS, there were strong calls for Chinese markets to shut down the sale of live animals and to switch to refrigerated meat, which poses a lower risk of zoonotic spillover. But the strong demand from gourmands and traditional medicine practitioners has kept the business going, according to Reuters.

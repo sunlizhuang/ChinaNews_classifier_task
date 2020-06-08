@@ -1,0 +1,17 @@
+Beijing: Chinese company Xiaomi has been granted a patent for smart masks that would come equipped with sensors and a chip to gather real-time data collection about the air you breathe.
+
+The sensor would record data such as total wearing time, pollution absorption, breathing volume and breath counts.
+
+The design consists a pollutant filter and a sensor that records how long a person has been wearing the mask.
+
+According to a report on the Abacus website, the US Patent and Trademark Office has granted Xiaomi the patent for a ‘smart mask’ design that was filed in June 2016.
+
+There is also a built-in battery that powers the standard air filter.
+
+The smart mask will also come with sensors like accelerometers and gyroscopes.
+
+“The collected data will be stored on the mask using the storage module and can also be transferred to other devices, thanks to the connection module,” reports GizmoChina.
+
+Xiaomi already sells generic masks to ward off air pollution.
+
+(IANS)

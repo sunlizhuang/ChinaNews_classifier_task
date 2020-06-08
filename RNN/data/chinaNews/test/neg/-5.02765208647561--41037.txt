@@ -1,0 +1,139 @@
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+Employers are struggling to determine how to respond to the 2019 novel coronavirus (2019-nCoV) outbreak, which, while originating in China, has swiftly turned into a perceived international crisis, upending financial markets, and prompting government and private-sector travel limitations and worry among local Chinese populations worldwide. Companies whose employees travel to China, whether on business or for personal reasons, are properly concerned about safety and what they should be doing in the face of this emergency.
+
+The coronavirus poses particular concerns for employers for several reasons, beyond the obvious need to protect employees who may be at risk and the need to address employee concerns: the virus might be transmittable in the workplace, and is serious; medical experts are still searching for a test to detect its presence; the incubation period after exposure but before symptoms appear is believed to be a minimum of several days; and early symptoms can mimic less severe respiratory problems, such as the flu.
+
+The U.S. Occupational Safety and Health Act (OSHA) requires that employers maintain a safe workplace. Employers are considering a wide range of steps, including restricting international travel to affected areas; performing medical inquiries to the extent legally permitted; imposing potential quarantines for employees who have traveled; permitting leaves of absence and work from home options; and educating management and employees.
+
+Background
+
+First, some background on the disease, for which there is no vaccine. As of this writing, the virus has killed more than 100 people, all of them in China. More than 4,500 people in more than a dozen countries, including five confirmed cases in the United States, are infected, and more than 100 people in the U.S. are being tested for the disease in 26 states. A British infectious disease specialist has said that the actual number of cases around the world could already be close to 100,000. China has prohibited travel in and out of Wuhan as well as more than 15 cities. Anxiety is spreading as fast as the virus.
+
+While the virus was first linked to a large live seafood and animal market in China, suggesting animal-to-person spread, indications now are that person-to-person transmission is occurring.
+
+Basic Prevention
+
+The best way to prevent infection is to avoid exposure. The U.S. Centers for Disease Control and Prevention (CDC) recommends taking some actions to help prevent the circulation of respiratory viruses, including:
+
+Wash hands often with soap and water for at least 20 seconds. If soap and water are not available, use an alcohol-based hand sanitizer.
+
+Avoid touching eyes, nose, and mouth with unwashed hands.
+
+Avoid close contact with people who are sick.
+
+Stay home when sick.
+
+Cover coughs or sneezes with a tissue, then throw the tissue in the trash.
+
+Clean and disinfect frequently touched objects and surfaces.
+
+In General, What Should Employers Be Doing?
+
+As is further discussed below,
+
+Employers should review their safety programs and emergency action plans to ensure that they include infection disease protocols and are compliant with OSHA and health and safety regulations.
+
+Employers should circulate information to employees reminding them of best hygiene practices and prevention measures.
+
+Employers should a require employees to limit all non-essential travel to affected regions.
+
+Employers should advise employees on how to protect themselves from exposure to the coronavirus.
+
+Traveling Abroad
+
+Employers with business in China, and the Hubei Province in particular, need to inform their employees about government warnings discouraging non-essential travel, and to be sure that their employees abide by these restrictions unless circumstances require otherwise. Currently, there is limited access to adequate medical care in affected areas.
+
+The CDC has issued travel health notices, including Warning Level 3, to avoid nonessential travel to Hubei Province in China, including Wuhan. The World Health Organization has published exiting and entering protocols for Departments of Health.
+
+Chinese officials have closed transport both within and outside of many cities in Hubei Province, and have shut down the airport and other public transportation. Hong Kong is also limiting travel to and from the mainland.
+
+Employers should alert their employees who are traveling to the United States from China that they may be asked questions to determine if they must undergo health screening, including having their temperature taken and being asked to fill out a symptom questionnaire. Travelers with signs and symptoms of illness (fever, cough, or difficulty breathing) will have an additional health assessment.
+
+Employees Already in China
+
+Employers should instruct their employees who are already in China to remain alert by practicing the precautions below.
+
+Avoid contact with sick people as much as possible.
+
+Discuss travel to China with their healthcare provider. Older adults and travelers with underlying health issues may be at risk for more severe disease.
+
+Avoid animals (alive or dead), animal markets, and products that come from animals (including uncooked meat and eggs).
+
+Wash hands often with soap and water for at least 20 seconds. Use an alcohol-based hand sanitizer if soap and water are not available.
+
+What an Employer Should do if it Suspects an Employee Was Exposed to the Coronavirus
+
+If an employee has traveled to China in the last 14 days and is exhibiting signs and symptoms of the virus (i.e., feels sick and exhibits symptoms such as fever, cough, or difficulty breathing) the employer should:
+
+Advise the employee that they must not come to work until the symptoms disappear and/or a doctor has confirmed that they are not contagious.
+
+Advise the employee to seek medical care right away.
+
+Contact a medical and security service company so it can connect the employer with the right medical professionals to assist the employee.
+
+Avoid contact with others.
+
+If an employee becomes ill and/or the employer suspects the employee has been exposed to someone with the virus, there are several things that an employer can do:
+
+Instruct the employee to stay home for up to 14 days to ensure the employee does not show symptoms of the virus.
+
+Instruct the employee to obtain a fitness-for-duty/return-to-work notice from their physician.
+
+Provide leave to employees until the incubation period is exhausted or they return with a fitness-for-duty notice. These leaves of absence should be administered consistent with the employer's normal leave of absence policies, and may be paid or unpaid.
+
+If the employee has contracted the condition:
+
+Contact the CDC and local health department immediately.
+
+Contact a hazmat company to clean and disinfect the workplace.
+
+Inform other employees of potential signs and symptoms and offer to allow employees to expense their medical test.
+
+File any workers' compensation claims necessary if the condition was contracted at work or in relation to a work-related activity (business travel).
+
+Offer the employee the ability to work from home, or place the employee on administrative leave as necessary. As noted above, the leave should be administered pursuant to normal company policies, and may be paid or unpaid.
+
+Limitations on What Employers Can Do
+
+Despite the duty of employers to provide a safe workplace, there are some limitations on an employer's ability to respond. Employers must be careful to avoid discrimination—including discriminating against individuals who are disabled or perceived as disabled because they are exhibiting symptoms suggestive of having contracted coronavirus, or individuals belonging to certain races or nationalities where the virus is most prevalent.
+
+Employers must continue to meet several other legal obligations, which include issues that arise not just with the coronavirus but also with other communicable diseases. For example, certain statutes, such as the Family and Medical Leave Act, mandate that medical records relating to approved leaves of absence must be kept confidential. State laws may impose similar restrictions, and HIPAA may also be applicable, depending on the source of the information and the purpose for which it is gathered.
+
+Written Policy
+
+Taking this into account, employers should establish a written communicable illness policy and response plan that covers the coronavirus and other communicable diseases readily transmitted in the workplace. For many workplaces, this would include active TB, but not viruses like HIV, which is not easily transmittable through typical workplace activities in most workplaces. Such policies can address:
+
+What illnesses or exposure to illness an employee must disclose to the employer, and when and how such disclosure should be made.
+
+When an ill employee must stay home, when an ill will employee be sent home, and when and in what circumstances the employee may return.
+
+When an employer may require a quarantine of ill employees or those who have been exposed to others who have been ill.
+
+Whether the employer will pay employees for the time spent in quarantine.
+
+The benefits that are available to employees.
+
+What, if any, travel or other limitations will be imposed.
+
+Procedures to address all of these matters on a case-by-case basis, under often uncertain and changing conditions.
+
+If employees request facemasks, the employer needs to consider whether the masks are certified to protect the employee from disease. The employer should also ensure that employees receive instruction on proper use and maintenance of the face mask and on understanding signs and symptoms of distress caused by use of the facemask.
+
+In most states, there is no requirement that employees who are put on an involuntary leave of absence be paid for such leave. Rules regarding compensation of exempt employees who take a partial week off work continue to apply.
+
+Implications for Employment Contracts
+
+Employers with collective bargaining agreements or other contracts of employment must review those contracts before adopting and enforcing a communicable illness policy, particularly before requiring the use of PTO or imposing administrative leave without pay. Such contracts may limit how an employer can implement the terms of such a policy. Further, an employer with a collective bargaining agreement may have obligations regarding the adoption of the policy or its terms.
+
+The Implications of Discrimination Based on Other Protected Classifications
+
+It is possible, and indeed likely, that the coronavirus will disproportionately affect members of a protected class (e.g., race or national origin). While the risk of any claim of discrimination is likely small, employers must be cognizant of this fact and make sure they are not unilaterally discriminating against such groups. Any communicable illness policy should address all communicable illnesses and not just one that disproportionately affects a particular protected class of individuals. Similarly, employers should be sure that any travel restrictions and other employer-mandated policies are imposed impartially. Nevertheless, it is entirely appropriate to implement and enforce a policy specific to the 2019-nCoV outbreak, given the immediacy of its dangers.
+
+Here are links to the CDC's and WHO's pages for more information:
+
+Employers are advised to consult with their occupational health advisor or public health department for more information on how to help reduce the chances of exposure to the coronavirus, and what steps to take should an employee become infected. Legal counsel should be consulted for advice on proactive and responsive legal requirements.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

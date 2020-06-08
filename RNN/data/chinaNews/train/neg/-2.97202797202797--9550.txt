@@ -1,0 +1,49 @@
+Recent tensions between the U.S. and Iran have the cybersecurity community concerned about a potential cyber response from the Iranian government.
+
+Penn State faculty member Peter Forster talked with WPSU about those concerns. Forster teaches security and risk analysis and international relations.
+
+TRANSCRIPT:
+
+Min Xian: Dr. Forster, thanks for joining us.
+
+Peter Forster: Thank you. It's a pleasure to be here again and speaking with you.
+
+Xian: The Department of Homeland Security issued an alert last week, titled “Potential for Iranian cyber response to U.S. military strike in Baghdad.” Can you talk about how recent tensions between the U.S. and Iran may lead to increased risks of cyber attacks?
+
+Forster: Sure. The United States and Iran have basically had frictions between them for more than 40 years. And over the last three to five years, we've seen kind of an increase in those tensions.
+
+So what happened a couple of weeks ago was the death of Qasem Soleimani. He was killed by a US strike. This was not a good person. But on the other hand, he was a general in the Iranian military. So this has increased tensions a bit more and what we saw in response to that was a strike at a military base in Iraq by the Iranians. Now we understand that the strike on the base was basically for domestic Iranian consumption: The Iranian government had to do something. They had to show their people that they were not going to allow this attack on Soleimani to go without some kind of retribution. However, I think we would be remiss to think that the Iranians are done. And this is where the cyber side of things come in.
+
+The Iranians, for quite some time, have used cyber attacks, and have used cyber reconnaissance against the West and against the United States, particularly. They've targeted our financial institutions; they’ve targeted defense contractors. We need to be prepared for what the Iranians might do next. And I think cyber attacks are a potential path forward. One, they have developed cyber capability, the Iranians. Second, the attribution of a cyber attack can be very difficult to ascertain. So those two things put together, I think, have created an environment that we need to be cautious and aware of potential cyber attacks.
+
+Xian: And the alert also said that Iran has a history of using cyber offensive activities to retaliate against perceived harm. So let's talk about what kind of capabilities Iran has when it comes to cyber attacks.
+
+Forster: Right. Well, Iran has a fairly developed cyber capability. In 2012, there was an attack known as Shamoon on Saudi Aramco, the Saudi oil company, and what it did in this case was Shamoon wiped the hard drives of about 30,000 computers. Didn't do any damage to any of its production capabilities, but it did eliminate a lot data. In 2016, there was a second attack on Aramco. This weapon actually struck the safety features in Aramco, i.e. the systems that would take over if, for example, there was a rupture in a pipeline and a fire started.
+
+So what it begins to show is that the Iranians are practicing. And they are developing capability. And the key is that, when we see these kinds of attacks, we're not going to see them coming necessarily from Iran directly, that they will use proxy servers in multitudes of countries. So they might even use servers - hack into servers here in the US.
+
+Xian: So it could get increasingly complex in that way, also.
+
+Forster: Exactly.
+
+Xian: And Iran fired a dozen ballistic missiles in retaliation for the killing of its general, Qasem Soleimani. And afterward, President Trump said Iran was “standing down.” Should we worry that the conflicts may actually be changing venue to cyberspace?
+
+Forster: Yes, I think cyberspace is one of the areas where the Iranians would take advantage of this. Standing down... maybe a little strong term. I think what the Iranians will do, and we've seen this in the past, will be shift[ing] the attack vectors to a variety of different operations. But I think cyber is really an area that we need to be aware of, because of their capabilities, perhaps because of some of our vulnerabilities. And because of this attribution issue that makes it so difficult to really pin them down. I think what has been shown is that the United States is willing to respond. However, the question becomes, “Do we really know that it was the Iranians who did this? Or is it somebody in somebody's basement somewhere who wants to look like Iran attacking the United States?”
+
+Xian: What are some targets that might be especially vulnerable in these potential cyber attacks, or what might be cyber attacks look like?
+
+Forster: I think one of the things we need to really be aware of, and there have been some recent reports that have come out, [is] about cyber attacks at utilities. So the power grid, power companies, we've seen some that have been close to other parts of critical infrastructure, perhaps they're involved in supporting a dam. So I think the utilities would be a logical target.
+
+Now what will these attacks look like? That's difficult for us to say. We do know that still the most popular form of attack in a cyber environment is what we call the phishing campaigns or the spear phishing campaigns. There may be other vulnerabilities, but I think really probably the most prominent one would be the spear phishing, because it works.
+
+Xian: So the potential targets can be on the national level. They could also be enterprises and individuals. So what can be done to prepare for potential cyber attacks like that?
+
+Forster: Part of this falls to the responsibility of the organization. They should practice good cyber hygiene. You should make sure that your employees are aware of what that means. Don't be clicking on emails from people you don't know. Be careful. And perhaps in some cases, you actually make cybersecurity - or you really should, in all cases - make cybersecurity part of the contracting process.
+
+There are resources there at the federal and state level. Matter of fact, there's a cyber security office in Pennsylvania. And these are resources that enterprises should take advantage of to, one, if there's a problem, help mitigate the damage, but, two, get involved with these folks earlier to understand what are good preventative strategies to better protect your systems.
+
+Xian: Peter Forster, thanks for joining us.
+
+Forster: Thank you for the opportunity to speak with you about this important issue.
+
+Xian: Peter Forster teaches security and risk analysis and International Relations at Penn State. I'm Min Xian, WPSU.

@@ -1,0 +1,143 @@
+A new strain of coronavirus that originated in China has killed 17 people and infected hundreds. Chinese authorities have closed off Wuhan, the port city of 11 million at the centre of the outbreak, and suspended travel from other cities.
+
+The respiratory virus has spread beyond mainland China, with cases detected in Japan, South Korea, Hong Kong and the United States.
+
+In Canada, Health Minister Patty Hajdu says the risk remains low though some people are being monitored for the virus. Meanwhile, the World Health Organization held a second emergency meeting today to decide if the outbreak meets the definition of a “public health emergency of international concern,” but decided against making such a declaration since the number of cases in countries outside China remains relatively small.
+
+“At this time, there is no evidence of human-to-human transmission outside China,” Dr. Tedros Adhanom Ghebreyesus, the WHO’s director general, said at a news conference today in Geneva, according to a report in the New York Times. “That doesn’t mean it won’t happen.”
+
+U of T News spoke with Dr. Allison McGeer (left) on Wednesday about what we know and still don’t know about the mysterious illness, and the risk of a global pandemic.
+
+McGeer is a professor at the University of Toronto’s Dalla Lana School of Public Health, a professor in the departments of medicine and laboratory medicine and pathobiology in the Faculty of Medicine, as well as director of the Infectious Diseases Epidemiology Research Unit at Mount Sinai Hospital. She contracted SARS when she was on the front lines of that outbreak in Toronto in 2003.
+
+(photo by Chris So/Toronto Star via Getty Images)
+
+Is this a global emergency yet?
+
+As a reflection of the disagreement (at the WHO), it is very close to being yes. Remember, you may be thinking of global health emergency in small letters, but they're thinking of Global Health Emergency with capital letters. It's a defined circumstance and the naming of it has a defined purpose. And so they're not just looking at the risk to the population, they're looking at whether calling it a global health emergency is going to help the situation or make it worse.
+
+How could calling it a global health emergency make things better or worse?
+
+I think making people more worried about it than they need to be is one downside. Potentially restricting travel is another downside of it.
+
+What people might do with borders is clearly of concern.
+
+The benefits of it are that people do pay more attention, to some degree. I'm not sure that's a benefit in this case, but it helped with people in the DRC (Democratic Republic of Congo) recently (in context of Ebola).
+
+It also helps at the WHO level to mobilize funding for additional investigations and for support for the people on the ground dealing with the outbreak and trying to interpret data and trying to get protocols in place for treatment trials and all the other things that need to be done.
+
+It does cut both ways. Every time the subject comes up we learn more about what the advantages and disadvantages of the naming is.
+
+Setting aside the WHO definition, is this something the world should be worried about?
+
+Too early to tell.
+
+What do we know about the Wuhan coronavirus so far?
+
+It's a coronavirus. It causes respiratory infections. Some of those respiratory infections are fatal. It is transmitted from person to person in some circumstances in close-contact in households, and also in health-care settings at least occasionally. That's about the size of it.
+
+World Health Organization Director-General Tedros Adhanom Ghebreyesus speaks during a press conference in Geneva on Jan. 22 (photo by Pierre Albouy/AFP via Getty Images)
+
+What are some important things we still don't know about it?
+
+There are three big questions we don't know the answer to that people are working on. The first one is the spectrum of disease: When people get sick, how likely are they to be hospitalized or to die from it? And that discovery is a gradual process.
+
+We know when investigations are initially done that you are worried about people who are more severely ill. With coronaviruses, we worry about transmission in hospitals. Those people are more likely to get tested and so almost certainly we see a more severe spectrum of disease.
+
+But it's very hard to assess what the total spectrum is. In order to understand that, you have to have the resources to do a lot more testing and that takes time to build and organize. And you also have to have serologic testing, so you have to be able to measure antibodies. That's a more difficult test setup than just testing for the virus and secretions – if you want to detect infections that don’t cause symptoms. Many viruses, in a proportion of people, cause infections where people don't get sick at all. And if you can't measure the potential response to illness, you don't get that full spectrum.
+
+You also need to wait to measure antibody development. It can take two or three or sometimes four weeks to develop antibodies so you're not even going to be able to do that testing until a month out.
+
+For all those reasons, it is going to take time to know the full spectrum of disease. Probably months until we have a really good idea.
+
+That's question number one.
+
+Question number two is: Is there sustained human-to-human transmission? What we've seen so far, what the WHO said (Wednesday), is that there is first-generation transmission from patients to close contacts in their households. And there's been some transmission in hospitals that we don't know very much about at the moment. What they said was there has not been third- or fourth-generation spread.
+
+A piece of that is it takes time for that to happen.
+
+What does that mean, third- or fourth-generation spread?
+
+You identify a case you think is exposed to the virus at the seafood market. And then they might transmit it to their spouse. Then the question is: Does the spouse transmit it to other people?
+
+If the first person gets it from an animal and a second person can get it if they're in really close contact, but it doesn't go further than that – then it’s not a problem. I mean, it’s a problem figuring out what the original cause is, but it’s not a problem with it spreading around the world because it’s not transmissible enough.
+
+That question of second-, third- or fourth-generation spread is critical, and so far what we're being told is that has not been seen.
+
+Then the third question is: Where is this coming from? If it's not person-to-person spread, then how the heck are people getting infected?
+
+That's a less important question from the perspective of risk to Canadians, but it's a critically important question in terms of understanding what's going on.
+
+A Chinese passenger who arrived on a bullet train from Wuhan is checked for a fever by a health worker at a Beijing railway station (photo by Kevin Frayer via Getty Images)
+
+What are the warning signs you're looking for right now?
+
+The two critical issues are: Is there sustainable person-to-person transmission? And how severe is it?
+
+It's both of those things that will tell us whether it will be a problem around the world. If there's sustainable human-to-human transmission, but the real case fatality rate is 1 in 80,000 – well that's another cold. It's not nothing but it's not a big deal.
+
+If there's not sustainable person-to-person transmission, it doesn't matter how severe it is – we can deal with it.
+
+It's those two things that drive risk and we just don't know enough yet.
+
+A lot of people are making parallels with SARS, another coronavirus. Can you tell me what the biggest similarities and differences are in this case?
+
+It's a little hard to know. At the moment it looks like there are two important differences. The first is that the case fatality rate appears to be lower. That's good news. The second is that there doesn't seem to be nearly as much transmission to health-care workers. During the SARS outbreak, about 20 per cent of the cases worldwide occurred in health-care workers.
+
+That's good news on two fronts. First of all, it tells you that it's not as transmissible person-to-person since health-care workers are up close and personal with severely ill patients and, secondly, it means it's much less disruptive to the health-care system because we don't have to be as worried. Not that we don't have to be worried at all about transmission. We don't have to be as worried because it doesn't seem to be transmitted nearly as much.
+
+If you think about it, the first case was Dec. 12. They didn't identify it as an outbreak until Dec. 29. There were 30 cases in that time period. Nobody would have been taking extra precautions for those cases or worried about them and no health-care workers got sick.
+
+So we had one case [of SARS] in Toronto and then 50 health-care workers got sick before the week was out.
+
+What has Canada specifically learned from SARS and how can we use those lessons now?
+
+I think we are using lessons at a global level. The degree of transparency and discussion about this, the sharing of viral sequences and viral strains, the implementation of airport screening to detect the spread around the world. All of those things rose directly out of SARS and are obviously functional. They're working well.
+
+I think the openness, the discussion at the WHO, the existence of international emergencies of public health concern – all of that structure that was built after SARS is working here.
+
+And it may be less than perfect, but it's really working well.
+
+We've become much better at asking about travel and screening people, and making sure that we're aware of people with communicable diseases. And we are adequately training health-care workers and maintaining those people and precautions to protect health-care workers. No question we are better at that than we were 17 years ago.
+
+A patient is transferred by an ambulance to hospital on Jan. 22, 2020 in Hong Kong, China (photo by Anthony Kwan via Getty Images)
+
+You contracted SARS yourself in 2003. Can you tell me what precautions can we take to protect health-care workers?
+
+The most important things are who needs the precautions, the availability of these precautions and the availability of tests. At the beginning of the SARS outbreak in Toronto, we didn't know what it was. We didn't know how it was transmitted. We had no tests available for it. All of the emergency department records we were working with were on paper.
+
+So the situation then was very, very different.
+
+So almost all of the infections that occurred during SARS occurred because patients were not recognized as having SARS. Because we understand that now, we have become much better about how we identify those patients and how we deal with them.
+
+Can you tell me about your experience with SARS? It's one thing to read about the symptoms and another to hear directly from someone who had it.
+
+It's just pneumonia. There's hundreds of pneumonias all the time. It's not any different.
+
+You noted that people are travelling more now. Globalization has increased since 17 years ago. How susceptible does that make us to global pandemics?
+
+Oh, not at all actually.
+
+The big pandemics we've had in the world are HIV infection and influenza. We've recurrently had influenza pandemics. Influenza pandemics have always occurred. Four hundred years ago, there were influenza pandemics. Influenza viruses may use aircraft, but they don't need them. If you think about the HIV pandemic, it's the same thing. It's maybe spread a little bit faster because we travel more, but it would have spread regardless of the degree of travel.
+
+Globalization may alter how quickly some pandemics spread – not flu – but probably contributed to the speed of the HIV pandemic spread. But it's not critical to them.
+
+How long do you expect it to take to develop a vaccine for the Wuhan virus?
+
+It depends. We don't at the moment have effective vaccines for coronaviruses. We've had MERS (Middle East Respiratory Syndrome) for nearly seven years and we don't have a vaccine. Usually vaccines take 10 or 15 years to develop.
+
+How hard people work on it depends on how important the disease is. What we do with developing vaccines for this disease depends on how it declares itself in the next few weeks or months. Coronaviruses are not the easiest things to develop vaccines for. It makes it a little unpredictable how long it might take.
+
+I read that the number of infections could be under-reported right now because only people with serious symptoms would be presenting in hospital, and that the spread could be larger. What do you make of that?
+
+Yes. I think that's probably true. It is often true that, when you're working on containing an outbreak and you have limited testing capacity, you're going to focus on people who are more severely ill in hospital. Of course, there are so many other illnesses going around, right? People get mild respiratory illness and they might not recognize that they're at risk. If they turn up to the hospital, you're going to test them, but if they never actually see a physician, they're not going to know. So I think most of us believe (under-reporting) is likely, but it's not nefarious and it's not deliberate. It's just the way investigations into new outbreaks go – that it's going to be a while before we are testing those who are mildly ill in enough numbers to get a sense of what that is.
+
+You do get a sense of it. The American patient – he's not hospitalized because he needs to be hospitalized. He's hospitalized because that was the easy way to keep him away from other people in a guaranteed way. It's hard to be isolated at home, particularly if you live in a house with a lot of other people. So he's not actually very ill and that's good news.
+
+I gather from what you're saying that it's too soon to worry about this if you live in Canada. Even so, what can people do to protect themselves and limit the possibility of spreading the virus?
+
+At the moment, you don't need to do anything about that unless you're travelling to Wuhan.
+
+There are a bunch of things you want to do that help protect us from respiratory viral illnesses period right? Staying home when you're sick, washing your hands, the usual stuff. But you want to do that because you don't want influenza (the flu causes about 3,500 deaths in Canada each year.)
+
+If you want to worry about something, worry about influenza. That's what matters. It doesn't feel like that's what matters, but that's what matters.

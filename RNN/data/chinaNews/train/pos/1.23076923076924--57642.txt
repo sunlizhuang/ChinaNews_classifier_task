@@ -1,0 +1,17 @@
+Huawei will reportedly join forces with fellow Chinese manufacturers Oppo, Vivo, and Xiaomi to come up with an alternative for the Play Store.
+
+This platform will apparently allow developers to write apps and upload them, which will then automatically make its way to all four app hubs of the respective manufacturer.
+
+Known as the Global Developer Service Alliance or GDA, it will be available in 9 different countries which include China, India, Indonesia, Russia, and others.
+
+It’s well known at this point that Huawei can’t use Google’s Play Store and other services. A new report is now suggesting how the company plans to tackle this. While we’ve previously heard of the company’s new OS, it turned out to be something else entirely.
+
+This new revelation emerging out of Reuters indicates that Huawei will join forces with fellow Chinese manufacturers like Oppo, Vivo, and Xiaomi to come up with a viable alternative for the Google Play Store. It’s worth noting that Oppo, Vivo, and Xiaomi have their own app hubs, so it will be interesting to see what the end product will look like.
+
+The report adds that this won’t be a single app replacement but an entire developer platform built collectively by the four giants. This platform is known as the Global Developer Service Alliance (or GDSA) will come into effect in March, although it is stated that the launch may be delayed due to the Coronavirus outbreak in the region.
+
+This platform will apparently allow developers to write apps and upload them, which will then automatically make its way to all four app hubs of the respective manufacturer. The coalition is also planning to bring movies, games as well as music to this platform. It is said that GDSA and its services will be available in 9 different countries which include China, India, Indonesia, Russia, and others.
+
+Source: Reuters
+
+Via: 9to5Google

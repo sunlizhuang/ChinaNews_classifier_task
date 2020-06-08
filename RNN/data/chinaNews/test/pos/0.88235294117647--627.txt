@@ -1,0 +1,12 @@
+Tweet
+
+
+
+
+
+
+
+The spatiotemporal change characteristics of Cultivated Land Productivity (CLP) are imperative for ensuring regional food security, especially given recent global warming, social development and population growth. Based on the hypothesis that the Gross Primary Productivity (GPP) is a proxy of land productivity, the Moderate Resolution Imaging Spectroradiometer (MODIS) data with 500-m spatial resolution and 8-day temporal resolution was employed by the Vegetation Photosynthesis Model (VPM) to calculate GPP in Jilin Province, China. We explored the level of CLP using the GPP mean from 2000 to 2018, and analyzed the changing trend and amplitude of CLP in the whole study period using both Theil–Sen median trend analysis and the Mann–Kendall (MK) test, and forecasted the sustainability of CLP with the Hurst exponent. The trend result and the Hurst exponent were integrated to acquire the future direction of change. The results revealed that: (1) The CLP level was generally high in the southeast and low in the northwest in cultivated land in Jilin, China. The area with the lowest productivity, located in the northwest of Jilin, accounted for 15.56%. (2) The majority (84.77%) of the area showed an increasing trend in 2000–2018, which was larger than the area that was decreasing, which accounted for 3.97%. (3) The overall change amplitude was dominated by a slightly increasing trend, which accounted for 51.48%. (4) The area with sustainability accounted for 33.45% and was mainly distributed in the northwest of Jilin. The area with anti-sustainability accounted for 26.78% and was mainly distributed in the northwest and central Jilin. (5) The Hurst exponent result showed that uncertain variation of CLP is likely to occur in the future over the entire region, and the central region is prone to display degeneration. Therefore, the results of this study indicated that quality improvement policy could be implemented for the middle-to-low yield fields in northwest Jilin, and dynamic monitoring and protection measures could be implemented for the areas with uncertain future changes and decreasing sustainability.
+
+
+

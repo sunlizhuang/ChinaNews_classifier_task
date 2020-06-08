@@ -1,0 +1,45 @@
+WASHINGTON (AFP) - The deadly new coronavirus, 2019-nCoV, that has broken out in China will afflict a minimum of tens of thousands of people and will last at least several months, researchers estimate based on the first available data.
+
+"The best-case scenario, you would have something... where we go through the spring into the summer, and then it dies down," Professor David Fisman, of the University of Toronto, who wrote an analysis of the virus for the International Society for Infectious Diseases, told AFP.
+
+Said Prof Alessandro Vespignani, a professor at Northeastern University: "It's not something that's going to end the next week or the next month." He is part of a group of researchers that manages an online dashboard about the outbreak.
+
+Epidemiologists have no crystal ball. They have only piecemeal information on the new virus, which appeared in December. They use mathematical models to estimate the actual number of cases, as of the current date, and compare them with past outbreaks - but many of their hypotheses remain uncertain.
+
+Until the past weekend, researchers thought that infected people were not contagious until they began exhibiting symptoms, such as fever, respiratory problems and pneumonia. But the Chinese authorities said on Sunday they had established the opposite.
+
+The US health authorities said on Monday they had not seen evidence that asymptomatic patients can infect other people. But if they can, this would definitely change the outbreak's dynamics.
+
+The first estimates for the length of the incubation period - about two weeks - are recent.
+
+In recent days, multiple experts have calculated an important parameter for any outbreak: the basic reproduction number, or R0.
+
+It represents the number of people contaminated by an infected person. Estimates range from 1.4 to 3.8, according to Prof Fisman, figures that are considered moderate.
+
+That is only an average: Some patients may infect many people, while others infect only a few.
+
+"On its own, it isn't a reason to panic," said Ms Maimuna Majumder, a researcher at Harvard University and at Boston Children's Hospital.
+
+She said the rate is 1.3 for seasonal flu (which has millions of cases per year) and between two and five for severe acute respiratory syndrome (Sars), which resulted in 8,000 cases and 774 deaths, the majority in mainland China and Hong Kong in 2002-2003. In comparison, the rate for measles ranges from 12 to 18.
+
+Quarantines and isolation measures, systematic hand-washing and masks could help drive down the average number of infected people. If the rate falls below one, the epidemic will die down.
+
+But the effect of the control measures China has implemented will not be felt for another week or two, researchers say, based on the virus' cycle.
+
+"The more we learn about it, the more it looks like Sars," said Prof Fisman. "Sars was controllable; hopefully this will be too. But we won't know for a few weeks."
+
+"It's going to be many weeks, probably months, and nobody knows where this will go," he added.
+
+The official number of cases is more than 4,000 in China, with more than 100 deaths, and some 50 confirmed infections outside the country.
+
+But the actual number of Chinese cases, including those not yet detected, is likely to be more than 25,000, said Prof Vespignani, according to the analysis of the group coordinated by Northeastern.
+
+And researchers at the University of Hong Kong (HKU) estimate that the number of actual cases has currently passed 40,000.
+
+"It's easy to get to twice or three times as much, even just in the city of Wuhan," the virus's epicentre, said Prof Vespignani.
+
+"If we start to have other larger areas affected, then those numbers are going to be much, much bigger."
+
+He said he doesn't want to estimate the number of possible deaths. The mortality rate, until now, has hovered around 3 per cent, but such rates have a tendency to fluctuate: they increase at the beginning as the most vulnerable patients die, then drop, and then rise again as others die.
+
+Again, only time will tell.

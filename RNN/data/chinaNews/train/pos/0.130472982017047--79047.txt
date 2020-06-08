@@ -1,0 +1,129 @@
+ADVA (ISIN: DE0005103006), a leading provider of open networking solutions for the delivery of cloud and mobile services, reported financial results for Q4 and full year 2019 ended on December 31, 2019. The results have been prepared in accordance with International Financial Reporting Standards (IFRS).
+
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200219006045/en/
+
+Brian Protiva, CEO, ADVA (Photo: Business Wire)
+
+Q4 2019 financial summary 1
+
+(in thousands of EUR) Q4 Q4 Change Q3 Change 2019 2018 2019 Revenues 151,135 131,513 14.9% 144,310 4.7% Pro forma gross profit 54,633 48,665 12.3% 49,086 11.3% in % of revenues 36.1% 37.0% -0.9pp 34.0% 2.1pp Pro forma operating income 10,333 8,106 27.5% 7,393 39.8% in % of revenues 6.8% 6.2% 0.6pp 5.1% 1.7pp Operating income 2 5,438 6,332 -14.1% 3,200 69.9% Net income 2 2,522 3,633 -30.6% 2,190 15.2% (in thousands of EUR) Dec. 31 2019 Dec. 31 2018 Change Sep. 30 2019 Change Cash and cash equivalents 54,263 62,652 -13.4% 38,396 41.3% Net debt 3 61,146 26,832 127.9% 74,873 -18.3%
+
+1 Potential differences due to rounding
+
+
+
+2 Q4 including EUR 3.2 million and Q3 including EUR 2.5 million one-off expenses
+
+
+
+3 Q4 2019 including EUR 34.4 million and Q3 2019 including EUR 36.2 million lease liabilities due to first-time adoption of IFRS 16
+
+Q4 2019 IFRS financial results
+
+Revenues for Q4 2019 increased by 4.7% to EUR 151.1 million from EUR 144.3 million in Q3 2019 and grew significantly by 14.9% from EUR 131.5 million in the same year-ago period. Revenues for Q4 2019 were at the upper end of the guidance corridor the company provided on October 24, 2019, of between EUR 142 million and EUR 152 million.
+
+Pro forma operating income for Q4 2019 was EUR 10.3 million (6.8% of revenues), up from EUR 7.4 million (5.1% of revenues) in Q3 2019 and above EUR 8.1 million (6.2% of revenues) in the same year-ago period. Pro forma operating income for Q4 2019 was also at the upper end of the company’s guidance range of between 5% and 7% of revenues.
+
+Operating income for Q4 2019 of EUR 5.4 million increased from EUR 3.2 million reported for Q3 2019 but decreased compared to EUR 6.3 million in the same year-ago quarter. This is mainly due to tariffs on China-made products in the US market, the strength of the US dollar and one-off expenses of EUR 3.2 million in Q4 2019. These one-off expenses are primarily driven by selective head count reduction and site closures.
+
+Net income for Q4 2019 was EUR 2.5 million and increased by 15.2% from EUR 2.2 million in Q3 2019; however, it declined from EUR 3.6 million in Q4 2018.
+
+At quarter-end, the company’s cash and cash equivalents totaled EUR 54.3 million, representing a substantial increase of 41.3% compared to EUR 38.4 million at the end of Q3 2019.
+
+The company’s net debt decreased by EUR 13.8 million to EUR 61.1 million from EUR 74.9 million at the end of Q3 2019.
+
+Net working capital at quarter-end was EUR 128.2 million compared to EUR 137.8 million at the end of Q3 2019. Although revenues increased in Q4, ADVA managed to decrease net working capital by EUR 9.6 million, mainly due to reduction of trade account receivables.
+
+2019 annual summary 1
+
+(in thousands of EUR) 2019 2018 Change Revenues 556,821 501,981 10.9% Pro forma gross profit 195,364 185,621 5.2% in % of revenues 35.1% 37.0% -1.9pp Pro forma operating income 24,811 23,266 6.6% in % of revenues 4.5% 4.6% -0.1pp Operating income 2 12,003 14,989 -19.9% Net income 7,045 9,678 -27.2% (in thousands of EUR) Dec. 31 2019 Dec. 31 2018 Change Cash and cash equivalents 54,263 62,652 -13.4% Net debt 3 61,146 26,832 127.9%
+
+1 Potential differences due to rounding
+
+
+
+2 2019 including EUR 5.7 million one-off expenses
+
+
+
+3 2019 including EUR 34.4 million lease liabilities due to first-time adoption of IFRS 16
+
+For the full year 2019, revenues increased by 10.9% to EUR 556.8 million from EUR 502.0 million in 2018. The positive development is due to solid demand from all customer groups across all technology areas. Except for Q1 2019, quarterly revenues increased sequentially in 2019.
+
+Pro forma gross profit increased by 5.2% from EUR 185.6 million in 2018 to EUR 195.4 million in 2019. Pro forma gross margin, however, decreased from 37.0% in 2018 to 35.1% in 2019. The margin was impacted by the US tariffs on Chinese-made goods in the US market and the strong US dollar.
+
+Pro forma operating income for 2019 was EUR 24.8 million (4.5% of revenues), compared to EUR 23.3 million (4.6% of revenues) in 2018. Operating income for 2019 was EUR 12.0 million compared to EUR 15.0 million in 2018 and decreased by EUR 3.0 million. Operating income 2019 includes one-off expenses of EUR 5.7 million. These one-off expenses are primarily driven by selective head count reduction and site closures.
+
+In 2019, ADVA generated a net income of EUR 7.0 million, down by EUR 2.7 million after EUR 9.7 million in the prior year.
+
+Basic and diluted earnings per share in 2019 amounted to positive EUR 0.14, both compared to basic and diluted earnings per share of EUR 0.19 in 2018.
+
+Management commentary
+
+“Today, we report one of the best results in our 25-year company history,” commented Uli Dopfer, CFO, ADVA. “Both of our two key metrics were at the upper end of our guidance range, and year-over-year we increased revenues significantly by 14.9%. On an annualized basis our revenue grew by more than 10% – an excellent result that even exceeded our self-imposed goals and was supported by satisfactory profitability. We are finalizing our restructuring and preparing for the uncertainty caused by COVID-19. It is currently difficult for us to assess what impact the crisis in China will have on our 2020 results. The city of Wuhan is an important center for photonic components and subsystems, and the isolation of the region will lead to delays in the global supply chain. We expect that despite the healthy order backlog, some of the order fulfillment and revenue recognition will shift from Q1 2020 to later quarters. However, in light of the positive order entry and strong demand, we are very confident of further increasing annual revenues and profitability compared to 2019.”
+
+“Numerous factors that caused market uncertainty and tension in the past year will continue to be relevant in 2020. However, we adjusted very well to the new boundary conditions and once again showed that the DNA of our company guarantees stable and reliable results even in difficult times,” said Brian Protiva, CEO, ADVA. “Despite the trade tensions, we held our course and developed our business with great discipline. Throughout the year we were able to sequentially increase our revenues and gain market share in certain segments. ADVA is in an excellent position for the coming years. We have created a solid basis in all three technology areas and see interesting growth scenarios as a result of transformational change disrupting our markets.”
+
+2020 financial outlook
+
+For the full year 2020, ADVA expects revenues to exceed EUR 580 million and a pro forma operating income of greater than 5% of revenues.
+
+The company will publish its financial results for Q1 2020 on April 23, 2020.
+
+Conference call details
+
+ADVA will hold a conference call for analysts and investors today, February 20, 2020, to discuss these results and management’s outlook. The company’s CEO, Brian Protiva, and CFO, Uli Dopfer, will host the call at 3:00 p.m. CET (9:00 a.m. EDT). A question and answer session will follow management presentations.
+
+To participate, please dial the appropriate number at least five minutes before the start time and ask for the ADVA conference call.
+
+International number: +49 69 201 744 210
+
+
+
+US number: +1 877 423 0830
+
+
+
+Pin code: 743 752 65#
+
+A corresponding presentation is available on ADVA’s website:
+
+
+
+https://www.adva.com/en/about-us/investors/financial-results/conference-calls
+
+The complete annual report 2019 (January – December) is available as a PDF here:
+
+
+
+https://www.adva.com/en/about-us/investors/financial-results/financial-statements
+
+A replay of the call will be available here:
+
+
+
+https://www.adva.com/en/about-us/investors/financial-results/conference-calls
+
+Forward-looking statements
+
+The economic projections and forward-looking statements contained in this document relate to future facts. Such projections and forward-looking statements are subject to risks that cannot be foreseen and that are beyond the control of ADVA. ADVA is therefore not in a position to make any representation as to the accuracy of economic projections and forward-looking statements or their impact on the financial situation of ADVA or the market in the shares of ADVA.
+
+Use of pro forma financial information
+
+ADVA provides consolidated pro forma financial results in this press release solely as supplemental financial information to help investors and the financial community make meaningful comparisons of ADVA’s operating results from one financial period to another. ADVA believes that these pro forma consolidated financial results are helpful because they exclude non-cash charges related to the stock option programs and amortization and impairment of goodwill and acquisition-related intangible assets, which are not reflective of the company’s operating results for the period presented. Additionally, expenses related to restructuring measures are not included. This pro forma information is not prepared in accordance with IFRS and should not be considered a substitute for the historical information presented in accordance with IFRS.
+
+About ADVA
+
+ADVA is a company founded on innovation and focused on helping our customers succeed. Our technology forms the building blocks of a shared digital future and empowers networks across the globe. We’re continually developing breakthrough hardware and software that leads the networking industry and creates new business opportunities. It’s these open connectivity solutions that enable our customers to deliver the cloud and mobile services that are vital to today’s society and for imagining new tomorrows. Together, we’re building a truly connected and sustainable future. For more information on how we can help you, please visit us at www.adva.com.
+
+Published by:
+
+
+
+ADVA Optical Networking SE, Munich, Germany
+
+
+
+www.adva.com
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20200219006045/en/

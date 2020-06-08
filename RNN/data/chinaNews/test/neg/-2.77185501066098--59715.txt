@@ -1,0 +1,35 @@
+(Changes WeChat Enterprise to WeChat Work in sixth paragraph)
+
+SHANGHAI, Feb 6 (Reuters) - In a nation unaccustomed to widespread working from home, China's coronavirus epidemic is forcing millions of white-collar workers to get used to business outside the office.
+
+With millions of companies keeping staff away to curb contagion, demand is surging for chat apps that employees are adjusting to use from living rooms, kitchens and home offices.
+
+"When we did our first video call on Monday, some people looked like they just got out of bed," said Jingshu Chen, who runs virtual reality startup VeeR, which asked its staff to stay away from their Beijing office for the week.
+
+"Then, when we did a video call on the second day, everyone looked ready to work."
+
+Provinces across China have ordered companies to shut or make staff work from home for at least another week after the Lunar New Year holiday. Many firms may extend that further.
+
+The work-from-home policies have led to a surge in downloads for WeChat Work, DingTalk, and Lark - three workplace chat apps operated by Tencent, Alibaba, and ByteDance respectively. According to data from research firm App Annie, both DingTalk and Lark saw downloads across China's app stores surge over 350% during Chinese New Year week compared to one week prior.
+
+Downloads for WeChat Work surged by almost 70% in the same time.
+
+Both DingTalk and WeChat Work suffered connectivity issues due to heavy usages, the companies confirmed in public statements addressing user complaints.
+
+COURIERS AND ROUND-THE-CLOCK
+
+Companies are also relying more on China's army of couriers, who are keeping many self-quarantined residents fed and supplied. VeeR's Chen said large video files her team once accessed on an office network are now delivered to employees' homes via hard drives with couriers.
+
+Some fear financial disruptions.
+
+John Rood, who runs a digital marketing agency in Shenzhen, said the nationwide work-from-home experiment could cause late payments from clients due to banking system quirks.
+
+"A lot of Chinese banks require you to use a USB drive to log into your account, for security measures," he said.
+
+"But if the financial departments didn't bring the USB drive home before the holiday, our payments will probably be delayed another week."
+
+Others said they felt pressure to be online 24/7 as there was no means of clocking off as normal now.
+
+One client manager at HSBC bank said the work-from-home policy has her feeling she cannot leave the house lest she miss a message in her department group chat.
+
+"Your boss is in the group, so you need to be as fast as everyone else," she said. (Reporting by Josh Horwitz and Engen Tham in Shanghai, Yingzhi Yang in Beijing; Editing by Andrew Cawthorne)

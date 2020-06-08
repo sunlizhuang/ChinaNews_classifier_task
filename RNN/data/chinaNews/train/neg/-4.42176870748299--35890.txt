@@ -1,0 +1,53 @@
+When Chinese scientists released the genome of a mysterious new coronavirus earlier this month, Canadian microbiologist Gary Kobinger and his team got to work developing a vaccine to fight it.
+
+“We started right away,” said Dr. Kobinger, director of the Research Centre on Infectious Diseases at Laval University and a former chief of special pathogens at Canada’s National Microbiology Laboratory in Winnipeg.
+
+“If there’s a real emergency,” he said, “I think we should be ready.”
+
+Story continues below advertisement
+
+Dr. Kobinger’s lab is part of an international team led by Inovio Pharmaceuticals Inc., a U.S. biotechnology company that recently received a grant of up to US$9-million from the Coalition for Epidemic Preparedness Innovations (CEPI) to develop a vaccine for 2019-nCoV, which causes an illness similar to severe acute respiratory syndrome (SARS).
+
+Inovio is one of a slew of companies on the hunt for vaccines and treatments to combat the new virus, which has killed at least 170 people, sickened more than 7,700 and spread to more than a dozen countries.
+
+CEPI, a private-public partnership working to help fast-track vaccines for disease outbreaks with funds from philanthropists and governments, is partly bankrolling two other vaccine projects. And Johnson & Johnson announced on Wednesday that it, too, would join the vaccine race. Other drug companies are considering repurposing older HIV drugs or reviving experimental antivirals to fight the respiratory disease that 2019-nCoV causes. A randomized control trial of two antiretroviral drugs is under way in Wuhan, the epicentre of the outbreak.
+
+Shepherding new vaccines and medications through clinical trials usually takes years, and the process is especially tricky when the target is a viral outbreak that could dissipate before researchers gather enough evidence to prove a shot or drug works.
+
+Nevertheless, scientists are racing to have a vaccine for the new coronavirus ready for Phase 1 trials in as little as 16 weeks.
+
+CEPI set the four-month target on Jan. 23, when it announced up to US$11-million in new funding for the three coronavirus vaccine projects – including Inovio’s – each of which would modify an existing vaccine platform to fight the virus from Wuhan.
+
+“It’s a good stretch goal,” Ross Upshur, head of the division of clinical public health at the University of Toronto’s Dalla Lana School of Public Health, said of CEPI’s timeline. “The more we test our capacity to rapidly respond to novel pathogens, the better we will be, collectively, at facing new threats as they come along.”
+
+Story continues below advertisement
+
+Dr. Upshur sat on World Health Organization (WHO) committees that set the guidelines for deploying experimental vaccines and drugs in the 2014 West Africa Ebola outbreak and the current Ebola outbreak in the Democratic Republic of the Congo. He said successful clinical trials conducted during the Ebola outbreaks give him hope for what’s to come in China.
+
+“In 2014, we had no drugs, no vaccines [for Ebola],” Dr. Upshur said. “By 2019, we had one licensed vaccine, two effective medications and another vaccine in the field – in probably one of the worst areas of the world to conduct clinical trials.”
+
+Still, he and other experts are keenly aware that recent Ebola successes are the exception. The rule, especially when it comes to novel viruses, is that financial support for experimental drugs and vaccines disappears when the outbreak does. Researchers would like to be able to continue the work, in case the diseases return.
+
+“Several unique opportunities to perform studies and evaluations of a range of therapeutic and preventive interventions at the peak of the SARS and MERS [Middle East respiratory syndrome] outbreaks were lost due to delays and subsequent decline of the numbers of cases,” Ali Zumla, a professor of infectious diseases and international health at University College London, said by e-mail.
+
+Dr. Zumla co-authored a 2016 review of potential treatments for coronaviruses, the viral family that includes SARS, MERS and the new relative from Wuhan.
+
+The paper pointed to monoclonal antibodies, antiviral peptides and the HIV drugs lopinavir and ritonavir, taken with interferon beta-1b, as promising options. Dr. Zumla said there hasn’t been much progress since.
+
+Story continues below advertisement
+
+Chinese doctors are already treating some hospitalized 2019-nCoV patients with lopinavir and ritonavir as part of a placebo-controlled clinical trial in Wuhan, according to a Jan. 24 paper in The Lancet.
+
+The older HIV drugs showed promise in treating the disease caused by the SARS virus, but further studies were shelved when the outbreak ended.
+
+Dr. Kobinger and his collaborator, David Weiner, director of the Vaccine and Immunotherapy Center at the Wistar Institute in Philadelphia, are bent on moving quickly with their vaccine – something they say is possible because of leaps in technology.
+
+Dr. Kobinger, Dr. Weiner and Inovio specialize in synthetic DNA vaccines, which work by injecting a molecule of DNA encoded to express a portion of a virus – in this case, 2019-nCoV – tricking the immune system into mounting a defence.
+
+Grown rapidly in bacteria, the group’s DNA vaccines for Ebola, MERS and Zika have performed well in clinical trials, but none has yet been licensed.
+
+“Traditionally, vaccines can take a decade to get to licence," Dr. Weiner said. “What we’re doing here – and I think part of the reason we’re funded by CEPI – is a new paradigm of rapidly being able to deploy and deliver to the clinic.”
+
+Story continues below advertisement
+
+Our Morning Update and Evening Update newsletters are written by Globe editors, giving you a concise summary of the day’s most important headlines. Sign up today.

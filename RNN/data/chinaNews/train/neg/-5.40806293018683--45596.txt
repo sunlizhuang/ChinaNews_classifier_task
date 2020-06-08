@@ -1,0 +1,63 @@
+caption Workers on a production line help to manufacture masks at a factory in Shanghai, China, January 31, 2020. source REUTERS/Aly Song
+
+A medical-surveillance database created after the SARS outbreak in China helped scientists identify the new strain of coronavirus from a cluster of pneumonia-like illnesses in Wuhan.
+
+The novel coronavirus has killed at least 360 people and infected more than 17,400 .
+
+. Medics and doctors in China upload the data into the national surveillance system in real time, which allows for quick identification and response.
+
+However, the Chinese government’s use of the system has been controversial, since it collects medical data from citizens and has been used to track ethnic minorities.
+
+Visit Business Insider’s homepage for more stories.
+
+When three people came to a hospital in Wuhan, China, with the same pneumonia-like symptoms in December, medics took their vitals and followed the standard procedure: They entered the patients’ geographical locations, demographic information, and infection statuses into a government database.
+
+That data gets uploaded into China’s countrywide medical surveillance system, called the National Infectious Diseases Monitoring Information System Database. When the system indicates a higher-than-normal rate of illness in a particular region, that tells government analysts and officials to take a closer look and perhaps order additional tests.
+
+That’s how China discovered within a week that the feverish, coughing patients in Wuhan didn’t have pneumonia – they had a new type of coronavirus not seen in humans before.
+
+“It was picked up by Chinese authorities through a surveillance system put in place after SARS in 2003,” Dr. Maria Van Kerkhove, an infectious disease epidemiologist who helps lead the World Health Organization’s MERS response, said during a Q&A on Facebook last week.
+
+caption An x-ray of chest of a patient with 2019-nCoV. source Junqiang Lei, Junfeng Li, Xun Li, and Xiaolong Qi
+
+A new system after SARS
+
+Viruses in the coronavirus family can cause the common cold, pneumonia, and SARS. The outbreak of the new coronavirus, whose scientific name is 2019-nCoV, has spread to 24 countries in addition to China. More than 17,400 people have been infected, and at least 360 have died.
+
+That case count, after just one month, far outstripped the total during the eight-month SARS outbreak in 2002 and 2003, which killed 774 people and infected 8,000.
+
+The Chinese government launched its disease-monitoring database after that outbreak in order to prevent another infectious disease from spreading in the same way.
+
+“China … has developed excellent disease surveillance systems since SARS, including real-time emergency department surveillance for severe acute respiratory infections, so this will help with rapid identification of new cases,” Raina MacIntyre, head of the biosecurity research program at Sydney’s Kirby Institute, told Reuters.
+
+So far, the new coronavirus does not seem to be as deadly as SARS – about 2% of people infected with the new coronavirus have died, whereas SARS had a mortality rate of 9.6%.
+
+caption A worker in a protective suit checks the temperature of a passenger arriving at the Xianning North Station, in Xianning, Hubei province, China, January 24, 2020. source REUTERS/Martin Pollard
+
+“This is a system WHO and other partners have worked alongside China to put in place, and this is thanks to this system that the cluster of pneumonia of unknown cause in Wuhan was detected in the first place,” Tarik Jasarevic, a communications officer at the World Health Organization, told Business Insider in an email.
+
+The WHO declared a global emergency due to the Wuhan coronavirus outbreak on Thursday, but said it was because of the virus’ potential to spread to countries whose health systems aren’t properly prepared.
+
+‘The level of response of China has clearly evolved’
+
+China’s database system is technically an updated version of a medical-surveillance system that has existed for over five decades. The Chinese government created the first version in 1959, following the H2N2 Asian flu pandemic that originated in China in 1957. It killed an estimated 1.1 million people around the world.
+
+But by 2002, when China saw its first case of SARS, the system had become outdated. Health officials were still reporting infectious-disease incidences by filling out cards by hand and mailing or faxing them to a central office. That made data hard to collect and organize and significantly slowed response time.
+
+So after the SARS outbreak, the government created a new online system that allowed clinics and hospitals to report cases as soon as they’re detected.
+
+“Data are collected from laboratories and hospitals,” McIntyre told Business Insider. “Big cities like Beijing have real-time emergency department surveillance for clinical syndromes so that outbreaks can be picked up in real time.”
+
+The Chinese Ministry of Health has centralized control of that data and uses it to make decisions about its responses.
+
+“China’s capacity to diagnose, treat, and manage communicable diseases and health emergencies has advanced considerably over the past 20 years. The level of response of China has clearly evolved since the SARS outbreak in 2002 and 2003,” Jasarevic said.
+
+The system enabled Chinese scientists to quickly sequence the new coronavirus’ genome and release a test for the virus to labs around the world.
+
+Medical surveillance can be controversial, however
+
+Many governments have surveillance programs to identify infectious-disease outbreaks. However, the Chinese government has a controversial history when it comes to surveillance and collection of medical data.
+
+Authorities in the Chinese province of Xinjiang, for example, instituted mandatory biometric-data collection programs to collect DNA, iris scans, fingerprints and blood types from residents. Of Xinjiang’s 20 million residents, 49% are Uyghurs, most of whom are Muslim. The group continues to face severe discrimination, surveillance, and forced detention from the Chinese government.
+
+“The mandatory data-banking of a whole population’s biodata, including DNA, is a gross violation of international human rights norms, and it’s even more disturbing if it is done surreptitiously, under the guise of a free health care program,” Sophie Richardson, China director of Human Rights Watch, said of that program in 2017.

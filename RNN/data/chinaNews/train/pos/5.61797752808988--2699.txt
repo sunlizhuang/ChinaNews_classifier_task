@@ -1,0 +1,11 @@
+Wind River is collaborating with Baidu to develop an autonomous vehicle solution. A joint proof of concept has been developed to include an AUTOSAR Adaptive–based software architecture with Baidu’s Apollo autonomous driving open platform, designed to meet the specific challenges of the next generation of software-defined automobiles.
+
+Baidu is the world’s largest Chinese language Internet search engine, an integrated Internet information service company, and a world-leading artificial intelligence (AI) platform company. Baidu’s Apollo program aims to provide an open, reliable, and secure software platform for its ecosystem partners to develop their own autonomous driving systems.
+
+The proof of concept highlights the Baidu Apollo autonomous framework and Wind River AUTOSAR Adaptive–based software architecture, supporting heterogeneous systems with mixed criticality of safety requirements.
+
+Open source software, such as non-safety critical applications (infotainment, for example), can run on Wind River Linux, while a proven commercial RTOS such as VxWorks can support safety-critical applications that require deterministic performance.
+
+Using a software architecture that can successfully house both safety-critical and non–safety-critical applications on the same piece of hardware, carmakers can achieve significant savings on bill of materials (BOM) costs and power consumption in the vehicle.
+
+Able to support customers’ diverse range of computing needs, Wind River can create computing environments that accommodate multiple Linux-based workloads that are designed to function seamlessly with the hard real-time, deterministic VxWorks RTOS, giving customers the ability to cost effectively combine open source with the safety and reliability of time-tested certified computing software.

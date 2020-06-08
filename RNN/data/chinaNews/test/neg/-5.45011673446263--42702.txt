@@ -1,0 +1,109 @@
+The 2019 Novel Coronavirus (“2019-nCoV” or “Coronavirus”) is a rapidly spreading respiratory illness that is raising important issues for employers.
+
+Employers are faced with balancing their obligation to maintain a safe and healthful workplace with an employee’s right to be free from discrimination. In this Advisory, we have addressed the legal framework pertaining to Coronavirus risks in the workplace. The information from public health officials is changing quickly as the disease spreads, so employers should continue—as we are—to monitor guidance provided by agencies charged with guiding the public, such as the U.S. Centers for Disease Control and Prevention (“CDC”) and local public health agencies.
+
+Coronavirus: Origins and the Spread to the United States
+
+Origins
+
+First detected in Wuhan, China (a city of approximately 11 million people in the Hubei Province), 2019-nCoV[1] is a respiratory virus that was reportedly linked to an outdoor seafood and animal market. Wuhan is known for its manufacturing industry, and not necessarily as a tourist destination. However, in light of the recent national holiday for the Chinese Lunar New Year (which began on January 25, 2020), there may have been more travel to and from the city than at other times in the year.
+
+As of January 30, 2020, there are, in total, approximately 8,100 confirmed cases of 2019-nCoV in China, Australia, Cambodia, Canada, France, Germany, Hong Kong, Japan, Macau, Malaysia, Nepal, the Republic of Korea, Singapore, Taiwan, Thailand, the United Arab Emirates, the United States, and Vietnam. The majority of confirmed cases, and all 170 reported deaths due to Coronavirus, are in China. While the majority of cases outside of China have been from individuals who recently returned from China, recorded cases in Germany, Japan, Taiwan, the United States, and Vietnam involved individuals who did not travel to China.
+
+On January 30, 2020, the World Health Organization (“WHO”) declared that the outbreak of Coronavirus is a Public Health Emergency of International Concern (“PHEIC”). This declaration allows the WHO to help facilitate the containment of the Coronavirus around the world and put travel advisories in place.
+
+Spread to the United States
+
+The first case of 2019-nCoV in the United States was reported on January 21, 2020. Chinese authorities have since imposed a blanket travel ban to Wuhan and surrounding cities, and the CDC has currently ordered screening for the disease at 20 airports. The CDC and U.S. Customs and Border Protection’s screening procedure includes requiring travelers who are returning from China (anywhere within the country, and not just those in Hubei province) to:
+
+fill out a short questionnaire about their travel, any symptoms, and contact information, and
+
+submit to a medical examination, whereby the CDC takes the temperature of the traveler and observes the individual for other symptoms.
+
+As of January 30, 2020, there has been one confirmed case of person-to-person transmission occurring in the United States.
+
+How Is Coronavirus Spread?
+
+The WHO stated that “[n]ot enough is known about the epidemiology of 2019-nCoV to draw definitive conclusions about the full clinical features of disease, the intensity of the human-to-human transmission, and the original source of the outbreak.” According to the CDC, Coronavirus is associated with “mild to severe respiratory illness with fever, cough, and difficulty breathing,” a runny nose, headache, sore throat, and general feeling of being unwell. The incubation period for the virus is approximately 14 days, during which an individual may see no symptoms but be contagious.
+
+The CDC is cautioning that many details about the transmission of 2019-nCoV are still unknown, including whether animal or animal products from China may spread the virus, or whether packages received from affected areas may carry the virus. There is no vaccine for 2019-nCoV.
+
+Legal Obligations of, and Considerations for, Employers
+
+ADA and FMLA Protections
+
+Under the Americans with Disabilities Act (“ADA”), as amended by the ADA Amendments Act, an employee with Coronavirus could fall within the definition of a “qualified individual with a disability” and be protected by the ADA (and state/local disability laws). Further, even an individual exposed to Coronavirus, or thought to be exposed (such as those who have travelled to the areas where the current outbreak is centered), might be able to present ADA claims under the theory that the employee was “regarded as” having the illness.
+
+Under the ADA, an employer cannot make medical inquiries of employees unless the inquiry is voluntary or job-related and consistent with business necessity. If an employer does make such inquiries, the employer must follow the ADA guidelines pertaining to medical records. These guidelines (i) require confidential maintenance of medical information, which should be kept separate and apart from the employee’s personnel file, and (ii) limit the distribution of such information to individuals with a legitimate need to know.
+
+Nonetheless, if an employee poses a direct threat to the health or safety of himself/herself or others, then an employer can require the employee to disclose health information. A positive test for 2019-nCoV would almost certainly fall within this category. Similarly, an employer will likely be permitted to require an employee to undergo medical testing if the employer reasonably believes, based on an individualized assessment, that an employee may have been exposed to Coronavirus, and demonstrates symptoms of Coronavirus. If such employee is represented by a union and covered by a collective bargaining agreement, the employer may have an obligation to notify the bargaining representatives and to meet, confer, and possibly negotiate before implementing mandatory testing.
+
+In addition, if an employee is diagnosed with Coronavirus, this would undoubtedly constitute a serious health condition under the Family and Medical Leave Act (“FMLA”). Once so diagnosed, an otherwise eligible employee would be entitled to FMLA leave as certified by the employee’s health care provider.
+
+Significantly, Title III of the ADA requires places of public accommodation to afford the full range of their services and activities to individuals with disabilities. Accordingly, if a place of employment is also a place of public accommodation (e.g., retail establishments, hotels, restaurants, etc.), the employer should carefully consider whether to implement policies that would result in guests or customers from China, or others believed to be exposed to Coronavirus, being subject to certain restrictions or limitations.
+
+Recent Travel and Employer-Imposed Restrictions
+
+The highest risk area, Wuhan, China, has been closed to travel by Chinese authorities. Further, the CDC has advised that all travelers avoid all nonessential travel to China.
+
+The most important thing that employers can do is educate employees as to the CDC’s guidelines regarding 2019-nCoV and its symptoms, particularly individuals who have recently traveled to China. The CDC is cautioning that all travelers from China, including business travelers, people who visited friends and family, and humanitarian workers, should:
+
+watch for any health changes for 14 days after leaving China;
+
+if a fever, a cough, or difficulty breathing develops during this 14-day period, avoid contact with others and call a health care provider; and
+
+avoid traveling if feeling sick.
+
+Further, the WHO cautioned that travelers who have had “contact with confirmed cases or direct exposure to potential sources of infection should be placed under medical observation. High-risk contacts should avoid travel for the duration of the incubation period (up to 14 days).” Symptoms may not show during the 14-day period. The CDC’s guidance appears to suggest that travelers who do not experience symptoms within 14 days upon returning from China do not pose a risk of carrying 2019-nCoV.
+
+If an employer has a reasonable belief that the employee has been exposed to, or has contracted, Coronavirus, then the employer may send that person home to protect the rest of the workforce. Importantly, discrimination claims can arise if an employee is singled out based on some protected characteristic. For example, since the origin of the Coronavirus and the majority of cases are within China, employers should be mindful to treat all employees with potential exposure the same, and not just those employees who may be of Chinese descent.
+
+While some travel cannot be avoided, employers should make sure that only absolutely essential business travel to China occurs. If an employer does plan to send an employee to China, it should be sure to inform the traveling employee of the risk. If an employer seeks to restrict employees’ personal travel to affected areas, it should first consider local labor laws regarding off-duty conduct. Some states (e.g., California and New York) have statutes limiting the actions that an employer can take against an employee based on off-duty conduct. Further, (i) the FMLA may restrict the actions that an employer can take if an employee wants to take a leave of absence to care for a sick relative, and (ii) an employer may be subject to a claim of national origin discrimination if it prohibits an employee from traveling to a location that is his or her home country. Instead of attempting to preclude an employee from traveling, an employer may wish to preclude all employees returning from Wuhan, China, from entering the workplace for 14 days following the employees’ return.
+
+Wage and Hour Laws
+
+If an employee performs work for the employer while being required to stay out of the office/facility due to a reasonable belief that he or she has been exposed to, or has contracted, Coronavirus, he or she must be paid. If the employee is an exempt employee, he or she must be paid for the entire week during which he or she performs more than a de minimis amount of work. If the employee is non-exempt, he or she must be paid for the time that he or she works. Also, depending on the employer’s policy and/or state/city law, the employee may be entitled to use paid sick time or other paid time off (e.g., vacation, personal days, etc.). Otherwise, generally, the employee need not be paid for such time out of the office. Employers, however, may wish to be generous in this regard, so as to encourage employees who exhibit symptoms or who have been in contact with Coronavirus or who have traveled from China to stay out of the office/facility or provide telework options.
+
+Occupational Safety and Health Laws
+
+Employers should comply with Occupational Safety and Health Administration (“OSHA”) regulations in fashioning their responses to this outbreak and the risks that it may pose for their workplaces. All employers are required to provide a safe and healthy workplace, but certain industries, such as health care, require precautions where exposure to an infectious disease is reasonably likely. OSHA is currently directing employers to the CDC’s guidance, based on industry, for health care workers (Interim Healthcare Infection Prevention and Control Recommendations, as well as the WHO’s Interim Guidance) and clinical laboratory workers (Interim Laboratory Biosafety Guidelines). New York State’s Department of Health has also issued Interim Guidance for health care workers. For other workers who may be exposed, OSHA is recommending that workers (i) frequently wash their hands with soap and water for at least 20 seconds; (ii) avoid touching their eyes, nose, or mouth with unwashed hands; and (iii) avoid close contact with people who are sick.
+
+Consistent Messages by the Employer
+
+To ensure consistent messaging both inside and outside an organization, a single person or department should be appointed as the “point person” on all Coronavirus-related questions and concerns. Ideally, this point person would be a human resources professional, someone in the legal department, or a workplace health professional. This point person should be involved in all personnel decisions related to Coronavirus—e.g., whether medical testing is appropriate, whether an individual should be barred from the worksite, what happens if an employee refuses to come into the workplace or go on a business trip, and what types of business travel may be prohibited. Using a single person or department (rather than various managers) to make these types of decisions, and make them consistently, will likely reduce the organization’s risk. Further, this person should be the contact person when members of the public inquire about Coronavirus and the organization’s preparedness or response.
+
+The point person should remain up to date on the guidance issued by the CDC, OSHA, and local health departments, because such guidance continues to evolve. Further, the company’s point person should review the document “2019 Novel Coronavirus: Frequently Asked Questions for Employers,” which we have prepared in connection with this Advisory, and which addresses an employer’s obligations and permissible actions.
+
+Finally, the point person should coordinate with all employees of the company who have a role in the company’s response to any Coronavirus-related issues. These employees could include security personnel, health personnel, human resources personnel, legal personnel, public relations or marketing personnel, and others. The point person and his or her “team” should plan responses to certain questions or events.
+
+Communications with Employees Regarding the Risk of a Coronavirus Infection
+
+If an employee has been diagnosed with 2019-nCoV, the federal, state, and/or local public health agencies will take responsibility for informing anyone who may be at risk. Still, information about the employee’s health should be kept confidential, as required by the ADA. This includes a general prohibition against sharing an employee’s health condition with managers, supervisors, and other employees. If an employee is on a Coronavirus-related leave of absence, however, employers may inform managers, supervisors, and others that an employee is on a leave of absence for non-disciplinary purposes.
+
+It may be necessary to share information with employees who may have had contact with an employee with a confirmed case of Coronavirus. Employers should not inform the potentially affected employees of the name of the Coronavirus-stricken employee, but may inform the potentially affected employees that an employee of the company has tested positive for Coronavirus and that the company believes that the potentially affected employees may have come into contact with the stricken employee. The company may suggest to such potentially affected employees that they may wish to seek medical attention or otherwise monitor their possible development of symptoms, while being mindful to not cause fear or panic relating to the risk of infection.
+
+An employer may always ask an employee whom it knows to be infected with Coronavirus if the employer may disclose that fact to others, so long as the employee’s acquiescence is purely voluntary. Further, if the health department in the city/state where the employer is located requires notification of any cases of Coronavirus, employers do not need to maintain confidentiality with respect to informing these governmental agencies of the identity of the stricken employee.
+
+Employers that are health care providers (and subject to the Health Insurance Portability and Accountability Act (“HIPAA”) Privacy Rule) may face additional challenges, particularly if they are the treating provider of an employee with or suspected to have 2019-nCoV. As such, a health care provider employer will need to balance HIPAA concerns with the public health reporting requirements, public safety needs, and the protection of its workforce and patients.
+
+What Employers Should Do Now
+
+Appoint a single individual or department as the point of contact within your organization for questions about Coronavirus and to ensure a coordinated and consistent response to all inquiries.
+
+Make information available to managers and employees about the symptoms of 2019-nCoV and the geographical locations where employees are most likely to contract it.
+
+Educate supervisors on the company’s planned preventative steps.
+
+Review business-related travel itineraries for employees, and consider whether any travel to high-risk Coronavirus areas is necessary.
+
+Determine if additional obligations are imposed on your workplace by OSHA or HIPAA’s Privacy Rule.
+
+If employees are represented by a union, consider whether there are any issues that need to be addressed with the employees’ bargaining representative and whether there are any provisions in the company’s collective bargaining agreements that may be affected.
+
+If any employees will not be allowed in the office due to exposure or symptoms, determine if telework is viable. If an employee will not be allowed in the office or to telework, communicate whether he or she will be paid or, rather, whether he or she can use sick, vacation, or any other type of paid leave.
+
+Promptly address any leave or accommodation requests from employees.
+
+[1] Prior outbreaks of other coronaviruses included the Middle East respiratory syndrome (“MERS”) of 2012 and the Severe Acute Respiratory Syndrome (“SARS”) in 2003.
+
+[View source.]

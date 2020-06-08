@@ -1,0 +1,19 @@
+2 min read
+
+Mobile payment giant Alipay announced on Sunday that it is providing development support for a national health code system which assesses individuals for self-quarantine based on basic health information and travel history which China is preparing to launch as soon as next week.
+
+Why it matters: Amid the Covid-19 outbreak, China has been on high alert as millions in the country travel across cities to return to work after the prolonged Spring Festival holiday.
+
+Residents have been asked to self-report their health and travel history over the past few weeks as companies attempt to resume business as usual. Companies were asked to keep track of their employees’ health, as well, measures which allow the government to keep a close eye on high-risk individuals and those who have been proximity with an infected case. These measures have triggered public concerns over privacy and data security, while some view the efforts as helping to quell mounting fears and anxiety.
+
+Details: The health code system has already been implemented in some Chinese cities as a measure to prevent further spread of Covid-19.
+
+Hangzhou, the capital city of eastern Zhejiang province, implemented the health code platform on Tuesday, the first in the country to do so. Shanghai also followed suit with its version officially launched Monday, Chinese media reported.
+
+To apply for a code, residents must register with their name, national identification number, and phone number and provide details to basic questions including travel history and health status. Residents with a green code are allowed to move around the city freely. Yellow means a seven-day quarantine is required, and red requires a 14-day quarantine.
+
+Hangzhou residents are asked to show their code to be scanned when in public places such as schools, building complexes, supermarkets, and on the street. Alipay said in its statement that the national system will be very similar.
+
+Alipay is providing a platform for the national health code system, and offering additional development support, the company told TechNode. However, once launched, the platform will be operated by local governments. The company spokesperson added that the health code platform will be launched not only on Alipay but on other platforms as well.
+
+Context: The Hangzhou health code system generated over 6.51 million codes (in Chinese) and racked up 10 million visits on the first day.

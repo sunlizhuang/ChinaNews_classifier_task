@@ -1,0 +1,53 @@
+Can SA learn from Kenya, with its faster rate of economic growth and investment in technology?
+
+At first glance, mobile data in the East African country is almost four times cheaper. The average price of 1GB of data in SA still sits at R149, but it costs the equivalent of R35 in Kenya.
+
+And Wi-Fi is free and unlimited everywhere, including in restaurants and stores.
+
+Africa has four main tech hubs: SA, Kenya, Nigeria and Egypt, aptly named "the innovation quadrangle" in a recent report by GSMA. While SA is still regarded as a leader of investment on the continent, this has not always proved true for the tech sector.
+
+The report, by Dario Giuliani of research firm Briter Bridges and Sam Ajadi from the GSMA’s Ecosystem Accelerator programme, found there is significant growth in innovation and technology hubs across the continent. It reports a 40% increase in active hubs to 618, over last year’s 442.
+
+An active tech hub is "an organisation with a physical local address, offering facilities and support for tech and digital entrepreneurs".
+
+SA has 80 hubs against Kenya’s 48, Nigeria’s 85 and Egypt’s 56.
+
+By 2016, Nairobi’s Silicon Savannah — the term refers to Kenya’s tech ecosystem — was solidly established. SA still has the reputation for being the gateway into Africa, but some international tech firms have chosen to invest first in Nairobi before looking at Joburg or Cape Town.
+
+IBM, for example, poured $100m into forming an African research centre with its own supercomputer — in Nairobi — before coming to SA.
+
+At the time, the move was seen as a clear vote of confidence in the Kenyan government’s ICT policy environment, despite SA’s better infrastructure.
+
+More recently, handset firm Transsion, from Shenzhen in China, made its first move into Africa’s tech scene by setting up hubs in Nairobi, and Lagos in Nigeria.
+
+"The start-up scene in Kenya is very vibrant," says Tim Humphrey, lead designer and developer for Pace, a consumer products start-up specialising in audio equipment in Nairobi.
+
+Entrepreneurship has often been driven by necessity, he says. For young graduates the job market has disappointed in recent years. Jobs in more traditional sectors don’t pay well and have become harder to secure, forcing young people to start their own businesses.
+
+As a result, Humphrey, a self-taught developer and an international relations graduate, says qualifications in Kenya don’t always determine a career path.
+
+Proud Dzambukira, product partnerships lead for Middle East and Africa at Facebook, says of Kenya: "There’s a lot of hunger here, there are a lot of young people who see the opportunity in tech, who have a very good number of local heroes and role models that have built interesting and successful business models."
+
+He says entrepreneurship opportunities have been created by innovations like M-Pesa, which is Safaricom’s mobile payments product, the most famous fintech platform on the continent. Vodacom’s attempt to bring it to SA, which has a mature financial services sector and high levels of financial inclusion, failed.
+
+"Five years from now, East Africa is going to be a very important region for all of us," Dzambukira says.
+
+"So in any hot spot of entrepreneurship and activity, we want to make sure we’re part of the story and investing in the ecosystem. Nairobi is very important to us for that reason."
+
+Sewagodimo Matlapeng, a developer at SA payments start-up Yoco, says cities such as Nairobi and Lagos have been good at building communities of software developers and start-ups, often brought together by large international tech companies.
+
+Cape Town-based Matlapeng bemoans the fact that people don’t seem to show up for developer meet-ups in SA cities, yet similar events in Lagos and Nairobi generate far more enthusiasm.
+
+But as is the case in SA, the benefits of economic activity have not reached everyone.
+
+Software developer Faith Ng’etich says Kenya’s rural towns suffer from a lack of access to technology and connectivity.
+
+Another developer, Purity Birir, says funding is a challenge for start-ups in the Kenya. The same pool of capital is sought, after all, across the continent.
+
+Privat Fone, the investment manager at FSD Africa, echoes concerns about funding. The rate at which start-ups are being founded and growing is faster than the rate at which fresh investment capital is entering the market. This stymies what could become the next Jumia or Takealot.
+
+And when funding is available, Fone says there are other limitations. Developers don’t know how to put together a business plan. There is a need for business incubators. It’s one thing to look for investment but quite another to have an idea worth investing in.
+
+Birir comes back to a contentious issue for SA consumers: the high cost of mobile internet connectivity is stifling opportunities. She says Kenya’s fast and affordable internet has proved to be a major driver for technology innovation.
+
+Uganda, says Birir, applies heavy taxes on data, which stifles internet usage. SA may not be quite as badly off, but meaningful growth and innovation in technology are hinged on the price of data. Without it, SA could quickly lose many more opportunities.

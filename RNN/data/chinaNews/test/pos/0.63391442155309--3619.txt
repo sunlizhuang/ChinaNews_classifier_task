@@ -1,0 +1,23 @@
+Do we have to sacrifice our privacy for big data?
+
+There is concern we give away too much of our personal information.
+
+74% of Chinese people worried about rise of facial recognition technologies.
+
+"If you want to keep a secret, you must also hide it from yourself." —George Orwell, 1984
+
+Seven decades after the book 1984 was published, George Orwell seems prescient and clairvoyant. Perhaps he just understood human nature. We have arrived, it seems, in a world that is so data rich and technology-enabled that secrets are hard to come by.
+
+On the one hand, everywhere we turn, business leaders, policymakers, healthcare providers and educators are seeking the best and latest in AI and data science to further their work. We know that data is essential to making decisions and it is an important resource for improving medical diagnoses, weather predictions and demographic trends. Data-rich AI is helping oncologists spot ovarian and breast cancer more effectively than humans are able to do alone. The UK’s National Health Service, Imperial College London and other universities, along with industry partners like DeepMind are creating these opportunities, and helping reduce the number of missed cancer diagnoses in the UK.
+
+Annual volume of data and information created worldwide Image: IDC; Seagate; Statista estimates
+
+On the other hand we read now about online technologies, combined with big data and artificial intelligence, becoming "the autocrat’s new toolkit". The same technologies we enjoy - voice recognition, intelligent applications, wayfinding, habit-based recommendations - can now be used to keep track of our location, our communications and our personal lives. Every advance seems to have a potential downside. The very same NHS-DeepMind collaboration which has been improving diagnoses, has drawn privacy concerns about DeepMind’s sharing of UK data with its US-based parent company Google. Citizens, businesses and governments need to talk about these issues, or the technology will run ahead of what societies want or will tolerate.
+
+These concerns transcend nations and sectors. Even once tightly-controlled activities, like party political communications in UK general elections, are becoming impossible to regulate in a world of microtargeting, bots and hacking. Collaboration between nations and sectors will be essential to AI governance. The alternative is a fragmented global marketplace with islands of uneven regulation and innovation. And these are not exclusively western concerns: a recent survey shows that 74% of Chinese people worry about the rapid rise of facial recognition technologies.
+
+Dr Yves-Alexandre de Montjoye, an AI and privacy expert who is speaking at Davos 2020, has shown how ‘anonymised’ personal data, which is much traded globally, can often be reverse engineered to re-identify individuals. In one anonymised tranche of Americans’ data, like those that can be bought from a broker, Yves and colleagues could correctly re-identify 99.98 percent of the original subjects by using characteristics like age, gender and marital status.
+
+While the failure of 'anonymisation' of data is alarming, there are solutions on the horizon. Yves proposes ways to contain, curate and manage data that will, in some cases, allow us to benefit from the insights the data provides without sacrificing the privacy we desire. He and colleagues at Imperial College London, the MIT Media Lab, Orange, the World Economic Forum and Data-Pop Alliance have created a platform, OPAL, which aims to do just that. Their goal is to unlock the potential of private data for public good in a privacy-conscientious, scalable, socially and economically sustainable manner. They work to allow people to use data without abusing data.
+
+Perhaps we can indeed do as Orwell suggests and keep data from ourselves, while reaping the benefits of its collection, through astute queries about the data, not manipulation of the data.

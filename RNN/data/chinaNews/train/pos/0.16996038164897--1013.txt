@@ -1,0 +1,71 @@
+Lamborghini has slowly been dipping its toes in the ocean that is electrification, but so far, it has yet to go beyond knee-deep. The 2017 Terzo Millennio Concept car previewed Lambo’s future electrification technology, and the new Sian FKP 37 is only a hybrid because Lamborghini was able to develop a small supercapacitor that made hybridization possible without compromising the traditional Lamborghini driving experience. However, this technology is far from ready to be adopted into Lamborghini’s lineup full time, at least not to the extent that the company can create full-fledged series-production hybrid cars. So, Lamborghini needs to rewrite the book on electrification and hybridization – here’s how it plans to do it.
+
+Batteries are Too Heavy
+
+The biggest thing holding Lamborghini back from creating a series-production hybrid model is the overall weight that electrification poses.
+
+Batteries and electric motors are heavy, and all that extra weight would mean compromising the most important values that make a Lambo and Lambo – pure driving dynamics and agility. Unless battery technology evolves a great deal – to the extent that they are significantly lighter and smaller – a traditional lithium-ion battery isn’t an acceptable choice for Lamborghini to use in series-production hybrids.
+
+Riccardo Bettini, Lamborghini’s Head of R&D project management, acknowledges that electric power is the future, but because lithium-ion batteries are so heavy, “at the moment, it’s not the best solution.” He went on to say that
+
+“Lamborghini has always been about lightness, performance, enjoyment, and engagement. We need to keep that in our super-sports cars in the future.”
+
+That’s where supercapacitors come in.
+
+Lamborghini’s Super Capacitor Isn’t Ready for Series-Production Either
+
+The Lamborghini Sian FKP 37 is able to deliver a total of 808 horsepower thanks to its 6.5-liter V-8 and 48-Volt electric motor. The latter produces just 34 horsepower and weighs just as much in kg (about 74.95 pounds). A small supercapacitor is what sends power to that tiny electric motor and, while it doesn’t provide much, Lamborghini says it’s three times faster to charge than a lithium-ion battery of the same size. But, that’s also where the problems start, because Lamborghini’s current supercapacitor technology is just too small to deliver the true hybrid experience, and until it can actually replace a battery, it won’t be suitable either.
+
+2020 Lamborghini Sian specifications Engine V12, 60°, MPI (Multi Point Injection) Displacement 6,498 cm³ (396.5 cu in) Bore x Stroke 95 mm x 76.4 mm (3.74 x 3.01 in) Compression ratio 11.8 ± 0.2 Max power 774 hp @ 8,500 rpm Max torque 720 Nm @ 6,750 rpm + 40 Nm electric Electric motor Operating tension 48V Max operating current 600A Max Power 34 HP Max Torque 38 Nm Combined power 808 hp Weight to power ratio <1,98 kg/CV Transmission Electronically controlled all-wheel drive system (Haldex gen. IV) with rear mechanical self-locking differential Gearbox ISR (Independent Shifting Rods) gearbox with 7 speeds, shifting characteristic depending on drive select mode, electric motor works during the shifting and as boost Top Speed >350 km/h (217 mph) 0 to 62 mph <2,8 s
+
+Not all hope is lost, though, as the supercapacitor in the Sian is serving as a base for the next-generation of supercapacitor – one that might be able to give Lamborghini what it needs to power a true-to-life hybrid. In fact, Lamborghini and MIT are currently working on this conundrum, but the technology is still “at least two to three years away” from being ready for series production. That’s why we won’t see a series-production hybrid from Lamborghini until at least 2024 or 2025.
+
+Why Lamborghini’s Supercapacitor is Important and Will Play a Major Role in the Future
+
+The supercapacitor, despite being so small, is able to give the Sian enough power for a very limited EV range. Lamborghini has yet to announce exactly what range, but we know it can drive on electric power alone at speeds of up to 81 mph. What’s so special about the supercapacitor, though, is that it packs three times as much energy as a battery the same size and charges much quicker as well. So, it’s not only smaller and lighter but more energy-dense as well.
+
+“If we can capture and use energy much faster, the car can be lighter. We could also store energy in the bodywork, using the car as a battery, which means we can save weight.”
+
+In the Sian, the motor and supercapacitor are small enough to fit between the cockpit and the mid-mounted engine, and power is recuperated during braking and coasting. Future series-production models will feature larger supercapacitors and motors, but the idea behind them remains the same, and that’s where the future comes in.
+
+One of the biggest problems with hybrids is weight. Most hybrids are naturally heavier than their fuel-only counterparts because of the weight of batteries and electric motors. But, with Lamborghini ‘s supercapacitor technology, automakers could, in theory, produce hybrids that go further and charge faster. Using Lamborghini’s supercapacitor design instead of a battery, and the notion of storing energy in the bodywork could eventually lead to longer-range, faster charging EVs in general.
+
+Lamborghini’s EV and Hybrid Timeline
+
+Because of the overwhelming research and time required for Lamborghini (and MIT, for that matter) to develop its supercapacitor technology, hybrid and full-EV models are still years out.
+
+If things play out correctly, the brand’s first series-production hybrid could make its way to the market by 2024 or 2025.
+
+It’s also been said that an all-electric, four-seater GT would hit the market by 2025, but there’s more speculation to that than truth. That’s probably why Lamborghini insists that its target is still 2030 for a full-electric car, plus the firm wants to study how to “keep Lamborghini’s DNA and emotion,” while going all-electric.
+
+2019 Lamborghini Urus Lambo’s first SUV since the LM002 was discontinued in 1993 with just 328 models produced
+
+There is also word that a plug-in Lamborghini Urus PHEV is in the works and that it will borrow technology from the closely related Porsche Cayenne. How that plays out is still largely a mystery, but don’t expect the plug-in Urus to be quite as powerful or nimble as its gas-driven counterpart. With the technology already in play over at Porsche, the Urus PHEV could hit the market in the next few years. The overall timeline looks like this:
+
+2020 – Limited-production Lamborghini Sian FKP 37 launches
+
+2022 – Lamborghini Urus PHEV Launches
+
+2023 – Lamborghini and MIT perfect Supercapacitor technology
+
+2024 – first series-production Lamborghini hybrid launches
+
+2025 – Possible Lamborghini GT EV (Mid-range at best, probably in concept form
+
+2030 – first series-production Lamborghini EV Supercar launches
+
+After 2022, the entire timeline of what Lamborghini does relies solely on the development of its Supercapacitor technology. If it only takes a few years to put it all together; we could see the first series-production hybrids before the halfway point this decade. I wouldn’t hold my breath for that four-seater EV, though. And, even if it does happen, it will be in concept or limited-production form and won’t offer the type of EV range you’d expect.
+
+Lamborghini Will Use Sound Synthesizers
+
+I know, the whole idea of synthesizing sound sucks, but Lambo is convinced that it is required to ensure “maximum driver engagement.”
+
+So, even though your Lamborghini might be electric, it will still sound like it has a V-10 or V-12 under the hood.
+
+Apparently, Lamborghini has run various tests on this and found that engagement really does fall when feedback disappears:
+
+“We’ve tested with professional drivers in our simulator and switched the sound off,” said Lamborghini R&D’s Riccardo Bettini. “We know from the neurological signals that when you stop the sound, the engagement falls because the feedback disappears. We need to find the sound of Lamborghini for the future that can allow our cars to retain emotion and engagement.”
+
+So, don’t expect Lamborghini to give up the idea of sound synthesizing anytime soon.
+
+Source: Autocar

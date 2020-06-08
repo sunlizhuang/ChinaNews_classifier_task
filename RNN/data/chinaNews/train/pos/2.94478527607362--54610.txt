@@ -1,0 +1,42 @@
+AutoFlightX Nabs Investment From TDK Ventures
+
+February 5th, 2020 by Zachary Shahan
+
+AutoFlightX is yet another electric vertical takeoff and landing startup you haven’t heard of (unless you read this electric aircraft roundup from November 2019 or somehow ended up in another obscure corner of the internet). It is also an electric vertical takeoff and landing (eVTOL) startup that recently pulled in some venture capital investment and is eager to boast about it.
+
+In this case, it was TDK Ventures that put cash money into AutoFlightX. It’s not clear how much was invested, but this is the 4th investment from TDK’s $50 million CVC (corporate venture capital) fund.
+
+AutoFlightX is targeting commercial electric air cargo and air taxi flights. It is based in Munich, Germany. Some key specs for the company’s 50 kg Whiteshark eVTOL platform:
+
+payload capacity = 20 kg
+
+continuous cruising time = 2–5 hours
+
+AutoFlightX has other platforms in development as well, including one that can get up to 300 kg payload capacity. “Tian Yu, who is the former founder and CEO of Yuneec, started AutoFlightX in 2018 with a vision to transform air mobility. Yu subsequently assembled a world-class team of more than 100 engineers in Munich, Shenzhen and Shanghai to leverage the best of consumer drones and aviation with the goal of building the highest energy-efficient eVTOL vehicle.
+
+“The AutoFlightX team explored customer pain points in traditional industries such as mining, oil and gas and emergency response. In such scenarios, consumer drones didn’t satisfy the needs for vertical take-off, long-duration cruise and hovering while carrying large payloads, so the company began developing an eVTOL solution. AutoFlightX has already signed on several customers in the mining and inspection industries with their V40 Whiteshark platform that can carry up to a 20 kg payload. The AutoFlightX team has also recently completed their first full maiden flight of a 300 kg platform, which can deliver medicine and other time-sensitive supplies of up to a 100 kg payload. Their 1000 kg platform is currently under development, with plans for initial flights in 2020. AutoFlightX believes their 1000 kg platform will ultimately pave the path to air taxis, which will hold up to four passengers and have a range of >300 km with a single charge.”
+
+TDK’s CVC fund is targeting “innovative startups focusing on digital and energy transformation and contributing to sustainability” with its $50 million pot of cash. Imagine investing in Tesla back in 2008 or so. That’s the general idea as far as impact and results — or at least some decent fraction of what Tesla has achieved.
+
+“TDK’s multi-dimensional core competency in sensors, energy and power makes them our strongest partner so far,” AutoFlightX CEO & founder Tian Yu said. Translation: TDK gave us a lot of money and knows a bit about this stuff. You can give us money, too. (Full disclosure: I’d be thrilled if I started or worked at a promising eVTOL startup that just pulled in millions of dollars — presumably — of investment.)
+
+“As we look into the horizon of tomorrow’s mobility, we are committed to bringing high-endurance eVTOL vehicles with the best reliability and safety. We are thrilled to have TDK as our partner because they are world leaders in commercializing advanced technologies and supporting hard-tech entrepreneurs like us.”
+
+It does appear that TDK Ventures has a focused and informed interest in eVTOL technologies and companies with a path toward commercialization. “According to TDK Ventures’ Managing Director Nicolas Sauvage, the CVC sought companies that combine avionics and drone expertise with strong unit economics, paired with solid business models in the eVTOL space. For TDK Ventures, the ideal company would unlock a spectrum of use cases in inspection, cargo delivery and emergency responses, all without requiring an installed charging infrastructure base.”
+
+A test flight of the Autoflight V600 prototype was performed in 2019, testing of the product-grade eVTOL aircraft is expected in 2022, and full air taxi service is planned for 2025.
+
+For more on the many startups in this arena, check out our eVTOL, electric aircraft, and urban air mobility (UAM) archives.
+
+
+
+Follow CleanTechnica on Google News.
+
+It will make you happy & help you live in peace for the rest of your life.
+
+
+
+
+
+
+

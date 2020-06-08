@@ -1,0 +1,45 @@
+In Brief As the price of electricity rises in China, Bitcoin miners are heading to Central Asian countries.
+
+Kazakhstan and its neighboring country, Uzbekistan, offer especially cheap electricity.
+
+The countries are relaxing regulatory rules, too.
+
+Abundant coal, natural gas, cheap electricity, and sparsely populated and vast territory are making the countries of Central Asia a perfect fit for Bitcoin mining.
+
+Compared to the thermal power cost of over $0.06 per kilowatt hour in China, average electricity rates of $0.03 per kilowatt-hour in some central Asian countries, such as Kazakhstan and Uzbekistan, is becoming increasingly attractive for Chinese miners.
+
+Likewise, countries such as Uzbekistan, who offer increasingly open policies on cryptocurrency mining and trading, appear to be bringing what was once an “underground industry” to the fore.
+
+Eyes on Kazakhstan
+
+Wu Zheng, one of the earliest Bitcoin miners heading overseas, has his eye set on Kazakhstan where thermal electricity is abundant and cheap.
+
+“The cost of mining is mainly composed of machine costs, electricity rates, rentals for mining sites, operation and maintenance–mining machine costs and electricity take up the majority," Wu said. "The cost for mining machines is basically fixed. The biggest variable is electricity cost. In this sense, finding cheap electricity is the best way to increase profitability.”
+
+Take the latest-gen Antminer S17 pro for example: If electricity is $0.06/kWh, an S17 pro could generate a daily profit of $5.41; if electricity is $0.03/kWh, the same machine could generate $6.83 per day.
+
+Wu said his company has been using the latest, most powerful mining machines in China, but has been relocating older models, such as the S9, E10 and M3, to countries with cheaper electricity.
+
+“My mining farm (in Kazakhstan) is running Ebit E10 machines which deliver a hashrate of 18T with the power consumption at 1800W,” he said.
+
+Doing the math on mining
+
+In that case, an E10 generates $0.45 per day running at $0.06/kWh; if the electricity rates go down to $0.03/kWh, it could earn $1.75 per day, with a 288% increase in profit. Compared to the S17 pro above, it's easy to see how older mining models are more profitable using cheaper electricity overseas.
+
+There are reportedly 47 coal fields, coal-producing areas and coal-mining regions in Kazakhstan. Some 2% of the coal mined in Kazakhstan comes from open-pit mining, which is cheap and efficient. Kazakhstan also has the world’s eighth-largest coal reserves, with proven reserves of about 200 billion tons; oil reserves account for 5 billion tons, or some 3.2% of the world’s total proven reserves; Natural gas reserves are about 2 trillion cubic meters, or 1.5% of the world’s total. These reserves give the country huge potential for power generation.
+
+“In Kazakhstan, coal-fired power costs as little as $0.001 per kilowatt-hour because of the abundant coal source there,” Wu said. “In addition, private power generation is allowed in the country and the electricity we are using comes from private power plants.”
+
+Miners rewards come with risks
+
+While enjoying higher returns, miners like Wu also experienced great risks. For miners heading to Iran—where electricity is supposedly much cheaper—getting mining machines into the country is tricky. But for miners thinking about relocating to Kazakhstan, the problem is a weaker infrastructure. That means they have to build their mining farms from scratch, with immature heavy industry facilities.
+
+Finding a reliable partner who could provide stable electricity is another problem Chinese miners have to face in mining overseas.
+
+However, neither the risk of importing mining rigs, nor the difficulty of finding mines and stable electricity, compare with the risks posed by local policies. “In fact, we have not been recognized by the local government for our mining activities,” said Wu.
+
+Still, Central Asian countries have been showing some encouraging signs on Bitcoin mining.
+
+Last month, Kazakhstan’s neighbor Uzbekistan announced that it is establishing a national mining pool; miners who join the pool will enjoy lower electricity rates; the country recently launched its first licensed crypto exchange; and it has announced that it will exempt income obtained in crypto operations from taxation.
+
+[This story was originally published in 8BTC.com, and is shared by arrangement with that site. It has been edited to conform with Decrypt's style.]

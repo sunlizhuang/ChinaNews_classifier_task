@@ -1,0 +1,81 @@
+"[U]se any opportunity to criticize Hillary and the rest (except Sanders and Trump — we support them)," they read.
+
+The guidance had been circulated among a group of Russians who were covertly running a vast network of social media accounts seeking to divide Democrats and push the candidacy of Donald Trump. (The instructions were later found during special counsel Robert Mueller's investigation into Russian interference in the 2016 election.)
+
+Four years later, unhappy with Silicon Valley's efforts to curb the manipulation of its platforms, the Democratic Party has developed capabilities of its own to monitor and tackle online disinformation.
+
+The effort reflects Democrats' growing discontent with Silicon Valley executives like Mark Zuckerberg and highlights concerns that viral disinformation could have an impact on this year's election.
+
+"It's like algorithmic wars here, it's kind of crazy," a Democratic National Committee staffer who works on the Democrats' new counter disinformation team said on Saturday as preparations were underway in Des Moines. The staffer asked not to be identified due to the nature of their work and possibly being subjected to online harassment themselves.
+
+"Both Republicans and foreign actors, like Russia, have an incentive to divide the American electorate and may try to use the Iowa Caucus to further that goal," the DNC wrote in a "counter disinformation update" sent to campaigns on Thursday.
+
+Among the new weapons in the Democrats' online arsenal is a monitoring tool called "Trendolizer." When stories from websites known to peddle misinformation mention candidates and begin getting shares on social media, Trendolizer detects it and an alert is sent to the relevant campaigns.
+
+Another tool built in-house at the DNC monitors Twitter traffic. On Monday, it'll watch for misinformation about how and where to caucus. Variations of the word "rigged" had been loaded into system when CNN was shown it Saturday — attempts to undermine legitimate vote results using disinformation is something Democrats are watching out for.
+
+They're also watching out for caucus-related tweets that use the exact same text across multiple accounts — a tactic known as "astroturfing," which is used as part of information operations seeking to flood the zone with a specific message.
+
+Officials from the Iowa Democratic Party plan on posting responses to online activity on caucus night. Additionally, campaigns seeing suspicious activity have been asked to report it to the DNC's counter disinformation team that are in regular contact with representatives from the major social media companies and government agencies.
+
+A former Facebook employee
+
+Overseeing all things technology for the DNC is Nell Thomas. After working data analytics for Hillary Clinton's 2016 campaign, Thomas spent more than two years at Facebook before joining the DNC last May.
+
+Her knowledge of how a company like Facebook works from the inside has helped Democrats hold Big Tech's feet to the fire. In December, the DNC released a 2,500-word report assessing how Facebook, Twitter and Google (which owns YouTube) tackle disinformation. The report criticized Facebook for not promoting content from authoritative news sources.
+
+Nell Thomas, the DNC's chief technology officer and a former Facebook employee, is in Des Moines, Iowa, ahead of Monday's first-in-the-nation caucus.
+
+Thomas says that Facebook's internal incentive structure, which she says is still primarily driven by engagement numbers, creates "blind spots" for Facebook staff when thinking of the long-term effects of their platform and its impact on elections.
+
+A Facebook spokesperson pointed CNN Sunday to comments made by Zuckerberg who said that the company had made some changes in 2018 that resulted in a drop in overall engagement as the company wants to make sure people's time on the platform is "well-spent."
+
+The spokesperson added Facebook has teams dedicated to election and civic integrity whose goals are not based around engagement metrics.
+
+Thomas says many of her former Facebook colleagues are good, kind and thoughtful people, but she fundamentally disagrees with the company's refusal to fact-check ads from politicians. The DNC has previously said that Facebook's policy letting politicians to lie in ads would allow President Trump to mislead the American people "unimpeded.
+
+Robby Mook, Hillary Clinton's 2016 campaign manager, says misinformation makes Facebook money.
+
+When the company refused to take down a doctored video of House Speaker Nancy Pelosi last year , "it was clear they do not feel responsible for what goes on their platform," Mook told CNN on Saturday.
+
+"It's like a polluter who wants to dump toxic waste in a river and is happy to take home a profit but thinks they don't have to pay for cleanup," he added.
+
+Tech companies, particularly Facebook, have gone to some lengths to try to show they are doing something.
+
+Ahead of the 2018 midterm election, Facebook's communications team paraded national media through the company's "election war room."
+
+The war room, Facebook says, will be up and running for Monday's Iowa caucuses but is now called the "election operations center." The company will be in touch with local election officials in Iowa, federal agencies, and indeed, the Democratic Party.
+
+But much of that work has been overshadowed by two aforementioned decisions: refusal to remove a doctored video of Speaker Pelosi and a refusal to fact-check ads from politicians.
+
+Since 2016, Twitter, Google and YouTube have also all made efforts to counter manipulation of their platforms with a focus around elections.
+
+Tech companies now meet a few times a year with government agencies, including the FBI and DHS, to discuss election integrity efforts. The most recent meeting, details of which have not previously been reported, was hosted at Microsoft's and LinkedIn's offices in Sunnyvale, California, in December, CNN has learned.
+
+Russia's disinformation efforts targeting the US were discussed, but so too were threats from Iran and Chinese disinformation efforts targeting protesters in Hong Kong, a person familiar with direct knowledge of the meeting told CNN.
+
+Presidential misinformation
+
+In recent weeks the DNC told campaigns that "hashtags casting 2020 presidential candidates in a negative light" had reached Twitter's coveted trending section.
+
+Engaging with the hashtags, even to push back against them, could help promote them further, the DNC warned. The committee instead advised campaigns to encourage surrogates "to promote a positive alternative" hashtags.
+
+While the DNC sends presidential campaigns information about what is being said about their candidates from conspiracy sites and trolls, the normal advice to campaigns is not to engage.
+
+Following narratives from the internet's underbelly, however, can help provide context and the ability to more appropriately respond when fringe conspiracies reach a tipping point and make it to the mainstream.
+
+In 2016, the "Pizzagate" conspiracy theory led to an armed man showing up at a Washington, DC, pizza shop. Believers imagined a pedophilia ring supposedly being run out of the pizza ship that somehow involved Hillary Clinton and other Democrats.
+
+Since 2016, there have been multiple congressional hearings about the challenges posed by misinformation and disinformation.
+
+Though often used interchangably, there is a difference between "disinformation" and "misinformation." Misinformation is simply information that is wrong; people spreading it may believe it is correct. Disinformation is intentional — it is created and spread by people who know it is not correct.
+
+The distinction is one only of intent — both result in the public being misinformed and so Democrats are also using their monitoring systems to engage with their supporters who may be unintentionally spreading false information.
+
+A possible example of misinformation came late last month when some Democrats began tweeting that the DNC was changing caucus locations without telling supporters, Mandy McClure, the Iowa Democratic Party's communications director, stepped in to say every campaign is notified of any changes.
+
+Highlighting the scale of the challenge, the tweet with the misinformation was retweeted more than 1,000 times, while McClure's tweet had almost no engagement.
+
+The DNC's counter disinformation has already had some wins — it has identified coordinated accounts that the social media platforms have removed, as CNN has previously reported . But the DNC staffer CNN spoke to Saturday said that their biggest challenge will likely not come from anonymous bots and blogs.
+
+"The most powerful person in the country is a disinformation agent," he said, exasperated.

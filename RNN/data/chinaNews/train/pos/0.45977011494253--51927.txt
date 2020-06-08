@@ -1,0 +1,51 @@
+While there is some argument as to whether the U.S. has fully adopted 5G wireless networks, most experts say it's here and ready to develop as the country's new wireless standard.
+
+Continue Reading Below
+
+Some Americans witnessed the capabilities of 5G at Super Bowl LIV, where Miami's Hard Rock Stadium was set up with the technology to give fans a new, interactive spectator experience.
+
+5G, or fifth-generation, technology has been in the works for nearly a decade, and limited service in select cities began rolling out as early as 2018, though the U.S. still has a long way to go to reach the full potential of 5G.
+
+SENATORS INTRODUCE $1B PLAN TO STEP UP AMERICA'S 5G GAME
+
+"5G itself isn’t a magic bullet; it’s a misunderstanding to assume 5G will immediately make everything fast," Jake Moskowitz, head of the Emodo Institute, a research center at telecom innovator Ericsson Emodo. "If I get a 5G phone right now, even if I live in a 5G network, I’m unlikely to notice much of a change. That’s because 5G is really an enabling technology, and for 5G to have a big impact, it requires multiple 'complementary technologies' to come along with it, and those are not in place yet."
+
+Verizon, AT&T and T-Mobile began offering 5G in more cities throughout the country in 2019, and the prevalence of the latest technology is expected to become increasingly common in 2020, especially in metropolitan areas.
+
+Verizon first "turned on" its 5G wireless service in Chicago and Minneapolis a week earlier than expected on April 3, 2019.
+
+"When customers are actually able to access the network, they’ll be rewarded with incredibly fast download speeds from their new mobile connection," Verizon said in a press release when it announced the first 5G rollout.
+
+The company added, however, that "unfortunately, [users] won’t be able to roam far from the hot spots to use it, as the range is currently extremely limited," which is why some experts say that the version of 5G carriers like Verizon are advertising isn't really 5G, but an enhanced version of 4G.
+
+ANTI-5G GROUP PLANS GLOBAL PROTEST
+
+4G, or fourth-generation wireless, has been America's wireless standard for the last decade or so, and it requires slower radio-wave frequencies that can travel over long distances and penetrate large objects, which 5G can't yet do because it delivers faster wavelengths that have trouble penetrating through buildings and other objects.
+
+These faster frequencies require updated infrastructure and "complementary technologies," Moskowitz said, that the U.S. is not fully equipped with yet. But, this technology is advancing rapidly.
+
+The infrastructure necessary for 5G includes antennas that connect to cell towers to deliver faster radiofrequency waves, which is why 5G is available in densely-populated cities.
+
+Additionally, 5G wireless connection requires not only 5G infrastructure but 5G-capable phones. Phone makers like Huawei and Samsung just started selling 5G-capable phones while U.S. tech giants like Apple and Google have yet to launch their own.
+
+"5G evolution is likely to feel gradual at first. We may find ourselves at some point wondering what all the fuss is about," Moskowitz said. "But then there will be an inflection point after which we’ll barely be able to remember the 4G world, and any company that hasn’t already adjusted at that point risks being too late to respond to the innovative new companies that will race to fill the void."
+
+GET FOX BUSINESS ON THE GO BY CLICKING HERE
+
+And even if 5G phones and infrastructure have not yet reached their full potential in the U.S., experts argue that even limited 5G is still 5G.
+
+"It's 100[-percent] true that [U.S. carriers] are already supporting 5G," Advanced RF Technologies, Inc. Chief Operating Officer Arnold Kim told FOX Business.
+
+He added that while "none of the carriers deploy all the capabilities of 5G," just like the generations of wireless technology that came before, "this is a very long-lived cycle."
+
+"We don't transition overnight. It's evolution to an extent," Kim said, adding that he thinks the U.S. has made "an incredible amount of progress" over a short period of time.
+
+Some policymakers and tech experts have concerns that China will outrun the U.S. in what many have called the global "race to 5G." Particularly, the Chinese-subsidized tech giant Huawei has made significant strides in developing 5G-capable phones and wireless technology.
+
+GET FOX BUSINESS ON THE GO BY CLICKING HERE
+
+Also, the U.K. agreed to allow Huawei to help build 35 percent of the country's 5G infrastructure despite U.S. concerns that the company poses a risk to surveillance and intelligence theft.
+
+But, many U.S. lawmakers believe America should have an alternative to Huawei.
+
+"Clearly, Huawei is at the center of a very complex issue in terms of cybersecurity, and the U.S. is trying to formulate a strategy that is like Huawei," Kim said. "But there are a bevy of very large, successful, strong alternatives to Huawei. I have no concerns about the availability of best-of-grade, leading-edge, 5G tech for America."

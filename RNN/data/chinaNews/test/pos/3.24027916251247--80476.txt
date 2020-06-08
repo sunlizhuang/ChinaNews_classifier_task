@@ -1,0 +1,123 @@
+Middle East, Americas, Asia, Europe
+
+22 January 2020
+
+​French version Chinese version
+
+Artificial Intelligence (AI) is changing how organisations perceive, use and compete for talent.
+
+The global talent divide, between high income countries’ and the rest of the world, is widening.
+
+Switzerland tops this year’s ranking, followed by the United States, its highest position yet. Singapore is the third most talent-competitive country.
+
+While the age of Artificial Intelligence (AI) presents tremendous benefits for humanity, AI development and the resources required for are unevenly distributed. Without proper safeguards and policies, AI may reinforce the digital divide, according to key findings from the 2020 Global Talent Competitiveness Index (GTCI) report launched by INSEAD, a partner and sponsor of the United Nation’s Sustainable Development Goals (SDGs) Tent in Davos, Switzerland today.
+
+AI skills are scarce and unequally distributed across industries, sectors, and nations. However, the report’s analyses found that, with the right policies and approaches, AI may also provide significant opportunities for emerging markets to leap ahead in talent competitiveness and potentially become ‘global delivery centres’ for AI applications. AI technologies could also play a key role in solving seemingly intractable global issues such as poverty, endemic diseases, climate change and terrorism.
+
+This year’s GTCI report explores how the development of AI is not only changing the nature of work but also forcing a re-evaluation of workplace practices, corporate structures and innovation ecosystems. As machines and algorithms continue to advance and enable a growing set of tasks and responsibilities, jobs will be affected and in some cases reinvented. The right talent is required not only to adapt but to capture value from this transformative technology. These changes and other AI influence including new opportunities and challenges are covered in specific chapters in the report.
+
+AI as a force for good
+
+The GTCI was launched in one of three sessions hosted by INSEAD’s Hoffmann’s Global Institute for Business and Society in the SDG Tent. It will be followed by a panel discussion taking a deeper look at the impact of AI from a productivity standpoint as well as its ethical and social implications. A third session, also hosted by the Hoffmann Institute, will convene government and business leaders to explore ways in which policy-makers and industry can work together to manage the growing inequalities at the global level.
+
+Katell Le Goulven, The Executive Director of the INSEAD Hoffmann Global Institute for Business and Society, noted that, “AI is changing many facets of business and society and, if properly used and governed, has potential to foster sustainable development. The GTCI report argues that with multi-stakeholder cooperation the technology could help achieve some of the SDGs such as those related to health (via personalised remote diagnosis and big data analysis to track and reduce endemic disease). But it also points to the imperative of closing the global digital skills gap to harness the potential of AI for good.”
+
+AI’s ability to be part of this solution and become a force for good is central to the GTCI report. This year, the report was developed by INSEAD in partnership with the Adecco Group and Google.
+
+Specifically, GTCI data and analyses show that:
+
+The emergence of AI in the workplace requires a massive reskilling of the workforce at all levels
+
+When introducing AI to organisations, communities or societies acceptability is critical for sustainability
+
+Cities are striving to become AI hubs and attract relevant talent.
+
+When it comes to identifying skills needed in the age of AI, much of the focus to date has been on lower skilled jobs (easily delegated to machines) and jobs requiring sophisticated skills. However, the GTCI 2020 report brings an additional dimension considering AI in the context of augmented work requiring mutual contributions between humans and machines and the skills needed to fulfil and manage these hybrid activities.
+
+While new types of collaborations between humans and machines are being developed and AI permeates economies and societies, global talent competitiveness is being redefined as countries race to best position themselves to benefit from the AI revolution.
+
+AI is increasingly the focus of global competition. The United States, China, the European Union, and several other leading economies have put forth AI strategies, each with different approaches and priorities with regard to deployment, development, ethics, regulation, and global cooperation. But AI talent strategies are not solely a matter for nation states. The conversation progresses at all levels, including within industry, where the competition for talent continues to intensify, and also city and local governments.
+
+“There is little question that AI is a game-changer in every industry and sector. At this critical juncture, the race for AI-capable and AI-compatible talent and the quest to develop the skills required will only intensify,” commented Bruno Lanvin, Executive Director of Global Indices at INSEAD, and co-editor of the report, noting that, “As talent becomes increasingly fluid and mobile, some early AI adopters could leverage this to become more talent competitive, however there are also signs that the ubiquity of AI is amplifying current imbalances and inequalities.”
+
+“Without careful attention to rules and principles that should guide AI research, development, and deployment, the gap between winners and losers in this new AI world could create an unsurpassable gap for other countries, especially emerging nations”, he said.
+
+Felipe Monteiro, INSEAD Senior Affiliate Professor of Strategy, Academic Director and co-editor of the report, said: “As the adoption of AI moves beyond hype, current education and skills acquisition will be transformed as well, implying that formal and informal learning structures will evolve to meet the needs created by this very same AI-driven world. This emphasises the critical role of vocational training and lifelong learning in the workforce of the future.”
+
+Alain Dehaze, CEO of the Adecco Group said: “The human role in the world of work is being augmented by technology rather than substituted by it. At the Adecco Group we see AI already generating tremendous opportunities, creating many new jobs, including ones that don’t yet exist, and allowing employees to do more uniquely human tasks and activities.
+
+“To thrive in this rapidly changing environment, new skills and competencies are vital. That means that organisations and Governments must refocus on upskilling and reskilling, to help the workforce of today become a workforce ready for the opportunities the future will bring.”
+
+Kent Walker, Senior Vice President of Google, said: “AI holds incredible potential. Like ground-breaking technologies before it, AI also will affect people’s jobs and change the nature of work. We need to anticipate these changes and take steps to prepare for them. Business leaders, governments, educators, trade unions, and others have a responsibility to together manage these changes and shape a future that works for everyone”.
+
+GTCI 2020
+
+Co-editors of the GTCI, INSEAD Professor Felipe Monteiro and Executive Director of Global Indices Bruno Lanvin, discuss this year's rankings and the theme of Global Talent in the Age of Artificial Intelligence with INSEAD Knowledge.
+
+
+
+In 2020 the top-ranking positions in the Global Talent Competitiveness Index continue to be held by high-income countries. The index reflects a high correlation between GDP per capita and GTCI scores. European countries continue to dominate holding 17 of the top 25 positions. Switzerland maintains the number one spot ahead of the U.S. which was 2nd – the country’s highest ranking in the GTCI so far. Not far behind was Singapore (3rd) followed by Northern European countries such as Sweden (4th), Denmark (5th), Netherlands (6th) and Finland (7th).
+
+At the other end of the scale, Yemen came in 132nd below the African countries of Angola, the Democratic Republic of Congo and Burundi.
+
+This year’s top-ranked city is New York, ahead of London in 2nd place and Singapore in 3rd. Of the remaining cities in the top 10, three are from the U.S. - San Francisco (4th), Boston (5th) and Los Angeles (9th); two are from Europe - Paris, (7th) and Munich (10th); and two are from Eastern Asia - Hong Kong (6th) and Tokyo (8th).
+
+In the top quartile all cities but two are located in high income countries. The ranking also clearly shows that that cities that do well in the GCTCI tend to be in countries that also do well.
+
+Long term trends
+
+Similar to last year’s report the 2020 edition includes a longitudinal analysis of talent competitiveness based on the results of all GTCI editions since 2013. This longer-term scrutiny makes it easier to spot general trends that may be missed in a year-by-year analysis and allows for some smoothing of annual fluctuations.
+
+The main finding from this analysis is the significant gap separating the talent champions from the rest of the global community. And, more worryingly, that this gap appears to be increasing with high-income countries improving their scores over the years while the opposite seems to hold for most lower-income nations. Monitoring this trend will be critically important to effectively address this persistent talent divide in the future.
+
+Of course, not all countries fit that pattern. One notable exception is Indonesia, a lower-middle-income country which has risen 20 places in the rankings since 2015 to 53rd spot. Two other impressive lower-middle income talent movers over this period are Ghana which moved from 83 to 74 and India which rose 10 spots, to 66. The analysis indicated that some emerging countries, including China, Costa Rica, and Malaysia, were leveraging AI opportunities to become talent champions in their respective regions.
+
+2020 Top 10 countries
+
+1. Switzerland 6. Netherlands 2. United States 7. Finland 3. Singapore 8. Luxembourg 4. Sweden 9. Norway 5. Denmark 10. Australia
+
+2020 Top 10 cities
+
+1. New York 6. Hong Kong 2. London 7. Paris 3. Singapore 8. Tokyo 4. San Francisco 9. Los Angeles 5. Boston 10. Munich
+
+For more information.
+
+Download the report.
+
+Download the infographics.
+
+Follow us on Twitter #GTCI for updates
+
+###
+
+About the Adecco Group
+
+The Adecco Group is the world’s leading HR solutions company. We believe in making the future work for everyone, and every day enable more than 3.5 million careers. We skill, develop, transform and hire talent in 60 countries, enabling organizations to embrace the future of work. As a Fortune Global 500 company, we lead by example, creating shared value that fuels economies and builds better societies. Our culture of inclusivity, entrepreneurship and teamwork empowers our 34,000 employees, who voted us number 11 on the Great Place to Work® - World’s Best Workplaces 2019 list. The Adecco Group AG is headquartered in Zurich, Switzerland and listed on the SIX Swiss Exchange (ADEN). The group is powered by ten global lead brands: Adecco, Adia, Badenoch & Clark, General Assembly, Lee Hecht Harrison, Modis, Pontoon, Spring Professional, Vettery and YOSS.
+
+Press Office
+
+media@adecco.com
+
++41 (0) 44 878 87 87
+
+www.adeccogroup.com
+
+About Google Inc.
+
+Google is a global technology leader focused on improving the ways people connect with information. Google’s innovations in web search and advertising have made its website a top Internet property and its brand one of the most recognized in the world. Google is a trademark of Google Inc. All other company and product names may be trademarks of the respective companies with which they are associated.
+
+Kay Oberkeke
+
+kayo@google.com
+
++491732785293
+
+https://about.google/
+
+About INSEAD, The Business School for the World
+
+As one of the world’s leading and largest graduate business schools, INSEAD brings together people, cultures and ideas to develop responsible leaders who transform business and society. Our research, teaching and partnerships reflect this global perspective and cultural diversity.
+
+With locations in Europe (France), Asia (Singapore), the Middle East (Abu Dhabi), and now North America (San Francisco), INSEAD's business education and research spans four regions. Our 165 renowned Faculty members from 41 countries inspire more than 1,300 degree participants annually in our MBA, Global Executive MBA, Specialised Master’s degrees (Executive Master in Finance and Executive Master in Change) and PhD programmes. In addition, more than 11,000 executives participate in INSEAD Executive Education programmes each year.
+
+INSEAD continues to conduct cutting-edge research and innovate across all our programmes. We provide business leaders with the knowledge and awareness to operate anywhere. Our core values drive academic excellence and serve the global community as The Business School for the World.

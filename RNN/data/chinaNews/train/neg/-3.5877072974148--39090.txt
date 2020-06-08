@@ -1,0 +1,15 @@
+Researchers across three different continents have already started to develop a vaccine for the epidemic Coronavirus due to which the death toll now stands at over 100 in China. The total number of confirmed coronavirus cases in China stands at over 5000.
+
+Given the gravity of the situation, computer programmers in a tech firm, BlueDot, are making use of AI and machine learning to detect the warning signs of Coronavirus, reports ET.
+
+SEE ALSO: Watch out for this extremely fake, weirdly racist viral post about coronavirus
+
+Although the Chinese authorities confirmed the identity of the Coronavirus earlier this month, it was a Canadian firm, named BlueDot that first specialized in surveillance of the infectious disease. BlueDot predicted the outbreak of Coronavirus during the end of December 2019 with the help of AI-powered system. This AI system did thorough research and processed large amounts of data around animal and plant disease networks, news reports in websites, government documents, and other online sources. This, in turn, helped warn the clients and people against traveling to zones like Wuhan in China where the virus was widespread.
+
+Moreover, “global airline ticketing” data was also used to predict when the virus would spread to Seoul, Bangkok, Taipei, and Tokyo. Different Machine Learning and natural language processing techniques were used to develop models that can process large amounts of data in real time. Results that are produced by the AI system are then analysed by trained epidemiologists who pick out the conclusions and attach different cases with a certain risk factor . Kamran Khan, founder and CEO, BlueDot, stated, “We know that governments may not be relied upon to provide information in a timely fashion. We can pick up news of possible outbreaks, little murmurs or forums or blogs of indications of some kind of unusual events going on”.
+
+Since the Coronavirus continues to spread in China, researchers and health officials across the globe have started to monitor health cases. For instance, Facebook has reportedly begun restricting its employees from travelling to China because of the existing coronavirus outbreak. Facebook is the first tech giant to have restricted the travel of its employees over the epidemic disease. People planning to go to the country would have to get a specific approval and state a valid reason as to why they want to visit the country.
+
+As far as India is concerned, two suspected cases have been reported in China and Bihar. The Health Ministry of Rajasthan recently reported a suspected case of the Coronavirus in the state. According to the state health minister, Raghu Sharma, the suspected patient is presumably infected by the 2019 novel Coronavirus (2019-nCoV). He’s currently being monitored in isolation at Jaipur’s SMS Hospital and had recently returned to India after completion of his MBBS course in China. A girl patient in Bihar who recently visited China has also been reported as a suspected case of the Coronavirus.
+
+SEE ALSO: Your Genes Don’t Really Do Much To Predict Your Health: Here’s Why

@@ -1,0 +1,115 @@
+by Charles Hugh-Smith
+
+If we accept what is known about the virus, then logic, science and probabilities all suggest we brace for impact.
+
+Here’s a summary of what is known or credibly estimated about the 2019-nCoV virus as of January 31, 2019:
+
+1. A statistical study from highly credentialed Chinese academics estimates the virus has an RO (R-naught) of slightly over 4, meaning every carrier infects four other people on average.
+
+This is very high. Run-of-the-mill flu viruses average about 1.3 (i.e. each carrier infects 1.3 other people while contagious). Chris Martenson (PhD) goes over the study in some detail in this video.
+
+Let’s say the study over-estimates the contagiousness due to insufficient data, etc. Even an RO of 3 means the number of infected people rises geometrically (parabolically).
+
+This matters because it negates any plan to track every potentially infected person who came in contact with a carrier.
+
+Coronaviruses tend to be contagious in relatively close contact (within two meters / six feet) but masks may not be enough protection, as it may spread by contact with surfaces and through the eyes.
+
+All available evidence supports the conclusion that this virus is highly contagious, i.e. it isn’t that difficult to catch.
+
+2. Along with its contagiousness, the most consequential feature of this virus is thatasymptomatic carriers can transmit it to other people, who will also be unaware they’ve been infected with the pathogen.
+
+This means carriers have no reason to self-quarantine until they develop symptoms, which may be a week or more after they’ve begun spreading the virus to others.
+
+It’s easy to imagine a situation where an asymptomatic carrier from Wuhan took a flight to Beijing, infecting passengers and people in the airport, who then got on flights going to international destinations, where a few days later they become asymptomatic transmitters of the virus.
+
+(The passenger from Wuhan might also have boarded a flight to the U.S. in Beijing, before flights from Beijing were restricted.)
+
+By the time the initial individual carrier from Wuhan develops symptoms, the virus has already gone through two geometric expansions and everyone infected has no idea they even have the virus.
+
+Common sense suggests that airplanes, airports, crowded markets, elevators–any confined space where a number of people might pass through a two-meter contagious circle around the carrier– might result in a contagion rate far above 4.
+
+It seems entirely possible for one carrier in crowded, constricted areas to infect 12 people, who might infect 12 others. If these 144 individuals infect 12 others, that’s 1,728 infected people from one carrier.
+
+That may sound extreme, but it’s easy to imagine 100+ people passing within two meters of a carrier in crowded venues or touching surfaces just touched by the carrier. It could be that only one in ten exposed people catch the virus, but if the carrier is in close proximity to 120 people, that means 12 individuals will contract the virus.
+
+3. Nobody seems to be tracking the origin point of travelers. If an asymptomatic carrier from Wuhan took a train or flight to Beijing last week (exposing other passengers to the pathogen) and then boarded a flight from Beijing to SFO (San Francisco), the presumption would be that the traveler is from Beijing.
+
+Tens of thousands of people have boarded flights in China over the past month and deplaned in international destinations. The likelihood that some consequential percentage of these travelers originated from Wuhan, or were infected by someone from Wuhan, is high.
+
+It’s basically impossible to thread these three points together and not conclude that a massive expansion of the virus is about to manifest in dozens of international destinations.
+
+Put another way: this virus is a nearly ideal combination of contagiousness and asymptomatic transmission that enables a rapid spread of the virus via people who have no idea they’re carriers.
+
+4. Locking down major cities is a good strategy to contain the spread of the virus if the lockdown outlasts the contagious period of every carrier–say, two weeks–and the lockdown isn’t porous enough to enable an RO of above 1. (Reducing the RO to 1.5 will still enable an expansion of asymptomatic carriers.)
+
+But given that 5 million people already left Wuhan, and some consequential percentage are likely to be carriers, then this doesn’t stop all those travelers from initiating geometrically expanding epidemics in all Chinese cities that aren’t locked down.
+
+As I noted in a recent blog, a very large number of non-resident migrant workers from rural, impoverished western China live and work in every major Chinese city. Once their ability to make a living in the informal economy is impaired, their only choice is to either return to their home village/town or seek work in a city that hasn’t been locked down.
+
+This mass movement of informal-economy workers more or less insures the virus has spread far and wide from Wuhan long before the city was fully locked down.
+
+Locking down Beijing and Shanghai might limit the spread of the virus in these mega-cities, but it won’t stop the virus from spreading to every city that has yet to be fully locked down.
+
+These conclusions are drawn from what is already known about the virus. There would have to be a complete revocation of all that is known to change the parabolic trajectory of the epidemic.
+
+5. The mortality rate of the virus is hard to pin down for a number of reasons. One is that mortality is a time-series, meaning counting those who have died isn’t an accurate measure of all those who are infected who may die in the near future.
+
+Furthermore, the official totals are suspect, as numerous anecdotal reports have come out indicating people who died were mis-classified as victims of “pneumonia.” Other reports indicate the overwhelmed healthcare system in Wuhan has been sending corpses to be cremated without proper identification of the cause of death.
+
+It appears Chinese officialdom is reverting to the same tactics used in 2003 to suppress data about SARS and downplay the dangers of the pathogen. It seems highly unlikely that the death totals being announced are accurate, and highly likely that the totals are a fraction of actual deaths.
+
+There isn’t enough trustworthy data to estimate the mortality rate of the virus, but even the official totals, when coupled with the number of patients in intensive care, suggests a higher rate of mortality than typical flu viruses but less than SARS 9%.
+
+What’s worrisome is the official attempt to downplay the danger of the virus naturally reduces the incentive to be extra-cautious, self-quarantine, etc.
+
+In effect, under-reporting the true mortality rate is actually encouraging the spread of the disease by diminishing the resolve of those worried about dying to be extra-cautious.
+
+If early evidence that a cocktail of anti-viral and HIV medications can reduce mortality is confirmed in large-scale trials, that good news has to tempered with the stipulation that these drugs don’t reduce the risks of contagion; the expectation of a ready cure will also act to reduce the incentives to be extra-cautious. This expectation of a ready cure may be premature, but even if the cocktail meets high expectations, it doesn’t mean the virus won’t spread and sicken those who catch it.
+
+If the cocktail only works on certain classes of patients or is ineffective in some cases, the presumption that a 100% cure is now available could actually accelerate the contagion as authorities and individuals clamor for an immediate “return to normal life.”
+
+Authorities are like the officers on the Titanic who were tasked with both reassuring the passengers everything was under control and urging them into the lifeboats: you can’t tell everyone the risk is low and everything’s under control but it’s also high enough that you better get in a lifeboat. This is a classic double-bind. In the confusion, few understand the risk remains high and act accordingly.
+
+6. Given all this, it seems inevitable that the handful of cases outside China will expand rapidly in the weeks ahead, and the impossibility of tracking all those who came in contact with carriers means the spread of the virus cannot be contained except by locking down all transportation and cities where the virus has spread.
+
+7. Restrictions are half-measures. U.S. travel bans, for example, exempt U.S. citizens / green card holders and their immediate families. This amounts to thousands of people who will be allowed into the U.S. from China with a caution to monitor themselves for 14 days.
+
+As noted earlier, banning flights from Wuhan is equally porous, as carriers of the virus could fly to another city in China and catch a flight to the U.S. from a supposedly “safe” city.
+
+8. As I mentioned in the blog a week ago, a large number of Chinese people work overseas, and they will be returning to their jobs this coming week, as the official New Year’s holiday ended 2 February. While some airlines have stopped flights to and from China, not all airlines have done so. So these workers have a number of ways to get back to their overseas jobs: catch a flight to somewhere outside China and then catch a flight to Europe, Africa, the U.S. etc.
+
+If you’re not sick, or only have the sniffles, you don’t want to be stuck in China. You want to get back to your job. If you do have the sniffles, you wear a mask and take over-the-counter medications to reduce fever. You tell yourself the risk of having the coronavirus is low and so you proceed on that basis.
+
+9. The quarantines in China are more porous than advertised. Thousands of people are coming and going into quarantined cities every day. How long can China quarantine tens of millions of people before supplies are exhausted and the financial pain becomes unbearable? If the quarantine ends and there is still a pool of carriers in the city, the virus will quickly re-emerge. The quarantine is only effective if literally every last carrier of the virus either dies or recovers and is no longer contagious.
+
+If 100 asymptomatic infected people move into the city after the quarantine is lifted, this pool of carriers will re-introduce the virus, which will spread anew.
+
+Quarantining a few cities and leaving hundreds of other cities, towns and villages as reservoirs of the virus insures the virus will return to the quarantined cities as soon as the restrictions are lifted.
+
+To stop the spread of the virus, every community, village, town and city in the entire nation would have to be locked down.
+
+The horse already left the barn a month ago, and so closing the barn door now has little effect. Five million people already left Wuhan and tens of thousands have already traveled to dozens of other countries. The virus can no longer be contained with half-measures. Yet half-measures are all the authorities are willing to impose.
+
+Nassim Taleb co-authored a paper (download available on his site) that explained why the only way to limit the spread of the virus is to severely limit connectivity of people and transport: the more connections exist, the greater the number of avenues for the virus to spread.
+
+If China reduced connections with the rest of the world to zero, even for a month, the financial impact would trigger a global recession due to the fragility of the global economy and its dependence on China. Since authorities are unwilling to risk a global depression, they pursue half-measures which insure that multiple pathways for the pathogen to spread remain open.
+
+10. The general assumption in the U.S. is that this will all blow over and the virus will burn itself out as a result of the Chinese quarantines and U.S. travel restrictions. This is akin to passengers on the Titanic looking around 10 minutes after the minor collision with the iceberg and seeing zero evidence the ship was in danger of sinking. Yet the ship’s sinking was already inevitable despite the lack of visible evidence.
+
+For the virus to burn itself out, all of these conditions must hold: only a handful of the tens of thousands of people who’ve landed in the U.S. from China over the past month are infected with the virus, and virtually every one of the infected people, despite having no symptoms, will rigorously self-quarantine themselves for 14 days to insure they won’t infect anyone else.
+
+Furthermore, these carriers can’t have transmitted the virus to others on their airline flight, in the airport, in baggage claim, in Immigration Control, in the subway, etc. before they started their rigorous 14-day self-quarantine. In other words, not one person exposed to the virus caught it.
+
+In addition, those expecting the virus to burn itself shortly must assume that no one slipping through the exceedingly porous restrictions will be an asymptomatic carrier, and that any asymptomatic carriers that do slip through will not have any close contact with other people.
+
+Lastly, those expecting the virus to burn itself shortly must assume that the virus will not mutate into a more contagious or deadly form, even though viruses mutate at very high rates: the more people carry the virus, the greater the opportunities for a mutation to occur that can be spread to other hosts.
+
+None of these assumptions are even remotely realistic.
+
+Neither is the expectation that an effective vaccine will be ready for mass inoculations in a month or two. Realistic timelines for an effective vaccine are four to six months for development of a vaccine, then additional months to test its safety amd effectiveness and more months if all goes well to produce hundreds of millions of doses of the vaccine, and then more time to distribute the vaccines.
+
+It’s natural to grasp at straws in crisis, and natural to take every false dawn for sunrise. Announcements that the rate of infection is slowing will be taken as evidence the virus will soon be completely under control, when a decline from RO 4 to RO 3 or RO 2 doesn’t mean the virus is about to disappear; all it means is the rate of expansion has declined. Premature announcements of a cure will encourage a complacent expectation of a quick return to “normal life” that will be severely challenged by the “Wave Two” global expansion of the virus.
+
+The economic, political and social consequences of the extreme measures required to control the spread of the virus (total lockdown of an entire country’s transportation systems)–or the failure to pursue such extreme measures, enabling the spread of the virus–are the second-order effects I’ve been exploring in recent blog posts: consequences have their own consequences.
+
+If we accept what is known about the virus, then logic, science and probabilities all suggest we brace for impact.

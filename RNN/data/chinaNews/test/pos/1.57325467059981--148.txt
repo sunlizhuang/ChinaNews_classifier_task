@@ -1,0 +1,33 @@
+Today we will run through one way of estimating the intrinsic value of China Datang Corporation Renewable Power Co., Limited (HKG:1798) by taking the expected future cash flows and discounting them to today's value. I will be using the Discounted Cash Flow (DCF) model. Don't get put off by the jargon, the math behind it is actually quite straightforward.
+
+We generally believe that a company's value is the present value of all of the cash it will generate in the future. However, a DCF is just one valuation metric among many, and it is not without flaws. Anyone interested in learning a bit more about intrinsic value should have a read of the Simply Wall St analysis model.
+
+View our latest analysis for China Datang Corporation Renewable Power
+
+The calculation
+
+We're using the 2-stage growth model, which simply means we take in account two stages of company's growth. In the initial period the company may have a higher growth rate and the second stage is usually assumed to have a stable growth rate. To begin with, we have to get estimates of the next ten years of cash flows. Where possible we use analyst estimates, but when these aren't available we extrapolate the previous free cash flow (FCF) from the last estimate or reported value. We assume companies with shrinking free cash flow will slow their rate of shrinkage, and that companies with growing free cash flow will see their growth rate slow, over this period. We do this to reflect that growth tends to slow more in the early years than it does in later years.
+
+A DCF is all about the idea that a dollar in the future is less valuable than a dollar today, so we discount the value of these future cash flows to their estimated value in today's dollars:
+
+10-year free cash flow (FCF) estimate
+
+2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 Levered FCF (CN¥, Millions) -CN¥790.3m CN¥323.5m CN¥482.3m CN¥650.3m CN¥811.9m CN¥956.9m CN¥1.08b CN¥1.18b CN¥1.27b CN¥1.34b Growth Rate Estimate Source Analyst x3 Analyst x2 Est @ 49.09% Est @ 34.83% Est @ 24.85% Est @ 17.86% Est @ 12.96% Est @ 9.54% Est @ 7.14% Est @ 5.47% Present Value (CN¥, Millions) Discounted @ 14% -CN¥692.0 CN¥248 CN¥324 CN¥382 CN¥418 CN¥431 CN¥426 CN¥409 CN¥384 CN¥354
+
+("Est" = FCF growth rate estimated by Simply Wall St)
+
+Present Value of 10-year Cash Flow (PVCF) = CN¥2.7b
+
+The second stage is also known as Terminal Value, this is the business's cash flow after the first stage. The Gordon Growth formula is used to calculate Terminal Value at a future annual growth rate equal to the 10-year government bond rate of 1.6%. We discount the terminal cash flows to today's value at a cost of equity of 14%.
+
+Terminal Value (TV)= FCF 2029 × (1 + g) ÷ (r – g) = CN¥1.3b× (1 + 1.6%) ÷ 14%– 1.6%) = CN¥11b
+
+Present Value of Terminal Value (PVTV)= TV / (1 + r)10= CN¥11b÷ ( 1 + 14%)10= CN¥2.8b
+
+The total value is the sum of cash flows for the next ten years plus the discounted terminal value, which results in the Total Equity Value, which in this case is CN¥5.5b. The last step is to then divide the equity value by the number of shares outstanding. Relative to the current share price of HK$0.8, the company appears about fair value at a 8.2% discount to where the stock price trades currently. The assumptions in any calculation have a big impact on the valuation, so it is better to view this as a rough estimate, not precise down to the last cent.
+
+SEHK:1798 Intrinsic value, January 19th 2020 More
+
+Important assumptions
+
+The calculation above is very dependent on two assumptions. The first is the discount rate and the other is the cash flows. You don't have to agree with these inputs, I recommend redoing the calculations yourself and playing with them. The DCF also does not consider the possible cyclicality of an industry, or a company's future capital requirements, so it does not give a full picture of a company's potential performance. Given that we are looking at China Datang Corporation Renewable Power as potential shareholders, the cost of equity is used as the discount rate, rather than the cost of capital (or weighted average cost of capital, WACC) which accounts for debt. In this calculation we've used 14%, which is based on a levered beta of 2.000. Beta is a measure of a stock's volatility, compared to the market as a whole. We get our beta from the industry average beta of globally comparable companies, with an imposed limit between 0.8 and 2.0, which is a reasonable range for a stable business.

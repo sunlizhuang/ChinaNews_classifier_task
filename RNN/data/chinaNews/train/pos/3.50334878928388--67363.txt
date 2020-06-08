@@ -1,0 +1,79 @@
+In this special guest feature, Robert Roe from Scientific Computing World looks at the development of exascale in Europe.
+
+Europe has developed a strategy for exascale computing, through partnerships and collaboration of European HPC vendors, academic institutions and HPC centers. It aims to deliver exascale-class systems and place the continent in the top three powers for supercomputing and science and industry using HPC.
+
+Developed through the European Commission (EC) and its partners, the European High Performance Computing Joint Undertaking (EuroHPC) began in late 2018.
+
+A decision was agreed by 24 EU member states and Norway to establish the EuroHPC JU, a public-private partnership between the EU and its participating countries, and two European HPC and big data industrial associations – ETP4HPC and BDVA.
+
+The EuroHPC combines EU and national funding with private resources to develop and maintain an integrated supercomputing and data infrastructure, and develop and support a highly competitive and innovative HPC ecosystem in Europe. Its goals are to increase competitiveness, reduce reliance on US technology, and acquire world-class supercomputers to help maintain EU leadership in HPC and other related markets.
+
+The project aims to drive competence and expertise through in scientific and industrial applications by investing in areas such as HPC Competence Centres facilitating access to the HPC ecosystem – particularly for SMEs – and developing advanced digital skills.
+
+The first steps of EuroHPC were to announce two pre-exascale machines by 2020, and another three or four petascale machines. These machines will be interconnected with the existing national supercomputers and will be made available throughout Europe, to public and private users.
+
+EuroHPC is supporting activities through procurement and open calls in 2019 and 2020, and will initially operate until 2026. The EuroHPC JU estimates initial co-investment with the member states will total around €1bn, of which €486m comes from the actions already planned by the EC in Horizon 2020 and Connecting Europe Facility (CEF) programs in the current Multiannual Financial Framework. An additional €422m will come from private or industrial partners.
+
+Mariya Gabriel, European Commissioner for digital economy and society, said: ‘These calls complement a substantial investment being made by the Joint Undertaking (JU) in Europe’s supercomputing infrastructure.
+
+They will help the JU draw on skills and knowledge of European SMEs and industry to put its ambitious plan in action and develop applications and services using this infrastructure. I look forward to seeing EU support for supercomputing continue under the next Multiannual Financial Framework, for 2021 to 2027,” added Gabriel.
+
+EuroHPC selected eight sites in June for supercomputing centres located in eight different member states to host the new high-performance computing machines. They are Sofia (Bulgaria), Ostrava (Czech Republic), Kajaani (Finland), Bologna (Italy), Bissen (Luxembourg), Minho (Portugal), Maribor (Slovenia), and Barcelona (Spain).
+
+They will support the development of major applications in domains such as personalised medicine, drug and material design, bio-engineering, weather forecasting and climate change. In total, 19 of the 28 countries participating in the Joint Undertaking will be part of the consortia operating the centres. Together with EU funds, it represents a total budget of €840m.
+
+Vice president for the digital single market, Andrus Ansip, said: “These sites will give our researchers access to world-class supercomputers, a strategic resource for the future of European industry. They will be able to process their data inside the EU, not outside it. It is a major step forward for Europe to reach the next level of computing capacity; it will help us to advance in future-oriented technologies, like the Internet of Things (Iot), AI, robotics and data analytics.”
+
+As Ansip notes there are far-reaching goals for this investment beyond the development of just a research computing or HPC infrastructure. The intention is to provide Europe and its member states with the facilities and expertise so that it can lead the world in the development of high-tech industries. Whether this is in the development of HPC, AI or edge computing applications, such as IoT.
+
+Commissioner for budget and human resources, Günther Oettinger, said: ‘This initiative demonstrates how joint investment between the EU and its member states in support of a common objective can contribute to making Europe a leader in a high-technology sector, bringing significant benefits to all European citizens and businesses. We are now looking to the EU’s next long-term budget and our Digital Europe Programme, through which we have proposed a significant amount of investment in deploying a world-class supercomputing and data infrastructure.’
+
+Gabriel added: “The European High Performance Computing Joint Undertaking is a good example of how EU countries can co-operate to drive innovation and compete globally in these highly strategic technologies. I am convinced the new supercomputers these sites will host will boost Europe’s competitiveness in the digital area. We have demonstrated the strength of our European approach, which will bring concrete benefits to our citizens and help our SMEs.”
+
+Homegrown technology
+
+With initial funding in place and the co-operation of the European member states, the EC intends to develop its own computing hardware. Intel has held the lion’s share of the CPU market for HPC, while this may be changing in recent years, the other options available to HPC users are also based on US technologies, such as IBM or AMD.
+
+To help Europe compete, the EU decided to develop its own processor for use in HPC. Funded as an off-shoot of the EuroHPC the European Processor Initiative (EPI) was funded and first announced in May 2018 and commenced operations in December 2018.
+
+The project aims to deliver a high-performance, low-power processor, implementing vector instructions and accelerator technology with high bandwidth memory access.
+
+This will be achieved through the development of a complete software stack and final integration of circuits, or ‘tape-out’, in an advanced semiconductor process node. The project aims to provide a competitive chip that can effectively address the requirements of the HPC, AI, automotive and trusted IT infrastructure markets. As has been shown in recent years, to deliver sustained HPC performance requires a balanced architecture that can match processor speeds with memory bandwidth, and interconnect technologies that can help ship data to the relevant parts of the architecture.
+
+The reliance on powerful CPU technologies or increased clock speeds has long passed. Now HPC developers focus on much lower power processor technologies, which can be stacked together and, in some cases, accelerated in a heterogeneous architecture using GPUs.
+
+Now that European efforts are synchronized under EuroHPC, it enables the co-operating partners to pool national resources. In order to spearhead these efforts, the EPI project was established as one of the cornerstones of this strategic plan – it has gathered 26 partners from 10 European countries to develop the processor and supporting IP and ensure that the key competence of high-end chip design remains in Europe. If they are successful, European scientists and industry users will be able to access this home-grown technology which provides high levels of energy-efficient computing performance.
+
+Risky business
+
+The technology is based on Arm and RISC-V technology, with the first processor scheduled for 2021. EPI intends to share a set of common technologies across different application domains. Starting from the selection of processor technology, a low-power design approach ranges from massive parallelism, specialised architecture, low-voltage operating point, and fine grain power management. The combination of these concepts should give them the high performance, low power solution that they are aiming for.
+
+The software stack will be designed to integrate and take advantage of these features to achieve high-energy efficiency and maximise performance across a wide range of layers, from low-level firmware, up to system software and application run-times. This approach is being referred to by the EPI as the Common Platform (CP).
+
+The CP is organized around a 2D-mesh Network-on-Chip (NoC) connecting computing tiles based on high-performance general-purpose CPU core with built-in FPU acceleration and specialized application-accelerators with different acceleration levels.
+
+A common software environment between heterogeneous computing tiles will help to harmonize the system, as well as acting as a common backbone of IP components for IO connection with the external environment, such as memories and interconnected or loosely coupled accelerators.
+
+The EPI is also developing accelerator technology in tandem with the general-purpose processor. The Accelerator stream will develop and demonstrate fully European processor IPs based on the RISC-V Instruction Set Architecture, providing power efficient and high throughput accelerator tiles in the GPP chip.
+
+Using RISC-V allows EPI to leverage open-source resources at hardware architecture and software level, as well as ensuring independence from non-European patented computing technologies.
+
+The EPAC-EPI accelerator building block is a tile containing up to eight vector processors and specialized units. The processors are coherent, sharing L2 cache banks through an NoC. The processors will support RISC-V vector instructions, and will also control the specialized units dedicated to stencil and deep learning acceleration. The vector and stencil capabilities will address HPC workloads, while the deep learning units will target AI applications.
+
+With this CP approach, EPI will provide an environment that integrates any computing tile. The right balance of computing resources for application matching will be defined through the ratio of the accelerator and general-purpose tiles.
+
+This gives the EPI and its partners the opportunity to develop a wide range of processors based on a single architecture. By varying the tilesets it could be feasible to provide architectural specialization at the chip level. Essentially providing different processors for different types of system, such as AI or HPC for example. Although this may be a long way into the development of the EPI platform, building this kind of flexible platform could be beneficial to future technological advances.
+
+In August, Calista Redmond, CEO of the RISC-V Foundation, said: ‘In addition to focusing on solutions for the HPC market, the EPI project also targets the autonomous vehicles industry and the data centre and servers market. As processing demands for these applications are skyrocketing – for example, as cars become more autonomous and capable of real-time decision making – novel silicon approaches are required to power the next generation of smart devices and machines.’
+
+As part of the EPI project, the accelerator stream is working to develop and demonstrate European processor IPs based on the RISC-V instruction set architecture (ISA). The accelerator will be designed for high throughput and power efficiency within the general-purpose processor (GPP) chip. Using RISC-V enables the program to leverage open-source resources at [the] hardware architecture and software level, as well as ensuring independence from non-European patented computing technologies,” added Redmond.
+
+While the development of this technology will take some time, the initiative has announced that the first processor will be in place by 2021. This gives the HPC community another Arm-based processor that is being developed specifically for HPC. Just as China has moved its own efforts into the development of homegrown processor technology, Europe also sees its future in developing technology and not relying as heavily on US vendors as it has in the past.
+
+The increase in competition in the processor market will be beneficial to all HPC users, as it will help to drive innovation and create a market place in HPC that provides choice for those looking to develop and build supercomputers.
+
+The combination of low power solutions based on Arm technology, coupled with accelerators, whether homegrown or developed in the US by companies such as NVIDIA or Intel, will provide a highly scalable and functioning system for HPC users.
+
+This story appears here as part of a cross-publishing agreement with Scientific Computing World.
+
+Sign up for our insideHPC Newsletter

@@ -1,0 +1,9 @@
+If you had a neighbour who came over and rummaged through your garage tools every day, occasionally slipping silverware from your kitchen, would you trust him to redo the locks on your house? How about to install a state-of-the-art new security system? Of course not.
+
+Yet when it comes to updating telecommunication networks to 5G, some countries are considering doing effectively that with Huawei, a Chinese state-directed company with a history of alleged intellectual property theft and enabling the spread of digital authoritarianism. Despite warnings from its own experts, I am alarmed to see the UK framing its decision on 5G as a false choice between Huawei today or lagging behind forever. Compelling market alternatives to Huawei exist, despite Beijing’s best efforts to tilt the market toward Huawei through subsidies and political pressure.
+
+Those who argue in favour of using Huawei’s equipment contend that the risks can be mitigated, especially if Huawei’s kit is reduced to “non-core,” non-essential parts of the network. But the strength of 5G is that the core and periphery of a network are one and the same, meaning that giving Huawei any access poses a tremendous risk.
+
+Furthermore, the software requirements of a 5G network require an unmanageable amount of code to review for security, creating numerous vulnerabilities for Chinese intrusion. Once the equipment and software are on the system, the question is whether you trust the vendor. Huawei should fail that test.
+
+The security problems with Huawei’s equipment are so severe that the UK National Cybersecurity Centre concluded that mitigation was nearly impossible. Private cybersecurity firm Finite State reached the same conclusion: Huawei’s equipment contains vulnerabilities that the company has failed to address. This suggests Huawei is either deliberately keeping the vulnerabilities in its equipment or, at best, lacks the competence to correct these grave, long-identified problems.

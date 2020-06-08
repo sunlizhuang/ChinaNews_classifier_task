@@ -1,0 +1,59 @@
+Alphabet for the first time disclosed the size of various business units within Google, including YouTube advertising, which in 2019 brought in $USD 15 billion ($AUD 22.43 billion) in ad revenue.
+
+YouTube's ad sales have grown 36 per cent from 2018 and 86 per cent since 2017.
+
+The company has historically broken out only the finances for Google's advertising business and the "other" areas of Google's business, which lump together such key segments as YouTube, cloud and search.
+
+A You Tube user watches a music video on an iPad in Melbourne, Thursday, Sept. 19, 2013. (AAP)
+
+"To provide further insight into our business and the opportunities ahead, we're now disclosing our revenue on a more granular basis, including for Search, YouTube ads and Cloud," CFO Ruth Porat said in a statement Monday.
+
+The company's stock dropped nearly 5 per cent Monday after it narrowly missed Wall Street analysts' overall revenue projections for the three months ending in December. Alphabet posted total revenue of $USD 46 billion ($AUD 68.78 billion) for the quarter, compared to analysts' projected $USD 46.9 billion ($AUD 70.12 billion).
+
+Profits, however, were well above Wall Street expectations. Alphabet posted $15.35 earnings per share, while analysts had projected $12.53 per share.
+
+To be sure, Google's core business, which it is now labeling "Google Search and Other," still makes up 60 per cent of Alphabet's total sales. But the new disclosures are likely an attempt to quell any concerns about the potential of Google's other business segments.
+
+They also come as Alphabet's overall revenue growth appears to be slowing. The company's quarterly revenue was up just 17 per cent year over year during the most recent quarter, compared to 20 per cent and 19 per cent in the previous two quarters, and growth rates above 20 per cent in earlier years.
+
+A screen shot of a You Tube video on an iPad in Melbourne, Thursday, Sept. 19, 2013. (AAP)
+
+Google's core advertising business has been maturing in recent years, leaving analysts and investors wondering whether the other areas of its business could really become meaningful revenue drivers, especially amid regulatory scrutiny of Google's advertising and search businesses.
+
+This is the first earnings report since CEO Sundar Pichai, who already headed Google, was also appointed chief executive of parent company Alphabet after co-founders Sergey Brin and Larry Page stepped down from their executive roles in December.
+
+Analysts responded positively to the added transparency.
+
+"Thank you so much for the enhanced disclosure," Goldman Sachs analyst Heather Bellini said on Alphabet's earnings call Monday evening. "I think this is the best Google call — or Alphabet call — that I've been on since I covered the company."
+
+YouTube's $USD 15 billion ($AUD 22.43 billion) ad business
+
+The strong growth in YouTube's ad business during the year was driven primarily by brand advertising, and also by "direct response" advertising such as click-to-buy ads that run on product review videos.
+
+"The big news is that Google is breaking out YouTube ad revenues for the first time," eMarketer analyst Nicole Perrin said in a statement Monday.
+
+"This is something investors have been looking for, but the information should also give advertisers valuable information about the importance of YouTube as a digital ad vehicle. YouTube is growing strongly according to this report, and revenues are above where eMarketer had thought they were."
+
+In this Monday, Nov. 5, 2018, file photo, a woman walks past the logo for Google at the China International Import Expo in Shanghai. (AP/AAP)
+
+YouTube also brought in $USD 3 billion ($AUD 4.49 billion) in non-advertising revenues, such as subscriptions, in the three months ending in December, Pichai said on the earnings call. He added that the platform now has more than 20 million YouTube music and premium paid subscribers.
+
+However, Google's Porat cautioned during the call that a growing YouTube also comes with costs, including paying content creators, infrastructure expenses and costs associated with its "content responsibility efforts".
+
+Ramping up cloud competition
+
+Another business segment Alphabet executives focused on as a key growth area is Google Cloud.
+
+In the cloud market, Google is considered a far-off third place competitor trailing Amazon Web Services and Microsoft Azure. But it is trying to gain on those industry leaders.
+
+Google Cloud posted full-year 2019 sales of nearly $9 billion, less than what AWS made in the last quarter alone.
+
+YouTube's ad sales have grown 36 per cent from 2018 and 86 per cent since 2017. (Getty)
+
+Its revenue for the three months ending in December was $2.6 billion, up 52 percent from the same period last year. AWS's quarterly revenue grew 34 percent while Azure's grew 62 percent during the same three months.
+
+Contributing to Google Cloud's quarterly growth were the number of deals each worth over $50 million, which more than doubled from last year, Pichai said.
+
+The results indicate that Google Cloud is gaining market share from AWS and Azure, Synovus Trust Company analyst Dan Morgan said in an investor note Monday.
+
+Alphabet is investing heavily in the business, and is planning to triple its headcount at Google Cloud over the next three years with new technical and sales hires, Porat said.

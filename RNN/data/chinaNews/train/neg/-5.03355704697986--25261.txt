@@ -1,0 +1,51 @@
+by Tyler Durden
+
+ZeroHedge.com
+
+Sat, 01/25/2020
+
+As we’ve stepped up our coverage of the nCoV coronavirus outbreak over the past week, some on Twitter have published what we feel are exaggerated criticisms accusing us of fearmongering.
+
+While we understand that the information we’ve shared can be distressing, we’d like to take a moment to remind readers that all of the information and research we have cited is legitimate, having originally been conducted by credible epidemiologists, like the UK’s Jonathan Read. The fact is, the Chinese government hasn’t been nearly as “transparent” as it promised, and it seems like the more we learn about the true scope of this outbreak, the more concerned we become.
+
+The reality is that – as the Architect told Neo in “The Matrix: Reloaded” – denial is the most predictable of human responses. And while the world’s public health authorities certainly still have time to get their arms around this outbreak before it becomes a massive, global pandemic with deadly consequences, the WHO’s dithering response the other day (asserting that they don’t yet have enough evidence of human-to-human secondary transmission to declare a global health emergency) certainly doesn’t inspire confidence.
+
+Now that we have that out of the way – let’s move on to Dr. Eric Feigl-Ding, a public health scientist on the faculty at Harvard.
+
+A few days ago, Dr. Feigl-Ding tweeted that he was “really, deeply worried about this new coronavirus outbreak” because the virus seemed to have an”upward infection trajectory curve much steeper than SARS.”
+
+I’ll be honest – as an epidemiologist, I’m really deeply worried about this new coronavirus outbreak. 1) the virus has an upward infection trajectory curve much steeper than SARS. 2) it can be transmitted person to person before symptoms appear — I.e. it is silently contagious! pic.twitter.com/5Kjo6DkbQj — Dr. Eric Feigl-Ding (@DrEricDing) January 23, 2020
+
+On Friday, the doctor, a well-respected epidemiologist who has worked as an advisor to the World Health Organization, tried his hand at a few projections based on an infection rate much higher than the RO (r-naught) rating of 1.4-2.5 recently estimated by the WHO. As we explained last night, when determining the infectious potential of a virus, arguably the most important variable is RO. This represents the average number of secondary cases resulting from every new infection in an entirely susceptible population.
+
+Of course, government interventions and more vigilant hygiene practices once the public is aware of the threat will help lower the virus’s r-naught variable. But remember, nCoV (the WHO’s name for the virus) has already been quietly spreading among the people of Wuhan for weeks. And as Dr. Feigl-Ding explains, early evidence would suggest that nCoV is contagious before symptoms appear.
+
+Last night, we published the findings of a team of UK epidemological researchers led by Jonathan Read. Read published a paper with four colleagues that estimates transmission parameters for the Wuhan coronavirus and calculates that the true R0 of 2019-nCoV is between 3.6-4.0 or roughly the same as SARS, and reaches a conclusion about spread of the coronavirus epidemic that is frankly terrifying. With an r-naught of 3.8, the virus could eventually cause hundreds of thousands of deaths in China alone.
+
+In fact, it’s not simply terrifying: With an r-naught of 3.8, this virus could be “thermonuclear, pandemic level bad.”
+
+HOLY MOTHER OF GOD – the new coronavirus is a 3.8!!! How bad is that reproductive R0 value? It is thermonuclear pandemic level bad – never seen an actual virality coefficient outside of Twitter in my entire career. I’m not exaggerating… #WuhanCoronovirus #CoronavirusOutbreak pic.twitter.com/6mmxIHL9Ue — Dr. Eric Feigl-Ding (@DrEricDing) January 25, 2020
+
+As Dr. Feigl-Ding goes on to explain, using Read’s findings as a jumping-off point, the 4,000 number being kicked around by some scientists as the true number of viral cases in Wuhan might be much too low. By early Feb., the doctor warns that nearly a quarter of a million Chinese could be infected.
+
+2/ “We estimate the basic reproduction number of the infection (R_0) to be 3.8 (95% confidence interval, 3.6-4.0), indicating that 72-75% of transmissions must be prevented by control measures for infections to stop increasing… — Dr. Eric Feigl-Ding (@DrEricDing) January 25, 2020
+
+3/ … We estimate that only 5.1% (95%CI, 4.8-5.5) of infections in Wuhan are identified, and by 21 January a total of 11,341 people (prediction interval, 9,217-14,245) had been infected in Wuhan since the start of the year. Should the epidemic continue unabated in Wuhan…. — Dr. Eric Feigl-Ding (@DrEricDing) January 25, 2020
+
+4/ we predict the epidemic in Wuhan will be substantially larger by 4 February (191,529 infections; prediction interval, 132,751-273,649), infection will be established in other Chinese cities, and importations to other countries will be more frequent. Our model suggests that.. — Dr. Eric Feigl-Ding (@DrEricDing) January 25, 2020
+
+5/ travel restrictions from and to Wuhan city are unlikely to be effective in halting transmission across China; with a 99% effective reduction in travel, the size of the epidemic outside of Wuhan may only be reduced by 24.9% on 4 February. Our findings are… — Dr. Eric Feigl-Ding (@DrEricDing) January 25, 2020
+
+To be sure, these findings should be taken with a grain of salt. They are based on a set of assumptions that could change as scientists learn more about the virus. But as things stand, it appears that nCoV has a higher infectious potential than other coronaviruses, meaning it will be more difficult to contain. And the possibility of an unchecked pandemic on par with the 1918 Spanish flu shouldn’t be ruled out yet.
+
+6/ …critically dependent on the assumptions underpinning our model, and the timing and reporting of confirmed cases, and there is considerable uncertainty associated with the outbreak at this early stage. With these caveats in mind, our work suggests that… — Dr. Eric Feigl-Ding (@DrEricDing) January 25, 2020
+
+7/ a basic reproductive number for this 2019-nCoV outbreak is higher compared to other emergent coronaviruses, suggesting that containment or control of this pathogen may be substantially more difficult.”!!!! #wuhanvirus #CoronavirusOutbreak #ChinaCoronaVirus … — Dr. Eric Feigl-Ding (@DrEricDing) January 25, 2020
+
+[Tweet No. 8 was deleted]
+
+9/ …cannot be stopped by containment alone. A 99% quarantine lockdown containment of Wuhan will not even reduce the epidemic’s spread by even 1/3rd in the next 2 weeks. Thus, I really hate to be the epidemiologist who has to admit this, but we are potentially faced with… — Dr. Eric Feigl-Ding (@DrEricDing) January 25, 2020
+
+https://twitter.com/DrEricDing/status/1220923649366118400?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1220923649366118400&ref_url=https%3A%2F%2Fwww.zerohedge.com%2Fgeopolitical%2Fthermonuclear-pandemic-level-bad-harvard-epidemiologist-warns-viral-outbreak-might-get
+
+The Rest…HERE

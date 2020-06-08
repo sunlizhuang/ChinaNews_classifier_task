@@ -1,0 +1,19 @@
+Highlights Huawei, Oppo, Vivo and Xiaomi are looking to create an alternative for the Google Play store
+
+The companies have joined hands to start work on the GDSA
+
+The platform will help developers upload apps on the multiple app stores simultaneously.
+
+China's biggest smartphone makers appear to be joining hands to take on the might of Google. As per the latest reports by Reuters, Xiaomi, Huawei, Oppo, and Vivo are creating a platform for developers to upload apps onto all of their app stores simultaneously. Interestingly, this platform will be based outside of China, which would enable it to emerge as a true alternative to the Google Play Store in the future.
+
+The report suggests the companies are currently working on finalizing details on what is called the Global Developer Service Alliance (GDSA). The platform is being pegged as a solution that will enable developers of games, music, movies and other apps to market their apps in overseas markets.
+
+These phone makers combined account for a major chunk of the global smartphone market. However, they are reliant on Android and its Google Play service for keeping their phones running. With the new platform, these phone makers will eventually decrease their reliance on Google Play Store.
+
+The platform should also come quite handy for users in China as Google Play is currently not available in the country. For now, Chinese users have to download apps from different app stores, being operated by their phone maker.
+
+While not a single stop shop, the platform will help developers upload apps on the multiple app stores simultaneously. With this, the likes of Huawei, Xiaomi, Oppo and Vivo will not only be able to come up with a strong alternative in China but would also be able to break the monopoly that Google enjoys outside of Chinese borders.
+
+Although this isn't a single app repository like Google Play, it is, however, quite close as it would ensure that all these app stores will have the same backend and the same apps. While there is no official word yet on why the companies are uniting to form the GDSA, the move could very well be the result of Huawei's US sanctions, which has seen the company banned from doing business with US companies and accessing Google services, including Google Play.
+
+While still at a nascent stage, these companies joining hands could very well be bad news for Google and dominance it enjoys over the Android space.

@@ -1,0 +1,91 @@
+For most people, the word “stablecoin” brings to mind cryptocurrencies like Tether or Libra. However, there are many versions of stablecoins — ranging from those that are backed by fiat money to those that are backed by real assets or even other digital currencies.
+
+Simply put, a stablecoin’s main aim is to solve the problem of volatility by being a digital asset that is tied to another asset with a stable value.
+
+The new year is already turning out to be an exciting time for stablecoins as interest among financial institutions picks up speed. There is talk of companies like Wisdomtree, a New York-based asset manager and leader in exchange-traded funds with over $68 billion in assets under management, mulling over plans to launch a regulated stablecoin.
+
+Likewise, governmental financial institutions are now coming out of the woodwork, stating that they will either be researching or discussing a stablecoin as a potential solution. International entities, such as the G-7 Working Group in partnership with the International Monetary Fund and the Bank for International Settlements, have released a report investigating the impact of stablecoins.
+
+Furthermore, banks such as Banco Bradesco, Bank of Buscan and Rizal Commercial Banking Corporation jumped on the stablecoin bandwagon last year in a move to issue their own stablecoins on IBM’s blockchain.
+
+WisdomTree
+
+News about WisdomTree’s plan to launch a regulated stablecoin has had many in the crypto space speculating about a buildup in competition for dominance in the space. For WisdomTree, the move is believed to be a natural extension of its ETF business.
+
+According to the company’s director of corporate strategy, William Peck, “a regulated WisdomTree stablecoin could look similar in structure and purpose to an ETF backed by dollar-denominated assets like short term U.S treasury bonds.”
+
+Related: WisdomTree Grows a Stablecoin Today to Nurture a Crypto ETF Tomorrow
+
+Peck further added that this option could appeal to crypto traders, since the stablecoin would be powered by blockchain. In the long run, Peck believes that a regulated stablecoin issued by WisdomTree could position the firm as a leader in a fast-evolving industry.
+
+For stablecoin issuers in the United States, one of the biggest hurdles is the reception from regulatory authorities. However, the story might be a little different for WisdomTree, given that the firm is a regulated money manager. Therefore, a proposal from the asset manager is more likely to receive a better reception from regulators.
+
+Furthermore, since it stands among industry giants like BlackRock and Fidelity, WisdomTree can bring about an enterprise-level approach to the crypto industry. Although WisdomTree has yet to file a public and official proposal with the relevant authorities, the firm has already shown enough interest in the space, with reports of the firm being a leading investor in a new startup called Secucurrency, a company that ensures regulatory compliance on blockchain systems.
+
+State Street
+
+Another American financial Services company that is slowly but surely dipping its toes in the stablecoin universe is State Street. Last month, the company announced its plans to launch the pilot phase of a digital asset in collaboration with Gemini Trust.
+
+The plan is to combine State Street’s back-office reporting with Gemini’s research on digital assets to enable users to consolidate their traditional assets serviced by StateStreet with that of their Gemini-processed digital assets.
+
+Founded by the Winklevoss twins, Gemini Trust is one of the pioneering issuers of regulated stablecoins. According to their white paper, Gemini (GUSD) is a regulated stable value coin that is built on Ethereum and pegged 1:1 to the U.S. dollar.
+
+In the announcement of the firm’s plans to venture into the crypto space in partnership with Gemini Trust, State Street’s Managing Director Ralph Achkar said, “The digital asset space is still in its nascent stage, yet it promises opportunities that could fundamentally impact how StateStreet does things in the future.”
+
+Related: The Unstoppable Trajectory: Stablecoins Are Evolving Traditional Finances
+
+Just like WisdomeTree, StateStreet admits that its new project is nothing more than a natural extension of the services it offers its clients. The financial services provider boasts $32.9 trillion in assets under custody and almost $3 trillion in assets under management.
+
+Although the move by StateStreet is not directly linked to Gemini’s stablecoin, it is still a clear sign that the financial firm is taking steps to help clients invest in digital assets. According to Achkar, “the digital asset space is something that will impact the market going forward and we want to be there when this happens.”
+
+IBM in partnership with several international banks
+
+In March 2019, IBM announced the launch of its global payment network that includes payment location in 72 countries with 44 banking endpoints. The tech giant signed partnerships with Banco Bradesco, Bank Busan and Rizal Commercial Banking Corporation to enable them to issue stablecoins on IBM’s blockchain network.
+
+Unlike most companies in the stablecoin landscape, IBM is not the issuer of the stablecoins. However, the banks it partners with have signed a letter of intent to issue their own stablecoins with support for multiple fiat currencies.
+
+According to Jesse Lund, the vice president of IBM Blockchain, IBM has “created a new type of payment network that is unique in the sense that it streamlines the ability of businesses and consumers to move money around the world in real-time.”
+
+Lund further added that the company is “covering a brand new network in 72 countries that will support pay-in and payout endpoints in 48 currencies.”
+
+The Central Bank of Russia
+
+At the tail-end of 2019, Russia’s central bank started testing the idea of utilizing a stablecoin. Unlike most fiat-based stablecoins, these would be pegged to real assets and put in a regulatory sandbox. According to Elvira Nabiullina, the head of the Russian Central Bank, the purpose of testing out the stablecoins is not necessarily to have them be used for making payments.
+
+However, the plan is to come up with a “special set of rules that allows innovative companies to test their products and services” in a limited environment without the risk of breaking financial laws — commonly known as a sandbox.
+
+Nubiullina also pointed out that the project will enable the central bank to learn “the potential uses of stablecoins” as it continues to explore the possibility of issuing its own central bank digital currency.
+
+Although Russia is making moves to learn more about stablecoins, Nubiullina made it clear that the official stance of the government is against private money and that the Central Bank of Russia cannot support digital currencies that are designed to substitute for private money.
+
+Central bank of France
+
+France is also planning to launch a pilot project to test a cryptocurrency designed for financial institutions. While speaking to a news conference in Brussels, Governor François Villeroy de Galhau said that the country’s central bank plans to begin testing the digital euro project by the end of the first quarter of 2020.
+
+The digital euro will solely be aimed at private financial players in the country to strengthen the French financial system. The official report also stated that the main focus of the pilot project is to establish France as a global leader of central bank-issued digital currencies.
+
+Earlier on, France and Germany were skeptical of Facebook’s Libra project, saying that the project posed risks to Europe’s financial sector. Now, it’s clear that their plan was to launch a common set of rules for virtual currencies in the Eurozone.
+
+Although it will take time to develop a regional stablecoin, French Finance Minister said, “The fact that it is for the long term does not prevent us from working and having results next year.”
+
+China’s digital yuan
+
+Another central bank poised to become one of the first to issue its stable digital currency is the People's Bank of China. Amid a swiftly digitizing economy, the Chinese central bank’s move is an attempt to manage the technological change to its terms. One official of the PBoC told Bloomberg that the move goes beyond economic issues to include issues of sovereignty.
+
+Although the PBoC plans to launch a digital yuan, it is not necessarily going to be a cryptocurrency. First of all, unlike decentralized cryptocurrencies, the digital version of the Chinese yuan will be fully backed by the PBoC. This means that the digital yuan won’t have any presumption of anonymity.
+
+Also, given that records of China’s payment traffic peak at about 92,771 transactions per second, central bank officials in China are skeptical about blockchain’s capacity to support such traffic.
+
+Even though China is already a highly cashless society, the move to launch a digital yuan will protect the country from having to adopt other increasingly popular digital currencies like Bitcoin. PBoC’s plans are also in line with the government’s agenda of countering the strengthening dollar especially in the wake of trade wars and the rise of multiple stablecoins backed by the U.S. dollar.
+
+Where does the stablecoin stand?
+
+So why are all these financial institutions, central banks and companies embracing the idea of stablecoins? Biser Dimitrov, co-founder of BlockEx digital asset platform told Cointelegraph that “stablecoins just make sense for any type of financial services company,” adding:
+
+“For example, in a retail or investment bank, a stablecoin can facilitate faster intra-day settlements, full transparency. More to that, a bank can offer better and faster services on top of a blockchain network with a stablecoin and enable things like loyalty points conversions, faster mortgages and generally efficient loan origination process.”
+
+However, with increased adoption of stablecoins comes the challenge of regulation, and Gregory Klumov, CEO and co-founder of Euro-backed stablecoin Stasis, believes there is a solution. Klumov told Cointelegraph that regulation will first evolve in the retail space before coming to the e-money directive:
+
+“In the private corporate space nobody will regulate what solution particular corporation utilizes. A good analogy could be antivirus or project management software. The core value of any stable asset is fungibility. The more counterparties support it, the more network effect it will achieve.”
+
+But as much as the issue of regulation can be a problem for stablecoins, Dimitrov believes that for 90% of issued stablecoins, regulation will be more relaxed in the future, as the developed assets will be used for internal purposes.

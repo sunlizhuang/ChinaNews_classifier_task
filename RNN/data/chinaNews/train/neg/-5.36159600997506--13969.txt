@@ -1,0 +1,37 @@
+The story so far: On December 31, 2019, China informed the World Health Organization (WHO) of a cluster of cases of pneumonia of an unknown cause in Wuhan City in Hubei province. A few patients in Wuhan had been suffering from respiratory illnesses such as pneumonia since early December. Besides providing care, Chinese public health officials began carrying out environmental assessments at the wholesale market and trying to identify the microbe causing the outbreak.
+
+How was the virus identified as a coronavirus?
+
+On January 9, 2020, WHO issued a statement saying Chinese researchers have made “preliminary determination” of the virus as a novel coronavirus in a person with pneumonia. They were able to determine the virus by sequencing the genome using an isolate taken from an infected patient. WHO tweeted: “Preliminary identification of a novel virus in a short period of time is a notable achievement and demonstrates China’s increased capacity to manage new outbreaks.”
+
+Public health experts are yet to identify the source of the new virus.
+
+What are coronaviruses?
+
+Coronaviruses are a large family of viruses with some causing less severe common cold to more severe diseases such as severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). While the SARS coronavirus is thought to be an animal virus from an as-yet-uncertain animal reservoir, perhaps bats, that spread to other animals (civet cats) and first infected humans in the Guangdong province of southern China in 2002, the MERS coronavirus was passed on from dromedary camels to humans in Saudi Arabia in 2012.
+
+Has China shared the genome sequence data?
+
+On January 11, China shared the whole genome sequence data with WHO and submitted them to the Global Initiative on Sharing All Influenza Data (GISAID) platform to allow researchers across the world to access the data. Sharing the data with GISAID will help other countries to quickly identify the virus, provide care, and also develop specific diagnostic kits, drugs and even vaccines. Since January 11, five more genome sequences have been submitted to GISAID.
+
+How many have been infected?
+
+Using the genomic test kit, China was able to accurately identify that only 41 of the 59 suspected cases have been infected. On January 17, four more cases were reported by the Wuhan health department. According to WHO, the clinical signs and symptoms of the patients are mainly fever and fatigue, accompanied by dry cough, with a few experiencing difficulty in breathing. Chest radiographs showed fluid in both lungs.
+
+As of January 17, two people had died.
+
+Has the virus been able to spread among humans?
+
+WHO has said 763 people, including medical staff, who have come in close contact with patients infected with the novel coronavirus, have been identified for close monitoring. Based on preliminary epidemiological investigation, most of the patients had come in close contact with animals or frequently visited a wholesale seafood market (which authorities in Wuhan said was the centre of the outbreak, and closed since January 1).
+
+But in the case of the Japanese man who had travelled to Wuhan and found to be infected with the new virus, the transmission does not seem to be from animals as the person did not visit the Huanan seafood market.
+
+According to WHO, the fact that certain cases do not seem linked with the seafood market would mean that the possibility of “limited human-to-human transmission cannot be excluded”.
+
+Has the virus been seen in people outside China?
+
+On January 8, a 61-year-old woman who had travelled from Wuhan to Thailand was hospitalised and mild pneumonia was diagnosed. Thermal surveillance at the one of the airports in Bangkok detected the febrile illness of the traveller. Subsequent testing confirmed that the woman, a Chinese national, was that country’s first imported case of a ‘novel’ coronavirus infection. She had not visited the Wuhan seafood market but instead another market where freshly slaughtered animals are sold. A second case was seen in Thailand on Friday, January 17 in a 74-year-old Chinese woman who travelled from Wuhan. On January 16, Japan reported a case of a man in his 30s who was infected with the new coronavirus. He has been discharged from hospital.
+
+Are there any travel restrictions to China?
+
+India has issued a travel advisory asking citizens to follow certain precautionary measures while visiting China. “WHO advises against the application of any travel or trade restrictions on China based on the information currently available”. It does not recommend that travellers take any specific measures either. However, WHO provides general tips to reduce the risk of infection such as washing hands with soap and water, covering one’s nose and mouth while sneezing and coughing, avoiding contact with anyone who has cold or flu-like symptoms, thoroughly cooking meat and eggs, and avoid making unprotected contact with wild or farm animals.

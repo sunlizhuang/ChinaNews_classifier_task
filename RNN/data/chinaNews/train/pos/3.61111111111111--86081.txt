@@ -1,0 +1,31 @@
+[February 25, 2020]
+
+Greenliant Membership in Micron IQ Partner Program Emphasizes Commitment to Industrial Customers
+
+SANTA CLARA, Calif., Feb. 25, 2020 (GLOBE NEWSWIRE) -- Greenliant is a founding member of the new Micron Industrial Quotient (IQ) Partner Program, a collaboration of industry-leading companies to meet the need for high-quality, robust, rugged and long-lasting Industrial IoT (IIoT) products. Membership in the Micron IQ Partner Program further reinforces Greenliant's focus on the embedded systems market and commitment to addressing the rigorous requirements of the industrial segment.
+
+
+
+“The IIoT continues to transform the world of manufacturing at a rapid pace; it is therefore changing how industrial solutions are being designed, which now require more coordination and collaboration in technology and product development,” said Kris Baxter, vice president of marketing, Embedded Business Unit, Micron. “The IQ Partner Program allows us to work in partnership with a company like Greenliant to deliver high-quality, robust and long-lasting embedded systems for the industrial market.”
+
+"Combining Greenliant's SSD controller expertise with Micron's leading 3D NAND flash technology has been instrumental in developing next-generation ArmourDrive™ and NANDrive™ product lines, said Arthur Kroyan, vice president, business development and marketing, Greenliant. "As a proven supplier of high-reliability SSDs, Greenliant appreciates Micron’s long-term support and the advanced features of its NAND products.”
+
+
+
+
+
+
+
+The implementation of Micron’s 3D NAND and Greenliant’s controller technology has solved complex problems, such as data integrity and product reliability in harsh industrial environments, making it an ideal storage solution for many embedded designs.
+
+For more information about the Micron IQ Partner Program, visit https://www.micron.com/IQ.
+
+About Greenliant
+
+By leveraging more than 25 years of solid state storage design expertise, Greenliant is dedicated to developing durable, reliable and secure storage solutions for embedded systems and enterprise datacenters. The company is headquartered in Silicon Valley with product development centers in Santa Clara, Beijing, Shanghai, Xiamen and Hsinchu. https://www.greenliant.com
+
+Greenliant, the Greenliant logo, ArmourDrive and NANDrive are trademarks of Greenliant. All other trademarks used herein are the property of their respective owners.
+
+A photo accompanying this announcement is available at https://www.globenewswire.com/NewsRoom/AttachmentNg/e59d1c9a-6338-4f3b-9035-7c8d8fdfa410
+
+Media Contact: Tara Yingst Greenliant 408-200-8062 media@greenliant.com

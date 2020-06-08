@@ -1,0 +1,39 @@
+Tech Industry Trends
+
+K–12 Ed Tech Investments Dive
+
+The latest "2019 Global Learning Technology Investment Patterns" report from Metaari declared that a "breathtaking $18.66 billion flowed to ed tech companies around the world in 2019" — the "highest in the history" of the industry, "[blasting] past the records set between 2015 and 2017 and far [outpacing] the historic high in 2018."
+
+Total global learning tech investment by market segment. Source: "2019 Global Learning Technology Investment Patterns" from Metaari
+
+As Metaari CEO and Chief Researcher Sam Adkins noted, funding for higher ed-specific tech companies increased in 2019 to $740.6 million, 80 percent higher than the $406.8 million given to these companies in 2018.
+
+Meanwhile, funding to the Pre-K–12 sector did the opposite, dropping by almost half in 2019. While investments to Pre-K–12 in 2018 reached $1.4 billion, that declined to $855 million in 2019, a reduction of 39 percent.
+
+Yet, overall, both markets together made up a small fraction of the total investments plowed into ed tech for the year — just 8.6 percent (compared to 21.4 percent in 2017 and 11.2 percent in 2018). Higher ed received 4 percent of total funding for the year, and Pre-K–12 took 4.6 percent.
+
+The cause?
+
+There may not be anything in particular. As Adkins wrote, "Investment trends are inherently unpredictable, and this could be an anomaly."
+
+Total global learning tech investments by learning technology type. Source: "2019 Global Learning Technology Investment Patterns" from Metaari
+
+Likewise, he added, those percentages "are heavily skewed by the massive investments going to consumer and corporate deals." Corporate learning investment drew $10.4 billion for the year (up from $6.2 billion in 2018), while consumer learning investment attracted $6.7 billion (down from $8.6 billion in 2018)
+
+Adkins has divided the ed tech product landscape into 10 broad categories, three that are "legacy" and seven that are "next-generation." Legacy products include self-paced courseware, digital "reference-ware" and collaboration-based learning. The next-generation products cover:
+
+Cognitive learning;
+
+Artificial-based learning;
+
+Mixed reality learning;
+
+5G and mobile learning;
+
+Location-based learning;
+
+Game-based learning; and
+
+Educational bots (both physical and virtual).
+
+Adkins' report declared three "big winners" for overall 2019 investments:

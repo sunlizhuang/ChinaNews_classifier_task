@@ -1,0 +1,33 @@
+17 February 2020
+
+3D imaging and sensing market growing at 20% CAGR to $15bn in 2025
+
+The global 3D imaging and sensing market is expanding at a compound annual growth rate (CAGR) of 20% from $5bn in 2019 to $15bn in 2025, forecasts market research and strategy consulting firm Yole Développement in its annual technology & market analysis ‘3D Imaging and Sensing’.
+
+With the introduction of the iPhone X in September 2017, Apple set the standard for technology and application for 3D sensing in the consumer space. Two years later, Android phone makers have taken a different approach, using time-of-flight (ToF) cameras (instead of structured light) and are placing them on the rear of the phone.
+
+“Compared to structured light, ToF modules only needs a vertical-cavity surface-emitting laser (VCSEL) and a diffuser on the emitter, which is less complex,” says Richard Liu, technology & market analyst in the Photonics, Sensing & Display division at Yole and based in Shenzhen, China. “ToF sensors have now improved a lot thanks to the back-side illumination (BSI) technique,” he notes. “They have also gained a cost advantage within a maturing ecosystem. This is the main reason why ToF has won the favor of Android phone makers.”
+
+Without doubt, the main trend in 3D sensing is the switch in adoption from the front to the rear of the phone and mass adoption of the ToF camera. According to Yole’s report, rear attachment will surpass front attachment, with the penetration rate reaching about 42% in 2025.
+
+3D rear sensing in mobiles are expected to diversify in application. First used for photography, to enhance ‘bokeh’ (blur effect) and zoom capabilities, it will expand into augmented reality (AR) and gaming. Beyond smartphones, ToF camera modules have a broad application market ahead of them, including intelligent driving, robots, smart homes, smart TVs, smart security and virtual reality (VR)/AR. Currently, the application of ToF sensing technology in these fields is still in its infancy.
+
+The significance of the 3D sensing market means that the transition from imaging to sensing is happening now. Artificial intelligence (AI)-powered devices and robotics are gaining a better understanding of their surroundings, and developing a new level of interaction with humans. Stereo cameras for ADAS (Advanced Driver Assistance Systems) represent a highly anticipated application of 3D imaging and sensing technology.
+
+“The most important component in this application, light detection & ranging (LiDAR), is now focused on by a large number of suppliers,” notes Liu. “There is a wide range of LiDAR technologies to choose from, making the field a very competitive one.”
+
+In addition to automotive ADAS and industrial AGVs (automatic guided vehicles) in the logistics industry, face recognition and face payments in commercial sectors have also been very successful. As such, 3D sensing technology is moving towards ubiquity. Technology providers of global shutter image sensors, VCSELs, injection-molded and glass optics, diffractive optical elements (DOEs), and semiconductor packaging are all benefiting.
+
+So what is the impact of ToF’s adoption on the supply chain? “The mobile 3D sensing supply chain is changing rapidly,” notes Pierre Cambou, principal analyst, Imaging, at Yole. “As structured light technology was introduced in iPhones in 2017, companies like Lumentum, ams and ST Microelectronics won this first round. Later, Princeton Optronics (ams) and Finisar were prepared to gain VCSEL market access, so the market did quickly become more competitive,” he adds.
+
+In 2019, Finisar was acquired by II-VI, contributing to the consolidation of industrial business. During this period, there were several other big mergers, such as Philips Photonics being acquired by Trumpf and ams swallowing Osram. Trumpf and ams are both actively moving into the Android camp’s 3D camera supply chain, providing VCSELs to Samsung and Huawei respectively.
+
+In China, another player is entering the 3D sensing ecosystem: The VCSEL output beam of the flood emitter for ToF requires no coding and is therefore easier to produce. This has helped the Chinese supplier Vertilite to join the market. Already, in 2019, the company won orders from Huawei for 3D sensing. This move was also driven by the policy of China to cultivate local supply chains in the midst of the US-China trade conflict.
+
+ToF arrays are key components for mobile rear 3D sensing. ToF camera technology was first applied to the Phab2 Pro smart phone in 2016, which used pmd and Infineon’s TOF array. A year before that, Sony bought SoftKinetic, a Belgian gesture-recognition company with its well-known DepthSense ToF sensing system. This move brought Sony from a position of zero market share in 3D sensing receiver chips to 45% by the time that ToF camera modules took off in 2019. With its strong technology and supply capabilities, Sony is expected to continue to maintain its leadership position in ToF. But, as there has always been competition in this area of CMOS image sensor (CIS) chip manufacturing, competition will increase. Together with partner Infineon Technologies, pmd recently announced a matching chip. Yole’s analysts expect CIS giant Samsung and STMicroelectronics to bring to market their own indirect ToF array sensors in 2020.
+
+Samsung already adopted ToF technology notably in its Galaxy Note 10+. It has been deeply analyzed by System Plus Consulting, sister company of Yole in the reverse engineering & costing report, Samsung Galaxy Note 10+ 3D Time of Flight Depth Sensing Camera Module.
+
+Generally speaking, the competition remains very intense among a small group of CIS players. In the medium-term Yole expects more opportunities for mergers & acquisitions (M&A) as automotive LiDAR applications may come into play. There are a large number of highly competitive emerging companies. There are also a few Chinese startups, such as Hesai Technology, RoboSense, and LeiShen Intelligence. The underlying semiconductor products are the same: CIS chips, VCSEL, MEMS, wafer-level optical elements.
+
+Tags: VCSELs

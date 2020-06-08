@@ -1,0 +1,281 @@
+61 Shares Email
+
+Facebook
+
+Twitter
+
+LinkedIn
+
+In our ongoing coverage of unicorns, we now look to Europe with 2019 shaping up to be the largest year for European unicorn funding. Overall $11.9 billion was invested in European unicorn companies in 2019, up 80 percent from 2018 at $6.6 billion.
+
+Subscribe to the Crunchbase Daily
+
+The companies raising the largest amount in 2019 include London-based Greensill Capital which has raised the most at $1.45 billion in two rounds–$800 million in May and another $655 million in October from the Softbank Vision Fund. Greensill Capital provides structured working capital to businesses. The funding will ensure expansion in its operations in Brazil and funding to enter the Chinese and Indian markets.
+
+Next up is London-based OneWeb, which successfully launched six satellites, with plans to launch 650. OneWeb raised $1.25 billion from Softbank, and is a SpaceX competitor.
+
+Then we have Swedish battery-maker Northvolt, which raised $1 billion in equity and debt financing led by Volkswagen and Goldman Sachs. This funding also heralds a 50/50 joint venture partnership with Volkswagen to build a battery cell factory in Europe.
+
+London-based Deliveroo raised a massive $575 million from Amazon, taking its funding to $1.5 billion. Deliveroo is the largest restaurant delivery service in Europe. The deal, however, is under regulatory scrutiny with the Competition and Markets Authority in the U.K. launching a full investigation in December 2019 which could derail the investment.
+
+And the fifth-largest funding in 2019 goes to UiPath, a robotic process automation company, for $568 million led by Coatue Management, a New York company that invests in both private and public markets. UiPath is headquartered in the U.S., but was founded in Romania.
+
+Investments in unicorn companies in 2019 were spread across 14 different European countries with Great Britain, Germany and Sweden leading in investment dollars and deal count.
+
+Both Vinted and Doctolib, two of Accel’s investments, are valued as unicorns with customer bases solely in European markets. Luciana Lixandru, a partner at Accel in London commented, “It’s interesting to see that you can build these large-scale companies in Europe as well, and you don’t always have to go to the U.S.”
+
+How do we understand this increase in funding to European unicorn companies in 2019? Year over year there is not a big difference in the count of new unicorns (see below) or the number of funding rounds to unicorn companies, 47 in both 2018 and 2019. The most noticeable year over year change is an increase in amount (and count) of rounds above $500 million led by corporate and late-stage growth investors.
+
+Investors In All European Unicorns
+
+The most active investors by portfolio count are Accel, a Silicon Valley firm with a long-standing London office, with 11 portfolio companies; Insight Partners (also with 11), a growth investor based in New York; Baillie Gifford (with nine), a British-based investment management firm; and DST Global (with nine portfolio companies), headquartered in Hong Kong and focused on making minority investments in the fastest-growing internet companies and Kinnevik from Sweden (nine portfolio unicorns).
+
+Next up is Index Ventures, based in Switzerland and and General Atlantic out of New York all with eight portfolio companies.
+
+The most active investors by deal count, which highlights investors in multiple rounds, is led by Accel (30 rounds), Index (27 rounds), and Insight Partners (22 rounds). When viewed by deal count, Seedcamp, a seed investor based in the U.K., and HV Holtzbrinck Ventures, a venture firm based in Germany, rise to the top six firms, along with Kinnevik from Sweden–all in 15 funding rounds.
+
+New Unicorn Companies In 2019
+
+Twenty-one new unicorns from Europe have joined the Crunchbase Unicorn Leaderboard in 2019–on par with 2018. These 21 unicorn companies have collectively added $29.6 billion in value to the leaderboard and have raised $7.5 billion since 2000. Today’s highest valued European unicorns are highlighted, by year, in the chart below.
+
+The most highly valued new unicorn of 2019 is N26 at $3.5 billion, followed by FlixBus at $2.3 billion, and Babylon Health and Checkout at $2 billion each. Vinted is the single new European unicorn in 2019 with a female co-founder.
+
+Look here for the list of New European Unicorns of 2019.
+
+Last Private Valuation: $3.5 billion
+
+Total Equity Funding Raised: $680 million
+
+Location: Berlin, Germany
+
+Market: Financial Services
+
+N26 offers mobile banking solutions to customers in the European Union.
+
+Last Private Valuation: $2.3 billion
+
+Total Equity Funding Raised: $550 million
+
+Location: Munich, Germany
+
+Market: Transportation
+
+FlixMobility offers convenient, affordable and environmentally friendly travel via the FlixBus and FlixTrain brands.
+
+Last Private Valuation: $2 billion
+
+Total Equity Funding Raised: $635 million
+
+Location: London, Great Britain
+
+Market: Health Care
+
+Babylon Health aims to provide accessible, affordable health care by combining AI with doctors.
+
+Last Private Valuation: $2 billion
+
+Total Equity Funding Raised: $230 million
+
+Location: London, Great Britain
+
+Market: Financial Services
+
+Checkout helps companies accept more payments around the world through one integration.
+
+Last Private Valuation: $1.8 billion
+
+Total Equity Funding Raised: $269 million
+
+Location: Berlin, Germany
+
+Market: Financial Services
+
+Wefox Group is an organization that connects insurance providers, distributors and customers via technology.
+
+Last Private Valuation: $1.8 billion
+
+Total Equity Funding Raised: $545 million
+
+Location: Dublin, Ireland
+
+Market: Information Technology
+
+Kaseya is an automation software provider that offers remote management software for the information technology industry.
+
+Last Private Valuation: $1.6 billion
+
+Total Equity Funding Raised: $700 million
+
+Location: Stockholm, Sweden
+
+Market: Energy
+
+Enabling the future of energy with lithium-ion battery manufacturing.
+
+Last Private Valuation: $1.3 billion
+
+Total Equity Funding Raised: $300 million
+
+Location: Bristol, Great Britain
+
+Market: Energy
+
+OVO Energy is an independent energy technology company and supplier.
+
+Last Private Valuation: $1.2 billion
+
+Total Equity Funding Raised: $170 million
+
+Location: London, Great Britain
+
+Market: Financial Services
+
+Rapyd is a platform that creates a card-less financial network.
+
+Last Private Valuation: $1.1 billion
+
+Total Equity Funding Raised: $265 million
+
+Location: Paris, France
+
+Market: Health Care
+
+Doctolib is an online and mobile booking platform that helps find a specialist doctor nearby and make an appointment.
+
+Last Private Valuation: $1.1 billion
+
+Total Equity Funding Raised: $200 million
+
+Location: Hamburg, Germany
+
+Market: Financial Services
+
+Deposit Solutions is an open banking platform for deposits connecting banks and depositors.
+
+Last Private Valuation: $1 billion
+
+Total Equity Funding Raised: $650 million
+
+Location: Berlin, Germany
+
+Market: Travel and Tourism
+
+GetYourGuide operates an online platform for booking tours, attractions and activities worldwide.
+
+Last Private Valuation: $1 billion
+
+Total Equity Funding Raised: $515 million
+
+Location: Barcelona, Spain
+
+Market: Transportation
+
+Glovo is a courier service that purchases, picks up and delivers products ordered through its mobile application.
+
+Last Private Valuation: $1 billion
+
+Total Equity Funding Raised: $385 million
+
+Location: Cambridge, Great Britain
+
+Market: Health Care
+
+CMR Surgical is developing the next-generation surgical robotic system for minimal access surgery.
+
+Last Private Valuation: $1 billion
+
+Total Equity Funding Raised: $295 million
+
+Location: Paris, France
+
+Market: Content and Publishing
+
+Meero is an on-demand photography platform supporting photographers.
+
+Last Private Valuation: $1 billion
+
+Total Equity Funding Raised: $260 million
+
+Location: Vilnius, Lithuania
+
+Market: Commerce and Shopping
+
+Vinted operates an online marketplace intended to make second-hand the first choice.
+
+Last Private Valuation: $1 billion
+
+Total Equity Funding Raised: $234 million
+
+Location: Brussels, Belgium
+
+Market: Data and Analytics
+
+Collibra is a data intelligence company that accelerates trusted business outcomes by connecting the right data, insights and algorithms.
+
+Last Private Valuation: $1 billion*
+
+Total Equity Funding Raised: $200 million
+
+Location: Kyiv, Ukraine
+
+Market: Content and Publishing
+
+Grammarly is a digital writing assistant that helps people write more clearly and effectively.
+
+Last Private Valuation: $1 billion
+
+Total Equity Funding Raised: $158 million
+
+Location: Schaffhausen, Switzerland
+
+Market: Privacy and Security
+
+Acronis is a cybersecurity company with an AI-based protection technology, blockchain-based data authentication and unique hybrid cloud architecture.
+
+Last Private Valuation: $1 billion
+
+Total Equity Funding Raised: $135 million
+
+Location: Orsay, France
+
+Market: Financial Services
+
+Ivalua provides web-based spend management solutions that offer a modular suite covering the spend management spectrum.
+
+Last Private Valuation: $1 billion
+
+Total Equity Funding Raised: $80 million
+
+Location: Zürich, Switzerland
+
+Market: Financial Services
+
+Numbrs is a customer-centric financial services company, allowing its customers to manage existing accounts and purchase competing financial products.
+
+Unicorn Liquidity
+
+Despite the increased funding, there were no acquisitions or IPOs for European unicorns in 2019. In 2018 there were six European unicorns that went public; the most highly valued of which were Spotify, Adyen and Farfetch.
+
+“I think that 2018 was a banner year for European IPOs/exits and that’s a matter of cycles,” said Reshma Sohoni, Co-Founder of Seedcamp. “These companies were 10 years or so in the building, so a decade or more is a natural time for a unicorn exit. The key is that it takes time to be worth billions in value. We saw several of our companies scale massively in 2019 with capital and employees and revenue. They are midway into their 10-year cycle. Europe has often been penalised for exiting too early. What we are now seeing is hugely ambitious businesses that don’t want to sell, but build companies that last.”
+
+Accel’s Lixandru agreed, saying, “Europe has an increasing number of unicorns and companies poised to become unicorns. After a healthy exit environment in 2018, I believe in 2020 we will see a number of large tech companies pay more attention to Europe as they look to acquire great businesses.”
+
+Notes:
+
+Unicorns include companies with a post-money valuation of $1 billion or more in a private funding round. Aileen Lee, founder of Cowboy Ventures, coined the term “unicorn” in her late-2013 TechCrunch report on billion-dollar startups.
+
+For this European unicorn study we include the following European-founded unicorns with headquarters in the U.S.
+
+Grammarly, founded in Ukraine and headquartered in San Francisco
+
+Letgo, founded in Barcelona, headquartered in New York
+
+OutSystems, founded in Portugal, headquartered in Atlanta
+
+Tradeshift, founded in Denmark, headquartered in San Francisco
+
+UiPath, founded in Romania, headquartered in New York
+
+Unity Technologies, founded in Copenhagen, headquartered in San Francisco
+
+Special thanks to Steven Rossi who manages the Crunchbase Unicorn Leaderboard.

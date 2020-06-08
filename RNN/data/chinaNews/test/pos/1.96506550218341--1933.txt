@@ -1,0 +1,17 @@
+In a small suite tucked away in the heart of the Wynn hotel, Chinese phone manufacturer OnePlus invited a handful of media to examine a new device. One day before 200,000 people flocked to the convention floors as part of CES, this private event gave Quartz a behind-the-scenes look at the company’s experimental tech.
+
+The star of the event: the Concept One, a modified version of its OnePlus 7T Pro 5G McLaren, which normally retails for $900. While Quartz has sung praise for OnePlus’ phone cameras before, this unit was even more thrilling, and that’s because OnePlus took a design risk—it hid the camera.
+
+Quartz/Matthew de Silva Whoa, where’d it go?
+
+Look carefully at the lens, just above the OnePlus logo—did you see it disappear? Here’s how it works: As product manager Xi Zeng explained, OnePlus borrowed technology from the sunroof of the McLaren 720S Spider (yes, that’s a car) for the glass cover on its camera apparatus. By running an electrical current through the 0.35 mm glass, the Concept One cover can shift between opaque and transparent in just 0.7 seconds, letting the camera perform a disappearing act. OnePlus refers to this as “the beauty of the unseen,” part of its “burdenless design.”
+
+As cameras become more ubiquitous—on laptops, security sensors, and cellphones—it’s nice to have a way to, well, hide them. Plus, the whole disappearing act is pretty James Bond-y, so it definitely wins on the cool factor. Functionally speaking, electrochromic glass could also act as a neutral density filter, allowing photographers to control how much light enters a camera’s lens.
+
+The phone is the “perfect combination of technology and art,” said Zeng. Indeed, the device, clad in Papaya orange leather (another echo from the McLaren 720S), appears sleek. A 24-karat gold trim gives it an extra refined sheen.
+
+For now, the Concept One is exactly that—a concept. Zeng said the prototype device required 18 months of concentrated development but there’s still room for improvement. He conceded that the company ran into problems during development, such as excessive power consumption, speed (initially, the disappearing act took five less-than-magical seconds), and there were challenges related to the ultra-thin electrochromic glass—in the McLaren sunroof, the color-changing glass is much thicker and apparently easier to work with.
+
+Although OnePlus isn’t planning to release the Concept One publicly, OnePlus CEO Pete Lau said (through a translator) that eventually the company could make its electrochromic glass available to other companies. One can only hope.
+
+While concept products are often considered outrageous, OnePlus kept its focus on first principles and it showed. With the Concept One, the company delivered simplicity and elegance.

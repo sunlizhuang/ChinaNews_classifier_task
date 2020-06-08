@@ -1,0 +1,69 @@
+A critical intersection lies just behind a security-protected door on the 18th floor of the MaRS Discovery Centre in downtown Toronto.
+
+Every day approximately 2,000 blood, urine, stool, tissue and other bodily samples are sent here, Public Health Ontario’s laboratory, to be tested for an encyclopedia’s worth of maladies, from food-borne illnesses like E. coli to sexually transmitted diseases.
+
+Every sample is logged into a computer. Most travel onwards to workstations on the 18th floor for routine testing. But samples to be tested for the novel coronavirus are immediately diverted one floor up. The virus has infected nearly 79,000 people in 33 countries — including 10 in Canada — sparking a global health emergency. Almost 2,500 people have died.
+
+A sophisticated suite of machinery awaits, technology with the power to rapidly indicate whether a patient is negative for COVID-19, the illness caused by the coronavirus, or whether the province’s health system must mobilize to contain the spread of disease.
+
+Scientists at the PHO lab have processed nearly 500 potential cases, with increasing speed — preliminary results are now available in just six hours. Only four of those cases have been confirmed positive for the coronavirus.
+
+“To be able to have these results back in near real time is just vital. It helps you care for that individual patient, but it also facilitates care for everyone else in the hospital as well,” says Isaac Bogoch, a staff physician and infectious disease specialist at Toronto General Hospital and a professor at the University of Toronto.
+
+Bogoch says the number of negatives the lab has confirmed is just as important as the number of positives. Anyone suspected of having COVID-19 requires a massive deployment of resources, from isolation in special negative-pressure hospital rooms to extensive personal protective equipment for anyone treating them. The sooner a patient can be ruled out, the better.
+
+The lab confirmed a new presumptive COVID-19 case on Sunday in a woman who arrived in Toronto from China on Friday. The woman was mildly ill and is now in self-isolation at home, Ontario’s chief medical officer of health confirmed in a statement.
+
+YOU MIGHT BE INTERESTED IN...
+
+Health officials say the risk to the public here remains low. But the global epidemic showed signs of entering a new and worrying phase, with cases appearing in previously unaffected countries and a dramatic surge in South Korea. British Columbia’s sixth COVID-19 case was identified in a recent traveller from Iran, a country that until recently was not known to have widespread transmission.
+
+“Tests get thought of as sort of widgets. But if it’s done right, it’s not just a widget,” says Vanessa Allen, chief of medical microbiology at the PHO lab.
+
+“How does it help with decision-making before and after? That’s also kind of a critical function that most people aren’t aware of.”
+
+With near-constant news about the coronavirus, it can be easy to forget that the world has only known of its existence for less than two months.
+
+Just before New Year’s, a bulletin was posted to ProMED, an Internet service that allows news of unusual global health events to circulate rapidly. It described a mysterious cluster of pneumonia cases in Wuhan, China. The cause of the pneumonia could not be determined, and seven of the 27 patients were critically ill.
+
+On Jan. 8, Chinese researchers said that the rapidly spreading illness was caused by new coronavirus, the same family of pathogens that cause SARS — a respiratory illness epidemic that devastated Ontario’s under-prepared health-care system. By mid-January, the PHO lab had its first potential case.
+
+Developing a new disease test usually takes four months, Allen says; this outbreak had arrived on Ontario’s doorstep in just two weeks.
+
+The lab pulled on all available resources to develop a test that balanced speed with accuracy, adding staff from other units to accommodate the surge. The World Health Organization, Health Canada, and other health bodies have provided guidance as the outbreak developed.
+
+YOU MIGHT BE INTERESTED IN...
+
+An overly sensitive test could result in a glut of “false positives” — patients incorrectly identified as infected — that needlessly jam up the health-care system. A test that leans too far in the other direction would allow “false negatives” — patients incorrectly identified as not infected — to slip through the cracks, almost certainly spreading the disease to new patients.
+
+Get more of today's top stories in your inbox Sign up for the Star's Morning Headlines email newsletter for a briefing of the day's big news. Sign Up Now
+
+As the scientists and technicians worked furiously to refine their protocol, the cases arriving at the lab mounted. Health-care providers are asked to send at least two swabs from potential COVID-19 cases, one from the nose and one from the throat; some send more. So a day in which the lab processes 15 cases means testing upwards of 40 samples.
+
+Those samples are couriered from all over the province to the building’s loading dock, where they are kept in a fridge policed by a security guard. From 7 a.m. to 7 p.m., the lab sends someone down every hour to check for new samples.
+
+The samples are brought up to the 18th floor, where they enter through doors that are protected by multiple layers of security, and are logged into a computer. If the samples have been properly flagged as a potential coronavirus case, they are immediately diverted upstairs to the 19th floor, which is reserved for more specialized testing.
+
+PHO’s test relies on a technology called polymerase chain reaction (PCR), which allows scientists to make millions or billions of copies of the virus’s genetic material from a very small sample.
+
+In one room, nucleic acid — the molecules that store genetic information — is chemically extracted from the samples. In coronaviruses, nucleic acid comes in the form of single-stranded RNA, unlike our own double-stranded DNA. In another room, that nucleic acid is plated and prepared for amplification.
+
+The plates are brought to another room and loaded into machines known as real-time thermal cyclers. The machines convert the single-stranded RNA to double-stranded DNA, and then use heat to break the DNA strands into two. Each half is built back into a whole strand again, exponentially amplifying the amount of DNA on every cycle — millions of copies can be created in just a few hours.
+
+The machine is searching for two specific targets on the novel coronavirus’ genome, genes that the scientists chose because they are unique to this virus and don’t mutate very much.
+
+If the first PCR test identifies a match at one or both targets, the lab carries out a second test that takes longer but explicitly spells out the genetic code of the virus, leaving little room for doubt about the presence of the coronavirus. All positive samples are also sent to Canada’s National Microbiology Laboratory in Winnipeg, which provides the final confirmation. (Negative samples were also sent to the national lab until recently.)
+
+Toronto’s first two COVID-19 cases, a husband and wife who had travelled directly from Wuhan, were confirmed as positive at both the PHO lab and the national lab. But Ontario’s third case, a student in London, tested negative in Ontario. Further testing in Winnipeg indicated the presence of the coronavirus.
+
+Allen says PHO’s lab was using a different testing protocol at the time, but that the patient also had very low viral loads: Winnipeg ran multiple tests on those samples and also got negative results in some of them.
+
+Bogoch, the Toronto General Hospital infectious disease physician, says he considers that reversal a positive sign.
+
+“This was viewed in the general public I think very unfairly. People said, ‘Wow, this system didn’t work.’ The answer is actually the opposite: there is a robust system in place to catch these cases.”
+
+Ontario’s lab, other provincial public health labs, and Canada’s national lab have all “rapidly scaled up their ability to do testing,” Bogoch added.
+
+“The number of negative tests throughout the provinces, which numbers now over 1,000, is demonstrative that our system is working to date.”
+
+Read more about:

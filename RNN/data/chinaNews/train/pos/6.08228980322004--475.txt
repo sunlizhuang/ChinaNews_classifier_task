@@ -1,0 +1,58 @@
+Easy Cut Studio Release Version 5 with More Cutter Support and 64-Bit Compatibility
+
+Monday, January 06, 2020
+
+Press release from the issuing company
+
+The most up to date and easiest to use sign making, vinyl cutting software for your cutting plotter.
+
+New York and BeiJing, China – EasyCut has introduced Easy Cut Studio version 5, a compatibility update to the company’s sign-making solution with more enhanced functions, Support for more vinyl cutters, 64-bit compatibility and much more. Version 5 of Easy Cut Studio has been optimized to be fully compliant with Apple’s latest operating system – macOS 10.15 Catalina.
+
+Easy Cut Studio is designed and engineered to be the total solution for any sign-making business. It helps you make signs quickly and easily, even if you're not a professional designer. The software features advanced vector graphics editor, vectorization tool, and all special effects, along with full vinyl cutting and color printing features. Perfectly adapted for both Mac and Windows. it can be used in 8 different languages and together with over 600 different cutting plotters.
+
+“EasyCut is excited to add 64 bit support to Easy Cut Studio 5, With 64-bit support, The program can process significantly larger design files and even quicker than before. Both 32-bit and 64-bit worksheets are interchangeable for optimal compatibility, provided that the file can be processed in 32-bit.” said Eric Lee, EasyCut CEO. “ As the superstar product, it combines the advanced cutting technology and simplest UI design. We are always trying our best to making it better and better.”
+
+Easy Cut Studio Version 5 is the culmination of 2 years engineering work and carefully considered feedback from dozens of cutting plotter manufacturers and hundreds of customers worldwide. Easy Cut Studio 5 is the new version of the sign industry’s leading vinyl cutting software, It offers a variety of powerful tools and features to create from scratch, edit and enhance vector graphics. The upgrade of the vinyl cutting software for Mac and Windows features a 64-bit engine for speed improvements, larger projects and additional features listed below.
+
+Easy Cut Studio 5 includes the following new features and bug fixes:
+
+- Added support for GCC RXII, UKCutter SMURF, Cotek, FlyCut, Bridge, Bascocut,
+
+Vinyl Express GRC, ArtSign and EastSign cutters.
+
+- Fully compatible with the latest macOS 10.15 Catalina.
+
+- Completely rewritten for 64-bit, now runs natively as 64-bit on machines.
+
+- Added sensitivity option for USCutter TITAN3 ARMS.
+
+- Add TCP option to Janome cutter.
+
+- Export as PDF format.
+
+- More than one project can be opened at a time.
+
+- Custom guidelines.
+
+- Custom color for Cutting Mat.
+
+- Custom guidelines.
+
+- More functions added to Trace Image.
+
+- Other stability improvements and small bugs fixed.
+
+To learn more about Easy Cut Studio 5, please visit
+
+https://www.easycutstudio.com/
+
+Pricing and availability:
+
+Easy Cut Studio 5 runs perfectly under Windows XP/Vista/7/8/10 (32/64-bit) and macOS 10.10-10.15, is available at the price of $59.95 for one single license.
+
+Licensed customers get free lifetime technical support and free download/after-sale service. Since EasyCut offers a free lifetime upgrade on its products, the existing users of Easy Cut Studio 4 may be upgraded to Easy Cut Studio 5 for Free.
+
+To post a comment Log In or Become a Member, doing so is simple and free
+
+
+

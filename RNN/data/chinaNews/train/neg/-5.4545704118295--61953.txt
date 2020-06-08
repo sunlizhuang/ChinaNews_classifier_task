@@ -1,0 +1,247 @@
+Summary:
+
+Hubei officials reported an additional 81 deaths in Hubei on Saturday, bringing the death toll to 806: more than the total from the entire 2002-2003 SARS outbreak.
+
+Lockdown spreads to Chengdu, China's sixth largest city (14.4. million)
+
+A little later, China's National Health commission reported that there were a total of 811 deaths across China, an increase of 89 overnight - the biggest one-day increase yet - while 2,649 discharged patients were cured
+
+China also reported that on Feb 8, the total number of confirmed new cases rose to 37,198, an increase of 2,652 overnight with 3,916 suspected new cases, bringing the total to 28,942 suspected cases.
+
+A total of 188,183 people were receiving medical attention, down 1,477 from 189,660 the day before
+
+First American citizen has died
+
+First Japanese citizen suspected of succumbing to virus
+
+France elevates travel advisory to orange after 5 Britons fall ill in ski resort
+
+Roundup of suspected infected in Wuhan continues
+
+Beijing appoints Xi protege to help lead virus response
+
+Vigil held for the dead coronavirus whistleblower, Dr. Li, in Hong Kong
+
+China blocks Foxconn plan to reopen factories
+
+* * *
+
+Update (2130ET): Rumors on American social media claim the quarantine that is already affected 400m+ people, 60+ cities, and 3 provinces has been expanded to Chengdu, China's sixth-largest city, with a total population of 14.4 million.
+
+Thread. Reports Chengdu now on lockdown.
+
+
+
+Curbs on mobility of citizens throughout city.
+
+Checkpoints at entrances to all residential communities/workplaces, including police presence. Mandatory temperature checks. Currently set to last 10 days. https://t.co/23zuFUOOXZ — Carl Minzner (@CarlMinzner) February 9, 2020
+
+Twitter's @CarlMinzner retweeted a thread from yesterday exploring whether the government is drawing on its experiencing interning more than 1 million Muslims in Xinjiang to carry out its quarantine.
+
+(1/x) Many Chinese cities adopting aggressive lockdown policies to combat coronavirus. Include: tough controls on mobility & collection of personal information. In Wuhan, mass shelters too.
+
+
+
+Definitely worth seeing if Party specifically drawing on recent policies in Xinjiang... — Carl Minzner (@CarlMinzner) February 8, 2020
+
+(2/x) Note: Xi Jinping's call for a "people's war" on the virus sounds similar to that back in 2014 for a "people's war on terror" in Xinjiang.
+
+
+
+The latter definitely unlocked the ability for local officials to pursue much more aggressive (and repressive) measures. — Carl Minzner (@CarlMinzner) February 8, 2020
+
+(3/x) And I also have the sense that virus lockdown policies have:
+
+a) gotten much tougher within just the last few days, and
+
+b) are spreading to a much wider number of provinces and cities — Carl Minzner (@CarlMinzner) February 8, 2020
+
+(4/x) All of that would be explained by coordinated national pivot to treating virus as comprehensive security threat (my guess - the Feb. 3 Politburo Standing Committee meeting) at which virus # made pre-eminent target for Party cadres, even at expense of economic consequences. — Carl Minzner (@CarlMinzner) February 8, 2020
+
+(5/x) My guess is:
+
+a) that happened in some form, and
+
+b) that has now pushed Party authorities in province after province to pivot heavily to the public security/social stability apparatus in responding to virus outbreak. — Carl Minzner (@CarlMinzner) February 8, 2020
+
+(6/x) If true, big risks.
+
+
+
+Here's one: in their zeal to hit "no more virus" target, local authorities might start preemptively detaining anyone w/symptoms (say, fever) - and not in medically-approved, carefully planned manner, but in hasty mass roundups that amplify virus spread. — Carl Minzner (@CarlMinzner) February 8, 2020
+
+(7/x) Naturally, I hope that I'm totally off-base with all of that.
+
+
+
+But my gut tells me all that is consistent w/the internal logic of how the Party's bureaucracy would rumble forward if Beijing has decided (as is likely) to treat this as a major social stability challenge. — Carl Minzner (@CarlMinzner) February 8, 2020
+
+The news comes just hours after health officials in Hubei confirmed the grim reality that China's (probably doctored) death figures have surpassed the total death toll from the SARS outbreak.
+
+* * *
+
+Update (2000ET): According to China's National Health Commission, the total number of confirmed cases has jumped to 37,198 overnight, an increase of 2,652, with another 28,942 cases suspended. The total number of deaths across the mainland surged by 89, the biggest one day increase yet, and bringing the total to 811.
+
+There was good and bad news here. The good news is that ever since China shifted from an exponential to a quadratic equation to goalseek the spread of the pandemic, today was the smallest increase in new cases in a week:
+
+However, before stocks rip higher on hopes that this time the pandemic is finally contained, there may be a far less upehoric reason why the number of new cases has topped out at around 3,000. As Dr Scott Gottlieb notes, Hubei's "actual testing capacity on a per patient basis may be closer to 3,000", which means the province may have far more new daily cases, it just can confirm them all.
+
+That 6,000 case testing capacity is per specimen. Assuming for each patient, there are multiple specimens sent, the actual testing capacity on a per patient basis may be closer to 3,000. — Scott Gottlieb, MD (@ScottGottliebMD) February 9, 2020
+
+Meanwhile, the bad news is that even with this unexpected drop in new cases, the cumulative total is still well above JPMorgan's base case forecast of 35,760 for Feb 8 (and certainly above the optimistic case of 30,957), and just shy of the pessimistic scenario of 39,018.
+
+And to further discount any good news, it remains debatable whether one can even trust any Chinese data. As a reminder, 4 days ago the number of people receiving medical attention in China suddenly and unexpectedly plateaued after increase by 15-20K a day, a very suspicious development, and overnight we say the biggest drop in number of people receiving medical attention, which dropped by 1,477. Needless to say this number is suspect...
+
+... as is the actual mortality rate, which virtually every single day since the pandemic broke out has been reported to be right around 2.1% of all reported cases, a number that is not as artificially stable as China's GDP, but is orders of magnitude below what some reputable scientists have said is the true mortality rate, which may be as high as 15-20% for cases in Wuhan.
+
+In any case, to repeat what we said earlier, it only took 3 weeks for coronavirus to surpass the death from the 2003 SARS outbreak, which had an R0 of 2-5. Something tells us that the R0 of the novel coronavirus - which according to most scientists is lower than that of SARS - will end up being far, far higher, as will its mortality rate when the true numbers are finally released.
+
+* * *
+
+Update (1745ET): The coronavirus outbreak has just reached another grim milestone: The death toll has eclipsed that of the 2002-2003 SARS outbreak.
+
+China's Hubei province has also reported 2,147 additional cases as of Feb. 8 (early Sunday in Beijing), lifting the total of cases in Hubei alone to 27,100, though the number of new cases being reported out of Hubei continued to slow. Reported cases in China alone exceed 36,693 less than two months after surfacing in late December in Wuhan. SARS sickened just 8,100.
+
+We noticed over the past few days that the 'anti-alarmists' who claimed that the outbreak wasn't even as deadly as the seasonal flu have gradually gone quiet. Everybody who played down the seriousness of this outbreak is been unequivocally proven wrong.
+
+To put this all in perspective:
+
+Confirmed death toll:
+
+
+
+2020 Coronavirus: 806 (in 29 days)
+
+
+
+2003 SARS: 774 (in 9 months)#coronavirus — Norbert Elekes (@NorbertElekes) February 8, 2020
+
+If you're looking for a visual, here's a useful one (though this chart is slightly out-of-date):
+
+Within the next 24 hours the number of people killed by novel coronavirus in 6 weeks will exceed the number killed during the 9-month SARS outbreak. Pausing to mourn and commemorate the lives of those lost and re-dedicate to reducing future losses as effectively as possible. pic.twitter.com/okM2ZpXiPR — Dr. Tom Frieden (@DrTomFrieden) February 8, 2020
+
+A broader look at the outbreak:
+
+The #coronavirus disease spreading around the world has killed 805 people, exceeding the death toll from the global outbreak of SARS that started in China almost two decades ago. https://t.co/b3RI6G3Tfm pic.twitter.com/vvdOKwJoQd — Holger Zschaepitz (@Schuldensuehner) February 8, 2020
+
+The confirmed cases have climbed by more than 2,000 daily since Feb. 2, peaking at 3,156 two days later. Confirmed cases also fell in the city of Wuhan, Bloomberg reports. The final evacuation flight taking more than 200 British citizens (and others) out of China has reportedly left Wuhan. Those passengers will be quarantined for two weeks upon arriving back in the UK.
+
+* * *
+
+Update (1500ET): The NYT just published its latest critical piece about the Chinese government's handling of the coronavirus outbreak. This one centers on President Xi's decision to stay out of the limelight over the past two weeks, instead leaving the crisis to his No. 2, Premier Li Keqiang, who has been charged with leading the committee of senior officials tasked with overseeing the government response to the outbreak.
+
+One academic quoted in the article explains that the government's botched handling of the outbreak could be the biggest threat to Xi's rule during his tenure so far, and that the changes he's imposed on the Chinese constitution could make it difficult for Xi to avoid blame.
+
+"It’s a big shock to the legitimacy of the ruling party. I think it could be only second to the June 4 incident of 1989. It’s that big," said Rong Jian, a writer about politics in Beijing, referring to the armed crackdown on Tiananmen Square protesters that year. "There’s no doubt about his control over power," he added, "but the manner of control and its consequences have hurt his legitimacy and reputation."
+
+Meanwhile, three more cases of nCoV have been confirmed aboard the 'Diamond Princess', the Carnival-owned cruise ship currently under quarantine in Yokohama. Three more individuals have tested positive, bringing the number aboard to 64, the government said Saturday. All passengers are facing a two-week quarantine.
+
+In China, much of the population has ordered to stay home, with only limited runs for essential supplies allowed. Factories will remain closed for at least another week or so, and airlines have cut service. JPM recently warned that the economic impact could drive China's economy to a standstill. Here's the latest update on how China's tourism industry is dealing with the fallout.
+
+In other economic news, the government in Beijing just blocked Apple supplier Foxconn's plan to reopen factories in the southern city of Shenzen on Monday. According to Nikkei, health inspectors visited the factories and determined there was a "high risk" of infection.
+
+But most unusually about this crisis is the fact that the Communist Party's immense propaganda machine is struggling to regain control of the narrative. After cracking down too hard on people like Dr. Li and others who warned of the outbreak before it became a national - then international - issue, the government dialed down its censorship machine, only to ramp it back up a few days later. Now, the party and its cadres are struggling to reassert control. Citizen journalists covering the outbreak in Wuhan have been harassed and arrested.
+
+Though it wasn't mentioned in the NYT report, Beijing bolstered its response to the crisis by appointing a protégé of President Xi to the committee overseeing the response to the outbreak, the latest effort by the government to rebuild confidence after the death of Dr. Li. Chen Yixin, secretary general of the Central Political and Legal Affairs Commission, the Communist Party’s top law enforcement body, was appointed to Li's committee, according to Taoran Notes, a social media account affiliated with state-owned Economic Daily, which was cited by SCMP.
+
+Dr. Li. Chen Yixin
+
+A vigil for the doctor was held in Hong Kong.
+
+Here's video from one vigil:
+
+One image circulating online shows Dr. Li's face with his mouth covered by a dragon paw, a symbol of how the government silenced him.
+
+Hero of freedom of information Dr. Li Wenliang, the world's face of the China coronavirus pic.twitter.com/pLdzMT6GCW — Antonio J. Montalván II (@AntonioJMontal2) February 8, 2020
+
+Canada's National Post has documented some more of the outrage growing on social media, which the Communist Party is scrambling to suppress.
+
+"Good people don’t live long, but evil lives for a thousand years," read one post mourning Li’s death.
+
+A hashtag referencing the message that Dr. Li was forced to sign by police in Wuhan after he was punished for speaking out is spreading on Weibo and other Chinese social media sites.
+
+Now, many users are using the hashtag “Can you manage, do you understand?” — a reference to the letter Dr. Li was forced to sign when authorities accused him of disrupting “social order,” according the BBC. Though the comments hold back from outright naming Li, they demonstrate the escalating anger towards the government. "Do not forget how you feel now. Do not forget this anger. We must not let this happen again,” one commenter wrote on Weibo. "The truth will always be treated as a rumour. How long are you going to lie? What else do you have to hide?” another wrote. "If you are angry with what you see, stand up."
+
+In one of the most unlikely outbreaks so far, the coronavirus has arrived in the Haute Savois in the French Alps according to Bloomberg and Vanity Fair. As we mentioned earlier, five Britons have been diagnosed with the holidays just a week before the resort is set to be packed with vacationers from the UK.
+
+Beijing has also sent members of a powerful anti-corruption committee to investigate the circumstances surrounding Dr. Li's death, a sign that Beijing will likely find some poor local official to scapegoat.
+
+The virus has been tracked back to a contaminated chalet in Les Contamines-Montjoie. Family members from two apartments within the chalet have been infected, including a 9-year-old girl. The virus is believed to have traveled to the resort after another Briton traveled to Singapore.
+
+So far, only a handful of new cases have been reported Saturday afternoon in the US, though it's the middle of the night in Beijing right now. Here's the latest count courtesy of SCMP.
+
+* * *
+
+Update (1200ET): More surprisingly frank reports from the Chinese press have been circulating on Saturday courtesy of Caixin, a Beijing-based financial and business news organization.
+
+Among other things, TV reports claimed shortages of essential medical supplies have persisted into Saturday, stoking public anger over the death of Dr. Li, the first bonafide martyr of the 2019-2020 nCoV outbreak.
+
+Caixin -Shortages Persist, Aerosol Transmission Fuels Jitters https://t.co/GL7XmHjF3d public health experts said commonly used coronavirus tests were returning worrying numbers of false negatives, fueling concerns that the virus may have spread far further than reported. — Bill Bishop (@niubi) February 8, 2020
+
+The station offered more grim updates on the rounding up of all infected patients in Wuhan.
+
+sat cctv eve news on central group overseeing the epidemic- 中央赴湖北指导组：应收尽收，刻不容缓 - in wuhan - "round up everyone who needs to be rounded up, no delay tolerated" in effort to quarantine anyone infected or suspected to be infected w the virus https://t.co/Ox7RZ6JIYR — Bill Bishop (@niubi) February 8, 2020
+
+Other reports claim that government forces are also rounding up those who are merely suspected of being exposed.
+
+Disturbing from Communist China.
+
+
+
+Chinese government are only suspecting these people have been exposed & therefore are going to quarantine them w/ people who have #coronavirus.
+
+
+
+They are fighting because they don’t want to be quarantined w/ the infected. pic.twitter.com/6Lvnr2Cj7o — Nat Shupe (@NatShupe) February 7, 2020
+
+As one twitter sleuth asks: Would they be going to all this trouble for less than 800 dead across a country of 1.4 billion? So far, reports of these violent roundups have been confined to Wuhan. How long until they start rounding up party members in Shanghai, or Beijing?
+
+Police in #China are rounding people up and taking them by force if they are sick or suspected of being #infected by #Wuhan #coronavirus #2019nCoV.
+
+
+
+Would this be happening if the actual numbers of the infected and the dead were as low as what is being told? China is in panic. pic.twitter.com/bGJj3f9PGs — Coronavirus Pandemic Tracker (@nCoVtracker) February 3, 2020
+
+China’s death toll soars as Wuhan plans roundup of infected. A senior Chinese official has ordered the authorities in the city of Wuhan to immediately roundup all infected #coronavirus patients for new “mass quarantine camps”. (CNN)
+
+pic.twitter.com/ZGhDkSTr53 — Max Howroute▫️ (@howroute) February 6, 2020
+
+Mandatory home and temperature checks were only the beginning. How long until millions are forcibly confined?
+
+* * *
+
+With roughly a dozen cases confirmed in the US, all of which are reportedly expected to pull through, news of the first American death from the coronavirus outbreak initially sounded like a mistake. But it's now been confirmed by both the New York Times and WSJ: One of the Americans who decided to stay behind in Wuhan has died.
+
+Few details about the woman were immediately available, other than her age - 60 - and the location where she died. Though the NYT reported, citing two sources, that she had underlying health issues.
+
+Few details about the American, who died on Thursday, were immediately available. According to the United States Embassy in Beijing, the person was 60 years old and died at Jinyintan Hospital in Wuhan, the inland metropolis at the center of the epidemic. Two people familiar with the matter said the person was a woman and had underlying health conditions.
+
+It's unclear whether the woman who died made any attempt to leave the city on one of the evacuation flights that has ferried Americans to safety.
+
+News of the American woman's death come as the world grows increasingly skeptical about the numbers being released by the Chinese government, with some suggesting that the number of new cases reported every day reflects China's limited screening abilities, not the actual number of new infections. And as we pointed out last night, over the past two weeks, what was initially an exponential curve in the number of new cases has quietly shifted into a quadratic one, where the number of new cases is largely unchanged day after day.
+
+We also noted that the number of confirmed deaths (all except for 3 have been recorded inside China) has topped 700 (the most recent total is 724), and is now closing in on the 800 number - aka the total number of cases from the SARS outbreak.
+
+SCMP
+
+Washington is especially frustrated with Beijing right now because, for the last month, the CDC has been offering to send a team of experts to help China combat the outbreak (remember when President Trump promised whatever help would be necessary?). But the Chinese have refused to accept them (though they have accepted shipments of facemasks and other supplies). A similar offer from the WHO has also been refused (though its top officials - who know the deal with Beijing - have met with the Chinese leadership).
+
+Alex Azar, the United States secretary of health and human services, said at a news briefing on Friday that he had recently reiterated the C.D.C. offer to his Chinese counterpart, Dr. Ma Xiaowei. Asked about the holdup, Mr. Azar said: "It’s up to the Chinese. We continue to expect fully that President Xi will accept our offer. We’re ready and willing and able to go."
+
+Hmm....we wonder why?
+
+Interestingly, Japan also claimed that one of its citizens may have succumbed to the virus in Wuhan, though they can't be sure because Chinese officials never confirmed whether the patient had contracted nCoV.
+
+Japan also said on Saturday that one of its citizens had died in a Wuhan hospital from a suspected case of the coronavirus. But the Japanese Foreign Ministry said that based on information it received from the Chinese authorities, it could not confirm whether the man, who was in his 60s, had been infected with the new virus. The ministry called the cause of death viral pneumonia.
+
+Per WSJ, Chinese officials said the man died of "viral pneumonia" in Wuhan, meaning it was almost certainly nCoV.
+
+China’s Foreign Ministry said this past week that as of noon on Thursday, 19 foreign nationals in the country had been confirmed to be infected with the coronavirus, and only two have been discharged from the hospital.
+
+In other disturbing news, 5 British nationals have reportedly been diagnosed with the virus in a French ski town, according to the Telegraph. The group was reportedly infected when one of its members came into contact with an individual who had been infected in Singapore.
+
+Think about that: Five Britons have been infected with the virus (which can cause life-threatening pneumonia) after contracting it via aerosol exposure from a traveler who had recently been to Singapore, and was (presumably) infected there. The French government has raised its travel restriction to orange.
+
+Does that sound like a 'China' problem? All the while, China is growing more isolated as the US and dozens of other countries either close their borders to Chinese citizens, or implement strict controls. Meanwhile, across the mainland, millions are mourning the death of Dr. Li, a doctor who succumbed to the virus in Wuhan after being punished for trying to warn the public about it. According to the SCMP, his death could inspire demands for free speech to coalesce into a movement, similar to what just transpired in Hong Kong.
+
+For the hundreds of Americans who were rescued and are now being quarantined on American military bases, news of the death, though said, likely helped put things in perspective: Yes, they're stuck in this military camp for two weeks. But at least one of them must be thinking: 'there but for the grace of God go I.'

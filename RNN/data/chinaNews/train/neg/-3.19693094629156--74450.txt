@@ -1,0 +1,267 @@
+Stephen Brashear/GettyImages; Yutong Yuan/Business Insider Boeing has increasingly embraced automation, but some have pushed back.
+
+Automation in planes – taking control of flight systems from pilots and putting it in the hands of machines – has steadily increased in recent decades.
+
+Two crashes involving Boeing’s 737 Max that killed 346 people were both attributed largely to MCAS, the plane’s automated system designed to keep it level in the sky.
+
+Business Insider spoke with aviation experts and former plane-safety officials about automation in aviation, many of whom said they had longstanding concerns about increased technology in aircraft.
+
+One said he warned the Federal Aviation Administration about the dangers of automation in planes as early as the 1980s, but that senior officials ignored his calls.
+
+Another said that continued automation may lead to the erosion of the skills of pilots, making them unable to deal with serious incidents during flights.
+
+But others said that, “properly done,” automation can be a good thing and improve safety.
+
+Boeing said it has reevaluated how it expects pilots to interact with plane controls in light of the crashes, but it has also suggested that automation will be a bigger part of its products going forward.
+
+Visit Business Insider’s homepage for more stories.
+
+The two fatal crashes by Boeing’s 737 Max planes that killed nearly 350 people prompted deep soul-searching for the world’s largest planemaker and probing questions for those tasked with regulating the industry and keeping passengers safe.
+
+But it also raised old fears about the role that automation plays in airline travel and what happens if control is taken away from a plane’s pilots and put in the hands of machines.
+
+Najmedin Meshkati, an engineering professor at the University of Southern California and who studies the role humans play in aviation safety, told Business Insider, “This crisis in Boeing has elevated concern about automation to a much higher level, whether we like it or not.”
+
+REUTERS/Baz Ratner/File Photo American civil aviation and Boeing investigators search through the debris at the site of the Ethiopian Airlines crash in March 2019.
+
+Boeing has, historically, embraced automation to a lesser extent than Airbus, its multinational European rival. But its planes have had some computerised processes for decades, and the industry’s safety record has improved as it embraced automation more and more.
+
+But investigations into both 737 Max crashes – a Lion Air plane in Indonesia in October 2018 and an Ethiopian Airlines plane in Ethiopia in March 2019 – found both sets of pilots struggled to control a malfunctioning automated system that forced plane noses toward the ground, and pilots as far away as the US have said they were totally unaware of the system.
+
+Staff with some airlines now say they don’t want to fly the 737 Max, and Boeing and airlines around the world are haemorrhaging millions of dollars as the planes sit idle until an update is approved by regulators, all of which is causing Boeing to lose its crown as the world’s biggest planemaker.
+
+Experts across the industry say they have long been warning that automation could bring about this kind of crisis for the industry – and that Boeing’s current woes are reviving a decades-old debate over what humans should be able to control in planes.
+
+Boeing; Samantha Lee/Business Insider Boeing is facing the biggest crisis in its history as it deals with the fallout of the crashes.
+
+Pilots couldn’t control Boeing’s automated system as the planes plunged toward the ground
+
+The 737 Max introduced a new automated system to allow Boeing to take the basic structure of its older 737 plane and install heavier, more fuel-efficient engines, in turn creating a more efficient plane demanded by airlines while requiring less training for pilots.
+
+This system, called the Manoeuvring Characteristic Augmentation System, or MCAS, is designed to counterbalance the new weight of these engines by pushing the plane’s nose down if this weight tips the plane’s nose upward in a way that could force the plane to stall.
+
+Ted S. Warren/Associated Press The cockpit of a Boeing 737 Max plane.
+
+But the investigations into both crashes found that the system had malfunctioned by repeatedly forcing the nose of the planes down, which left pilots scrambling to find a fix as the plane plunged.
+
+The final report into the Lion Air crash, which killed 189 people, said the pilots tried more than 20 times to stop the plane’s computer forcing its nose down before it crashed into the sea at 450 mph (724.2 kph).
+
+In a recording from the cockpit the pilots can be heard desperately reading an emergency handbook in an attempt to find a way to control the plane.
+
+The preliminary report into the Ethiopian Airlines crash found that the crew followed all proper procedures and could not control the plane and were unable to stop it hitting the ground at 575 mph (925.4 kph).
+
+Xinhua/ via Getty Images The crash site of the Ethiopian Airlines Boeing 737 Max plane.
+
+As Boeing confirmed to Business Insider that the initial report into the Ethiopian Airlines crash showed the MCAS system activated in response to “erroneous” information from the plane’s sensors.
+
+Meshkati described the pilots in both crashes as being “hindered by automation.” With MCAS “there is something going in the background that they don’t know what is going on and how to deal with that, then of course it takes much more time to resolve it.”
+
+Fears over the MCAS system, even with Boeing’s latest updates, have led some airline staff to say they are concerned about flying on the plane again, prompted some airlines to look to cancel their orders for the 737 Max, and pushed one regulator to reportedly say the plane should not fly again with MCAS installed.
+
+Boeing’s updates to the system include it taking information from more than one sensor, only letting it activate once during a flight, and – crucially – giving pilots more control by changing MCAS so it “will never provide more input than the pilot can counteract using the control column alone.”
+
+“These changes will prevent the flight-control conditions that occurred on the Lion Air 610 and Ethiopian Airlines 302 flights from ever happening again,” Boeing spokesman Peter Pedraza said.
+
+The solution to the problem with the 737 Max, Meshkati said, is not just to introduce things like better training for pilots with the systems. The way the entire aviation community approaches automation, he said, needs completely rethinking.
+
+“What I am suggesting is we need to do fundamental soul searching and a study about cockpit automation,” Meshkati added.
+
+Some industry experts say their old fears have been revived
+
+The 737 Max crashes are just two of a string of plane incidents over the decades that can be attributed at least partly to malfunctioning automated systems, or pilots’ inability to understand those systems.
+
+Some experts say they have been warning since the very introduction of the technology that automation could cause incidents like the Max crashes.
+
+Alan Diehl, a former investigator with both the US’s National Transportation Safety Board and FAA, told Business Insider that, as far back as the 1980s he tried to tell the FAA leadership: “We need to be careful with this automation.”
+
+He said that when he accompanied pilots as they tested out aircraft, “the pilots would turn to each other and say, ‘Why is it doing that?'” when automated systems engaged. “That scared me,” Diehl said.
+
+HADI SUTRISNO/AFP/Getty Images Family members of the crashed Indonesian Lion Air JT-610 react at Pangkal Pinang airport.
+
+Diehl said he told then administrator Langhorn Bond, who was head of the FAA between 1977 and 1981, that automation was a “two-edged sword”: generally beneficial but potentially dangerous. He said he suggested launching an international commission about the matter, but Langhorn “never called back” about it.
+
+Diehl is not alone in revisiting old warnings in light of the investigators’ findings.
+
+Former pilots, safety investigators, and aviation experts told Business Insider that they have long expressed concerns that such disasters would be inevitable if automated systems did not get enough oversight.
+
+Meshkati pointed to a 1996 report by the FAA that highlighted “difficulties in flight crews interacting with flight deck automation,” even though the technology had generally made flying safer.
+
+The report was compiled after a China Airlines plane crashed and killed 264 people after “conflicting actions taken by the flight crew and the aeroplane’s autopilot.”
+
+Mark Goodrich, an aviation lawyer and former aeronautical engineer and test pilot who has focused on automation for much of his career, said he has previously told both Boeing and Airbus that rapidly embracing automation carries risks.
+
+David Ryder/Getty Images Undelivered Boeing 737 Max planes sit idle at a Boeing property in Seattle, Washington, in August 2019.
+
+“We’re in the air-transportation business – we should be operating 10 years at a minimum behind the leading edge of technology,” he said.
+
+“We should be thinking in terms of safety. And that means you make the aeroplanes simple to understand, you make them flyable. You make it so that when the computers fail the aeroplanes still meet all of its requirements for certification. And you don’t create computer and automated systems that are tools of reliance.
+
+“Unfortunately, that’s not where we’ve gone.”
+
+Goodrich warned in a white paper in 2011 that, driven by financial savings from things like less crew training, even after automation-related crashes the industry “will return to the comfortable assurances by all concerned that any real issue can be easily solved by simply increasing the levels of available automation.”
+
+“Lured in by the false promises that automation turns lead into gold, airline managers make the manuals ever thinner and the training ever shorter,” he said.
+
+Airlines would rely “more upon computer-based training to minimum standards, and less upon a determination of whether flight crews have actually learned enough to safely and efficiently operate the aeroplanes to which assigned,” he added.
+
+Computers can malfunction, and humans don’t always understand them
+
+The FAA’s 1996 report into automation looked at the “human factors” at play in the China Airlines crash – such as how the “flight-crew/automation interface can affect flight safety.”
+
+This interface is one that often works smoothly – computers on the plane listen to pilots, or work away seamlessly in the background while pilots do other things.
+
+But computers can fail, or humans can fail to use them properly.
+
+REUTERS/Baz Ratner An Ethiopian police officer walks past debris of the Ethiopian Airlines Flight ET 302 plane crash in March 2019.
+
+Meshkati said that “automated systems are often based on the known scenarios which you can program by the operators in the emergency operating systems.”
+
+“That’s fine, that’s perfect, but what about the unknown scenarios and novel scenarios?”
+
+Diehl said: “There’s a lot of dangers in that the computers can malfunction when they’re talking to each other. So pilots need to maintain situational awareness, not only as to where you are and how your aeroplane is flying, but what the heck is the automation doing, and when do you need to shut it off and hand fly the aircraft?”
+
+In some cases, inaccurate readings or failed processes have confused pilots.
+
+“When pilots get confused, they can get into trouble,” Diehl said. “That’s happened over and over again in different ways with both Airbus and Boeing products.”
+
+Meshkati said that “when something goes wrong … you need the human operator who comes back in the loop to solve the problem.”
+
+But trouble can arise if pilots don’t understand the problem – and pilots say this was the case with the 737 Max.
+
+Peter Pedraza, Boeing’s spokesman, told Business Insider that on the Max “the flight crew has the final authority over the operation of the aeroplane” and can override the plane’s automatic actions, including disabling MCAS.
+
+He said that the response to the plane’s nose going down is the same, regardless of whether it was caused by MCAS or something else.
+
+Boeing issued an alert to pilots that warned them about the nose-down issue about a week after the first crash, he said.
+
+But Allied Pilots Association, the union that represents American Airlines pilots, expressed anger for Boeing for not telling pilots about MCAS, accusing it of having a “poisoned, diseased philosophy.”
+
+The group’s members had berated Boeing executives after that first crash, with one pilot saying: “I would think that there would be a priority of putting explanations of things that could kill you.”
+
+KAMIL KRZACZYNSKI/AFP/Getty Images Family and friends of the Ethiopian Airlines Flight 302 Boeing plane crash victims hold a protest outside Boeing’s annual shareholders meeting at the Field Museum on April 29, 2019 in Chicago, Illinois.
+
+And the union’s head criticised Boeing to Congress, saying Boeing giving insufficient information about MCAS was its “final, fatal mistake.”
+
+Boeing had maintained that the system is built into the plane so fundamentally that it did not require any other training.
+
+More computers will lead to less skilled pilots
+
+More broadly, Meshkati warned that increasing reliance on automation could erode pilot skills in the long term.
+
+“I’ve been warning about this issue of automation,” Meshkati said. “It works, it’s very good, and it has been a big contributor to the improvement of aviation safety. However, in the long run it causes an erosion of pilots’ skill, because they are out of the loop on what the plane is doing.”
+
+For pilots, greater automation can feel like a loss of control.
+
+Kent Davis, a retired Boeing and Airbus pilot and the safety director for new airline Sky Palace Airways, told Business Insider that pilots need to be able to take control of the plane.
+
+“No flight-control system that is driven by a computer should go without either a manual override, or a way to engage a complete disconnect in the chance of a complete runaway,” Davis said.
+
+REUTERS/Lindsey Wasson/File Photo Employees walk by the end of a 737 Max aircraft at the Boeing factory in Renton, Washington, U.S., March 27, 2019.
+
+Davis said that automation had generally improved safety, but warned of systems like the MCAS, which he said took greater control from pilots.
+
+“Look at your home computer,” Davis added. “How many times do you have a problem with software not running properly? How many times do you have to reboot to fix the problem and how many times does this not work? Could it be that we have ‘teched’ ourselves to a point where safety has suffered?
+
+“I believe we have,” Davis said.
+
+Goodrich said that, as an aeronautical engineer who has been working for more than five decades, he still has to read pilot manuals “five times through to actually figure out exactly what’s going on.”
+
+“And we’re expecting airline pilots to stay up on that, so they can understand what’s going on,” Goodrich added. “It’s incredibly complicated stuff.”
+
+Mica R. Endsley, an aeronautics professor at MIT and former chief scientist of the US Air Force, testified to Congress about the Max in December, and said that automation can result in pilots’ skills fading, creating more work for pilots during a crisis, and regularly confuse pilots.
+
+In the case of the Max, she said: “Automation confusion was high as the pilots struggled to understand what the aircraft was doing.”
+
+Getty Images Dennis Muilenburg, then the president and CEO of Boeing, responds to questioning from the US House Transportation Committee at a hearing on the Boeing 737 Max in October 2019.
+
+“Further,” she said, “the pilots were not aware of or trained on MCAS, and it was not included in their flight manuals, leaving them confused as to why the plane was behaving erratically.”
+
+The Max crashes happened just when the industry and Boeing were embracing automation more
+
+Airbus, which recently unseated Boeing as the world’s largest planemaker, has had a fundamentally different approach to automation since its beginnings, seeing automated systems as the key to the safety of passengers and crew.
+
+But Boeing, even as it slowly introduced automated systems over time, viewed pilot control as the key instead.
+
+The two opposing philosophies have not resulted in a fundamentally different safety record, but each has its own loyal following among airlines and pilots.
+
+And while some pilots will be loyal to one plane type over the other, pilots’ own skils have remained fundamental in the world’s most famous cases of recovered flights.
+
+In a statement to Business Insider, Captain “Sully” Sullenberger, who famously landed an Airbus A320 in New York’s Hudson River, said that the plane’s automated systems “did not help me and it actually hindered me in this case.”
+
+Bebeto Matthews/AP Images The ‘Miracle on the Hudson’ plane.
+
+Some accounts give a level of credit to the Airbus plane’s automated systems. Author and journalist William Langewiesche wrote in his book “Fly By Wire,” about Sullenberger’s landing, about the plane’s “radical semi-robotic European design.”
+
+That design, Langewiesche said, is “known to have participated actively in the survival of the passengers.”
+
+The plane’s automation, Langewiesche wrote, left Sullenberger free to decide what to do as the plane executed his actions.
+
+But Sullenberger disputes this claim, saying “the Airbus fly-by-wire flight control system did not materially assist me during our flight that resulted in the emergency landing on the Hudson River in 2009.”
+
+“In fact, similar to the situation with MCAS in the Boeing 737 MAX, prior to our flight, Airbus never disclosed to airline pilots any information about a software feature (phugoid mode) that in the last four seconds of our flight, as I was beginning the landing, prevented me from achieving the maximum aerodynamic performance of the aircraft.”
+
+“It was only months into the investigation of our flight that this software feature was discovered. One of the safety recommendations that the National Transportation Safety Board made in their final report on our flight was that all airline pilots be made aware of the existence and operation of this software feature.”
+
+“At the time of publication of Langewiesche’s assertions, I publicly disputed them,” he said.
+
+Chris Clearfield, founder of risk-management consulting firm System Logic, a licensed pilot, and coauthor of “Meltdown,” a book about handling catastrophes, said that both Boeing and Airbus planes have “an incredible amount of automation.”
+
+The difference between the world’s two largest plane makers, he said, has traditionally been the level of precedence they give computers over humans.
+
+“The difference is that Boeing’s design philosophy has always been that the pilots have direct access to the flight controls… Airbus has always put a lot of filtering between that.”
+
+He said that the fact that the automation on Max planes has contributed to the biggest-ever crisis for a manufacturer that has typically given automation a limited role was a “huge irony.”
+
+Boeing, he said, had “taken the direct relationship between what the pilot is doing and what the aeroplane is doing and changed that.”
+
+REUTERS/Pascal Rossignol An Airbus A350-1000 and a Boeing sign at the 2019 Paris Air Show.
+
+Christine Negroni, an air-safety specialist and the author of “The Crash Detectives,” also viewed the situation as ironic.
+
+“The great irony is that it was traditionally Boeing who held back and had this idea that ‘we feel the human in control is the best way to go about it’,” she told Business Insider.
+
+But she sees automation as part of a new evolution in aviation – a process that always gets “messy.”
+
+“The new evolution is the use of computers and automation, and that’s where we are now. Each evolution has mistakes, that makes it look like we are taking a step backwards, but that’s just sort of the necessary havoc that comes about with an evolution.”
+
+Boeing is updating the 737 Max, but some say a different approach to automation is needed
+
+Removing automated technology, which has been in jets for decades, from planes completely is not anyone’s proposed solution.
+
+Boeing has proposed introducing a fail-safe system to stop MCAS misfiring, and reversing its longstanding position that simulator training was not necessary for pilots flying the plane.
+
+The fixes, however, are not considered sufficient by those who warn about automation and argue the fixes after other crashes have not been enough either.
+
+Diehl, the former FAA and NTSB investigator, said Boeing needs to introduce aural alerts, where the computer vocalizes what’s happening and helps to speed up pilots decisions.
+
+For example, when MCAS activates and pushes the nose down, Diehl said, the computer should announce: “MCAS Active.”
+
+“Scientific evidence shows such warnings are the best and quickest way to get pilots’ attention in confusing, time-constrained emergencies. My recommendation is based on years of designing cockpits and investigating crashes.
+
+“Reaction time is critical and pilots should not have to consult checklists in such dangerous situations.”
+
+Some are calling for a more fundamental rethink of how we approach automation.
+
+Meshkati said: “We need to do fundamental soul searching and a study about cockpit automation. We need to look at all these unfortunate lessons learned and come up with some guidelines for design philosophy.”
+
+MANDEL NGAN/AFP via Getty Images Boeing CEO Dave Calhoun at a ceremony at the White House in January 2020.
+
+John Lauber, the former chief product safety officer at Airbus, told Business Insider that automated systems work, when implemented properly.
+
+“Each succeeding generation of aircraft is safer than its predecessors,” he said. “This is not to say that cockpit automation does not pose specific challenges in terms of design details, operating procedures, and pilot training requirements – it does. The safety record clearly shows that properly done cockpit automation significantly enhances the safety of aircraft operations.”
+
+Goodrich is ultimately pessimistic that the Max crashes and their fallout will result in any fundamental changes.
+
+“Well, it changed the debate a little bit. Will it result in any meaningful change? Absolutely not.”
+
+Boeing appears to be trying to rethink its strategy more fundamentally. It established a committee to review the company’s design and development of planes, which has led to what Pedraza called “immediate action” to strengthen safety.
+
+That action, Boeing told Business Insider, includes looking again at how it designs cockpits, and the assumptions it makes about how pilots interact with the plane’s controls.
+
+It seems, however, that Boeing’s ultimate solution could to be to turn to automation further.
+
+In November, back when he was the company’s chairman, Dave Calhoun, Boeing’s new CEO, said, “We are going to have to ultimately almost – almost – make these planes fly on their own.”
+
+Business Insider Emails & Alerts Site highlights each day to your inbox. Email Address Join
+
+Follow Business Insider Australia on Facebook, Twitter, LinkedIn, and Instagram.

@@ -1,0 +1,111 @@
+SNC-Lavalin gets Contract to Start Work on Two CANDU type reactors for China
+
+Czech Republic PM Calls for Supplier For New Dukovany Unit To Be Chosen In 2022
+
+UAE 1st PWR at Barakah Operating License On Schedule for 1Q/2020
+
+DOE Awards $3.5 Million to X-Energy for Work on Its New Gas Reactor Design
+
+Advanced Reactors / NRC Adopts Recommendations for SMR Emergency Planning Zones
+
+With 2019 being a year that great progress was made by multiple firms developing small small modulr reactors, it’s important to also track the progress in 2020 of projects that will deliver full size nuclear reactors.
+
+The year has begun with a cascade of positive development for nuclear energy projects large and small. First out of the box is an announcement that SNC-Lavalin, which in 2011bought the reactor division of AECL, has landed a contract with China National Nuclear Power (CNNP) to begin work on a two-unit 700 MWe Advanced Heavy Water Reactor (AHWR).
+
+The firm says the AHWR design is based on the 700 MWe CANDU type (PHWR) model. Improvements are listed as compliance with current international safety standards (GEN III), active and passive safety systems, and design elements that are expected to reduce capital costs and operational maintenance requirements.
+
+The contract is the result of an agreement inked in September 2016 to begin the design work. Also, the agreement called for the creation of two nuclear reactor design centers, one in China and the other in Canada. The design centers will collaborate to complete the Advanced CANDU type reactor. It is expected that the first two units will be then built in China and then the reactor will offered via export to global markets.
+
+The CANDU type design basis features a heavy-water moderator and heavy-water coolant in a pressure tube design and can use both recycled uranium and thorium as fuel. This means that spent fuel from LWR type reactors can be burned in the AHWR as the fuel assemblies are approximaely 95% U238. India has made significant investments in the development of thorium-based PHWR type reactors as part of its long-term R&D efforts.
+
+Units 1 and 2 of the Qinshan Phase III nuclear power plant in China – majority owned by CNNP – use the Candu 6 PHWR technology, with AECL being the main contractor of the project on a turnkey basis. Construction began in 1997 and unit 1 started up in September 2002 and unit 2 in April 2003. These reactors burn U238.
+
+CANDU Coneptual Image: Image Source: SNC Lavalin
+
+In a press release, SNC-Lavalin said the market potential for this technology in China is considerable.
+
+“Each reactor can use recycled-fuel from four light-water reactors (LWRs) to generate six million megawatt-hours (MWh) of additional carbon-free electricity without needing any new natural uranium fuel.”
+
+First Deliverables
+
+SNC-Lavalin will produce the top-level licensing basis document (LBD) to outline the licensing process along with the regulatory and safety requirements applicable to the design, analysis, construction, commissioning and operation of the AHWR.
+
+SNC-Lavalin will prepare Safety Design Guides (SDG) and a description and assessment of the agreed to safety-related design changes. SNC-Lavalin will also review SDGs prepared by partner agencies involved.
+
+Shanghai Nuclear Engineering Research & Design Institute Co. Ltd. (SNERDI) serves as General Design Institute of project, and as technical manager for this contract to review and accept SNC-Lavalin’s deliverables on behalf of CNNP. China Nuclear Energy Industry Corporation (CNEIC) has been designated by CNNP as its foreign trade agent for this contract.
+
+Czech Republic PM Calls for Supplier For New Dukovany Unit To Be Chosen In 2022
+
+Construction of the new reator should start in 2029 and could be completed by 2036
+
+(NucNet) A supplier/vendor for a new unit at Czech utility CEZ’s Dukovany nuclear power station should be chosen by the end of 2022, according to media reports which attribute the statement to Czech prime minister Andrej Babiš. The EPC would likely be a separate firm.
+
+In July 2019 the Czech government approved a preliminary plan for a CEZ subsidiary to build a new unit at Dukovany. Czech energy policy calls for one new unit at Dukovany and possibly three more either at Dukovany or at Temelin.
+
+The Czech government, which owns 70% of CEZ, has been in discussions with the utility about how to expand nuclear power and to replace aging commercial reactors that are scheduled to be permanently shut down in the decades ahead.
+
+A key issue for CEZ may be to buy out minority non-governmental investors in the utility who are opposed to construction of new nuclear power plants.
+
+In September the Ministry of Environmental Protection approved the environmental impact assessment for the construction of up to two new nuclear power plants at Dukovany. The ministry said the approval was for up to 2,400 MW of new capacity at the site.
+
+CEZ chief executive Daniel Benes said the company should have a tender ready by June 2020 and expects offers in 2021 from up to five bidders. He said market estimates for the new unit’s cost ranged from about $5.9bn to $6.9bn, but a final price would come out of the tender.
+
+Taken together, two 1200 MW units costsing $5.9 Bn to $6.9 Bn would come in at at a very competitive price of $2500 to $2900/Kw. Benes’ numbers may be overly optimistic. None of the firms that have expressed an interest in the project are able to deliver full size reactors in this cost range. The Czech Republic is not India or China where very low labor costs and a heavily subsidized heavy industry for long lead time components might drive down costs.
+
+According to media reports, six firms have shown interest in building the new nuclear unit or units. They are China’s CGN, Russia’s Rosatom, South Korea’s KHNP, France’s EDF, Westinghouse, and the Atmea consortium of Mitsubishi Heavy Industries and EDF.
+
+There are four Russia-designed VVER-440 reactor units at the Dukovany site. The government has said they should be replaced by new ones. The Czech Republic has six commercially operational reactor units. In addition to the four units at Dukovany, there are two Russian VVER-1000 units at Temelín. The newer VVER entered revenue service in 2000 and 2002 respectively. They are both due for a 20 year license extension.
+
+UAE First PWR at Barakah Operating License
+
+on Schedule for 1Q/2020
+
+(Wire services) An official of the UAE nuclear energy regulatory agency said in a statement at an industry conference that the operating license for the first South Korean built PWR unit of the Barakah power station could be issued in the first quarter of 2020. Startup would follow later in 2020.
+
+Christer Viktorsson, director-general of the Federal Authority for Nuclear Regulation, was cautiously optimistic about meeting this schedule. He said that absent unforseen issues, the plant will meet these milestones.
+
+The four Barakah reactors are being built by the Korea Electric Power Corp (KEPCO). There have been several delays in starting up the first unit due to problems getting enough staff trained and certified to run the reactor.
+
+DOE Awards $3.5 Million to X-Energy
+
+for Work on Its New Gas Reactor Design
+
+The U.S. Department of Energy (DOE) awarded nearly $3.5 million to X-energy to further develop its advanced nuclear reactor. The project will examine ways to reduce construction and maintenance costs of the developer’s Xe-100 reactor design.
+
+X-energy, located in Rockville, Maryland, is developing a pebble bed, high-temperature gas-cooled reactor. The awarded project will specifically focus on cutting costs through underground construction, the use of pooled off-site resources and simplified passive safety systems that don’t rely on large local water sources or pumps to prevent fuel damage. DOE is funding $3,468,323 of the $7,127,814 cost-shared project.
+
+“Advanced reactors are taking off in the United States with more than 50 U.S. companies currently developing the technology,” said Secretary of Energy Dan Brouillette.
+
+“These private-public partnerships are critical to ensure the success of the next generation of nuclear reactors by making them more affordable to build and operate.”
+
+DOE has awarded $195 million over the last two years through its U.S. Industry Opportunities for Advanced Nuclear Technology Development funding opportunity. Subsequent quarterly application review and selection processes will be conducted three times per year over the next three years.
+
+Advanced Reactors / NRC Adopts Recommendations
+
+for SMR Emergency Planning Zones
+
+(NucNet) The US Nuclear Regulatory Commission has voted to adopt staff recommendations to apply “appropriately-sized” emergency planning zone requirements for advanced nuclear technologies, including small modular reactors, according to a statement by the Nuclear Energy Institute.
+
+The NEI said the move “demonstrates a commitment to modernizing regulations so they align with the smaller size and the inherent safety features of advanced nuclear technologies.”
+
+The NRC has revised the process for establishing the size of an emergency planning zone basing its radius on the potential consequences related to the type of the advanced reactor.
+
+Also, the NRC said it was seeking public comments on the proposed rule for emergency preparedness for SMRs and other new technologies. The NRC is proposing to amend its regulations and create alternative requirements adopting a “risk-informed, performance-based, and technology-inclusive” approach.
+
+The agency said in its statement that the alternative requirements would include a scalable approach for determining the size of the emergency planning zone around each facility, based on the distance at which possible radiation doses could require protective actions. The public and other interested parties can use this rule making effort to comment on emergency preparedness policy issues such as:
+
+• What planning activities should apply to the performance-based approach?
+
+• How should hazard analysis be applied to the performance-based approach?
+
+• What specific factors or technical considerations are needed when applying the scalable EPZ approach?
+
+NEI praised the NRC action calling is it a “major milestone”
+
+In its press statement the NEI, which is a U.S. industry trade group for the nuclear energy industry, including utilities and product and service providers, said it was pleased by the NRC’s action.
+
+“This is a major milestone. The staff’s recommendation to define more appropriately-sized emergency planning zone (EPZ) requirements for advanced nuclear technologies, the NRC demonstrates a commitment to modernizing regulations so they align with the smaller size and the inherent safety features of advanced nuclear technologies.”
+
+The 10-mile zone in use for existing plants was established 40 years ago; since then, there has been additional research and enhanced understanding of the safety benefits of advanced reactor designs.
+
+NRC regulations on emergency preparedness were established in the late 1970s and have focused on large light-water reactors. In 2016, the NRC began reviewing its rule making process taking into accountant emerging nuclear technologies like SMRs.

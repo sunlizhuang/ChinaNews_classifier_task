@@ -1,0 +1,37 @@
+Share All sharing options for: TCL is finally getting into the phone game with its own name
+
+TCL, the Chinese brand that often plays second (or seventh) fiddle to bigger electronics companies like Samsung, LG, Xiaomi, and OnePlus, has decided that 2020 is the year for its mobile coming-out party. It is announcing three new phones under its own brand name: the TCL 10 Pro, TCL 10L, and TCL 10 5G.
+
+It’s a big moment for the company, but it’s also potentially a big moment for Android. TCL’s entry represents a big brand aiming to bring much higher-quality phones into the sub-$500 category. TCL is also once again teasing a folding phone, though it’s still very much in the prototype phase.
+
+If you’ve heard of TCL, it’s probably because you’re familiar with its Roku-powered 4K TVs, which are among our favorite on the market today because they’re good quality for an inexpensive price. But TCL has been a white label for other phones you may have heard of: cheap Alcatel phones sold by various carriers, BlackBerry Android phones, and even the tiny little Palm phone.
+
+TCL will keep making all of that stuff along with TVs, routers, GPS-enabled pet trackers, tablets, and virtually every other category of gadget you can think of (outside of laptops). But in introducing its own branded phones and promising to sell them globally — including in the US — it’s signaling a desire to be taken as seriously as those other big companies.
+
+Unfortunately, these phone announcements aren’t quite finished yet. The company tells me that it will provide more details at Mobile World Congress next month. We were able to glean some spec details in our time with the phones, but the company is staying tight-lipped about many specifics. The 10 Pro, in particular, will have a screen that the company claims will live up to its televisions, thanks to a custom hardware controller.
+
+For now, what we know is that the 10 Pro is its “flagship” high-end phone, the 10L is a low-end device, and the 10 5G could be one of the first 5G phones to cost less than $500.
+
+We can start with the folding phone prototype, though, just to get it out of the way. It is very much not ready to be a consumer product yet. The hinge is creaky, the software is unfinished, and there are bugs aplenty.
+
+But the potential is there. TCL insists that its greatest strength is its screen technology. The flexible OLED screen on this device is made by the company itself. There’s no screen on the outside, which is an interesting choice, but the whole thing folds completely flat. TCL appears to be taking the same strategy Motorola has with its updated Razr; the screen forms a teardrop shape into gaps inside the hinge when it closes.
+
+TCL says that it is “taking it slow” when it comes to foldables, waiting for either software to get better, glass screens to fold, or maybe both. It’s also experimenting with other form factors — like a tri-fold gadget that is the size of a very thick phone when closed but opens up into a medium-sized tablet.
+
+The TCL 10 Pro, pictured above, is easily the most compelling of the devices the company is actually shipping. It will likely cost less than $500 but feature a svelte design that is closer to a Galaxy S10 than a OnePlus 7 Pro. There are lots of phones at or around that price point, but many of them are gargantuan, so it’s nice to see this one be a little smaller, even if it’s just slightly so.
+
+It will have an in-screen fingerprint sensor, four rear cameras, and — wonder of wonders — a 3.5mm headphone jack. The screen curves slightly at the edges, but TCL is hoping some of the shine from its TV panels will rub off on the 10 Pro. It says it has created a custom hardware controller that can convert SDR video into HDR on the fly. It should also enable higher refresh rates, though, again, TCL wouldn’t get too specific.
+
+We took a few sample photos, but we obviously can’t speak to their quality. TCL was refreshingly direct in admitting that it likely wouldn’t have the best camera imaginable on its phones. Instead, it’s merely aiming to meet the quality of other phones in the category. With the Pixel 3A and the coming 4A, that’s likely going to be difficult. (Coincidentally, that same humility applied to releasing the folding phone. TCL doesn’t think anybody would trust it to make high-end devices just yet, so it’s starting slow.)
+
+One thing that was impressive was the macro camera. I was able to pull focus on a little fake plant from around three or four inches. I also found TCL’s customized version of Android to be relatively light, with a couple of nice touches. Each phone has a side button that can be customized to three different actions, unlike Samsung’s Bixby button. There’s also a custom drawer you can open up on the screen, which appears with a quick swipe.
+
+The TCL 10L and 10 5G are essentially the same lower-end phones. As with everything else, TCL wouldn’t divulge pricing, but it hinted that the 5G would be less than $500 and that there would be a significant price gap between the 10 Pro and the 10L.
+
+We do know that the 10 5G will feature a Qualcomm Snapdragon 700-series processor; presumably, that means it will be the Snapdragon 765. That chip is notable because it integrates a 5G modem into the chipset, which could help improve battery life. That said, the 10 5G was definitely a little thicker and bulkier than the 10L.
+
+Both phones also have four cameras on the back, but TCL wouldn’t commit to them being exactly the same sensors. Also on the back, a fingerprint sensor.
+
+We’ll get more details on all of them at Mobile World Congress in Barcelona next month. Given TCL’s tight relationship with US carriers — they sell lots of white-label phones with them — there’s a good chance these phones will be released with carrier deals in North America. TCL is also hoping that it might be able to leverage some kind of synergy with its successful TV business to sell phones in big-box stores or maybe even sell TVs in carrier stores.
+
+Here’s a gallery of all four devices:

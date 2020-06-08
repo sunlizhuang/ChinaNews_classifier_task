@@ -1,0 +1,91 @@
+Now, interviews with the woman have revealed a fundamental mistake in the report, which appeared in the New England Journal of Medicine. It turns out the woman did have symptoms while she was in Germany. They were “mild unspecific symptoms,” including back pain, for which she took a fever-reducing Tylenol-like drug, according to Marieke Degen, a spokeswoman for the Robert Koch Institute, a German research organization and governmental public health agency that was following up on the case.
+
+The revelation underscores how the urgency to make sweeping public health decisions about the spread of the coronavirus is clashing with the uncertainties surrounding a novel virus. The essential question public health experts are grappling with is how easily the virus spreads, particularly from people who have mild symptoms. Despite the error in the report from Germany, first reported by Science magazine, it’s still possible that people can spread it before they have symptoms. Public health measures that depend on isolating people who could transmit the virus could become difficult to implement if the virus spreads before people realize they have been infected.
+
+AD
+
+AD
+
+The new information could intensify an already challenging public health situation, experts said. The United States imposed wide-ranging quarantine and isolation measures that took effect Sunday, including barring non-U.S. citizens who recently visited from China from entering the United States. U.S. officials will also quarantine Americans who visited Hubei province, where the outbreak began, for 14 days.
+
+Hundreds of Americans were evacuated from Wuhan on a pair of U.S. charter flights that took off from the coronavirus hot zone Tuesday night, the State Department said. The passengers will arrive in the United States Wednesday and will be quarantined for 14 days on four military bases, U.S. officials said.
+
+“We can’t isolate everyone who has a headache and took a Tylenol,” said Marc Lipsitch, an epidemiologist at the Harvard T.H. Chan School of Public Health. If there is spread of disease when someone is not yet showing signs of illness, “it becomes a considerably bigger public health challenge,” he said. “The isolation of ill cases would not be effective if there’s transmission to a considerable degree before people are really sick.”
+
+AD
+
+AD
+
+Swedish health officials leaped on the error to inform the public on their website that the evidence the virus could spread without symptoms was not based on science. The World Health Organization issued a report saying it is “aware of possible transmission” before symptoms but noted that study is ongoing of the “few instances” in which it may have occurred.
+
+Nine countries outside China have confirmed 27 instances of human-to-human transmission of the infection, WHO officials said Tuesday during an executive board meeting at their headquarters in Geneva, a worrisome sign for containment of the disease.
+
+In China, cases continue to soar. Chinese officials on Tuesday reported a total of 20,438 confirmed cases of infection — an increase of 3,235 from Monday, the biggest daily jump since the National Health Commission began releasing statistics. Almost 3,000 of the infected are in critical condition.
+
+AD
+
+AD
+
+WHO officials also presented additional information about symptoms of the disease, saying that 2 to 3 percent of patients also have gastrointestinal problems. The most common symptoms are fever and cough, officials have said.
+
+The WHO declared the outbreak a global health emergency on Thursday and warned countries against imposing travel and trade restrictions on China. WHO Director-General Tedros Adhanom Ghebreyesus reiterated that call Tuesday, noting that 22 countries have reported such restrictions. The United States is one of them.
+
+“Such restrictions can have the effect of increasing fear and stigma, with little public health benefit,” he said. In countries that have imposed them, he called for them to be short, proportionate to the public health risks, and reassessed regularly.
+
+AD
+
+He chided “some high-income countries” with confirmed cases that are “well behind” in sharing complete data about their cases. “I don’t think it’s because they lack capacity,” he said. Without better data, it’s difficult for the WHO to assess how the outbreak is evolving or what impact it could have.
+
+AD
+
+Hong Kong became the second place outside mainland China to report a fatality, after China reported 425 deaths, bringing the overall toll to 427. A 39-year-old man who died had a preexisting condition and had traveled to Wuhan last month. He was hospitalized Friday.
+
+More infections were announced outside China, including six more in both Thailand and Singapore, suggesting that the virus is gaining steam internationally.
+
+AD
+
+In the United States, the top official at the Centers for Disease Control and Prevention overseeing the coronavirus response has cited the NEJM report about asymptomatic transmission as one of several “worrisome data points” about a serious public health situation.
+
+“We are aware of the correction to the NEJM article on asymptomatic transmission, and the fact that this patient did have mild symptoms is consistent with what we know of other cases,” CDC spokeswoman Kristen Nordlund said Tuesday.
+
+AD
+
+She said the “enhanced response posture” of the federal government is based on “a dramatic increase in the number of cases reported, supporting efficient person-to-person spread, the geographic expansion of the outbreak, and continued reports of severe illness including those resulting in death.”
+
+AD
+
+Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, who has often been the official called on by the past six presidents to explain outbreaks to the American public, said he still believes it is possible for the virus to spread from someone who is not showing symptoms. Fauci initially said the report had served as an important confirmation of rumors and anecdotes that had been filtering in from China, and he mentioned it at a White House briefing on Friday.
+
+“One of the problems with when the virus is transmitted in an asymptomatic way and has its implications — it puts a terrible burden on the screening process. How do you screen somebody?” Fauci said last week, when referencing the NEJM report. “You know, remember back with Ebola? Ebola doesn’t get transmitted unless you’re actively very ill, and you know that. It’s very, very clear.”
+
+AD
+
+Upon learning of the journal error, Fauci said he called a top public health official and scientist in Beijing who told him that the disease could spread without symptoms.
+
+AD
+
+“I think it’s a double-edged sword. I think it’s important to get information out quickly when you’re dealing with an emerging and evolving public health issue, but there is a danger in that, and we have just seen now a classic example of this danger,” Fauci said Tuesday. But he said his conversation made him confident that while the report was incorrect, the phenomenon it described is real.
+
+Patients often recall their symptoms differently when multiple people ask them, said Trish Perl, chief of infectious diseases and geographic medicine at UT Southwestern Medical Center, who has fought other respiratory virus outbreaks, including severe acute respiratory syndrome, or SARS, which also emerged in China and infected about 8,000 people and killed nearly 800 between 2002 and 2003.
+
+AD
+
+“Stuff you might not consider a symptom, like a little bit of a runny nose, is something people kind of ignore,” she said.
+
+AD
+
+The information about the German case was published Thursday as a letter in the NEJM, which — like other scientific and medical journals — has promised to make emerging scientific information available rapidly. That speed has been praised because sharing information is essential in a public health emergency, but also opens the door for more errors.
+
+Julia Morin, a spokeswoman, said that the NEJM “is looking into the matter” but that the journal has not posted a correction or update. Degen, at the Robert Koch Institute in Berlin, said its researchers had submitted its findings, and “it is still open when (and in which journal) this will be scientifically published.” The main author of the letter did not immediately respond to questions about the report.
+
+AD
+
+The report could still have value, experts said, because it shows that a person with mild symptoms can transmit the illness initially.
+
+Lipsitch added that public policy should be flexible in the face of an emerging threat, to take into account information that may change or evolve. The travel restrictions announced by the White House late last week stated that policy should be reevaluated at least every 15 days.
+
+Lauren Ancel Meyers, a mathematical epidemiologist at the University of Texas at Austin, said she is gearing up to simulate scenarios in which the disease spreads in the United States to help with preparation and planning for countermeasures. But much depends on information that is still murky: how soon people can begin to spread the virus after contracting it, how readily it spreads and other factors.
+
+“There is so much uncertainty, and the information is changing every day about what is going on with the virus,” Meyers said.
+
+Lenny Bernstein contributed to this report.

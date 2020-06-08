@@ -1,0 +1,225 @@
+Editor’s note: This FAQ is no longer being updated. For the most up-to-date information, please see our latest FAQ, “As the coronavirus outbreak evolves, we answer some key questions.”
+
+Scientists are racing to unravel the mysteries of a new coronavirus that has infected thousands and sparked a global health emergency (SN: 1/30/20) — triggering many questions from researchers and the public alike. In this rapidly evolving epidemic, many unknowns remain.
+
+Here’s what we know so far about the new virus — called severe acute respiratory syndrome coronavirus 2, or SARS-CoV-2 — and the disease that it causes.
+
+We will update these answers as more information becomes available. Our latest update, published February 26, adds more information about ways to prepare if the virus becomes more widespread in the United States.
+
+Do you have questions about the new coronavirus that you’d like answered? E-mail them to feedback@sciencenews.org.
+
+Some of the questions below include:
+
+What is SARS-CoV-2?
+
+Coronaviruses are one of a variety of viruses that typically cause colds. But three members of the viral family have caused deadly outbreaks. Severe acute respiratory syndrome coronavirus, or SARS-CoV, Middle East respiratory syndrome coronavirus, or MERS-Cov, and now SARS-CoV-2 cause more severe disease, including pneumonia. This new coronavirus first emerged in Wuhan, China (SN: 1/10/20).
+
+How did it get its name?
+
+Two independent committees came up with labels to describe the virus and the disease it causes.
+
+The disease triggered by the new coronavirus is named COVID-19, which stands for coronavirus disease in 2019, the World Health Organization announced February 11.
+
+Another group, the International Committee on Taxonomy of Viruses, named the virus itself. Committee members announced the name of the virus, which was temporarily known as 2019-nCoV, in a paper posted to bioRxiv.org on February 11. The name reflects its close similarity to the original SARS coronavirus that sparked an outbreak in 2003, the researchers wrote.
+
+It’s not unusual for diseases to have names that differ from the viruses that cause them: For instance, HIV causes AIDS and the varicella-zoster virus causes shingles and chicken pox.
+
+When did the epidemic start?
+
+Chinese officials notified WHO of a pneumonia-like disease with an unknown cause in 44 patients on December 31, 2019. Initial reports tied the disease — now known to be caused by SARS-CoV-2 — to a seafood market in Wuhan, a city in Hubei Province.
+
+But the earliest cases may not be related to exposure at the market, researchers report January 24 in the Lancet. The earliest known patient with the illness, the “index case” who got sick December 1, was not exposed at the market, according to the study.
+
+“The market was not the [source of the] index case. It was an amplifier. People crowded in the market infected each other,” Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases in Bethesda, Md., said January 29 at the 2020 ASM Biothreats meeting in Arlington, Va.
+
+So far, versions of the new virus isolated from patients in China and other countries aren’t very different from one another. “This lack of diversity fits with an origin in the human population in mid-November,” says Trevor Bedford, an evolutionary biologist at the Fred Hutchinson Cancer Research Center and the University of Washington in Seattle.
+
+Where did the virus come from?
+
+Coronaviruses are zoonotic, meaning they originate in animals and sometimes leap to humans.
+
+Bats are often thought of as a source of coronaviruses, but in most cases they don’t pass the virus directly on to humans. SARS probably first jumped from bats into raccoon dogs or palm civets before making the leap to humans. All the pieces necessary to re-create SARS are circulating among bats, though that virus has not been seen since 2004 (SN: 11/30/17).
+
+MERS, meanwhile, went from bats to camels before leaping to humans (SN: 2/25/14). A paper published January 22 in the Journal of Medical Virology suggests that the new coronavirus has components from bat coronaviruses, but that snakes may have passed the virus to humans. But many virologists are skeptical that snakes are behind the epidemic (SN: 1/24/20).
+
+Current data suggest that the virus made the leap from animals to humans just once and has been passing from person to person ever since. Based on how closely related the patient viruses are, animals from the seafood market probably didn’t give people the virus multiple times as researchers originally thought, Bedford says. If the virus leaped from animals to humans more than once, the researchers would expect a greater number of mutations. Bedford and colleagues updated their conclusions and supporting data January 29 at nextstrain.org.
+
+Sign Up For the Latest from Science News Headlines and summaries of the latest Science News articles, delivered to your inbox Client key* E-mail* Go
+
+Can it infect pets?
+
+There are currently no reports of pets getting sick with COVID-19.
+
+Several types of coronaviruses can infect animals and in some cases make them ill. So the U.S. Centers for Disease Control and Prevention advises avoiding contact with pets and wearing a face mask if you are sick. Researchers reported in 2003 in Nature that cats could be infected with the SARS virus and transmit it to other cats in the same cage, but they didn’t show any symptoms. The same was true for ferrets, although the ferrets became sick.
+
+While the CDC recommends that people traveling to China avoid animals, the agency says there is no reason to believe that animals or pets in the United States can transmit the virus that causes COVID-19.
+
+What are the symptoms of a SARS-CoV-2 infection?
+
+An infection can cause fever, cough and difficulty breathing, according to the CDC. These symptoms are similar to SARS, researchers report January 24 in the Lancet (SN: 1/24/20). Though many people infected with SARS-CoV-2 might experience mild symptoms, others can develop pneumonia.
+
+Based on how MERS works, the CDC reports that symptoms of COVID-19 may appear from two to 14 days after exposure. On average, it may take a person who was exposed to the virus five days to become visibly sick, researchers report January 29 in the New England Journal of Medicine. That number, however, is based on only 10 patients and needs further study, the researchers wrote.
+
+How can you tell the difference between infections of SARS-CoV-2 and other respiratory diseases?
+
+Based on early symptoms, there is no way to distinguish the new coronavirus from other causes of pneumonia, says Alexander Greninger, a clinical virologist at the University of Washington in Seattle. An official diagnosis requires laboratory testing.
+
+The WHO currently recommends that patients with severe symptoms who have recently traveled to Wuhan be tested for SARS-CoV-2, as well as their close contacts who develop even mild symptoms.
+
+How do doctors test for SARS-CoV-2?
+
+WHO laboratory-testing guidelines suggest doctors take multiple samples, including nose and throat swabs, blood and sputum from the lower respiratory tract.
+
+In the lab, researchers look for genetic evidence of the virus, using a method called reverse transcription polymerase chain reaction, or RT-PCR. If the virus is present, the technique produces copies of RNA — the virus’s genetic code — that is unique to SARS-like coronaviruses. For positive tests, researchers do further genetic analyses to pin down whether SARS-CoV-2 is the cause.
+
+The method relies on patients being sufficiently sick that they have high amounts of the virus for it to detect. Not everyone who is infected will have a positive test. “It isn’t like it’s a horrible test,” Fauci said at a White House news conference on January 31. “But it is not a test that’s absolute.”
+
+Doctors previously had to ship samples to the CDC and typically received results in three to five days, Greninger says. In an effort to expedite testing, the U.S. Food and Drug Administration on February 4 approved an emergency use authorization that allows more than 200 CDC-qualified labs around the United States to also run the diagnostic test in an effort to expedite testing.
+
+How infectious is the virus?
+
+Researchers don’t yet know for sure. But since SARS-CoV-2 has never infected humans before last year, it’s likely that everyone is vulnerable to infection with this virus.
+
+A virus’s potential infectivity is described by its reproduction number called R 0 , or R naught (SN: 1/24/20). It’s a theoretical limit that researchers would expect to see when a disease-causing organism hits a population where no one is immune, says Maimuna Majumder, a computational epidemiologist at Boston Children’s Hospital and Harvard Medical School. “In general, we don’t see transmission rates as high as the reproduction number would suggest,” she says.
+
+The number describes how many other people are likely to catch a virus from an infected person. SARS, for instance, has an R 0 of 2.0 to 4.0 — each person who catches that virus has the potential to pass it on to two to four others. Generally, viruses with reproduction numbers greater than 1.0 may keep spreading if nothing is done to stop them. Outbreaks of viruses with an R 0 that falls at or below 1.0 may eventually peter out.
+
+Several research groups have been working to pin down an estimate based on epidemic information available to them and by harnessing different methods, such as simulating epidemics or making assumptions about virus susceptibility, exposure and infection rates. Others have used an approach that pulls data from current cases and allows the researchers to describe what is happening in real time.
+
+The R 0 for SARS-CoV-2 may be around 2.2, researchers report January 29 in the New England Journal of Medicine. This number is close to Majumder’s and her Harvard colleague Kenneth Mandl’s estimate, which falls between 2.0 and 3.1. Other groups have also posted various estimates online, ranging from 1.4 to 4.13.
+
+R 0 is a tricky number to pin down, as the varying estimates reflect. It can also change as control measures are put in place, suggesting that as more cases emerge, these estimates will probably continue to shift. But currently the groups are coming up with similar numbers, suggesting SARS-CoV-2’s R 0 is in the same ballpark as SARS.
+
+How long does it stay on surfaces?
+
+Researchers aren’t sure, but not very long, based on what they know about other coronaviruses. These viruses typically only survive on a surface for a few hours, Nancy Messonnier, director of the CDC’s National Center for Immunization and Respiratory Disease in Atlanta, said in a news conference January 27.
+
+While it’s still unclear how SARS-CoV-2 spreads, coronaviruses in general are thought to be spread primarily by respiratory droplets — such as when patients cough. There is no evidence suggesting that the new virus can be transmitted from things such as imported goods, according to the CDC.
+
+How does it spread?
+
+Human-to-human transmission is driving the spread in China, and has been reported in several other countries, including the United States. But the exact mechanism is still unknown.
+
+Coronaviruses like SARS and MERS — and now SARS-CoV-2 — probably spread between people similar to other respiratory diseases, the CDC says. Respiratory droplets from an infected person’s cough or sneeze can carry virus to another person, something that generally happens between close contacts.
+
+SARS-CoV-2 attaches to the same protein that SARS uses to get inside cells, Zheng-Li Shi, a virologist at the Wuhan Institute of Virology in China, and her colleagues report February 3 in Nature (SN: 2/3/20). The protein, called angiotensin converting enzyme II, or ACE2, is found in the lungs. Because severe coronaviruses infect deeper parts of the respiratory tract, compared with the kinds of coronaviruses that cause colds, people tend not to be contagious until they start to show symptoms, says Stanley Perlman, a virologist at the University of Iowa in Iowa City.
+
+In previous outbreaks, “if somebody was going to get infected from [an] infected person, the virus had to get up into the upper airway so it could spread,” Perlman says, which wouldn’t happen until the patient was sick enough to start coughing.
+
+Unlike SARS and MERS, however, there is now some evidence that the new coronavirus may be spread by people without symptoms (SN: 1/31/20).
+
+Asymptomatic transmission is common for contagious viruses such as influenza or measles, but would be a new feature for the types of coronaviruses that cause epidemics, Perlman says.
+
+It could make the epidemic harder to control because such patients can spread disease without signs that they’re sick themselves, making efforts such as airport screenings less useful. But asymptomatic people have never been the major driver of epidemics, NIAID’s Fauci said in a news conference January 28.
+
+How far has it spread?
+
+So far, it’s unclear exactly how many cases there are, although epidemiologists are attempting to calculate this number. By January 31, the number of officially diagnosed cases of SARS-CoV-2 infections hit 9,836, and have continued to climb, according to a situation update by the European Center for Disease Control and Prevention. That exceeds the total number of SARS cases over that coronavirus’s eight-month run from November 1, 2002 to July 31, 2003.
+
+Most of the thousands of people with confirmed diagnoses of the new virus are in China. Several other countries and territories — 28 as of February 18 — have also confirmed isolated cases of the disease, many of whom had just returned from a trip to China.
+
+Given that symptoms don’t appear right away and many exposed people may experience no or mild symptoms, those numbers are likely too low, researchers say.
+
+Epidemiologist and biostatistician Joseph T. Wu of the University of Hong Kong and colleagues report January 31 in the Lancet that an estimated 75,815 people in Wuhan had been infected as of January 25, with numbers of cases doubling, on average, every 6.4 days.
+
+Quarantine measures that locked down Wuhan probably came too late to do much to contain the spread (SN: 1/28/20). Wu and colleagues calculated that Wuhan had already exported 461 cases to Chongqing, 113 to Beijing, 98 to Shanghai and 111 to Guangzhou. Those cities now may become hubs for further spread.
+
+Wu’s group used exported case counts and travel data to forecast the epidemic’s future spread. If the virus continues spreading at the current rate, the epidemic could peak in Wuhan in April with other cities lagging by a week or two. Reducing transmission rates by 25 percent would slow the epidemic’s growth, delaying the peak by about a month and also cutting the total number of cases in half, the researchers estimate.
+
+Chasing coronavirus Researchers at Johns Hopkins University’s Center for Systems Science and Engineering have created a map tracking where the locations of known coronavirus cases are and how many countries are reporting infections.
+
+What are the best containment methods?
+
+It’s unclear. Health officials and governments have attempted to try to contain the virus — by implementing policies such as shutting down entire cities and mandating quarantine for travelers coming from China — but experts are skeptical such measures will be effective.
+
+Implementing quarantines, especially at large scales, is a largely ineffective and often counterproductive public health tool, experts say (SN: 1/28/20).
+
+“This is an unprecedented situation. Nobody knows what the right thing to do is,” says Allison McGeer, an infectious disease expert at Mount Sinai Hospital in Toronto who herself contracted SARS in 2003 while taking care of patients.
+
+Quarantine and isolation were effective strategies to end the 2003 SARS outbreak, but it’s looking less likely that similar methods will help control the new virus. Some quarantine efforts for the new epidemic have had favorable outcomes, while others have not.
+
+In the wake of reports that the virus can spread asymptomatically and the growing number of cases in China, U.S. officials quarantined a group of 195 U.S. citizens evacuated from Wuhan at March Air Reserve Base in Ontario, Calif., the CDC announced January 31. The evacuees, who arrived on January 29, remained on base for health assessments, and none tested positive for the new coronavirus during the legally mandated two-week quarantine that ended February 11. More than 600 other people remain under quarantine in other military bases across the United States after their return from Wuhan. As of February 13, three had tested positive for the virus and are being isolated and treated at nearby hospitals.
+
+Other containment methods, such as on the Diamond Princess cruise ship quarantined off the coast of Japan, seem to put certain people at higher risk of infection. In an environment like a cruise ship, it is harder to implement methods to control the virus’s spread among passengers.
+
+Nearly 3,700 people were onboard and at least 634 people contracted the virus, including multiple crew members as of February 20, according to Japan’s health ministry. While the 14-day quarantine ended on February 19, around 1,000 passengers and crew members remain onboard, the New York Times reported February 20.
+
+U.S. officials also announced February 15 that they were evacuating more than 300 Americans from the ship and have placed them under a mandatory two-week quarantine at two military bases, Travis Air Force Base in California and Lackland Air Force Base in Texas. So far, 40 of those people have tested positive for the virus.
+
+Another cruise ship was searching for a place to dock after being denied entry at multiple ports — despite not reporting any sick people on board. That ship docked in Cambodia on February 13, and one passenger has since tested positive for the virus.
+
+How deadly is the disease?
+
+Coronaviruses usually cause fairly mild illness, affecting just the upper airway. But the new virus, like those behind SARS and MERS, penetrates much deeper into the respiratory tract. SARS-CoV-2 leads to “a disease that causes more lung disease than sniffles,” NIAID’s Fauci says. And damage to the lungs can make these illnesses deadly.
+
+As of February 13, 1,369 people have died from COVID-19. That number surpasses the number of deaths from the 2003 SARS outbreak, which killed 774 people, or nearly 10 percent of the 8,000 sickened (SN: 3/26/03). SARS-CoV-2 has also killed more patients than the virus that causes MERS, a disease that still circulates in the Middle East, which has claimed about 30 percent of the people it infects, or 858 people to date (SN: 7/8/16).
+
+Right now, SARS-CoV-2 appears to be less virulent than those viruses, with about a 2 percent mortality rate, WHO says. But that number is still a moving target as more cases and milder cases — including some people who are infected but don’t develop symptoms — are diagnosed, Fauci says.
+
+“There almost certainly is asymptomatic infection,” Fauci said January 29 at the 2020 ASM Biothreats meeting. “We don’t know at what level yet.” Knowing that number affects the calculation of how deadly the virus is. “Right now the denominator is people who come to the hospital and are recognized. But with asymptomatic infections, the denominator is going to be bigger and the mortality [rate] will be less,” he said.
+
+What’s more, people who are now showing mild symptoms may go on to develop severe disease. During the SARS outbreak in Hong Kong, for instance, deaths among adults younger than 75 years old occurred from around 27 days up to 40 days after they became sick, says Aubree Gordon, an epidemiologist at the University of Michigan in Ann Arbor. “We are quite early in this epidemic.” Most people diagnosed with the new virus are still sick. Of cases with a known outcome, around 8 percent have died.
+
+Elderly people also tended to die more rapidly than younger people during the SARS outbreak, likely because their immune systems are weaker. Younger adults tend to have strong immune responses against pathogens in general, which can help fight off viruses. But that response can also lead to severe, potentially deadly results if the immune defenses cause too much damage to the body itself.
+
+How do people die from COVID-19?
+
+Patients with the disease generally die from respiratory and multiorgan failure, partially caused by the virus but also their own immune responses.
+
+During infection, the virus that causes COVID-19 attacks cells within the respiratory tract, particularly the lungs. As these cells die, they fill the airway with fluids and debris while the virus continues to replicate — making it hard to breathe.
+
+The presence of dying cells and a replicating virus spark the immune system to react to the infectious intruder. Immune cells then flood the lungs to repair damaged tissues and wipe out the virus.
+
+While the immune response to the virus is generally highly controlled, it can sometimes go berserk and cause its own damage to healthy cells as well as dying ones. A flood of signals from the immune system, called a cytokine storm, can damage the lungs and cause respiratory failure, and can also harm other organs, leading to multiorgan failure.
+
+Patients with severe disease may have scarred lungs from an overactive immune response. Inflammation also fills their lungs with fluid, which makes it harder for the organs to provide blood with oxygen.
+
+Who is the most vulnerable for severe disease?
+
+Based on detailed data from about 17,000 cases, 82 percent of people with SARS-CoV-2 have mild disease, the WHO reported in a news conference February 7. Another 15 percent of cases are severe, 3 percent are critical, and 2 percent have resulted in death, officials said.
+
+Most of the people with severe illness are older or have preexisting conditions, according to the WHO. Overall, cases in children have been rare, researchers report February 5 in JAMA.
+
+For instance, of 138 patients infected with coronavirus and admitted to Zhongnan Hospital of Wuhan University in January, 26 percent needed treatment in the intensive care unit, researchers report February 7 in JAMA (SN: 2/7/20). Those patients were older and had conditions such as cardiovascular disease and diabetes.
+
+That is not to say that young people do not suffer from severe disease. The first person in the United States to be infected with the virus, a 35-year-old man from Washington, went to a clinic with mild symptoms and ultimately developed pneumonia after nine days, researchers reported January 31 in the New England Journal of Medicine (SN: 1/21/20).
+
+What is the situation in the United States?
+
+As of February 25, health officials have confirmed the new coronavirus in a total of 57 people, including 12 patients who had recently traveled to Wuhan and two cases of human-to-human transmission. The other cases involve three people who were repatriated from China and 40 who were passengers on the Diamond Princess cruise ship quarantined off the coast of Japan.
+
+On January 31, in a White House briefing, U.S. public health officials declared the then outbreak a public health emergency and imposed new measures aimed at limiting the virus’s spread, though some scientists are skeptical that the approach will work (SN: 1/31/20). Those measures, which went into effect February 2, include mandatory quarantines for certain U.S. travelers returning from China and screenings for others, depending on where they went in China, limiting where flights from China land in the United States, and barring entry to most foreign nationals who have recently traveled to China.
+
+Because of the relatively rapid release of information from China, countries like the United States had time to put proper screening procedures in place, giving them a leg up in keeping the virus from spreading, McGeer says.
+
+What are the best ways to protect yourself?
+
+The spread of the new coronavirus in the United States appears inevitable, CDC officials said at a news briefing on February 25, pointing to the recent increases in new cases in countries like South Korea and Italy.
+
+It’s unclear when the coronavirus could gain a foothold here. But when it does, people should be prepared for disruptions to daily life, as affected communities may need to take measures to reduce person-to-person contact, such as cancelling large events, closing schools and urging people to telework. The CDC has resources to help people prepare for a public health emergency, including a list of supplies to gather ahead of time — things like food, water and medicines — and how to make an action plan.
+
+To stay healthy, the CDC recommends its standard tips for preventing the spread of respiratory illnesses: washing your hands with soap and water for at least 20 seconds, covering your coughs and sneezes and staying home when sick. In a pandemic, the CDC would also recommend a voluntary home quarantine for people exposed to sick members of their household.
+
+The CDC does not recommend face masks for people who are not sick as a form of protection from COVID-19 or other respiratory illnesses. But health care workers and other caregivers in direct contact with a person who is sick as well as people who have symptoms of COVID-19 should wear face masks. “If you’re infected and you wear a mask, you’ll shed less virus in to the air around you” and potentially reduce the risk that others get infected, McGeer says.
+
+When will the epidemic end?
+
+It’s a tough question for experts to answer, and right now it’s unclear.
+
+It’s looking less likely that control efforts will stop the epidemic and cause the virus responsible for COVID-19 to disappear, as SARS did. That means that the virus could begin circulating permanently in humans, like influenza or the common cold.
+
+Researchers are using mathematical equations to project possible outcomes, taking into account things like the epidemic’s R 0 , how many people are susceptible to infection and how people move around day to day. One group, for instance, predicts that the total number of cases in Wuhan might end up being between 550,000 and 4.4 million, STAT reported February 14. But there are immense numbers of variables to take into account for outbreak and epidemic simulations, making it difficult to make accurate projections.
+
+A report from China’s Center for Disease Control and Prevention on February 17 suggested that the epidemic may have already had its day with the highest number of new infections, or its peak. Experts combed through more than 72,000 patient records from Hubei Province — including 44,672 confirmed cases. They found that new reported infections peaked from January 23 to 26 and have been declining since, although officials warn that it’s too soon to say for sure.
+
+But while the vast majority of cases are still in China, the virus is beginning to gain a foothold in other countries.
+
+Does that mean COVID-19 could turn into a pandemic?
+
+It’s possible, but that hasn’t happened yet, according to the WHO, which as the top global health agency would be the first to make the call.
+
+Pandemics, defined as the worldwide spread of a new disease, begin with an outbreak in a specific geographic location (SN: 2/25/20). If that outbreak becomes larger, but is still confined to a specific region, it becomes an epidemic. Once the epidemic has spread to two or more continents with sustained, person-to-person transmission, the WHO may decide to declare a pandemic. The agency’s decision relies chiefly on the disease’s spread, not its severity.
+
+“Does this virus have pandemic potential? Absolutely,” WHO Director-General Tedros Adhanom Ghebreyesus said in a news conference February 24. “Are we there yet? From our assessment, not yet.”
+
+Tina Hesman Saey, Jonathan Lambert, Aimee Cunningham and Erin Garcia de Jesus contributed to reporting of this story.

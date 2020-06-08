@@ -1,0 +1,77 @@
+HAIKOU, China, Jan. 21, 2020 /PRNewswire/ -- Three years ago, the Huaneng Company and Huawei jointly digitalized the Dongfang Power Plant. As the first PV project to be digitalized, it is worth looking back to see how the new technology has bolstered performance.
+
+20% Higher Energy Yield
+
+The project was initiated on June 30, 2016 for grid-tied power generation. It adopted the 280 Wp monocrystalline PV modules, as stipulated in the PV Top Runner Program, and Huawei's Smart PV Solution. The project jumpstarted the phenomenon of digitalization and intelligentization to PV plants. Since Huaneng Hainan Clean Energy's power plant was enriched with intelligent capabilities, the energy yield and O&M indicators have skyrocketed to historic levels.
+
+In 2017, when the utilization hours was designed to reach 1319, actual comprehensive utilization hours reached a staggering 1483, exceeding the planned value by 12.43%. In that same year, on-grid energy was 19.14 million kWh, 19.77% higher than the planned energy yield (15.98 million kWh), with an annual average performance ratio (PR) of 84.58%.
+
+In 2018, on-grid energy reached 19.05 million kWh, with 1476.7 utilization hours, and PR of 84.43%.
+
+In 2019, on-grid energy increased to approximately 20.56 million kWh, with utilization hours reaching 1594.07, and PR at 85.3%, an industry-leading figure.
+
+The Dongfang Power Plant of Huaneng Hainan Power Inc. was recognized as a 5A-level PV plant for two consecutive years, 2017 and 2018, according to national evaluations and key statistical indicators. The plant's average annual PR exceeded 84.43%, and the failure rate was close to zero over the course of three years. In addition, the annual energy yield exceeded the planned value by approximately 20%.
+
+2019 witnessed key breakthroughs. The annual solar irradiance of Huaneng Dongfang Power Plant ranges from 502 x 104 kJ/m2 to 586 x 104 kJ/m2, but it still managed to generate 20.56 million kWh of power in a single year, with 1594 utilization hours, a record performance.
+
+Seven Technologies behind the Soaring Energy Yield
+
+So why does the energy yield of Huaneng Dongfang Power Plant keep climbing? The answer lies with seven key technologies.
+
+1. Multiple MPPTs to Ensure a High Energy Yield
+
+PV module mismatch is usually caused by PV module attenuation, direction, and shading in the morning and at sunset. In Hainan, PV modules may be mismatched due to the shading caused by cloud and bird droppings, and the water stains on PV modules following heavy rain. All of these contribute to undermining energy yield considerably.
+
+To tackle the problem, the project utilizes Huawei smart string inverters. This solution involves connecting two strings to a single MPPT circuit, and configuring each megawatt with 80 MPPTs. When compared with the central inverter, Huawei's technology minimizes PV string mismatch, dramatically improving system efficiency.
+
+2. Wide Operating Voltage Range to Extend the Power Generation Time
+
+As the PV string MPPT features a wide operating voltage range, this in turn enables a longer operating time for the solar inverters, extending the power generation time, and further improving the overall efficiency of the power plant.
+
+Huawei smart string inverters use a bipolar topology, which enables the output voltage of each PV module to pass through the DC voltage boost circuit. When DC input voltage is low, the voltage can be boosted to meet the requirements of the bus capacitor. Therefore, the MPPT operating voltage can range from 200 V to 1000 V. By contrast, the central inverter uses a unipolar topology, and the MPPT operating voltage only ranges from 520 V to 1000 V. Therefore, Huawei smart string inverters can work for a longer period of time and generate more power.
+
+3. No Fuse
+
++ No Vulnerable Component = O&M Free
+
+Simplicity is an important principle in the smart PV design. Simple networking design provides for fewer fault points and lower fault probability throughout the system. Huaneng Dongfang Power Plant has been running for three and a half years, and has maintained a failure rate of close to zero even in heated, high-temperature environments, characterized by high salt mist as well. The availability of Huawei string inverters has been verified to be 99.996%, according to onsite tests conducted by TÜV.
+
+Prior to their launch, Huawei solar inverters were reportedly required to pass more than 1400 tests conducted by the Global Compliance and Testing Center (GCTC) to account for scenarios ranging from salt mist and corrosive wet dirt, to lightning strikes and high altitude environments, with temperatures from –60°C to +100°C, ensuring their stable operation across a diverse range of unfavorable environments. The simple design ensures that the PV plant remains reliable over the long-term.
+
+4. Anti-PID Technologies Prevent Losses and Ensure Safety.
+
+Huaneng Dongfang Power Plant is located only 220 m from the coast. Therefore, the PV modules have continually operated in high-temperature and high-humidity environment, in which potential induced degradation (PID) is more frequent.
+
+To resolve this challenge, anti-PID modules are placed in communications boxes. They automatically adjust the output voltage based on the solar inverter voltage, and inject voltage between the phase wire and the ground cable from the AC virtual neutral point to balance the voltage between PV– and the ground, thereby preventing PID from effecting them.
+
+More importantly, Huawei's latest PID suppression technology utilizes proprietary technology to build a virtual neutral point through solar inverter circuits. Compared with traditional solutions that use resistors or inductors to build the neutral point, Huawei's PID suppression technology represents a major upgrade, reducing compensation loss and making the compensation process safer. The result is an increased energy yield by more than 2%, and the support for a larger array of more than 5 MW.
+
+5. Reduced Costs via the Replacement of RS485 and Optical Fibers With PLC and Wireless 4G.
+
+For communication transfer, Huaneng Dongfang Power Plant uses PLC in place of RS485, reducing the investment required for communications cable deployment and construction. In addition, the wireless 4G private network has replaced optical fibers.
+
+By applying this technology, deployment and commissioning can be completed within two weeks, without the need to dig trenches or bury optical cables. A single PV plant can cover a maximum of 10 km2 on the ground, enabling fast deployment and mobile O&M. Though the power plant is located in a remote area with a weak public network signal, the signal for the wireless private network is robust, ensuring reliable onsite communications. O&M personnel are able to use wireless terminals to make video calls with the central control room.
+
+6. Discrete Rate Analysis for Pinpointing Faults
+
+Discrete rate analysis serves as a powerful tool for improving O&M efficiency. In this project, discrete rate analysis is used to accurately detect faulty PV strings, facilitating onsite inspection by O&M personnel. With the analysis, personnel are able to repair low-efficiency PV strings in a timely manner, ensuring that each PV string in the power plant remains free of defects for an extended period of time.
+
+Thus far, projects that have adopted this technology have exceeded 20 GW. The application of discrete rate in resolving onsite faults has helped ensure the stable operation of the PV plant.
+
+7. Smart I-V Curve Diagnosis for Determining Causes for Faults by Remote Control
+
+Smart I-V Curve Diagnosis has proved to be extremely effective when implemented at the Huaneng Dongfang Power Plant. The scanning for PV string faults of a 12.9 MW PV plant with 1920 PV strings, can be completed within 4 minutes, such as hot spots, cracks, and diode short circuits, enabling precise onsite troubleshooting. The detection can be performed online, and a detection report is automatically generated when faults are detected. The O&M that once required months to complete, can now be fulfilled within mere minutes.
+
+In 2019, Smart I-V Curve Diagnosis was upgraded to version 3.0, and all PV strings for a 100 MW PV plant can now be detected within 15 minutes. In addition, AI and machine learning technologies were integrated to incorporate the experience of Smart I-V Curve Diagnosis and optimize the fault models. Up till now, Huawei's Smart I-V Curve Diagnosis has been applied to more than 5 GW installations, and garnered recognition for its performance. Huawei is also the only TÜV-certified vendor to provide diagnosis accuracy with a high degree of precision.
+
+After the conclusion of the project, Huaneng has continued working with Huawei on smart PV projects, with a total scale in excess of 1 GW, and having deployed more than 80% of the projects in the FusionSolar Management System. On August 8, 2019, Huaneng Group and Huawei signed a strategic cooperation agreement, for the establishment of a long-term partnership to promote the further integration of AI technologies in PV plants, and facilitate further technological progress for benchmark PV plant construction in the grid parity era.
+
+Photo - https://photos.prnasia.com/prnh/20200120/2696817-1-a
+
+Photo - https://photos.prnasia.com/prnh/20200120/2696817-1-b
+
+Photo - https://photos.prnasia.com/prnh/20200120/2696817-1-c
+
+Photo - https://photos.prnasia.com/prnh/20200120/2696817-1-d
+
+SOURCE Huawei

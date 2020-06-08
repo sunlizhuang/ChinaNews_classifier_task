@@ -1,0 +1,19 @@
+Speaking to us last week at CES, OnePlus CEO Pete Lau confirmed that the company’s next major phones — presumably the OnePlus 8 — will feature screens with a refresh rate of 120Hz. Lau is not one for subtlety, and claimed in a note to us sent later that it would be “the best smartphone display in 2020.” Having not seen it, we obviously can’t say if that claim is more than just bombast.
+
+OnePlus says that it worked with Samsung to develop the OLED screen, and that in addition it has done work on top of Android to improve animations (especially the core OS gestures) so they’ll look smoother at 120Hz.
+
+OnePlus also intends to use a custom MEMC (motion estimation / motion compensation) chip to insert extra frames into videos to bring them up to 120Hz. It wouldn’t be completely inaccurate to call it motion smoothing for video on smartphones, though again we’d have to see whether it causes a “soap opera effect” in person before we called that a bad idea. MEMC will be able to be toggled on and off in settings.
+
+The image at the top of the post, sent to us by OnePlus, doesn’t convey a ton of information but does indicate where the MEMC hardware chip would sit. It also, astute viewers will note, appears to show a pop-up camera mechanism.
+
+It sounds a little like motion smoothing for phones
+
+Lastly, OnePlus claims its screen can hit 1000 nits peak brightness for HDR content, has a touch sampling rate of 240Hz, and supports 10-bit color. Add it all up and you have what is clearly the next front in the Android phone chest thumping battle: screen specs.
+
+The OnePlus 8 (or whatever it will be called) won’t be the first phone to hit 120Hz. the ROG Phone 2 and Razer Phone 2 both did that last year. Nor will it be the only Android phone that has a higher-than-60Hz refresh rate to come out this year. Samsung’s Galaxy S series, for example, is expected to feature 120Hz refresh rates when announced on February 11th. The challenges facing all of those phones will include compensating for the higher battery cost of a high-refresh rate screen and convincing customers the extra cost it worth the improved smoothness.
+
+Users should be able to switch between 60Hz and 120Hz, but it may not be a variable refresh rate as Google has tried (somewhat unsuccessfully) to do on the Pixel 4’s 90Hz screen. And while it may reduce the refresh rate in some cases when it’s not needed, it won’t be able match the refresh rate of, say, 24FPS video.
+
+Lau believes that last part won’t be hard. “It’s something you can definitely tell” in the same way you could see 90Hz, he says, calling it a “further level” of smoothness, especially with scrolling and gestures. Lau also argues that the company has been focused on optimizing for power consumption. It’s already an issue with 90Hz screens, so it’s going to be even more of a concern with 120Hz.
+
+OnePlus has promised to hold an event in Shenzhen, China today to show off more of this new screen technology. It seems as if companies announcing features of their phones before they announce their phones is just going to be the new normal now.

@@ -1,0 +1,17 @@
+Chinese technology giant Huawei has been working on creating alternatives to Google apps and services and is also actively working to reduce its reliance on third-party suppliers. In a similar move, the company has started a new incentive program for developers.
+
+Huawei says that it will be offering £20 million to developers in Ireland and Britain for creating applications and services for its Dublin-headquartered mobile services unit. This announcement from the company was made at a developer conference hosted in London.
+
+This comes at a time when Huawei looks to make itself more self-sufficient after being hit by US sanctions that have left it unable to use Google’s Android operating system on its latest smartphones.
+
+The Chinese company is also focusing to bolster its own mobile services. It has already launched open-source access kits for developers to integrate their apps into the Huawei App Gallery, which is the company’s equivalent service to the Google Play Store.
+
+Huawei Mobile Services (HMS), also known as Huawei ID in some markets, allow users to access the company’s specially designed apps and to store personal information, including payment details, in the cloud.
+
+In April last year, the services were transferred to the Dublin-headquartered subsidiary from the Shenzhen headquarters for the business operations and development for all the group’s mobile service outside of mainland China, with a particular focus on Europe.
+
+The company currently has 600 million mobile active users across more than 170 countries, including 68 million in Europe. In 2018, more than 270 million users downloaded apps from the company’s App Gallery each month.
+
+It is also reported that Huawei is engaging with Indian developers with lucrative incentives to build localised mobile services that can be offered with its smartphones in the country. The Chinese company is reportedly in talks with about 150 top apps in India to get them on its HMS or Huawei Media Services.
+
+(Via)

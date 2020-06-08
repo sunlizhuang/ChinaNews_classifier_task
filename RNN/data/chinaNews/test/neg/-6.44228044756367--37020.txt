@@ -1,0 +1,49 @@
+Beijing/New York, Jan 30 : As millions around the world speculate about the real culprit behind the outbreak of deadly Novel Coronavirus (2019-nCoV), researchers in a significant Lancet study have once again pointed fingers towards the infamous bats, and not snakes as was reported earlier.
+
+In the study, Professor Guizhen Wu of the Chinese Center for Disease Control and Prevention said that the data they had so far was consistent with the virus being initially hosted by bats.
+
+"A new genetic analysis of 10 genome sequences of novel coronavirus (2019-nCoV) from nine patients in Wuhan, China finds that the virus is most closely related to two bat-derived SARS-like coronaviruses," the authors wrote.
+
+The 2019-nCoV is sufficiently divergent from SARS-CoV to be considered a new human-infecting carrier.
+
+"Although our analysis suggests that bats might be the original host of this virus, an animal sold at the seafood market in Wuhan might represent an intermediate host facilitating the emergence of the virus in humans," said the authors from National Key Research and Development Program of China, National Major Project for Control and Prevention of Infectious Disease in China, Chinese Academy of Sciences, Shandong First Medical University.
+
+Importantly, structural analysis suggests that 2019-nCoV might be able to bind to the enzyme 2 receptor in humans and spread of this virus warrant urgent investigation, they reported.
+
+The death toll in China from the new coronavirus rose to 170 on Thursday, with 7,711 confirmed cases, as repatriation flights for foreign nationals continued. India also reported its first confirmed case - a student in Kerala who returned from Wuhan.
+
+According to the Lancet study, 2019-nCoV is sufficiently divergent from SARS-CoV to be considered a new human-infecting betacoronavirus.
+
+"Eight of the nine patients in our study had a history of exposure to the Huanan seafood market in Wuhan, suggesting that they might have been in close contact with the infection source at the market," the authors wrote.
+
+However, one patient had never visited the market, although he had stayed in a hotel near the market before the onset of their illness.
+
+This finding suggests either possible droplet transmission or that the patient was infected by a currently unknown source. Evidence of clusters of infected family members and medical workers has now confirmed the presence of human-to-human transmission.
+
+"The finding also suggests that 2019-nCoV originated from one source within a very short period and was detected relatively rapidly. However, as the virus transmits to more individuals, constant surveillance of mutations arising is needed," said the researchers.
+
+More generally, the disease outbreak linked to 2019-nCoV again highlights the hidden virus reservoir in wild animals and their potential to occasionally spill over into human populations.
+
+The researchers have also reported a new, seventh human coronavirus that can cause severe pneumonia and have shed light on its origin.
+
+China is facing accusations from the world community of suppressing and playing down the coronavirus outbreak and the scale of infections.
+
+According to a recent study by the National Institute of Allergy and Infectious Diseases that conducts and supports research at the US National Institute of Health (NIH), six coronaviruses are known to cause disease in people, but so far only two of them - SARS-CoV and Middle East Respiratory Syndrome (MERS) coronavirus - have caused large outbreaks of fatal illness in people - before the Novel Coronavirus appeared on the scene.
+
+To monitor how viruses like this one spread and evolve in animal populations, researchers have been using next-generation sequencing (NGS).
+
+In a separate study in mSphere, a journal of the American Society for Microbiology, an international group of researchers has described how to use monitor coronaviruses, especially those that originate in bats.
+
+In test sets of clinical samples, the probes successfully identified coronaviruses, and the researchers reported that their approach both increased sensitivity and reduced sequencing costs.
+
+"We don't want to declare that enrichment is the panacea for all NGS challenges, but in this case, I do think it's a step in the right direction," said Lin-Fa Wang from Duke-NUS Medical School in Singapore.
+
+Coronaviruses in bats, said Wang, are particularly important to monitor.
+
+The coronavirus that caused 2003's deadly outbreak of SARS, or severe acute respiratory syndrome, is closely related to those found in bats and likely originated with the animals.
+
+"Coronaviruses, especially those that are bat-borne, remain an important source of emerging infectious diseases," Wang said.
+
+During times that are free of outbreaks, or what Wang calls "peace time," researchers can build up-to-date banks of probes associated with known forms of coronaviruses.
+
+During outbreaks, or "war time," they can use that information to track the evolution of viruses and spread of infections, in animal and even human populations.

@@ -1,0 +1,85 @@
+The Interface is a daily column and newsletter about the intersection of social media and democracy. Subscribe here .
+
+One result of a world in which everyone has more or less equal access to publishing tools has been what’s sometimes called an epistemic crisis: a scenario in which large groups of people muddle along with very different understandings of reality, undermining the ability of elected officials to govern. This might be particularly scary during a catastrophe, when citizens are relying upon their government for accurate and potentially life-saving information. If you can’t trust official government announcements — or you are misled into thinking that an official-sounding hoax is real — catastrophes might begin compounding upon one another.
+
+The global outbreak of a coronavirus that originated in China has given us fresh reason to consider the downsides of an internet where social media posts are amplified by engagement-hungry algorithms, and vetted by fact-checkers only days later — if at all. Misinformation is spreading rapidly, and with few obvious checks. Here’s Tony Romm in the Washington Post:
+
+Seven organizations that partner with Facebook issued nine fact checks in recent days, finding a wide array of coronavirus claims as false, including those peddling fake treatments, the company said Monday. Facebook said it has labeled the inaccuracies and lowered their rank in users’ daily feeds. Twitter, meanwhile, on Monday started steering U.S. users searching for coronavirus-related hashtags to the Centers for Disease Control and Prevention. And Google-owned YouTube said its algorithm also prioritizes more credible sources. Still, a number of videos there — including one with more than 430,000 views — pushed dubious information about the origin of coronavirus and its means of transmission.
+
+BuzzFeed is maintaining a list of debunked coronavirus claims, relating to its origin, potential treatments, and faked government communications about it. Some of the claims are highly susceptible to being shared by credulous parents. Canada keeps being falsely implicated. And Axios reported that “nearly 13,000 posts across Twitter, public Facebook pages, and Reddit between January 24 and January 27 have propagated conspiracy theories about the virus, including that it may be a bioweapon or a depopulation method.”
+
+To date, none of these claims seem to have gone truly viral. As Romm notes, much of the conversation about the virus is now taking place in closed groups, where it is harder for platforms to moderate the discussion. But for the most part, false claims seem to have stalled out in the low thousands of shares.
+
+More interesting than the false claims’ spread on a free internet, perhaps, is the spread of anger on the Chinese one. Citizens critical of the government’s response have been vocal on Chinese social media, challenging the authoritarian regime with unusual directness — and providing a counterpoint to propaganda about heroic first responders addressing the crisis. Here’s Raymond Zhong in the New York Times:
+
+But someone following the crisis through social media would see something else entirely: vitriolic comments and mocking memes about government officials, harrowing descriptions of untreated family members and images of hospital corridors loaded with patients, some of whom appear to be dead. The contrast is almost never so stark in China. The government usually keeps a tight grip on what is said, seen and heard about it. But the sheer amount of criticism — and the often clever ways in which critics dodge censors, such as by referring to Xi Jinping, China’s top leader, as “Trump” or by comparing the outbreak to the Chernobyl catastrophe — have made it difficult for Beijing to control the message.
+
+It’s unclear whether Chinese citizens have actually been able to evade censorship, or whether the government is simply allowing more people to vent their anger about their leaders than usual. But to the extent that it’s the former, it could illustrate how even an authoritarian version of the internet can struggle to maintain control of the message in a fast-moving crisis.
+
+Meanwhile, there are signs that the American internet will evolve to become more like the Chinese version. Members of Congress, as well as several Democratic presidential candidates, have called for dramatic reforms (or even the end) of Section 230 of the Communication Decency Act, which shields platforms from liability for what their users publish.
+
+And this week Congress took the unusual step of calling on one tech platform directly — Google — to remove a whole category of misinformation. Here’s Jennifer Elias at CNBC:
+
+The U.S. House Select Committee on the Climate Crisis wrote a letter addressed to Alphabet CEO Sundar Pichai, requesting the company take action against climate disinformation — specifically on its video platform, YouTube. “YouTube has been driving millions of viewers to climate misinformation videos every day, a shocking revelation that runs contrary to Google’s important missions of fighting misinformation and promoting climate action,” wrote Kathy Castor, chair of the committee.′ “Last September, you proudly declared that ‘sustainability has become one of Google’s core values from our earliest days,’ and announced ‘the biggest corporate purchase of renewable energy in history.’”
+
+The letter is based on a report earlier this month from the watchdog group Avaaz, which found that searches for terms like “global warming” and “climate change” frequently triggered recommendations promoting videos that contain misinformation.
+
+On one hand, this letter is simply a request, and Google is free to ignore it. But whether the issue is an epidemic or man-made catastrophe, governments around the world are taking an increasingly skeptical view of internet freedom. The question, as ever, is what they can do about it in practice.
+
+The Ratio
+
+Today in news that could affect public perception of the big tech platforms.
+
+Trending up: Facebook announced $700,000 in grants to local news organizations across the country. The investment is going to projects including The Advocate in Dallas, Texas, which focuses on the stories and interests of Black and Latinx communities, and Esperanza, an outlet that serves the North Philadelphia Hispanic community.
+
+Governing
+
+⭐ The department of justice is arranging interviews with Facebook rivals to learn more about the competitive landscape of the social media industry. The interviews are part of the antitrust probe that was announced last September. Alex Heath and Ashley Gold from The Information have the story:
+
+The agency is arranging interviews with social media company executives to learn their views about the competitive landscape of the industry, along with their perspectives on and relationship to Facebook, according to an email from the Justice Department seen by The Information. The email gives a view into how the DOJ is framing its antitrust probe into Facebook, the existence of which was first revealed in September of last year. It couldn’t be learned how many companies have already been contacted by or met with the agency as part of its civil investigation. [...] The Justice Department’s outreach to Facebook competitors follows the Federal Trade Commission’s reported contacts with social media companies as part of its own Facebook investigation. Facebook disclosed last July that it was under antitrust investigation by the FTC, and CEO Mark Zuckerberg said he expects the agency to focus on the company’s acquisition of Instagram.
+
+Big tech companies have started loudly advocating for more regulation. The strategy could give them a chance to help shape new regulations — and an advantage over smaller companies that could have a harder time complying with new laws. (Azeem Azhar / Exponential View)
+
+Bernie Sanders’ loyal internet army has helped establish him as one of the 2020 front-runners. But his Democratic rivals have also faced online harassment at the hands of his supporters. Some say he hasn’t done enough to stop the vitriol. (Matt Flegenheimer, Rebecca R. Ruiz and Nellie Bowles / The New York Times)
+
+A reporter for The New York Times was the target of a phone hack that appears to have originated with the Saudi Arabian government. He had been reporting on the royal family prior to the attack. (Ben Hubbard / The New York Times)
+
+The Washington Post suspended a reporter, Felicia Sonmez, after she tweeted a link to an article that detailed an allegation of sexual assault made against Kobe Bryant in 2003. The tweet, posted in the hours after his death, sparked instant backlash online. But journalists say Sonmez’s suspension was “misguided.” Because it was! (Rachel Abrams / The New York Times)
+
+New legal battles surrounding faulty products sold on Amazon have brought into question what exactly the tech company is: a retailer or a platform? The question has important implications for who can be held accountable when a product proves to be damaged or dangerous. (Colin Lecher / The Verge)
+
+Workers at Amazon’s Mechanical Turk platform, an on-demand “micro-task” marketplace, say they have encountered mutilated bodies, graphic videos of botched surgeries, and what appeared to be child pornography. (Dhruv Mehrotra / Gizmodo)
+
+A comprehensive understanding of disinformation requires looking at how content spreads across platforms, according to a new study published in the Misinformation Review. Researchers say social media platforms should increase collaboration to monitor disinformation campaigns. (Tom Wilson and Kate Starbird / Misinformation Review)
+
+Instacart is running a campaign to try and dissuade workers in Chicago from voting in favor of unionizing. The union vote is set to take place on February 1st. It could be the first successful unionization effort at a big venture-backed tech company. (Lauren Kaori Gurley / Vice)
+
+The Metropolitan Police in London announced they will begin using live facial recognition cameras for the first time. The cameras will be on for five to six hours at a time, with lists of suspects wanted for serious and violent crimes drawn up during each interval. (BBC)
+
+Industry
+
+⭐ Facebook hired respected human rights expert Miranda Sissons to help stem the spread of online violence. The hiring is part of a broader effort to atone for failing to stop online abuse from spilling over into the real world, reports Bloomberg’s Joshua Brustein:
+
+Sissons work is part of a broader reckoning within the technology industry, which has been forced to reexamine its role in world conflicts. Several months before Facebook hired Sissons, Twitter brought on Cynthia Wong, a former researcher at Human Rights Watch, to be its human rights director. As with Facebook, Twitter never announced the hiring. In discussions with more than a dozen people familiar with Facebook’s work on human rights, a picture emerges of a company that has been moving rapidly but, according to its skeptics, not always effectively. One Facebook employee, who asked not to be identified discussing private information, said its shortcomings have not always been the result of having too few people dedicated to human rights, but at times having so many people involved that they’re working at cross-purposes.
+
+The threat of regulatory action appears to be hurting Facebook stock more than that of other big tech companies facing antitrust investigations. That could be because the cost of breaking up Facebook is more obvious than it is for other big companies. (Martin Peers / The Information)
+
+Facebook says it has 2.5 billion monthly active users. But almost 400 million of the accounts appear to be bogus. The company’s continued user growth looks less impressive when you adjust for duplicate and fake accounts — up 7 per cent in the past two years, rather than 18 per cent calculated by Facebook. (Elaine Moore and Hannah Murphy / Financial Times)
+
+Facebook made its “Off-Facebook Activity” tool, which allows users to manage and delete the data that third-party apps share with Facebook, available to all users worldwide. The feature was first announced in 2018 at the company’s annual developer conference. (Sarah Perez / TechCrunch)
+
+Grindr’s Android app was exploited by ad fraudsters in a scheme that stole money from advertisers, and drained the phone batteries and depleted the data plans of Grindr’s users. The scheme also targeted Roku apps and devices. (Craig Silverman / BuzzFeed)
+
+And finally...
+
+Xi Jinping Vows To Combat Coronavirus By Making It Illegal To Mention Within A Week
+
+Here’s The Onion’s take on the epidemic:
+
+Chinese president Xi Jinping held a press conference Monday to announce plans to combat the coronavirus by making it illegal to mention within the next week. “We are directing massive resources towards eradicating the slightest hint of any person speaking about the virus, and I promise you that any conversation or literature pertaining to the virus will be completely eliminated during the next seven days,” said Xi, warning that if immediate action was not taken, it could be too late to stop the spread of information. “We have already seen far too many senseless deaths as a result of this outbreak, so I vow here and now that those official death toll numbers will remain unchanged.”
+
+Meanwhile, in real life, the Chinese government itself is spreading actual misinformation about the crisis.
+
+Talk to us
+
+Send us tips, comments, questions, and coronavirus hoaxes: casey@theverge.com and zoe@theverge.com.

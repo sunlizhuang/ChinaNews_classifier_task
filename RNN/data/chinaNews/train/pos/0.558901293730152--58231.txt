@@ -1,0 +1,65 @@
+© Getty Images People examining the Form 3-D desktop printer by Formlabs in Las Vegas in 2016. The company is one of many now seeking to recast its assembly process to minimize exposure to U.S. tariffs on imports from China.
+
+WASHINGTON — Many U.S. companies are maneuvering to sidestep tariffs on Chinese imports, trade lawyers and logistics consultants say, using a variety of strategies to avoid the payments without upending their supply chains.
+
+Tariffs remain on roughly $370 billion in Chinese imports to the U.S. annually. President Trump has said those levies would encourage companies to shift manufacturing to the U.S. but many importers say such moves are impractical. Instead, they are tweaking their assembly lines and shipping routes to keep most of their operations in China—but in a way that doesn’t oblige them to pay tariffs to the U.S. government.
+
+Some firms have decided to move a small but crucial step in the manufacturing process outside China so the U.S. Customs and Border Protection officials who determine the official origin of a product don’t consider it to be from China.
+
+Formlabs Inc., a 3-D-printer maker in Somerville, Mass., shifted the production for some of its circuit boards from China to Vietnam after customs officials determined in October that this component—the motherboard—was the part that made the finished product a 3-D printer.
+
+The printer’s final assembly still occurs in Shenzhen, China, but the motherboard move should save tens of thousands of dollars in tariffs, said Christophe Mandy, the company’s head of manufacturing.
+
+“It’s definitely a net benefit,” he said.
+
+Get news and analysis on politics, policy, national security and more, delivered right to your inbox
+
+No one tracks how much U.S. companies have saved by using such strategies since the Trump administration started levying additional tariffs on Chinese imports in July 2018. And to be sure, most U.S. importers are bearing the added cost.
+
+The U.S. collected $21.2 billion in tariff revenue in the most recent three-month period ended Dec. 31, compared with $9.4 billion in the same quarter in 2017, before the new tariffs went into effect.
+
+With such a high volume of Chinese imports still subject to tariffs, “companies are looking under every single rock to try to save money,” said Marilyn-Joy Cerny, an international trade lawyer with Miami-based firm Sandler, Travis & Rosenberg.
+
+Related video: China's cooling economy poses tough questions for Beijing
+
+The most common first approach to saving that money is by appealing to the U.S. Trade Representative to get a temporary pass on paying tariffs. Companies have filed more than 52,000 requests but trade officials have been granting only 2 in every 10 applications, with recent acceptance rates running at a fraction of that. Many companies are turning to trade lawyers and logistics consultants to find other ways around the tariffs.
+
+Tom Gould, vice president of global customs at San Francisco freight forwarder Flexport, said hundreds of U.S. companies have hired firms like his to devise moves to cut tariff costs.
+
+In one instance, Mr. Gould said, he convinced a U.S. company that manufactures computer routers to move part of its Chinese assembly line. Now, workers in neighboring Vietnam attach circuitry to the router’s printed circuit board, which marks the exact moment the computer router is born according to a 1980s customs ruling.
+
+Workers then ship that part back to China for final processing and packaging. The company, which Mr. Gould declined to identify, saved more than $100,000 in tariffs since the change, he said.
+
+Trade lawyers and consultants rely on decades of rulings from customs officials who determine when a collection of parts becomes a product—for example, when fabric cutouts, zippers and thread can be called a pair of pants that would be subject to tariffs.
+
+The origin rules can be unclear, so before moving production companies will sometimes run scenarios past customs officials to see how they would determine the origin of a product assembled in several countries.
+
+The response letters from customs, which are posted publicly, show that dozens of companies are contemplating assembly moves. In recent months, Samsung Electronics Co. and Fitbit Inc. have run manufacturing scenarios past customs officials.
+
+“Avoiding duties by using the law to your advantage is different than unlawfully evading duties,” said attorney Deborah Stern of Sandler, Travis & Rosenberg.
+
+Another money-saving strategy has eliminated tariffs for retailers that route small shipments of Chinese-made goods through Mexico and Canada.
+
+Under federal law, companies are allowed to import packages valued at less than $800 and send them directly to customers without paying tariffs. Logistics firms said retailers are increasingly sending shipments of Chinese-made inventory to warehouses located just over the border, where they can fulfill orders for U.S. shoppers quickly and skip paying tariffs for smaller orders.
+
+Athletic apparel seller Hylete Inc. is preparing to route inventory through a warehouse operated by Baja Fulfillment in Tecate, Mexico. Founded in 2012, the Solana Beach, Calif., retailer sells items predominantly made in China and nearly all of its customer orders fall under $800.
+
+Company executives estimate the tactic will save $2 million this year.
+
+“We’re all competing with the Amazons of the world, so we needed that speed to delivery,” said Kate Nowlan, a Hylete vice president who said the company had sales of about $15 million last year.
+
+Chad Rubin, the founder of Think Crucial, makes his company’s vacuum bags, coffee filters and other items in Chinese factories. After the tariffs hit, he started sending some products to a Mexican warehouse where they await shipment to U.S. shoppers through Amazon.com and other online marketplaces.
+
+Mr. Rubin, who is also CEO of inventory-management-software firm Skubana, said that Think Crucial typically takes in between 30,000 and 50,000 orders a month and that the detour through Mexico has given him an edge in an intense retail environment.
+
+“It becomes a competitive advantage,” he said.
+
+Shifting assembly lines or shipping routes isn’t without its own cost. Most companies need to either contract with new logistics firms or move manufacturing equipment and train workers in a new foreign country with different legal system—steps executives often see as operational headaches.
+
+“They really don’t want to do it because it’s a pain,” said Steven Page, president of Canadian logistics firm Stalco Inc., whose Toronto warehouse has shipped a growing number of tariff-free packages to U.S. customers.
+
+Nor can every company find a way to cut tariffs. “For everybody that comes in, you poke and you prod,” said Robert Silverman, a New York trade lawyer with Grunfeld, Desiderio, Lebowitz, Silverman & Klestadt LLP. One of his clients, a plastic-bag importer, eventually gave up on finding a way to cut tariffs.
+
+“Sometimes, nothing works,” he said.
+
+Write to Katy Stech Ferek at katherine.stech@wsj.com

@@ -1,0 +1,17 @@
+Daan Oomen, Creative Director of Live Legends live experience designers based out of Amsterdam, was tasked to create a turnkey show experience for nightclub ‘One Third’, which was built in an old factory – a former foundry turned train station, based in China. To power the dynamic and immense scale LED video canvas, Oomen chose a 4x4pro disguise pro range media server. The pixel maps of the club are complicated, or as Oomen puts it, ‘insane’ and the only choice was to power them using disguise.
+
+disguise media servers are capable of pushing all the pixels while remaining stable. Oomen said, “We love the flexibility of the system as we have timecode shows, followed by input from the local VJs (video jockey) mixed with pre-programmed base theme looks.” disguise’s 4x4pro sets the industry benchmark for power, flexibility and convenience delivering unparalleled quality content to the LED canvas screen at One Third.
+
+Dave van Roon, Video Specialist and disguise Programmer at Live Legends explained, “On our shows everything is connected. With SMPTE and UDP, for instance, the lighting desk follows along with the show, so video, lighting, special effects, motion and lasers are all in sync.”
+
+Live Legends also wanted to utilize a show control solution that the local teams would find easy to use. disguise made it possible to hook all the elements together using one simple touchscreen and since it uses disguise Telnet communication, the interface is fast and always works. Additionally, its ease of use allows local crews, with no previous knowledge of disguise, to operate it.
+
+Live Legends programmed all the shows in its studio in the Netherlands using disguise’s pre-visualization toolset and the Lightconverse 3D show platform. Live Legends chose this combination so they could test all triggers and see how the content would work within the space with the lighting, motion and lasers.
+
+After arriving at the venue in China, they focused on troubleshooting and tweaking the finer details. With projects of this scale, there is always a chance that the actual LED video screens at the venue are differently from the drawings, therefore using the disguise platform was of critical importance during the pre-production stage of One Third club. The content mapping is conceptually separated from output mapping so there is no worry about a difference of LED sizes, one can program the show as designed and use the output feed to make it look exactly the same.
+
+Although One Third was already recognized as the gold standard of nightclubs in China, Live Legends with the help of disguise solutions, brought extensive skills, knowledge, and vision from the world of live events to bring the reputation and nightclub experience to the next level.
+
+Live Legends delivered all the creative elements from concept to execution, including show production and interior technical design which required coordinating all the visual disciplines and optimizing the guest experience with flair and imagination.
+
+Additionally, disguise’s robust and flexible 4x4pro media server, utilized by Live Legends, pushed every pixel to maximize playback power across the LED canvas with at least two simultaneous layers of content at 10G bit/sec. disguise ensures superior video quality and performance lasts all night long at the One Third club in Hangzhou.

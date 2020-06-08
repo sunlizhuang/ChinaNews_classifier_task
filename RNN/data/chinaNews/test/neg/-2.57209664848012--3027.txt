@@ -1,0 +1,127 @@
+The GPS started as unwanted US military tech. This is how it found its true path
+
+Posted
+
+When's the last time you pulled out a map to work out where you need to go?
+
+It's probably been years (or maybe even never, depending on your age) — because GPS is at our fingertips, and it's never been easier to use.
+
+First developed by the US military for warfare, the Global Positioning System uses a network of at least 24 satellites to provide location and time information.
+
+But did you know it's only one of four satellite navigation systems orbiting the Earth? That the civilian signal was at one time deliberately "scrambled" to be off by 100 metres? Or that space junk is one of its biggest threats?
+
+Here's a quick look at how the technology got to where it is today.
+
+Why was GPS created?
+
+Developed in the 1970s by mavericks within the US military, the technology first struggled to get funding from leadership sceptical of its potential.
+
+"One of the key things to remember about GPS is that it was the Air Force's program, but most of the Air Force, or at least a very good chunk of it, did not want GPS," journalist Greg Milner tells RN's Rear Vision.
+
+But its backers — among them Colonel Brad Parkinson — kept pushing.
+
+"His idea with GPS was that it would be developed as a way to do precision bombing… it would make a more humane type of warfare," says Milner, author of Pinpoint: How GPS is changing our world.
+
+"It was purely a military tool."
+
+The first satellites were launched in the 1980s and GPS went on to prove its worth during the first Gulf War.
+
+"The Iraqis assumed that this faceless barren desert would really pose problems for the US and its Allies," Milner says.
+
+"They figured they'd have to rely on just a few roads that were there because otherwise they wouldn't really be able to navigate."
+
+But GPS allowed the US to essentially "barnstorm right across the desert with very little difficulty".
+
+"It ended up being a game-changer on the ground before it was a game-changer in the air," Milner says.
+
+Who were the first civilians to use it?
+
+Precision timekeepers! They used GPS in the 1980s to synchronise clocks all over the world.
+
+They were soon followed by land surveyors, who were attracted to the system's accuracy.
+
+By the 1990s there were enough satellites to give 24-hour coverage and the technology was taken up by the aviation and shipping industries.
+
+Milner says the personal navigation market began to slowly develop in the 1990s.
+
+Japan was one of the first countries to widely adopt the system.
+
+"In Tokyo, the street system and the address system is so confusing, that it was really ripe for some sort of invention that would make it easier to move around," Milner says.
+
+Originally, Milner says, GPS had something called "selective availability".
+
+That meant the US would "purposely scramble the signal" to be off by about 100 metres — fearing that in the wrong hands, "people could use it to bomb the White House".
+
+But he says those who wanted to evade "select availability" would have figured it out, and during the Clinton administration it was switched off.
+
+Are you actually using GPS?
+
+All four Global Navigation Satellite Systems (GNSS) are still largely driven by security or military needs, says emeritus professor Chris Rizos from University of NSW.
+
+He says the US, Russian and Chinese systems are funded totally by their militaries, while the European Union's system comes out of a transport budget.
+
+Professor Rizos says 2020 is the "magic date" for when the Chinese and European systems will be fully deployed.
+
+"GPS is the oldest because it was fully operational since 1995. It's the gold standard," he says.
+
+"It's the first and that's why everybody says, 'I've got my GPS on'.
+
+"But when you turn on your mobile phone, if it's a new mobile phone, it actually is also locking onto the signals of the Chinese satellites, the Russian satellites, the European satellites and the US satellites.
+
+"We have dozens, and dozens, and dozens of satellites that your mobile phone is locking onto so it's not really a GPS device anymore."
+
+He says militaries lock onto their own signals.
+
+"There's a subcategory of users, which is really, really concerned about which satellites they use … the rest of us, we're not even told," he says.
+
+Death by GPS
+
+While we have all blamed GPS for taking us the wrong way, the truth is, it isn't calculating the route.
+
+"GPS doesn't do the navigation for you," says Paul Tregoning, from Australian National University's Research School of Earth Sciences.
+
+Rather, he says, the map software on your phone is doing "simple geometry" to work out how to get you from A to B.
+
+Milner says GPS rarely malfunctions and many people follow their devices too blindly and forget situational awareness.
+
+Park rangers coined the phrase "death by GPS" after having to rescue drivers from Death Valley National Park, in California.
+
+"Death Valley is really, really huge. It goes on forever and it's in a very, very harsh and forbidding desert," Milner says.
+
+"The map program and the GPS device might have a road that technically exists there in the desert but hasn't been used for many, many years.
+
+"Maybe it's an old mining road. Maybe it's only for off-road vehicles but it tells them to turn and they'll turn … and pretty soon they find themselves lost in the desert."
+
+Milner recounts how an American tourist in Iceland almost drove to the Arctic Circle from the airport after putting the wrong hotel address into a GPS device.
+
+Other stories of misadventure blamed on GPS directions include a Polish driver ending up in a lake, a family with their dog spending four days bogged near Wilcannia after driving off-road and a man escaping from his car before it was hit by a train after driving down railway tracks in Melbourne.
+
+The risks facing GPS
+
+The biggest risk to the system, Dr Tregoning says, is space junk taking out a satellite.
+
+He says there have been occasions where satellites have collided, creating more "completely uncontrolled" space junk.
+
+"There could come a point where there is enough of the space junk that many more satellites are going to be affected," he says.
+
+"And that will cause more space junk and the whole of the space environment will just become unusable."
+
+Other vulnerabilities include people jamming the system, magnetic storms controlled by the sun damaging equipment or countries shooting down another nation's satellite.
+
+"It would be a major international incident if that ever happened, but that's always a possibility," Dr Tregoning says.
+
+What's next?
+
+Professor Rizos notes the next wave of research in the area is coming from militaries wanting to upgrade the technology soldiers use in an attempt to "cut their over-reliance on GPS".
+
+He predicts that private satellite operators will also enter the market with cheaper satellites "a lot closer to the ground" which will improve coverage.
+
+He tips we'll come back to Earth "because to go indoors, you really need to look at other technologies".
+
+Potentially we'll have 5G base stations with 5G signals making measurements with "more powerful signals" that can travel through walls, Professor Rizos says.
+
+"It's just that it will only be available in urban areas and suburban areas," he adds.
+
+RN in your inbox Get more stories that go beyond the news cycle with our weekly newsletter. Sign up
+
+Topics: computers-and-technology, science-and-technology, astronomy-space, community-and-society, history, unrest-conflict-and-war, australia, united-states

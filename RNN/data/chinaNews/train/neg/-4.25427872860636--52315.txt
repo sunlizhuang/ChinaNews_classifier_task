@@ -1,0 +1,141 @@
+Nearly two decades since SARS emerged in 2003, China is again at the center of a battle against a new coronavirus.
+
+Like the SARS virus, the respiratory disease 2019-nCoV evolved from infecting animals to infecting humans. The new virus also poses a pandemic threat. And just as with SARS, there are concerns about China’s transparency in this outbreak.
+
+In 2003, China was heavily criticized for withholding information about SARS for too long. The virus eventually killed 774 people and infected more than 8,000. While a lot has changed since then — including China’s capacity to identify outbreaks, find their source, and rapidly sequence the virus that’s causing them — problems remain with China’s information-sharing.
+
+Over the past couple of weeks, reports have emerged that Chinese authorities may have delayed reporting the outbreak and then downplayed and covered up what they knew, even muzzling a doctor who was trying to warn colleagues about the virus. This suggests China’s actions early on may have postponed the global response to a deadly pathogen and allowed it to spread further. (To date, there are already more than 20,000 2019-nCoV cases and 400 deaths.)
+
+But is there more to the story? What does China’s slow reporting of this outbreak reveal about the public health system in a country of 1.4 billion? And what has changed in China since SARS that outsiders might miss?
+
+To answer those questions, I called up Yanzhong Huang, a China expert. Now a senior fellow for global health at the Council on Foreign Relations, Huang has studied China’s response to SARS and has written extensively on public health in China and the government’s ability to detect disease outbreaks, including in his book Governing Health in Contemporary China. He shared his views on the “smoking gun” evidence that local health officials in Wuhan — the epicenter of the outbreak — downplayed the severity of the new coronavirus, why China’s disease surveillance system failed, and his concerns about the consequences of a mass quarantine.
+
+The conversation that follows has been edited for length and clarity.
+
+Julia Belluz
+
+What did China learn from the SARS outbreak that it’s using now to fight the new coronavirus?
+
+Yanzhong Huang
+
+The main difference is the speed in terms of correctly identifying the etiological [or disease-causing] agent. During the SARS outbreak, the China CDC initially made the wrong diagnosis. They thought the disease was caused by chlamydia instead of the SARS coronavirus. It was Canadian scientists who were the first to correctly pinpoint the virus and sequence it.
+
+This time, the Chinese scientists were able to genetically sequence the virus in early January. So they correctly identified the etiological agent, sequenced it, and they shared that info with the World Health Organization.
+
+After SARS, [China also] built the largest disease surveillance network with a web-based reporting system in the world. It allows grassroots public health workers to report anything unusual to the central health authorities, the central CDC. That system, unfortunately, didn’t work out this time.
+
+Julia Belluz
+
+Let’s talk about China’s disease surveillance system. Does it allow officials at the local level to alert the central government about disease outbreaks directly?
+
+Yanzhong Huang
+
+Yes. This web-based online reporting system means if someone found something [unusual], they can report those situations directly to the central national level CDC.
+
+But Chinese CDC officials admitted that with the new coronavirus, the system failed to work — in part because they don’t have the protocols on how to deal with a virus that is not in the category of the known pathogens.
+
+Julia Belluz
+
+That sounds funny.
+
+Yanzhong Huang
+
+It sounds very odd indeed. The CDC people had an explanation that there was a new virus, and it was not in the category of the list of pathogens they had in the system, so they didn’t know how to report.
+
+Julia Belluz
+
+I’ve also heard a lot about rigid bureaucratic structures in China that slow down information moving through the government. But the web-based system you describe doesn’t sound very rigid.
+
+Yanzhong Huang
+
+What I say and how it works is a different thing. The reality is that they still follow the level-by-level reporting system. So, for example, Wuhan and the local health authorities ... did not have the capability to do the lab testing, so they had to send the samples to the China CDC. They are supposed to share the information with the National Health Commission and the provincial health authorities.
+
+But even in confirming a case, this is also very bureaucratic. They have this three-level confirming process. To confirm a case, they have to confirm it at this grassroots level, then at the level of the city CDC; then the national CDC has to confirm before it can be counted as a confirmed case.
+
+Julia Belluz
+
+There have been numerous reports, based on different bits of evidence, that as with SARS, China deliberately engaged in a cover-up that delayed alerting the world to this outbreak. What do you see as the most compelling evidence of such a delay or cover-up?
+
+Yanzhong Huang
+
+According to a January 29 report in the New England Journal of Medicine, by authors from the Chinese CDC, there were already health care workers infected in early January — something like seven health care workers infected. This is the smoking-gun evidence of human-to-human transmission.
+
+But the public was not kept informed about this situation until January 18. People were still told there was no strong evidence of human-to-human transmission. In the same article in NEJM, there’s other evidence that human-to-human transmission was occurring in December already.
+
+Julia Belluz
+
+Are there other explanations for why China may not have been forthcoming and at what level of government this cover-up was occurring?
+
+Yanzhong Huang
+
+The local government [in Wuhan] seems to indicate they were misinformed by the central CDC about the seriousness of the outbreak. But the central CDC seems to indicate they didn’t have the authority to announce confirmed cases — that it was up to the National Health Commission to do that job.
+
+But if you look at the way [Wuhan] reported the disease, after January 5, they cease to provide reports, and that was not resumed until January 11. In that period, there was no information from the government about the disease. But there were two important political meetings going on [between January 5 and 11]: the city People’s Congress meeting and the political consultative conference. These are considered important meetings to appoint new leaders, make personnel changes, all at the local level.
+
+[Wuhan officials] didn’t want the bad news to ruin the meetings.
+
+Julia Belluz
+
+In SARS, I recall a lot of the failure to report happened at the level of the central government. This sounds different.
+
+Yanzhong Huang
+
+In SARS, it was also that central leaders who were misinformed by the central health authorities on the seriousness of the problem. The minister of health continued to say it’s controllable, preventable, and it’s safe to travel to China at a time there were already hospitals admitting a lot of people.
+
+This time, when we talk about this cover-up, there are two issues. First, there’s the issue of reporting the disease [at the local level] to the up levels. This is what we call upward information flow. That’s the part I’m not that confident about because we still don’t know when the central leaders got the message that this is something serious. It looks like it was after January 16 because, by January 18, they sent an investigation team to Wuhan led by Dr. Zhong Nanshan [China’s most senior coronavirus expert who aided the SARS response]. So it’s clear that it was around January 16 that they got the message, but I don’t know from who.
+
+Wuhan’s local authority did issue reports on the disease, but they were on and off. They were also inaccurate [since they kept denying the evidence of human-to-human transmission of the virus early on].
+
+Then there’s the issue of communicating that information with the public. Clearly, [Chinese authorities] haven’t done a very good job in terms of sharing the disease information with the public in a timely and accurate manner.
+
+Julia Belluz
+
+Why did China delay reporting the SARS outbreak, and why might they delay now?
+
+Yanzhong Huang
+
+Authoritarian regimes tend to value secrecy. The central health authorities at that time were misinformed because of that upward accountability. You’re only accountable to immediate superiors, not to the people who are affected by your decisions. You have that incentive not to tell the truth, to make yourself look good. The concern about the effect on the Chinese economy and tourism, political and social stability — that was a very, very important concern.
+
+One of the reasons they didn’t want to report is that they knew there was something terrible going on — the human-to-human transmission — and that was going to ruin the political atmosphere of the two meetings.
+
+Julia Belluz
+
+As a result of reacting too slowly to this outbreak, China has taken some extraordinary measures to contain the virus, including quarantining more than 50 million people, which is on a scale that’s never been done. What was going on in the minds of leaders when they decided to do this — what was really motivating their concern?
+
+Yanzhong Huang
+
+The quarantine decision looks like it was made in a rush at the recommendation of Dr. Zhong Nanshan, who was China’s SARS crusader. He’s now playing a crucial role in the fight against China’s coronavirus. He arrived in Wuhan on January 18, and he realized that, with the record spread of the virus, something more dramatic needed to be done to contain its spread and that quarantining the city was the only option.
+
+Julia Belluz
+
+During SARS, in other countries, such as Canada, much more minor quarantines led to human rights trials. Any sense of how this quarantine looks to the Chinese people?
+
+Yanzhong Huang
+
+My reading of this — in the mood on Chinese social media, in my conversations with people there — is that most people agree with the quarantine measures, whether in Wuhan or other parts of the country. [They think it’s] necessary and important to stop the spread of the virus. Even the encroachment of human rights, civil liberties, the discrimination against certain groups like the people from Wuhan — it’s typical for Chinese to accept that. What they think is that the most important thing [is containing the virus,] even if it means they have to sacrifice certain rights.
+
+Julia Belluz
+
+On the topic of authoritarianism, we know China has an elaborate system of surveilling its population. Are we seeing this play a role in the outbreak response?
+
+Yanzhong Huang
+
+I’m not endorsing this approach — or making a moral judgment — and, certainly, it has huge ethical and moral implications. But big data is commonly used [in outbreaks]. So they have this system everyone can access — you just need to provide the train number if you traveled over the past month and flight number — and the system can show whether you had companions who happened to be confirmed patients [with the new coronavirus].
+
+Julia Belluz
+
+Wow. What most worries you most about China’s approaches — the quarantines, the surveillance — in the context of this new coronavirus outbreak?
+
+Yanzhong Huang
+
+I’m most concerned about the unintended consequences. Like people who have HIV, because of the quarantine measures and restrictions on transportation, are having problems getting access to lifesaving medicines. There was a boy who had cerebral palsy, and he died at home because no one was taking care of him. His father was quarantined. There was also a report of a guy who felt so helpless — he wanted to go to a hospital and couldn’t, and no ambulance was coming — that he committed suicide.
+
+People who are coming from Wuhan are having difficulties checking into hotels. They are essentially becoming persona non grata. So I’m worried about discrimination against people in Wuhan.
+
+Julia Belluz
+
+Do you think the world now has a clear view of what’s going on with this outbreak in China?
+
+Yanzhong Huang
+
+I think now the numbers are much closer to the reality on the ground, especially when we talk about other parts of China. But I’m not so confident of the cases of Wuhan. A lot of people cannot check into a hospital even though they have the symptoms. The whole health care system there is completely [overrun]. So it’s a capacity problem.

@@ -1,0 +1,31 @@
+For the time being, Chinese jets are not on the same level as their American counterparts.
+
+Key Point: An engine that can handle these functions is essential for fifth-generation aircraft.
+
+China’s first fifth-generation aircraft is having a major issue.
+
+As Dave Majumdar previously covered, China recently declared that its J-20 fighter jet had attained initial operational capability. “China's latest J-20 stealth fighter has been commissioned into the air force's combat service,” China’s Defense Ministry said on February 9. Chinese analysts touted the country’s achievement as breaking the Western stranglehold on stealthy aircraft. "The J-20 will also change the history of the air force in Asia-Pacific region. In the past, only the U.S. and its allies like Japan were capable of arming stealth fighter jets. But now, their monopoly in this region has been broken by China's J-20," Song Zongping, a military expert, was quoted as saying in official media.
+
+China has indeed long depicted the J-20 as a competitor to America’s fifth-generation jets, the F-22 and F-35. But a new report casts doubt on those claims. Specifically, the Hong Kong–based South China Morning Post (SCMP) reported that “China rushed its first advanced stealth fighter jet into service ahead of schedule last year, using stopgap engines, in the face of rising security challenges in the region.” According to SCMP, that “means its capabilities will be severely limited, affecting its manoeuvrability and fuel efficiency as well as its stealthiness at supersonic speeds.”
+
+The story notes that the J-20s were initially slated to be powered by a specially designed W-15 engine. However, during testing in 2015, the W-15 engine exploded. Although no one was injured in the explosion, Chinese engineers have not been able to fix the engine. One source told the Hong Kong paper that the “reasons it happened were complicated, with one being the quality control of its single-crystal turbine blades, the key component for such a powerful turbofan engine.” More concretely, the W-15’s single-crystal turbine blades have been unable to handle the high temperatures and maneuverability of the J-20.
+
+An engine that can handle these functions is essential for fifth-generation aircraft. As the article notes, engines like the F-22’s Pratt & Whitney F119 allow fighters to reach supersonic speeds without using afterburners, which allows them to maintain their stealth. Without an engine like this, Beijing’s J-20 would lack stealthiness while traveling at supersonic speeds.
+
+The issue does not look like it will be resolved in the near future. A second Chinese military source claimed to SCMP: “Chinese technicians are able to produce cutting-edge-quality single-crystal turbine blades when concentrating on a specific single item. But they’ve still failed to turn the advanced technology into a standard product for mass production. It’s a bottleneck problem that needs more time to overcome after countless experiments and tests, based on Western experiences.”
+
+For the time being, then, China’s new combat ready J-20s are using WS-10B engines. According to SCMP, the WS-10B is a modified version of the WS-10 Taihang engine, which were built to power China’s J-10 and J-11 fighters. Those fighters are labeled as fourth-generation jets. The WS-10B’s thrust-to-weight ratio is not able to power the J-20 to supersonic speeds without the use of afterburners.
+
+This is not the first time that the J-20 has required new engines. Initially, China had used two Russian AL-31 engines to power the J-20 fighter jets. These engines are even less capable than the WS-10B ones that China produces domestically. Beijing has pushed Moscow to sell it more advanced engines but Russia has refused because of concerns that China will reverse engineer them, as it has done with other military systems.
+
+Russia’s refusal prompted China to begin investing heavily in domestically manufactured engines. In fact, “military insiders” told the South China Morning Post that Beijing spent around $23.7 billion between 2010 and 2015 trying to develop more modern aerospace engines. Chinese state media has previously bragged that these efforts paid off. China Central Television claimed last year that the W-15 engines were performing comparably to the Pratt & Whitney F119. Evidently, that is not the case.
+
+The South China Morning Post article did not come as a complete surprise. A January 2016 Reuters article noted that China was struggling to manufacture engines for its fifth-generation jets. “Chinese engine-makers face a multitude of problems,” Michael Raska, an assistant professor at Singapore’s S. Rajaratnam School of International Studies, was quoted as saying in the article. “Among the issues,” Reuters noted, “China’s J-20 and J-31 stealth fighters cannot super-cruise, or fly at supersonic speeds like their closest rivals, Lockheed Martin’s F-22 and F-35 stealth planes, without using afterburners.”
+
+Still, China is almost certain to eventually overcome its issues in building sophisticated aerospace engines. The Reuters article said that some sources claimed Beijing was hiring foreign engineers and air force officers to help in the production, although Reuters said it could not independently confirm those claims. And, a Shanghai-based aerospace consulting firm, Galleon group, estimates that China will invest around $300 billion over the next two decades to develop civil and military aircraft engines.
+
+For the time being, however, Chinese jets are not on the same level as their American counterparts.
+
+Zachary Keck (@ZacharyKeck) is a former managing editor of The National Interest. This piece was originally featured in February 2018 and is being republished due to reader's interest.
+
+Image: Reuters.

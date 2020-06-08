@@ -1,0 +1,27 @@
+New research maps the impacts of past and future dams on fish habitats worldwide. Photo credit: Ali Madad Sakhirani/Pexels Left Image
+
+Data-driven decision making
+
+“We’ve known that future development will impact fish species, but we didn’t have the detailed information about some of the places with the highest development pressures—like the Amazon, the Mekong, and the Congo—until now,” said Rafael Schmitt, researcher at the Natural Capital Project and second author on the study. “This dataset will help decision-makers better understand impacts of land and infrastructure development on aquatic biodiversity, so they can make choices that protect it.”
+
+The researchers used detailed spatial data for 10,000 fish species to measure impacts of dams on their habitats. They evaluated around 40,000 existing and 3,700 planned hydropower dams to create high resolution global maps. “These dams pose a real danger to the survival of species and associated human livelihoods,” said Schmitt. “Salmonids in North America were mostly wiped out by dams, and with them the livelihoods of people depending on their annual migration. Now, similar impacts become evident in other geographies. Recently, we’ve seen how dams on the Yangtze contributed to the extinction of the Chinese paddlefish, a source of food and cultural reverence for communities along the river. If we aren’t more strategic about where and how we develop future hydropower, we can expect to see more and more examples like this one.”
+
+Opportunity for strategic hydropower planning
+
+The study shows the highest numbers of fragmented habitats from current hydropower are found in the United States, Europe, South Africa, India, and China. In developing countries, though, the impacts of planned hydropower development are disproportionally high. “For example, we see that the completion of only one dam close to the outlet of Purari River in Papua New Guinea will decrease habitat connectivity by about 80% on average for freshwater fish in the region,” said Valerio Barbarossa, environmental researcher at Radboud University and lead author on the study.
+
+“With these maps, we have a global picture of where fish species are already impacted by dams and where local conservation efforts should be fostered,” said Barbarossa.
+
+The researchers hope that their results will help guide strategic decision-making around hydropower planning. “Evaluating impacts of dams is only the first step,” said Schmitt. “These data can be used to highlight the additional benefits of thoughtful, strategic river basin development to drive conservation and restoration efforts in local areas and at global scales.”
+
+Rafael Schmitt is a postdoctoral fellow at the Natural Capital Project and the Stanford Woods Institute for the Environment.
+
+This story was adapted from the original Radboud University press release.
+
+Media Contacts
+
+Rafael Schmitt, Stanford Natural Capital Project, rschmitt@stanford.edu
+
+Sarah Cafasso, Stanford Natural Capital Project Communications Manager, scafasso@stanford.edu
+
+Valerio Barbarossa, Radboud University, v.barbarossa@fnwi.ru.nl

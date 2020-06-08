@@ -1,0 +1,51 @@
+Governance & Risk Management , Legislation & Litigation , Privacy
+
+Senator Calls for Creation of Federal Online Privacy Agency
+
+Kirsten Gillibrand's Proposal Would Take Responsibility Away From FTC
+
+Senator Kirsten Gillibrand of New York
+
+Sen. Kirsten Gillibrand, D-N.Y., is proposing the creation of a new federal agency dedicated to protecting online privacy, taking that task away from the Federal Trade Commission.
+
+See Also: Osterman Research: Best Practices for GDPR and CCPA Compliance
+
+Gillibrand, who briefly ran for the Democratic presidential nomination, described her legislation that would create a data protection agency in a Thursday announcement. The senator said the agency would create new rules for how technology companies are allowed to collect and use personal information about their users. Plus, the agency would have subpoena power as it investigates companies accused of violating American's privacy.
+
+Currently, the FTC oversees issues related to online privacy and data protection. For example, it was the lead agency that oversaw a record-setting privacy fine against Facebook for when that company allowed third parties to access its users' data without permission.
+
+In November, two Democratic members of the U.S. House, Anna Eshoo and Zoe Lofgren, proposed similar legislation, The Online Privacy Act, which would create a digital privacy agency that would have the ability to hire up to 1,600 employees and the authority to impose fines for privacy violations (see: Bill Would Create a Federal Digital Privacy Agency). The Online Privacy Act is still being debated in House committees.
+
+FTC Criticized
+
+Despite the FTC's recent actions against Facebook and others, privacy rights groups such as the Electronic Privacy Information Center have criticized the commission, saying it needs to do more. On Thursday, EPIC endorsed Gillibrand's proposal to move data protection regulation to a new agency.
+
+.@EPICprivacy is proud to support Sen. Kirsten Gillibrand's (@gillibrandny) proposal to establish a Data Protection Agency. The system is broken. The U.S. urgently needs a Data Protection Agency. https://t.co/jgzNhmO4R9 pic.twitter.com/Eiip569y6u — Caitriona Fitzgerald (@CaitrionaFitz) February 13, 2020
+
+In outlining her proposal for the new data protection agency, Gillibrand criticizes Google and Facebook for profiting from users' personal information.
+
+"The U.S. needs a new approach to privacy and data protection," Gillibrand says. "We cannot allow our freedoms to be trampled over by private companies that value profits over people, and the data protection agency would do that with expertise and resources to create and meaningfully enforce data protection rules and digital rights."
+
+Gillibrand also pointed to the massive privacy breach at Equifax that exposed data on 145 million Americans. This week, the U.S. Justice Department charged four members of China's People's Liberation Army with hacking the consumer credit company (see: Learn From How Others Get Breached: Equifax Edition).
+
+"Equifax collected sensitive credit data from hundreds of millions of Americans, but failed to safeguard it, which allowed hackers to steal and expose this information," Gillibrand says. "To this day, Equifax has faced few consequences and little accountability for what happened. And the losers of that breach? The millions of Americans whose information was compromised."
+
+Data Protection Agency
+
+Gillibrand says the newly formed agency would work on three core missions: Giving American's control over their data, promoting data protection and privacy innovation and advising Congress and lawmakers about emerging privacy and technology issues, such as so-called "deepfake" videos and encryption standards.
+
+The growing use of new technologies - such as artificial intelligence - that can impinge on privacy is a major reason why a new agency is needed, Gillibrand says.
+
+"Even the savviest consumers of technology cannot fully understand how companies use their data, where their data goes, how far they are willing to go to profit from that data, and whether their business practices encroach on their privacy and freedom," she says.
+
+Under her proposal, the new agency would take complaints from consumers, conduct investigations and, if it appears that a company has broken privacy laws, launch investigations and share those findings with Congress and the public.
+
+Federal Privacy Law Lacking
+
+The U.S. lacks an overarching federal privacy law along the lines of the European Union's General Data Protection Regulation (see: Marriott Faces $125 Million GDPR Fine Over Mega-Breach).
+
+But some states have taken action. For example, the California Consumer Protect Act went into effect Jan. 1, with enforcement expected to start later this year (see: Are Companies Adhering to CCPA Requirements?).
+
+Steve Durbin, the managing director of the Information Security Forum, says one reason why the federal government needs to ramp up privacy protections is that more organizations are storing mass amounts of data in the cloud, making it tougher to ensure it's protected.
+
+As a result, he says, the U.S. needs to enforce stronger privacy laws and regulations so that businesses "must either comply or pay a stiff penalty."

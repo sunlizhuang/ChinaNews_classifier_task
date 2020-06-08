@@ -1,0 +1,27 @@
+It's January, so you know what that means: CES 2020! The world's biggest technology conference opens up this week in Las Vegas, Nevada and these are the major trends we're expecting to see from this years show.
+
+The cord-cutting will continue
+
+Last year, the cord-cutting/streaming revolution really took off, culminating in the blockbuster launch of Disney+ a couple of months ago. Many of the biggest exhibitor at CES are television makers like Samsung and LG, so you can expect that there will be few if any TVs on display that don't integrate the major subscription services right into the TV.
+
+While smart TVs have been around for a few years now, 2020 will be the year when we can start dropping the "smart" qualifier; all TVs are going to be smart TVs.
+
+5G: Once more, with feeling
+
+Last year's CES was all about 5G technology and the excitement around the anticipated 2019 roll-out of 5G tech. Well, 5G ran into some issues last year when Chinese firm Huawei, the world's largest telecom equipment maker, got kneecapped by the US when they were blacklisted as a "national security risk."
+
+While Huawei's troubles aren't over, the 5G rollout is starting to actually, well, roll out. AT&T brought their lowband 5G network online in Las Vegas last month, so we can expect that the 5G technology on the conference floor will actually work they way it is intended. After all the hype, we'll finally get to see if the technology lives up to its billing.
+
+Healthcare and wellness technology
+
+The very first media day press conference at CES, presented by Living in Digital Times, heavily focused on healthcare tech. Wearable, health-monitoring tech is going to be a big trend for mobile tech companies like Samsung, Google, and Apple as well. The next series of Apple watch is going to introduce a slew of new health-monitoring sensors and apps and its not a coincidence that Google just bought health-monitoring wearable tech pioneer Fitbit.
+
+Privacy, privacy, privacy
+
+Now that we're talking about healthcare tech, lets not forget that this technology relies on healthcare data that it is collecting from the user. With all of the controversies last year over the security of user data, there has been a lot of discussion around creating regulations for the management, security, and use of user data. Healthcare data though is different for one important reason: Health Insurance Portability and Accountability Act of 1996 (HIPAA).
+
+Healthcare data from US patients that are collected by doctors and other healthcare professionals has a rigorous framework in place regarding what can and what can't be shared, how it can and can't be used, and how much control patients have over their data. It also has serious legal consequences for HIPAA violations beyond any other data security law out there.
+
+While not all healthcare data is covered by HIPAA, a lot of it is, and as technology companies move into the healthcare space, they aren't exempt from these rules. They will have to use or create the technology to secure Americans healthcare data and this could have important spill-over effects. As consumers push harder for more privacy protections and companies who have seen their reputations utterly savaged in the past two or three years over privacy controversies look to reassure an increasingly skeptical public, HIPAA-compliance technology could be an important benchmark for companies to use.
+
+While your friend's list might never see the kinds of protection afforded to something like the medications you are taking or your HIV status, having examples of effective data security from healthcare tech companies is an important leverage point over non-healthcare tech companies who whine incessantly about how hard they're trying to secure user data.

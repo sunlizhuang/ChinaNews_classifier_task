@@ -1,0 +1,37 @@
+I strode into the plenary session of the ION International Technical Meeting, primed and ready for a barrage of modernity, of out-in-front advances in precision positioning, navigation and timing. The first thing I saw was a 7-foot tall cesium beam tube, an early atomic clock from the 1950s. Twenty minutes later we were transported back 5,000 years to the earliest achievements in timekeeping, surveying and mapping by scholars of the Xia Dynasty in ancient China. Finally, a headlong rush to the present and near future with an authoritative Galileo system update, including an account of last July’s satellite signal service outage.
+
+Well, to know where you’re going, you first have to establish where you’ve been, right? Right.
+
+The Institute of Navigation’s International Technical Meeting (ITM) is co-located with the Precise Time and Time Interval (PTTI) Systems and Applications meeting every January, this year in San Diego. It regularly presents some of the most abstruse research in the satnav sphere. If you find ION GNSS+ a bit on the lightweight side, try the ITM-PTTI. The pairing is extremely logical. After all, positioning and navigation are nothing — they literally can’t exist — without timing.
+
+The towering mid-century cesium clock appeared in the opening presentation by Tom van Baak, proprietor of Leapsecond.com, who portrayed the “exciting world of precision timekeeping at home.” In addition to maintaining the website that gives equal treatment to vintage gear and the latest devices, he manages a mailing list of 1,800 amateur timekeepers (time-nuts) posting experimental results on the web. These are people who converse freely about losses or gains of microseconds per day, even nanoseconds per day ; that’s 10 to the minus 12 or 10 to the minus 14.
+
+[Image from the original Atomichron NC2001 manual, courtesy Tom van Baak.]
+
+One question van Baak frequently gets: How do you know if a new product, touted as the best clock yet, is indeed the best clock? “A lot of accuracy is projected.” A slightly longer answer: “Get one clock, get another clock, compare, repeat.”
+
+He laced his very entertaining talk with these and many other mild yet informative witticisms. “You can keep time but you can’t set time.”
+
+One thing I knew but had conveniently forgotten: clocks aboard the GPS satellites orbiting in space naturally run faster than ours here on Earth — because time is relative in space, doncha know? — so they have to be physically set to run slower (see http://www.physics.org/article-questions.asp?id=77). The difference amounts to nanoseconds, billionths of a second per day, or 1 second in 72 years, a lifetime.
+
+Kind of like what Ev Dirksen — where is he now that we need him? — used to say, “A billion here, a billion there, and pretty soon you’re talking real money.”
+
+Because 1 second in 72 years, if not properly accounted for by retarding the satellite clocks, would throw all our car nav and everything else out of whack.
+
+Van Baak related some fascinating homemade precise timing experiments he conducted to establish that relativity is actually detectable at a human scale. First on Mt. Rainier, then replicated for a Stephen Hawking documentary, and a third time on the Discovery Channel.
+
+All this drove like a nail into my head (about what it takes these days) a new idea concerning timing and its role in all we do in this satnav community, and in this magazine, of which more later. Perhaps much later.
+
+“It’s unbelievable how much precise timing is creating new discoveries and new opportunities,” concluded van Baak, a lead-in if there ever was one to PTTI.
+
+Dynasties upon Dynasties
+
+Following him to the podium, Dr. Xiaochun Lu of the Chinese Academy of Sciences covered “Navigation from Compass to BeiDou.” She conveyed in a mere 46 minutes the five thousand years of advances made since earliest days by the Chinese people in timing, surveying, mapping, and navigation technology. Water clocks, the lodestone, the latitude hook and much more.
+
+The pièce de résistance of the morning came from Marco Falcone, System Manager in the Galileo Project Office at the European Space Agency, as we returned to satnav subject matter. Falcone’s talk concerned Galileo System Status and Challenges Ahead. The highlight naturally was an account of the “service incident that we encountered this summer” — the 6-day heretofore unexplained signal outage. The subject was addressed on January 17 at ESA’s New Year press launch, covered by my colleague Peter Gutierrez, whose column will appear on this site in the next days.
+
+The 6-day service outage in July occurred during a system upgrade in the ground infrastructure. In the middle of the upgrade in one of the two Galileo control centers, a mishandling of a temporary equipment triggered the calamity. Then followed an unfortunate series of events as an unintended time offset was propagated to the other control center due to technical anomaly of an equipment and non-standard configuration of the equipment that was subject to the anomaly. “A combination of three events in a very short period of time.”
+
+“The incident is an opportunity to strengthen Galileo,” Falcone stressed, “during its transition to Full Operational Capability. There are lessons to be learned on the essence of robustness, resilience, and redundancy. Some measures [recommended by an independent Inquiry Board] have already been implemented, some are happening now, and some will take place in the near future. These follow-up actions ensure that Galileo is now stronger, more robust and resilient.”
+
+Falcone said a great deal more about a massive number of new steps the Galileo program is taking. Inside GNSS will follow up later with a more complete account. For now, these few and incomplete bullet items.

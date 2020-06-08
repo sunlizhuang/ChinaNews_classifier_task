@@ -1,0 +1,25 @@
+2 min read
+
+China’s tech industry lags behind overseas peers when it comes to renewable energy goals and measures, according to a Greenpeace report published Thursday.
+
+Why it matters: Chinese data centers are forecasted to emit 163 million tons of CO2 in 2023, according to another Greenpeace report, accounting for 1.5% of China’s total carbon emissions, based on European Union data for 2017.
+
+Beijing has set ambitious goals for the reduction of fossil fuels. The 2014 energy development plan sought to increase the proportion of electricity supplied by renewable energy to 15%. At the time, just under 10% of China’s total energy consumption was supplied from renewable sources.
+
+Details: The report by Greenpeace and the North China Electric Power University surveyed 16 companies which make up 70% of China’s public cloud market (in Chinese) and 85% of the market for independent data centers (in Chinese).
+
+In the last five years, the percentage of big tech companies which disclose information about the energy consumption and greenhouse gas emissions of their data centers has increased from zero to 20%, the report said.
+
+Shenzhen-based Tencent has made the most progress in publicizing data on energy used by its data centers, the report said, while Alibaba, Baidu and JD.com do not disclose any similar information.
+
+Tencent had a low score in procuring renewable energy and using energy efficiently.
+
+Only one of the firms surveyed has set a target for 100% renewable energy use—ChinData, which is a Beijing-based company that builds custom data centers for its clients.
+
+Alibaba, China’s largest public cloud provider, was ranked second. It scored 17.14 out of 20 in the “Government & Industry Influence” category, which assesses whether a company is leveraging its power to build awareness.
+
+Huawei is the only company surveyed that has set a greenhouse emissions target. It scored 17.14 out of 20 in the “Energy Efficiency and Carbon Reduction” category. It had low scores for its energy use transparency, renewable energy procurement, and promoting awareness.
+
+JD.com had low scores overall, with a total score of 12 out of 100. It scored zero in “Renewable Energy Performance,” which means it doesn’t procure green energy for its data centers or consider the availability of green energy sources.
+
+Context: The Chinese internet industry is forecasted to increase its consumption of electricity by two thirds in the next three years, a September 2019 Greenpeace report said. This equals Australia’s total energy consumption in 2018.

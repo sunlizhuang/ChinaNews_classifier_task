@@ -1,0 +1,45 @@
+How coronavirus concerns ended the mobile industry's largest event The announcement followed two weeks that saw several major exhibitors withdrawing from the Mobile World Congress in Barcelona.
+
+The new novel coronavirus, formally known as COVID-19, has caused severe disruption to the technology industry and annual events, leading to uncertainty not only for attendees but also vendors.
+
+COVID-19, a respiratory illness first detected in Wuhan City, Hubei Province, China, has been declared a "public health emergency of international concern" by the World Health Organization (WHO).
+
+Tens of thousands of cases have been reported. While the majority are in China, confirmed cases have also appeared in the US, UK, Hong Kong, and Canada. At the time of writing, 29 countries have reported the presence of COVID-19.
+
+Fatality rates are difficult to ascertain due to new count estimate uncertainties, the emergence of the new coronavirus variant during the influenza season, and the varying levels of reaction when contracting the illness, which can range from mild symptoms to moderate or rarer, more critical cases.
+
+Concern over the spread of COVID-19 has led to the US barring foreign nationals if they have visited China within a 14-day period from entry application. The US and UK governments have launched repatriation efforts for their citizens studying or working in China, and African governments are now considering following suit. China has imposed severe travel restrictions across the country.
+
+Fear surrounding the spread of the virus has impacted international tourism, supply chains, and events, including a major event in the technology space, GSMA's Mobile World Congress (MWC).
+
+See also: Kaspersky online protection API left open to abuse by websites
+
+Over 100,000 attendees were due to descend on Barcelona for the annual event, taking place on February 24 - 27, but as prominent vendors pulled out -- including LG, Nvidia, and Intel -- the operators eventually decided to cancel altogether.
+
+Whether or not MWC will recover due to lost investments is up for debate. As described by PC Mag mobile analyst Sascha Segan, "coronavirus fear killed MWC and the impact on the wireless industry might be huge."
+
+MWC, however, is not the only casualty. DEF CON China has been put on hold, Facebook recently canceled a large conference in San Francisco, and now, other companies are deciding whether or not to go ahead with their own events.
+
+The RSA Conference 2020, due to take place on February 24 - 28 in San Francisco, lost Platinum Sponsor IBM as an attendee. At present, eight vendors have withdrawn their participation; six of which are from China, one from the US, and one from Canada. In total, 0.79% of the total number of expected attendees have also canceled.
+
+RSA plans to proceed as scheduled and unless a major catastrophe related to COVID-19 happens in the next few days, this will likely be the case.
+
+CNET: MGM Resorts confirms data breach of 10 million guest accounts
+
+RSA faced queries over whether or not the event would go ahead in recent weeks, as has Kaspersky's Security Analyst Summit (SAS), an annual event for thousands of cybersecurity professionals, threat researchers, and government agencies. Previous attendee vendors include Samsung, Microsoft, Interpol, and the World Bank.
+
+Kaspersky told ZDNet that at present, there are "no plans to cancel SAS."
+
+"For Kaspersky, the health and safety of its employees, customers, and other stakeholders is our top priority," the company said. "We are closely monitoring the situation with the coronavirus ahead of SAS 2020."
+
+It may be that MWC was the victim of the fear of the unknown when COVID-19 first emerged; a reaction that has cost GSMA dearly. However, as time goes on, cases are contained and the general risk of infection is deemed low, other events including RSA and SAS will proceed as normal -- just with extra precautions, such as sanitization pumps and stations being provided.
+
+TechRepublic: Data privacy: What consumers want businesses to know
+
+The Linux Foundation, too, has said that there are no plans to cancel or postpone KubeCon, CloudNativeCon, or Open Source Summit China. Instead, the organization has asked prospective attendees who visit China beforehand to keep an eye on their health for at least 15 days before attending.
+
+If there are any symptoms, the Linux Foundation has requested that "they substitute another attendee in their place and refrain from attending the event, for their own safety and the safety of other event participants."
+
+Previous and related coverage
+
+Have a tip? Get in touch securely via WhatsApp | Signal at +447713 025 499, or over at Keybase: charlie0

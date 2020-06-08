@@ -1,0 +1,29 @@
+Representatives from top tech and telecom companies are responding to an attempt by Attorney General William Barr to throw cold water on the leading proposal policymakers have made to date for averting reliance on Chinese telecom giant Huawei in 5G networks.
+
+Barr proposed the U.S. “through ownership of a controlling stake, either directly or through a consortium of American and allied companies” align itself with Nokia or Ericsson instead of a White House-backed plan to develop an interoperable, software-defined network.
+
+“The problem is that this is a pie in the sky,” Barr said at an event Thursday hosted by the Center for Strategic and International Studies.
+
+“The software industry has a long history of turning so-called ‘pie-in-the-sky’ ideas into innovative, practical solutions,” Tommy Ross, senior director of policy for BSA | The Software Alliance, told Nextgov. “Attempting to artificially pick winners and losers often proves ineffective in the face of rapidly evolving technologies and consumer demands.”
+
+The RAN—made up of cellular components such as base stations and antennae—is where Huawei enjoys a significant majority of the global market share as an equipment supplier. Hardware providers for 5G networks can include proprietary mechanisms so that the telecom companies purchase their entire “kit.” However, trade organizations such as the O-RAN Alliance have pushed to establish an interoperability standard that would allow operators to mix and match products through software-defined networking.
+
+Support for the idea has been growing in government since early last year, with initial backing from the Cybersecurity and Infrastructure Security Agency. It has since been praised by top cybersecurity officials in the State Department, and related efforts have been endorsed by Republican and Democratic leaders of the Federal Communications Commission.
+
+Most recently, a bipartisan Senate bill proposed spending $1.2 billion to develop applications and standards for the underlying technology, and the White House is reportedly working with companies like AT&T and Microsoft on a related plan, although officials did not commit to backing the legislation.
+
+Software-defined networking would provide clear benefits to the telecom industry, which would have greater negotiating leverage with its suppliers, according to telecom representatives such as AT&T vice president of global security and technology policy Christopher Boyer. And according to the O-RAN alliance, multiple equipment vendors, including companies like Cisco, would be better able to compete.
+
+In terms of cybersecurity, some professionals argue it may provide greater visibility into threats and the ability to manage them at scale. While it might also expand the impact of such threats, there is a cybersecurity case for the technology in increased network resilience through a greater diversity of suppliers.
+
+“We should work to cultivate a diverse, innovative, dynamic marketplace that can compete against and surpass insecure 5G technologies on their merits,” Ross said. “That’s how we can best tackle the challenge of 5G security in the long run.”
+
+But Barr on Thursday appeared to be thinking more of what might be done in the near term. He argued the open RAN approach is untested and wouldn’t be ready for a decade—“if ever.”
+
+“It’s all well and good to tell our allies don’t install Huawei,” he said, evoking the U.K. government’s recent refusal to heed U.S. appeals it not include Huawei in building out its network. “But whose infrastructure are they going to install? We have to have a market-ready alternative today.”
+
+In a television interview Friday, AT&T CEO Randall Stephenson reacted to Barr’s comments, saying, “Governments taking positions in private companies to develop private solutions, I just don’t think it’s a good idea. I don’t think the track record of it is very good.”
+
+Stephenson shared Ross’ sentiment, fending off the idea that an interoperable, open network is a far-off dream.
+
+“We have people that are providing hardware into our network today that would have been considered unconventional five years ago because we have done this, we’ve extracted the software layer out so that we can use anybody’s boxes,” he said. “To the extent we do that, we innovate our way out of this competitive quagmire that everybody’s talking about with Huawei.”

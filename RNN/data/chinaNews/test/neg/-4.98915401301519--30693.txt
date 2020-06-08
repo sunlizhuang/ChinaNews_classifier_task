@@ -1,0 +1,73 @@
+U.K. Prime Minister Boris Johnson on Tuesday granted Chinese telecom giant Huawei a limited role in Britain's 5G mobile network, resisting U.S. pressure to exclude the company from next generation communications based on fears China could use it to steal secrets.
+
+In the biggest test of his post-Brexit foreign policy to date, Johnson ruled that "high-risk vendors" would be allowed into the "non-sensitive" parts of 5G networks, but their involvement would be capped at 35 per cent.
+
+They would be excluded from the sensitive core of networks, where data is processed, and banned from all critical networks and sensitive locations such as nuclear sites and military bases, the government said.
+
+Such an explicit rejection of U.S. concerns that Huawei could be used to steal Western secrets was welcomed by the Chinese firm, founded in 1987 by a former People's Liberation Army engineer, but dismayed the administration of U.S. President Donald Trump.
+
+Johnson and Trump spoke by phone shortly after the decision was made public.
+
+"The Prime Minister underlined the importance of like-minded countries working together to diversify the market and break the dominance of a small number of companies," the British government said in a statement.
+
+Cold War comparisons
+
+U.S. congressional leaders widely criticized Britain's decision, with Republican Sen. Lindsey Graham saying it could "greatly complicate" drawing up a new trade agreement after Britain exits the European Union on Jan. 31.
+
+A British official, speaking on condition of anonymity, said excluding Huawei would have delayed 5G and cost consumers more, echoing warnings from the telecoms industry.
+
+5G is one of the biggest innovations since the birth of the internet a generation ago, offering consumers and businesses much faster data speeds.
+
+In what some have compared to the Cold War antagonism with the Soviet Union, the United States is worried that 5G dominance is a milestone toward Chinese technological supremacy that could define the geopolitics of the 21st century.
+
+WATCH | U.K. allows Huawei to help build 5G network with restrictions:
+
+The U.K. will allow Huawei to help build its 5G network, but will restrict the company’s access amid security concerns from countries including the U.S. 2:02
+
+But as a critical centre for Chinese investment, trading and banking in Europe, Britain sided with Beijing, in one of the biggest public breaks with Washington in decades.
+
+"I fear London has freed itself from Brussels only to cede sovereignty to Beijing," said Sen. Tom Cotton, an Arkansas Republican, adding there should be a review of intelligence sharing with Britain.
+
+The United States had repeatedly warned London against allowing Huawei into 5G, arguing the distinction between "edge" and "core" will blur as data is processed throughout 5G networks, making it difficult to contain any security risks.
+
+"If Huawei is allowed into any part of your network, it is allowed into every part of your network," said Tim Morrison, who until recently was a senior director at the White House's National Security Council.
+
+Huawei 'reassured' by decision
+
+Huawei, the world's biggest producer of telecom equipment, said the United States wants to frustrate its growth because no U.S. company can offer the same range of technology at a competitive price.
+
+"Huawei is reassured by the U.K. government's confirmation that we can continue working with our customers to keep the 5G roll-out on track," said company vice-president Victor Zhang on Tuesday.
+
+"This evidence-based decision will result in a more advanced, more secure and more cost-effective telecoms infrastructure that is fit for the future. It gives the U.K. access to world-leading technology and ensures a competitive market," he said.
+
+The only other large-scale telecoms equipment suppliers are Sweden's Ericsson and Finland's Nokia.
+
+Huawei has invested heavily to achieve market leadership, despite being excluded from U.S. networks. Zhang said it spent $15 billion last year on research.
+
+In 2018, it committed to invest 3 billion pounds in Britain, a country Huawei views as a global innovation hub and strategic location, Zhang said.
+
+Huawei U.K. vice president Jeremy Thompson said the 35 per cent cap was "pretty much in line with its expectations."
+
+"We welcome the diversity element and that's what I'm sure our customers will be looking for as well," he told reporters.
+
+Huawei has around a 35 per cent share of the non-core 4G mobile network in Britain, a government document said last July.
+
+Canada still undecided on Huawei
+
+The British government's move leaves Canada as the only nation within the Five Eyes intelligence-sharing network that has not made a decision on whether or not to make Huawei part of its 5G network plans.
+
+Canada is grappling with its strained relationship with the Chinese government, as the first phase of extradition hearings for Huawei CFO Meng Wanzhou concluded last week and two Canadians — Michael Spavor and Michael Kovrig — remain detained in China.
+
+Britain said the decision protected national security while delivering world-class connectivity. It said intelligence-sharing, including with the U.S.-led 'Five Eyes' alliance, would not be jeopardized.
+
+"How we construct our 5G and full fiber public telecoms networks has nothing to do with how we will share classified data," Foreign Secretary Dominic Raab told lawmakers after a meeting of the U.K.'s National Security Council chaired by Johnson.
+
+"Intelligence-sharing will not be put at risk...".
+
+British cyber security officials said they had put special measures in place to mitigate risks.
+
+"We've never 'trusted' Huawei and the (measures) you can see exist because we treat them differently to other vendors," Britain's National Cyber Security Centre (NCSC), part of the GCHQ signals intelligence agency, said in a technical post.
+
+Huawei's equipment is already used by Britain's biggest telecom companies such as BT and Vodafone, but it has been largely deployed at the "edge" of the network and excluded in the "core" where data is processed.
+
+Sources told Reuters last week that senior British officials had proposed granting Huawei a limited 5G role, a "calculated compromise" which could be presented to Washington as a tough restriction, while accepted by British operators.

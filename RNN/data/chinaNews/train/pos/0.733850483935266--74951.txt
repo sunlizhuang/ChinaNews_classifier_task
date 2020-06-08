@@ -1,0 +1,41 @@
+NPR's Audie Cornish discusses coronavirus theories with Dr. Ian Lipkin, an epidemiologist on his last day of containment after returning from China.
+
+Copyright 2020 NPR. To see more, visit https://www.npr.org.
+
+Transcript:
+
+AUDIE CORNISH, HOST:
+
+More than 300 Americans who were stuck on cruise ships in Asia have now arrived in the States. They've settled in at military bases, where they'll be quarantined for two weeks. Ian Lipkin just finished up his two-week quarantine. He's an infectious disease expert at Columbia University who flew to China to investigate the outbreak of the coronavirus disease, now known as COVID-19. We reached him in New York on his final day of containment.
+
+Welcome to ALL THINGS CONSIDERED.
+
+IAN LIPKIN: Thank you for the invitation.
+
+CORNISH: I understand your quarantine was actually self-imposed, and you spent much of the past two weeks in your basement. What was your reasoning for that?
+
+LIPKIN: My reasoning was when I got off the plane in Newark, I was told that I should go into two weeks quarantine, and that was confirmed by Columbia University. That's something which everybody is supposed to do. I'm grateful that I have the flexibility to be able to do this in my own home.
+
+CORNISH: And you have no symptoms of COVID-19 at this point.
+
+LIPKIN: I don't. And in an abundance of caution - because we make diagnostics - we've used our own tests to make certain that I don't have this viral infection. It's not an FDA-approved assay, but we think it's sensitive, and it's better than nothing.
+
+CORNISH: I want to talk to you in your capacity as an infectious disease expert. At this point, is it absolutely known what triggered the outbreak?
+
+LIPKIN: We think the outbreak originated in wildlife. All the sequencing assays that we've built - the genetic studies indicate that it probably came from a bat and likely through some sort of intermediate host, probably a small mammal. This is what's happened with SARS. And we think that something similar happened here. But we don't know precisely how it moved from bats into humans.
+
+CORNISH: Do you think this was an avoidable disaster?
+
+LIPKIN: Well, we've been trying to convince people to shut down these wild animal markets for a very long time. There's so many diseases - not just this one, but Ebola, MERS, a number of other viral infections which originated in wildlife. What happens in these markets is you get an exchange of viruses between wildlife and domestic animals and sometimes directly from wildlife to people. And that's where many of these emerging infections arise.
+
+The one thing I want to say the - very clearly is that we've examined the possibility that some have suggested that this virus might have originated in a biocontainment lab or might be some sort of biologically defined weapon. And there's no evidence for that whatsoever. This is a classic example of a zoonosis - something that starts in wildlife and unfortunately makes its way into people.
+
+CORNISH: From your position, when you see the emphasis on face masks and the two-week quarantine, which you just did for yourself, lockdown of cities and then this thing with the cruise ships - right? - you're kind of keeping all these people clustered together. Are these things effective at stopping the spread of the disease, or could it be making things worse?
+
+LIPKIN: Well, I think both answers are applicable here. If you are somebody who is not infected with this virus but who has a potential exposure and you're locked up with people who are infected, then there's an increased risk that you will become infected. The other thing is if we had more sensitive tests for infection - which is one of the things that we're emphasizing - and I'm sending people back to China, to Beijing and Guangzhou to work on is, in fact, to see whether or not we can identify people who are infected so that we can make decisions not based upon the possibility that may be infected, but in fact, we can use these lab tests to ensure that we don't put people who aren't infected into quarantine.
+
+I will tell you because I work very closely with the people who are running these isolation areas within China. This is very, very difficult. It's stressful. I also don't like the idea of screening people with CT scans because there's a lot of radiation, which is, you know, potentially problematic as well. So the focus really has to be on getting better ways to figure out who is infected, how long they're infected, how they became infected and then to come up with vaccine which I think can prevent disease. So these are the folks, Audie, that we have in our own research and what I've told the Chinese government that I think is priority one.
+
+CORNISH: Ian Lipkin is a professor of epidemiology at Columbia University. Thank you for your time.
+
+LIPKIN: Thanks. My pleasure. Transcript provided by NPR, Copyright NPR.

@@ -1,0 +1,75 @@
+Europe resists mounting US pressure on Huawei 5G technology
+
+FILE - In this Oct. 31, 2019, file photo, attendees walk past a display for 5G services from Chinese technology firm Huawei at the PT Expo in Beijing. The Trump administration is stepping up pressure on European allies to ban Chinese tech firm Huawei from supplying next-generation mobile networks, with more officials visiting this week to press the case. less FILE - In this Oct. 31, 2019, file photo, attendees walk past a display for 5G services from Chinese technology firm Huawei at the PT Expo in Beijing. The Trump administration is stepping up pressure on ... more Photo: Mark Schiefelbein, AP Photo: Mark Schiefelbein, AP Image 1 of / 1 Caption Close Europe resists mounting US pressure on Huawei 5G technology 1 / 1 Back to Gallery
+
+LONDON (AP) — The Trump administration is stepping up pressure on European allies to ban Chinese tech firm Huawei from supplying next-generation mobile networks, with more officials visiting this week to press the case.
+
+The diplomatic push seems to be failing, however, after Britain decided to allow Huawei as a potential supplier. Germany, another close ally, is leaning toward the same decision.
+
+The visit to London by a United States delegation highlights how China's involvement in new 5G networks is an increasingly important part of President Donald Trump's battle with China over economic and technological preeminence.
+
+MBA BY THE BAY: See how an MBA could change your life with SFGATE's interactive directory of Bay Area programs.
+
+Europe finds itself caught in the middle. Here is a look at key issues in the debate.
+
+WHAT'S AT STAKE?
+
+If Germany, one of Europe's biggest U.S. allies, defies Washington, it risks upsetting that alliance. U.S. officials have threatened to cut off intelligence sharing with any countries that use Huawei gear, which they fear is a security risk. On the other hand, rejecting Huawei could have wider repercussions, especially for Germany's relationship with China, one of its biggest trading partners.
+
+The signs are that Germany does not intend to exclude Huawei explicitly from its 5G networks in advance, though the government has not yet finalized legislation. German government officials have said consultations should wrap up soon, without giving a timeline.
+
+Interior Minister Horst Seehofer, Germany's top security official, said his country must be protected against espionage and sabotage. But he estimated that shutting out Chinese providers could delay the new networks by years.
+
+“I don't see that we can set up a 5G network in Germany in the short term without participation by Huawei,” Seehofer told the Frankfurter Allgemeine Zeitung newspaper in January.
+
+The Federal Network Agency, Germany's telecom regulator, has already released draft guidelines for 5G equipment suppliers that tighten up security requirements but stop short of banning specific companies such as Huawei. And a draft law reportedly includes potentially big fines for technology companies that breach security regulations.
+
+Complicating matters, European mobile phone companies have used plenty of Huawei equipment in their 4G networks. If they do not use Huawei equipment for the initial 5G rollout, which will run on 4G gear, it could result in higher costs and delays.
+
+WHAT IS 5G?
+
+Fifth-generation cellular networks are expected to usher in a wave of technological transformation. For a start, 5G promises superfast download speeds for smartphone users. But it will be more than that — 5G sensors will be embedded into countless new connected devices such as thermostats and medical sensors. It also will be used for self-driving vehicles, “smart” factories and in critical infrastructure like power grids, presenting unprecedented new security challenges.
+
+WHAT IS THE U.S. POSITION?
+
+For more than a year, the U.S. has campaigned against Huawei over fears that China's communist leaders can use the company to tap into communications running through the networking equipment it sells globally.
+
+The American message was initially met with skepticism and now increasingly appears to be falling on deaf ears. That's forcing Washington to change up its strategy, but the result has been incoherent.
+
+Attorney General William Barr suggested earlier this month that to thwart Huawei, the U.S. government should consider taking a “ controlling stake “ in Nokia and Ericsson either directly or through a consortium of U.S. companies and private investors. But other officials, including Vice President Mike Pence, quickly walked back that idea, saying ”private enterprise” is the way to go.
+
+U.S. Defense Secretary Mark Esper suggested other ways the government could be involved.
+
+“We are encouraging allied and U.S. tech companies to develop alternative 5G solutions, and we are working alongside them to test these technologies at our military bases as we speak,” Esper said Saturday at the Munich Security Conference.
+
+The anti-Huawei campaign expanded into a bipartisan effort after U.S. House Speaker Nancy Pelosi, a Democrat, joined in during visits to Brussels and Munich, when she compared allowing Huawei into a network to having “the Chinese state police right in your pocket."
+
+Last week, U.S. authorities added new criminal charges against Huawei, accusing the company of a brazen scheme to steal trade secrets from competitors in America. That's on top of a separate federal case with similar allegations against Huawei and senior executive Meng Wanzhou, who was arrested in Vancouver, British Columbia, but has yet to be extradited to the U.S.
+
+WHAT KIND OF COMPANY IS HUAWEI AND HOW DOES IT RESPOND?
+
+Huawei is the world's No. 1 provider of telecom infrastructure gear — antennas, base stations and other plumbing on which cellular networks run.
+
+Mobile phone companies like Huawei because it has a reputation for cheap, quality equipment. It has few rivals, namely Finland's Nokia and Sweden's Ericsson, a point European officials use to rebuff the U.S.
+
+The Chinese company has consistently denied allegations that it could facilitate spying and insists there has never been any proof that it's behind security breaches. Huawei's chief cybersecurity officer has said that the company is just a vendor providing equipment and that mobile phone companies are the ones that operate the networks.
+
+WHAT HAS THE U.K. DONE?
+
+Britain last month gave Huawei limited access to its 5G networks, in what was seen as a snub to the U.S. The British government said it would let Huawei provide 35 percent of a wireless carrier's “radio access network” of antennas and base stations, but it would not allow “high risk vendors” into the sensitive “core” — the servers that act as a network's control center.
+
+Trump administration officials indicated disappointment at Britain's decision to find a middle way. A U.S. delegation led by Trump's acting chief of staff, Mick Mulvaney, is reportedly due in London on Wednesday to meet with officials from Prime Minister Boris Johnson's government to express their unhappiness.
+
+U.K. officials are pinning their hopes on 5G and related technologies such as artificial intelligence to help boost the economy by kickstarting lagging productivity levels.
+
+___
+
+Associated Press Writer Geir Moulson in Berlin contributed to this report.
+
+___
+
+For all of the AP’s technology coverage, visit this page.
+
+___
+
+Follow Kelvin Chan at twitter.com/chanman.

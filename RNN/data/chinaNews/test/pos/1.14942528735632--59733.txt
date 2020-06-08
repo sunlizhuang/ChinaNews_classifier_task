@@ -1,0 +1,13 @@
+This is happening. The Google Play Store may soon be toppled by a new mobile app store as the biggest Chinese OEMs have started to join forces to work on a new platform for developers. It won’t be just for the Chinese developers but also for those devs outside the country. The idea is to challenge the Play Store by Google that has been dominating the mobile industry for several years now. There are still more Android devices than iOS devices so maybe the Apple App Store is still safe. But then again, the companies working on the new platform only use Android OS.
+
+Four Chinese tech giants are working together. Huawei, Xiaomi, Vivo, and OPPO are planning to come up with a new platform that will let them have a common app store different from the Google Play Store. All four are working on the Global Developer Service Alliance (GDSA) that will allow devs to easily share their apps, movies, music, and games to more people in China and around the world.
+
+With March as target launch, the platform is expected to be available in nine regions initially. This will include Indonesia, India, and even Russia. There is no formal announcement yet and the companies won’t even send feedback or comment yet.
+
+The idea stems from the fact that Google is actually banned in China. The search giant’s many services are not allowed in the country although the Play Store runs on most Chinese Android phones. The situation may have worsened when the US trade ban resulted in Google cutting ties with Huawei.
+
+This team-up may actually make it big because about 40.1% percent of global mobile shipments in Q4 2019 were from these four brands. The figure is expected to go higher especially since the MWC 2020 is about to open. New flagship and mid-range Android smartphones will be released in the market in the coming months.
+
+Right now, the four companies have strong markets each: Huawei in Europe, Xiaomi in India, and Oppo and Vivo in Southeast Asia. This is according to VP of Mobility at Canalys Nicole Peng. This is just the first step as Huawei has begun to move away from Google by using its own Harmony OS and Huawei Media Services.
+
+The GDSA may not be implemented right away. It will be a big responsibility to just launch a new platform or app store although it already has a website. The next few weeks will be very interesting. Google must keep watch. We sure will.

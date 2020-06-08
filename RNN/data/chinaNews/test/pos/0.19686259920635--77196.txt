@@ -1,0 +1,37 @@
+Google has launched a new cloud region in Seoul, marking its first for the South Korean market and eighth in the Asia-Pacific. The latest addition comprises three zones and will look to tap into South Korea's focus on robotics, artificial intelligence (AI), and online games.
+
+The new site pushes Google's cloud network to 21 regions and 64 zones across 16 countries, and offers the usual service portfolio such as Google Kubernetes Engine, Bigtable, Spanner, and BigQuery.
+
+Its customer base includes Samsung, LG Electronics, and SK Telecom, as well as mobile games companies Netmarble and SundayToz, according to Google.
+
+The US tech giant had said in a previous ZDNet report that it was developing services specific to key verticals to win customers in the Asia-Pacific. In addition, it was looking to expand its data centre footprint and triple its headcount in the region, where it also operates cloud regions in Singapore, Mumbai, Tokyo, Osaka, Taiwan, Sydney, and Hong Kong. Another cloud region in Jakarta, Indonesia, is expected to open soon.
+
+Google, however, is not the only cloud vendor eyeing growth opportunities in Asia, where the likes of Alibaba, Huawei, and Amazon Web Services are ramping up coverage to meet the growing demand for cloud services.
+
+In a separate announcement Tuesday, Google launched a new range of its general-purpose virtual machines (VMs) that run on AMD's second-generation EPYC processors. Available in beta, the N2D line is designed to support general-purpose workloads such as web applications and databases. It offers similar features to the vendor's N2 VMs, including local SSD and custom machine types.
+
+Google has touted cost savings of up to 13% on the N2D over comparable N-series models and up to a 39% performance improvement, based on Coremark benchmarks, when pitted against comparable N1 instances.
+
+N2D VMs are available in beta currently via Google's Singapore cloud region as well as its cloud regions in Iowa, USA, and The Netherlands.
+
+RELATED COVERAGE
+
+Google goes for verticals, scale in APAC cloud push
+
+Cloud vendor has identified health and life sciences as well as retail amongst key growth sectors and is looking to triple its headcount in the Asia-Pacific region over the next 18 months.
+
+Google talks up APAC cloud support as Alibaba intensifies gameplay
+
+Amid Alibaba's increased efforts to build up its cloud footprint, Google also is beefing up its coverage in Asia-Pacific where it says it will operate seven cloud regions by early-2019, up from just one region two years ago.
+
+Alibaba marks cloud revenue milestone, pledges support for fight against coronavirus
+
+Alibaba's cloud revenue exceeded 10 billion yuan for the first time in a single quarter, growing 62% to hit 10.72 billion yuan for its third quarter, but the coronavirus outbreak may present short-term challenges as the Chinese e-commerce giant pledges to continue providing support to combat the epidemic.
+
+AWS bets on services portfolio amidst increasing APAC cloud competition
+
+With cloud market players Alibaba and Google ramping up their regional data centre footprint, Amazon Web Services is relying on the "breadth and depth" of its service offerings and platform maturity to maintain its competitive edge.
+
+Huawei has big plans for new Singapore cloud region
+
+Chinese tech giant launches new cloud region in Singapore, where it says it is looking to develop into one of its largest outside China and will deliver artificial intelligence capabilities.

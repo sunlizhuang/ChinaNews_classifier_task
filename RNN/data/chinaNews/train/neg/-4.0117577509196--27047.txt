@@ -1,0 +1,19 @@
+One cybersecurity expert is warning producers in the agriculture industry of the growing threat of cyber crime ahead of this week’s FarmTech Conference.
+
+David Masson, director of enterprise security with cybersecurity company Darktrace, said as farms and ranches have become more reliant on technology in their day-to-day operations, their cybersecurity has lagged behind.
+
+“They have the same IT systems and the same IT security problem as anywhere else in the world,” said Masson. “When you look at a big barn with all the cows inside, it’s a factory with a lot of machinery and it’s being worked by electronic systems. So it is very, very similar in terms of what cyber threat actors would want to steal.”
+
+With combines being directed by GPS and water and feed systems being automated to release at certain times, Masson said producers, whether they are aware of it or not, can be prime targets along the supply chain for cyber criminals to attack. Being part of the chain, hackers can target a small or family farm and gain access to a proverbial larger fish higher up the chain.
+
+“As a farmer you probably employ people. You will have their personal identifiable information on a system somewhere on your farm because you employ them, you pay taxes and that kind of thing,” said Masson.
+
+Masson estimates the number of reported data breaches in Canada to be in the hundreds each year and he wants those in the industry to consider their digital security as they descend on FarmTech in Alberta’s capital this week.
+
+“I totally understand they just want to get on with the business, but once you start interconnecting … you start holding data, you do have some responsibility,” said Masson.
+
+FarmTech, a three-day trade show tailored to crop producers and managers, runs Jan. 28-30 at the Edmonton Expo Centre. There is currently one speaker on the agenda set to speak about privacy on the farm. Other topics will include derelict oil wells, insect pests on farms, water quality and trade with China.
+
+dshort@postmedia.com
+
+twitter.com/dylanshort_

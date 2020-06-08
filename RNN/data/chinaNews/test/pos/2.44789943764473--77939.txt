@@ -1,0 +1,97 @@
+Ahead of its launch in January, Funds Europe discussed Singapore’s VCC framework with panels in Frankfurt and Paris.
+
+Participants:
+
+Fumin Feng (deputy director, financial markets development department, Monetary Authority of Singapore)
+
+Armin Choksey (partner, asset management – assurance & advisory, PwC Singapore)
+
+Annie Shum (deputy head, institutional business, CSOP Asset Management)
+
+Caleb Wong (head of alternatives – Asia Pacific, BNP Paribas Securities Services)
+
+Kher Sheng Lee (co-head of Asia Pacific and feputy global head of government affairs, the Alternative Investment Management Association (AIMA)
+
+Funds Europe – Singapore is very much a growing hub, not just in terms of asset management but also in private wealth and family offices. The Variable Capital Company (VCC) is very much a Singapore initiative – it’s a multi-purpose tool that has been introduced to give asset managers and asset servicers maximum flexibility. Armin, what is the VCC and what are the key features and benefits?
+
+Armin Choksey, PwC Singapore – Think of the VCC as a Sicav or an Icav – a legal entity structure. It is not to be mistaken with Ucits, which is a distribution regime and fund regulations, nor should it be mistaken as an open-ended investment company (OEIC) because that is a combination of a legal entity as well as a fund structure. So, think of it as an Icav or Sicav without any fund regulations around it. It’s a special purpose-built body corporate legislation for investment funds only.
+
+The V in the name stands for variable, which means as and when money comes in, the capital automatically goes up by additional flow and when money goes out, the capital goes down. You don’t need to conduct any kind of special administrative task of informing the company registrar that the capital activity has changed. So, that’s the variable element.
+
+Now, the VCC is a body corporate, it is not an extension of the Singapore Companies Act, neither is it an extension of the Securities and Futures Act, which runs the asset management industry. It is a standalone legislation by itself which does not have any rules on what you can invest in, the diversification limits, when you customise assets, how you speak to an investor, how you report to them – it is purely a body corporate legislation with a variable capital feature. The other feature in the corporate legislation is you can either run it as sub-funds, or you can run it as a standalone legislation.
+
+Singapore has three buckets of investment funds rules. One is the authorised, which is your typical mutual fund rules in your country, which tells you what you can invest in, the diversification rules and so on. This means you have to go to the MAS and ask for permission. They will read the prospectus and if you meet the conditions, you are allowed to launch that fund.
+
+The second bucket is the restricted category. It means that the man on the street is restricted from investing in that product, so it is more for the sophisticated and ultra – the accredited investor class of investors or institutional class. The law doesn’t state as to what you can and cannot invest in under that bucket.
+
+The third one is the exempt category. Exempt means that you are exempt from having a prospectus, which is purely for marketing to institutional investors or if you are privately placing to less than 50 investors in a year.
+
+So, there are three buckets of investments funds which have prescribed rules on what you do. The VCC is a body corporate, an optional legal entity that could be used as an authorised, restricted or an exempt. Mutual funds will sit in the authorised bucket and hedge funds, private equity and real estate would sit in either the restricted or exempt category, depending on who the target investors are.
+
+In the cases of restricted and exempt, you don’t go to the MAS and ask for permission to launch, because you write a constitution and draft your offering document, and as long as the man on the street is not allowed to invest, you’re fine to do what you say you are doing. So, for alternative funds, the need to go to the regulator to ask for permission to launch alternative funds is not there in Singapore. That means when you launch an alternative fund VCC, all you do is incorporate with the
+
+Company Authorities. Then the strength of the document is the constitution, so what is stated in the constitution, the shareholders’ rights that are given, the various features that are given to various share classes, how sub-funds are constructed, the investment strategy, all of those things are in the constitutional document, which are the equivalent of articles of incorporation. So that’s the body corporate legal entity structure.
+
+Because the VCC legislation doesn’t say what you can and cannot invest in, it’s very flexible. It can be used across open-ended, because you state it in your constitution, if it is to be open-ended or closed-ended. Because it sits under any of the three buckets (i.e. authorised, restricted and exempt), it can be used for traditional strategies as well as alternative strategies. It can be either standalone or it can be on an umbrella basis with sub-funds. You can incorporate two ways – you can either start and incorporate the structure, or you can redomicile a foreign body corporate that acts as an investment fund into Singapore as a VCC.
+
+Funds Europe – Looking at Singapore as a fund hub, where do you think it will be used?
+
+Fumin Feng, MAS – Singapore is a leading fund management hub with a strong base of close to 900 fund managers, collectively managing more than US$2.5 trillion of assets as of 2018.
+
+The VCC provides a flexible structuring option for traditional and alternative fund managers seeking to set up a new investment fund in Singapore. It will also be a useful tool for Singapore-based fund managers to co-locate their activities in Singapore. For those of you in the audience who may not be familiar with Singapore, we are a funds distribution hub where close to eight out of ten dollars are crowded in from all over the world and of the assets under management (AuM) managed in Singapore, two-thirds are reinvested back into the APAC region. So, if you are thinking about an Asian strategy to target your clients, Singapore can be an option for you to set up your fund management business and domicile your funds as well.
+
+Funds Europe – Caleb, how do you see the VCC being used in the alternatives sector?
+
+Caleb Wong, BNP Paribas Securities Services – Fund managers, whether traditional or alternative, all have a return-centred objective which requires them to outperform their alphas and betas. So, the question is how to be successful. Being successful requires a set of ingredients. Location strategy is one key factor that would help a fund manager to deal with risks or the creation of maximum possibility of opportunities, and to be able to manufacture alternative or traditional fund portfolios that will be successful.
+
+Singapore has always enjoyed the sterling reputation of being an investor and business-friendly jurisdiction. It has a combination of factors that have earned it its reputation, from a very proactive and efficient government to a highly skilled labour force and also the excellent infrastructure and communications systems. The political stability is not to be understated and this combination of factors really would have a strong impact on the success of fund management, whether you are traditional or alternative.
+
+Singapore is one of the leading asset management locations in Asia Pacific; it is also strategically located, surrounded by many fast-growing ASEAN economies with an array of opportunities they present. We see a lot of inflow of funds into Singapore. Many fund managers actually set up advisory and operations management in Singapore as a base to invest into the region, taking advantage of the scale of marketable securities and unlisted assets.
+
+Funds Europe – Annie, as a Chinese asset manager, why is Singapore on your agenda?
+
+Annie Shum, CSOP Asset Management – When it comes to us looking for the fund structures and the fund models in Asia, we try to set up a local vehicle and local presence so we can more specifically create a product that will meet the investors’ demands, especially the local investors’ demands, whether it is the reporting requirements, disclosure or transparencies, or even some of the tax considerations for the investors in that region.
+
+For us to look at a fund structure and a domicile in Singapore, there are a few things that we will consider. First, we definitely want to look for a place that has a very globally accepted legal and regulatory framework and Singapore definitely has an outstanding and stellar reputation of being a very financially stable economy and country. We also look at the local regulator’s willingness to work with asset managers like ourselves and how supportive they are to help us promote the asset management business. Through that exercise, we have found the MAS to be very supportive of promoting the asset management business out of Singapore. They have been very flexible working with us on different fund initiatives and looking at different fund strategies and supporting us to create that local presence, which is also why CSOP has set up an office in Singapore and obtained a local fund management company licence.
+
+At the end of the day, we want to make it as easy as possible for investors to buy into our products and having a presence in Singapore and working with the MAS on the VCC structure is going to bring us one step closer.
+
+Funds Europe – Kher Sheng, do you think alternatives in Singapore is likely to be a major growth area with what’s happening with the VCC?
+
+Kher Sheng Lee, AIMA – Yes. It’s really about the future and where we see it heading. AIMA is very big on private credit and aside from a traditional hedge fund constituency, we are even more excited about the growth of Asia. So, if you buy into the vision that has been shared on today’s panel – that Asia represents the future, then you want to be where the action is, you want to give yourself the optionality. While Europe is very stable politically and economically, you may want to extend your reach, buy yourself a long-dated co-option and be in Asia.
+
+But why Singapore? AIMA is very actively working with regulators around the region, not just on the VCC, but the Open-ended Fund Company (OFC) in Hong Kong and the Australia Corporate Collective Investment Vehicle (CCIV). The reason why we are excited about Singapore is because if you look at where the money train is going, there is lots of capital flowing into Singapore, so a lot of wealth is being generated in Asia, but a lot of money is being housed in Singapore for a variety of reasons, so that’s the money train.
+
+The other one is the talent train. Singapore’s a great place to live and raise a family. It is politically stable, and healthcare and education are world-class. So, think of Singapore as a very well-managed railway station in the middle of a city – it’s a great location, there are multiple train lines going through that, and location is everything.
+
+There’s an increasing trend whereby as fund managers, as investors, you are asking yourself the question whether the fund should be onshore as opposed to offshore, and that’s driven by a number of forces: increasing tax scrutiny, the need for transparency, economic substance, preference of investors and regulators. But what if you could have the fund domicile and the fund management company in the same entity, because potentially there are cost savings? Right now, a lot of our businesses have operational complexity, we have to think about different legal jurisdictions and regulatory systems, but what if the fund and the fund management entity can be in the same jurisdiction? You have got one fewer set of laws and regulations to keep up to date with. So, some of the issues we are looking at are really about the future and how you see this industry evolving.
+
+Funds Europe – Where do you see the VCC being adopted as an early adoption model? Which fund classes do you think you’re likely to see early take-up on?
+
+Wong – The VCC is a multi-purpose tool that caters to a wide reach of investment funds and for all types of investors. The built-in features of the VCC cover a very broad base and the benefits are equally compelling for each type of fund, be it closed or open-ended, traditional or alternative, for example. In time, there will be a good representation, acceptance and adoption of the VCC across all categories.
+
+Feng – The advantage of the VCC framework is its flexibility and that it is strategy- and asset-agnostic. It can be structured as open-ended and closed-end funds, across different strategies. Unlike companies under the Companies Act, shares can be issued and redeemed easily using the VCC structure. It can also pay dividends using its capital. The VCC also has features that are on par with these flexible corporate structures in international fund jurisdictions, such as the Icav in Ireland and Sicav in Luxembourg. As such, whether you are a global or a regional manager, the VCC structure can be useful for you to structure your investment funds.
+
+MAS has also selected a small group of fund managers to participate in the pilot programme prior to the launch of the VCC framework to set up their new investment funds as VCCs, or to redomicile their existing overseas funds as VCCs in Singapore on the day of the launch of the VCC framework. This will demonstrate flexibility of the VCC framework across various use cases.
+
+Funds Europe – Annie, do you see other Chinese asset managers looking to come to Hong Kong and are traditional Chinese asset managers interested in the VCC in Singapore?
+
+Shum – The trend for Chinese asset managers is always to expand their global reach. So naturally, Hong Kong has been their first step, but beyond Hong Kong, a lot of the Chinese asset managers like us are also considering different domiciliation options and regional offices.
+
+CSOP is a user of different fund structures. Aside from the traditional assets, we also have some alternative strategies, and in that regard, I would echo the other panellists’ view that if we were to consider the VCC structure, the alternatives strategy can get up and running sooner. In the past, the Cayman structure has been very widely used by different alternative strategies because of its flexible nature in terms of types of investments and the time that it takes to set up. It’s created an easy way to set up a fund for managers who don’t need the very tight regulatory structure for distribution purposes. We hear a lot about what the VCC can do and can offer and this actually presents a very good alternative to some of the offshore fund structures, which in my experience, is also under increasing scrutiny amongst different fund selectors.
+
+Funds Europe – What advantages do you see the VCC giving fund managers?
+
+Shum – Singapore’s regulatory framework, the legal system and a very independent and stable financial system are very obvious advantages over some of the offshore domiciles that have been used for many years in the past. For Chinese asset managers like ourselves, one of the advantages is the operating times of use where we are dealing with, say, the Cayman fund structures or some of the Ucits structures in Europe. There is always a time difference and the back and forth and we lose a day or two in between. So, for asset managers who are already based in Asia, that becomes a very strong motivation for us to adopt more regional structures, but that will still allow us the flexibilities like any of the offshore fund structures.
+
+As the regional investors in Singapore and southeast Asia become more familiar with the structure and their acceptability of the VCC structure gets more heightened, that will be a big push for the VCC structure to be adopted by asset managers globally – especially for those who are trying to tap this very rapidly growing region of fund distribution.
+
+Wong – The VCC model should be able to improve the level of operational efficiency and reduce the compliance requirements of the fund managers. Fund managers won’t have to create separate legal entities or a collection of funds when they need to create a new investment portfolio, which can be quite expensive and challenging. Instead, they can use the umbrella VCC and sub-fund model.
+
+Secondly, in terms of compliance, the fund will need to, for instance, only do a single filing even if the VCC is created as an umbrella structure with multiple sub-funds. This definitely reduces the cost of compliance and obviously the simplifies the administration too.
+
+Lee – Having your fund and management company in the same jurisdiction and not having to deal with overlapping or competing sets of laws and regulations is a big plus, as is not having to juggle time zone differences.
+
+When looking at a fund structure like the VCC, it is really important to ask yourself what do investors expect from managers? That was the question that drove the MAS when it came to designing the VCC, because if you look at the features of VCC you cannot help but have a feeling that it is reverse engineered to take on some of the best features of Cayman, yet having some features that you associate with an onshore regime.
+
+© 2020 funds europe

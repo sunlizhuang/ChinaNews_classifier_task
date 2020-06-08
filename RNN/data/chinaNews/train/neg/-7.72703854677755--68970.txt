@@ -1,0 +1,51 @@
+(Adds temporary license extension for Huawei)
+
+NEW YORK, Feb 13 (Reuters) - U.S. prosecutors on Thursday accused Huawei of stealing trade secrets and helping Iran track protesters in its latest indictment against the Chinese company, escalating the U.S. battle with the world's largest telecommunications equipment maker.
+
+In the indictment, which supersedes one unsealed last year in federal court in Brooklyn, New York, Huawei Technologies Co was charged with conspiring to steal trade secrets from six U.S. technology companies and to violate a racketeering law typically used to combat organized crime.
+
+It also contains new allegations about the company's involvement in countries subject to sanctions. Among other accusations, it says Huawei installed surveillance equipment in Iran that was used to monitor, identify, and detain protesters during the 2009 anti-government demonstrations in Tehran.
+
+The United States has been waging a campaign against Huawei, which it has warned could spy on customers for Beijing. Washington placed the company on a trade blacklist last year, citing national security concerns.
+
+The indictment is "part of an attempt to irrevocably damage Huawei's reputation and its business for reasons related to competition rather than law enforcement," Huawei said in a statement.
+
+It called the racketeering accusation "a contrived repackaging of a handful of civil allegations that are almost 20 years old."
+
+Huawei pleaded not guilty to the earlier indictment unsealed against the company in January 2019, which charged it with bank and wire fraud, violating sanctions against Iran, and obstructing justice.
+
+Its chief financial officer Meng Wanzhou was arrested in December 2018 in Canada on charges in that indictment, causing an uproar in China and a chill in Canadian-Chinese relations. She has said she is innocent and is fighting extradition.
+
+There are no new charges against Meng in the superseding indictment.
+
+NEW CHARGES
+
+The new trade secret theft charges relate to internet router source code, cellular antenna technology, and robotics.
+
+For example, beginning in 2000, Huawei and its subsidiary Futurewei Technologies Inc are accused of misappropriating operating system source code for internet routers, commands used to communicate with the routers, and operating system manuals, from a company in Northern California. Futurewei was added as a defendant in the latest indictment.
+
+Huawei then sold their routers in the United States as lower cost versions of the U.S. company's products, the indictment says.
+
+Although the U.S. company is not identified, Cisco Systems sued Huawei in Texas in 2003 over copyright infringement related to its routers.
+
+Huawei is also accused of recruiting employees from other companies, making efforts to get intellectual property from those companies, and using professors at research institutions to obtain technology.
+
+"The indictment paints a damning portrait of an illegitimate organization that lacks any regard for the law," U.S. Senate Intelligence Committee chairman Richard Burr and vice chairman Mark Warner said in a joint statement.
+
+The Republican and Democratic Senators called it "an important step in combating Huawei's state-directed and criminal enterprise."
+
+The indictment also accuses Meng and Huawei of conspiring to defraud HSBC and other banks by misrepresenting Huawei's relationship with a company that operated in Iran.
+
+It references reporting by Reuters from seven years ago about Huawei's ties to Skycom Tech Co Ltd, which offered to sell U.S. origin goods to Iran, in violation of U.S. law. It also mentions news reports in Reuters and the Wall Street Journal that claimed Huawei assisted the government of Iran in domestic surveillance. reut.rs/2sUq8RT
+
+In addition to accusing Huawei of lying about its operations in Iran, the latest indictment says Huawei falsely represented to banks that it had no business in North Korea.
+
+The U.S. Commerce Department in May put Huawei on a trade blacklist that restricted U.S. suppliers from selling parts and components to the company.
+
+On Thursday, in some positive news for the company, the Commerce Department announced it was extending a temporary general license for 45 days allowing U.S. companies to continue doing some business with Huawei. The move is intended to maintain existing equipment and allow providers in rural communities more time to find alternatives to the company's networks.
+
+At the same time, the United States is weighing new regulations to stop more foreign shipments of products with U.S. technology to Huawei.
+
+And Washington has continued to pressure other countries to drop Huawei from their cellular networks over its claim the equipment could be used by Beijing for spying.
+
+(Reporting by Karen Freifeld; additional reporting by Jonathan Stempel and David Shepardson; Editing by Rosalba O'Brien)

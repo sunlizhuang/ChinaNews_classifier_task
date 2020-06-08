@@ -1,0 +1,53 @@
+Universal Media Server is a DLNA-compliant UPnP Media Server. UMS was started by SubJunk, an official developer of PMS, in order to ensure greater stability and file-compatibility. The program streams or transcodes many different media formats with little or no configuration. It is powered by MEncoder, FFmpeg, tsMuxeR, AviSynth, MediaInfo and more, which combine to offer support for a wide range of media formats. Because it is written in Java, Universal Media Server supports all major operating systems, with versions for Windows, Linux and Mac OS X.
+
+To see a comparison of popular media servers, click here.
+
+Changes since 9.1.0:
+
+General
+
+Added more precise support for subtitles in renderer profiles. See the si and se options in DefaultRenderer.conf.
+
+Fixed uninstallation of Windows service (thanks, pponce!)
+
+Use secure connections for program updates (thanks, xaitax!)
+
+Fixed startup on Linux using ARM processors (thanks, felsen2011!)
+
+Logging improvements
+
+Renderers:
+
+Added support Sony BRAVIA AG series TVs (thanks, rubin55!)
+
+Improved support for 2019 Samsung TVs, including 8K streaming
+
+Improved support for Panasonic GX800B
+
+Translation updates via Crowdin:
+
+Chinese Traditional (100%)
+
+Croatian (44%)
+
+Danish (100%)
+
+English (United Kingdom) (3%)
+
+Hungarian (71%)
+
+Korean (33%)
+
+Slovak (100%)
+
+Slovenian (60%)
+
+Swedish (97%)
+
+Download: Universal Media Server 9.2.0 | 181.0 MB (Open Source)
+
+Download: Other operating systems
+
+View: Universal Media Server Website
+
+Get alerted to all of our Software updates on Twitter at @NeowinSoftware

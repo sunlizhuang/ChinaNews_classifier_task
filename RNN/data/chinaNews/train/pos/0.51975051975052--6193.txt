@@ -1,0 +1,115 @@
+Bitcoin mining has long ceased to be profitable for the majority of hobbyist miners. So when the upcoming halving in May 2020 slashes the block reward in half, will that spell the end even for medium and large-sized producers?
+
+Many people in the space see the halving as a catapult for BTC price and believe it to be extremely bullish.
+
+195 days until the next Bitcoin halving. Less than 3 million Bitcoin left to mine. Hash rate keeps hitting all-time highs. We are watching the strongest computer network in the world continue to get stronger and stronger. Incredible. — Pomp 🌪 (@APompliano) November 1, 2019
+
+But what effect will it have on the miners? Coin Rivet gathered the opinions of industry experts to get their take on the future of Bitcoin mining after the halving and beyond.
+
+What is the Bitcoin halving?
+
+If at this point you’re wondering what the Bitcoin halving is, here’s a quick recap. Bitcoin’s creator Satoshi Nakamoto programmed the network so that block rewards for miners would be halved every four years.
+
+The first block reward started out at 50 BTC. This was halved in 2012 and again in 2016. The current block reward for miners is therefore 12.5 BTC.
+
+In May, that will go down to 6.25 BTC, and will then half again in another four years’ time (and so on). Here’s a simple explainer video in case you want further details:
+
+Since the Bitcoin network relies heavily on miners to release new Bitcoins into existence, they are incentivised with block rewards. But clearly, as Learnbonds.com chief editor Edith Muthoni points out: “As block rewards continue to diminish, so do miners’ rewards.”
+
+She continues: “This brings us into a seeming conundrum: if miners will no longer receive block rewards (or too little), will they continue mining? What will be their motivation to stay on? What does this mean for the network and Bitcoin?”
+
+The halving’s effect on Bitcoin mining
+
+In the short term at least, it seems as if the halving will have a negative effect on Bitcoin mining. Global CEO of the RRMine Bitcoin cloud mining platform Steve Tsou says in unequivocal terms:
+
+“The halving in 2020 will have great impacts on Bitcoin miners: 1) Miners with low mining efficiency will be forced to pause and re-evaluate their business operations. 2) Digital mining is becoming the racetrack for giant international companies because they have more advanced machines and cheaper sources of electricity.”
+
+"we show that Bitcoin mining is mainly located in global regions where there are large, unused supplies of renewable electricity available…making Bitcoin mining greener than almost every other large-scale industry in the world"https://t.co/n2hqhzqv4h pic.twitter.com/peUdQFnxJK — Matt Odell (@matt_odell) November 29, 2018
+
+Ramak J Sedigh, founder and CEO of Plouton Mining, echoes Tsou’s sentiment, saying: “The upcoming halving will force the small operators and those running S9s out of the market, except in the unlikely scenario that BTC reaches a new all-time high by the end of May.
+
+“The bottom line is, you’re out if you’re not able to upgrade both your infrastructure to the 2500W miner and equipment to the 70+ TH/s or upcoming 5 and 3 NM miners with even higher TH/s.”
+
+Co-founder and CEO of the RockX digital asset services platform Alex Lam agrees. As one of China’s most prolific miners and one of the first to use ASIC miners, Lam previously founded RockMiner, one of the most influential cryptocurrency mining companies in the world.
+
+He says: “The next Bitcoin halving is likely to result in mining profitability decreasing significantly in the short term.”
+
+Bitcoin’s price at the time of the halving
+
+While the general consensus is that the Bitcoin halving will reduce miners’ profitability (at least for the short term), there is still a possibility this won’t happen. But that all depends on the price of BTC at the time of the halving.
+
+Digital marketing officer at peer-to-peer Bitcoin marketplace Paxful Jeffrey Barroga says: “It all boils down to the price of Bitcoin after the halving.”
+
+He explains: “If there’s no significant increase, Bitcoin mining may no longer be sustainable unless you’re a major mining centre.
+
+“Mining is already competitive and resource-extensive as it is, and when you combine that with the impending block reward reduction in May, hobbyist miners and small players might find that whatever BTC they gain is insufficient to pay for the overhead costs of running their rigs.
+
+“However, expect more miners and fiercer competition if the value of Bitcoin reaches $20,000 again.”
+
+Bitcoin SV (BSV) champion and president of the Bitcoin Association Jimmy Nguyen believes that’s unlikely to happen. He comments:
+
+“Some people expect the coin price to magically increase before the halving and help cover the 50% fewer coins. Even if there is some price increase, it is doubtful coin prices will double from now through April or May 2020. So mining will most likely be less profitable after the halving than it currently is.”
+
+11 years ago today, the Bitcoin blockchain began. In 2020, we finally unleash its full power on #BSV. https://t.co/pLDyiESGWU — Jimmy Nguyen (@JimmyWinMedia) January 3, 2020
+
+So what about the hash rate and why does it matter?
+
+You often hear talk of the hash rate when it comes to the Bitcoin network. And in fact, despite unfavourable market conditions, the BTC hash rate is consistently hitting new all-time highs.
+
+Why is this so important? In a nutshell, the greater the computing power, the more secure the network. A rising hash rate shows continued growth and stability.
+
+Simon Harman, CEO of Loki, Australia’s first privacy tech foundation based on blockchain, believes that although the hash rate may be affected if fewer miners contribute to the network, this will likely only be short term.
+
+He states: “If the reward halves, the hash rate is likely to drop off steeply. However, because there is less supply being created over time, the halving may cause the price of Bitcoin to rise, thereby increasing the value of the now smaller reward.
+
+“This means that in the long run, the halving will probably not have a major impact on hash rate.”
+
+Lam further explains that, although the hash rate may decrease in the short term: “It is unlikely that hash rates will drastically decrease.” This is due to several factors, not least because of the time of year the halving occurs – during the rainy season in China.
+
+He says: “The rainy season in China starts around the same time in mid-May. There have previously been surges in mining activity in China at this time of year as large mining farms can run at a very low cost due to cheap hydroelectricity during the rainy season.”
+
+Moreover, as Komodo CTO Kadan Stadelmann adds: “It’s important to note that the Bitcoin network has been growing steadily (in terms of hash rate and difficulty) for the past two years, despite mostly bearish market conditions…
+
+"BITCOIN HASH RATE ALL TIME HIGH" You mean computers are gradually improving every year? — moon (@MoonOverlord) January 4, 2020
+
+Presumably, this means that miners are finding a way to stay profitable, even with the higher mining difficulty.”
+
+How can Bitcoin miners stay profitable?
+
+Harman cuts to the chase: “Mining is a zero-sum game, in that all miners compete for the same reward. If profitability falls below zero, some miners will switch off their hardware to someone else’s benefit. The key to maintaining a successful mining operation is to always have the most efficient hardware and the cheapest electricity.”
+
+Barroga agrees that Bitcoin mining needs: “Efficiency. Efficiency. Efficiency. In order to remain profitable, Bitcoin miners need the most energy-efficient hardware such as the Dragonmint T16 and the Antminer S9. These are the best mining hardware to date – boasting incredible processing power with the lowest possible power consumption.
+
+“Miners will also have to move their operations to regions with cold weather and abundant cheap electricity. Bitcoin mining drains immense energy… By moving to cold areas, miners can drastically cut energy consumption from cooling systems, thereby making the operation more profitable.
+
+“Some mining companies have already moved to Ulaanbaatar, Mongolia, and Bratsk in Russia, where the weather is cold and the electricity is cheap – and you can expect more companies to do the same.”
+
+So far most #Bitcoin mining is done in #China, with subsidized electricity and coal power, here: A power plant in Xiangshawan Desert in Ordos of Inner Mongolia pic.twitter.com/JYHz56Crmj — Valentin Schmid (@vxschmid) December 5, 2018
+
+Lam adds: “In order to remain profitable, Bitcoin miners should choose mining rigs with the lowest power consumption—this is the best choice for those making a long-term investment in mining—or else lower the frequency of mining rigs to decrease their energy consumption and avoid hardware wear-and-tear.
+
+“Of course, the best way to protect mining’s profitability is to make use of the cheapest source of electricity.”
+
+Tsou believes that digital mining is the way forward: “Low energy prices enable our platform to provide stable services. Global digital mining is undergoing industrial transformation. The industry will definitely have a hash rate infrastructure platform in the future. RRMine has aimed at this position.”
+
+What happens when all the Bitcoins have been mined?
+
+With a hard-capped supply of 21 million and already more than 18 million Bitcoins in existence, one may ask the question – what happens when all the Bitcoins have been mined?
+
+Muthoni says: “Thankfully, Satoshi had it all figured out. He programmed the network to include a protocol that will provide transaction fees as the other incentive for miners. In other words, the compensation system for miners will transition into transaction fees.”
+
+But will transaction fees alone be enough to sustain the network and reward the miners? Lam believes so, saying:
+
+“Yes, in the long run, the Bitcoin network will still be sustainable. This is because transaction fees will be higher in each block as mining gets increasingly sensitive in the coming Bitcoin halvings. Users will also have to pay enough to miners to ensure they don’t shut down, which would make the whole network less secure.”
+
+Nguyen points out the fact that by the next halving, almost 90% of all Bitcoins will have been released. He says: “The ‘subsidy’ amount per block is paid by releasing fresh coins from the original 21 million supply. But the supply of fresh coins to pay the ‘subsidy’ amount to miners is rapidly dwindling.
+
+“When viewed in this light, it is obvious the subsidy amount per block was never meant to be the primary source of revenue supporting miners forever. Transaction fee revenue always had to grow to overtake the subsidy amount of fresh coins… The Bitcoin network can only thrive long term with massive scaling and big transaction volume.”
+
+Wrapping it up
+
+The Bitcoin halving will likely have a very big impact on Bitcoin mining both in the short and long term. We’ll likely see another large shake-out as smaller, less sustainable operations give way to larger mining farms with access to low-cost energy.
+
+As the industry matures, it is likely that Bitcoin mining may never be as profitable as it once was. This will also mean that the Bitcoin hash rate, according to Lam, “will not experience the strong hikes as we have witnessed previously”.
+
+He concludes: “That said, the increase in BTC prices in the long term will ensure that mining is still profitable. As such, investors should view Bitcoin mining as a long-term investment, instead of a vehicle for short-term gains.”

@@ -1,0 +1,51 @@
+US and European Regulators Say Crypto a Priority This Year
+
+Several regulators in the U.S. and Europe have made cryptocurrency among their top priorities this year. The Securities and Exchange Commission’s compliance office and the European Securities and Markets Authority, in collaboration with other regulators, have outlined their plans to focus on crypto oversight. Further, China’s central bank has made digital currency a priority.
+
+Also read: Regs Roundup: SEC Actions, Crypto Tax-Free in Korea, New Chinese Laws
+
+SEC Compliance Office Focused on Crypto
+
+The Securities and Exchange Commission (SEC)’s Office of Compliance Inspections and Examinations (OCIE) announced its 2020 priorities on Tuesday. The office conducts the SEC’s national exam program, with a mission to protect investors, ensure market integrity, and support responsible capital formation. The exam results are used by the Commission to inform rule-making initiatives, identify and monitor risks, improve industry practices and pursue misconduct.
+
+The OCIE stated that advancements in financial technologies, including digital assets, “warrant ongoing attention and review.” Noting that “The digital assets market has grown rapidly and presents various risks, including for retail investors who may not adequately understand the differences between these assets and more traditional products,” the document confirms:
+
+OCIE also will continue to identify and examine SEC-registered firms engaged in the digital asset space.
+
+The examinations will assess six key areas: investment suitability, portfolio management and trading practices, safety of client funds and assets, pricing and valuation, effectiveness of compliance programs and controls, and supervision of employees outside of business activities.
+
+The OCIE oversight also covers robo-advisors, which are registered investment advisors that provide services to clients through automated investment tools and platforms. The compliance office will also focus examinations on the Financial Industry Regulatory Authority (FINRA), its operations, regulatory programs, and the quality of FINRA’s examinations of broker-dealers and municipal advisors. FINRA has approved several crypto investments. In October, it approved shares of Grayscale Digital Large Cap Fund for public quotation.
+
+Europe Focused on Creating ‘Sound Legal Framework’ for Crypto
+
+Over in Europe, the European Securities and Markets Authority (ESMA) released its Strategic Orientation 2020-22 on Thursday, highlighting its priorities for the year. Located in Paris, ESMA is a European Union financial regulatory agency and European Supervisory Authority.
+
+According to the document, ESMA requires the “EU market participants to acknowledge the risks that may stem from digitalization by ensuring business continuity and the use of adequate and up-to-date technology, as well as adequate protection against cyberthreats, and through proper data protection and data quality management.” The regulator described:
+
+The dangers of cyberthreats to the financial system as a whole and a sound legal framework for crypto assets are increasingly becoming areas of focus for ESMA together with the other European Supervisory Authorities, the European Systemic Risk Board, the European Central Bank and the European Commission.
+
+Emphasizing that fintech can contribute to well-functioning financial markets and investor protection, ESMA says it “will therefore actively examine the new opportunities technology might bring especially for investor protection and share expertise and know-how with national authorities.” The regulator will collaborate with national regulators to achieve its goals.
+
+China Prioritizes Digital Currency
+
+In Asia, the People’s Bank of China (PBOC) announced its seven key policy priorities for 2020 on Jan. 5, following an annual conference it held last week in Beijing.
+
+China’s central bank will “strengthen research and development and application of financial technology,” the announcement details. The PBOC specifically stated that it will “continue to steadily advance research and development of a legal digital currency.”
+
+While cracking down on crypto and initial coin offering activities in the country, the PBOC has been working on issuing its own digital yuan. Local media reported on Friday that the bank has completed the digital currency’s top-level design and preliminary testing.
+
+What do you think of the U.S. and European regulators making cryptocurrency a priority this year? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+
+
+Images courtesy of Shutterstock, SEC, ESMA, and PBOC.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.
+
+Kevin Helms A student of Austrian Economics, Kevin found Bitcoin in 2011 and has been an evangelist ever since. His interests lie in Bitcoin security, open-source systems, network effects and the intersection between economics and cryptography.
+
+
+
+Please enable JavaScript to view the comments powered by Disqus.

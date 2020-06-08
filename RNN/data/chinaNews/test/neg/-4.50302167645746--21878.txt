@@ -1,0 +1,35 @@
+One hour and one minute before midnight on Dec. 30, the Boston-based International Society for Infectious Diseases issued an alert. It was a machine translation of a Chinese news story about four unexplained cases of pneumonia in the metropolis of Wuhan, linked to the South China Seafood Market.
+
+Less than a week later, the World Health Organization said it knew of 44 cases, some of them vendors or dealers in the market for live animals, not just seafood. But it said all patients were quarantined, their 121 close contacts under observation, and there was as yet no evidence of significant human-to-human transmission. Fearsome viruses from past outbreaks, like SARS and avian flu, were ruled out. A few days later, the U.S. Centers for Disease Control alerted clinicians, but the worry was nothing out of the ordinary.
+
+That has changed. Human to human is now occurring, the WHO said Thursday, and amplification has already occurred in one health-care facility. In the three weeks from Gregorian New Year to Lunar New Year, the novel 2019 Wuhan coronavirus has expanded into a major crisis for China and evoked fears of global pandemic.
+
+China has quarantined millions with sweeping travel restrictions and closing of public transit. Entire cities are under orders not to leave, or even move very far. Large gatherings are banned on the biggest holiday of the year, including in Beijing, where the Forbidden City has been closed to tourists. Masks are selling out. On Thursday, China reported the first death outside Wuhan, in Hebei province hundreds of kilometres away, of a man who had come from Wuhan.
+
+That brought the number of dead to 18, with more than 600 infected, which is far lower than the death toll from influenza, another viral disease. But as a new emerging virus with no vaccine and the potential to spread unchecked through global travel, Wuhan coronavirus has quickly risen up the public agenda, recalling the devastating effects of SARS in 2003. SARS was a coronavirus, named for its crown-like shape, whose milder strains cause the common cold but also worrying epidemics like MERS, the Middle East Respiratory Syndrome.
+
+Despite what it called “divergent views,” the World Health Organization agreed on the “urgency” of the situation but declined on Thursday to declare a “public health emergency of international concern,” a designation created after the 2003 SARS outbreak, of which five have been declared since 2009: swine flu, polio, ebola, zika and ebola again last summer.
+
+“At this time, there is no evidence of human to human transmission outside China. That doesn’t mean it won’t happen,” Tedros Adhanom Ghebreyesus, director general of the World Health Organization, at a news conference in Geneva. “Make no mistake. This is an emergency in China, but it has not yet become a global health emergency. It may yet become one.”
+
+The disease is reported to cause fever, cough and pneumonia, with 25 per cent of confirmed cases reported to be severe, according to the WHO. Canadian airports at Montreal, Toronto and Vancouver have adopted new screening measures, including questions to arriving passengers and notices.
+
+On Tuesday, the United States confirmed its first case, in Washington State, in a person who had recently travelled from Wuhan.
+
+In Ottawa, Health Minister Patty Hajdu said half a dozen Canadians were being monitored for symptoms that might indicate the new infection, but there are no confirmed cases. She said the risk is low to Canadians.
+
+“Obviously, we take very seriously this issue of the coronavirus,” Prime Minister Justin Trudeau said.
+
+Hajdu said at least one case is in Vancouver. Horacio Arruda, head of Quebec’s Public Health Agency, said five are in Montreal or Quebec City, “and have a history that could be compatible with the fact they could have been exposed.”
+
+In all cases, that means recent travel to Wuhan.
+
+“That doesn’t worry me. That tells me the system is working. We are in the midst of respiratory virus season,” said Kamran Khan, an infectious disease physician at St. Michael’s Hospital in Toronto and founder and CEO of BlueDot, a Toronto company that uses artificial intelligence to create a global early warning system for infectious diseases, which has had earlier success predicting the outbreak of Zika virus.
+
+The company issued its first alert on the Wuhan coronavirus the morning of Dec. 31, flagging what by then it understood to be 20 unexplained pneumonia cases for clients including governmental public health agencies, hospitals and airlines.
+
+Obviously, we take very seriously
+
+Khan said a team of 40 people, including doctors, veterinarians, ecologists, epidemiologists and data engineers, have trained a system of machine learning and natural language processing that can read over 100,000 online articles (not social media) in 65 languages, tracking public discussion and reporting of over 100 different diseases more or less constantly.
+
+“There’s nothing like this that’s been built in the world,” he said, comparing it to a smoke alarm for viruses. He said it grew out of the devastating experience of working on SARS in a Toronto health-care system that found itself overwhelmed, and the desire to anticipate and prepare for the next one.

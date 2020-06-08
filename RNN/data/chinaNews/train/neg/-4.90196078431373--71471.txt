@@ -1,0 +1,75 @@
+A recent announcement by a Chinese health official suggested the new coronavirus might spread more easily than we thought, via an “airborne route”. The virus is now known as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), while the name of the disease it causes is now called COVID-19.
+
+The Chinese Center for Disease Control and Prevention almost immediately corrected the announcement, noting SARS-CoV-2 was not known to be an airborne virus.
+
+The centre confirmed the virus appears to spread via droplets, direct contact and by coming into contact with contaminated surfaces and objects. The World Health Organisation agrees.
+
+So far no infectious virus has been recovered from captured air samples. This would need to occur to demonstrate the virus was airborne.
+
+What’s the difference between airborne and droplet spread?
+
+When we sneeze, cough or talk, we expel particles in a range of sizes.
+
+The bigger, wet droplets larger than 5-10 millionths of a meter (µm or micrometre) fall to the ground within seconds or land on another surface.
+
+These wet droplets are currently considered to be the highest risk routes for the SARS-CoV-2.
+
+But smaller particles aren’t implicated in the spread of SARS-CoV-2.
+
+Smaller particles remain suspended in the air and evaporate very quickly (at less than one-tenth of a second in dry air). They leave behind gel-like particles made of proteins, salts and other things, including viruses.
+
+These leftovers are called “droplet nuclei” and can be inhaled. They may remain aloft for hours, riding the air currents through a hospital corridor, shopping centre or office block. This is what we mean when we talk about something being airborne.
+
+But there’s more to airborne spread. To infect humans, the droplet nuclei need to contain infectious virus. The virus must be able to land on our mucous membranes – the soft lining of our ears, nose, conjunctiva (eyelid), throat and digestive tract and it must be able to enter our cells and replicate.
+
+There also needs to be enough virus to overcome our early immune responses to the invader and start an infection.
+
+So a few stars have to align for airborne infection to result.
+
+But airborne transmission wouldn’t be a shock
+
+We already know the measles virus can remain aloft in a room for up to 30 minutes after an infected person leaves it.
+
+Likewise, the MERS coronavirus has been captured in infectious form from hospital air samples and found to be infectious.
+
+So there is some precedent.
+
+Other viruses that can be infectious via an airborne route include rhinoviruses (the main causes of the common cold) and flu viruses.
+
+The ability for common respiratory viruses to spread via airborne particles means it wouldn’t be a shock to find SARS-CoV-2 also had this capability.
+
+But there is no evidence this is currently occurring.
+
+Why would airborne spread be such a problem?
+
+Airborne spread would mean the virus could travel further. It could spread through unfiltered air conditioning ducting and reach people further away from the infected person, despite them not being in their direct line of sight.
+
+It would also affect how far away from the patient hard surfaces need cleaning and whether airborne personal protective equipment (PPE) precautions – such as P2 respirator masks – would need to be more widely used.
+
+Our definition of “sufficient contact” for someone to be a possible new infection may broaden, which would mean more people need to be monitored, tested and possibly quarantined for each known patient.
+
+But even if an airborne route is found in the future, it’s unlikely to be the major route of transmission.
+
+People who are ill and show symptoms such as coughing and sneezing usually produce and expel viruses in greater amounts than those who show fewer symptoms. These sicker people are more likely to spread the virus via bigger wet droplets, physical contact and contamination of surfaces and objects.
+
+Do I need to worry?
+
+No. SARS-CoV-2 has been spreading the whole time, regardless of our understanding of how. That spread doesn’t look to be changing.
+
+Currently, relatively few people infected with SARS-CoV-2 are outside of mainland China. Only 15 cases have been identified in Australia. Those found are isolated quickly and are well cared for.
+
+The chances of catching SARS-CoV-2 outside of mainland China are, at the moment, remote (provided you aren’t on a certain cruise ship).
+
+If the situation changes because infected travellers arrive in greater numbers than we can contain, then our best tools to mitigate spread remain the ones we already know:
+
+distancing ourselves from obviously ill people
+
+hand-washing
+
+cleaning surfaces
+
+good cough etiquette (coughing into a tissue or your elbow and washing your hands)
+
+keeping our hands away from our face.
+
+And if you are at risk, stay home and seek medical advice by phone.

@@ -1,0 +1,51 @@
+Facts
+
+TRAB decision
+
+Beijing IP Court decision
+
+Appeal
+
+Comment
+
+
+
+Geographical indications identify goods as originating from a certain region or locality, where a given quality, the reputation or another characteristic of the good is essentially attributable to the natural or humanistic features of the indicated place. However, if an indication is accredited as a geographical indication in its country of origin, is this sufficient for it to be granted protection in China without being registered as a trademark?
+
+Facts
+
+On 10 January 2011 Fujian Longwang Trading Ltd filed an application with the Trademark Office to register Trademark 9037930 ('罗曼尼·康帝' – the Chinese transliteration of 'Romanée-Conti') on goods in Class 33 (ie, wine and whisky). The application was approved for registration on 21 January 2012. In August 2016 the National Institute of Origin and Quality (INAO) filed a request to invalidate the 罗曼尼·康帝 trademark with the Trademark Review and Adjudication Board (TRAB, now part of the National IP Administration). On 10 January 2017 the disputed trademark was assigned to a third party, Wu Liping.
+
+TRAB decision
+
+The TRAB held that Romanée-Conti, an accredited appellation of origin for wine in France, had not yet been registered as a geographical indication in China. Further, the TRAB held that the evidence presented in the case did not prove that Romanée-Conti and 罗曼尼·康帝 had formed an exclusive corresponding relationship. Therefore, the registration of the disputed trademark did not violate Article 16 of the Trademark Law 2001.
+
+Beijing IP Court decision
+
+The INAO challenged the TRAB decision before the Beijing IP Court. The court held that the evidence presented proved that:
+
+the region indicated by Romanée-Conti features distinctive natural and humanistic characteristics and that the name is therefore a geographical indication for wine; and
+
+a stable corresponding relationship had been established between Romanée-Conti and 罗曼尼·康帝.
+
+Therefore, 罗曼尼·康帝 should also be protected as a geographical indication for wine. The court ruled that as the disputed trademark contained the Chinese characters 罗曼尼·康帝 and had a stable corresponding relationship with the geographical indication Romanée-Conti, it violated Article 16(1) of the Trademark Law.
+
+Appeal
+
+Both the TRAB and Wu Liping appealed the first-instance decision to the Beijing High Court. The Court of Appeal upheld the first-instance court's decision, holding that the use of the disputed trademark on wine and other commodities closely associated with wine would likely mislead the public.
+
+In the invalidation proceedings and appeal, the TRAB reiterated the argument that as Romanée-Conti had not been registered as a geographical indication in China, it could not be granted protection. In fact, before the promulgation of the General Provisions of the Civil Law 2017, there had been controversy around whether to grant direct protection over geographical indications – a civil right yet to be recognised in China. The nation's recent legislative progress has prompted the evolution of the protection regime of geographical indications.
+
+In CIVC v Sheng Yan Yi Mei (2015), the Beijing First Intermediate Court found that Article 16 of the Trademark Law is the legal basis to invoke protection over geographical indications in China. On this basis, the Regulations for the Implementation of the Trademark Law further explain that geographical indications may be registered as certification or collective trademarks. Nevertheless, the regulations do not exclude geographical indications other than collective and certification trademarks from being protected. The key to ascertaining whether legal protection is justified and to what extent such protection is appropriate lies in whether the indication has functioned as a de facto source identifier among the relevant public. Whether geographical indications have been registered as collective or certification trademarks in China is not a precondition to legal protection in China.
+
+As to geographical indications that have not been registered in China, Article 13.4 of the Beijing High Court Guidelines for the Adjudication of Administrative Cases Concerning the Granting and Affirmation of Trademark Rights states that the principle of prior protection of geographical indications in their country of origin will be honoured in China. The court provides that where a foreign party claims that an application to register a disputed trademark violates Article 16.1 of the Trademark Law and that this trademark should not be registered or should be declared invalid, such party must provide proof that the geographical indication under its name is protected by law in the country of origin.
+
+In this case, the first and second-instance courts determined – based on two articles from the Journal Officiel de la République Française submitted by the INAO – that France had recognised Romanée-Conti as an appellation d'origine contrôlée by a decree dated 11 September 1936. The courts examined the standards of wines from the area in the official journal (including the colour and type of products, the origin and region of various crops, all of the grape varieties, the processing, manufacturing, brewing, packaging and storage process and the association with the place of origin), as well as the geographical region of Romanée-Conti and its natural and humanistic characteristics. The courts of both instances made different findings by considering the evidence of how the geographical indication is perceived by the Chinese public.
+
+In particular, the Court of Appeal maintained the first-instance decision and quashed the TRAB ruling based on the finding that "although Romanée-Conti has not been applied for registration as a geographical indication trademark in China, the Trademark Law does not regard the registration as a prerequisite for protection of geographical indications". The court noted that such a decision aligns with China's obligation to protect geographical indications after its accession to the Agreement on Trade-Related Aspects of Intellectual Property Rights.
+
+Comment
+
+Geographical indication is one of the IP rights enumerated in Article 123 of the General Provisions of the Civil Law. Although registration is not a precondition to invoke protection, registration could help the owner of a geographical indication to challenge infringers in administrative and judicial proceedings. A sound IP portfolio is not only a shield for self-preservation, but also the trump card for an active defence.
+
+For further information on this topic please contact Wang Yan or Nan Jiang at Wanhuida Intellectual Property by telephone (+86 10 6892 1000) or email (wangyan0@wanhuida.com or jiangnan@wanhuida.com). The Wanhuida Intellectual Property website can be accessed at www.wanhuida.com.

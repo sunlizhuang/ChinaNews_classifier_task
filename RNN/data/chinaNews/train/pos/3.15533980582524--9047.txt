@@ -1,0 +1,69 @@
+The 15.6-inch version of Lenovo's Yoga C940 convertible flagship is as bulky and heavy as its peers, but it delivers solid performance and battery life in an attractive package.
+
+An updated version of Lenovo's flagship convertible, the 14-inch Yoga C940 brings even better sound quality than before, while still including useful features like a built-in pen and optional 4K touch screen.
+
+Lenovo freshens its 15.6-inch status-symbol ThinkPad X1 Extreme with new CPU choices, along with faster (if not blazing) graphics and gorgeous displays. But it faces a fierce fight from two refreshed icons: Apple's MacBook Pro and Dell's XPS 15.
+
+The battery life is brief and the body is hefty, but Lenovo's Legion Y740 delivers fine value among big, high-powered gaming laptops, with speed and features that rival more expensive machines.
+
+Lenovo's new entry-level gaming notebook, the Legion Y545 provides smooth frame rates on its 15.6-inch full HD screen in today's games. It's a good alternative to the Acer Predator Helios 300, although its chassis gets a little toasty.
+
+Nvidia's earth-shaking Quadro RTX 5000 makes the Lenovo ThinkPad P53 one of the most powerful mobile workstations you can buy. It's hefty and pricey, but it obliterates big workflows like nobody's business.
+
+With a sturdy, lightweight carbon-fiber exterior, an excellent keyboard, and plenty of security and manageability features, Lenovo's ThinkPad X1 Carbon Gen 7 is the best laptop you can buy for your business.
+
+How to Choose the Right Laptop
+
+It's been more than a decade since IBM stopped making ThinkPad laptops, yet you're still likely to see them in the halls of industry. That's thanks to Lenovo.
+
+The company formerly known as Legend Computers of Beijing, China, still produces the well-regarded laptop line, with its beloved AccuType keyboard. And indeed, a big part of the ThinkPad's longevity has to do with those rugged, inimitable keyboards. But Lenovo machines nowadays range well beyond the classic black ThinkPad slabs. (For one thing, you can get some of them in silver.)
+
+Rather, year after year, Lenovo continues to innovate with radical designs. Take the rotating-screen Yoga family, which influenced the other major PC manufacturers (notably, Dell and HP) to adopt its basic mechanism in their own 2-in-1 convertible laptop designs. Lenovo's concept devices also include an early version of a foldable-screen ThinkPad PC.
+
+Lenovo's conventional Windows-powered laptops include ThinkPads, ThinkBooks, and IdeaPads. (Gaming machines and 2-in-1 hybrids are another matter; more on them in a bit.)
+
+The Classics: The ThinkPads
+
+ThinkPads are Lenovo's classically styled, business-oriented laptops, with a wide range of configurable features: touch screens, cellular connectivity, biometric login hardware, docking options. Their primary commonality? They almost always come colored solely in Lenovo's classic, basic-black matte coat.
+
+These machines tend to offer more in the way of IT-friendly features for monitoring, management, and business-oriented wired and wireless connectivity. To help position certain models within the larger laptop market, Lenovo divides its ThinkPads into a host of sub-classes indicated by a letter. These include the high-end ThinkPad X, the more mainstream (and "green"-focused) ThinkPad L, and the mobile-workstation-oriented ThinkPad P.
+
+The bread-and-butter ThinkPads, though, are the T series, which are widely deployed in businesses and feature a good balance of cost, durability, and feature set, along with the solid ThinkPad keyboard. Within the T-series models, you will see both "s" and non-"s" subtypes, in which a lowercase "s" at the end of the model number indicates a slimmer model than a non-"s".
+
+Beyond L, P, T, and X, Lenovo has also pushed a few newer lines, the A, E, and V series. The V is a value-minded line, which contains a few desktop-replacement-size models with basic feature sets but nonetheless a business focus on aspects such as security. The A series, at this writing, comprised machines with more screen-size variation than the Vs, based on a mixture of AMD A-series APU and Ryzen Pro processors. (Most of the rest of the ThinkPads are Intel-based machines.) And the E series is more of a hodgepodge than most, resolutely budget-minded, with CPUs from both makers and models in both 14- and 15.6-inch screen sizes. (See our picks for the best business laptops overall.)
+
+A quick decoder to ThinkPad model numbers. In most cases, the first number of the three digits indicates the screen size. Models that start with "3" are 13.3-inchers, "4" are 14-inchers, and "5" are 15.6-inchers. Model numbers that end in a "5" are based on AMD CPUs; "0" at the end indicates Intel.
+
+Meanwhile, Lenovo ThinkBooks are a new, distinct line from ThinkPads. They serve SMB customers and lean toward the value end of the spectrum.
+
+The IdeaPad Line: The Consumer Clamshells
+
+IdeaPads, on the other hand, are aimed mainly at consumers, though design-forward business users may gravitate toward using an IdeaPad as a primary PC. You'll find some preloaded apps on many IdeaPad systems, particularly those bought from big-box stores. Look for IdeaPad models prepped by the Microsoft Store ("Microsoft Signature" versions) if you're dead-set on avoiding preinstalled bloatware.
+
+Note that the screen-size and 0-vs.-5 numbering scheme of the ThinkPads does not apply to the IdeaPads. The 100, 300, 500, and 700 series numbering scheme here is an indicator of relative feature sets and designs; higher is more premium.
+
+See How We Test Laptops
+
+Lenovo also offers a few Chromebooks, which are popular choices for buyers on a budget. Google's Chrome OS is simple to manage and use, since it centers on the Chrome Web browser and related apps. Lenovo's Chromebook lineup includes inexpensive consumer models, as well as more rugged ThinkPad-branded Chromebooks for businesses and schools. (See our picks for our best overall Chromebooks.)
+
+Yoga and Flex: Lenovo's Hybrids
+
+Under the larger ThinkPad and IdeaPad umbrellas falls most of Lenovo's big range of hybrid systems, which can function as both laptops and tablets: the company's Yoga and Flex laptops. The early versions of these machines pioneered the 2-in-1 convertible-laptop movement.
+
+Yoga laptops have the ability to flip into one of four positions: a conventional laptop mode, a video-viewing stand mode, a game-playing tent mode, and a reading-oriented tablet mode. The screen rotates on its hinge around 360 degrees to make this possible. Note that you will find some Yoga models classed as ThinkPad Yogas, indicating their higher-end, business-minded target audience. The Yoga Books, meanwhile, are outliers with the keyboard replaced by a monochrome sketchpad that can convert to a virtual keyboard.
+
+The Flex models, meanwhile, are broadly similar but tend to be cheaper than Yogas. At various times, the Flexes have been their own brand, or marketed underneath the larger IdeaPad line. (At the moment, they are a sub-brand again.)
+
+With these machines, the screen stays attached to the keyboard. In contrast, if you'll want to use your laptop more as a tablet than as a clamshell notebook, you might still run across one of the company's Miix models in certainsales channels, though these are on the way out at this writing. These are consumer-oriented, and generally inexpensive, Windows 10 2-in-1s whose screens detach fully from the keyboard. (See our overall favorite Windows 10 tablets.) Also in the hybrid mix is a ThinkPad X1 Tablet model, which has been through several generations and is a resolutely niche business tablet with one of the best detachable keyboards on the market.
+
+Legion: Meet the New Gamers
+
+Finally, to keep up with the growing popularity of PC gaming, Lenovo launched an all-new laptop line, the Legion family, in 2017. It did this to differentiate its gaming systems from the main IdeaPad line. Before Legion launched, Lenovo's gaming machines lived under the IdeaPad line, designated as "IdeaPad Y" models, and it was hard to differentiate them from the rest of that line by name alone. "Legion" is all-gaming and encompasses both laptops and desktops.
+
+The "Y" designation is still part of the name, though, followed by a three-digit number indicating the relative feature set (not the screen size!). The Legion family's pricing, given the models' specs and feature sets, has been attractive. You'll see Legion laptops in both both 15- and 17-inch screen sizes, and in a mix of distinctive designs, with more features specifically aimed at a gaming audience than the IdeaPad Y models ever had.
+
+You can gauge the relative potency of the machines in the Legion family by their numeration: Y500 series (low), Y700 series (medium), and Y900 series (high).
+
+Ready for Our Recommendations?
+
+For more of our favorite machines (that is, ones outside the Lenovo sphere), check out our 10 favorite laptops overall, as well as our guides to the best cheap laptops and business laptops. But for our current, ever-evolving list of Lenovo favorites, scroll on down.

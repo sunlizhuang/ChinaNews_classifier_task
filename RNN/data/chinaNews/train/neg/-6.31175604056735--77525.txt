@@ -1,0 +1,27 @@
+Australia sues Facebook, alleges breach of user data
+
+SYDNEY: The Australian privacy regulator filed a lawsuit against Facebook, accusing the social media giant of sharing the personal details of more than 300,000 people with political consultant Cambridge Analytica without their knowledge.
+
+In the Federal Court lawsuit, the Australian Information Commissioner accused Facebook of breaching privacy law by disclosing 311,127 users’ information for political profiling via a survey product, ‘This Is Your Digital Life’, on its website.
+
+“The design of the Facebook platform meant that users were unable to exercise reasonable choice and control about how their personal information was disclosed,” Information Commissioner Angelene Falk said in a statement.
+
+The suit sought unspecified damages, adding that each breach of privacy law could draw a maximum penalty of A$1.7 million ($1.1 million). The fine would amount to A$529 billion if the court awarded the maximum for each of the 311,127 instances.
+
+A Facebook spokeswoman said the company had engaged “actively” with the Office of the Information Commissioner over the past two years as part of the investigation.
+
+“We’ve made major changes to our platforms, in consultation with international regulators, to restrict the information available to app developers, implement new governance protocols and build industry-leading controls to help people protect and manage their data,” she said in a statement.
+
+“We’re unable to comment further as this is now before the Federal Court.”
+
+Last July, Facebook was fined a record $5 billion by the US Federal Trade Commission after a probe triggered by the same user personality quiz from 2014 to 2015.
+
+In all, Facebook was accused of inappropriately sharing information belonging to 87 million users globally with the survey tool of now-defunct British firm Cambridge Analytica. The consultancy’s clients included US President Donald Trump’s 2016 election campaign.
+
+In the months after Trump’s election, Cambridge Analytica registered a business in Australia but never went to work for an Australian political party.
+
+In the Australian lawsuit, the Information Commissioner said Facebook did not know the exact nature of the data it shared with Cambridge Analytica’s ‘This Is Your Digital Life’ program, but that it failed to take reasonable steps to protect users’ personal information.
+
+“As a result, the Affected Australian Individuals’ personal information was exposed to the risk of disclosure, monetization and use for political profiling purposes,” the court filing said.
+
+“These breaches amounted to serious and/or repeated interferences with the privacy of the Australian Affected Individuals,” it added.

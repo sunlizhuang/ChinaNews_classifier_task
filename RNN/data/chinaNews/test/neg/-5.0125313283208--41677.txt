@@ -1,0 +1,15 @@
+According to a recent report by Wired, a Canadian AI-driven algorithm called BlueDot sent the first warnings of the coronavirus outbreak in China beating both the CDC and the WHO.
+
+Wired reports that on January 6, the CDC issued a warning about a possible virus outbreak in China, the WHO made a similar announcement on January 9 after a number of pneumonia cases were reported in Wuhan. But both were beaten to the report by a Canadian AI health monitoring platform called BlueDot which sent warnings to customers on December 31, 2019.
+
+BlueDot uses an AI-driven algorithm to search through foreign-language news reports, animal and plant disease networks, and official statements from government bodies in order to warn its clients of danger zones such as Wuhan which has become the center of the coronavirus outbreak in China. Public health officials at the WHO and CDC are forced to rely on reports from Chinese officials — who are often not very forthcoming with information — but BlueDot relies on artificial intelligence that may prove faster than official statements.
+
+Kamran Khan, BlueDot’s founder and CEO, commented on the algorithm stating: “We know that governments may not be relied upon to provide information in a timely fashion. We can pick up news of possible outbreaks, little murmurs or forums or blogs of indications of some kind of unusual events going on.” Khan worked as a hospital infectious disease specialist in Toronto during the SARS epidemic of 2003 and commented on the current coronavirus situation stating: “There’s a bit of deja vu right now. In 2003, I watched the virus overwhelm the city and cripple the hospital. There was an enormous amount of mental and physical fatigue, and I thought, ‘Let’s not do this again.’”
+
+Khan launched BlueDot in 2014 and raised $9.4 million in venture capital funding, the firm now employees 40 people including physicians and programmers who have worked to develop the disease surveillance analytic program that uses natural language processing and machine learning techniques to sort through news reports in 65 languages as well as airline data and animal disease outbreak reports.
+
+“What we have done is use natural language processing and machine learning to train this engine to recognize whether this is an outbreak of anthrax in Mongolia versus a reunion of the heavy metal band Anthrax,” Kahn says.
+
+Read more about BlueDot at Wired here.
+
+Lucas Nolan is a reporter for Breitbart News covering issues of free speech and online censorship. Follow him on Twitter @LucasNolan or email him at lnolan@breitbart.com

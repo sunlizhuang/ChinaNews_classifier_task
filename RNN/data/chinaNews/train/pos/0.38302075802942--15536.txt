@@ -1,0 +1,25 @@
+Tesla blames stock short-seller for 'completely false' claims of unintentional acceleration originally appeared on abcnews.go.com
+
+Tesla is disputing claims that all three models of its electric vehicles could unexpectedly accelerate without the driver taking action.
+
+The car company issued a statement on Monday afternoon, saying a stock short-seller was behind the claims, which resulted in a National Highway Traffic Safety Administration inquiry over the weekend. Short-sellers are investors who borrow shares in a company's stock to sell it on the market with plans of buying it back at a cheaper price later.
+
+MORE: Tesla to open a design center for 'Chinese-style' vehicles in China
+
+"We investigate every single incident where the driver alleges to us that their vehicle accelerated contrary to their input, and in every case where we had the vehicle's data, we confirmed that the car operated as designed," the company said in a statement Monday. "In other words, the car accelerates if, and only if, the driver told it to do so, and it slows or stops when the driver applies the brake."
+
+The NHTSA said it would review the petition that was filed and decide whether to launch a full investigation. The petition covers about 500,000 Tesla Model 3, Model S and Model X vehicles manufactured between 2013 and 2019. The petitioner, Brian Sparks of Berkeley, California, claims Tesla owners had filed 127 government complaints, covering 110 crashes and 52 injuries.
+
+PHOTO: This undated photo provided by Tesla shows the 2019 Model 3. (James Lipman/Tesla Motors via AP) More
+
+NHTSA said it would "carefully review the petition and relevant data," according to a statement released Friday. "The Office of Defects Investigation will conduct a technical analysis and decide whether or not to grant or deny the petition. If the petition is granted, a defect investigation will be opened."
+
+Tesla called the petition "completely false" and said it had previously discussed the majority of the complaints alleged in the petition with the NHTSA. In every case it reviewed, the data proved the vehicle functioned properly, according to Tesla.
+
+MORE: Tesla begins delivery of its first Chinese-made cars
+
+"Unique to Tesla, we also use the Autopilot sensor suite to help distinguish potential pedal misapplications and cut torque to mitigate or prevent accidents when we’re confident the driver’s input was unintentional," Tesla said. "Each system is independent and records data, so we can examine exactly what happened."
+
+"We are transparent with NHTSA, and routinely review customer complaints of unintended acceleration with them," it added.
+
+ABC News' Mina Kaji and Matt Fuhrman contributed to this report.

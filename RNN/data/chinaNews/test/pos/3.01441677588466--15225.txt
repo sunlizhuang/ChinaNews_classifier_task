@@ -1,0 +1,43 @@
+【Technology Development】
+
+Aurora Main-chain development：
+
+1. The ring signature algorithm function has passed testing, and the agent verification has begun. The simulated network partition has been built and edge testing is 80% complete.
+
+2. The TOP agent completed its initial seed node verification interconnection through the signature algorithm and is 75% complete.
+
+3. Protocol Buffers implementation for the transaction structure has integrated into RPC and testing is 100% complete. This feature will replace other functions and is 65% complete.
+
+4. Tentatively adopt a pledge coinage mode to support asset transfer between multiple chains. The testing phase will start immediately.
+
+5. The new multi-asset solution transformation is complete. Its storage optimization and intelligent contract customizable personalized design interface are complete. The testing phase will start immediately.
+
+6. Research multi-chain & cross-chain communication feature interacting with the cross-chain communication protocol is 100% complete. The practical coding stage has started.
+
+7. Research solution where the smart contract data splitting scheme adopting the virtual node data fragmentation mechanism is complete. The development stage has started.
+
+8. Researched QUIC (Quick UDP Internet Connections) communication protocol to optimize message transmission on p2p networks is 20% complete.
+
+9. Investigate zero-knowledge proof zk-SNARKs technology to further enhance the privacy of on-chain transactions.
+
+【Community Development】
+
+Aurora (AOA) has reached strategic cooperation with AllianceX, a well-known Korean blockchain investment institution. AllianceX has successfully incubated well-known Korean blockchain projects such as EXE and VII. AOA has received the attention and high recognition of investment institutions in South Korea. AOA and AllianceX will conduct in-depth cooperation in marketing and brand building.
+
+In December 2019, a representative of Indonesian regulator BAPPEBTI (Badan Pengawas Perdagangan Berjangka Komoditi, or Commodity Futures Trading Authority) visited the Aurora Beijing community. The founder of Achain Galaxy “Tony” Cui Meng received the representatives on behalf of the Achain and Aurora communities and conducted an in-depth discussion with the delegation on the Indonesian cryptocurrency market and market regulations.
+
+Achain Galaxy founder Tony Cui was invited to participate in the recording of the well-known Korean blockchain access program “Coin Interview”. During the visit, the host had a great interest in Achain Galaxy, allowing the general audience to have a deeper understanding of Achain Galaxy and AOA, one of the Achain Galaxy members. After the program was broadcast, the lively discussion attracted blockchain lovers in South Korea.
+
+AOA was invited to participate in the 5th-anniversary celebration event “Super Coin Week” held by Bithumb, the largest exchange in South Korea. During the 7-day event, AOA aroused strong interest from local blockchain practitioners in Korea and its influence in the Korean market is rapidly expanding.
+
+Aurora collaborated with Higgs Network to release Aurora Swap. Aurora Swap is a trading platform that creates liquidity for everyone, solving the current liquidity problem of cryptocurrency transactions. No matter how large the order or how small the liquidity pool, Aurora Swap can provide sufficient liquidity. In addition, it also provides users with dividends, arbitrage, and other solutions.
+
+Overseas blockchain media Blockmanity released news, “Aurora (AOA) Partners with Crypto Fund Alliance X, Solidifying a Strong Presence in the Korean market”, which reviews the cooperation of Achain member AOA with different industries. Blockmanity pointed out that AOA has penetrated the front line of the Korean market by connecting different industries together.
+
+Achain was invited to participate in the domestic public chain round table forum at the 2019 World Blockchain Digital Technology Conference. This conference focused on the use case of blockchain technology, mining ecology, and application ecology strategies.
+
+Aurora was invited to participate in the Hainan Free Trade Port Digital Economy and Blockchain International Cooperation Forum. This forum is the world’s first ministerial blockchain forum including representatives from various countries, experts and scholars in the digital economy. Company representatives discussed the nature and application of innovation blockchain fields of technology in the new era at home and abroad.
+
+Aurora was invited to participate in the Blockchain Summit Forum themed, “The Future of the Future Blockchain 2020” to discuss the future blockchain development trends with industry representatives.
+
+Aurora Overseas Twitter held a Christmas lucky airdrop event, with 1000+ overseas community members participating. The winners are being processed.

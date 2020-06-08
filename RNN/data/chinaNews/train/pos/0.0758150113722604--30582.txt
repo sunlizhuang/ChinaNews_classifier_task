@@ -1,0 +1,109 @@
+How the world is gearing up to fight antibiotic resistance
+
+A patient receives medicine for multidrug-resistant tuberculosis; about 78 per cent TB patients are multidrug resistant, according to the Global Tuberculosis Report 2019 (Photograph: Reuters)
+
+Urmi Bajpai, an associate professor at the department of Biomedical Sciences, Acharya NarendraDev College in south Delhi’s Govindpuri and her students, are finding bacteriophages — viruses that can kill the bacteria — from soil samples collected from some of the dirtiest corners of the city.
+
+From the genetic sequences of these bacteriophages, they hope to find enzymes that could lead to cures for multidrug resistant TB — over half a million new cases of rifampicin-resistant TB were reported globally in 2018. Of these, 78 per cent were multidrug resistant TB patients according to the Global Tuberculosis Report 2019.
+
+Gopal Nath, who is head of the department of microbiology at the Institute of Medical Sciences at the Banaras Hindu University, Varanasi, is testing bacteriophages through clinical trials to treat chronic wounds that don’t respond to standard treatment. When tested on 20 patients with chronic non-healing wounds, seven patients were completely healed within 21 days.
+
+In the United States, biotech giant PhagePro, is planning to test their product, ProphaLytic-VC, against strains of cholera. Research on alternatives has become critical considering that many pharmaceutical companies have abandoned R&D in antibiotics. The 2017 Antibacterial Clinical Pipeline Report of the World Health Organization (WHO) revealed that there are only a few innovative antibiotics in developmental stages.
+
+As the world wakes up to the fact that failure to control AMR could lead to economic losses equivalent to $100 trillion by 2050, action against antibiotic resistance is mounting both at the local and global levels. From finding new treatments to ensure existing drugs are used judiciously to reduce the inappropriate use of antibiotics, it is a multidimensional battle in which each of us has a role to play.
+
+South Africa, which reported its first case of MDR-TB before 2000, has found success in shorter treatment protocols. Usually, MDR-TB patients have to undergo treatment for 24 months, but South Africa has shifted to new oral drugs which translate to shorter, injection-free treatment of nine months.
+
+According to Norbert Ndjeka, director of drug-resistant TB, TB and HIV, in South Africa’s department of health, 67 per cent of MDR-TB patients are now treated successfully compared to 40 per cent a decade ago.
+
+South Africa has also adopted decentralised healthcare since 2011 for TB patients. Now patients can access diagnoses and treatment close to where they live, and even receive it at their homes. “These days only very sick, bedridden patients or those who react badly to medication are admitted to TB hospitals,” says Jacques Cronje, medical manager of Sonstraal TB hospital in Paarl, a town in the Western Cape province.
+
+China too launched action on AMR way back in 2005 when the country launched two major networks to keep track of antibiotic resistance — China Antimicrobial Resistance Surveillance System (CARSS) and the China Antimicrobial Surveillance Network (CHINET). While the former collects data on antibiotic usage, the latter is a database of bacterial resistance collected from 960 million people. In 2011, China launched a special campaign aimed at “rational use of antimicrobials in healthcare systems”.
+
+Authorities set targets to reduce antibiotic prescriptions — they should make up less than 60 per cent of all prescriptions for hospitalised patients, and less than 20 per cent for outpatients. For Mao Yuan, a doctor at Hegang People’s Hospital in Heilongjiang Province, the policy changed the mindset of both medical staff and patients.
+
+“We realised as doctors that our role is not only to diagnose patients, but also patiently explain to them why they don’t need antibiotics,” she says.
+
+
+
+
+
+To reduce heavy antibiotic use in animal farms, China has established an animal health administration system to monitor, supervise and provide assistance to farmers regarding the use of chemicals.
+
+In 2015, the Union Ministry of Agriculture (MoA) banned the use of four antimicrobials — lomefloxacine, pefloxacine, ofloxacin, norfloxacin in animals. Colistin sulphate was prohibited as a feed additive in 2017. China is be one of the biggest manufacturers of antibiotics and has taken steps to ensure antibiotic residues do not make their way into the environment. To control effluents released by the antibiotic manufacturers, China issued strict guidelines in the National Action Plan 2016. The norms made Environmental Impact Assessment more stringent.
+
+But global action came only in 2015, when it was recognised that AMR could derail the progress towards meeting the sustainable development goals (SDG), mandated by the United Nation.
+
+To ensure all countries had coordinated action on antibiotic resistance, WHO, along with the Food and Agriculture Organization (FAO) and the World Organisation for Animal Health (OIE) proposed the Global Action Plan on antimicrobial resistance at the 68th World Health Assembly in May 2015, which urged member nations to develop national action plans on antimicrobial resistance by 2017.
+
+WHO, FAO and OIE provided a common template which the countries could use and prepare their National Action Plans (NAP) suited to domestic conditions. By January 2019, 117 countries had prepared NAPs, and another 62 had plans in progress.
+
+In response, China roped in 14 ministries to initiate a five-year national action plan from 2016 to 2020 in continuation with their existing plans. The 2019 annual report from CARSS shows a significant decrease in antimicrobial consumption in the country.
+
+Among inpatients in hospitals, usage decreased 0.5 percentage points from 36.9 per cent in 2018. The decadal comparison shows a much stronger picture; it declined from 59.4 per cent in 2011 to 36.4 per cent in 2018. The use of antibiotics in surgeries decreased from 41.5 per cent in 2011 to 21.9 per cent in 2018.
+
+However, antibiotic use in tertiary general hospitals remains high. “In the case of China, population and geographical size make the job of tackling the antibiotic resistance a challenging one. But the slowdown in antibiotics consumption is happening with the joint action by government, medical staff including doctors and even patients,” CK Lee of the World Health Organization China Office told Down To Earth. But it took the country more than a decade to achieve this.
+
+India too worked quickly in 2015 to prepare the NAP on AMR. It set up the Intersectoral Coordination Committee, Technical Advisory Group and Core Working Group on AMR for technical coordination and oversight in September 2016 and the National Action Plan on Antimicrobial Resistance (NAP-AMR) was released by this group on April 20, 2017.
+
+The National Health Policy, 2017, also addressed AMR and gave priority to the development of guidelines on antibiotic use. To promote appropriate use of antibiotics in humans, the Red Line campaign was launched in India in February 2016 to curb over-the-counter sale of antibiotics. Under this campaign, a red line is printed on antibiotic packages as warning.
+
+Most countries in Africa started working on AMR only after WHO’s intervention. In November 2016, an AMR coordinating body was set at the Nigeria Centre for Disease Control (NCDC). In January 2017, the “One-Health” AMR Technical Working Group was launched to conduct a situation analysis on AMR and the NCDC developed the Antimicrobial Resistance National Action Plan (AMR-NAP).
+
+Inweregbu Stella of NCDC says the government conducted a situation analysis in 2017 and found there was no AMR laboratory surveillance system, no dedicated funding to control AMR and limited collaboration among the health, animal-health and environmental health sectors on AMR. Since then, NCDC has established nine surveillance sites to begin collection of AMR data.
+
+Zambia too has prepared an elaborate Multisectoral National Action Plan, which was launched in November 2017. One of the focus areas of Zambia’s NAP is to collect high quality data on the prevalence of AMR and drug resistant infections and on the use of antimicrobial medicines in humans and animals.
+
+The Zambia National Public Health Institute, the technical disease intelligence arm of the ministry of health is establishing a national public health laboratory network that will further improve the ability to monitor AMR.
+
+“We have mounted a very effective surveillance system, which at hospital level, routinely collects specimens to check how effective our drugs are to the various diseases,” says Kennedy Malama, permanent secretary, Ministry of Health.
+
+This has already yielded results as data shows that while there is resistance to some antibiotic drugs in one part of the country, the same drug continues to be effective in other parts. The country has also strengthened the surveillance system through the Zambia National Health Strategic Plan (2017-2021), which has proposed that laboratory services will be set in hospitals and health centres across the country.
+
+Additionally, the Ministry of Health also provides point of care testing to the rest of the health centres and some health posts as part of the National Biomedical Laboratory Strategic Plan 2018-2022. The country has also put in place systems to monitor the environment.
+
+Ghana launched its National Action Plan in 2017, which will ensure collaboration between various ministries. The policy and action plan regulates efforts to improve awareness and knowledge of AMR; provide evidence-based knowledge to reduce the burden of AMR; reduce the occurrence of infections in establishments; optimise the use of antimicrobials in animal and human health; and, create an enabling environment for sustainable investment in AMR reduction.
+
+To back the implementation of the AMR policy, President Nana Akufo-Addo has asked the Ministry of Health and the Attorney-General Department to move selected aspects of the policy into legislation.
+
+Some of the features in the policy could become legislation and this may include rules regarding prescribing of antibiotics and good laboratory practices and restricting the use of antibiotics in animal husbandry. This action according to Angela Ama Ackon, deputy director, Ministry of Health is a display of high level of commitment by the government to combat the threat of AMR in the country.
+
+
+
+
+
+The interagency coordination Group (IACG) on AMR was set up in 2016 by the UN to formulate a blueprint to fight against antimicrobial resistance. It recommended a “One Health” response in April 2019 to deal with the problem. One Health approach keeps humans, animals, the foodchain, the environment, and the inter-connectedness between them as one entity while taking step to fight the problem.
+
+Under this, while the countries will need to ensure that those who need antimicrobials, vaccines and diagnostics should not be deprived, at the same time, their use for growth promotion in animals and agriculture has to be phased out. The group also recommended that funds should be made available to increase innovation in new antimicrobials, diagnostics, vaccines and waste management tools.
+
+In 2018, an assessment of NAPs by IACG pointed out that more than formulating action plans, implementation is a challenge, especially in resource-constrained settings of low- and middle-income countries. The group identified the major challenges in implementation — lack of awareness and political will, finance, coordination, monitoring and data and technical capacity.
+
+To ensure implementation, IACG suggested that interventions must be mainstreamed into broader health, agricultural and environmental projects. Availability of funds is also crucial for the success of the NAP. Moreover, increased regional cooperation is essential for the effective implementation of NAPs.
+
+The world has taken a multipronged attack on AMR. In May 2018, the Global Antimicrobial Resistance Research and Development Hub was launched during the 71st session of the World Health Assembly to help countries decide the allocation of resources for R&D on AMR by identifying gaps and overlaps.
+
+It will also promote coordination among governments in the fight against AMR. In September 2019, India joined the partnership that has 16 countries, the European Commission, two philanthropic foundations and four international organisations (as observers).
+
+The hub proposes to develop a dynamic dashboard, establish operational activities and procedures and engage experts in adhoc expert advisory groups to understand the range of R&D incentives and gaps in the incen tive toolbox.
+
+In June 2019, FAO, OIE and WHO launched the AMR Multi-Partner Trust Fund to scale up efforts to support countries to counter the threat of AMR. The AMR Trust Fund has a five-year scope (through 2024) and has received an initial contribution of US $5 million from the Government of the Netherlands. The immediate funding requirement is $70 million, which will provide technical support to countries designing NAPs and scale up local action.
+
+To achieve this countries could also modify their NAPs based on learnings from within and outside the country. The Centre for Science and Environment, a New Delhi-based non-profit, is working with the Zambian government to improve implementation of their NAP. It has helped the country to reprioritise NAP based on current ground level scenario, implementation progress and available resources.
+
+It also provides an understanding of how each sector — human health, animal and environment — perceive each activity and what timeline each would prefer to implement them. The two stakeholders have also worked on AMR surveillance.
+
+A five-year roadmap to phase-out antibiotic misuse in food-animal sector, particularly non-therapeutic antibiotic use and use of critically important antibiotics in therapeutic applications has been developed as well.
+
+Evidence of the rampant misuse of antibiotics is overwhelming. The question is how to ensure that medical practitioners and people know what is “right” for their health. We should ensure that doctors do not over-prescribe; people do not misuse.
+
+In India, Gurugram-based Public Health Foundation of India showed that prescription rate of antibiotics in India is 412 per 1,000 persons per year. This is less than other countries like Italy (957 prescriptions per 1,000 persons), Germany (561 prescriptions per 1,000 persons) and the UK (555 prescriptions per 1,000 persons).
+
+However, when it comes to third and fourth-line of antibiotics, India beats others. The percentage of prescriptions with cephalosporins and quinolones (38.2 per cent and 16.3 per cent) in India is significantly higher than in the US (14 per cent and 12.7 per cent). The third-line of antibiotics, which should be prescribed only at the hospital level, are prescribed at the primary care level in India.
+
+These antibiotics make their way into the environment and trigger resistance. It is clear that environmental triggers to antibiotic resistance have to be urgently controlled. There are many alternatives to antibiotics and they are cost-effective too. There are also methods to treat antibiotic residues in effluents from industry and homes and these should be installed.
+
+An opportunity lies in SDGs. The environmental dimensions that support AMR are part of SDGs. Though antibiotic resistance has not been given adequate attention in SDGs, course correction is underway. In 2019, WHO proposed to track two priority pathogens in bloodstream infections, namely E coli and Staphylococcus aureus to serve as sentinels of progress. This indicator connects the Monitoring and Evaluation Framework put together by WHO, FAO and OIE.
+
+This indicator is part of SDG 3(d), which is to strengthen the capacity of countries for early warning, risk reduction and management of national and global health risks. While using AMR as an indicator to track progress on SDGs is an important stepping stone, we must keep in mind the fact that only 10 years are available for efforts to take effect on the ground. However, the very fact that there are multiple areas in the SDGs where action on AMR can take place is an opportunity.
+
+This was first published in Down To Earth's print edition (dated 16-31 January, 2020)

@@ -1,0 +1,121 @@
+Australian consumers may never see a fourth player in Australia's mobile market, so are we worse off?
+
+Posted
+
+Australia's mobile market is expected to be left with just three main players this year: Telstra, Optus, and a newly combined Vodafone-TPG.
+
+Yesterday the $15 billion merger between Vodafone and TPG was given the green light by the Federal Court.
+
+Once the duo get Foreign Investment Review Board approval (a likely outcome), the merged entity won't just be competing with Telstra and Optus on mobile.
+
+It will be competing in every part of the telco market, including mobile, residential fixed line, enterprise and NBN resale.
+
+Whether this results in higher prices (what the competition watchdog argues will happen), or better quality services (what Vodafone's boss Inaki Berroeta says will happen), is unclear.
+
+One can only look at the outcomes that currently exist in other concentrated markets.
+
+As the Australian Competition and Consumer Commission (ACCC) has argued, it is often the case that in highly-concentrated markets, consumers lose out.
+
+What can history tell us?
+
+The state of play has shifted dramatically since April 2017 when Australians were on the cusp of getting a fourth mobile player.
+
+Back then 5G was not yet on offer, and the hope was that TPG, the successful telco led by the secretive Malaysian-born billionaire David Teoh, would build it and cheaper prices would eventuate.
+
+Mr Teoh had spent $1.26 billion on the spectrum needed to build a 4G mobile network.
+
+He pledged to spend $600 million over three years building a network that would cover 80 per cent of the population.
+
+But in January 2019 TPG announced it had abandoned its plans.
+
+It said the Federal Government's decision announced on August 23, 2018 to ban the use of equipment from Chinese manufacturer Huawei, was the main reason.
+
+In Mr Teoh's view, it no longer made commercial sense to keep pouring money into building the network.
+
+So days after the Huawei announcement (on August 30, 2018) TPG and Vodafone announced they would proceed with a merger that would give them greater might to tackle Telstra and Optus.
+
+ACCC boss Rod Sims expressed reservations about the proposed merger at the time, and in May last year the ACCC blocked the merger arguing that fewer players in the market would substantially reduce competition and leave consumers worse off.
+
+Justice John Middleton, who on Thursday handed down his decision to approve the merger in Melbourne's Federal Court, gave enormous weight to Mr Teoh's evidence during the hearings.
+
+He ultimately took Mr Teoh at his word there was no real chance that TPG would revive its mobile ambitions.
+
+Or as Justice Middleton put it, quoting the words of the industry participants who gave evidence during the hearing, "TPG's ship has sailed in the retail mobile market in Australia".
+
+So why did the ACCC case against a Vodafone-TPG merger fail?
+
+The ACCC had argued in court that if the two companies were prevented from merging, TPG would go ahead and build a fourth network anyway, and therefore this would mean lower prices for consumers.
+
+But the Court disagreed.
+
+"It is abundantly clear that if Mr Teoh does not vote in favour of a roll-out it will not occur," Justice Middleton said.
+
+He stressed that he was "very aware of the care that must be taken in accepting self-serving statements by interested parties and industry participants", but that he found Mr Teoh to be a credible witness.
+
+Justice Middleton also stated that "it is not necessarily the number of competitors that are in the relevant market, but the quality of competition that must be assessed".
+
+"Further, it is not for the ACCC or this court to engineer a competitive outcome."
+
+In other words, the court can only decide on what currently is, not what may be in years to come.
+
+While the judge could not say with absolute certainty that Mr Teoh and TPG would not change their minds, he said "it is extremely unlikely and there is no real chance of this happening in the next five years".
+
+"A merger would not now, and would not likely in the relevant future, substantially lessen competition in the supply of retail mobile services in Australia," Justice Middleton said.
+
+'Triopolies are not good for competition'
+
+But a former ACCC boss, Allan Fels, said the decision would disadvantage consumers.
+
+"I don't believe this decision would have been made in serious jurisdictions like the United States or Europe," he told ABC News late on Thursday after the Federal Court decision was handed down.
+
+"A reduction from four to three [players] is generally a source of reduced competition," Professor Fels said.
+
+"The judge relied far too heavily on the evidence of one businessman [Mr Teoh] with a big self-interest."
+
+Professor Fels said this and other court decisions on mergers add to Australia's economy being even more concentrated.
+
+"It's time for Parliament to step in and give legislative guidance to the courts to get tougher on mergers," he said.
+
+The ACCC opposes very few mergers and does so only when it believes there is a serious harm to competition.
+
+"The judge has greatly understated the capacity of TPG and Vodafone to compete and expand strongly on their own," Professor Fels said.
+
+"We have a triopoly and triopolies are not good for competition."
+
+"It's much easier to not compete — to collude and collaborate — in a concentrated setting.
+
+"I wouldn't leave it to a concentrated market like this one to engineer competition — it will engineer it to be anti-competitive."
+
+Parliament called on to review merger laws
+
+It is unlikely Parliament will pass laws calling for the courts to toughen the stance on mergers.
+
+Minister for Communications, Cyber Safety and the Arts, Paul Fletcher, said the Vodafone-TPG merger was "likely to bring greater competition in the market, in turn delivering benefits to consumers".
+
+"I have never thought the prospect of a fourth entrant establishing a sustainable business was very great," Mr Fletcher said.
+
+He noted that One.Tel in the late 1990s and Hutchison some years later had both failed to "sustain themselves as fourth entrants in the market".
+
+On Thursday there was a sense of relief from the business community over the court's decision.
+
+Mr Sims, who has long argued there needs to be a review of merger laws, does not regret taking on the court case, and has vowed the ACCC will keep fighting businesses in court.
+
+"If the ACCC won 100 per cent of the cases we took it would be a sign we weren't doing our job properly; by only picking 'safe' cases and not standing up for what we believe in," he said on Thursday.
+
+While the ACCC is still considering the judgement and whether to appeal, Mr Sims said Australian consumers had lost "a once-in-a-generation opportunity for stronger competition and cheaper mobile telecommunications services".
+
+But Moody's Investors Service's Ian Chitterer said the merged entity would be much better positioned to compete as a credible third player in the Australian telco market, although he did not think it would dent the stronghold of Telstra and Optus.
+
+"While we believe that the new entity's pricing will be competitive, the extent to which it will be willing to discount will be limited by its need to protect the average revenue per user of Vodafone's existing subscriber base of around 6 million mobile users," he said.
+
+"It will also have to fund the incremental costs that have arisen as a result of Australia's Huawei ban."
+
+Vodafone boss Inaki Berroeta, who will lead the merged group, with Mr Teoh filling the role of non-executive chairman, said that as the judge had made clear, what mattered was not the number of players in the market, but the quality of services.
+
+Mr Berroeta said the 18-month court process had given "free kicks" to competitors but the company could now move forward with its plans to build 5G.
+
+"We have ambitious 5G rollout plans and the more quickly the merger can proceed, the faster we can deliver better competitive outcomes for Australian consumers and businesses," Mr Berroeta said.
+
+Mr Teoh on Thursday released an ASX statement but, true to style, gave no interviews.
+
+Topics: business-economics-and-finance, telecommunications, internet-technology, regulation, federal-government, consumer-protection, australia

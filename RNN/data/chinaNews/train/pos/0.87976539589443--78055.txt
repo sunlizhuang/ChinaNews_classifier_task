@@ -1,0 +1,31 @@
+Researchers from The University of Texas at Austin and the National Institutes of Health have made a critical breakthrough toward developing a vaccine for the 2019 novel coronavirus by creating the first 3D atomic scale map of the part of the virus that attaches to and infects human cells.
+
+Mapping this part, called the spike protein, is an essential step so researchers around the world can develop vaccines and antiviral drugs to combat the virus. The paper is publishing Wednesday, Feb. 19 in the journal Science.
+
+The scientific team is also working on a related viable vaccine candidate stemming from the research.
+
+Jason McLellan, associate professor at UT Austin who led the research, and his colleagues have spent many years studying other coronaviruses, including SARS-CoV and MERS-CoV. They had already developed methods for locking coronavirus spike proteins into a shape that made them easier to analyze and could effectively turn them into candidates for vaccines. This experience gave them an advantage over other research teams studying the novel virus.
+
+"As soon as we knew this was a coronavirus, we felt we had to jump at it," McLellan said, "because we could be one of the first ones to get this structure. We knew exactly what mutations to put into this, because we've already shown these mutations work for a bunch of other coronaviruses."
+
+The bulk of the research was carried out by the study's co-first authors, Ph.D. student Daniel Wrapp and research associate Nianshuang Wang, both at UT Austin.
+
+Just two weeks after receiving the genome sequence of the virus from Chinese researchers, the team had designed and produced samples of their stabilized spike protein. It took about 12 more days to reconstruct the 3D atomic scale map, called a molecular structure, of the spike protein and submit a manuscript to Science, which expedited its peer review process. The many steps involved in this process would typically take months to accomplish.
+
+Critical to the success was state-of-the-art technology known as cryogenic electron microscopy (cryo-EM) in UT Austin's new Sauer Laboratory for Structural Biology. Cryo-EM allows researchers to make atomic-scale 3D models of cellular structures, molecules and viruses.
+
+"We ended up being the first ones in part due to the infrastructure at the Sauer Lab," McLellan said. "It highlights the importance of funding basic research facilities."
+
+The molecule the team produced, and for which they obtained a structure, represents only the extracellular portion of the spike protein, but it is enough to elicit an immune response in people, and thus serve as a vaccine.
+
+Next, McLellan's team plans to use their molecule to pursue another line of attack against the virus that causes COVID-19, using the molecule as a "probe" to isolate naturally produced antibodies from patients who have been infected with the novel coronavirus and successfully recovered. In large enough quantities, these antibodies could help treat a coronavirus infection soon after exposure. For example, the antibodies could protect soldiers or health care workers sent into an area with high infection rates on too short notice for the immunity from a vaccine to take effect.
+
+Barney Graham, deputy director of the NIH's Vaccine Research Center (VRC) in Bethesda, Maryland, helped supervise experiments and co-write the manuscript.
+
+###
+
+The study's other co-authors are Kizzmekia Corbett and Olubukola Abiona at the VRC; and Jory Goldsmith and Ching-Lin Hsieh at UT Austin.
+
+Wang, Corbett, Graham and McLellan are inventors on a U.S. patent application for the structure of coronavirus spike proteins in the prefusion conformation and their use in therapeutics. Wrapp, Wang, Corbett, Abiona, Graham and McLellan are inventors on a U.S. patent application for the vaccine candidate described in this release.
+
+This work was supported in part by the National Institutes of Health and the National Institute of Allergy and Infectious Diseases. The Sauer Structural Biology Laboratory is supported by The University of Texas at Austin's College of Natural Sciences and by the Cancer Prevention and Research Institute of Texas (CPRIT).

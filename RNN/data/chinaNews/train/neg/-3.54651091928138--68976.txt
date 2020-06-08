@@ -1,0 +1,25 @@
+Since its inception in 2018, Chinese social networking app TikTok has become widely popular among American users between the ages of 16 and 24. In truth, the app’s reach extends beyond China and the U.S. — more than 1.5 billion people use TikTok globally. The app, which allows users to create short, comedic clips set to music, has become so popular that celebrities, including Cardi B and the Jonas Brothers, have been vying with one another for followers.
+
+Cybersecurity experts and lawmakers, however, have expressed concerns over TikTok, which is owned by Beijing-based technology company ByteDance and has allegedly censored topics considered sensitive by the Chinese Communist Party. In January 2020, Check Point Research revealed several security risks that TikTok says it has since addressed. Those vulnerabilities would have allowed hackers to access accounts, delete videos, upload unauthorized clips and reveal personal information attached to the accounts, according to the cyberthreat research group.
+
+“The research presented here shows the risks associated with one of the most popular and widely used social apps in the world,” Check Point noted in its report. “Such risks enforce the essential need for privacy and data security in the cyber world we live in. Data breaches are becoming an epidemic.”
+
+The unease over TikTok, in fact, dates back to as early as October 2019, when members of the U.S. Congress also issued their warnings over the app’s use. That month, Senator Marco Rubio, of Florida, wrote a letter to Treasury Secretary Steve Mnuchin, calling for an investigation into TikTok over its censorship practices.
+
+“The Chinese government’s nefarious efforts to censor information inside free societies around the world cannot be accepted and pose serious long-term challenges to the U.S. and our allies,” Rubio wrote.
+
+Senators Chuck Schumer and Tom Cotton, of New York and Arkansas respectively, later followed up with a letter of their own to then Acting Director of National Intelligence Joseph Maguire, requesting an inquiry into the national security risks that TikTok posed.
+
+“TikTok’s terms of service and privacy policies describe how it collects data from its users and their devices, including user content and communications, IP address, location-related data, device identifiers, cookies, metadata, and other sensitive personal information,” the senators wrote. “While the company has stated that TikTok does not operate in China and stores U.S. user data in the U.S., ByteDance is still required to adhere to the laws of China.”
+
+In November 2019, Reuters reported that the U.S. government — under pressure from several lawmakers (including those aforementioned in this article) — officially launched an investigation into ByteDance’s billion-dollar acquisition of American social media app Musical.ly, which the tech company later rebranded as TikTok. In an effort to quell concerns at the time, TikTok had repeatedly insisted that China did not have any jurisdiction over the app’s content, adding that the app itself did not operate out of China.
+
+Yet, TikTok’s attempt to put authorities at ease was futile — the following month (in December 2019), the U.S. Army banned soldiers from using TikTok, citing guidelines the Pentagon rolled out.
+
+“It is considered a cyber threat,” Lt. Col. Robin Ochoa, an Army spokeswoman, explained to Military.com at the time. “We do not allow it on government phones.”
+
+In light of the security flaws and accusations, TikTok has continuously maintained that it has done its due diligence in following U.S. regulations.
+
+“TikTok has made it clear that we have no higher priority than earning the trust of users and regulators in the US,” a TikTok spokesperson told Vox. “Part of that includes working with Congress and we are committed to doing so. At the start of 2019 TikTok US brought in a country general manager and a US Head of Trust and Safety who have autonomy over moderation policies. It does not restrict videos based on political content.”
+
+All of this is to say that users should probably treat TikTok with caution like they would with any other social platform (read: Facebook, Twitter, etc.). Almost all of these platforms are vulnerable to security flaws, and anyone who decides to open a TikTok account should know fully well what they are getting into. While social media is a great tool to connect with friends and strangers alike, it should never be mistaken as a safe space for personal content.

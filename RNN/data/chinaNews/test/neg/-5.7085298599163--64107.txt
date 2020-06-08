@@ -1,0 +1,75 @@
+(Bloomberg) -- The new coronavirus might have infected at least 500,000 people in Wuhan, the Chinese city at the epicenter of the global outbreak, by the time it peaks in coming weeks. But most of those people won’t know it.
+
+The typically bustling megacity, where the so-called 2019-nCoV virus emerged late last year, has been in effective lockdown since Jan. 23, restricting the movement of 11 million people. Recent trends in reported cases in Wuhan broadly support the preliminary mathematical modeling the London School of Hygiene & Tropical Medicine is using to predict the epidemic’s transmission dynamics.
+
+© Photographer: Getty Images/Getty Images AsiaPac Daily Life In Wuhan During Lockdown
+
+Cyclists ride on an empty street in Wuhan on Feb. 8.
+
+Photographer: Getty Images
+
+“Assuming current trends continue, we’re still projecting a mid-to-late-February peak” of virus cases in Wuhan, Adam Kucharski, an associate professor of infectious disease epidemiology, said by email Sunday. “There’s a lot of uncertainty, so I’m cautious about picking out a single value for the peak, but it’s possible based on current data we might see a peak prevalence over 5%.”
+
+That would potentially mean at least 1 in 20 people would have been infected in the city by the time the epidemic peaks, Kucharski said, adding that this may change if transmission patterns slow in coming days. The prediction doesn’t indicate a coming surge in cases in Wuhan, but that the current cumulative total doesn’t reflect all infections, especially mild ones, that have occurred.
+
+Slowing Spread
+
+Health authorities in China and around the world are anxiously waiting to know whether the world’s largest known quarantine effort has been effective in slowing the spread of the pneumonia-causing virus in Wuhan and across other cities in Hubei province, a landlocked region of 60 million people.
+
+Mapping the Coronavirus Outbreak Across the World
+
+Kucharski, whose research focuses on the dynamics of infectious diseases, and colleagues have based their modeling on a range of assumptions about the 2019-nCoV virus. These include an incubation period of 5.2 days, a delay from the onset of symptoms to confirmation of infection of 6.1 days, and about 10 million people being at risk of infection in Wuhan.
+
+Based on that, a prevalence of 5% equates to about 500,000 cumulative infections. That’s many times more than the 16,902 cases provincial health authorities had counted in Wuhan as of midnight Sunday.
+
+Researchers will gauge the proportion of people in the population who have been infected with 2019-nCoV after a test becomes available that enables them to conduct a so-called serosurvey to identify those whose blood contains antibodies produced in response to exposure to the virus.
+
+By comparison, about 10% of the population may be infected with influenza during severe epidemics, and typically 1-2% catch the respiratory virus in a normal year, said Ian Barr, deputy director of the World Health Organization’s Collaborating Center for Reference and Research on Influenza in Melbourne.
+
+‘Vastly Underestimated’
+
+Currently, the true number of people exposed to the 2019-nCoV virus in Wuhan “may be vastly underestimated,” Manuel Battegay and colleagues at the University of Basel in Switzerland said in a study published Friday. “With a focus on thousands of serious cases, mild or asymptomatic courses that possibly account for the bulk of the 2019-nCoV infections might remain largely unrecognized, in particular during the influenza season.”
+
+Authorities in China have counted more than 40,000 cases -- of which more than 900 have been fatal -- over the past two months. Official statistics are likely a “severe underestimate of the total,” Battegay and colleagues said, adding that “accounting for this underestimate will decrease the case fatality rate.”
+
+In the first 17,000 or so cases, about 82% are mild, 15% severe and 3% critical, the WHO said Friday. Of 138 patients admitted to Zhongnan Hospital of Wuhan University in the first four weeks of January, 26% were placed in intensive care and 4.3% died, a study in the Journal of the American Medical Association published Friday found.
+
+Not So Deadly
+
+While the fast-moving, infectious coronavirus has caused thousands of people to fall gravely ill and overwhelm hospitals, once researchers understand the full spectrum of illness associated with the virus, the overall case-fatality risk is likely to be much less than 1%, said Ian Lipkin, director of the Center for Infection and Immunity at Columbia University’s Mailman School of Public Health in New York.
+
+People with mild or no apparent symptoms aren’t currently being counted among cases, he told reporters Sunday. A slowdown in the increase in reported cases over the past few days is “meaningful,” according to Lipkin, who recently returned to the U.S. from China, where he was advising on the outbreak. He spoke with journalists during a 14-day home quarantine.
+
+If measures taken so far to contain the outbreak are effective, some “dramatic reductions” in infections should be observed in the third or fourth weeks of February, he said. Warmer, early-spring weather might also impede transmission, he said.
+
+What You Need to Know About the Spreading Coronavirus
+
+Some studies indicate an infected person may not display symptoms for 14 days or more, with testing and confirmation of cases adding to delays. This will prolong the time it will take to identify whether China’s unprecedented disease-control measures have worked.
+
+Next Weeks ‘Critical’
+
+“The next two weeks are really critical to understand what’s been happening,” said Benjamin Cowling, head of epidemiology and biostatistics at the University of Hong Kong, in an interview in Melbourne on Thursday. “And, is this going to spread into other locations, or have we avoided what could be a global pandemic because of the control measures that have been implemented to date?”
+
+The number of cases reported in Wuhan and across Hubei province has been tracking downward over the past several days.
+
+“There has been a stabilization in the number of cases reported from Hubei, and we’re in a four-day stable period where the number of reported cases hasn’t advanced,” Mike Ryan, executive director of the WHO’s Health Emergencies Program, told reporters in Geneva Saturday. “That’s good news and may reflect the impact of the control measures that have been put in place.”
+
+© Bloomberg Watch and Wait
+
+There has been a “low, but steady incidence” of infections in places outside Hubei, Ryan said. It’s unclear which of those provinces may control the disease or where it might escalate, he said.
+
+“We hope that the same stabilization that appears to be occurring in Wuhan also occurs outside,” Ryan said. “But, again it’s very, very, very early to make any predictions about numbers.”
+
+“This is still a very intense disease outbreak in Wuhan and Hubei, and there are still great risks in practically all of the other provinces, so we will wait and see,” he said.
+
+(Adds context in first paragraph, adds researcher’s comments in ninth.)
+
+--With assistance from James Mayger and Dominic Lau.
+
+To contact the reporter on this story: Jason Gale in Melbourne at j.gale@bloomberg.net
+
+To contact the editors responsible for this story: Emma O'Brien at eobrien6@bloomberg.net, Shamim Adam
+
+For more articles like this, please visit us at bloomberg.com
+
+©2020 Bloomberg L.P.

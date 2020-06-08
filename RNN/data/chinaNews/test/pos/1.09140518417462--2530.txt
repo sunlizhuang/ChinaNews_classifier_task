@@ -1,0 +1,33 @@
+LAS VEGAS, U.S. -- Chinese consumer electronics makers say they are keen to work with Google, Amazon and other U.S. tech giants on smart homes and connected devices despite ongoing political tensions and American "skepticism."
+
+TCL unveiled plans to create its own smart home hub -- TCL Home -- at the CES electronics trade show in Las Vegas on Monday. The company stressed that it does not view Apple, Google or Amazon as competitors in this field, and said it is in fact working with the latter two to integrate their voice assistants into its TVs.
+
+"We are building a smart home ecosystem with an open attitude," said Harry Wu, general manager of TCL's overseas business. As one of the world's largest TV manufacturers, "I think our market size and share is attractive for American companies to include us in their [internet of things] systems," said Wu.
+
+Li Yang, vice president of appliance-maker Haier, said his company is also working with tech giants in the U.S. Asked about political tensions and sensitivities around technology transfers, Li echoed Wu, saying, "We are open."
+
+Other Chinese brands, including Hisense and Skyworth, were mentioned at CES for their products' compatibility with Google and Amazon services.
+
+Chinese makers' appeals for cooperation and openness come as the world waits to see whether the U.S. and China will sign a phase-one trade deal next week. The lingering trade war and sanctions against Huawei have complicated the relationship between American and Chinese tech industries.
+
+At the same time, smart homes, connected devices and voice recognition have become hot topics in consumer tech, raising issues of privacy, security and compatibility, particularly across borders. Many Chinese device makers are keen to team up with Google, Apple and Amazon, who have emerged as the major providers of smart home platforms and artificial intelligence technologies.
+
+In December, Google, Apple, Amazon and the Zigbee Alliance -- which includes Samsung and Wulian, a Chinese device maker -- announced plans to create a common connectivity standard for smart home products. "Now our focus is on making it simple and easy for our partners," said Amazon's Miriam Daniel, vice president in charge of Echo and Alexa devices.
+
+Adopting the connectivity standard would allow any home appliance maker, for example, to make products compatible with Amazon, Google, Apple or Zigbee ecosystems.
+
+"We work with a lot of [brands,] vendors and suppliers in China," Daniel told the Nikkei Asian Review. "They help us do Alexa integration, and none of that is impacted" by U.S. government policies, she said, adding that she is not aware of any potential restrictions in the future.
+
+Privacy has long been a concern for U.S. tech firms when choosing Chinese partners, and such concerns have only grown as devices collect more and more personal data. Companies are also keeping an eye on regulatory trends after the California Consumer Privacy Act went into effect this month.
+
+One of the highlights at the CES on Tuesday was a panel session between the privacy executives of Apple, in a rare appearance at CES, and Facebook, which has been fined by the Federal Trade Commission for mishandling personal information. "We are constantly trying to up the protections that you have," Apple's Jane Horvath assured the audience.
+
+Chinese companies are also playing up their privacy protections to reassure American partners and consumers.
+
+"Privacy is a top priority," said Huang Wang, CEO of Chinese wearable device maker Huami. The company officially launched its first U.S. product, a smart at-home gym, at the CES on Tuesday.
+
+The gym features a full-body size LED screen with an embedded camera that tracks a user's movements and provides feedback. The sliding cover for the camera can only be opened and closed manually. "When our design team suggested making the camera cover remotely controllable, I shut the idea down," Huang said, citing the risk of being hacked.
+
+In the U.S., Huami is working with Amazon Alexa to add the voice assistant feature to its devices. It is also seeking opportunities to work with Google to integrate its wearable and home gym devices into the tech giant's smart home ecosystem.
+
+"All our user data is stored locally in the U.S. through AWS," Huang said. "No doubt there will be skepticism because we are a Chinese company, but that won't change our plan to keep working with U.S. companies and win over customers here."

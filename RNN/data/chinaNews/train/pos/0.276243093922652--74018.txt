@@ -1,0 +1,17 @@
+The gentle waves off the resort make it an ideal testbed for such systems.
+
+Dubai-based solar hybrid project developer Enerwhere Sustainable Energy DMCC has completed construction of an 80 kW floating PV array on private resort Nurai Island in Abu Dhabi.
+
+The project, which will supply power to the resort, was built on seawater as the island could not host a ground-mounted array. “For a resort island like Nurai Island this is still far better than taking up valuable beach real estate which tourists are willing to pay much more for,” said Enerwhere chief operating officer Stefan Muckstein.
+
+The GCL Poly dual-glass modules with IP68 junction boxes used in the project were designed for marine applications. “The modules need to be absolutely waterproof to survive the constant salt spray from the waves for 25 years,” Muckstein told pv magazine.
+
+The project developer used floating structures, anchors and foundations from an unnamed UAE-based marine engineering firm. Enerwhere used standard high-power string inverters from Chinese producer Sungrow which were installed on land and connected to a mini-grid on the island. “This floating solar installation is an 80 kWp pilot but even in that category it’s one of the first solar PV plants on open ocean and saltwater anywhere in the world,” said Muckstein.
+
+High costs
+
+“At the moment this kind of engineering doesn’t come cheap,” he added. “The cost of such an installation make sense in places like small islands where electricity from conventional diesel generators can cost as much as $0.25/kWh.”
+
+The Enerwhere representative predicted the cost for saltwater installations will fall dramatically once the number of arrays rises, enabling roll-out in grid connected markets with lower conventional energy prices. “We think there are immediate opportunities for floating solar systems like ours for the islands in the Middle East, including the World Island in Dubai, and potentially offshore oil platforms and the Maldives,” said Muckstein.
+
+In the calm waters off the Dubai resort island waves are relatively low and floating systems are subject to relatively mild stress compared with turbulent locations such as the North Sea, where saltwater floating projects are being tested. Muckstein said waves at Nurai Island usually top out at two meters.

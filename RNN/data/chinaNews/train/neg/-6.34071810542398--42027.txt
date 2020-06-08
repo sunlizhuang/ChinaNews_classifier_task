@@ -1,0 +1,17 @@
+The first U.S. patient identified as being infected with the novel coronavirus presented at an urgent care clinic with mild symptoms that were indistinguishable clinically from common infections, especially respiratory illnesses seen during the winter, according to a case report published today in The New England Journal of Medicine.
+
+The patient, a 35-year-old man, visited a clinic in Snohomish County, Washington, with a 4-day history of “cough and subjective fever” after returning from a trip to see family in Wuhan, China, where the outbreak of 2019-nCoV is centered, touching off a chain of events that eventually led to his diagnosis via a CDC test.
+
+According to the report, his illness progressed to pneumonia after 9 days and he was eventually treated with an investigational antiviral drug that has been previously tested in patients with Ebola. The man remained hospitalized as of Thursday but had improved, with a cough being his only remaining symptom.
+
+As described by officials last week, this patient initially sought care after seeing a CDC alert about the outbreak. The urgent care clinician notified local and state health departments, and together they notified the CDC’s Emergency Operations Center, which had been activated to respond to the outbreak.
+
+After specimens were collected, the man was “discharged to home isolation with active monitoring by the local health department,” according to the report. A day later — and 5 days after he returned from Wuhan — he tested positive for 2019-nCoV via the CDC’s real-time RT-PCR assay. He was then isolated in an airborne-isolation unit at a local hospital.
+
+Specimens tested 4 and 7 days into his illness suggested high viral loads and the potential for transmissibility, the authors reported. At the time of the report, there were no secondary cases related to his illness.
+
+Ten days into his illness, the man developed signs of atypical pneumonia and was treated with IV remdesivir (Gilead Sciences), which has been tested against Ebola, including during the ongoing outbreak in the Democratic Republic of the Congo. Physicians observed no adverse events related to the treatment.
+
+The man said he did not visit the seafood and animal market thought to be where the outbreak originated. He also reported no contact with any sick persons while in Wuhan, but evidence shows that the virus has been transmitted between people since mid-December.
+
+The CDC recommends that any patient with fever and signs or symptoms of lower respiratory illness requiring hospitalization who traveled from mainland China within 14 days of symptom onset be evaluated for 2019-nCoV infection. (Editor’s note: The CDC’s interim clinical guidance for patients under investigation for 2019-nCoV infection can be found here.)

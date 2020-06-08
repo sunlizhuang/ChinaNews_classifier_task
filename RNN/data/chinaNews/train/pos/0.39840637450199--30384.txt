@@ -1,0 +1,49 @@
+Former ministers have sounded their final warnings to Boris Johnson about the Chinese telecoms firm Huawei ahead of his expected decision on whether it will play a part in the UK’s 5G network.
+
+The prime minister will chair a meeting of the national security council (NSC) later on Tuesday before making a judgment on the firm’s future in the country after months of concern around security, including from the US president, Donald Trump.
+
+A number of former senior government figures and MPs voiced concerns just hours before the meeting, urging that if Huawei is involved in rolling out the 5G infrastructure then it should be time-limited and the US and UK must come together to work out their own 5G technology.
+
+Q&A What is 5G? Show Hide 5G is the next generation mobile phone network and it promises much higher connection speeds, lower latency (response times) and to be more reliable than the creaking 4G networks we have now. It will be much faster, with download speeds 5-10 times quicker than 4G to start with, meaning a movie will download in seconds rather than minutes. Over the next few years it should become even faster, as the technology matures. It will also have lower latency, the time it takes for something to happen: tap a link and the download will start faster. But perhaps the most important thing 5G will immediately do for users is increase the carrying capacity of the masts, meaning more people can connect at the same time. Samuel Gibbs, consumer technology editor
+
+The former defence minister Tobias Ellwood told Sky News: “If we are going to introduce Huawei into 5G I would put a time bar on it. I would cap their involvement. I would scrutinise it very carefully.”
+
+He pressed the need for the “Five Eyes” intelligence alliance, which is made up of Australia, Canada, New Zealand, the UK and the US, to develop their own infrastructure for faster connectivity so as not to rely on the currently more advanced and cheaper Chinese technology.
+
+“Let’s get together and create a 5G so that in a couple of years’ time we can move to our own system,” he said.
+
+The state ownership of Huawei raises serious questions about its links to other parts of the Chinese government, he said.
+
+“We don’t know the connections between Huawei and the Chinese army, we don’t know the connections between Huawei and its own intelligence communities. Every single bit of device that comes into this country will need to be checked, that will cost money itself.
+
+“So we are going to embrace Huawei now, that’s understood because we want to move forward with 5G, but I would like to see our own system developed.”
+
+Q&A Why is Huawei controversial? Show Hide Huawei is a Chinese telecoms company founded in 1987. US officials believe it poses a security risk because the Chinese government will make the firm engineer backdoors in its technology, through which information could be accessed by Beijing. Donald Trump has banned US companies from sharing technology with Huawei and has been putting pressure on other nations to follow suit. The UK has accepted there is some risk in working with Huawei, but security services do not believe it to be unmanageable. It has designated Huawei a “high-risk vendor”, but the company will be given the opportunity to build non-core elements of Britain’s 5G network. The head of MI5 recently said he was confident the US-UK intelligence-sharing relationship would not be affected if London gave Huawei the nod. Much of the doubt surrounding Huawei stems from founder Ren Zhengfei’s time as an engineer in the China's People’s Liberation Army from 1974-83. His daughter Meng Wanzhou, a senior Huawei executive, was arrested in Canada in December 2018 over allegations of Iran-sanctions violations.
+
+Huawei insists the Chinese government has never asked it to build a backdoor into its technology, and has offered to sign a “no spy agreement” with countries adopting it. The trade rivalry between the US and China has intensified in recent years and the firm believes the White House is simply using it as a weapon in that larger fight. Kevin Rawlinson Photograph: Mark Schiefelbein/AP
+
+Johnson has promised better connectivity for the UK repeatedly since becoming prime minister and gigabit broadband was a key a pledge in his 2019 general election manifesto. A 5G network would ensure better video streaming, download speeds and a faster service.
+
+However, Bob Seely MP, who is standing to be chair of the Commons’ foreign affairs select committee, said the cost of introducing Huawei for 5G was too high for the government.
+
+The Conservative former army captain told BBC Radio 4’s Today programme on Tuesday: “The danger is that you allow China leverage into your system, into your critical national infrastructure if you allow Huawei in.
+
+“China is building a surveillance state, the kind of which the world has not seen, and I don’t think we’ve thought through what that means for the next century in terms of human freedom and data privacy.”
+
+Jeremy Wright, a former culture secretary, also wants the government to put limits on Huawei, should it decide to use the company, by capping its market share to allow other suppliers into the network.
+
+On US warnings that any use of Huawei in 5G could jeopardise future intelligence sharing, Wright said it was a concern but said the assessment of British intelligence officials was highly respected globally.
+
+He told Talk Radio he did not believe the close cooperation between the two countries would unravel over one judgment.
+
+“We should take very seriously what our allies say … respective intelligence agencies, British and American, over decades. I don’t believe that will fall apart over one decision,” he said.
+
+The former national security adviser Peter Ricketts said he had been assured that Huawei infrastructure, like an aerial, would not allow the firm into the very heart of the UK network.
+
+“I don’t honestly believe some of these blood-curdling threats … [such as] it will cut off intelligence links with the US. I think some of the people pressing us on all this have other agendas,” Lord Ricketts told Sky. “It’s all part of the competition between America and China for the future of technology.”
+
+However, he said the fact there is no British and US 5G solution “is a problem”.
+
+“We haven’t had a strategy to have a 5G technology. If this is a [sign] of the future where it’s going to be China dominating technology in the next generation … I am worried about that.
+
+“It’s a wake-up call to get our act together to make sure there are western solutions for the future in these high technology areas,” he said.

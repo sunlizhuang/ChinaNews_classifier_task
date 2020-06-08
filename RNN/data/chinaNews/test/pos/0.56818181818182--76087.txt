@@ -1,0 +1,57 @@
+The start of international expansion is an incredible milestone for any business, and gearing up to take your venture around the world will be one of the most exciting moments of your career. But just because your business is thriving at home doesn’t mean that it will be a success abroad. To achieve that, you’ll need to give attention to your international SEO strategy.
+
+Achieving online visibility on an international scale can be tricky, particularly when you factor in differences in language, culture, and search habits. It’s not a cookie-cutter approach where one size fits all across all regions. However, you’ll be more than ready to tackle the challenges of international SEO once you’ve followed these six must-know tips, and should soon see your business soaring in search rankings across the globe.
+
+1. Pick an effective domain strategy
+
+A .com TLD is usually considered the cream of the crop when it comes to domains and the authority afforded to them by search engines. But this can be far too generic to attract international customers. Instead, your domain should clearly target your country of choice and show users around the world that your website is catered specifically to them.
+
+A ccTLD, for example, cocacola.fr, is often popular because the country code immediately shows users and search engines what the target country is. However, if you have multiple localized versions of the website across a number of ccTLDs, search engines will treat these as separate entities, meaning each domain will need to build up backlinks and authority from scratch.
+
+A subdirectory, like, nike.com/fr maintains all your pre-existing SEO efforts as you’re simply adding a localized folder to your current domain. However, this risks causing internal cannibalization if different international landing pages are optimized for the same keywords, such as a US subfolder and an Australian subfolder where the language is largely the same.
+
+A subdomain (such as fr.airbnb.com) is often the default for CMS tools, but users are less likely to associate your site with their country as the country code comes first rather than last, meaning click-through-rates could take a hit.
+
+All domain strategies have pros and cons, so it’s important to ascertain how each option would work for your business specifically. Matthew Finn, one of the SEO specialists at Go Up, highlights several points that could determine your international domain strategy decision. Budget obviously comes into play – ccTLDs can be particularly expensive – and your branding could be a factor too.
+
+As they explain: “If your company has a logo which features your domain, or brand guidelines which stipulate talking about your business as YourBrand.com, then a ccTLD wouldn’t work.” You also need to consider possible limitations of your CMS and current domain. For instance, subdirectories and subdomains only work with an existing generic top-level domain like .com.
+
+Look at the domain structures of competitors in your new target countries to see what Google favors. You might decide to use a combination of all three strategies to target different markets.
+
+2. Conduct localized keyword research
+
+You may feel like you have a good understanding of your current audience’s search habits, but these keywords may not be popular across the board. Conducting localized keyword research will help you judge the online queries likely to serve you best in each country.
+
+This isn’t so difficult when you’re targeting other English speakers, though you still have to take slang and regional variations into account. For example, if you’re a shoe business going after an Australian audience, you would probably be better off targeting “thong” rather than “flip flop” keywords. This is especially relevant to voice search.
+
+Of course, things become more complicated when dealing with entirely different languages. You may not understand the words themselves and also need to consider how cultural context can impact intent. Findings from Webcertain showed significant differences between the search habits of US and Chinese users. Roughly 60% of US searches about chairs related to style and shape, yet only 20% of Chinese searches had the same intent. In fact, 5% more Chinese searches were action-based – what to do with the chair. Culture can hugely influence how people formulate their online queries and you can’t ignore this factor when choosing location-specific keywords.
+
+3. Don’t assume one language means one culture
+
+One size does not fit all when it comes to international expansion, especially considering the diversity of languages. There are many differences in Standard Portuguese and Brazilian Portuguese, while there are plenty of Spanish variations spoken across North America, South America, and the Caribbean, let alone the many regional dialects in Spain itself. You may think that translating your website into a “standard” language will enable you to connect with all relevant markets, but you risk alienating millions of potential customers if you don’t tailor your content to each target location.
+
+First of all, remember that idioms or colloquialisms may make sense in one place but not in another, even if the same language is spoken. If an Ireland-based furniture business used the word “press”, it’s highly unlikely any English-speakers outside the country would realize this referred to a kitchen cupboard. Similarly, some words, images, and practices are accepted in one place but offensive in another. Though Arabic is the official language of both Morocco and Saudi Arabia, references to alcohol would only be permissible when targeting the former as drinking is forbidden in Saudi Arabia. You also need to use the correct measurements, currencies, and other details, which may vary from country to country regardless of language. French-speaking Canadians would be puzzled to see prices in euros rather than Canadian Dollars.
+
+Errors like this could deter users and damage a business’s trust, authority, and click-through-rate. Therefore, it would be a huge mistake to focus on accurate translations without considering the unique historical and cultural factors making every place unique. Consulting people familiar with the nuances of each target location will ensure your content is suitable for all the potential customers living there.
+
+4. Think beyond Google
+
+Google is normally the holy grail when it comes to all SEO efforts, but there may be other search engines to prioritize during international expansion. The majority of users in China and Russia, two of the largest markets in the world, direct the majority of their online queries to entirely different platforms, so focusing on Google alone could be detrimental to your visibility and profits.
+
+In Russia, the leading search engine is Yandex which holds 56% of the market share. This success has been put down to the search engine’s deeper understanding of Slavic languages. Meanwhile, Google has been blocked in China under the country’s Internet censorship policy. Most Chinese users conduct their online searches through Baidu, which held between 60 to 77% of the search engine market share in China during 2019.
+
+You can’t afford to ignore alternative search engines when targeting markets like these, and it’s also important to recognize each has its own unique algorithms. There will be some similarities—for example, Google, Yandex and Baidu all reward quality content – but you’ll need to be aware of the differences. Indexing can be very slow for both Yandex and Baidu which means it will take longer to see the benefits of your efforts, so long-term results should be the priority. Paid search is crucial to Baidu, as paid results are given much greater precedence than organic results. Meanwhile, Yandex still values meta keywords – a metric that Google removed from its ranking algorithm some time ago.
+
+5. Implement hreflang tags
+
+Hreflang tags signpost which languages and locations your pages are aimed at, helping Google to understand which version of a page is most appropriate for its users. For example, if someone in Paris typed in a search term relevant to your product page, the hreflang tag signals to Google that the French version of the page should appear in search results.
+
+To target users as accurately as possible, you should include hreflang tags for both language and region. For instance, an ‘en’ tag shows Google that your page is for all English speakers, but you could also add tags to emphasize the specific geographic locations you’re targeting, en-ca for English speakers in Canada and en-us for English speakers in the US. It’s crucial you use the correct codes—for instance, the UK is ‘gb’ rather than ‘uk’—and a hreflang tag generator like Aleda Solis’ SEO tools recommended by Moz that could help minimize mistakes.
+
+6. Start localized link building
+
+Just as with any domestic SEO strategy, links are essential in building the authority of your website within a target locale. To elevate your brand in local search, it’s vital to source links from local platforms within your industry. The more hyperlocal, the better. For example, if you’re opening a new hotel in Berlin, links from travel platforms in the German capital will be more valuable than those in Munich or Hamburg.
+
+Seek out journalistic opportunities and serve as a source of expertise, guest post on influential sites within a region, and use social channels to build connections with local influencers and businesses. It’s also recommended that you use a translator or someone accustomed to the language and customs of a target region to handle the outreach. The more you extend your brand in a target market, the more you will be rewarded with high authority backlinks.
+
+Edward Coram James is an SEO professional and the Chief Executive of Go Up Ltd, an international agency dedicated to helping its clients navigate the complexities of global SEO and the technical aspects of delivering location-specific pages to targeted audiences.

@@ -1,0 +1,67 @@
+Tunisia’s Government and Operators Join Forces to Use Mobile Connectivity to Protect Lives
+
+Tunis: The Government of Tunisia is collaborating with the country’s mobile operators to develop an SMS-based early warning system to alert citizens at risk of major natural disasters. The new service forms part of the launch of the GSMA’s ‘We Care’ initiative in Tunisia by local operators Ooredoo, Orange and Tunisie Telecom, marking the first launch of We Care in the Middle East and North Africa (MENA) region.
+
+The initiative is a collaboration with the Tunisian Ministry of Interior and the Tunisian Ministry of Technologies of Communication and Digital Economy. The various parties will commit to a Declaration of Intent during a signing ceremony in Tunis today.
+
+Tunisia regularly suffers from flooding disasters, often following torrential rains, which in some cases causes loss of life, as well as serious material damage. In September 2018, severe weather in Tunisia’s Cap Bon peninsula caused human casualties and property damage[1].
+
+In response to such events, the new service will use an SMS alert mechanism to provide instant targeted information before and during major natural disasters, improving disaster preparedness and response. When a major risk is identified, the Ministry of Interior will send notifications to the mobile operators based on recommendations from the National or Regional Natural Disaster Committees. These notifications will include the content of the alert to be broadcast and the location of the area concerned. The operators will then send an appropriate SMS alert to citizens in the affected areas. The service is expected to be in place before the next rainy season of 2020, likely to begin in September.
+
+We Care in Support of the Sustainable Development Goals
+
+In 2016 the mobile industry became one of the first sectors in the world to commit to the UN Sustainable Development Goals. Since then around 400 million new people have started using mobile and more than 860 million have started accessing mobile internet services[2].
+
+Through the GSMA’s We Care initiative, operators around the world are taking steps to ensure their customers can enjoy the transformative benefits of mobile technology in a safe and reliable environment. These in-country projects support the mobile industry’s commitment to the SDGs, allowing operators to drive impact at a local level.
+
+Driven by operators, together with the GSMA, We Care initiatives address ten key areas: digital inclusion; children and mobile; environmental care; disaster response; SMS spam control; mobile privacy; mobile and health; infrastructure deployment; contribution to public safety; and handset theft.
+
+The first We Care initiative was launched in February 2014. To date, there are 30 We Care projects running in 21 markets worldwide, in collaboration with 70 mobile operators.
+
+Supporting quotes
+
+“The GSMA is delighted to be working in collaboration with the Tunisian government and the country’s mobile ecosystem on the successful launch of ‘We Care’ in Tunisia. The new SMS alert system is a great demonstration of how industry players can work together to enable mobile technology to play a vital role in protecting citizens.”
+
+Jawad Abbassi, Head of MENA region, GSMA
+
+“Our citizens are increasingly demanding reliable, accurate and timely information during the floods. This is why it is essential for us to have a public alert system based on digital solutions that will be accessible to everyone.”
+
+His Excellency Mohamed Anouar Maarouf, Minister of Communication Technologies and the Digital Economy
+
+“The health and safety of our customers and all Tunisian citizens is one of the top priorities for a socially responsible operator such as Ooredoo. This is why we have put at their disposal all our direct and targeted means of communication, and why we have joined forces with the Ministry of Technologies, Communication and Digital Economy, the Ministry of the Interior and all the various stakeholders to support this We Care project.”
+
+Mansoor Rashid Al Khater, CEO, Ooredoo Tunisia
+
+“Orange Tunisia is committed to doing everything we can to ensure a safe environment for our Tunisian customers. The launch of the new SMS alert system could potentially save lives in the event of a disaster, so we are working with the government to implement it as soon as possible.”
+
+Thierry Millet, CEO, Orange Tunisia
+
+“Arising naturally from its desire to be a socially responsible company, Tunisie Telecom strongly supports an SMS alert system that will warn its fellow citizens of flooding risks. This service reinforces the culture of vigilance and security that we support not only with conviction, but also through technology. We are therefore proud to contribute to the deployment of this important GSMA We Care initiative.”
+
+Fadhel Kraiem, CEO, Tunisie Telecom
+
+-ENDS-
+
+Translations
+
+French
+
+Arabic
+
+About the GSMA
+
+The GSMA represents the interests of mobile operators worldwide, uniting more than 750 operators and nearly 400 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and internet companies, as well as organisations in adjacent industry sectors. The GSMA also produces the industry-leading MWC events held annually in Barcelona, Los Angeles and Shanghai, as well as the Mobile 360 Series of regional conferences.
+
+For more information, please visit the GSMA corporate website at www.gsma.com. Follow the GSMA on Twitter: @GSMA.
+
+Media Contacts:
+
+For the GSMA:
+
+GSMA Press Office
+
+pressoffice@gsma.com
+
+[1] https://www.france24.com/en/20180924-tunisia-weather-cap-bon-record-rains-set-off-deadly-flash-floods-nabeul
+
+[2] https://www.gsma.com/newsroom/press-release/mobile-industry-steps-up-commitment-to-delivering-sustainable-development-goals-new-gsma-study-reports/

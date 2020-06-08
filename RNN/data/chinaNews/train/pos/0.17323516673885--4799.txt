@@ -1,0 +1,79 @@
+Rays of hope for global 5G Wireless Scott Fulton explains a colossal win for the Conservative Party in the UK and how the continuation of trade talks between the US and China bode well for the prospects that the world’s telcos will implement a single, global 5G communications system. Scott Fulton explains why keeping everyone talking helps the manufacturers of small-scale transmitters to keep their prices low. Read more: https://zd.net/2TbpjCr
+
+The 5G Wireless portfolio of standards is essentially complete, with stakeholders approving key enhancements last week to the physical layers of 5G New Radio for the upcoming 3GPP Release 17, and a new round of refreshes scheduled for the following June. In many countries, including the US, 5G mobile service is being rolled out for the first time from 4G LTE radio towers, upgraded for transmissions at multiple frequency bands -- not the highest mmWave scale, although still greater bandwidth. Meanwhile, some cities are also beginning to see the first signs of smaller, lower-power transmitters installed atop light posts and existing telephone poles.
+
+Yet for many telcos in North America and Europe, the big Christmas gift arrived early: On Dec. 12, the Conservative Party won a decisive majority of the UK's parliamentary seats, keeping Prime Minister Boris Johnson in power, and effectively assuring that the United Kingdom will leave the European Union on Jan. 31, 2020, with a deal between them.
+
+"We will get Brexit done on time by the 31st of January, no ifs, no buts, no maybes," remarked PM Johnson on his victory, "leaving the European Union as one United Kingdom, taking back control of our laws, borders, money, our trade, immigration system, delivering on the democratic mandate of the people."
+
+It wasn't so much that the opposition Labour Party was necessarily bad for 5G. The Conservative win forestalls an economic rift between the divorcing factions that could force 5G stakeholders to divide, leading to separate evolutionary paths for future wireless technology iterations.
+
+Almost immediately upon the swearing-in and seating of new MPs, and Conservatives officially regaining control of the House of Commons, Parliament voted 358 to 234 to approve the EU (Withdrawal Agreement) Bill (complete with parentheses). For eleven months following the withdrawal date, the UK will retain its membership in the EU's customs union, as well as the European "single market." This means trade restrictions and tariffs between the UK and other EU member nations will remain waived. Should the early talks bear fruit and both sides agree, they could extend this interim period for as long as two more years. The World Trade Organization will not need to step in to mitigate disputes.
+
+Cradle of the revolution
+
+The man who will lead Europe's side of these negotiations, France's Michel Barnier, told the Web Summit in Lisbon last November he believes the fate of these negotiations will determine whether Europe as a whole continues to have a voice in any economic or technological negotiations in the foreseeable future.
+
+Courtesy European Commission
+
+"In late-18th century England, James Watt developed the steam engine," remarked Barnier. "The dynamic he created soon spread to Belgium, France, and Germany, and Europe became the cradle of the First Industrial Revolution. Today in the 21st century, the US and China are in the lead. If we in Europe do not act now, the future of our industry, jobs, personal data, and ethical standards will be made in Washington and Beijing."
+
+One of the Prime Minister's top priorities for 2020, according to his office, will be his country's stance toward China's Huawei -- the world's No. 1 producer of telecommunications equipment, Finland's Nokia being No. 2 and Sweden's Ericsson being No. 3. Mr. Johnson's government had an opportunity to reach a final policy decision on Huawei earlier in the year, but instead tasked its Culture Secretary, Nicky Morgan, with announcing a delay of that decision until after the Dec. 12 election.
+
+In the interim, Ms. Morgan found her position elevated to the House of Lords. Nevertheless, it appears she will be retained in her cabinet role at least temporarily, perhaps for a mere few weeks. During that time, perhaps in early January, she may announce whether the newly empowered Conservative government will follow the US' lead in excluding Huawei from its 5G network buildout plan.
+
+Gov.uk
+
+Last Dec. 4, pivoting from his earlier position supporting such an exclusion, Mr. Johnson indicated he may be willing to bend in favor of Huawei. The BBC quotes him as having told a press conference, "On Huawei and 5G, I don't want this country to be unnecessarily hostile to investment from overseas. On the other hand, we cannot prejudice our vital national security. Nor can we prejudice our ability to co-operate with other vital... security partners, and that will be the key criteria that informs our decision about Huawei."
+
+The UK's most vital security partner, of course, is the US. On that same day, the US President indicated he had personally reached a deal with Italy to block Huawei's involvement with that country. For its part, Italy's minister of industry politely waited three weeks not only to effectively deny any such deal had been reached with the US but to officially open the door to Huawei's involvement in building out Italy's 5G networks -- putting Italy in alignment with France and Germany on that issue.
+
+So Morgan will still have a difficult decision to make if indeed she makes it right away as anticipated. If she shuts Britain's doors to Huawei, she could send a signal to the European Commission that the UK is not interested in making trade deals on communications, or in leaving the infrastructure of the EU's "digital single market" whole and contiguous. (Barnier is on record as stating it's the EU's goal to retain the UK in the single market, admitting the value-add of Brexit in the first place has never been adequately explained to him.)
+
+But if Morgan leaves the door open a crack for Huawei, as Johnson did in early December, then the issue can remain a discussion item during the transition phase. That discussion could still, of course, break down or encounter a logjam. However, if these talks continue exhibiting the behavior patterns they've shown up to now, the most likely time such a collapse could occur is in the latter part of 2020, near when this phase is scheduled to conclude.
+
+By that time, 3GPP will likely have already ratified the extensions to 5G's physical network layers to account for more channels and greater bandwidth. New transmitters built for deployment in some of the more challenging areas of the world -- such as the Balkans, India, Pakistan, and middle Africa -- would already have their specifications set in stone. Even if the Huawei rift were to expand after that time, its effects on wireless and mobile technologies wouldn't be felt until the time 3GPP is setting aside for what would have been called "6G."
+
+Now, the wrench being thrown into these deliberations comes not from the US but, in a stunning surprise, from Germany. In comments to a cybersecurity conference last November, German Defense Minister Annegret Kramp-Karrenbauer stated it remains in the best interest of Germany to prevent access to its national infrastructure by foreign powers. If such a block could not be guaranteed, the minister said, "one has to ban Huawei from the procedure, just like other countries have done." This after, just the previous month, government officials sustained their previous findings that no single vendor should be excluded from the country's "security catalog," in the interest of fair competition.
+
+So the UK is not the only deliberator here weighing the political and technological ramifications of both sides of this issue. As long as governments' final choices remain up in the air, though, it's good news for standards groups such as 3GPP, and 5G's various stakeholders, which can continue building their standards and deployment agendas on-schedule.
+
+Slicing and dicing
+
+In his Web Summit speech, France's Barnier cited one critical element of his ongoing negotiations with the UK: Ensuring continued EU funding of projects that included the UK when they were originally launched. The EU government currently sanctions and funds the 5G Public Private Partnership (5G PPP), which has already contributed to 5G portfolio development. 2020 is due to be the year when that partnership begins deploying Phase 3, which the European Commission describes as "an end-to-end 5G experimental network infrastructure."
+
+Courtesy European Commission
+
+"This new high-performance network," according to 5G PPP, "will be operated via a scalable management framework enabling fast deployment of novel applications, including sensor-based applications, with reduction of the network management OpEx by at least 20 percent compared to today."
+
+One of the technologies involved in this phase will very likely be Matilda, an experimental standard for implementing network slicing at the NFV level. For the smaller telcos in the world to be able to accommodate all the technologies that 5G entails, they will need a reliable, secure, and legal way to achieve network slicing -- dividing cloud data center infrastructure into inviolable segments. Telcos could simply lease those virtual segments from data center providers, or agree to jointly manage their facilities, rather than build, own, and operate every cubic centimeter of space such data centers would occupy -- along with all the power they would need to consume, or even produce for themselves.
+
+Special feature How 5G Will Transform Business 5G will be popularized via telecom carriers and the marketing of wire-cutting services, but the biggest impact and returns will come from connecting the Internet of things, edge computing and analytics infrastructure with minimal latency. Read More
+
+"Matilda aims to devise and realize a radical shift in the development of software for 5G-ready applications," writes 5G PPP, "as well as virtual and physical network functions and network services, through the adoption of a unified programmability model, the definition of proper abstractions and the creation of an open development environment that may be used by application as well as network functions developers."
+
+For many telcos and communications firms, and even startups seeking to become such firms, network slicing is the key to their entire future. If this doesn't work out, regardless of what happens on the radio access and transmitter front, 5G will not happen.
+
+Certainly, no country is more invested in the success of Matilda than the UK. A demonstration of the gains made during 5G PPP's Phase 2, including high-speed 5G millimeter-wave (mmWave), network-aware applications that can be deployed in stadiums and public events (5G-PICTURE), involving stakeholders throughout Europe, remains scheduled for Bristol's Ashton Gate Stadium next March. That project was launched with EU funding and is overseen by appointees of the European Commission (EC). Providing hardware and expertise for that demo will be Bristol-based Blu Wireless.
+
+Had the Conservatives lost the election, and Parliament remained hung (without a clear majority), or had Labour won the majority of seats and its leader, Jeremy Corbyn, rejected the Brexit deal on the table as he indicated he would last October, the whole stadium-based network slicing demo might have been called off. Without a deal, the EC might have withdrawn support for the project until it could have been renegotiated separately -- an extremely unlikely event.
+
+The sun rises in the East
+
+"You can't do 5G without collaboration with all the industry players," remarked Paul Scanlan, Huawei's CTO for its carrier business. "It just doesn't work."
+
+In a ballroom of the Savoy Hotel in London last Dec. 3, Huawei held an event called the Trust in Tech Symposium. Speakers at that event, including Scanlan, helped Huawei stage its most dramatic defense to date, making the case that without any technology vendor's direct participation in the final outcome, the whole standard falls apart.
+
+"We need a different type of regulatory framework -- I'll call it an 'appropriate' regulatory framework -- to vow to encourage operators to invest this way, and encourage collaboration. Because otherwise, it won't happen. And the reason it doesn't happen is because. . . you've got to change your DNA. You've got to change your mindset. You've got to look at things in a different way. And that's not what's being done, generally, across the industry."
+
+It is far from the first time we've heard a technology vendor plea for fairness from those who would seek to regulate it, by means of a brain transplant or, at least, a partial lobotomy (see: "Facebook"). If we change the way we think about things -- for example, by not thinking about them -- then we see the world in a whole new light, or at least in a different shade of darkness.
+
+But Scanlan's plea may not have fallen on deaf ears, or has often been the case, on no ears at all. PM Johnson's statement cracking the door open for Huawei was made the very next day.
+
+Days later, the US and China reached, at the very least, an agreement to seek an agreement. Although the US administration touted such a deal had been made, sending stock values higher, Chinese officials later denied the deal had been actually signed. The US President later denied that Chinese officials had made the statement, attempting to cast doubt on the authenticity of a video made by the Chinese government of its own press conference, and condemning The Wall Street Journal for evidently conjuring the video from the voluminous ether. =The Associated Press, however, has reported on terms of the agreement, signed or not. US Trade Representative Robert Lighthizer, a real person, told the AP that China had agreed to purchase a record $40 billion annually in agricultural products.
+
+Ostensibly, the primary element of this trade deal centers on farm products and does not even mention 5G, mobile products maker ZTE, or Huawei explicitly. But as long as China holds out the hope of greater agricultural purchases, the US appears to hold out hope of removing Chinese communications companies from the FCC's "entity blacklist," which could take place as a result of Phase Two talks, or even a later round.
+
+The longer that hope can be extended, the greater the window of opportunity Huawei has for retaining its stake in 5G standards. And if the first implementations of 5G NR rollouts proceed worldwide, with Huawei being perceived to play fairly -- without leaving open exploitable backdoors to countries' telecommunications infrastructure -- the less likely the chances of damage to any 5G vendor's implementation plans, perhaps as late as 2026, should Huawei be prohibited from participating later.
+
+It's a ray of hope for the holidays. Enjoy it while it lasts.

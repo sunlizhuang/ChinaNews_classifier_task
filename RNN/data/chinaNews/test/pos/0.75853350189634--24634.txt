@@ -1,0 +1,39 @@
+Key Point: It takes an advanced weapons industry to produce good tank ammunition.
+
+Tank ammunition is not easy to manufacture. Modern tanks require ammo that is made to withstand immense pressure while also maintaining very high accuracy. This presents challenges for all types of rounds, although modern Armor-Piercing Fin-Stabilized Discarding Sabot (APFSDS) ammunition is the hardest to manufacture due to the very hard materials necessary to craft them.
+
+Which countries have mastered making these advanced rounds? Here are five countries that could be considered the best at making tank ammunition, in no particular order.
+
+1. United States of America
+
+Since the US proclaimed itself to be the “arsenal of democracy” during WWII, the US has been at the forefront of the development of advanced tank guns and ammunition. Fierce competition with the Soviet Union to develop more and more powerful cannons resulted in the US developing a powerful line of 105mm APFSDS ammunition for the British L7 (adopted as M68) cannons.
+
+The US pioneered the use of depleted uranium in advanced versions of the 105mm rounds, which began being fielded in the 1980s. After the transition to the 120mm German smoothbore cannon in the M1A1 tank, the US produced the M829 series of APFSDS rounds, which also incorporated depleted uranium into the rounds.
+
+2. Russian Federation
+
+Russia inherited the ammunition development legacy of the Soviet Union, which also fought a fierce battle to develop deadly tank ammunition to counter the German “big cat” tanks in World War II. During the Cold War, they produced an impressive series of APFSDS rounds for their tanks. The Soviet Union was actually the first to adopt APFSDS technology; they fielded the 115mm 2A20 smoothbore gun on the T-62 to make use of APFSDS rounds for increased penetration.
+
+The Soviet excellence in the field continued with the larger 125mm gun, with the Soviets developing advanced rounds. Interestingly, the Soviets—and later the Russians—tended to produce their rounds in both tungsten and depleted uranium varieties. DU rounds usually have a suffix of 1 (e.g., 3BM59 “Svinets-1”), and tungsten rounds will have a suffix of 2 (e.g., 3BM60 “Svinets-2”). Recent development has focused on creating “long-rod” penetrators, which have increased penetrating power due to their mass.
+
+3. Federal Republic of Germany
+
+The German excellence in producing tank ammunition is no surprise given that it was a “frontline” nation during the Cold War. As the original developers of the 120mm smoothbore gun that armed the Leopard 2 and M1A1 Abrams, Germans developed a series of advanced APFSDS rounds for this gun. Unlike the Russians and Americans, all German rounds are made out of tungsten, as depleted uranium was seen as too dangerous to health to utilize.
+
+The designation for these rounds was DM(x)3, with x being the generation of the round. For instance, DM13 was the first generation, developed in 1979. As of 2016, Rheinmetall was reported to be developing the DM73, the seventh generation of 120mm APFSDS ammunition. However, earlier rounds like the DM33 are extremely common among countries that operate Leopard 2s around the world.
+
+4. Israel
+
+Israel arrived on the tank ammunition production scene rather late, having received almost all of its ammunition from foreign sources until it decided to strike out on its own in the late 1970s. The kickstarting of the domestic Merkava tank project also lead to an emphasis on the ability to domestically produce tank ammunition.
+
+Israeli ammunition is popular on the export market, and some foreign ammunition types are said to use penetrators manufactured in Israel. In fact, the latest exported Israeli rounds are said to be on par or better than the latest Russian exported rounds. Even India was set to buy Israeli APFSDS rounds for its T-90S tanks until a corruption scandal caused the deal to fall through.
+
+5. China
+
+Also a latecomer to the tank ammunition scene, China was always relatively independent in producing tank ammunition but only recently started to develop more advanced varieties of ammunition. If China hopes to make its tanks and tank exports world-class, they must possess the capability to develop the proper ammunition for them. Chinese engineers experimented with depleted uranium but found the cost-to-performance ratio not worthwhile.
+
+The “ancestor” of modern Chinese APFSDS ammunition is said to be the Soviet 3BM32 from the 1980s. This was developed into the DTW and DTC 125mm rounds, which arm modern Chinese tanks. The DTW 125 round is also exported as the BTA 4, which was notably paired with the VT-4 tank for export to Thailand. The BTA 4 round is said to have good performance, enough to defeat all but the most modern main battle tanks.
+
+Charlie Gao studied Political and Computer Science at Grinnell College and is a frequent commentator on defense and national security issues. This piece was originally featured in November 2018 and is being republished due to reader's interest.
+
+Media: Wikipedia.

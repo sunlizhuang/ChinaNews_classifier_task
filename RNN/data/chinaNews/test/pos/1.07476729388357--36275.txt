@@ -1,0 +1,149 @@
+Eir's CEO, Carolan Lennon, has a new tattoo. It's a permanent stencil of a horse's head, visible just above her wrist. "I started learning how to ride horses last May and I'm absolutely loving it," she says. "So I got a little horse's head tattoo right here."
+
+Lennon's freshly inked art is unveiled in a significant week for Eir. Although its corporate results aren't due until next month, the former state monopoly has some figures which suggest the company is now unrecognisable from the administrative entity that used to stagger from corporate flip to corporate flip.
+
+It raced to 100,000 new GoMo mobile customers in a matter of weeks after promising a lifetime tariff of €10 per month for a high-data, high-calls package.
+
+It is approaching half a million 'passed' fibre-to-the-home premises and is promising another million, mostly in the previously untouchable cable broadband hinterland of Virgin Media.
+
+And it is positioning itself for the collapse of traditional TV distribution with an alternate, Netflix-friendly system based on apps.
+
+It is also taking a bullish, uncompromising position on Huawei as an equipment supplier in a week when the UK defied US pressure by allowing the Chinese company into its carriers' 5G rollout, albeit with potential restrictions.
+
+Adrian Weckler sat down with Lennon to take the temperature on Eir's current fortunes and future plans.
+
+Adrian Weckler (AW): You had big launches for GoMo and Eir TV last October, but no public launch for 5G. Why was that?
+
+Carolan Lennon (CL): We had a big internal launch with all of our suppliers in [Dublin's] Citywest.
+
+AW: Was the rotating chairman of Huawei, Guo Ping, there?
+
+CL: Yes. He was invited and met Xavier [Niel, CEO of Eir's French parent company NJJ].
+
+AW: Was the fact that Guo Ping was there related to you not having a public launch, given controversy over 5G network security?
+
+CL: No. He was here because he wanted to meet Xavier, who was going to be here for our 5G launch. So that worked out well. He was planning to visit anyway, so we managed to get that timing right.
+
+AW: What do you make of the Huawei controversy?
+
+CL: I find that hard to accept that it's not to do with the China-US trade issue. We're not concerned, we're very happy with them. They're in our access network, not our core network [which is Ericsson].
+
+But we find them good to work with. Our guys say their kit is fantastic. Most of the telcos in Europe are using them.
+
+The UK has now said that they're not going to block Huawei from their 5G networks. Our position hasn't changed at all.
+
+AW: What do you make of the American argument that networks like yours that use Huawei equipment are less secure?
+
+CL: I disagree with that, Adrian. It's very hard to take the smoke away from everything that's going on around this.
+
+But obviously, security is really important to us. We've just recently won the garda mobile business tender. So it's not stopping us winning business. Do American multinationals mention it? Yes. But has it stopped us winning business? No. It hasn't. So we're going to push on, we're committed to them, they've been a good supplier and we're very happy with the kit and the quality of the network.
+
+AW: Your €9.99 GoMo mobile sign-up promotion ended and the current €12.99 'for life' sign-up campaign will end in a few weeks. What price will you set for GoMo then?
+
+CL: We haven't made a decision about that yet. We wanted to see what the elasticity was between €9.99 and €12.99 in terms of volume. Then we'll make a call.
+
+AW: How many Eir Mobile customers has the GoMo service cannibalised?
+
+CL: Some customers have come from Eir Mobile. But it's well within our business case tolerance. It's delivering for Eir; not just volume, but also revenue.
+
+AW: Where do you think you took most of the customers from?
+
+CL: It's certainly impacting on the Three prepay base. That Three prepay base grew, over the last number of years, on the back of their big data allowances which were more generous than anybody else's. There's also Tesco Mobile, which was very good at playing the value card. But we've picked customers up from everybody.
+
+AW: On the 'for life' promise, the Advertising Standards Authority for Ireland says it is looking at your terms and conditions, which appear to say that you can change the €9.99 cost whenever you want.
+
+CL: There's absolutely no issue there. If you signed up at €9.99, or now at €12.99, it's guaranteed for life. In terms of the terms and conditions, if something were to happen to international conditions, outside the core [€9.99] proposition, we reserve the right to change those. But the core proposition of €9.99 or €12.99 is guaranteed for life.
+
+AW: Does this mean your overall mobile customer base has risen?
+
+CL: Yes. We're doing results in February so you'll see those mobile volumes coming through. When we launched in October, we thought 100,000 customers was an ambitious target. Even with the €9.99 'for life' message, we thought it would take us until June of this year. But we had 100,000 done before Christmas.
+
+We've been blown away. To persuade 100,000 people to do something is not easy. It was only launched two days and we got feedback that scores of school WhatsApp groups were talking about it. It seemed to gather a life of its own.
+
+AW: How can you make money from a €10-per-month, high-data service?
+
+CL: The margin there is better than you might think. The majority of customers have come from other networks on to our network so that's completely new revenue to Eir. It's a much cheaper proposition to serve because we don't have the big care or store infrastructure. This makes the margin better than you would think.
+
+Add to this that we've seen a chunk of GoMo customers come from prepaid, where the average revenue per user is lower than on GoMo and the churn is higher, and we're very happy with the contribution that GoMo has made from a financial point of view.
+
+AW: Will you add 5G to GoMo?
+
+CL: No, we have no plans to.
+
+AW: If one of the main differences between GoMo and Eir Mobile is 5G [on Eir Mobile], does GoMo's strong performance suggest weak demand for 5G in Ireland?
+
+CL: Demand for 5G will come. There was a decent number of 5G handset sales at Christmas. But they're what you'd expect them to be, in the hands of early adopters who always want the new thing. It will take a while for the rest of the population of the mobile users to catch up. There's no Apple 5G device yet, but that will all come.
+
+AW: Do you know yet what people will use 5G for?
+
+CL: We all talk about the obvious uses like e-health and autonomous cars. But we broadcast a Munster versus Saracens rugby game over 5G on Eir Sport, rather than via satellite. It worked pretty well.
+
+I think it could be a good broadcasting application and much cheaper than current systems. It might give companies an opportunity to cover more games.
+
+AW: How many 5G sites do you have?
+
+CL: About 170 across 20 towns and cities. It's now above 25pc population coverage. We're by far the biggest 5G network in the country.
+
+AW: You had promised 300 5G sites by now. Have you looked at tepid demand and decided to refocus resources on filling out 4G sites first?
+
+CL: No. We're just managing what we can do with what sites are available.
+
+AW: You recently switched your TV service to an Apple TV platform. A few years ago, Apple CEO Tim Cook said that the future of TV would be apps. Is that what you're doing?
+
+CL: I think that's certainly the direction it's going. We see the future of TV moving away from linear [viewing]. If you look at the statistics, with most people, it's linear today, but a lot of people are moving to different apps.
+
+We wanted to get on the front foot of that. With Disney Plus launching in March, that will be another app that will come up when you switch on.
+
+AW: Eir's Apple platform is easy to use but you can't record much, especially channels like the BBC. Isn't that a drawback?
+
+CL: Yes, that's currently the biggest challenge. My parents were over at the weekend. They're on our old TV platform and I told them to stay there for the moment because they like to record from the BBC.
+
+But those rights will come. They've never had to think about those rights in the past but everyone sees the way this is going. So over time, this is not going to be an issue.
+
+AW: If TV is just moving to apps, why will anyone need a TV service, given that new tellies now come with the most popular on-demand video streaming apps like Netflix and Amazon Prime Video?
+
+CL: Well, we'd say that you're getting linear TV and your sport or whatever, so it's the combination of all that which makes us attractive.
+
+AW: On broadband, where are you with your fibre-to-the-home rollout?
+
+CL: On our rural build, we finished up with 340,000 homes passed last summer. We immediately turned that network team to look at our national fibre network.
+
+So we have 28 towns across the country available now, including in some urban and suburban areas.
+
+We'll add another 20 towns by the end of April. So the machine that was hitting 30,000 fibre-to-the-home households is now targeting urban and suburban areas, where we can hit 65,000 to 70,000 homes per quarter.
+
+Our ambition is to bring fibre-to-the-home to 1.4 million homes, which is 84pc of the country. If you then add the National Broadband Plan, that puts Ireland right at the top in terms of broadband connectivity.
+
+Our opportunity now is to take on [Virgin Media] cable. Eir has never had the network to take on cable. But the fibre network is better than the cable network because it's not contended. In the big towns and the cities, we're under-represented today. So this is our opportunity to grow that share.
+
+AW: The National Broadband Plan has been signed and work is under way. It's possible that if Eir had been doing what it is doing today five years ago, there may not have been a need for this NBP.
+
+It's also possible that Eir might even have scooped the extra network contract that you claimed it could do for €1bn in the Oireachtas last year when you arguably put a spanner in the NBP works. Did you miss your chance back then? Was it just the wrong time for Eir in those years?
+
+CL: There are a couple of things there. First of all, Eir is different today. We have a long-term telco investor who absolutely believes in decisions for the long term.
+
+They [parent NJJ] fundamentally believe that the company with the best infrastructure of fixed and mobile will win the day.
+
+So making decisions is quicker and easier. Everything we said we were going to do last year, we have done.
+
+At the same time, when Eir started building fibre to the cabinet, it was post-examinership. It had a certain amount of money and the question at the time was whether we go deep and narrow with fibre to the home, or broad with fibre to the cabinet. I don't know whether that was a wrong decision, but if you look at our recovery post-examinership, you'll see that the recovery was on the back of both wholesale and retail customers coming on to that fibre-to-the-cabinet network.
+
+As for the National Broadband Plan, we weren't trying to put a spanner in the works. But if you were to ask me the same question again, then I'd tell you the truth and I'd be confident about that answer.
+
+If I had a billion euro tomorrow and I hadn't taken my team and put them on building an urban and suburban network, I could do the rest of that [NBP] network.
+
+That's still absolutely the case. I know how much it costs. We were asked the question and we gave an honest answer.
+
+That said, we've moved on. All of our resources are focused now on the cities and the big towns. That's a five-year programme.
+
+AW: So then you won't agree with Michael Ring's recent comments in the 'Sunday Independent' that Eir was "acting like a spoiled child" and that "when the sweets are taken away from them, they start crying"? That "these are the ones who want to roll out rural broadband", even when he "can't get [Eir] out to elderly people with their senior alert alarms when their phones are out"?
+
+CL: Well, when I finish picking my toys up and putting them back in the pram, I'll answer that. In all seriousness though, while he's entitled to his own opinion, the stuff on the repairs is just not factually true. We are regulated and we have a repair service level agreement with the regulator [ComReg].
+
+We have to get the vast majority of the repairs done within two days. And we're well within that. But occasionally, we need a county council to close a road to do a repair. Or lightning might hit the copper network and it's difficult to repair.
+
+But it's certainly not in our interest to be slower on repairs than we need to be.
+
+To hear Carolan Lennon's full interview, stream The Big Tech Show podcast tomorrow at independent.ie/podcasts or on Soundcloud, iTunes or Spotify.
+
+Indo Business

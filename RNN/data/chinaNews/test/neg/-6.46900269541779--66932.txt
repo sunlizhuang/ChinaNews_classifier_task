@@ -1,0 +1,31 @@
+Four alleged members of the Chinese People’s Liberation Army (PLA) 54th Research Institute conspired with one another to hack vulnerable networks and access and steal the personal data of millions of customers of credit agency Equifax, according to an indictment unveiled by the US Department of Justice (DoJ).
+
+The charges against Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei were filed by a federal grand jury in Atlanta, Georgia. They stand accused of exploiting a vulnerability in the Apache Struts Web Framework software used by Equifax’s online dispute portal, which they used to conduct reconnaissance of the wider network and obtain login credentials enabling them to go deeper still.
+
+The hack, which unfolded over a two-month period between May and July of 2017, saw the personal data of close to 150 million Americans and nearly 700,000 Britons exfiltrated to computers outside the US.
+
+The data stolen included names, addresses, dates of birth, phone numbers, social security numbers and other financial information. They are also charged with stealing sensitive business information, including Equifax’s data compilations and database designs.
+
+During this time, the accused took steps to cover their tracks, routing traffic through 34 servers around the world, using encrypted communication channels inside Equifax’s network to blend in with day-to-day activity, and deleting compressed data files and wiping log files on a daily basis.
+
+“This was a deliberate and sweeping intrusion into the private information of the American people,” said US attorney general William Barr. “Today, we hold PLA hackers accountable for their criminal actions, and we remind the Chinese government that we have the capability to remove the internet’s cloak of anonymity and find the hackers that nation repeatedly deploys against us.
+
+“Unfortunately, the Equifax hack fits a disturbing and unacceptable pattern of state-sponsored computer intrusions and thefts by China and its citizens that have targeted personally identifiable information, trade secrets and other confidential information.”
+
+Read more about Equifax Equifax chief says firm does take cyber security seriously in a response to a scathing Senate report on the credit rating agency’s 2017 data breach, which experts say highlights failings around open source software.
+
+Equifax explains how it has transformed its data security strategy using multiple clouds and a more focused approach through Google Cloud Platform's hierarchal security.
+
+Under the settlement with the FTC and state attorneys general, Equifax will fork out at least $575m in civil penalties and provide credit monitoring services to consumers.
+
+The defendants are charged with three counts of conspiracy to commit computer fraud, conspiracy to commit economic espionage and conspiracy to commit wire fraud. The defendants are also charged with two counts of unauthorised access and intentional damage to a protected computer, one count of economic espionage and three counts of wire fraud.
+
+Barr said the case was part of a pattern of state-sponsored computer intrusions and thefts conducted by China, and threat actors operating with Chinese backing, targeting intellectual property and other enterprise data. He added that 80% of US economic espionage prosecutions implicated Beijing in some way, and 60% of all trade secret theft cases in recent years involved China.
+
+“We do not normally bring criminal charges against the members of another country’s military or intelligence services,” said Barr. “In general, traditional military and intelligence activity is a separate sphere of conduct that ought not to be subject to domestic criminal law.
+
+“There are exceptions to this rule, of course. For instance, we have brought charges against intelligence officers operating undercover in the US. And more recently, we have charged state-sponsored actors for computer intrusions into the US for the purpose of intellectual property theft for the use of their private sector, bank robbery and interfering with our democratic elections.
+
+“Like those cases, the deliberate, indiscriminate theft of vast amounts of sensitive personal data of civilians, as occurred here, cannot be countenanced,” he said.
+
+Equifax not off the hook The repercussions of the attack for Equifax have included fines of up to $700m in the US and £500,000 by the UK’s Information Commissioner’s Office, alongside class action lawsuits and the ruination of the firm’s reputation. Moreover, the indictments do not change the fact that Equifax bears some culpability for engaging in a pattern of risky behaviour that made a data breach far more likely. According to documents filed in a securities fraud class action against Equifax, the firm’s shortcomings were many and varied. These included failure to implement patching protocols, failure to encrypt sensitive information, storing sensitive data on public-facing servers, inadequate network monitoring practice, using obsolete software, and poor password hygiene – Equifax employed the username and password “admin” to protect its credit card dispute management portal, for example. In March 2017, two months before the defendants allegedly gained access, former CEO Richard Smith, who lost his job after the hack, personally oversaw an in-depth investigation by cyber security firm Mandiant. The documents said: “Mandiant concluded that Equifax’s data protection systems were grossly inadequate. Mandiant specifically identified Equifax’s unpatched systems and ‘misconfigured security policies’ as indicative of major problems. However, instead of heeding Mandiant’s advice, Equifax squelched a broader review of Equifax’s security system.”

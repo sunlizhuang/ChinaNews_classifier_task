@@ -1,0 +1,15 @@
+storage
+
+Shell Backs Europe’s Biggest Battery In Support Of Renewable Power
+
+The project is located at Minety, Wiltshire, southwest UK. The designed installed capacity/energy is 100MW/100MWh. It applies LiFePO/ ternary lithium battery technology. It is planned to put into operation at the end of 2020.
+
+The project is backed by China Huaneng Group and Chinese sovereign wealth fund CNIC. The two 50-MW batteries will enable SEEL and Shell subsidiary Limejump to optimize the use of renewable power in the area.
+
+In recent years, with the rapid development of wind power in UK, the intermittence and fluctuation of wind power output is making the imbalance of time for supply and demand more and more obvious. After the project’s operation, it will become the largest battery energy storage project in Europe, providing power source emergency support when the main grid has an accident, and elevating effectively the safe operation level of the grid.
+
+“Projects like this will be vital for balancing the UK’s electricity demand and supply as wind and solar power play bigger roles in powering our lives,” David Wells, vice president of SEEL, said. “Batteries are uniquely suited to optimizing power supplies as the UK moves towards net-zero carbon system.”
+
+Batteries are expected to play a key part in the transition to a low-carbon energy system by absorbing excess energy when supply exceeds demand in some areas, then supplying that power to the grid when needed.
+
+Limejump, a wholly-owned Shell subsidiary that manages the largest network of batteries in the UK, will optimize the use of Europe’s biggest battery through its pioneering Virtual Power Platform.

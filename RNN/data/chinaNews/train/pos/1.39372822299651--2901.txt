@@ -1,0 +1,11 @@
+Hesai technology, a leading Chinese lidar manufacturer, has announced the completion of a series C financing round co-led by the German Bosch Group and Lightspeed Venture, Qiming Venture Partners, ON Semiconductor, DT Capital Partners, Axiom Singapore and others investors. The total financing was US$173 million, one of the largest financing deal in the LiDAR sector.
+
+Hesai Technology, which has its roots in Silicon Valley, focuses on developing and building LiDAR for robots and unmanned vehicles. Laser radar is known as the “eye" of the unmanned vehicle, which can accurately capture the movement of the surrounding environment and objects.
+
+Based in Shanghai in 2014, Hesai now has two business centers, two manufacturing centers, and a Hesai research institute with more than 600 employees in China and the United States, and 364 patent portfolios worldwide.
+
+The company’s proprietary products, Pandar64, PandarGT (micro mirror solid-state LiDAR) and Pandora (multi-sensor fusion) have attracted the attention of more than 100 top autopilot and robotics companies worldwide since their launch in 2017. Products are available in 68 cities in 18 countries and regions. More than 60 percent of this is exported to Europe and the United States. More than 50% of the 65 driverless public road test licenses issued by the DMV in California are already customers of the company.
+
+China saw 58.5 percent fewer venture investment deals in the first half of 2019 compared with the same period last year, according to Zero2IPO. When the capital market generally feels more cautious, the new financing round demonstrated Hesai’s tech capabilities.
+
+With automotive industry and the autonomous driving image sensor chip industry leaders join the company as investors, it will help Hesai to strengthen industry collaboration and generate more businesses.

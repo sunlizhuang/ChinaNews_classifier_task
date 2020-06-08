@@ -1,0 +1,11 @@
+Cerence is showing off an improved version of its Cerence Drive platform at CES 2020. The multimodal upgrades primarily concern technologies like gaze detection, head tracking, and voice and gesture recognition, and will give drivers more ways to control various elements of the vehicle without the need to press any buttons.
+
+The highlight is the new gesture tracking feature that allows drivers to interact directly with a widget-based user interface displayed on the windshield of the car. A tapping motion will be enough to pause the music widget, while a grab-and-drop motion will shift the GPS widget to the other side of the windshield so the person in the passenger seat can assist with navigation.
+
+“We believe that the best in-car experience is one that makes interacting with your car as close to interacting with another human as possible,” said Cerence CEO Sanjay Dhawan. “Gesture-based interaction, does just that, and creates a safe, productive, entertaining environment that will be core to the automotive experience both now and in the future.”
+
+Cerence is also blending voice recognition with head and gaze tracking in an effort to make driving more intuitive. For instance, voice commands coupled with gaze tracking will allow drivers to ask about points of interest outside the car and receive an appropriate response from the Cerence Drive platform.
+
+Some of the other updates concern Cerence’s Emergency Vehicle Detection and Car Life solutions. Meanwhile, Cerence’s natural language tech will deliver more intelligent traffic alerts and navigation options for the driver.
+
+The improved Cerence Drive arrives a month after the last round of upgrades, which enhanced the natural language understanding engine and negated the need for a wake word when issuing commands. The company later released a new AI Reference Kit designed specifically for the Chinese market. The kit will help Chinese car manufacturers integrate localized voice assistants.

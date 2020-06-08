@@ -1,0 +1,19 @@
+Schematic of the researcher’s multi-qubit entanglement generator/teleportation transmitter. (Image courtesy of Llewellyn et al.)
+
+Teleportation has long been a subject of popular fascination in modern science fiction. It’s inclusion in many books, films and television programs seems to suggest a subconscious association with teleportation as almost a kind of scientific magic.
+
+An academic group of 20 European and Chinese researchers has reportedly demonstrated chip-to-chip quantum teleportation—that is, they successfully passed information between computer chips via quantum entanglement. Their research paper describing the demonstration was published in Nature Physics.
+
+The Demonstration
+
+The researchers generated pairs of entangled photons with encoded quantum information, and showed the utility of the entanglement link. The group demonstrated that the two photons, when placed on two separate computer chips, maintained a single quantum state. The teleportation refers to the bizarre fact that measuring one of the entangled photons immediately reveals the state of the other. In their experiments, the researchers achieved a 91 percent fidelity rate for teleporting information.
+
+The work is part of a relatively new field of research that subjects the physical world to true scientific sorcery: quantum engineering. Quantum engineers build and use computing hardware called silicon-photonic circuitry that harnesses quantum entanglement. This chip-to-chip quantum teleportation would not be possible without the silicon-photonic hardware. In this case, it was a reprogrammable linear-optic quantum circuit.
+
+Silicon-photonic circuitry belongs to the field of technological research known as integrated optics. Originally inspired by the electronic integrated circuit, integrated optics researchers design and create integrated optical devices, planar lightwave circuits and photonic integrated circuits. These devices are constructed from different combinations of optical components such as lasers, photodetectors, optical filters, amplifiers and modulators.
+
+Bottom Line
+
+The foundations of classical physics were rocked for three decades in the early 20th century with the first quantum revolution. The mechanics of atomic and subatomic physical laws were unmasked and readied for what engineers do best: they apply the laws of science to create innovative new technology.
+
+Through studying scientific discovery as it applies to the limitations of technological innovations, some of today’s engineers are working out how quantum mechanics can be applied to networked and mobile computing hardware. Engineers have built quantum computers that successfully transfer information carried on qubits by applying the laws of quantum mechanics to the physical world. Quantum engineers are now fundamentally manipulating reality at a quantum level.

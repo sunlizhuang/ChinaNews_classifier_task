@@ -1,0 +1,73 @@
+Westborough High School Principal Brian Callaghan said said a group of Chinese students that was due to visit is no longer coming, as the Chinese government apparently has restricted their travel.
+
+The potentially fatal coronavirus – which has infected thousands worldwide and killed dozens – is also affecting foreign student exchange programs at some Central Mass. high schools.
+
+The new virus, which appears to have originated from infected live animals sold at open-air markets in Wuhan, in central China, by Monday had infected almost 3,000 people in 16 countries, including five in the U.S. who visited Wuhan.
+
+There have been no deaths in this country, according to health officials. But about 106 people have died in China.
+
+What is coronavirus and should Americans be worried? What to know about the outbreak in China
+
+Westborough High School is among the area schools where Chinese student visits have been canceled out of concerns about the virus.
+
+Principal Brian Callaghan said a group of Chinese students that was due to visit several schools in this country, including Westborough, is no longer coming. The Chinese government apparently has restricted the travel of the students who come here through the program Facing History and Ourselves.
+
+“It’s a great program,” Callaghan said. “Obviously, they’ve got their hands full in China. We talked over the weekend. It’s unlikely that they (the students) will be able to leave China. The government there is closing things down on these trips.”
+
+Callaghan said the group has been coming to Westborough in late January or early February for the past five years. The Chinese students usually stop at the school and other school districts, including Shrewsbury and Algonquin Regional in Northborough, before going to the Model United Nations Summit in New York, Callaghan said. When they come to Westborough, they each shadow a local student for the day. During the evening, the school’s Mandarin Club hosts a discussion, which is also attended by four teachers who accompany the students from China.
+
+Coronavirus terrifies us, but another virus has already killed 6,000 in U.S.
+
+Callaghan said the coronavirus has not affected students’ planned February and April group trips to the Galapagos Islands; Berlin, Germany; Prague, Czech Republic; Budapest, Hungary; Krakow, Poland; and Costa Rica.
+
+Westborough and Shrewsbury have large Asian populations. Callaghan said about 28% of the school's current enrollment of 1,170 is Asian, including Indian, Pakistanis, Chinese and Korean.
+
+Milford High School Principal Joshua Otlin said the school has about three to five Chinese exchange students, but they all arrived to the U.S. before the outbreak of the virus. In the summer, the school plans to send Milford students to China for a program. School officials will keep an eye on the situation before finalizing plans and booking flights, said Otlin.
+
+“This is not a live issue at this stage. As we approach the summer months and the dates that we need to book tickets, we’ll assess the situation then,” said Otlin.
+
+Alex Zequeira, headmaster at St. John’s High School in Shrewsbury, said a Chinese Spring Festival scheduled for Feb. 9 at Oak Middle School has been canceled. He said the school has 27 students from China and one from Korea; they stay with host families while they attend the private all-male Catholic school.
+
+Almost all of them traveled home for the Christmas break and returned to the U.S in early January. They are past the time when the illness would have shown itself, Zequeira noted.
+
+The coronavirus has nothing to do with Corona beer. But, some people seem to think so.
+
+“Our director of international students has been in close contact with all the families. She’s keeping me updated daily, not only on what’s happening in China, but here locally,” he said. “We have no concerns about the students enrolled here at St. John’s and we continue to monitor the situation.”
+
+As part of the school’s Chinese language program, students traveled to China last summer. The biennial program may happen again in the summer of 2021, Zequeira said.
+
+Marlborough High School Principal Daniel Riley said the school has no current plans to postpone any foreign student exchange programs. The school, along with several other high schools in Massachusetts, including Algonquin, work with Waltham-based Cambridge Network for their foreign student exchange programs. Students are brought from countries such as China, Vietnam, and Korea.
+
+Dennis Gu, marketing specialist, said Cambridge Network is not suspending any programs. He said the virus has not affected any of the agency’s international students and the matter is being closely monitored. High schools and host families have been contacted.
+
+“The message we’ve told our schools is we’re going about this in a very measured and appropriate response,” Gu said by phone Monday. “The worst thing we could do is overreact and make these students feel ostracized and unwelcomed, especially if they are a new student, since there is so much media coverage.”
+
+As a precaution, Cambridge Network will implement a number of policies to address concerns around international travel. As part of the new rules, the company will postpone or cancel all upcoming business trips to China through April 2020. All international students and natural families will also be asked to postpone or cancel mid-season international travel plans until further notice.
+
+Two patients in New Hampshire being tested for coronavirus
+
+For any international students who currently remain in their home countries or are unable to travel back to the U.S., Cambridge Network will ask partner schools to find online solutions to meet the students’ academic needs.
+
+Dr. Richard Ellison, a professor of medicine at UMass Medical School and infectious disease specialist and epidemiologist for UMass Memorial Medical Center, said the new coronavirus is in the same family of two other potentially fatal viruses. One caused the 2002 Severe Acute Respiratory Syndrome outbreak that originated in China, and the other caused the Middle East Respiratory Syndrome that was first identified in a patient in Saudi Arabia in 2012.
+
+Coronaviruses, he said, can circulate and affect animals, then mutate and change so they can affect humans. SARS seems to have started in bats, then went to civets before jumping to humans. MERS also started in bats, and camels are thought to have been involved in transmission to humans.
+
+Virus cases in China top SARS as evacuations begin
+
+Many of the cases involving the new coronavirus, identified as 2019-nCoV, are linked to people going to an open-air market in Wuhan where some sell exotic wild animals considered delicacies, including civets and bamboo rats, Ellison said. He added that almost all of those who died were 65 or older.
+
+Symptoms reported for patients with 2019-nCoV have included mild to severe respiratory illness with fever, cough and difficulty breathing, according to the CDC website. China's health minister Ma Xiaowei told CNN Sunday that coronavirus can be spread even before a carrier becomes symptomatic.
+
+//(function() {'use strict';window.addEventListener('message', function(event) {if (typeof event.data['datawrapper-height'] !== 'undefined') {for (var chartId in event.data['datawrapper-height']) {var iframe = document.getElementById('datawrapper-chart-' + chartId) || document.querySelector("iframe[src*='" + chartId + "']");if (!iframe) {continue;}iframe.style.height = event.data['datawrapper-height'][chartId] + 'px';}}});})();//
+
+There is currently no specific treatment for this family of viruses. But people should take the same preventive measures recommended during the ongoing flu season. Soap and water and alcohol kill the coronavirus, so good hand hygiene is very important, Dr. Ellison said.
+
+Ann Scales, spokeswoman for the state Department of Public Health, said the agency is working closely with the Centers for Disease Control and Prevention to understand and monitor the new coronavirus. She said the major route of spread of these viruses is from respiratory tract secretions of an infected person to another person, but data on transmission continues to be collected. Scales said the risk to Massachusetts residents from this novel coronavirus is currently low. Like Ellison, she advises people to take similar precautions as they would with the flu and other respiratory viruses.
+
+"This is a rapidly evolving situation and the Massachusetts Department of Public Health is working with the CDC and other agencies to learn more and provide updated information as it becomes available, in addition to updated guidance for the public," she said.
+
+The CDC announced Monday that 110 people are under "investigation" for the virus in 26 states. The latest information is available on the CDC website.
+
+//(function() {'use strict';window.addEventListener('message', function(event) {if (typeof event.data['datawrapper-height'] !== 'undefined') {for (var chartId in event.data['datawrapper-height']) {var iframe = document.getElementById('datawrapper-chart-' + chartId) || document.querySelector("iframe[src*='" + chartId + "']");if (!iframe) {continue;}iframe.style.height = event.data['datawrapper-height'][chartId] + 'px';}}});})();//
+
+Multimedia journalist Zane Razzaq contributed to this report.

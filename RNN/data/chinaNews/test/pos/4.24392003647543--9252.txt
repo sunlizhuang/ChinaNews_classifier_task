@@ -1,0 +1,23 @@
+SHANGHAI, Jan. 15, 2020 /PRNewswire/ -- Quectel Wireless Solutions, a leading global supplier of Internet of Things (IoT) modules, has been collaborating with Telefónica, one of the largest carriers in the world who has been recognized for its vision and execution capabilities in IoT.
+
+As a result of the collaboration, Quectel has recently received certification of its LTE Cat NB2 (NB-IoT) module BC95-G from Telefónica, which includes subscription swap capabilities based on GSMA V3.2 standards.
+
+These subscription swap capabilities are useful in Smart Metering (water, gas, electricity) and Smart Cities (waste managedent, parking, streetlight, pollution monitoring and more). For example, smart meters need to be deployed for 10-15 years and are often located in hard to reach locations, typically making the service cost of replacing subscriptions high. Additionally, subscription swap technology can help simplify the deployment, management and security implementation of future-proof smart meter devices.
+
+Norbert Muhrer, Quectel's President and CSO, commented that, "after close collaboration with Telefónica teams, our BC95-G module is reliable, well tested and proven in its capabilities for operating on Telefónica's NB-IoT network. Now customers can accelerate their IoT deployments worldwide."
+
+The Telefónica-certified BC95-G is a high-performance NB-IoT module that supports multiple frequency bands of B1/B3/B5/B8/B20/B28 with extremely low power consumption. Designed for size sensitive applications and compatible with Quectel GSM/GPRS M95 and LPWA BC95 modules, it provides a flexible and scalable platform for new NB-IoT use cases.
+
+Telefónica is currently working with customers on Smart Metering and Smart City projects to be deployed as a result of this achievement in Quectel BC95-G module.
+
+About Quectel
+
+Quectel Wireless Solutions Co., Ltd. (Stock Code: 603236.SS) is the leading global supplier of cellular and GNSS modules, with a broad product portfolio covering the most recent wireless technologies of 5G, LTE/LTE-A, NB-IoT/LTE-M, UMTS/HSPA(+), GSM/GPRS and GNSS. As a professional IoT technology developer and cellular module supplier, Quectel is able to provide one-stop services for IoT cellular modules. Quectel products have been widely applied in IoT/M2M fields including smart payment, telematics and transport, smart energy, smart cities, security, wireless gateways, industry, healthcare, agriculture, and environment monitoring. For more information, visit Quectel's website, LinkedIn, Facebook and Twitter.
+
+For more information contact:
+
+Ashley
+
++86-551-6586-9386*8016
+
+media@quectel.com

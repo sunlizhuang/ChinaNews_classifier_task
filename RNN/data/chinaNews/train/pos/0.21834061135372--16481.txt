@@ -1,0 +1,17 @@
+Today may be all about a smaller Navi graphics card, but AMD’s ‘Big Navi’ GPU has been the talk of the tech world since Dr. Lisa Su confirmed that we would be seeing a high-end version of its Navi graphics cards this year. She first said that we should expect AMD “will have a high-end Navi” during a roundtable at CES and then doubled down during AMD’s The Bring Up YouTube show saying “you’re going to see Big Navi in 2020.”
+
+And now we’re starting to hear some more (obviously unsubstantiated) rumours about the testing boards for the new Radeon graphics card, with the Navi 21 GPU inside it, starting to arrive at AMD in North America for validation.
+
+The latest rumour is that the Navi 21 GPU, with a full 80 compute units (CUs) inside it, is being assessed internally at AMD and that its RDNA 2.0 architecture is giving Nvidia’s RTX 2080 Ti some serious cause for concern. Not least because the new GPU is supposedly also set to support the Turing architecture’s killer app, hardware-accelerated ray tracing.
+
+The post on Chinese forum, Chiphell (via Guru3D), contains the usual fascinating machine translation from the native tongue, with Microsoft’s new Chromium-based Edge browser suggesting that “the internal assessment is explosive 2080 Ti.” I’m going to make an educated guess and take that to mean it’s either causing the Turing GPUs to explode by their mere presence, or that the Big Navi 21 GPU is producing some very competitive performance figures.
+
+AMD Navi 21 Nvidia TU102 AMD Navi 10 Compute units 80 72 40 Cores 5,120 4,608 2,560 Architecture RDNA 2.0 Turing RDNA 1.0 Lithography 7nm 12nm 7nm Die size 505mm2 754mm2 251mm2 Transistors 21 billion 18.6 billion 10.3 billion
+
+The post also claims to confirm the 80 compute unit count that has been widely reported elsewhere, which makes for a Navi 21 GPU that’s got twice the core count of the inaugural Navi 10 silicon inside the RX 5600 XT, RX 5700, and RX 5700 XT cards.
+
+That also makes the ‘Big Navi’ reference very apt. If the rumoured specs are true then the Navi 21 GPU is going to be a shade over 500mm2. We’re all inured to large slices of graphics silicon these days, what with the TU102’s mammoth 754mm2 girth, so Navi 21 still looks rather more svelte than that. But we are talking about a 12nm Nvidia design vs a 7nm AMD chip.
+
+So yeah. Really big.
+
+And with those 80 CUs you’re looking at 5,120 RDNA 2.0 cores. Quite how AMD is managing the hardware-accelerated ray tracing we still don’t know. It will surely be designed to support Microsoft’s DirectX Raytracing API, given that is what will likely power the Xbox Series X’s approach to the latest lighting magic, but how that is manifested in the GPU itself is still up in the air.

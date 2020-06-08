@@ -1,0 +1,87 @@
+Medical experts and economists alike say the world is at a crossroads: Either the virus will wither or unleash a pandemic.
+
+As the Wuhan coronavirus tightens its grip around the globe, medical experts and economists alike now say the world is at a potentially historic juncture: Either quarantines and other public health measures will strangle the virus, or they will prove too slow and weak, and the pathogen will lash out, causing a pandemic.
+
+“I believe that the next few weeks will be critical in showing whether or not this virus will grow into a pandemic or remain confined to China,” said Dr. Charles Chiu, a professor of medicine at the Division of Infectious Diseases at the University of California in San Francisco, in an email to TheStreet.
+
+If the number of infections decreases and the outbreak becomes under control, it will “validate” the Chinese government's stringent measures to control spread – such as imposing quarantines and limiting travel, said Chiu, who is also part of a team working on a new, rapid test for the virus. “However, if we start to see sustained transmission in other countries, it would suggest that even these measures were not sufficient to control the epidemic, and global spread would be inevitable.”
+
+If the latter happens, the deadly pathogen could sicken much of the world’s population, overwhelm nations’ health care systems and chill the global economy.
+
+In the case of a pandemic, for example, world gross domestic product growth would get whopped, losing out on $1.1 trillion for the full year, according to a report late last week from Oxford Economics.
+
+But the human toll – even if the overall death rate is around 2% or lower – would also be devastating, say experts. Right now, it is believed that one in five people infected with the virus will develop severe disease.
+
+“If this became widespread … it would put a burden on health care systems worldwide, because even though the percentages of deaths and severe cases isn't very high, the absolute numbers would be,” said said Dr. Sanjaya Senanayake, an infectious disease expert and associate professor at Australian National University Medical School, in an email to TheStreet.
+
+While Dr. Senanayake believes most people who survive would eventually recover and build up immunity to the disease caused by the virus, and that a vaccine would eventually be created, the outbreak would put pressure on hospitals already scrambling to care for patients during this flu season. He also notes that at least one estimate forecasts up to 60% of the global population becoming infected by the coronavirus if it isn’t soon brought under control.
+
+At last count early Sunday, nearly 79,200 people worldwide had the virus and the U.S.' total count was at 35.
+
+Rapid Spread for a Sluggish Disease
+
+Stepping back, one would see that while the global spread has been speedy, the disease in patients has been excruciatingly slow.
+
+The nation’s first case – a man in his 30s who returned from Wuhan to Washington state Jan. 15 – was only released as virus-free a few days ago. The man was diagnosed not long after returning to the U.S. At first he had cold-like symptoms, and it wasn’t until more than a week after that he was hospitalized with breathing difficulties. It took him well over a month until he was let out of isolation.
+
+The story of U.S. patient No. 1 is dramatic when juxtaposed with the story of the outbreak itself. He essentially carried the virus from the time world first began learning about the person-to-person risk of COVID-19 in mid-January to now, as it has been diagnosed in nearly 80,000 people around the world and as people have now died from it in many countries outside of China: Italy, France, Taiwan, Japan, Iran, South Korea and more.
+
+Even what appears to be milder cases are dragging on. In Boston, for example, a college student returning from Wuhan was confirmed to have the virus on Jan. 31. He sought care days earlier, out of fear he had been infected. As of Friday, the student was still “self-isolating at his off-campus home,” Boston public health officials told TheStreet.
+
+In a way, these cases could be seen as metaphors for what’s happening globally: The initial fear of the infection, the uncertainties of the virus, the quarantines and other restrictions, the experimental treatments for a disease with no known cure or vaccine, and then the long wait to see how bad – or manageable – things get.
+
+If it turns out the world isn’t as lucky as the U.S.’ first patient, then the implications for public health and world economies will be great.
+
+“With widespread circulation of the virus locally, mass quarantine becomes difficult to impossible,” said Chiu. “It is unlikely, for instance, that the stringent measures that are being taken by China to prevent spread could be implemented or enforced in the United States. The next focus from a public health perspective would be in developing effective therapeutics or vaccines if we are unable to prevent the virus from spreading.”
+
+By the weekend, it appeared the world was swerving in the direction of that crisis as the numbers of patients outside China continue to grow.
+
+“The window of opportunity is narrowing, so we need to act quickly before it closes completely,” said the World Health Organization’s director-general Tedros Adhanom Ghebreyesus on Friday, according to Reuters.
+
+“This outbreak could go in any direction…. If we do well, we can avert any serious crisis, but if we squander the opportunity then we will have a serious problem on our hands.”
+
+U.S. health officials said the same day they’re also beginning to prepare for a potential spread of the virus here, as is happening in several other nations outside of China, such as Italy, Singapore, Japan and South Korea, which recorded more than 760 cases by Sunday night.
+
+“We’re not seeing spread here in the United States yet, but it is possible, even likely, that it may eventually happen,” Dr. Nancy Messonnier of the Centers for Disease Control and Prevention told reporters on Friday. “Our goal continues to be slowing the introduction of the virus into the U.S. This buys us more time to prepare our communities for more cases and possibly sustained spread. This new virus represents a tremendous public health threat.”
+
+The CDC is now working with state and local health departments, businesses and health care suppliers, to better respond to new cases and the possibility of a pandemic.
+
+Forecasting what unfolds next would be difficult. Questions still remain about the virus, its disease’s effects on the body, recovery time, and fatality rate. A vaccine won’t arrive until at least sometime in mid-2021 – and experts told TheStreet last week that might even be “wishful” thinking. Available tests even have shortcomings.
+
+Test of Technology
+
+The challenges of diagnosing patients cannot be taken lightly: They make containing and tracking the virus all the more difficult.
+
+Because viral loads in patients appear to fluctuate, the main test now used can be unreliable for "ruling out" infection, said Chiu. That test is also currently only available at the CDC and in a handful of state and local public health laboratories.
+
+“There is still a need for a quick, reliable test that can be done locally and which has a rapid turnaround time,” said Chiu, “to guide prompt isolation, contact tracing, and treatment. There is also a need for a test that can be run several times a day if needed to monitor patients under quarantine or infected patients in the hospital.”
+
+The test he’s working on with MammothBiosciences in San Francisco would help provide results faster, within about 30 minutes. It could also be used in airports, emergency rooms and community hospitals – including those in poor countries. But Chiu cautioned that it would have some of the same problems of diagnosing patients during the incubation period, when disease carriers may be contagious but not yet showing symptoms.
+
+Economies Not Feeling So Well, Either
+
+When news of the Wuhan coronavirus first began dominating headlines, comparisons were quickly made to the SARS outbreak of the earlier 2000s. Now, it’s clear that this particular coronavirus is a different animal.
+
+“In terms of economic impact, it is widely expected to be worse than in 2003 given the much bigger role that China plays in the global economy,” said Oxford Economics economist Sung Eun Jung and lead economist Adam Slater, in an email to TheStreet.
+
+Oxford’s paper on the two possibilities for the coronavirus include an “Asian pandemic scenario,” in which Asian economies closely dealing with China see significant outbreak, and a global pandemic. Basing its forecasts on the earlier SARS and swine flu outbreaks, the paper sees lower discretionary consumption because of illness, travel restrictions, and people avoiding going out; a labor “supply shock” because many sickened people can’t work and production is slowed; plummeting travel and tourism spending; lower investment because of uncertainties, falling demand and problems in supply chains; and a “financial contagion” that includes lower equity prices and rising money market spreads.
+
+If the pain is mostly limited to Asia, then growth in the region slumps “from around 4% at end-2019 to just 1.5%” year-over-year in the first half of 2020. Chinese growth, meanwhile, would sink to 2.6% year-over-year in the first quarter of 2020.
+
+Elsewhere in the world would get knocked from weakened trade, but would be helped by policies such as lower U.S. rates, according to the paper. Global GDP growth would decline to 1.5% year-over-year in the first half of 2020.
+
+If the world falls ill, then in the first half of the year GDP growth would sink to nearly zero, and for full-year 2020, it takes a $1.1 trillion – or 1.3% – haircut. The U.S. and eurozone enter “technical” recessions in the first half of the year, too.
+
+“It’s hard to put an exact number to the probability of each scenario,” said Slater, one of the report’s authors, in an email to TheStreet. “One could look at the speed at which China is returning to business as usual to gauge the extent of the negative impact. Business surveys of sentiment and activity coming out over the coming weeks could give us a sense, but they are also notoriously volatile. We continue to forecast the negative economic effects to be concentrated in (the first half of the year) and the outbreak would then start to come under control.”
+
+But what if it doesn’t? The virus is already hitting seemingly invincible giants such as Apple (AAPL) - Get Report, and a slew of other technology companies, both inside and outside of China. Major conferences are getting canceled.
+
+And if the U.S. imposed restrictions like those seen in China – and panic grips the nation after cases pop up here with no apparent connection to international travelers – what would be the psychological, health and economic consequences?
+
+As the CDC’s Messonnier said on Friday, “if you’re watching the news, you may be hearing about schools shutting down and businesses closing in countries in Asia to reduce the potential spread of this virus. The day may come where we need to implement such measures in the U.S....”
+
+Will that day come? Time will tell.
+
+But with the current explosion of cases in countries like Italy, Korea and Japan, and the more than 1,300 known infections in 26 countries outside of China, this microscopic threat – so elusive even the best tests can’t always spot it with certainty – seems even more difficult that ever before to put back into the bottle.
+
+This story has been updated. To reach the reporter, email here.

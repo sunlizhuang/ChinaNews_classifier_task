@@ -1,0 +1,31 @@
+CES 2020: Lenovo announces ThinkSmart View, Legion Y740S, BootStation eGPU, refreshed ThinkPads and more
+
+It’s CES 2020 week and Lenovo’s new product announcements have just landed on us like a sack of hot potatoes. The popular Chinese electronics manufacturer has got a lot in store for us this time, like a couple of refreshed ThinkPad models, a new gaming laptop, a business communication solution called ThinkSmart View, a wide array of business and gaming monitors, new keyboards, and—for the first time ever—an external GPU called Legion BootStation. With the intro out of the way, let’s dig into the list:
+
+ThinkSmart View, ThinkSmart Manager
+
+Lenovo has a new smart display that’s designed specifically for personal business communications such as audio and video calls on Microsoft Teams. Powered by a Qualcomm APQ8053 SoC, the ThinkSmart View incorporates a touchscreen display, a webcam that can physically be opened and closed , and a user-facing loudspeaker. Lenovo says in its press release that it can be deployed and managed easily in large enterprises with the help of the ThinkSmart Manager software. Lenovo also says the ThinkSmart View can help users join conference calls “in seconds rather than minutes”. The ThinkSmart View is expected to go on sale in the US later this month for a starting price of $349 (Rs 25,000 approx.).
+
+Legion BootStation
+
+With the introduction of the Legion BootStation, Lenovo has officially entered the world of external GPUs. Sporting an aluminium build and a transparent side panel, the Legion BootStation is home either to an Nvidia GeForce RTX 2060 or AMD Radeon RX 5700 XT graphics card, depending on the variant purchased. Weighing less than 9.07 kilogrammes, it can be hooked up to supported PCs using Thunderbolt 3 for boosted gaming performance. According to the press release, the Lenovo Legion BootStation will go on sale from May 2020 for a starting price of $249.99 (Rs 18,000 approx).
+
+Legion Y740S
+
+Billed as Lenovo’s “thinnest and lightest Windows 10 gaming laptop yet”, the Legion Y740S is a thinned-down version of the existing Legion Y740 gaming laptop. It comes powered by up to an Intel 10th Gen Core i9 CPU but features no discrete graphics card on board. However, it can be hooked up to a Legion BootStation using Thunderbolt 3 for serious gaming. The display on the Legion Y740S is a 15.6-inch 4K IPS LCD panel with a maximum brightness of 600 nits. System RAM goes up to 32GB storage and maxes out at 1TB on a PCIe NVMe solid-state drive. According to Lenovo, the laptop has dedicated Performance and Quiet Modes, 100-per cent anti-ghosting keys, and an eight-hour battery life. The Lenovo Legion Y740S starts at $1099.99 (Rs 79,200 approx) and will be sold as a configure-to-order product.
+
+ThinkPad X1 Carbon, ThinkPad X1 Yoga
+
+In addition to the slim new Legion Y740S gaming laptop, Lenovo has announced two refreshed ThinkPad models, namely the ThinkPad X1 Carbon and ThinkPad X1 Yoga. Lenovo says the eight-generation ThinkPad X1 Carbon is part of Intel’s Project Athena initiative, which should ideally ensure faster resume times and a longer battery life. Both models now get dedicated call answer and end keys in the function row along with the ThinkPad PrivacyGuard and ThinkPad PrivacyAlert technologies, which ensures that only the user can view the screen contents. The new ThinkPad X1 Carbon and ThinkPad X1 Yoga are expected to go on sale later this year for a starting price of $1,499 (Rs 1,08,000 approx) and $1,599 (Rs 1,15,270 approx), respectively.
+
+ThinkCentre M90a AIO
+
+The ThinkCentre M90a AIO is a new all-in-one desktop with Intel’s 10th Gen Core series CPU and a 23.8-inch Full HD display. Like its ThinkPad cousins, it gets an IR camera with the ThinkShutter physical webcam slider for added privacy. It also gets Dolby Atmos Audio and a hidden cable management system. According to Lenovo’s press release, the ThinkCentre M90a AIO is expected to go on sale from June this year for a starting price of $1099 (Rs 79,225 approx).
+
+ThinkVision monitors, ThinkPad TrackPoint Keyboard II
+
+Lenovo has announced four ThinkVision monitors, one of which is called the ThinkVision Creation Extreme. It’s a 27-inch HDR1000-compatible display with 10,368 dynamic local dimming-supported LEDs. According to Lenovo, it’s designed specifically for creators and has 99-per cent DCI-P3 colour coverage along with up to 90W power delivery support for other devices. It’s expected to be available from April this year for a starting price of $2,499 (Rs 1,80,150 approx). Lenovo also launched three other monitors, namely the ThinkVision T34w-20, ThinkVision P27h-20, and ThinkVision T24v-20. This range starts at $264 (Rs 19,000 approx). Finally, Lenovo has launched the ThinkPad TrackPoint Keyboard II, a wireless keyboard for the ThinkPad keyboard loyalist. Available from May this year for $99.99 (Rs 7,200 approx), it mimics the popular ThinkPad keyboard and offers TrackPoint navigation. Connecting via 2.4GHz wireless or Bluetooth, it has a two-week battery life and USB-C charging.
+
+Legion gaming monitors, accessories
+
+Lenovo has used this opportunity to announce three gaming monitors, including the Legion Y25-25 24-inch Full HD IPS LCD monitor, which has up to 400 nits of brightness, AMD FreeSync support, and a 240Hz refresh rate. Lenovo also announced the Lenovo G32qc and Lenovo G27c gaming monitors. This new range starts at $219.99 (Rs 15,860 approx). Lastly, the company announced two gaming mice and a gaming keyboard, namely the Lenovo Legion M600 Wireless Gaming Mouse and Lenovo Legion M300 RGB Gaming Mouse along with the Lenovo Legion K300 RGB Gaming Keyboard. This range starts at $29.99 (Rs 2,160 approx).

@@ -1,0 +1,35 @@
+The European Commission on Wednesday endorsed guidelines for 5G networks that would allow European Union (EU) member states to decide whether to allow "high risk" telecommunications groups, such as Chinese company Huawei, in their networks, going against strong pressure from the U.S. to ban the company.
+
+Under the new “toolbox” that lays out measures for how EU states mitigate cyber risks posed by the rollout of 5G networks, the European Commission required member states to “assess the risk profile” of suppliers of 5G equipment, and to apply any relevant protections for groups considered "high risk," such as Huawei, though no company was mentioned by name.
+
+The guidelines fall short of a ban on Huawei amid U.S. fears the Chinese telecommunications company could share intelligence with Beijing.
+
+ADVERTISEMENT
+
+EU member states have until April 30 to implement key measures of the new 5G security guidelines.
+
+The EU’s decision comes the day after the United Kingdom’s National Security Council voted to allow Huawei limited involvement in the rollout of its 5G network, also going against pressure from the Trump administration to fully ban the company.
+
+The U.K. action led to serious concern around continued intelligence sharing between the U.S. and the U.K. on Capitol Hill.
+
+Concerns about Huawai largely stem from a Chinese intelligence law that requires companies to participate in state intelligence work. Fears were further stoked this week when a German newspaper reported that the German government had evidence that Huawei had participated in intelligence gathering for the Chinese government, a claim that Huawei has denied.
+
+Abraham Liu, Huawei’s chief representative to the EU institutions, said in a statement that Huawei “welcomes” the Commission’s decision.
+
+"Huawei welcomes Europe’s decision, which enables Huawei to continue participating in Europe’s 5G roll-out,” Liu said. “This non-biased and fact-based approach towards 5G security allows Europe to have a more secure and faster 5G network.”
+
+ADVERTISEMENT
+
+He added that “Huawei has been present in Europe for almost 20 years and has a proven track record with regard to security. We will continue to work with European governments and industry to develop common standards to strengthen the security and reliability of the network.”
+
+Senior European Commission officials on Wednesday hailed the moves to allow the EU to move towards secure 5G networks.
+
+Margaritis Schinas, the vice president for Promoting our European Way of Life, said in statement that the guidelines are “an important step in what must be a continuous effort in the EU's collective work to better protect our critical infrastructures.”
+
+Thierry Breton, European commissioner for the internal market, said in a separate statement that “today we are equipping EU Member States, telecoms operators and users with the tools to build and protect a European infrastructure with the highest security standards so we all fully benefit from the potential that 5G has to offer.”
+
+The Trump administration has kept up pressure on allied countries to ban Huawei equipment from their networks, with a senior administration official at the White House on Tuesday telling The Hill that the U.S. was disappointed with the U.K.’s decision.
+
+Multiple federal agencies have moved against the company. The Federal Communications Commission (FCC) in November voted unanimously to designate Huawei as a national security threat and to ban U.S. telecom groups from using FCC funds to buy products from companies deemed threats. Huawei announced in December that it was suing the FCC.
+
+The Commerce Department added Huawei to the “entity list” in May, with American companies banned from doing business with groups on the list. The full inclusion of Huawei on this list has been delayed several times.

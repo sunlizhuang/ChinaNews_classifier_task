@@ -1,0 +1,385 @@
+In the wake of an outbreak of coronavirus that began in China in late December 2019, Harvard T.H. Chan School of Public Health experts have been speaking to a variety of media outlets. We’ll be updating this article on a regular basis. Here’s a selection of stories in which they offer comments and context:
+
+March 6: Former FDA chief & Harvard professor: Take smart steps to slow spread of coronavirus (USA Today)
+
+In an opinion piece, Marc Lipsitch, professor of epidemiology and director of the Center for Communicable Disease Dynamics, and Scott Gottlieb, former commissioner of the Food and Drug Administration, wrote about steps people can take to protect themselves from the coronavirus as well as slow its spread to others. They recommended keeping up to date on vaccines, hand-washing, covering coughs, and fist-bumping instead of shaking hands. Schools and workplaces should make sure they have adequate facilities for hand-washing, including hot water, soap, and alcohol-based hand sanitizer. Workplaces should be flexible about people working from home, and should carefully monitor food handling practices.
+
+March 6: In Anticipation of Coronavirus Spread, University Takes Precautions and Plans to Respond (Harvard Crimson)
+
+As Harvard University makes contingency plans to prepare for the spread of coronavirus, one Harvard Chan School expert—Michael Mina, assistant professor of epidemiology—said it would be good for the university to switch large classes to online learning platforms, sooner rather than later. Both Mina and Caroline Buckee, associate professor of epidemiology, said that lack of access to coronavirus testing means that the spread of disease in the Boston-area is likely more widespread than has been reported. Leonard Marcus, lecturer on public health practice at Harvard Chan School and co-director of Harvard’s National Preparedness Leadership Initiative, said that if someone at Harvard is diagnosed with the virus, epidemiologists would do “contact tracing”—figuring out who that person had recently been in contact with. “Those who have been exposed then will be asked to quarantine for two weeks,” he said.
+
+March 6: Just How Many People Are Infected With Coronavirus? (Wall Street Journal)
+
+Experts don’t know how many people are infected with COVID-19, the illness caused by the new coronavirus, because many of those infections have not been detected. Although more than 100,000 cases have been confirmed, that number doesn’t account for people who are asymptomatic, said James Hay, a postdoctoral research fellow. “The number including those without symptoms or with mild symptoms is likely to be higher than that,” he said.
+
+March 5: How to reduce the spread of coronavirus (Harvard Gazette)
+
+Wash your hands, cover your mouth and nose when you cough or sneeze, avoid touching your face, and stay home if you’re sick—these are the best and simplest ways to prevent the spread of COVID-19, say health experts. Since germs wind up on surfaces such as desks, handrails, or doorknobs, “good hand washing really matters,” said Paul Biddinger, director of the Emergency Preparedness Research, Evaluation, and Practice Program at Harvard Chan School and chief of the Division of Emergency Preparedness at Massachusetts General Hospital. “Most people don’t wash their hands very well. As silly as it sounds to go watch a YouTube vieo on handwashing, people should do it to learn how to do it properly.”
+
+March 5: Politicians Are The Last People Americans Want Fighting Coronavirus (FiveThirtyEight)
+
+The more the coronavirus epidemic becomes politicized—for example, by President Trump claiming that criticism of his administration’s response to the outbreak represented a Democratic hoax—the less likely the public is to trust government officials to provide accurate information about the outbreak, according to pollster Robert Blendon, professor of health policy and political analysis. In general, politicians are uniquely unsuited to be at the forefront of a public health crisis because many people mistrust them, he said. But there’s a silver lining, he added: While Americans may not trust “the government,” they trust specific parts of the government more, such as the Centers for Disease Control and Prevention, the nation’s public health agency.
+
+March 4: Coronavirus: Massachusetts health officials say vaccines could take at least a year to get to public (MassLive)
+
+A coronavirus vaccine is at least a year away, according to Massachusetts public health officials. Boston-area doctors say it could take even longer, possibly 18-24 months. “That is under the assumption that the vaccine works biologically,” said Michael Mina. “Biology does not play with us very well, as we’ve noticed, we don’t have vaccines for very, very many viruses.”
+
+March 4: Coronavirus screening may miss two-thirds of infected travelers entering U.S. (Harvard Gazette)
+
+Recent modeling suggests that most countries’ screening procedures for travelers miss two-thirds of people with COVID-19 symptoms, according to Marc Lipsitch. This could explain the recent cluster of COVID-19 cases in Washington, where 10 people have died. And it means there could be hundreds of cases around the U.S. “The problem with giving a firm number … is that there’s a lot of randomness in whether a particular case does or doesn’t spark a chain of transmission,” he said.
+
+March 4: How Computer Modeling Of COVID-19’s Spread Could Help Fight The Virus (NPR)
+
+Experts have been using computer modeling to simulate how the coronavirus outbreak might evolve and how best to fight it. They’re eager for more information, such as how many people are infected without symptoms and how easily they can spread the virus. Marc Lipsitch cautioned that it’s unclear how good the models will be in projecting the outbreak because the quality of the data is uncertain. But even without perfect data, models can help policymakers consider possible scenarios, he said. “It’s really that models help you think about things, rather than that they tell you things for sure that you didn’t know,” he said.
+
+March 3: So how bad is coronavirus in U.S.? We don’t know yet (Harvard Gazette)
+
+Marc Lipsitch and Barry Bloom, Joan L. and Julius H. Jacobson Research Professor of Public Health, discussed COVID-19, the illness caused by the new coronavirus, at an evening panel on March 2 sponsored by the China Health Partnership and moderated by the partnership’s head, Winnie Yip. Bloom said that while all epidemics eventually end, “speed is of the essence [in quelling them] and in all the major epidemics I’m aware of in modern times, nobody acted quickly enough.” Lipsitch said that U.S. national testing has been very slow and is likely masking the true extent of the epidemic here. Earlier in the day, Lipsitch discussed COVID-19’s spread as part of a Forum at Harvard T.H. Chan School of Public Health panel.
+
+March 2: It’s not overreacting to prepare for the coronavirus. Here’s how. (Vox)
+
+General health maintenance is important to help weather the coronavirus, according to Marc Lipsitch. “Quit smoking, if you smoke — that’s a good recommendation at all times, but maybe some people will use this as extra motivation,” he said. To get ready for the possibility of staying home for a while if you get sick, or because you’re asked to stay home, buy supplies you might need for the next month or so, he suggested. And, because pandemics are scary, “It helps to be a little psychologically prepared for the possibility that life will be very different for a period of time,” he said.
+
+March 2: What You Need To Know About The Coronavirus (WBUR)
+
+There are a lot of unknowns about the coronavirus, so people should be ready to adapt, according to Leonard Marcus. “Just look to China and imagine what it would be like to live in Wuhan, where that was the center of the cases and people were asked to stay in their homes for weeks,” he said. He recommended stocking up on essentials such as food, medicine, and personal items, enough to last about two to three weeks.
+
+March 2: Infectious disease expert answers viewer questions about coronavirus (Fox News “Bill Hemmer Reports”)
+
+It appears that coronavirus will not be containable, and it will be one-and-a-half to two years before a vaccine is available, according to Marc Lipsitch. So the focus should be on measures to take as a society and as individuals to protect ourselves, he said. “As a society, the more we slow it down, the fewer people will ultimately get it, and in fact, if you’re going to get it, it’s better to get it a long time from now, because we will know more about how to treat it,” he said. “And also, if we spread out the impact, it will reduce the burden on the health care systems.”
+
+March 2: Coronavirus may infect up to 70% of world’s population, expert says (CBS News)
+
+According to Marc Lipsitch, 40% to 70% of the world’s adult population could become infected with the new coronavirus, and of those, 1% could die from COVID-19, the disease caused by the virus. (In a later tweet, Lipsitch revised his estimates downward, to 20% to 60% of adults becoming infected.) As of March 2, the coronavirus death toll topped 3,000 worldwide, with nearly 90,000 cases. “If it really does spread as widely as that projection says, and that’s what I think is likely to happen, then there are going to be millions of people dying,” he said. He added, “I think it is now almost inevitable that this will transmit in a global fashion and take a big toll on essentially the entire globe.”
+
+March 2: China gets ‘mixed report card’ in its coronavirus response. How will the US do? (Live Science)
+
+In the U.S., the biggest challenge in dealing with the coronavirus “will come down to the challenge of leadership,” according to Eric McNulty, associate director for the Program for Health Care Negotiation and Conflict Resolution and associate director of the National Preparedness Leadership Initiative. He thinks the U.S. has a lot of expertise in the scientific and operational realms. But he said it would be a mistake to downplay the seriousness of the virus or make it into a political issue. Sharing fact-based guidelines with businesses, organizations, schools and individuals is key so that they can make informed decisions about how to protect themselves and others, he said.
+
+February 28: The Coronavirus Isn’t Going Away (Deep Background with Noah Feldman)
+
+In a wide-ranging interview, Marc Lipsitch discussed the coronavirus and the illness it causes, COVID-19. He talked about the disease’s scope, severity, and contagiousness; countermeasures to fight the spread of disease; how he builds mathematical models to estimate infection rates; and how to prepare for work and school cancellations and quarantines.
+
+February 28: To Speed Coronavirus Treatment, Some Mass. Scientists Are Designing Faster Tests (WBUR)
+
+Some health experts are worried that, as coronavirus spreads, too many patients will be stuck waiting for test results because of a limited supply of test kits available from the Centers for Disease Control and Prevention (CDC). While waiting, those patients would have to be kept in temporary isolation in hospitals, taking up limited bed space. To offset the problem, some scientists, like Michael Mina, are creating their own tests. Mina said scientists are working quickly because an outbreak may be coming. “The writing has been on the wall,” he said. “The chances of stopping [coronavirus’] spread have dwindled to a very, very low probability.”
+
+February 28: Coronavirus Shows Scale of Task to Fix China’s Flawed Healthcare (Bloomberg Quint)
+
+The coronavirus epidemic in China has exposed the nation’s over-reliance on big hospitals in cities and problems with its response to emergencies, according to experts. William Hsiao, K.T. Li Professor of Economics, noted that China’s secretive leaders need to be more “nuanced about transparency,” especially when it comes to dealing with diseases like COVID-19.
+
+February 28: Coronavirus testing widened as California case makes containment more urgent (Washington Post)
+
+After a California woman tested positive for coronavirus—the first case of “community transmission” in the U.S., in which someone is infected in spite of no known link to travel abroad—infectious disease experts expressed concern that the disease is spreading undetected in other parts of the country. There’s been limited availability of tests and strict federal testing criteria (since loosened), they said. “There’s a desperate need to do more testing,” said Marc Lipsitch. “The point is to find out if, like many other countries, we have undetected chains of transmission that we’re just not detecting.”
+
+February 28: Key Missteps at the CDC Have Set Back Its Ability to Detect the Potential Spread of Coronavirus (ProPublica)
+
+Tracking the possible spread of coronavirus in the U.S. has been slowed because of the lack of a reliable test. A test produced by the Centers for Disease Control and Prevention (CDC) didn’t work as expected, and the agency restricted its use until February 26 to only a handful of state labs across the country. Without wider testing, experts believe that it’s impossible to know the true number of infected Americans. “The basic tenet of public health is to know the situation so you can deal with it appropriately,” said Marc Lipsitch. “If you don’t look, you won’t find cases.”
+
+February 28: How effective are travel restrictions? A look at approaches to contain coronavirus (Devex)
+
+Containment strategies—such as travel restrictions, border closures, and quarantines—have helped curtail the spread of coronavirus, said Leonard Marcus. But as the geographic spread of the virus expands, such restrictions may become problematic. “These containment strategies have certainly had an impact, but whether they’re going to be able to contain the virus over a long period of time? We’re dealing with a lot of unknowns,” he said.
+
+February 28: A Silent Epidemic? Experts Fear the Coronavirus Is Spreading Undetected in Southeast Asia (Time)
+
+Health experts believe that COVID-19, the disease caused by the novel coronavirus, is spreading throughout much of Southeast Asia, even though a number of countries—including Myanmar, Laos, Brunei, East Timor, and Indonesia—are not reporting any cases. Marc Lipsitch said he doesn’t think these countries are simply lucky. “They’re missing infections,” he said.
+
+February 28: World Bank’s $500m pandemic scheme accused of ‘waiting for people to die’ (The Guardian)
+
+So-called “pandemic bonds” were first issued by the World Bank in 2017 after the Ebola outbreak in west Africa, with the goal of speedily funneling money to nations facing infectious disease outbreaks. But health experts say the bonds won’t provide much help in the case of coronavirus because payouts may come too late. Olga Jonas, senior fellow at the Harvard Global Health Institute (HGHI) and former World Bank economist, said that “the bonds only get triggered when the disease has spread for a long time.” She said that the bonds’ terms are “so convoluted, it is not at all clear whether they will pay out at all. It is too little, too late—and in this case, maybe never.”
+
+February 27: Coronavirus In Mass.: Public Health Expert Say Don’t Panic But Do Prepare (WBUR)
+
+Health officials are advising people in the U.S. to prepare for a novel coronavirus outbreak. Leonard Marcus said it could be helpful to think about a potential outbreak like a snowstorm “on steroids.” That means making sure to stock up on enough food, medicine, and personal items to last two to three weeks, in case people are asked to stay home from school and work, he said. Marcus noted that hospitals and other essential services have plans in place for this type of disruption.
+
+February 27: CDC to test more suspected cases of coronavirus after revising guidelines (CNBC)
+
+Under new guidelines from the Centers for Disease Control and Prevention (CDC), clinicians across the U.S. will be able to test more people suspected of carrying the new coronavirus. Such testing had previously been limited to people who had traveled to China, where the outbreak began, or had contact with someone known to be infected. In spite of the relaxed guidelines, epidemiologists are questioning the nation’s ability to widely test for the virus, given the dearth of CDC-approved testing kits and technical problems with the kits. Michael Mina said, “Unless we’re testing and checking we just don’t know what’s circulating in the community. And so there are patients throughout the whole country that probably should be being tested.”
+
+February 27: A big coronavirus mystery: What about the children? (Harvard Gazette)
+
+In a wide-ranging Q&A about the coronavirus, Marc Lipsitch said that one of the most important unanswered questions about the virus is what role children play in transmission. Knowing children’s role could help determine whether school closures—an intervention used during flu pandemics—could help stop the spread of disease. Lipsitch also discussed the progression of the epidemic, the importance of testing, what groups are most at risk, the possibility of a vaccine, and the pros and cons of “social distancing.”
+
+February 27: A critical question in getting a handle on coronavirus: What role do kids play in spreading it? (STAT)
+
+Although the new coronavirus doesn’t appear to cause severe disease in children, experts think they may play a role in spreading it. Marc Lipsitch said, “We don’t understand what goes on with coronaviruses and kids—especially this coronavirus.” If the U.S. experiences sustained transmission of the virus, there could be school closures, forcing parents to find child care or stay home from work. Senior research scientist Gillian SteelFisher, who studies the response to public health crises, said that closures could take a significant toll on low-income families, who have less financial resilience if they have to miss work.
+
+February 26: Worried about coronavirus in Miami? This is what you can do to prepare for it (Miami Herald)
+
+Eric McNulty, associate director of the National Preparedness Leadership Initiative (NPLI), said that people in Miami should prepare for coronavirus the way they would prepare for a hurricane, by following official sources of information and stocking up on supplies. “Make sure you have food, meds, water in the house in case you do need to be quarantined,” he said. “A couple good books, and make sure the Netflix is paid up, because you may have some time on your hands.”
+
+February 26: ‘A completely new culture of doing research.’ Coronavirus outbreak changes how scientists communicate (Science)
+
+As scientists race to share and publish information about the fast-moving coronavirus, they’re communicating in new ways. They’re releasing data on preprint servers—which publish findings prior to peer review—and they’re discussing the data on platforms such as Slack and Twitter, and in the media. In addition, journals are reviewing, editing, and publishing manuscripts at record speeds. “This is a very different experience from any outbreak that I’ve been a part of,” said Marc Lipsitch.
+
+February 26: Coronavirus’ Top Targets: Men, Seniors, Smokers (WebMD)
+
+The disease caused by the coronavirus—COVID-19—appears to get more dangerous with age, according to Michael Mina. “There seems to be this threshold—below [age] 35 we’re seeing practically zero [cases],” he said. “As people increase in age from their 40s to 80s, we’re seeing mortality increase.” Others at higher risk include people with heart problems, diabetes, or lung issues, and possibly men, although Mina said evidence on the latter group is inconclusive. Children seem mostly unaffected but may be carriers of the disease, he said.
+
+February 26: U.S. isn’t ready to detect stealth coronavirus spread (Politico)
+
+Only 12 out 100 public health labs around the U.S. are able to diagnose the coronavirus because of problems with a test developed by the Centers for Disease Control and Prevention (CDC). Not being able to widely screen for the illness means not being able to detect if it is spreading stealthily. “We haven’t looked widely enough to believe that it [the coronavirus] is not here outside the known cases,” said Marc Lipsitch.
+
+February 26: As CDC warns of coronavirus’ spread in US, officials reveal that more than 600 in Mass. have been monitored for illness (Boston Globe)
+
+Hundreds of Massachusetts residents who recently traveled to China are quarantined at home while being monitored for the novel coronavirus, according to state public health officials. So far only one resident, a Boston student, contracted the illness, and he is recovering at home. If an outbreak occurs, others may be asked to stay home, according to Leonard Marcus. As a precaution, he advised making sure you have enough food and medications in your house for a couple of weeks. “If you’re at the store and you’re shopping, buy a couple of extra items just in case. Most importantly don’t panic; this isn’t yet a crisis,” he said.
+
+February 26: Coronavirus Is Spreading. Should You Cancel Your Family Vacation? (New York Times)
+
+In spite of the spread of coronavirus, experts say it’s safe to travel with your children in the U.S.—for now. Michael Mina recommended that pregnant women and others with compromised immune systems reconsider travel, especially if they’re flying in the U.S. or abroad. “If it were me, I think I would probably try to decrease my risk as much as possible, an one way to do that is reducing travel,” he said. He also said he would be “a little wary” about a cruise.
+
+February 25: Workers in Shanghai are back at the office, but not back to normal (NPR’s Marketplace)
+
+It’s possible that the coronavirus could disrupt supply chains for a variety of medications, because China supplies raw active ingredients for numerous antibiotics and other drugs, such as generic prescription drugs for blood pressure and diabetes. But no disruptions have been reported yet. Ashish Jha, K.T. Li Professor of Global Health and director of the Harvard Global Health Institute (HGHI), said that’s because the system has some built-in safeguards. For example, he said, that pharmaceutical companies tend to stockpile active ingredients that come from China.
+
+February 25: Trump spent the past 2 years slashing the government agencies responsible for handling the coronavirus outbreak (Business Insider)
+
+The Centers for Disease Control and Prevention announced on February 24 that it expects the coronavirus to spread further within the U.S. But programs to fight the spread of global diseases, at the CDC and other agencies, have seen budget cuts under the Trump administration. Experts have criticized the administration for not doing enough to combat the new virus. Marc Lipsitch said that the economic consequences of an unaddressed outbreak would dwarf U.S. spending on efforts to control it.
+
+February 25: Doctor says we ‘need to know if Coronavirus is spreading in the United States’ (Yahoo Finance)
+
+Michael Mina said that it’s important that wide-scale testing for the coronavirus be available throughout the U.S., so that experts can determine if the virus is spreading. Depending on the results, steps can then be taken to mitigate the spread of disease, such as temporarily closing schools or encouraging people to work from home, he said.
+
+February 25: The coronavirus seems unstoppable. What should the world do now? (Science)
+
+With COVID-19 outbreaks emerging in a number of countries around the world, including Iran, Italy, South Korea, Japan, and several others, experts say that travel restrictions—aimed at keeping the virus from spreading from country to country—may become less effective, and it may make more sense to try to limit outbreaks and reduce their impact wherever they occur. “It would be very hard politically and probably not even prudent to relax travel restrictions tomorrow,” said Marc Lipsitch. “But in a week, if the news continues at the pace that it’s been the last few days, I think it will become clear that travel restrictions are not the major countermeasure anymore.”
+
+February 24: Florida Prepares for the Spread of Coronavirus Before It Hits (Government Technology)
+
+Health care providers and government officials in Florida are racing to prepare for a potential outbreak of COVID-19, the illness caused by the novel coronavirus—preparation considered critical given the state’s vulnerable elderly population and high number of international visitors. “People have come to the conclusion that it is very likely this virus will continue spreading throughout the world,” said Michael Mina. He added, “I do think we will be able to come up with a vaccine for this virus. But will it be available to a wider audience in the next year? I don’t think so.”
+
+February 24: Cooperating to Combat Coronavirus (Harvard Magazine)
+
+Under a new research initiative, Harvard University scientists and Chinese researchers will collaborate to learn more about the biology of the novel coronavirus and the disease it causes, and to develop new diagnostics and therapies. One of the researchers involved in the effort is Marc Lipsitch.
+
+February 22: Coronavirus outbreak edges closer to pandemic status (Washington Post)
+
+With widespread outbreaks in several countries, COVID-19 is getting closer to being a pandemic in which a large proportion of the human population becomes infected, although not all will show symptoms. Michael Mina said that it is not clear that an epidemic is transitioning to a pandemic until it is happening. Marc Lipsitch estimated that 40 to 70 percent of people could be infected by the virus that causes COVID-19 if it becomes pandemic.
+
+February 21: ‘We’re Racing Time’: Biotech Companies Rush To Complete Coronavirus Vaccine (WBUR)
+
+As the number of COVID-19 cases increase around the world, scientists and biotech companies are racing to create a vaccine that could stop the spread of the virus that causes the disease. One company is attempting to formulate a RNA vaccine for the virus, but Michael Mina thinks there is less than a 50% chance that such a vaccine could be made and approved in time.
+
+February 21: Coronavirus’ spread challenges U.S. investors’ blue-sky view (Reuters)
+
+Increasing evidence that the coronavirus has spread beyond China challenges the optimism among U.S. investors that the virus will be short-lived. Case numbers have spiked in South Korea, and according to Marc Lipsitch, there will likely be a period of widespread transmission in the United States.
+
+February 20: Coronavirus: We need to start preparing for the next viral outbreak now (The Conversation)
+
+In their op-ed, co-authors David Bloom, the Clarence James Gamble Professor of Economics and Demography, and Daniel Cadarette, research assistant in Harvard Chan School’s Department of Global Health and Population, wrote that the global community should start investing in the infrastructure and resources needed during the next potential outbreak, even as the world is still fighting COVID-19.
+
+February 20: Health officials expect coronavirus to spread worldwide (Harvard Gazette)
+
+During a Facebook Live event sponsored by The Forum at Harvard T.H. Chan School of Public Health and PRI’s “The World,” Michael Mina discussed the latest updates on the COVID-19 outbreak, particularly how it may spread worldwide. “Things have really shifted a little bit from trying to stop its spread in China to now saying, ‘What can we, as a global community, as individual nations, and even as individual hospitals, do to prepare for what seems more and more potentially inevitable that we will start seeing cases locally throughout the world?’”
+
+February 20: Scientists question China’s decision not to report symptom-free coronavirus cases (Nature)
+
+China’s official numbers of coronavirus infections have not included people who tested positive for the virus but show no symptoms. Some researchers fear the approach obscures the epidemic’s true scope. But public health experts say China’s logic for focusing on tracking sick patients who are spreading the disease is correct. “If I put on my medical hat for a moment, I can understand the decision not to count these individuals [who do not have any symptoms],” said Michael Mina.
+
+February 20: What Can Scientists Learn From The Coronavirus Outbreak On The Diamond Princess Cruise Ship? (Forbes)
+
+As the quarantine on the Diamond Princess cruise ship docked in Yokohama, Japan, stretches beyond two weeks, researchers are hoping to access and analyze potential data about passenger condition, movement, and possible exposure to better understand the novel coronavirus’s incubation time, transmission potential, and speed of spread, according to Michael Mina.
+
+February 19: What we know and don’t know about COVID-19 (PRI’s The World)
+
+The World’s Marco Werman discussed the coronavirus outbreak with Michael Mina. “It’s very much a virus that’s affecting more severely the elderly and really individuals over 40, but particularly over 60 or 70,” said Mina. “We’ve seen in children very, very few, even case reports, no less, very small numbers of actual severe cases or deaths. So the severity does seem to be higher than any public health practitioner or physician would like. In people above the ages of 80, it’s actually somewhere in 14 percent of reported cases. And overall, it seems to be tracking around 2 percent overall, but in particular in adults.”
+
+February 19: 12 sent to California air base from coronavirus-stricken cruise ship now in hospitals (The Sacramento Bee)
+
+As the COVID-19 outbreak continues, the number of infected people continues to climb in China. “It has become increasingly clear that quarantines in China have not served to stop the spread of this virus globally,” Michael Mina said. “So things have shifted from stopping its spread in China to changing what we can do to prepare for more and more potential infections.”
+
+February 18: S’pore is gold standard for case detection: Harvard study (The Strait Times)
+
+In an analysis to estimate the underdetection of COVID-19 cases, Marc Lipsitch and colleagues at Harvard Chan School said that Singapore’s approach for detecting the disease is “a gold standard of near-perfect detection.”
+
+February 18: The Coronavirus Outbreak Could Bring Out the Worst in Trump (The Atlantic)
+
+President Trump stated that the coronavirus outbreak was “totally under control” and that “it’s going to be just fine” in an interview at the World Economic Forum in Davos, Switzerland. However, politicians, infectious disease experts and epidemiologists remain concerned. “Everyone is using caution in how we’re framing what the risk is, primarily because we don’t understand what the risk is at this moment,” said Michael Mina. “The last thing anyone would say is, ‘We’re not concerned.’ Everyone is concerned.”
+
+February 16: Fact-Checking ‘Contagion’ — In Wake Of Coronavirus, The 2011 Movie Is Trending (NPR)
+
+The 2011 movie Contagion, starring Gwyneth Paltrow, has experienced renewed interest since news of the novel coronavirus broke. The movie’s plot does have some similarities to the current outbreak, although the imaginary Contagion disease kills 20% of those infected, which is 10 times more than the estimated 2% death rate from COVID-19. Some experts say that the movie has some realistic aspects. “What is accurate is the professionalism and devotion of staff in the EIS [Epidemic Intelligence Service] at CDC,” said William Hanage, associate professor of epidemiology. “These people are tireless, and I’m truly honored that several of my former students went on to serve in EIS. It’s also not an especially glamorous job, for all its importance, and Kate Winslet’s portrayal [of an EIS epidemiologist] captures that.”
+
+February 16: How Many People Might One Person With Coronavirus Infect? (Wall Street Journal)
+
+Researchers are still attempting to define how many people have already been infected—and how many will become infected—with the novel coronavirus that causes COVID-19. Based on the currently available data, Marc Lipsitch says a global pandemic is likely, but the number of people who will have symptoms is still unknown.
+
+February 15: Boston foodies, officials fight coronavirus fears with ‘Dine Chinatown’ initiative (WHDH News)
+
+As the number of coronavirus cases rise worldwide, local officials and diners specifically patronized businesses in Boston’s Chinatown that have seen fewer visitors due to fears of the virus. “At this point, there’s no reason to avoid Chinatown. I’m here today, I was at a Chinese restaurant last week, I love Chinese food,” Marc Lipsitch said.
+
+February 15: ‘It’s meant to help’: Harvard professor responds after government dismisses study on undetected coronavirus cases (The Jakarta Post)
+
+Nadhira Afifa, an Indonesian student in the Department of Global Health and Population, filmed an interview with Marc Lipsitch about a recent study that he and other researchers at Harvard Chan School conducted. Among other topics in the study, the authors questioned the lack of reported COVID-19 cases in Indonesia. The Indonesian government downplayed the concerns raised in the paper. In the interview with Afifa, Lipsitch said that the study “is meant to be a helpful signaling of something that needs to be looked at.”
+
+February 14: An inside look at the debate around pandemic bonds, which have $425 million hinging on how deadly the coronavirus ends up being (Markets Insider)
+
+“Pandemic bonds” bonds were first introduced in 2017 by the World Bank to provide swift financing to quell epidemics. But critics say the bonds may not be helpful in stemming coronavirus or other diseases because of numerous requirements that can delay payouts. HGHI senior fellow Olga Jonas called the bonds “an unnecessary, inappropriate, and ineffective risk-financing instrument.” She added, “If you were doing this with your own money at home, that’d be grounds for divorce.”
+
+February 14: Finding clues to understand the coronavirus (CNBC)
+
+By looking at how the disease is spreading on the Diamond Princess cruise ship quarantined in Yokohama, Japan, researchers are learning more about the virus and how it is transmitted. “Most likely this is still droplet spread,” said Michael Mina. “From the amount of transmission that’s happening there are very likely other routes, primarily touching surfaces that have been infected. But it’s unclear how well they’re able to decontaminate all of the surfaces.”
+
+February 13: ‘Tip of the iceberg:’ Why Covid-19 deaths will keep rising even as the coronavirus outbreak wanes (Fortune)
+
+Even though it appears that the coronavirus outbreak may be slowing in China, the number of deaths there are rising. But that doesn’t mean the virus is getting more deadly, say experts. “Deaths are a lagging indicator,” said Marc Lipsitch, who has been modeling the outbreak. He said that once people are infected, “it takes around three weeks on average for someone to die.”
+
+February 13: Scientists fear coronavirus spread in countries least able to contain it (Nature)
+
+Experts say that coronavirus may be going undetected in some countries with weaker health care systems, such as those in southeast Asia and Africa, putting them at risk for outbreaks. Marc Lipsitch said that Africa is not as exposed to risk as some southeast Asian nations where there are direct flights from Wuhan, the epicenter of the virus. But the travel of Chinese laborers to Africa could be a route for transmission, he said.
+
+February 12, 2020: Questions about the coronavirus test (CNBC)
+
+Problems with the coronavirus detection test that CDC developed have called into question the test’s accuracy. The test’s quick roll-out may have compromised the quality control process that similar diagnostics usually undergo. “Normally there’s a big lead up of time and validation before introducing a new test to market,” Michael Mina said. “The emergency use authorization enabled CDC to ship this test out, that’s essentially with the understanding that this test doesn’t have all of the metrics that we would like to know about the test beforehand.”
+
+February 12: Cases Of COVID-19 Soar On Quarantined Coronavirus Cruise Ship. 218 Now Affected. (Forbes)
+
+Experts have been criticizing Japanese authorities’ decision to quarantine a cruise ship docked in Yokahama port as cases of coronavirus—dubbed ‘COVID-19’ by the World Health Organization—have mounted on the ship. “The government must become creative and figure out some way to safely remove the passengers and crew from the ship while maintaining a quarantine away from the city,” said Michael Mina.
+
+February 12: Understanding pandemics: What they mean, don’t mean, and what comes next with the coronavirus (STAT)
+
+A number of experts, including Marc Lipsitch, think that the novel coronavirus will soon become a pandemic—meaning that it will spread across regions. But it’s still unclear how severe such a pandemic would be.
+
+February 12, 2020: Worker on board Diamond Princess says crew are at greater risk of coronavirus (CNN)
+
+The Diamond Princess cruise ship docked outside of Yokohama, Japan, contains more than 3,700 passengers and crew who have been quarantined on the boat since February 4, 2020. Although passengers have been mostly confined to their quarters, many crew continue to work and live in close quarters, which may allow the virus to spread from one crewmember to another. “I think a lot of thought went into what to do with the passengers, but it puts the crew at increased risk. It’s a closed environment, a ship. It’s the perfect place for an infectious disease to spread,” said Eric Rubin, Irene Heinz Given Professor of Immunology and Infectious Diseases.
+
+February 11: Coronavirus Likely Now ‘Gathering Steam’ (Harvard Gazette)
+
+In a Q&A, Marc Lipsitch said he thinks it’s just a matter of time before the novel coronavirus spreads widely internationally. “I think we should be prepared for the equivalent of a very, very bad flu season, or maybe the worst-ever flu season in modern times,” he said.
+
+February 11: The Coronavirus Appears to be Sparing One Group of People: Kids (CNBC)
+
+Most people who have died from the novel coronavirus were over age 60 or had pre-existing conditions such as heart disease or diabetes, while infections in children appear rare. It could be that children are getting infected with mild cases of the virus and therefore their cases aren’t being reported to authorities, said Marc Lipsitch. But he added that scientists still need to figure out whether children with mild cases can infect others at high rates.
+
+February 11: ‘It’s only a model’: Health Ministry dismisses Harvard study on potential coronavirus spread in Indonesia (The Jakarta Post)
+
+A Harvard Chan School study co-authored by Marc Lipsitch has suggested that Indonesia—which has not reported any patients testing positive for coronavirus—should have at least some confirmed cases given the high number of passengers who routinely fly to the country from Wuhan, the Chinese city at the epicenter of the outbreak. But a health official in Indonesia questioned the study, calling it “only a prediction.” The Harvard Chan study was also mentioned in a Reuters article about the lack of coronavirus cases in Indonesia, and in a Jakarta Post article about 68 people in North Sumatra who are in self-quarantine after returning from China.
+
+February 10: Coronavirus Cases Double on Quarantined Cruise Ship. Is It Time To Evacuate Passengers? (Forbes)
+
+Michael Mina and Eric Feigl-Ding, visiting scientist, both questioned the wisdom of keeping people quarantined on a cruise ship docked in Yokahama, Japan, as cases of coronavirus climbed among the passengers—including 10 crew members. Said Mina, “By enforcing that the crew and passengers remain onboard while crew members are known to be infected necessarily places the crew (as well as the passengers) in what I would consider to be an absolutely unacceptable amount of risk.” Said Feigl-Ding, “I predict if they stay on the ship, the number of cases will keep rising for a while.” Commenting on the cruise ship situation in a Washington Post article, Mina said, “If they can reasonably and carefully manage to deboard the ship and get them into hotel rooms, I think that would be optimal. The question is, what’s it going to take to do that?” Also, a Vox article quoted a tweet from Mina about the quarantine being “no longer ethical.”
+
+February 7: Experts Warn Coronavirus May Be Spreading Undetected in Indonesia, Thailand (Voice of America)
+
+Experts say that the number of coronavirus cases reported in Indonesia and Thailand is lower than they would expect, given their proximity to Wuhan in China, where the outbreak originated. A non-peer-reviewed study by Marc Lipsitch and Harvard Chan colleagues analyzed the number of passengers taking flights from Wuhan to destinations around the world to determine locations where coronavirus cases may be going undetected. “Undetected cases in any country will potentially seed epidemics in those countries” and could then spread to other countries, said Lipsitch. The Harvard Chan study was also cited in articles in the Guardian, the Jakarta Post, the Phnom Penh Post, and the New York Times.
+
+February 7: Coronavirus Outbreak On Quarantined Japan Cruise Ship Spreads. 61 Passengers Now Affected (Forbes)
+
+Some experts, like Michael Mina, are questioning whether quarantining passengers is the best way to minimize the outbreak of the new coronavirus on a cruise ship at Yokohama port. “This seems to me to be more a decision made with a focus on preventing spread from the ship to Japan, rather than having the focus be on the passengers,” Mina said. “I would not advocate for an evacuation and just let everyone go out into the city, but I think getting people on land and out of the ship is the right thing to do. I think it would reduce risk of disease among those who have not yet been exposed — particularly if the departure of the ship is done methodically and appropriately, with proper safeguards.”
+
+February 6: What we know about the new, novel coronavirus: A timeline (PRI’s The World)
+
+As the number of cases and deaths from the novel coronavirus mount, Michael Mina cautions that these numbers don’t necessarily relate to how contagious the disease is, how fast it’s spreading, or how many people are actually have it. “There has been a lot of fearmongering in this outbreak, mostly because of social media and the rapid dissemination of both good and false information,” he said. “I think one of the important things is to find reliable sources.”
+
+February 6: Coronavirus: Wuhan Communist Party official apologises for failure to provide patients treatment (South China Morning Post)
+
+Wuhan, where the new coronavirus outbreak originated, had 8,300 confirmed cases of infection as of February 4. The city has been racing to add hospital beds to care for patients, including building two new hospitals in less than two weeks and converting a sports stadium and two convention halls into “modular hospitals.” Winnie Yip, professor of the practice of international health policy and economics, said the Wuhan strategy was sensible, but added, “Building new hospitals or shelters alone is not adequate, it will also need to be complemented by community strategies, such as limiting group activities, and personal hygiene practices.”
+
+February 6: Opinion: Can China Prevent Its Next Epidemic? (Undark)
+
+China has taken some drastic measures to contain the new coronavirus outbreak, such as locking down multiple cities—effectively quarantining 45 million people. But it’s unclear if this move will help, and it may actually hurt by cutting off people’s access to health care and support. “It seems likely that it will reduce people’s access to medicine and food because it’s harder to get things into the city,” said Marc Lipsitch.
+
+February 5: Report that said Wuhan coronavirus can spread before symptoms was flawed (CNN)
+
+Marc Lipsitch commented on a New England Journal of Medicine report that suggested that the novel coronavirus could spread asymptomatically—a report that was later found to be flawed. “This was likely an error of being inadequately careful by the authors, an error that is understandable in a crisis situation, but is still problematic,” he said.
+
+February 5: ‘This beast is moving very fast.’ Will the new coronavirus be contained—or go pandemic?
+
+Marc Lipsitch said that he expects to see sustained transmission of the novel coronavirus (2019-nCoV) outside China. “I would be really shocked if in 2 or 3 weeks there wasn’t ongoing transmission with hundreds of cases in several countries on several continents,” he said. But even if the virus does spread around the world, it’s not clear what percentage of the population will get very sick and die. It’s possible that there are tens of thousands of people with mild disease who never seek medical care and may not even know they were infected with 2019-nCoV. “So what looks like a horrific disease may be the horrible tip of a very large iceberg,” he said.
+
+February 5: Coronavirus Outbreak May Already Be a Pandemic (Elemental)
+
+The coronavirus outbreak that originated in China is very likely to be declared a pandemic, according to several health officials. But that doesn’t necessarily mean its effects will be catastrophic. The word “pandemic” is “just a word for ‘widespread transmission,’ and there are varying degrees of that…” said Marc Lipsitch. “It doesn’t say anything about the severity of the illness.”
+
+February 4: Even Without Symptoms, Wuhan Coronavirus May Spread, Experts Fear (New York Times)
+
+There were inaccuracies in a New England Journal of Medicine report suggesting that the Wuhan coronavirus can be spread by people who aren’t showing any disease symptoms. But experts still think such asymptomatic spread may be happening, based on anecdotal information. If early symptoms include common complaints such as back pain or headache, doctors may not consider the possibility that a patient is infected with the coronavirus. In cases like this, “the public health challenge of figuring out who’s infectious is about as great as if it was truly asymptomatic,” said Marc Lipsitch.
+
+February 4: Researchers say the coronavirus may be more contagious than current data shows (CNBC)
+
+Marc Lipsitch said that it may take weeks before scientists have a firm grasp on just how contagious the novel coronavirus is.
+
+February 4: Officials question report of virus spreading before symptoms (AP)
+
+It’s still unclear whether the new coronavirus can be spread by people with no symptoms. That’s in spite of the fact that there were flaws in a report from the New England Journal of Medicine report suggesting the existence of asymptomatic transmission. “This is still a point of great uncertainty and it’s an important uncertainty,” said Marc Lipsitch.
+
+February 4: Key evidence for coronavirus spread is flawed as public health decisions loom (Washington Post)
+
+Even though a recent report in the New England Journal of Medicine suggesting that new coronavirus can be spread by people who are asymptomatic was based on incorrect information, experts say it’s still possible that people can spread the disease before showing symptoms. The public health situation surrounding the coronavirus is challenging as news about its spread and effects continue to emerge, they say. Marc Lipsitch said that public policy regarding coronavirus should be flexible, to take into account information that may change or evolve.
+
+February 4: WHO says countries must act to stop coronavirus outbreak (BBC Newshour, at 7:50)
+
+In the midst of a crisis like the new coronavirus epidemic, it’s very hard to gather high-quality data to help define the extent of disease transmission and the severity of illness, said Marc Lipsitch. “The next step really needs to be a concerted effort to characterize the epidemiology of this virus and not just the severe cases, who understandably get the medical attention but may not be the only stories from the public health perspective,” he said.
+
+February 3: Study claiming new coronavirus can be transmitted by people without symptoms was flawed (Science)
+
+A January 30 paper in the New England Journal of Medicine suggested that even people without any symptoms could spread the novel coronavirus to others—but the paper was based on incorrect information. Given how fast data are coming out amid the growing global crisis, even peer-reviewed papers should be read with extra caution, said Marc Lipsitch. “I think peer review is lighter in the middle of an epidemic than it is at normal speed, and also the quality of the data going into the papers is necessarily more uncertain,” he said.
+
+February 3: Coronavirus cases hit 17,400 and are likely to surge (Harvard Gazette)
+
+Michael Mina said he expects the official tally of coronavirus cases to climb steeply. “We can assume that this is growing at somewhat of an exponential rate, and it will continue increasing in scale,” he said.
+
+February 3: To fight coronavirus spread, the U.S. may expand ‘social distancing’ measures. But it comes at a cost (STAT)
+
+In response to the new coronavirus outbreak, many places around the world have implemented “social distancing” steps such as canceling large public gatherings, asking students to stay home from school, or closing down borders. Ashish Jha told STAT that officials consider such measures when the rate of new infections exceeds what any hospital or town can handle. But he noted that large-scale public health interventions like shutting down schools can come at a cost: a sense of panic.
+
+February 2: New China virus details show challenge for outbreak control (Washington Post)
+
+Officials are concerned about certain aspects of the new coronavirus, such as asymptomatic transmission. If the virus can spread from person to person without causing symptoms, “it will spread further and perhaps for longer than we initially hoped,” Jha told the Post. Another concern is the lack of an accurate test for the virus. “Any factor that makes it harder to be sure if someone is a case or not makes control harder,” said Marc Lipsitch
+
+January 31: Declaring coronavirus emergency alone is not enough, experts say (Devex)
+
+The World Health Organization’s declaration that the novel coronavirus outbreak is a public health emergency will help unlock financial and personnel resources to help stem the virus’ spread and help boost cooperation among countries, say experts. HGHI senior fellow Olga Jonas said she hopes that the outbreak brings more attention to the importance of strengthening countries’ capacities to handle emergencies, not just in the present but in the future as well.
+
+January 31: Medical professionals battle virus misinformation online (AP)
+
+Misinformation that has spread online about the novel coronavirus—such as false claims about how to prevent it, or videos that purport to show people experiencing terrible side effects—has fueled fear and caused confusion, say experts. One example of the dangers of false information propagated online is the recent uptick in measles cases in the U.S., fueled by anti-vaccine groups. “It’s one of the clearest consequences of this kind of misinformation,” said Kasisomayajula “Vish” Viswanath, Lee Kum Kee Professor of Health Communication.
+
+January 31: Don’t Listen To Sen. Tom Cotton About Coronavirus (Huffington Post)
+
+Experts say that Sen. Tom Cotton (R-Ark.) has been spreading misinformation and fear about the new coronavirus, such as urging all Americans in China to “get out now” and even suggesting that the coronavirus could have come from a “Chinese super laboratory.” Michael Mina called the latter claim “ridiculous,” noting that “all signs point to a pathogen that has been circulating in animals and jumped to humans. It’s pretty common for these viruses and there’s no good reason for him to be saying something like that.” Mina added, “Panic is never a useful thing to elicit in a population … and anyone who’s doing that probably shouldn’t be in a public policy office.”
+
+January 31: What we know about the new coronavirus outbreak and how to respond (PRI’s The World)
+
+Michael Mina discussed the novel coronavirus in a Facebook Live Q&A cosponsored by PRI’s The World and the Forum at Harvard Chan School.
+
+January 29: Wuhan Building Two Hospitals in Just Days (VOA)
+
+Winnie Yip said that the two coronavirus treatment centers being constructed in Wuhan are badly needed, because “most large tertiary hospitals in China are very crowded and overstretched.” She added, “In the long run, China should build a stronger primary health care and public health system that would actually prevent something like this [the coronavirus outbreak] happening at large scale.”
+
+January 29: Worried About Catching The New Coronavirus? In The U.S., Flu Is A Bigger Threat (NPR)
+
+So far, only a few people in the U.S. have been infected with the new strain of coronavirus identified in China, while millions have gotten sick with flu and more than 8,000 have died from their infection. With any respiratory illness—whether flu or coronavirus—people are vulnerable to secondary bacterial infections. To ward off these infections (such as pneumonia), experts recommend a pneumococcal vaccine for young children, older people, and those with certain medical conditions. “We don’t know whether this new coronavirus tends to predispose people toward pneumococcal infection, but many respiratory viruses do,” said Marc Lipsitch.
+
+January 29: Scientists warn nCoV more infectious than SARS, but experts have doubts (Center for Infectious Diseases Research and Policy, University of Minnesota)
+
+Marc Lipsitch and Caroline Buckee, associate professor of epidemiology, comment on how how infectious the new coronavirus may be.
+
+January 29: Three of the most Viral Claims About the Coronavirus Are Fake (Mother Jones)
+
+Inaccurate information about the new coronavirus has been reported in the media—such as the claim that there’s a cure. Michael Mina said, “There’s lots of fearmongering going on about global pandemic, a catastrophe happening or about to happen.”
+
+January 28: Center for Communicable Disease Dynamics offers ‘tweetorial’ on coronavirus
+
+Marc Lipsitch offered a “tweetorial” to help make sense of current information about the virus.
+
+January 28: Up All Night (BBC) (listen at minute 8:28)
+
+Asked if the media is overblowing the risk from the new coronavirus, Marc Lipsitch said that while the scale of coronavirus-related illness and death is far less than that of the flu, “It’s novel, we don’t understand how it works….Until we understand it, caution is appropriate.” He said one of the most important things that scientists have to find out about the virus is whether it can spread when people are asymptomatic, because if that can happen, it will make it harder to control transmission.
+
+January 27: What we know about novel coronavirus so far (PBS)
+
+Vish Viswanath told PBS that public experts are debating the wisdom of China’s decision to shut down transportation for 17 cities in the wake of the outbreak—effectively placing 50 million people under quarantine. He called the scale of quarantine “unprecedented.”
+
+January 26: Coronavirus spreads to Los Angeles, Orange County: How concerned should we be about spread? (Los Angeles Times)
+
+Michael Mina said, “We don’t have evidence yet to suggest this is any more virulent than the flu you see in the U.S. each year.”
+
+January 24: Should you panic about the coronavirus from China? Here’s what the experts say (Los Angeles Times)
+
+Michael Mina said that even if the new coronavirus is not especially lethal, other characteristics of the virus—such as how easily it spreads—are unknown, fueling fear and even panic. “As humans, we are always fearful of the [un]known,” he said.
+
+January 22: Mystery Coronavirus from China: What to Know (WebMD)
+
+Michael Mina said the development of a rapid test for the new coronavirus makes him hopeful that the outbreak can be contained. “This has probably been the fastest response to date of any epidemic,” he said.

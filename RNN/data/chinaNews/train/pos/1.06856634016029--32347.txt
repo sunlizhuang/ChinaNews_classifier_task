@@ -1,0 +1,83 @@
+Huawei NZ has taken heart from a UK government decision to allow the Chinese telco a limited role in that country's 5G upgrades - but key customer Spark has been notably more reserved in its reaction.
+
+READ MORE:
+
+• Government reveals reserve pricing for 5G auction
+
+The UK National Security Council gave the go-ahead to Huawei but limited the Chinese company to a market share of 35 per cent in 5G infrastructure and will exclude its kit from the sensitive "core" of the networks.
+
+Defence Secretary Ben Wallace & General Sir Nicholas Carter leave Downing Street after a Jan 28 National Security Council meeting convened by PM Boris Johnson to finalise Huawei's 5G role. Photo/Getty
+
+US President Donald Trump lobbied against the move on Friday, according to an FT report, the White House took no immediate retaliatory action.
+
+The FT saw a possible political dimension to the decision, with UK Prime Minister Boris Johnson said to have one eye on expanding trade with China in the post-Brexit era.
+
+But Huawei NZ deputy chief executive Andrew Bowater was focussing on the process today.
+
+"This thorough, evidence-based decision from a close ally, shows it's time for the New Zealand Government to engage with Huawei and New Zealand operators to find a way forward," he said.
+
+To get back into NZ's 5G upgrade loop, Huawei needs Spark to submit a revised 5G proposal that includes its technology.
+
+Advertisement
+
+Huawei NZ has already offered a series of voluntary concessions, including voluntary excluding itself from the core, and restricting or eliminating its staff's direct access to sensitive 5G technology.
+
+However, since Spark revealed in November 2018 that the GCSB had blocked its initial 5G upgrade proposal, which included Huawei gear, Spark has yet to re-submit with a proposal that includes the Chinese company's kit and addresses (unpublicised) GCSB national security concerns.
+
+This morning, a Spark spokeswoman confirmed Spark did resubmit a proposal that included Nokia Networks as a 5G RAN supplier - that is, Radio Access Network or gear on celltowers, as opposed to the "core" or brains of its 5G network, where US company Cisco and Sweden's Ericsson have won Spark's business.
+
+The Finnish Nokia Networks (also Vodafone's 4G and 5G incumbent) supplied kit for Spark's wave of 5G fixed wireless rollouts to a series of South Island towns in November.
+
+With Nokia now in Spark's loop, and the fresh complication of Korea's Samsung being added to Spark's "preferred supplier" list as its July 1 5G mobile launch date fast approaches, Huawei needs to get a foot back in the door, and fast.
+
+It's still possible that Huawei (Spark's 4G RAN supplier) could feature in a Spark re-submission to the GCSB. But this morning that still seemed to hang in the balance, and on whether Spark made an inhouse decision to make a renewed push to use Huawei gear.
+
+Source / FT Research
+
+That's still possible, but this morning Spark was using more lean-back language than a lean-forward stance that would likely be preferred by Bowater - and it's certainly far short of the kind of impassioned defence of the Chinese supplier that was mounted by previous CEO Simon Moutter.
+
+"We are interested to see the UK's approach to allowing Huawei's participation in the UK's 5G mobile networks, while still managing security risks," the Spark spokeswoman said.
+
+Advertisement
+
+"We will continue to engage with our Government to understand its views, while also continuing to pursue our multi-vendor strategy, which we announced last year [in November, when Spark officially added Nokia and Samsung to the mix]."
+
+The Spark spokeswoman added, "We already gained government approval for our initial 5G rollout last year using Nokia equipment."
+
+"For our upcoming 5G rollouts, we will work through the approval process in due course with Nokia and our other RAN (Radio Access Network) vendors Samsung and Huawei, prior to any deployment of their equipment."
+
+Huawei has repeatedly asked for a meeting with NZ government ministers.
+
+However, Justice Minister Andrew Little and Communications Minister Kris Faafoi have both taken the line that the GCSB alone must decide which suppliers can participate in NZ's 5G mobile network upgrades (Spark, Vodafone, 2degrees and Chorus must run proposed supplies past the spy agency under the Telecommunications Interception Capability & Security Act 2013, or Ticsa).
+
+Today, Little reiterated that stance.
+
+In a leaked letter to Little and Faafoi, published by the Herald on August 12 last year, Huawei threatened to pull out of New Zealand.
+
+However, the letter drew short shrift from Little, who described it only as "long".
+
+The GCSB and Justice Minister re-iterated his stance that the GCSB must access 5G upgrades on a case-by-case, project basis and that no company or country was banned per se.
+
+Bowater re-asserted his longstanding claim that the 5G upgrade issue has broad political and economic ramifications that warrant a Huawei meeting with cabinet ministers.
+
+The Huawei NZ deputy chief executive added this morning, "After thorough investigation, this evidence-based decision will give the UK more advanced, more secure and more cost-effective telecommunications infrastructure that is fit for the future. It gives the UK access to world-leading technology and we want this for New Zealand too.
+
+"The types of restrictions around the core in the UK are exactly what we suggested in New Zealand. We agree a diverse vendor market and fair competition are essential for network reliability and innovation."
+
+"Globally, Huawei now has more than 65 5G deals and 60% of them are in Europe," Bowater said.
+
+Huawei's European customers include Vodafone Italy, which is using a mix of Nokia and Huawei kit in its early 5G rollout.
+
+"This decision by the UK Government proves yet again there is a way to manage security on 5G networks without excluding vendors simply because they are from a certain country," Bowater said.
+
+"5G done in the right way is an immense opportunity for New Zealand and we know Huawei technology is the best in the market. Huawei is an open book. We want to work with the New Zealand Government to find a solution so that the country doesn't have to compromise on competition or quality."
+
+State of play
+
+Vodafone NZ launched 5G in 100 sites across Auckland, Wellington, Christchurch and Queenstown in December, with Nokia as its primary technology partner.
+
+Spark launched fixed-wireless 5G in a series of small South Island towns in November, and plans its first 5G mobile service from July 1, with Nokia for its RAN and Cisco and Ericsson for its core.
+
+2degrees, which uses Huawei kit for its RAN and Core, has yet to outline a timetable for its 5G upgrade, though new CEO Mark Aue has indicated it's likely to be at least a couple of years away.
+
+Today, 2degrees corporate affairs chief Mat Bolland said, "We've always maintained that it's better for competition and customers if Huawei is an option as a technology vendor. They've been a great partner and helped us bring the benefits of competition to the market."

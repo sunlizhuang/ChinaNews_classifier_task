@@ -1,0 +1,99 @@
+Keeping track of elderly, helping to lift heavy loads all part of this year's show
+
+Arobot that can fetch toilet paper when you’re stranded on the loo and services to keep track of the elderly from afar were among the technologies showcased this week at the gadget show in Las Vegas.
+
+The annual CES conference runs through today and offers a forum for big companies and startups to unveil their products and services for the coming year.
+
+Here are some highlights:
+
+BODY ASSIST
+
+Flying cars and self-driving trucks, stand aside. Companies at CES are also trying to help the mobility of your own body_
+
+Samsung showed off an exoskeleton system called GEMS, or Gait Enhancing & Motivating Sytem. It uses small motors connected to your hips or knees to help you lift those limbs and complete exercises.
+
+The company envisions GEMS will be helpful for people with limited mobility and those in physical therapy or rehab from surgery. But GEMS is still early in development and doesn’t yet have a release date_
+
+Advertisement
+
+Meanwhile, Startup Unlimited Tomorrow has designed a prosthetic arm created with a 3D printer. The arm senses grip and is connected to the cloud for regular, personalized software updates. Those updates help fine-tune grip and movement for each person. The arm goes on sale later this year for about $5,000.
+
+Segway has a completely different approach to helping people with challenges getting around.
+
+The company, known for its stand-up motorized vehicles, unveiled the S-Pod, a motorized seated scooter on two wheels that somewhat resembles the chairs from futuristic movie Wall-E. Riders sit in the pod and steer with a small controller.
+
+The S-Pod will go on sale later this year to commercial customers. The company envisions it being used in airports or enclosed corporate campuses.
+
+ALEXA AT THE PUMP
+
+If swiping a credit card is too much of a chore, you’ll soon be able to pay for gas by voice.
+
+Later this year, those who have Amazon’s voice assistant Alexa in their cars will be able to drive into Exxon and Mobil stations and say, “Alexa, pay for gas.” Alexa will then ask you to confirm what station you’re at and which pump you’re using. The card on your Amazon account card will get charged.
+
+Sorry, but Alexa won’t pump gas for you. You’ll need to get out of the car for that.
+
+The new feature is part of Amazon’s push to get into more cars. At CES, the online shopping giant announced several deals with automakers, including bringing Alexa to Lamborghinis and its Fire TV streaming service to BMWs.
+
+Amazon says the gas station feature will be available at 11,500 U.S. locations.
+
+WATER ME
+
+Not all of us can tell when a plant needs more water, less light or perhaps is too warm.
+
+For that, Luxembourg startup Mu Design has created the Lua smart plant pot to give greenery an animated face. Emotions, such as thirsty, sick or cold, are displayed on a digital screen.
+
+“It transforms the needs of the plant into emotion that you can easily understand,” said Vivien Muller from Mu Design. “So you won’t be able to kill your plants. You just have to look at it and you’ll know exactly what it needs.”
+
+An accompanying app lets users generate information specific to that plant. The pot itself is fitted with sensors to monitor moisture, light and temperature.
+
+The device is expected to ship in March for $110.
+
+ROBOT FOR THE LOO
+
+Charmin wants to solve a familiar feeling: being stranded on the toilet with an empty toilet paper roll.
+
+Its solution: a two-wheeled robot that can fetch a fresh roll. The robot, around 6-inches tall, has the face of a bear – like the cartoon ones in Charmin’s commercials – and toilet paper sitting on top.
+
+But don’t expect it to roll to your bathroom anytime soon. Procter & Gamble, the company that owns Charmin, said the robot won’t be for sale and was just an example of what’s possible.
+
+“Car companies have concept cars, but P&G has concept bathrooms,” said Marc Pritchard, who oversees Procter & Gamble’s brands.
+
+The company didn’t have a working robot available at a press conference Sunday, though executives say one will be demonstrated when the show floor opens Tuesday.
+
+SENSING WATER LEAKS
+
+New sensors promise to stop water leaks before they ruin your home.
+
+Monitors from Alarm.com and Flo Technologies connect to homes’ water lines and track usage. If the systems sense more water than usual is flowing through the pipes, they send an alert through their apps – after all, it could just be a long shower. But if something really seems off kilter, the monitors will automatically shut off water.
+
+Flo used CES to launch its newest sensor, a raindrop-shaped device that looks like a smoke alarm and can detect any water or moisture when attached to toilets, washers or other leak-prone areas. Each detector costs $50.
+
+Another option, Phyn, makes a $299 device that hooks up to the pipes under a sink and measures changes in water pressure.
+
+TRACKING THE ELDERLY
+
+What are your grandparents up to? Startups are pitching a way to keep an eye on the elderly from afar.
+
+The new sensors can tell if a loved one has moved around and eaten – for instance, by detecting when the fridge is opened.
+
+The efforts come as the U.S. government expects adults over 65 to outnumber children for the first time by 2034.
+
+“We want to enable loved ones to live on their own,” said Ryan Herd, founder of Caregiver Smart Solutions.
+
+Caregiver’s sensors tracks the elderly through motion detection, though the product can also tell if someone has showered by measuring humidity. Another company, CarePredict, has a wrist-worn device that can detect falls and alert caregivers. It also tracks how much the person has moved around and what rooms they’re spending most of their time in.
+
+Tracking isn’t cheap. CarePredict’s device, for instance, costs $450, plus a $70 monthly fee.
+
+Neither company uses cameras, so you’ll need something else if you want to peer into your grandparents’ homes. Just keep in mind that if you can check video on an app, so might a skilled hacker.
+
+GADGETS FOR the EAR
+
+Nearly 67 million wireless earbuds are expected to be sold this year, according to projections by organizers of this week’s CES gadget show in Las Vegas. That’s up 35% from 2019, making it one of the fastest-growing categories in consumer tech.
+
+According to the organizers, the Consumer Technology Association, much of the growth will come from Apple’s AirPods and Samsung’s Galaxy Buds, both of which play music and take calls without any wires. But others are vying for your ear canal, too. Amazon started selling its own buds late last year, and Microsoft plans to have one in 2020.
+
+Also popular: smartwatches, fitness trackers and other devices that track and monitor your health. The CTA expects 64 million health devices to be sold this year, the first time the group has counted the category.
+
+Smartphones and TVs will see slower growth. Both are expected to rise just 2%.
+
+Overall, revenue in the U.S. consumer tech industry is expected to grow 4% to $422 billion, the CTA said. But the group warned that its numbers could change significantly if the trade war with China escalates or if tariffs are expanded. Much of the world’s electronics are put together in China, and the CTA has said that steeper tariffs could hurt the industry by making gadgets more expensive for consumers.

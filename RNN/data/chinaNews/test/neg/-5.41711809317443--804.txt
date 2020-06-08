@@ -1,0 +1,43 @@
+Hello. Tricking AI algorithms into misinterpreting road signs shows how vulnerable data is, WSJ Pro’s James Rundle and John McCormick report. Robert Bosch GmbH, a German engineering company, develops vehicle components such as sensors and cameras. To try to overcome deliberate defacement of road signs, Bosch is combining artificial intelligence with computer vision. The systems assess an object from two different perspectives and then compare them against each other.
+
+Also today: U.S on alert for Iranian response, including cyberattacks; Taiwan moves to mitigate election tampering; restaurant chain reports data breach; and FCC calls for comment on Huawei ban.
+
+AI Defenses
+
+Bosch deploys AI to prevent attacks on cars’ electronic systems. Germany-based engineering company Robert Bosch GmbH is using artificial intelligence to reduce the risk that hackers will be able to trick the electronic systems of cars into misinterpreting road signs.
+
+Traffic-sign recognition is one of the key tools required for autonomous vehicles. Thanks to road-sign standardization, this technology is well-suited to machine-learning and deep-learning processes that can identify images.
+
+It runs into difficulties, however, when signs are intentionally defaced. With a few strategically placed pieces of tape, a person can trick an algorithm into viewing a stop sign as if it were a 45 mile-per-hour speed limit sign, according to researchers. Such information could prove hazardous even in human-operated vehicles, where drivers might rely on information from their onboard systems.
+
+Read more about how Bosch’s system works.
+
+Big Number
+
+200,000
+
+Number of patients who can sue Athens Orthopedic Clinic in Georgia, according to a ruling from the state’s supreme court. Social Security numbers and other sensitive information for the 200,000 individuals were exposed in a 2016 ransomware attack at the clinic.
+
+More Cyber News
+
+Killing of Iranian military leader sparks worry about potential cyberattacks against the U.S. Tehran’s range of options includes direct attacks on U.S. embassies or on military facilities and bases overseas and cyberattacks against Western governments, businesses or infrastructure, The Wall Street Journal reports, citing former officials and experts. Areas of retaliation could be more indirect to U.S. interests, experts said. That would include infrastructure inside allied nations, such as the Saudi oil fields that U.S. officials said Iran attacked in September.
+
+Warning 1: Keith Alexander, the former head of U.S. Cyber Command and the National Security Agency, said it was likely Iran would respond with “a series of actions, both terrorism and cyber.”
+
+Warning 2: Christopher Krebs, director of Homeland Security’s Cybersecurity and Infrastructure Security Agency, advised organizations to watch for signs of Iranian hacking attempts. “Bottom line: time to brush up on Iranian TTPs and pay close attention to your critical systems,” he said on Twitter.
+
+Warning 3: “The thing about cyber is that it’s a capability that allows adversaries to hit just below the level of violence,” said John Hultquist, director of intelligence analysis at the U.S.-based cybersecurity firm FireEye Inc.
+
+FCC calls for comments on proposed ban of Huawei, ZTE products. The Federal Communications Commission, which in November voted to prohibit rural telephone companies from using federal grants to buy equipment from China’s Huawei Technologies Co. and ZTE Corp., said interested parties have until Feb. 3 to file comments on the matter, Reuters reports.
+
+Bubba Gump Shrimp Co. and sister restaurants compromised. Landry’s LLC, which owns Gump, Morton’s The Steakhouse, McCormick & Schmick’s and other chains, last week revealed an attack on point-of-sale systems at its restaurants, Dark Reading reports. An unspecified number of transactions in which serving staff swiped customer payment cards in food-ordering systems, rather than registers, left that financial information unencrypted and vulnerable, Landry’s said in a statement. “We removed the malware and implemented enhanced security measures, and we are providing additional training to waitstaff,” the company said.
+
+Taiwan turns to Facebook and viral memes to counter China’s disinformation. As a Jan. 11 election nears, the Taiwan government heightens efforts to dispel online rumors fostered by Beijing, the Journal reports. A law passed last week criminalizes political activities that facilitate “external hostile forces,” including by making political donations, staging campaign events or spreading disinformation.
+
+Meme vs. meme: When government agencies find what they deem to be false or misleading claims, they are tasked with not only putting out a correction, but pushing out the message on social media in a meme-like format meant to give it the virality that is the currency of social media.
+
+Lessons to learn: These efforts could serve as an example for other Western-style democracies, including the U.S., Australia and Canada, which are increasingly concerned about election interference from authoritarian governments. Beijing denies it seeks to interfere with elections in Taiwan or in politics elsewhere.
+
+U.K. examines if cyberattack triggered London Stock Exchange outage. U.K. government agencies are examining whether a trading outage blamed on a software hiccup at the London Stock Exchange in August may actually have been caused by a cyberattack aimed at disrupting markets, the Journal reports, citing people familiar with the matter. If the outage was caused by an attack, the aim may have been to cause market disruption and undermine confidence in critical national infrastructure in the U.K., the people said.
+
+Related video: California is trying to change the way we vote

@@ -1,0 +1,11 @@
+Monash University develops lithium-sulfur battery
+
+Scientists at Monash University in Australia have developed a new battery that the team says is the world’s most efficient lithium-sulfur (Li-S) battery. The Li-S battery promises enough power to run a smartphone for five days.
+
+Monash is on the brink of commercializing the battery and says that it would outperform the current market leaders by more than four times. While performing better than current batteries, the Li-S battery has less of an environmental impact that lithium-ion batteries used today. An approved, filed patent covers the manufacturing process, and the team notes that prototype cells have been successfully fabricated by German R&D partners Fraunhofer Institute for Material and Beam Technology.
+
+Some of the largest makers of lithium batteries in China and Europe have reportedly expressed interest in upscaling production of the battery. The first testing will take place in Australia early this year. The scientists see the battery tech being used in all manner of environments, including the power grid, EVs, and electronics.
+
+In developing the battery, the team used the same materials in lithium-ion batteries. It configured the design of the sulfur cathodes to accommodate high-stress loads without a drop in capacity or performance. The team notes that the manufacturing method favors high performance and long cycle life.
+
+A hallmark of the design is that it is simple and “extremely low-cost to manufacture.” The manufacturing process is water-based and can lead to reductions in environmentally hazardous waste. It’s unclear when the new battery tech might find its way into EVs, but the prospect of a car that can go 1,000 km between charges is undeniable. There is also an abundant supply of the materials needed to manufacture the batteries.

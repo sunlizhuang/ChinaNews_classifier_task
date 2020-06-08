@@ -1,0 +1,15 @@
+“We have no idea how much money Google makes from hardware,” Marketwatch wrote two years ago. That’s no longer entirely true — the company’s hardware division is a “multibillion-dollar” business, the company revealed during parent Alphabet’s Q4 earnings call (via 9to5Google).
+
+That suggests that hardware rakes in at least $2 billion, but could theoretically be a bit more: Google’s hardware businesses are lumped together with subscription services like YouTube Premium and YouTube Music Premium in Google’s “Other” category, all of which added up to a total of $17 billion of revenue in 2019.
+
+Even if we knew how much of that was hardware, it’d be hard to say which devices are leading the charge, be they Pixel phones and laptops; Nest doorbells, cameras, speakers, routers, and thermostats; or (less likely) Chromecast dongles.
+
+For instance, Google has never broken out sales numbers or revenue for its Pixel phones, though we know they were struggling for a while, and the frequent sales ever since the Pixel 4’s launch haven’t been a promising sign. (Though Google did celebrate the less expensive Pixel 3A’s launch by reporting that it sold twice as many Pixels during the quarter it arrived.) Even when it’s been good news, like when the company revealed that the original Google Wifi had become the top-selling Wi-Fi router, it hasn’t released sales numbers.
+
+Google hardware chief Rick Osterloh told us last May that the company’s hardware numbers were “good, but not where we want to be at the end of five years,” and that’s the sort of vague guidance we’ve had to settle for. Now, we’ve got a very slightly better idea — though not nearly as good as Google just revealed in regards to YouTube, whose never-before-revealed earnings add up to $15 billion a year.
+
+Google’s Sundar Pichai also revealed today how big a check the company has written to Android app developer over the years — $80 billion to date, presumably dating back to the launch of the Android Market (now Google Play) in 2008. Roughly a year ago, Apple mentioned that it had shared $120 billion with App Store developers — Apple says it paid $155 billion to developers as of January.
+
+Today, @sundarpichai shared that developers around the world (excl. China) have earned more than $80 billion to date on @GooglePlay. Our platform can’t succeed without the help of our developer ecosystem, so a huge thank you for all you do! — Hiroshi Lockheimer (@lockheimer) February 4, 2020
+
+Update February 4th, 8:36AM ET: Article updated to include $155 billion paid to developers by Apple as of January, 2020.

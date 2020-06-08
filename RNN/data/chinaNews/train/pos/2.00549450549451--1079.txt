@@ -1,0 +1,27 @@
+Bangkok--7 Jan--Dahua Technology
+
+Brienon-sur-Armancon is a city in the Burgundy-Franche-Comte region of north-central France, with a population of about 3,300. Located at the intersection of two rivers – Creanton and 'Armancon, Brienon-sur-Armancon enjoys an advanced road network which is vulnerable to illegal activities. To make the city safer, the local government, with far less than sufficient police force at hand, chose to secure its city and residents with Dahua Safe City Solution.
+
+Challenges
+
+There were two main pressing issues that needed to be addressed. Firstly, the city had far less than insufficient police force —— only one policeman was supposed to look after the whole 3,300 dwellers. Secondly, Brienon-sur-Armancon had not prepared itself with necessary cables needed for modern surveillance systems, requiring the Dahua Team to design a tailored solution according to the unique local environment and limited human resources of this city.
+
+Solution
+
+To make up for the shortage of police force and network cables, Dahua Technology delivered a customized solution covering the whole city with various kinds of video surveillance devices. These equipment are linked by a wireless device combining PTZ camera and antenna that transmits all the collected information to the highest point in the city center. These data are then transmitted to the control center, making it easy for the police to achieve round-the-clock monitoring.
+
+To monitor major sections of the city, an array of modern devices were utilized including Starlight IR PTZ AI Network Camera, Multi-Sensor Panoramic Camera, Eyeball Camera, Thermal Camera, ANPR Camera, Wireless transmission device, keyboard, etc. From the control center in the police station, the police can check real-time situation and decide whether to take action. This solution also aids them in obtaining video recordings that can be used as evidence in case of an incident.
+
+In addition, the combined strength of the Dahua general camera and PTZ camera created a smart capture mechanism for the police. General cameras were installed to monitor fixed scenes, once human or vehicles trigger detection rules set by the operator (like tripwire and intrusion), the PTZ camera will automatically zoom-in and start tracking. For low-light applications, the Dahua Starlight Technology of the PTZ camera also offers outstanding light sensitivity, capturing color details even under ultra-low light condition.
+
+Moreover, ANPR Cameras were deployed for road safety enforcement on main roads. Embedded with License Plate Recognition (LPR) algorithm, the camera have the ability to detect and recognize moving vehicle's plate number within low speed.
+
+Furthermore, installing Thermal Cameras took care of the job of monitoring the BBQ sites in the park with their built-in fire detection functionality that can detect fires even at long range distance. Wireless transmission device made it possible for all cameras in all locations to connect to the control center without the cost and trouble of wiring. NKB 5000 HD Network Control Keyboard was installed in the control center to help the police achieve split screen operation of both general and PTZ cameras. Some Seagate hard disks were also used to store recorded videos for future use.
+
+Benefits
+
+The Brienon-sur-Armancon police can now sit remotely in the control room and operate in an efficient way with the help of Dahua Safe City Solution, which allows them to effectively monitor major areas in the city and respond in time when an incident takes place. The recorded videos also serve as crucial evidence and help the police to crack a case with much less effort. In the first week of the test run of this smart system, the police has already solved a cemetery theft case with evidence recorded by the Dahua PTZ camera.
+
+"The origin of our cooperation with Dahua dates back to the visit to China a year ago. This visit to the Dahua headquarters in Hangzhou concluded with a reciprocal commitment – to equip the city of Brienon with video surveillance. We welcomed this agreement, which allowed the installation of the system and improved the daily life of our residents." said Mr. Jean-Claude M.CARRA, Mayor ofBrienon-sur-Armancon.
+
+Watch the video to get more information about this case: https://www.youtube.com/watch?v=CU4ie6XnOVo

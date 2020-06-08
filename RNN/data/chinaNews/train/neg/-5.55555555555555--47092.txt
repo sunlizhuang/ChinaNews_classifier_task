@@ -1,0 +1,257 @@
+© Provided by CNET Robert Rodriguez/CNET
+
+A novel virus first detected in the central Chinese city of Wuhan in December has claimed more than 350 lives and infected about 17,000 people.
+
+The virus, currently dubbed 2019-nCoV, was pinned down after a spate of pneumonia-like illnesses appeared in the Chinese province of Hubei. It was first reported to the World Health Organization on Dec. 31 and in the intervening month scientists have linked the disease to a family of viruses known as coronaviruses, which include the deadly SARS and Middle East respiratory syndrome.
+
+On Jan. 30, a special WHO committee declared a public health emergency of international concern, citing "the potential for the virus to spread to countries with weaker health systems." Human-to-human transmission has been confirmed outside China, including in the US, leading authorities around the world to begin limiting travel and enforcing quarantines to guard against the spread.
+
+On Jan. 31, US Secretary of Health and Human Services Alex Azar declared a public health emergency citing the nation's intention to protect and respond to the outbreak, while noting "the risk to Americans remains low." As part of the response, any foreign nationals who have been in China will be barred from entering the US. Starting Sunday, US citizens who have visited Hubei province, where the outbreak began, will be quarantined for up to 14 days, while those traveling through other regions in China will be monitored and have to self-quarantine.
+
+© Getty Images A man in Wuhan, China wears a face mask
+
+Japan and Australia followed suit. As three new cases were announced Jan. 31, Scott Morrison, the Australian prime minister, announced those traveling from mainland China would be denied entry into the country from Feb. 1 onward. Shinzo Abe, Japanese prime minister, said anyone who had visited Hubei province in the last 14 days would be barred entry.
+
+The first international death was recorded Saturday, according to WHO. A 44-year-old man, who was a resident of Wuhan, passed away on Feb. 1.
+
+The situation is rapidly evolving. We've collated everything we know about the novel virus, what's next for researchers and some of the steps you can take to reduce your risk.
+
+What is a coronavirus?
+
+Where did the virus come from?
+
+How many confirmed cases have been reported?
+
+How many deaths have been reported?
+
+How do we know it's a new coronavirus?
+
+How does the coronavirus spread?
+
+How infectious is coronavirus?
+
+What are the symptoms of the coronavirus?
+
+Is there a treatment for coronavirus?
+
+How to reduce your risk of coronavirus
+
+What is a coronavirus?
+
+Coronaviruses belong to a family known as Coronaviridae, and under an electron microscope they look like spiked rings. They're named for these spikes, which form a halo or crown around their viral envelope.
+
+Coronaviruses contain a strand of RNA within the envelope and, as a virus, can't reproduce without getting inside living cells and hijacking their machinery. The spikes on the viral envelope help coronaviruses bind to cells, which gives them a way in, like blasting the door open with C4. Once inside, they turn the cell into a virus factory, using its molecular conveyor belt to produce more viruses, which are then shipped out of the cell. The virus progeny infect other cells and the cycle starts anew.
+
+< PREVIOUS SLIDE SLIDE 1 of 21 NEXT SLIDE > A never-before-seen deadly virus first detected in the Chinese city of Wuhan has infected citizens in China and elsewhere with a pneumonia-like illness. The disease is causing alarm worldwide, with cases also reported in such countries as Thailand, Japan, Taiwan, South Korea, the US and Australia. Here are some scenes from around the globe as scientists and citizens struggle to understand and contain the illness. Zhou Qiong, a doctor in the department of respiratory medicine at Union Hospital in Wuhan, China, is a member of an "assault team" formed to fight the coronavirus. The hospital is affiliated with Tongji Medical College of Huazhong University of Science and Technology.Keep updated on the fast-moving developments here. Originally published Jan. 25 and updated as new images come in. © Provided by CNET
+
+Typically, these types of viruses are found in animals ranging from livestock and household pets to wildlife such as bats. When they make the jump to humans, they can cause fever, respiratory illness and inflammation in the lungs. In immunocompromised individuals, such as the elderly or those with HIV-AIDS, such viruses can cause severe respiratory illness, resulting in pneumonia and even death.
+
+Extremely pathogenic coronaviruses were behind SARS (severe acute respiratory syndrome) and MERS (Middle East respiratory syndrome) outbreaks in the last two decades. These viruses were easily transmitted from human to human. SARS, which showed up in the early 2000s, infected more than 8,000 people and resulted in nearly 800 deaths. MERS, which appeared in the early 2010s, infected almost 2,500 people and led to more than 850 deaths.
+
+Where did the virus come from?
+
+The virus appears to have originated in Wuhan, a Chinese city about 650 miles south of Beijing that has a population of more than 11 million people. The Huanan Seafood Wholesale Market, which sells fish, as well as a panoply of meat from other animals, including bats and snakes was implicated in the spread in early January.
+
+Prestigious medical journal The Lancet published an extensive summary of the clinical features of patients infected with the disease stretching back to Dec. 1, 2019. The very first patient identified had not been exposed to the market, suggesting the virus may have originated elsewhere and been transported to the market, where it was able to thrive.
+
+Chinese authorities shut down the seafood market on Jan. 1.
+
+Markets have been implicated in the origin and spread of viral diseases in past epidemics, including SARS and MERS. A large majority of the people so far confirmed to have come down with the new coronavirus had been to the Huanan Seafood marketplace in recent weeks. The market seems like an integral piece of the puzzle, but researchers continue to test and research the original cause.
+
+An early report, published in the Journal of Medical Virology on Jan. 22, suggested snakes were the most probable wildlife animal reservoir for 2019-nCoV, but the work was soundly refuted by two further studies just a day later, on Jan. 23.
+
+"We haven't seen evidence ample enough to suggest a snake reservoir for Wuhan coronavirus (2019-nCoV)," said Peter Daszak, president of nonprofit EcoHealth Alliance, which researches the links between human and animal health.
+
+"This work is really interesting, but when we compare the genetic sequence of this new virus with all other known coronaviruses, all of its closest relatives have origins in mammals, specifically bats. Therefore, without further details on testing of animals in the markets, it looks like we are no closer to knowing this virus' natural reservoir."
+
+Another group of Chinese scientists uploaded a paper to preprint website biorXiV, having studied the viral genetic code and compared it to the previous SARS coronavirus and other bat coronaviruses. They discovered the genetic similarities run deep: The virus shares 80% of its genes with the previous SARS virus and 96% of its genes with bat coronaviruses. Importantly, the study also demonstrated the virus can get into and hijack cells the same way SARS did.
+
+All good science builds off previous discoveries -- and there is still a lot to learn about the basic biology of 2019-nCoV before we have a good grasp of exactly which animal vector is responsible for transmission -- but early indications are the virus is similar to those seen in bats. A report by the New York Times on Jan. 28 suggested the Chinese horseshoe bat could be the main culprit.
+
+How many confirmed cases have been reported?
+
+Authorities have confirmed over 17,000 cases as of Feb. 2. The bulk are in China, but cases have been confirmed in Thailand, Japan, South Korea, Malaysia, Sri Lanka, Vietnam, Cambodia, Nepal and Russia. In Europe, Germany, Finland, France, Italy, Spain, Sweden and the UK have confirmed cases. Cases have also been seen in India and the Philippines.
+
+In the US, nine cases have been confirmed: four in California, two in Illinois and one each in Washington state, Massachusetts and Arizona. Canada has four confirmed cases. On Feb. 1, Australia's confirmed cases jumped to 12.
+
+Almost 21,000 people are being tracked as of Feb. 1. According to CGTN, a Chinese media service, more 480 people have recovered.
+
+Here's the breakdown as it stands:
+
+China: 17,302 confirmed cases (Hong Kong: 15; Macau: 8)
+
+17,302 confirmed cases (Hong Kong: 15; Macau: 8) Japan: 20 confirmed cases
+
+20 confirmed cases Thailand: 19 confirmed cases
+
+19 confirmed cases Singapore : 18 confirmed cases
+
+South Korea: 15 confirmed cases
+
+15 confirmed cases Australia: 12 confirmed cases
+
+12 confirmed cases Taiwan: 10 confirmed cases
+
+10 confirmed cases US: 11 confirmed cases
+
+11 confirmed cases Malaysia: 8 confirmed cases
+
+8 confirmed cases France: 6 confirmed cases
+
+6 confirmed cases Vietnam: 6 confirmed cases
+
+6 confirmed cases Germany: 7 confirmed cases
+
+7 confirmed cases United Arab Emirates: 5 cases
+
+5 cases Canada: 4 confirmed cases
+
+4 confirmed cases UK: 2 confirmed cases
+
+2 confirmed cases Italy: 2 confirmed cases
+
+2 confirmed cases Russia: 2 confirmed cases
+
+2 confirmed cases Spain: 1 confirmed case
+
+1 confirmed case Cambodia: 1 confirmed case
+
+Nepal: 1 confirmed case
+
+Sri Lanka: 1 confirmed case
+
+1 confirmed case Philippines: 1 confirmed case
+
+1 confirmed case Tibet: 1 confirmed case
+
+1 confirmed case India: 1 confirmed case
+
+1 confirmed case Finland: 1 confirmed case
+
+1 confirmed case Sweden: 1 confirmed case
+
+You can track the spread of the virus with this handy online tool, which is collating data from a number of sources including the CDC, the WHO and Chinese health professionals. (Note: There may be differences in our reports and the tracking tool.)
+
+How many deaths have been reported?
+
+The death toll passed a grim milestone on Jan. 27, with the confirmation that 100 people had been killed by the novel virus. As of Feb. 3, the death toll stands at 362.
+
+One death has been recorded outside China. A man who traveled to Wuhan and returned to the Philippines in January passed away on Feb. 1.
+
+© Provided by CNET A pedestrian in the city of Wuhan, China. The virus appears to have originated in Wuhan's Huanan Seafood Wholesale Market. Getty Images
+
+How do we know it's a new coronavirus?
+
+In short, science!
+
+The Chinese Center for Disease Control and Prevention dispatched a team of scientists to Wuhan to gather information about the new disease and perform testing in patients, hoping to isolate the virus. Their work, published in the New England Journal of Medicine on Jan. 24, examined samples from three patients. Using an electron microscope, which can resolve images of cells and their internal mechanics, and studying the genetic code, the team were able to visualize and genetically identify the novel coronavirus.
+
+Understanding the genetic code helps researchers in two ways: It allows them to create tests that can identify the virus from patient samples, and it gives them potential insight into creating treatments or vaccines.
+
+Additionally, the Peter Doherty Institute in Melbourne, Australia, was able to identify and grow the virus in a lab from a patient sample. They announced their discovery on Jan. 28. This is seen as one of the major breakthroughs in developing a vaccine and provides laboratories with the capability to both assess and provide expert information to health authorities and detect the virus in patients suspected of harboring the disease.
+
+How does the coronavirus spread?
+
+This is one of the major questions researchers are still working hard to answer. The first infections were potentially the result of animal-to-human transmission, but confirmation that human-to-human transmission has followed was obtained in late January.
+
+The University of Minnesota's Center for Infectious Disease Research and Policy reported that health workers in China had been infected with the virus in late January. During the SARS epidemic, this was a notable turning point, as health workers moving between countries were able to help spread the disease.
+
+"The major concern is hospital outbreaks, which were seen with SARS and MERS coronaviruses," said C. Raina MacIntyre, a professor of global biosecurity at the University of New South Wales. "Meticulous triage and infection control is needed to prevent these outbreaks and protect health workers."
+
+There is some suggestion the virus can spread before symptoms appear, according to a report by the BBC citing Chinese officials. The incubation period -- when the virus is building up in the body -- can last between one to 14 days without a patient realizing they are infected. However, it must be stressed, experts still aren't sure how infectious this period is.
+
+How is the world combating the spread?
+
+In Wuhan, authorities are rushing to build a thousand-bed hospital to treat coronavirus patients as the province struggles with hospital bed shortages. It's aiming to open the facility on Feb. 3, giving construction workers 10 days to get it ready.
+
+China shut down Wuhan to reduce the spread of the virus, canceling transportation leaving the city starting at 10 a.m. Jan. 23. The travel restrictions were extended to four other cities (Huanggang, Ezhou, Chibi and Zhijiang) later that day, and constraints were announced in eight more cities on Jan. 24 -- impacting more than 35 million people.
+
+The restrictions were enforced during a busy travel period for China, when citizens typically travel for the Lunar New Year. Major public events Chinese capital Beijing were canceled, and both Beijing's Forbidden City and Shanghai's Disneyland closed down from Jan. 25. All of the restrictions and closures will last indefinitely.
+
+The scale of the global efforts to contain the disease is immense. Hong Kong closed many public facilities on Jan. 28 and has prevented traveling between mainland China. The US announced sweeping border control measures at 20 ports of entry and has been considering cancelling flights to and from the outbreak epicenter in Wuhan. Esports tournaments have been postponed, Olympic women's soccer tournaments have been moved entirely, and McDonald's has shuttered thousands of locations across China where the virus is spreading.
+
+British Airways on Jan. 29 suspended all flights to and from mainland China "for the next few days," a spokesperson confirmed via email. American Airlines and Delta are also suspending service to mainland China, though Delta will continue to operate flights until Feb. 5 for customers looking to exit China. The national airline in Australia, Qantas, announced the suspension of flights from Sydney to Beijing and Sydney to Shanghai from Feb. 9. New Zealand's carrier, Air New Zealand, suspended daily flights to Shanghai on Feb. 1.
+
+© Provided by CNET An electron microscopy image of the coronavirus that causes SARS. Getty Images
+
+How infectious is coronavirus?
+
+A widely shared Twitter thread by Eric Feigl-Ding, a Harvard University epidemiologist, suggests the new coronavirus is "thermonuclear pandemic level bad" based on a metric known as the "r nought" (R0) value. This metric helps determine the basic reproduction number of an infectious disease. In the simplest terms, the value relates to how many people can be infected by one person carrying the disease. It has been widely criticized as alarmist.
+
+Infectious diseases such as measles have an R0 of 12 to 18, which is remarkably high. The SARS epidemic of 2002-2003 had an R0 of around 3. A handful of studies modeling the 2019-nCoV outbreak have given a similar value with a range between 1.4 and 3.8. However, there is large variation between studies and models attempting to predict the R0 of novel coronavirus due to the constantly changing number of cases.
+
+In the early stages of understanding the disease and its spread, it should be stressed these studies are informative, but they aren't definitive. They give an indication of the potential for the disease to move from person-to-person, but we still don't have enough information about how the new virus spreads.
+
+"Some experts are saying it is the most infectious virus ever seen -- that is not correct," MacIntyre said. "If it was highly infectious (more infectious than influenza as suggested by some) we should have seen hundreds, if not thousands of cases outside of China by now, given Wuhan is a major travel hub."
+
+China has suggested the virus can spread before symptoms present. Writing in The Conversation on Jan. 28, MacIntyre noted there was no evidence for these claims so far but does suggest children and young people could be infectious without displaying any symptoms. This also makes airport screening less impactful, because harboring the disease but showing no signs could allow it insidiously spread further.
+
+Should you be worried?
+
+As the virus has continued to spread, it's easy to get caught up in the fear and alarmism rampantly spreading through social media. There is misinformation and disinformation swirling about the effects of the disease, where it's spreading and how.
+
+We've put together a handy fact check about the novel coronavirus to dismiss some of the more egregious claims and conspiracies.
+
+WHO declares a public health emergency
+
+On Jan. 30, the World Health Organization declared a public health emergency of international concern over the coronavirus outbreak. Tedros Adhanom Ghebreyesus, the director-general of the WHO, said the organization is working with national and international public health partners to get the outbreak under control.
+
+The WHO also issued recommendations to prevent the spread of the virus and ensure a "measured and evidence-based response."
+
+In the fall, an emergency committee met regarding the Ebola virus epidemic in the Democratic Republic of the Congo. The meeting outlined key strategies and commitments to strengthen and protect against the spread of the disease.
+
+On Thursday, search giant Google announced they would be teaming with WHO and help disseminate information via their results page.
+
+What are the symptoms?
+
+The new coronavirus causes symptoms similar to those of previously identified disease-causing coronaviruses. In currently identified patients, there seems to be a spectrum of illness: A large number experience mild pneumonia-like symptoms, while others have a much more severe response.
+
+On Jan. 24, prestigious medical journal The Lancet published an extensive analysis of the clinical features of the disease.
+
+According to the report, patients present with:
+
+Fever, elevated body temperature.
+
+Dry cough.
+
+Fatigue or muscle pain.
+
+Breathing difficulties.
+
+Less common symptoms of coronavirus include:
+
+Coughing up mucus or blood.
+
+Headaches.
+
+Diarrhea.
+
+As the disease progresses, patients also come down with pneumonia, which inflames the lungs and causes them to fill with fluid. This can be detected by an X-ray and was present in all 41 cases studied.
+
+Is there a treatment for coronavirus?
+
+Coronaviruses are notoriously hardy organisms. They're effective at hiding from the human immune system, and we haven't developed any reliable treatments or vaccines that can eradicate them. In most cases, health officials attempt to deal with the symptoms.
+
+"There is no recognized therapeutic against coronaviruses," Mike Ryan, executive director of the WHO Health Emergencies Programme, said during the Emergency Committee press conference on Jan. 29. "The primary objective in an outbreak related to a coronavirus is to give adequate support of care to patients, particularly in terms of respiratory support and multi-organ support."
+
+That doesn't mean vaccines are an impossibility, however. Chinese scientists were able to sequence the virus' genetic code incredibly quickly, giving scientists a chance to study it and look for ways to combat the disease. According to CNN, researchers at the US National Institutes of Health are already working on a vaccine, though it could be a year or more away from release.
+
+Notably, SARS, which infected around 8,000 people and killed around 800, seemed to run its course and then mostly disappear. It wasn't a vaccine that turned the tide on the disease but rather effective communication between nations and a range of tools that helped track the disease and its spread.
+
+"We learnt that epidemics can be controlled without drugs or vaccines, using enhanced surveillance, case isolation, contact tracking, PPE and infection control measures," MacIntyre said.
+
+A handful of organizations and research institutes have started work on vaccines, according to Global Times.
+
+How to reduce your risk of coronavirus
+
+With confirmed cases now seen across the globe, it's possible that 2019-nCoV may spread much further afield than China. The WHO recommends a range of measures to protect yourself from contracting the disease, based on good hand hygiene and good respiratory hygiene -- in much the same way you'd reduce the risk of contracting the flu. The novel coronavirus does spread and infect humans slightly differently to the flu, but because it predominantly affects the respiratory tract, the protection measures are quite similar.
+
+Meanwhile, the US State Department on Jan. 30 issued a travel advisory with a blunt message: "Do not travel to China." An earlier warning from the CDC advised people to "avoid nonessential travel."
+
+A Twitter thread, developed by the WHO, is below.
+
+You may also be considering buying a face mask to protect yourself from contracting the virus. You're not alone -- stocks of face masks have been selling out across the world, with Amazon and Walmart.com experiencing shortages. Reporting from Sydney this week, I found lines at the pharmacy extending down the street.
+
+The risk of contracting the virus outside of China remains low, but if you're considering buying a mask, you'll want to know exactly which face mask you should be looking for. Disposable masks can protect any large droplets from entering the mouth or nasal passage but a respirator mask is far more effective. CNET's Wellness team has put together a comprehensive guide to which masks you should buy.
+
+Updated Feb. 3 10:18 a.m. PT

@@ -1,0 +1,97 @@
+6 January, 2020
+
+The Hong Kong Intellectual Property Department (IPD) will launch a new type of patent and implement several other changes to Hong Kong’s patent system. While the existing system for re-registration of Chinese, UK and European patents in Hong Kong will be maintained, a new “original grant” patent will also be available.
+
+These changes are effected by the Patents (Amendment) Ordinance 2016 and Patents (General) (Amendment) Rules 2019. The new system comes into force on 19 December 2019 and marks the culmination of a 5 year review of Hong Kong’s patent law.
+
+Key changes include:
+
+The introduction of an "original grant" patent (OGP) system for direct filing of standard patent applications in Hong Kong;
+
+A substantive examination procedure for Hong Kong short-term patents;
+
+Up to two independent claims may be included in a short-term patent;
+
+Express provisions for second medical use claims;
+
+The introduction of provisions dealing with entitlement disputes, restoration of priority rights for applications of OGPs and the ability to submit third party observations before the IPD; and
+
+Restriction of the use by individuals of certain titles for supplying patent agency services in Hong Kong, which may imply endorsement by the Government, or recognition by law.
+
+Introduction of an OGP
+
+The most significant change is the introduction of an OGP system for standard patents, which will run in parallel with the existing “re-registration” system. Standard patents applied for under the new OGP system and the existing “re-registration” systems are referred to as standard patents (O) and standard patents (R) respectively.
+
+The existing re-registration system for obtaining a standard patent (R) will be maintained. Currently, the re-registration process of a standard patent is a two stage process. The first stage involves filing a “request to record” with the Hong Kong Patents Registry based upon a pending application in the UK, Europe or China (the “designated patent application”). This must be done within 6 months of publication of the designated patent application.
+
+Once the designated patent application has proceeded to grant, an application for registration and grant must be filed in Hong Kong within 6 months of the grant of the designated patent application.
+
+Under the new OGP system for standard patents (O), it will be possible to file a standard originating patent application directly with the Hong Kong Registrar, either with a claim to priority, or as a first filing, thereby obviating the need for a foreign designated patent application. A standard originating patent application will be subjected to a substantive examination by local patent examiners in Hong Kong (supervised by the Chinese State Intellectual Property Office) before it will be allowed to proceed to grant. Therefore, the resulting patent should carry a similar presumption of validity as a corresponding standard patent under the re-registration system.
+
+The standard originating patent is likely to be of benefit to applicants who have no interest in securing patent protection in China, Europe or the UK but wish to more cost effectively obtain a 20 year patent monopoly in Hong Kong. However, applicants who file in China, Europe or the UK may find the existing re-registration system to be more cost effective. Thus it is expected that the new original grant patent may be of most interest to Hong Kong companies whose focus is on Hong Kong rather than overseas markets.
+
+It is important to note that it will not be possible to file a Hong Kong standard originating patent application directly from an international PCT application. Consequently, the existing re-registration system will continue to be the only route via which a standard patent may be obtained in Hong Kong via the PCT.
+
+Refining the short-term patent system
+
+The short-term patent system will see the introduction of a substantive examination procedure as well as other important changes.
+
+The proposed substantive examination procedure will enable either a proprietor of a short-term patent, or a third party having a legitimate interest, to request the Registrar to conduct a post-grant substantive examination of the patent. The result of this procedure will be the issuance of a “certificate of substantive examination” confirming the validity of the patent (including any requested amendments) or, in the event the patent is ultimately found invalid, its revocation.
+
+The introduction of this substantive examination procedure will facilitate challenging the validity of a short-term patent by third parties and should help to ensure that only short-term patents with a high presumption of validity are the subject of litigation.
+
+A request for substantive examination or a certificate of substantive examination will become a requirement for commencing enforcement proceedings in respect of a short-term patent before the court.
+
+Therefore, short-term patent owners seeking to enforce their patent against a third party should consider filing an early request for substantive examination. However, a request for substantive examination will not be able to be withdrawn once filed. Therefore, before filing such a request, proprietors should first satisfy themselves of the patent’s validity either, as it stands, or as proposed to be amended.
+
+The short-term patent system will also be amended to permit a second independent claim. This should enable applicants to obtain more than one species of claim, such as a product claim and a method claim.
+
+This will enable broader short-term patent protection to be obtained in a more cost effective manner than before.
+
+Unjustified Threats provisions
+
+In Hong Kong, letters before action must be worded carefully to avoid being classified as unjustified threats for which the patent owner may be liable, if the patent is later found to be invalid or not infringed.
+
+Under the new law, with respect to short-term patents, there is an additional requirement that for a short-term patent which has not yet received a certificate of substantive examination, the patent owner must comply with any request for patent information by a party receiving a letter before action. Compliance must be within 14 days of the request. “Patent information” is defined as including the patent number and a copy of any request for post-grant amendment which has not yet been published.
+
+OGP entitlement
+
+The Ordinance introduces the power for the Hong Kong Registrar or a Hong Kong court to determine whether a person is entitled to apply for a standard patent (O) in relation to an invention, whether or not a standard patent (O) application has been filed. Where an application has been filed, the Register or court may determine whether any right in our under the application should be transferred or granted to any other person.
+
+For standard patents (R), entitlement disputes in relation to the designated patent applications will still need to be resolved according to the laws of the designated patent offices.
+
+Restoration of priority rights
+
+For standard patents (O) and short-term patents, the Ordinance provides for restoration of priority up to the end of 2 months after the expiry of the normal 12-month priority period. The application for restoration of the priority will be allowed if the applicant can show that the failure to file within the 12 month priority period was despite having taken reasonable care to do so. This approach is analogous to section 5 of the UK Patents Act 1977 and provides for greater flexibility in Hong Kong for resurrecting late priority claims. In contrast, China does not allow late claims to priority after the expiry of the 12-month priority period.
+
+Third party observations
+
+As with other major jurisdictions in which substantive examination is carried out, the Ordinance includes a mechanism for third parties to submit observations in respect of both a standard originating patent application and a short-term patent. Observations can be a useful tool for third parties to interfere with the substantive examination procedure and influence the decision of the Registrar without becoming officially involved in proceedings.
+
+Post-grant amendment before the Registry
+
+The changes will also see the introduction of a new post-grant amendment procedure for both a standard originating patent and a short-term patent in respect of which a certificate of substantive examination has been issued. This will enable a patent proprietor to submit requests for amendment in respect of such patents not only to the court but also to the Registrar. This will be beneficial as it is likely to be simpler and cheaper to make a post-grant amendment with the Registrar than with the court.
+
+For a standard patent obtained via the existing re-registration system, the court will continue to be the only authority through which a post-grant amendment may be made.
+
+Second medical use
+
+The Hong Kong Patents Ordinance (Cap. 514) currently does not contain any express provision in respect of the novelty of so-called “second medical use” inventions. These relate to a new medical use of a substance or composition where the first medical use is already known. This is in contrast to the legal position in jurisdictions such as Europe and the UK where second medical use claims are specifically permitted through explicit legislative provisions.
+
+This discrepancy has given rise to potential uncertainty for proprietors of Hong Kong patents and, in particular, proprietors of patents that include second medical use claims equivalent to those of the corresponding designated patent in China, Europe or the UK.
+
+The changes will bring Hong Kong into line with Europe and the UK by including similar provisions for novelty of second medical use claims and remove uncertainty for patent proprietors and third parties.
+
+Renewal fees
+
+Renewal fees on standard patents have been revised such that they are a sliding rather than fixed scale, so that the patent becomes slightly more expensive to maintain in later years. Renewal fees for a standard patent are now set at HK$450 for each of the 3rd to 9th years, HK$620 for each of the 10th to 14th years and HK$850 for each of the 15th to 19th years.
+
+Conclusion
+
+The introduction of the OGP is an important step in modernizing the Hong Kong system and part of the government’s plan to build up Hong Kong as an IP trading centre. Meanwhile the new provisions for substantive examination of short-term patents will help curb potential abuses of the short-term patent system and provide greater certainty for third parties. While these are significant changes, much remains the same, as the new system will run in parallel with the existing re-registration system. Thus applicants will have the choice of applying directly in Hong Kong for an originating patent, or protecting their rights through "re-registration" as before.
+
+For further information, please contact:
+
+Daniel Holt, Deacons
+
+daniel.holt@deacons.com

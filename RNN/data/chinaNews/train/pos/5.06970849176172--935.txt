@@ -1,0 +1,27 @@
+Quectel Wireless Solutions, a global supplier of cellular and GNSS modules, debuted at CES 2020 a series of communication modules targeting the 5G connected car sector.
+
+CES 2020, the massive annual consumer electronics show, is taking place Jan. 7-10 in Las Vegas. The three new modules are showcased at Quectel’s booth No. 2601.
+
+Quectel’s new automotive-grade modules include the AG550Q, a new 5G New Radio (5G NR) Sub-6GHz module, the AG215S automotive EAP module, dedicated for C-V2X scenarios, and the AF50T Wi-Fi module.
+
+All three modules are based on the Qualcomm Automotive Wireless Solutions from Qualcomm Technologies, Inc., a subsidiary of Qualcomm Incorporated. They are designed to provide multi-gigabit cloud connectivity, improved location services, and enhanced security to support the increasing requirements of connected car and autonomous driving use cases.
+
+The AG550Q 5G NR module, supporting both NSA and SA modes, is based on the AEC-Q100 qualified Qualcomm Snapdragon Automotive 5G Platform. The module is compliant with IATF 16949 requirements, and follows automotive quality processes such as APQP and PPAP to address the demanding requirements of automotive devices.
+
+Adopting the 3GPP Rel. 15 technology, the AG550Q supports high speeds and ultra-low latency to facilitate better security and quality-of-service for mission-critical services. The multimode 5G NR module is backward compatible with existing 4G, 3G and 2G technologies. This ensures that cars will remain connected regardless of where they travel within the network.
+
+Supporting optional C-V2X PC5 direct communications, AG550Q provides superior performance in vehicle-to-vehicle (V2V) and vehicle-to-roadside infrastructure (V2I) communications for improved traffic efficiency and safety. Furthermore, the module supports optional Dual SIM Dual Activation (DSDA), which allows car and driver each to choose their own independent network operator subscription in order to support a variety of emerging mobility service models.
+
+Additionally, the highly-integrated AG550Q module supports multi-constellation and multi-frequency GNSS (L1/L2/L5), as well as optional Qualcomm Dead Reckoning (QDR) 3.0 technology which provides quick and highly accurate location positioning. The module will be commonly found in telematics boxes (T-Box), telematics control units (TCU), advanced driver-assistance systems (ADAS), C-V2X (V2V, V2I, V2P) systems, on-board units (OBU), roadside units (RSU), and other automotive/traffic systems.
+
+Quectel AG550Q module offers powerful cyber-security features, which include firmware secure boot, Trusted Execution Environment (TEE), network firewall, SELinux strong access control, TLS/SSL security protocols and more.
+
+“We are proud to deliver global OEMs and Tier 1 suppliers the most advanced wireless connectivity available, which allow them to integrate the latest 5G technology into their next-generation car designs,” said Min Wang, vice general manager of Quectel. “Leveraging our relationship with Qualcomm Technologies and its cutting-edge chipsets, we have been able to offer auto customers secure and reliable connected car solutions. Our complete automotive portfolio ranging from LTE, C-V2X to 5G and Wi-Fi can satisfy the continuity of automakers’ future product planning.”
+
+“As the automotive industry accelerates its adoption of cellular-based communications technology, our priority is to work with innovative partners like Quectel Wireless Solutions to meet the needs of the automotive industry as it delivers on the promises of automated mobility,” said Matt Eichenberger, senior director, business development, Qualcomm Technologies. “The hallmark of our work with partners is to engineer highly scalable cellular technology-based platform that enable automakers to reimagine the speed of innovation. This translates to more connected experiences and improved vehicle safety, as more cars are capable of communicating not only with the cloud but also with other vehicles, pedestrians and transportation infrastructure.”
+
+Besides AG550Q, Quectel also unveiled an automotive EAP module AG215S at the show, which is dedicated to C-V2X applications, and features the Qualcomm Snapdragon 2150 platform. The module integrates powerful application processor to host an ITS stack and applications. Along with having a hardware crypto engine embedded to fulfill powerful ECDSA verification capability (with support for up to 2500 verifications/sec). AG215S supports the global, U.S., EU and China National Security Algorithm, which can greatly boost security in vehicle communications. Quectel will also provide the reference design platform with full functionality (Application Processor + Modem + Connectivity + GNSS + SW SDKs), for customers and application developers.
+
+The Quectel AF50T Wi-Fi module targets the connected car sector and supports Wi-Fi 2.4GHz + 5GHz & BT 5.1, and 802.11a/b/g/n/ac/ax standards.
+
+The AG550Q module is in the engineering sample stage, with the evaluation board available to reduce development time for OEMs and Tier 1 suppliers. The AG215S module will be sampling starting January 2020.

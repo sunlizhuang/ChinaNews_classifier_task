@@ -1,0 +1,27 @@
+The Justice Department claims Chinese vendor Huawei has been stealing US trade secrets by offering bonuses to its employees to snatch up the confidential information from competitors.
+
+On Thursday, Justice Department unsealed updated charges against the Chinese company, a year after federal officials formally indicted Huawei for sidestepping US sanctions against Iran and trying to steal intellectual property from T-Mobile.
+
+Today’s superseding indictment adds a RICO violation to the charges on claims Huawei engaged in a two decades-long conspiracy to use fraud and deception to illegally obtain intellectual property from five other unnamed US technology companies.
+
+The RICO charge is noteworthy because it means the US is accusing the Chinese company of being a criminal enterprise akin to the mob. In Huawei's case, the vendor allegedly stole information including operating system source code and user manuals as a way to improve company internet routers and its antenna components for mobile phones.
+
+According to the indictment, Huawei pulled off the intellectual property theft, thanks in part to instituting a policy in 2013 to reward employees with a bonus if they obtained confidential information from competitors. The more valuable the trade secret, the more money the employee could earn.
+
+“Employees were directed to post confidential information obtained from other companies on an internal HUAWEI website, or, in the case of especially sensitive information, to send an encrypted email to a special huawei.com email mailbox,” the indictment claims. “A memorandum describing this program was sent to employees in the United States.”
+
+Another way Huawei allegedly stole the trade secrets was to express interest in partnering with the victim company, only to abuse the access to steal the desired information. In one incident, Huawei obtained a confidential presentation about a memory hardware product by promising the victim company it would keep the information secret. But according to federal officials, Huawei quickly distributed the presentation to its own engineers.
+
+By stealing the trade secrets, Huawei was able to “innovate more quickly,” and spend the proceeds from the resulting products to expands its presence in the US and abroad. “Huawei was able to drastically cut its research and development costs and associated delays, giving the company a significant and unfair competitive advantage,” the Justice Department added in today’s announcement.
+
+Huawei did not immediately respond to a request for comment. But according to the indictment, the company has tried to blame to trade secret theft on “rogue low-level employees.” However, it appears federal officials have uncovered a trove of evidence, including internal emails from the Chinese company’s own employees, to help them prove otherwise.
+
+Under the RICO act, if Huawei is found guilty, the company would have to forfeit all ill-gotten gains obtained from the conspiracy. In addition, Huawei's chief financial officer, Meng Wanzhou, who was named in the indictment and is currently being held in Canada, could face 20 years in prison, if convicted.
+
+The indictment arrives as the FBI say it's currently conducting “about 1,000 investigations” into Chinese technology theft. Earlier this week, the US also indicted four Chinese military officers for the the 2017 hack on credit reporting agency Equifax.
+
+Further Reading
+
+Security Reviews
+
+Security Best Picks

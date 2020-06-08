@@ -1,0 +1,47 @@
+Image: TBEA.
+
+India can be considered a highly significant location for TBEA Sunoasis.
+
+In November 2019, the company’s first overseas GW-level renewable energy equipment manufacturing base was launched in Bangalore. The base has two brand new, full-range production lines - a 1500V string and a centralized inverter line.
+
+Two months later, on January 7 2020, TBEA Xi'an Electric Technology, a wholly-owned subsidiary of Sunoasis, formally signed a 1.4GW PV inverter cooperation agreement with ACME, a leading Indian PV company, in New Delhi.
+
+Under this agreement, TBEA will provide ACME with 1.4GW of PV inverters and product solutions.
+
+Being the first order signed by TBEA in 2020, it is of real significance to the company, with its installed inverter capacity in India now exceeding 3GW. TBEA inverters are currently running in the Badara Desert of Rajasthan, the hills of Uttarak and the wetlands of Odessa, with the company’s products to be found in many local PV projects.
+
+A spokesperson for TBEA commented, "India is a large market. We’ve set up a plant there to ensure fast delivery to the Indian market and neighboring countries. In addition, we’ve also established branches in Asia Pacific, Europe, the Middle East and Africa to serve the local markets there.”
+
+TBEA is one of the earliest enterprises to engage in the inverter sector in China and has nearly 20 years’ experience in inverter R&D and manufacturing. TBEA’s inverters have been adapted for different circumstances and environments, such as large-scale ground mount plants, water surfaces, complex mountain areas and rooftops.
+
+TBEA has established a comprehensive global sales network, with branches in 20 countries on four continents. At the end of 2019, the company’s global cumulative installed capacity of PV inverters exceeded 30GW.
+
+In addition to its main inverter business, the company’s SVG products have also attracted significant attention in recent years. With shipments topping 6Gvar, the SVG products are exported to Australia, North Africa, Central Asia and South America.
+
+"We have been promoting advanced technologies in the Chinese market, which, in turn, have strongly supported our entry into the international market. Talking about SVG, we have mastered the most sophisticated reactive and voltage control technology, which can help plant owners resolve quality issues for their PV projects.”
+
+PV-storage microgrid demonstration project
+
+In the TBEA Sunoasis Xi'an Industrial Park, PV Tech was shown around the company’s power-grid-load-storage microgrid demonstration project. The project is equipped with a 2.14MWp rooftop PV system, a 1MW/1MWh lithium iron phosphate battery storage system and a 2.96MW AC/DC charging station system.
+
+The power-grid-load-storage microgrid demonstration project under China’s ”863” national program. Image: PV Tech.
+
+Products manufactured by TBEA are used in many elements of the project, including multi-port power routers used in key equipment for the AC-DC hybrid microgrid, PV inverters and a full range of SVG products that are capable of effectively improving microgrid quality.
+
+The demonstration project uses, an energy management system independently developed by TBEA, dubbed TEMS. In addition to power and load prediction, the TEMS system, which can run across platforms, is able to optimize scheduling, coordinate power-load-storage, respond to demand and carry out data analysis.
+
+The TEMS system uses smart optimization algorithms to manage power-load-storage at different moments, assist control protection for product optimization, enable stable and reliable operation and improve economic performance of the microgrid. The system can be regarded as the smart brain of the project.
+
+The TBEA spokesperson went on to say that, supported by double power pricing systems, the demonstration project has, for the first time, introduced demand response technology and economic optimization algorithms into the industrial park’s microgrid. Both the base tariff and LCOE can be reduced as a result.
+
+Power costs in the park have dropped by more than 30%, and the PV power generated is 100% consumed by the project. The dual-terminal O&M system used by the demonstration project is a data-driven system built on both the plant and the cloud side. The data management achieved through cloud computing can support bidirectional energy and information flow in the microgrid. The screens in the control centre display real-time operation status, service data, power curve and economic indicators of various pieces of equipment.
+
+“Outside the central control room, what we need to do is, from the webpage, log in to the smart O&M cloud platform to stay updated with the real time operational status of the microgrid in the park. This platform can support historical data inquiry and respond to equipment failure alarms in a quick and convenient fashion. “
+
+In the meantime, a one-stop O&M service is being promoted, and the smart cloud platform can be used for ecological chain management and comprehensive O&M of the microgrid.
+
+‘Lean operation and maintenance’ has been a guiding philosophy of TBEA for power plants from the early days. A smart energy management platform named TB-eCloud was developed to this end. This platform can efficiently collect and transmit the massive quantities of data generated by power plants in real time. The accurate calculation, intelligent processing and multi-dimensional displays can enable precise, integrated O&M management of a PV plant throughout its lifespan.
+
+At present, there are over 5GW of PV and wind projects running on the TB-eCloud smart energy management platform.
+
+The microgrid demonstration project offers a panoramic view of TBEA’s key equipment applications in the inverter sector and other areas. This project is an example of the company’s ambitions in renewable energy power plants, VSC-HVDC and smart microgrids. Positioning itself as a global energy system solution provider, TBEA is expecting a promising future.

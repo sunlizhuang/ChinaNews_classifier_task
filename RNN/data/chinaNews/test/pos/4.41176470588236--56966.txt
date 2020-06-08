@@ -1,0 +1,9 @@
+Huawei, Xiaomi, Oppo and Vivo joined forces to simplify access to their respective app stores for non-domestic developers, Reuters reported, a move which could reduce their reliance on Google Play and even mount a viable challenge to the search giant’s dominance.
+
+The companies reportedly aim to enable overseas developers to upload content to all of their app stores in one go, broadening the reach. Named the Global Developer Service Alliance, the news agency reported the companies aim to launch in nine markets next month.
+
+Nicole Peng, VP of Mobility at Canalys, told Reuters the coalition would allow companies to take advantage of their respective market positions in different regions, while also helping to woo developers to their app stores: Mi Store from Xiaomi; AppGallery by Huawei; Oppo App Market; and Vivo App Store.
+
+For Huawei, the move could advance its bid to create an app ecosystem around its HarmonyOS, which it is punting after being banned from accessing Google’s Android platform.
+
+In January the company took advanced its efforts to attract developers by announcing a £20 million investment targeting companies based in the UK and Republic of Ireland.

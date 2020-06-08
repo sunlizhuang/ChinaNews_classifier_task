@@ -1,0 +1,41 @@
+GUANGZHOU -- Self-driving vehicles will soon be as ordinary as taking a self-operating elevator, according to Tony Han, CEO of Chinese robotaxi startup WeRide.ai.
+
+"In the 19th century, elevators still needed human operators, but now they are unstaffed," Han said. "The autonomous operation of vehicles will become a commonplace service."
+
+Han sees the new year as the turning point for self-driving technology.
+
+"2020 will be the year in which we will further perceive autonomous driving intimately in our daily lives," Han said in an interview with Nikkei. "Just like we call taxis with apps, self-driving vehicles this year will be easily hailed with a smartphone."
+
+The robotaxis will operate under what experts call Level 4 capability -- one rank below full automation -- in which the vehicle drives itself but human intervention remains possible.
+
+In 2018, WeRide initiated a pilot program in part of Guangzhou, where the startup is based. The service area grew 70 times larger two months ago, and WeRide is collaborating with a local cab operator and other partners.
+
+WeRide CEO Tony Han says he will double his experimental fleet of robotaxis this year to 200. (Photo by Yusuke Hinata)
+
+Chinese law requires that someone must sit in the driver's seat of an autonomous auto. But when this reporter took one of WeRide's taxis on a test run, the "designated driver" did not grab the steering wheel once. The taxi departed, stopped and changed lanes all on its own.
+
+After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent.
+
+"Right now, we operate about 100 robotaxis, and so far we've test-driven 20,000 customers and exceeded 1 million km in traveling distance," Han said. "This year we'll double our fleet to 200 vehicles." Han looks to roll out such a service on a wide scale as early as 2022
+
+But even in China, considered one of the leading hubs for developing self-driving vehicles, companies that have rolled out such services remain few and far between. And those outfits are competing furiously with counterparts in the U.S.
+
+"Google and others have amassed deep self-driving tech stockpiles," Han said, though he was quick to note that Chinese rivals are gaining rapidly on Silicon Valley.
+
+"The radar jointly developed by us can ascertain conditions 200 meters to 250 meters ahead, which is useful for autonomous vehicle operation," he said. "The 'eyesight' is 2.5 times the capability of conventional vehicles."
+
+WeRide also is developing fifth-generation communications technology, an indispensable piece of the self-driving era. The startup paired with mobile carrier China Unicom on this 5G endeavor.
+
+If a robotaxi encounters an emergency, "we'll be able to control the vehicle remotely and drive it," Han said. The plan is to improve precision for the fleet.
+
+WeRide wants to travel beyond the Chinese market. "I hope to launch self-driving services in Japan, Singapore, the Middle East and elsewhere," the CEO said.
+
+The company is globalizing its efforts to raise capital and procure components. WeRide received a $30 million investment in 2018 from the auto alliance formed by Renault, Nissan Motor and Mitsubishi Motors.
+
+The robotaxi fleet adopts Nissan vehicles, while U.S. chipmaker Nvidia increasingly supplies semiconductors. But Han is hunting for more partners.
+
+"In 2020, we will build cooperative relationships with more businesses," he said. "I especially hope to team up on the technological front with Japanese automakers."
+
+Han hails artificial intelligence as the technological field worthy of attention this year. He predicts AI will continue to expand its market, just like autonomous driving.
+
+"Labor costs are rising in China, so companies that utilize AI to improve efficiencies have bright prospects," he said.

@@ -1,0 +1,211 @@
+This blog post is from a volume by the Aspen Strategy Group on The Struggle For Power: U.S. China Relations in the 21st Century. The chapters in this book deal with issues ranging from the military and technological rise of China and how to compete effectively, to how to engage U.S. allies amidst this new great-power rivalry, keeping in mind two central questions about the U.S.-China relationship: Is our analysis correct about the challenges China poses to our future? And, do we have the right balance between cooperation and competition with Beijing? In the chapter below, authors Anja Manuel, Pavneet Singh, and Thompson Paine explore the tools that are available for the U.S. to win the technology race with China. Read the full collection of papers on the China challenge here: www.asgbooks.org
+
+Summary
+
+China systematically extracts advanced technology from the West. It does so legally, by mining open-source databases, investing in our most advanced companies, and compelling technology transfer as a condition for doing business in China, as well as illicitly through cybertheft and industrial espionage.
+
+How we choose to react will define the United States as the leader or laggard in the development of critical technologies. Previous U.S. presidents of both parties were unable to shape China’s behavior. So far, the Trump administration has focused on trade negotiations and on “defensive” measures: tightening foreign investment restrictions and export controls and slowing cross-border collaboration.1 But these defensive measures alone will not be enough; the U.S. must have an affirmative strategy that includes deepening our engagement with allies, competing with China where we must, and, in some cases, finding ways to collaborate.
+
+This paper is designed to give Congress and current and future administrations a firm grasp of the tools that are available to win the technology race with China. It proposes a three-pronged approach to addressing China’s rise—contest, compete, and collaborate—with concrete policy actions.
+
+We support continued engagement with China; that engagement cannot succeed if China pays no costs for bad behavior. We outline a narrowly tailored set of defensive measures below. Offensively, we must augment the U.S. innovation system so that we can compete with China or other challengers. We propose doing so by increasing investment in talent and R&D and engaging in diplomacy to proactively set the international norms and standards that govern technology development. Finally, where possible, we should collaborate with China on technologies that do not implicate U.S. national security and where technical advancements would help humanity as a whole.
+
+The Challenge
+
+There is nothing wrong with China’s desire to grow, and, in fact, the U.S. and its allies should welcome the contributions China can make to future technological innovations. But China often does not play fair: Chinese mercantilism undermines the norms and basic trust that support the global economic order.
+
+If the United States does not act, we risk ceding technological leadership and influence to set the norms, values, and standards for technology, with four potentially disastrous consequences. First, and most clearly, is the role foundational technologies play in spurring economic growth. A second and closely related issue is that the Chinese military will have direct, seamless access to the frontier technologies through China’s military-civil fusion. Such a direct transfer will provide the People’s Liberation Army (PLA) with a military edge in future conflicts and destabilize the Asia-Pacific region. Third, the spread of China’s Orwellian AI-enabled social control and surveillance systems to other countries will strengthen copycat authoritarian regimes. Finally, if the U.S. does not lead in setting global technological standards, and as cyber-attacks become more common, the world risks a minor digital conflict becoming a major kinetic one.
+
+To recommend effective solutions, we must first understand China’s goals and how China is pursuing leadership in cutting-edge technologies that will underpin the world’s economy.
+
+How China Acquires Technology: Through Licit and Illicit Means
+
+China engages in aggressive behaviors to acquire advanced technologies, including:2
+
+compelling some Chinese students and researchers at S. universities to spy on the state’s behalf; 3
+
+engaging in protectionism that blocks American internet firms from the Chinese market, thus insulating Chinese “national champions” like Tencent and Baidu from competition; and
+
+sponsoring economic espionage of private- and public-sector intellectual property (IP), which the IP Commission estimates costs S. companies $180 billion to $540 billion a year.4
+
+Simultaneously, China employs legal means that additionally pose challenges to America’s technological leadership, including:
+
+state subsidies to develop competitors in strategic technology sectors; 5
+
+forcing Western companies to transfer their technology as a condition of doing business in the Chinese market;
+
+investments in and acquisitions of S. companies with strategic technologies;
+
+real innovation by Chinese companies that have scale, capital, and excellent researchers, such as Tencent, Huawei, or DJI, a Chinese drone company;
+
+mining Western open-source databases, especially in AI; 6
+
+research partnerships with companies like Baidu in Silicon Valley and Microsoft in China and, until recently, with universities like Berkeley and MIT; 7 and
+
+and recruiting S. talent and enticing many Chinese students and researchers in the United States to come back to China.8,9
+
+Critical Technologies China Is Focused On
+
+While “Made in China 2025” identifies ten priority sectors, we believe that if China dominates the following three critical technology sectors, it could have an enormous negative impact on our military and economic security.
+
+Artificial intelligence: AI is a “general purpose technology,” akin to the steam engine or electricity, with the potential to revolutionize a wide range of sectors. China has a whole-of-government approach to achieve dominance in AI, investing in key areas of talent, data, and hardware and ensuring its top AI firms do not compete with each other while also sharing their innovations with the government. It further provides regulatory support, including loose privacy and data protection regulations.10
+
+Semiconductors: Semiconductors are the most crucial building block of the information economy, and the U.S. currently leads in global semiconductor production. China consumes one half of the world’s semiconductors but currently produces only about 3 percent.11 Its goal is to produce 70 percent of domestic demand in China by 2025.12 China has massive public-private funding vehicles, espionage efforts directed at leading American companies like Micron, and strategic partnerships with leaders like Intel.13
+
+5G: 5G will be the backbone of the new economy, providing the antennas and routing infrastructure on which everything from cellphones to the entire “internet of things” will rely, including electricity grids, smart cities, and autonomous vehicles. Our economy will grow highly dependent on 5G and thus will be more vulnerable to sabotage.14 China has an advantage and is several years ahead in deploying 5G because its national champion, Huawei, is both genuinely innovative and has benefited tremendously from state subsidies and industrial espionage against Western companies.15 Huawei is building 5G networks in many countries at an equivalent quality to Ericsson and Nokia but for 35 percent less,16 and is gaining valuable know-how along the way.
+
+Other technologies: In addition to AI, semiconductors, and 5G, China’s “Internet Plus” and “Made in China 2025” call for the government to invest in and push innovation in sectors including robotics, aerospace, autonomous vehicles, cleantech, quantum computing, and biomedicine. In some of these sectors, the U.S. and China could usefully cooperate, while in others the potential for dual-use military applications is too great.
+
+The Proposal
+
+This paper outlines a three-pronged approach of contesting (“defense”), competing with (“offense”), and collaborating with China to ensure the U.S. maintains its leadership position in global technology. The proposal aims to reduce the severity of China’s illicit behaviors, compel China’s adherence to norms and rules in the development and trade of technology, and ensure America’s continued leadership in next generation technologies.
+
+“Defensive” Measures: Contesting Chinese Efforts
+
+“Defensive” measures are a crucial way to protect the United States from cyber-espionage and other “leakage” of key technology secrets. Thus far, Congress and the Trump administration reformed the Committee on Foreign Investment in the United States (CFIUS) in 2018, proposed the tightening of export controls, scrutinized and slowed cross-border collaboration, and publicly aired the possibility of restricting Chinese student visas. However, the administration has not articulated a clear strategic vision for which technologies it wants to protect and why. This paper proposes a clear, purposeful application of these tools to reduce China’s transgressions.
+
+Prevent IP leaks via foreign transactions (investment, M&A, joint ventures, and partnerships): In 2018, Congress substantially reformed the law that governs foreign investment to make it more difficult for foreign companies to invest in cutting-edge technology in the United States. This was a commendable start, but it needs to be refined and strengthened over time. Currently, CFIUS, through FIRRMA (Foreign Investment Risk Review Modernization Act) provides only a vague list of “critical technologies” and requires reviews of investment into the United States by all countries, even NATO allies that do not present security concerns. Draft regulations published in October 2019 began to fix some of these problems. We believe that the current administration should additionally create a scientific and private sector advisory panel that defines—on an ongoing basis—which “critical technologies” we need to protect. This panel can help strike the right balance between ensuring security while not stifling innovation.
+
+Exact costs for transgressions: Chinese firms should incur consequences when they break the rules. In addition to pursuing World Trade Organization (WTO) actions against China, the United States should narrowly exercise available executive investigative and sanctioning powers as appropriate under the International Emergency Economic Powers Act (IEEPA), the “Entity List” of the Commerce Department’s Bureau of Industry and Security (BIS), and Section 337 (1930 Tariff Act) actions to punish specific Chinese firms or industry sectors for forced technology transfer, economic espionage, and market protectionism.17
+
+The Trump administration has used the Entity List to punish firms like ZTE and Huawei. The Entity List is a powerful tool that can generate unintended consequences, however, and we believe it should be used in a narrowly tailored and measured way. For example, when Huawei was listed in May 2019, it lost access not just to the U.S. 5G market, which is a legitimate concern, but also to Intel’s chips and Google’s Android operating system, which arguably does not implicate national security and harms U.S. companies in the process.
+
+Don’t go it alone: Defensive actions will carry even more weight if we do them jointly with like-minded nations. This will encourage the norms of behavior the United States and its allies expect in a global technology economy moving forward. (Please see our proposal for the “Tech 10” below.)
+
+Sanction support for China’s techno-authoritarianism: The United States should take a clear stand against China’s increasingly brazen use of technology to create an advanced surveillance state that abuses human rights.18 The Uyghurs, a Turkic Muslim group of Chinese citizens, have suffered the most under this system, and China has shown a willingness to export its methods to other authoritarian states.19 The United States could, at the very least, use the Global Magnitsky Act to sanction implicated Chinese officials and add to the Entity List firms that materially support these abuses, as it did in October 2019. The Senate’s Uyghur Human Rights Policy Act of 2019 (S. 178) is a good start.20
+
+“Offensive” Measures: Competing with China
+
+While we must take basic precautions to protect our technology, pulling up the drawbridge and digging a moat around U.S. technology is impossible and will not alone help us win this high-stakes race. Instead, we must once again set global norms and values for technology and reinforce our own ability to innovate.
+
+Global Diplomacy: Shape the Global Norms for Technology
+
+After World War II, the U.S. led the creation of the international order as we know it today—including multilateral institutions like the WTO, International Monetary Fund, and the International Atomic Energy Agency—to establish norms for peaceful economic relations and technology standards. It was an enormous effort, and it paid off. It is time for a comparable effort to form a robust international innovation ecosystem among countries that share the same values in tech development: a proposal we call the “Tech 10.”
+
+The Tech 10 would join the United States with other technology powers with shared values to coordinate national postures on technology development, use, and access. The inaugural members would include the United States, the United Kingdom, Australia, Canada, France, Germany, India, Israel, Japan, and South Korea. Others could apply to join as long as they agree to adhere to the same high standards. Regular coordination and working group meetings would occur through respective ministries of defense, intelligence, and trade with the input of academic and private institutions.
+
+From the defensive perspective, these countries should share information and coordinate on narrowly tailored export controls, investment restrictions, and cybersecurity. The Tech 10 would share best practices and intelligence and shape shared perspectives and norms related to deterrence policy tools (e.g., CFIUS, export controls), supply chain security, and investment in and licensing of critical infrastructure and dual-use technologies, among other relevant topics.
+
+The Tech 10 could further coordinate research and pool resources and talent to tackle key opportunities in advanced AI, semiconductor research, and quantum computing. Members could also form working groups with other stakeholders—in particular the private sector and academia—to begin to define norms to govern safe uses of AI and other advanced technology.
+
+U.S. Government Actions
+
+Federal R&D: Many of the fundamental breakthroughs underlying the U.S. economy today benefited from federally sponsored research through the military, national labs, or corporate labs. These breakthroughs include the transistor, microprocessor, sequencing the human genome, the internet, GPS, and many others.21 Federally funded research increased rapidly in the 1950s and early 1960s, reaching a peak of almost 2 percent of GDP in 1964.22 Today, that figure has declined to 0.7 percent.23 To foster the breakthroughs needed for tomorrow’s economy, the United States must commit to a generational national investment in science and technology.
+
+Over time, we believe the U.S. should aspire to grow federal R&D to 1 percent of GDP or more, an increase to approximately $200 billion.24 This approach could include:
+
+increasing funding at Advanced Research Projects Agency–Energy (ARPA-E), Defense Advanced Research Projects Agency (DARPA), National Laboratories, universities, and federally funded research and development centers through competitive grant frameworks;
+
+coordinating this increase in funding with strategic national priorities for innovation;
+
+funding research in areas where the venture capital market is not investing so that more capital-intensive and riskier ideas can be pursued;
+
+reorienting the Small Business Innovation Research program so that federal agencies provide more money for seed and pre-seed ideas with a streamlined application process;
+
+forming a S. government investment fund that matches funds invested by private capital going into sectors of national interest that are under-funded, such as semiconductors and 5G; and
+
+identifying a handful of “moonshots” for public-private cooperation and providing economic incentives for academic institutions, labs, and private firms to partner and strive toward ambitious goals.
+
+Talent and Workforce Development
+
+Science and technology talent are the foundations of America’s success, and we are falling behind. The United States must make a generational investment in the nation’s technological talent base by improving the science, technology, engineering, and math (STEM) education system; recruiting more tech-savvy talent into the federal government; and reforming our immigration policy.
+
+STEM education: In the recent Organization for Economic Co-operation and Development’s (OECD) Programme for International Student Assessment worldwide ranking of student math, science, and reading scores in 2015-2016, China ranked tenth, while the U.S. was thirty-first.25 The United States must reverse this trend by building the pipeline of STEM talent starting in K-12. The federal government should provide funding for school districts that establish computer science (CS) as a core, non-elective curriculum offering and provide loan forgiveness for CS graduates who teach K-12 CS courses.
+
+Technical chops in government service: We need more competence among U.S. policy makers on issues of technology. Congressional questioning of Mark Zuckerberg at hearings in April 2018 showed that some members of Congress are woefully unprepared to govern on issues of advanced technology. The federal government should support technologists who want to do less lucrative but invaluable service in the government through fellowship programs, expanding loan forgiveness, supporting tech companies’ efforts to place employees in short secondments in government, or even ROTC-like programs to recruit students with STEM training into public service.26
+
+Finally, we should reestablish the Office of Technology Assessment (OTA). As a neutral research agency within the U.S. Congress staffed by scientists and technologists, OTA used to provide nonpartisan advice to members of Congress on science and technology issues. It was unwisely defunded during the “Gingrich Revolution” in 1994.
+
+Attract and retain the best global talent: The United States must embrace perhaps our deepest advantage over China—that the best and brightest international STEM talents aspire to study at American universities and work for U.S. companies. As of 2017, the United States had twenty-six of the top fifty universities in the world (compared to China’s two) and eight of the ten top technology companies.27 Expanding the U.S. educational advantage could include increasing the annual allocation of H1-B visas and extending post-graduate work visas to foreign graduates.
+
+The United States should not block Chinese students from studying or working in the U.S. technology sector. Not only is China a leading contributor of top AI talent to American companies, but data suggests most want to stay in the United States.28,29 To protect against espionage, the United States should set narrowly tailored federal guidelines on research topics that students from “countries of concern” may not participate in, strictly punish students or employees caught spying, and proactively educate Chinese students and employees on China’s blackmail efforts targeting overseas Chinese.
+
+Public-private sector collaboration: In addition to the federal R&D investments listed above, this paper proposes enhancing channels of information sharing regarding resources and opportunities for funding and collaboration, including 1) building a web-based, data-driven IP map outlining strategic sectors for prioritized investment and collaboration; 2) developing sophisticated roadshows to demonstrate federally funded technology to investors; and 3) establishing competent interagency outposts in innovation centers in Silicon Valley, Boston, Austin, New York, etc.
+
+Collaborate: Opportunities to Work with China
+
+Although China is a serious strategic competitor, the United States should continue to seek trade and economic cooperation with China as long as the playing field is fair. If we identify and capitalize on opportunities to build trust, we can increase the odds of better behavior from China in the long term.
+
+Private capital: Turning away all Chinese capital would be short-sighted and harmful to U.S. competitiveness. China invested $49 billion in the United States in 2016, though that figure was down approximately 90 percent by 2018.30 As long as private Chinese capital meets the standards and accepts the restrictions set by CFIUS, U.S. companies should welcome the financial support for our economy.
+
+Problems of the global commons: A range of technologies can help mitigate international threats such as climate change, nuclear non-proliferation, and intellectual property theft. The United States should continue to engage China in addressing such problems, including by sharing non-critical technologies to facilitate those efforts.
+
+Non-critical technologies: There are areas of Chinese technological investment where the United States should leverage China’s success. For example, China’s investment in solar panels has reduced the cost of solar deployment in the United States, accelerating our shift to a clean energy economy.31
+
+Conclusion
+
+China’s technological rise is a real challenge to the United States and the international system. To respond effectively, the U.S., with its allies, must clarify what lines cannot be crossed—such as industrial espionage and forced technology transfer—amid China’s otherwise legitimate efforts, and promptly enforce those rules by exacting costs for transgressions.
+
+However, defense alone will not be sufficient. We must reinvest in America’s own ability to compete and lead in innovation—including talent development and federal R&D—and strengthen our global alliances in order to lead the norms, rules, and institutions that will govern technological innovation for the coming century.
+
+China views technological supremacy as a core driver of the economic and military dominance in the world they aspire to—so too should the United States. Such focus will help us out-compete China in this strategic contest and secure American leadership for the twenty-first century.
+
+*A longer version of this proposal was first developed for the Technology and Public Policy Project at Stanford Disclaimer: The views and opinions expressed in this paper are solely those of the authors and do not necessarily reflect those of Stanford University; the Geopolitics, Technology and Governance Program; or the Technology and Public Policy Project.
+
+Anja Manuel is Co-Founder and Principal along with former Secretary of State Condoleezza Rice, former National Security Advisor Stephen Hadley and former Secretary of Defense Robert Gates, in RiceHadleyGatesManuel LLC, a strategic consulting firm that helps U.S. companies navigate international markets. She is the author of the critically acclaimed This Brave New World: India, China and the United States, published by Simon and Schuster in 2016. From 2005-2007, she served as an official at the U.S. Department of State, responsible for South Asia Policy. She currently serves on two corporate boards: Overseas Shipping Group, Inc., a NYSE listed energy transportation company, and Ripple Labs Inc., a leading blockchain payments company. Ms. Manuel also serves on advisory boards of Flexport Inc., Synapse Inc., Center for a New American Security, and the boards of the American Ditchley Foundation, National Committee on US-China Relations, and Governor Brown’s California Export Council. She serves as a Senior Fellow for the Harvard Initiative on Technology and Public Purpose with former Secretary of Defense Ash Carter and is a Director of the Aspen Strategy Group and a member of the Council on Foreign Relations. A graduate of Harvard Law School and Stanford University, Ms. Manuel now also lectures at Stanford.
+
+Pavneet Singh is an independent consultant on technology and national security affairs. He is based in Silicon Valley and works with technology developers, investors, and government officials to focus on the development and prudential use of dual-use technologies such as AI/ML, communications, and biotechnology. Mr. Singh previously served in several roles on the National Security Council and National Economic Council at the White House, where he managed the U.S.-China and U.S.-India economic relationships and broader U.S. participation in multilateral fora. Prior to the White House, he worked as an analyst on the World Bank’s Commission on Growth and Development. The commission’s charge was to explore the economic, social, and political factors necessary for sustainable and inclusive economic growth. Mr. Singh earned his master’s with distinction in international relations at Georgetown University, where he was an Institute for the Study of Diplomacy fellow and a Yahoo! fellow. He earned his undergraduate degrees in business administration and political economy from the University of California, Berkeley.
+
+Thompson Paine is an operations leader at Stripe, a San Francisco-based technology company that builds economic infrastructure for the internet. He heads operations for Stripe Atlas, providing tools for entrepreneurs in over 140 countries to launch technology start-ups. Before Stripe, Mr. Paine led global business operations, including new market expansion and policy, privacy, and compliance programs, at Quizlet, one of the largest digital learning platforms in the U.S., serving 50 million students and teachers a month. Mr. Paine has been involved in China-related work and research for the better part of two decades. Fluent in Mandarin Chinese, he previously served with the U.S. State Department in Beijing, and he worked with the U.S. Trade Representative’s Office, Apple, and Morrison Foerster on legal and business matters in China. Mr. Paine has lectured at Stanford University and Stanford Graduate School of Business on Chinese politics and social impact entrepreneurship. He earned his J.D. and M.B.A. from Stanford University, where he also worked with the Freeman Spogli Institute for International Studies, and he studied law at Peking University Law School in Beijing as a Foreign Language Area Studies Fellow. Mr. Paine has a B.A. in political science and Asian studies from the University of North Carolina at Chapel Hill, where he was a Morehead-Cain Scholar.
+
+1 Alexandra Yoon-Hendricks, “Visa Restrictions for Chinese Students Alarm Academia,” The New York Times, July 25, 2018, https://www.nytimes.com/2018/07/25/us/politics/visa-restrictions-chinese-students.html; see also reports of banning Chinese student visas: Susan Adams, “Stephen Miller Tried to End Visas for Chinese Students,” Forbes, October 3, 2018, https://www.forbes.com/sites/susanadams/2018/10/03/stephen-miller- tried-to-end-visas-for-chinese-students/.
+
+2 Michael Brown and Pavneet Singh, “China’s Technology Transfer Strategy,” Defense Innovation Unit, January 2018, https://admin.govexec.com/ media/diux_chinatechnologytransferstudy_jan_2018_(1).pdf.
+
+3 Elizabeth Redden, “Stealing Innovation,” Inside Higher Ed, April 29, 2019, https://www.insidehighered.com/news/2018/02/15/fbi-director- testifies-chinese-students-and-intelligence-threats.
+
+4 Commission on the Theft of American Intellectual Property, “Update to the IP Commission Report,” National Bureau of Asian Research, 2017, http://www.ipcommission.org/report/IP_Commission_Report_Update_2017.pdf; Center for Responsible Enterprise and Trade (CREATe.org) and PricewaterhouseCoopers, “Economic Impact of Trade Secret Theft: A Framework for Companies to Safeguard Trade Secrets and Mitigate Potential Threats,” February 2014, https://create.org/wp-content/uploads/2014/07/CREATe.org-PwC-Trade-Secret-Theft-FINAL-Feb-2014_01. pdf; note some critique of the IP Commission’s estimate and discussion of the difficulty of accurately quantifying the massive impact of IP theft: Mark Cohen, “The 600 Billion Dollar Chinese IP Echo Chamber,” China IPR (blog), May 12, 2019, https://chinaipr.com/2019/05/12/the-600- billion-dollar-china-ip-echo-chamber/.
+
+5 U.S. Chamber of Commerce, “Made in China 2025: Global Ambitions Built on Local Protections,” 2017, https://www.uschamber.com/sites/default/ files/final_made_in_china_2025_report_full.pdf; Congressional Research Service, “The Made in China 2025 Initiative: Economic Implications for the United States,” August 29, 2018, https://fas.org/sgp/crs/row/IF10964.pdf.
+
+6 Michael Brown and Pavneet Singh, “China’s Technology Transfer Strategy,” Defense Innovation Unit, January 2018, p. 19, https://admin.govexec. com/media/diux_chinatechnologytransferstudy_jan_2018_(1).pdf.
+
+7 Michael Brown and Pavneet Singh, “China’s Technology Transfer Strategy,” Defense Innovation Unit, January 2018, p. 19, https://admin.govexec. com/media/diux_chinatechnologytransferstudy_jan_2018_(1).pdf.
+
+8 Michael Brown and Pavneet Singh, “China’s Technology Transfer Strategy,” Defense Innovation Unit, January 2018, p. 18, https://admin.govexec. com/media/diux_chinatechnologytransferstudy_jan_2018_(1).pdf.
+
+9 Michael Brown and Pavneet Singh, “China’s Technology Transfer Strategy,” Defense Innovation Unit, January 2018, pp. 19-20, https://admin. govexec.com/media/diux_chinatechnologytransferstudy_jan_2018_(1).pdf.
+
+10 See, e.g., Jeffrey Ding, “Deciphering China’s AI Dream.” Future of Humanity Institute, University of Oxford, March 2018, https://www.fhi.ox.ac. uk/wp-content/uploads/Deciphering_Chinas_AI-Dream-1.pdf.
+
+11 “U.S. Companies Dominate Worldwide IC Marketshare.”IC Insights, June 18, 2019; Note that 3% market share represents that of Chinese companies. The number grows to 16% if you include chips produced in China by non-Chinese companies, available at http://www.icinsights.com/news/ bulletins/US-Companies-Dominate-Worldwide-IC-Marketshare/.
+
+12 James A. Lewis, “Learning the Superior Techniques of the Barbarians: China’s Pursuit of Semiconductor Independence,” CSIS, January 2019, p. 14, https://csis-prod.s3.amazonaws.com/s3fs-public/publication/190115_Lewis_Semiconductor_v6.pdf.
+
+13 David McLaughlin and Chris Strohm, “China State-Owned Firm Charged with Micron Secrets Theft,” Bloomberg, November 1, 2018, https://www. bloomberg.com/news/articles/2018-11-01/u-s-says-china-state-owned-co-stole-micron-trade-secrets.
+
+14 “Eurasia Group White Paper: The Geopolitics of 5G,” Eurasia Group, November 15, 2018, p. 7, https://www.eurasiagroup.net/siteFiles/Media/ files/1811-14%205G%20special%20report%20public(1).pdf.
+
+15 See, e.g., “Chinese Telecommunications Device Manufacturer and its U.S. Affiliate Indicted for Theft of Trade Secrets, Wire Fraud, and Obstruction of Justice.” Department of Justice, January 28, 2019, https://www.justice.gov/opa/pr/chinese-telecommunications-device-manufacturer-and-its-us-affiliate-indicted-theft-trade.
+
+16 Eurasia Group White Paper: The Geopolitics of 5G,” Eurasia Group, November 15, 2018, p 4, 9, https://www.eurasiagroup.net/siteFiles/Media/files/1811-14%205G%20special%20report%20public(1).pdf.
+
+17 Lee G. Branstetter, “China’s Forced Technology Transfer Problem – And What to Do About It,” pp. 7-8. Peterson Institute for International Economics, June 2018, https://www.piie.com/system/files/documents/pb18-13.pdf.
+
+18 Chris Buckley and Paul Mozur, “How China Uses High-Tech Surveillance to Subdue Minorities,” New York Times, May 22, 2019, https://www. nytimes.com/2019/05/22/world/asia/china-surveillance-xinjiang.html.
+
+19 Melissa Chan, Jonah M. Kessel, and Paul Mozur, “Made in China, Exported to the World: The Surveillance State,” The New York Times, April 24, 2019, https://www.nytimes.com/2019/04/24/technology/ecuador-surveillance-cameras-police-government.html.
+
+20 Uyghur Human Rights Policy Act of 2019 (S. 178), https://www.congress.gov/bill/116th-congress/senate-bill/178/text. In October 2019, the administration did add some firms to the Entity List that are accused of facilitating surveillance of the Uighur minority.
+
+21 Examples of technology initially funded by the federal government include: Google search engine (NSF); GPS (DARPA, Navy, DoD); supercomputing (USAF, Los Alamos, Lawrence Livermore, DoD); AI and speech recognition—SIRI, Dragon Systems (Air Force/RAND, DARPA, MIT, CMU, Stanford); internet (ARPANET, DARPA, NSF, UCLA); closed captioning (NIST); smartphones—semiconductors, touch screens (NASA, USAF, DARPA-SEMATECH, NSF, SBIC); shale gas hydraulic fracturing (DOE, National Labs); 3D and 4D seismic imaging (DOE, MIT); LED technology (DOE, Air Force); MRI machines (NIH, NSF); prosthetics (DARPA, VA); Human Genome Project (NIH, DOE); HIV/AIDS (NIH, FDA); reverse auctions (NSF); kidney-matching algorithm (NSF, RAND, Office of Naval Research); fast multipole method (DARPA, NYU); SCALE-UP education method (NSF); civil aviation, aeronautical design, jet engines (Army, Navy, NASA); hybrid corn (NSF, DOE, USDA); lactose-free milk (USDA).
+
+22 “Federal Support for Research and Development,” Congressional Budget Office, June 2007, https://www.cbo.gov/sites/default/files/cbofiles/ ftpdocs/82xx/doc8221/06-18-research.pdf.
+
+23 American Association for the Advancement in Science, Historical Trends in Federal R&D, https://www.aaas.org/programs/r-d-budget-and-policy/ historical-trends-federal-rd.
+
+24 We understand that this is an enormous increase. The U.S. government could offset some of the cost by investing less in outdated and enormously expensive legacy weapons systems and finding other efficiencies. Chris Brose, Richard Danzig, and others have written compelling arguments in favor of an R&D-forward approach.
+
+25 FactsMaps, “PISA Worldwide Ranking – average score of math, science and reading,” http://factsmaps.com/pisa-worldwide-ranking-average-score- of-math-science-reading/. See also, Andy Chun, “China’s AI dream is well on its way to becoming a reality,” South China Morning Post, April 22, 2018, https://www.scmp.com/comment/insight-opinion/article/2142641/chinas-ai-dream-well-its-way-becoming-reality. China’s Ministry of Education has a new five-year AI talent training program to train 500 more AI instructors and 5,000 students at top Chinese universities.
+
+26 See, e.g., Eric Rosenbach, Prepared Statement for Senate Hearing: “China: Challenges to US Commerce,” March 7, 2019, https://www.belfercenter. org/publication/eric-rosenbach-china-challenges-us-commerce; and Amy Webb, The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity (New York: Hachette Book Group, 2019), p. 249.
+
+27 William A. Carter, “Building Jobs for the Future Is Losing Us the AI Race,” CSIS, 2017, https://www.csis.org/analysis/plan-build-jobs-future-losing- us-ai-race.
+
+28 Joy Dantong Ma, “The AI Race is Wide Open, if the US Remains Open,” Macro Polo, April 15, 2019, https://macropolo.org/us-china-ai-race-talent/.
+
+29 Zack Cooper and Samm Sacks, “Bad Idea: Banning Chinese Students from Studying in the United States,” Defense360 (CSIS), December 8, 2018, https://defense360.csis.org/bad-idea-banning-chinese-students-from-studying-in-the-united-states/.
+
+30 Thilo Hanemann, CassieGao, and Adam Lysenko, “Net Negative: Chinese Investment in the US in 2018,” Rhodium Group, January 13, 2019, https://rhg.com/research/chinese-investment-in-the-us-2018-recap/.
+
+31 As Chinese manufacturers have reduced panel costs, total installations have increased in the U.S.; see, e.g., “China Ramps Up Solar Exports After Reforms Hit Home Market,” Bloomberg, December 6, 2018, https://www.bloomberg.com/news/articles/2018-12-06/china-ramps-up-solar-panel- exports-after-policy-hits-home-market; Denise Robbins, “What Will Accelerate US Solar Adoption?” Chesapeake Climate Action Network, January 24, 2018.

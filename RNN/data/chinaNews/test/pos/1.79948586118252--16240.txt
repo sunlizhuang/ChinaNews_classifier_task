@@ -1,0 +1,61 @@
+San Francisco and Lagos-based fintech startup Flutterwave has raised a $35 million Series B round and announced a partnership with Worldpay FIS for payments in Africa.
+
+With the funding, Flutterwave will invest in technology and business development to grow market share in existing operating countries, CEO Olugbenga Agboola — aka GB — told TechCrunch.
+
+The company will also expand capabilities to offer more services around its payment products.
+
+More than payments
+
+“We don’t just want to be a payment technology company, we have sector expertise around education, travel, gaming, e-commerce, fintech companies. They all use our expertise,” said GB.
+
+That means Flutterwave will provide more solutions around the broader needs of its clients.
+
+The Nigerian-founded startup’s main business is providing B2B payments services for companies operating in Africa to pay other companies on the continent and abroad.
+
+Launched in 2016, Flutterwave allows clients to tap its APIs and work with Flutterwave developers to customize payments applications. Existing customers include Uber, Booking.com and e-commerce company Jumia.
+
+In 2019, Flutterwave processed 107 million transactions worth $5.4 billion, according to company data.
+
+Flutterwave did the payment integration for U.S. pop-star Cardi B’s 2019 performances in Nigeria and Ghana. Those are two of the countries in which the startup operates, in addition to South Africa, Uganda, Kenya, Tanzania, Zambia, the U.K. and Rwanda.
+
+“We want to scale in all those markets and be the payment processor of choice,” GB said.
+
+The company will hire more business development staff and expand its developer team to create more sector expertise, according to GB.
+
+“Our business goes beyond payments. People don’t want to just make payments, they want to do something,” he said. And Fluterwave aims to offer more capabilities toward what those clients want to do in Africa.
+
+“If you are a charity that wants to raise money for cancer research in Ghana, or you want to sell online, or you’re Cardi B…who wants to do concerts in Africa…we want to be able to set up payments, write the code and create the platform for those needs,” GB explained.
+
+That also means Flutterwave, which built its early client base across global companies, aims to serve smaller African businesses, including startups. Current customers include African-founded tech companies, such as moto ride-hail venture Max.ng.
+
+Worldpay partnership
+
+The new round makes Flutterwave the payment provider for Worldpay in Africa.
+
+“With this partnership, any Worldpay merchant in Europe or the U.S. can accept any African payment. If someone goes to pay Netflix with an African card, it just works,” GB said.
+
+In 2019, Worldpay was acquired for a reported $35 billion by FIS, a U.S. financial services provider. At the time of the purchase, it was projected the two companies would generate revenues of $12 billion annually, yet neither has notable presence in Africa.
+
+Therein lies the benefit of collaborating with Flutterwave.
+
+FIS’s Head of Ventures Joon Cho confirmed the partnership with TechCrunch. FIS also backed Flutterwave’s $35 million Series B. US VC firms Greycroft and eVentures led the round, with participation of Visa, Green Visor and African fund CRE Venture Capital.
+
+Flutterwave’s latest funding brings the company’s total investment to $55 million and follows a year in which the fintech venture announced a series of weighty partnerships.
+
+In July 2019, the startup joined forces with Chinese e-commerce company Alibaba’s Alipay to offer digital payments between Africa and China.
+
+The Alipay collaboration followed one between Flutterwave and Visa to launch a consumer payment product for Africa, called GetBarter.
+
+Flutterwave and African fintech
+
+Flutterwave’s $35 million round and latest partnership are among the reasons the startup has become a standout in Africa’s digital-finance landscape.
+
+As a sector, fintech gains the bulk of dealflow and the majority of startup capital flowing to African startups annually. VC to Africa totaled $1.35 billion in 2019, according to WeeTracker’s latest stats.
+
+While a number of payment startups and products have scaled — see Paga in Nigeria and M-Pesa in Kenya — the majority of the continent’s fintech companies are P2P in focus and segregated to one or two markets.
+
+Flutterwave’s platform has served the increased B2B business payment needs spurred by the decade of growth and reform that has occurred in Africa’s core economies.
+
+The value the startup has created is underscored not just by transactional volume the company generates, but the partnerships it has attracted.
+
+A growing list of the masters of the payment universe — Visa, Alipay, Worldpay — have shown they need Flutterwave to do finance in Africa.

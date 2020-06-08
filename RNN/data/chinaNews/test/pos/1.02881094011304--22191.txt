@@ -1,0 +1,29 @@
+Amazon Web Services (AWS) will build an infrastructure “region” in Jakarta by the end of next year or early 2022 in the biggest investment in Indonesia's the information and technology sector, a high-ranking official has said.
+
+Jakarta will also have three Availability Zones consisting of several interconnected data centers, according to the Industry Ministry.
+
+An AWS region is a physical location where its data centers are clustered. Each region consists of multiple, isolated and physically separate Availability Zones within an area.
+
+An Availability Zone is one or more discrete data centers with redundant power, networking and connectivity in an AWS region, according to the company's website.
+
+“This investment can boost Indonesia to become a strategic digital hub,” Industry Minister Agus Gumiwang said after a meeting with AWS global public policy vice president Michael Punke during the 2020 World Economic Forum (WEF) in Davos, Switzerland, as quoted in a statement on Thursday.
+
+The development of an ASW region, he added, could also accelerate the transformation of the nation’s small and medium companies as well as big corporations in various sectors toward industry 4.0.
+
+“The AWS region in Indonesia will certainly support the startup ecosystem so it can grow rapidly,” Agus added. “It can also help create more jobs and companies in the technology sector.”
+
+The value of the country’s digital economy was projected to reach US$40 billion in 2019, up from $27 billion a year before, according to the annual e-Conomy SEA 2019 report by technology giant Google, Singaporean holding company Temasek and management consulting firm Bain & Company. The value is expected to triple to $130 billion by 2025.
+
+The ministry’s metal, machinery, transportation and electronics director general, Harjanto, said that AWS’ investment was “the biggest investment realization in the ICT [information and communication technology] sector to date,” although he did not disclose the figure.
+
+AWS is a subsidiary of United States-based technology company Amazon that offers analytics technology, artificial intelligent, Internet of Things (IoT) and machine learning services, among other services.
+
+Jakarta will join Hong Kong, Beijing and Ningxia in China, Mumbai in India, Seoul in South Korea, Singapore, Tokyo in Japan and Sydney in Australia as AWS regions in the Asia-Pacific. There are 14 other regions across the globe.
+
+The government will also partner with AWS to provide cloud computing training for “hundreds of thousands of Indonesians” by 2025.
+
+Indonesia has been looking to secure investments from multinational corporations at the WEF, such as Singaporean ride-hailing giant Grab, Japanese financial services firm Mizuho, state-owned Japan Bank for International Cooperation (JBIC) and Chinese dairy giant Yili Group, to boost the country’s economic growth.
+
+Investment Coordinating Board (BKPM) data showed that overall realized investment totaled Rp 601.3 trillion ($44 billion), a 12.3 percent increase year-on-year (yoy), from January to September 2019.
+
+While domestic investment grew 17.3 percent to Rp 283.5 trillion, foreign direct investment (FDI) rose 8.2 percent yoy to Rp 317.8 trillion.

@@ -1,0 +1,9 @@
+The Chinese government has granted spectrum licences to the country’s big three mobile network operators, allowing them to ramp up indoor 5G coverage on their networks.
+
+China Mobile, China Telecom and China Unicom will all receive spectrum in the 3.3Ghz–3.4GHz band, according to the country’s Ministry of Industry and Information Technology.
+
+The three mobile network operators will leverage the “co-development and sharing of 5G indoor access networks to cut costs and boost efficiency,” the ministry said.
+
+China began its 5G rollout in earnest in late 2019. While China was not among the first group of countries to launch 5G, the scale and scope of its 5G network rollout will make it easily the most ambitious in the world. With a population of 1.4 billion people, or 18 per cent of the entire world’s population, spread over 9.5 million square kilometres, the challenge ahead it galling. An estimated 500 million Chinese people live in hard to reach, rural areas, adding to the complexity of the rollout.
+
+Industry experts estimate that Chinese mobile network operators will deploy a combined one million 5G base stations this year, as they look to rapidly deploy their next generation mobile networks. Securing the appropriate spectrum to boost indoor coverage represents a key step in Chinese MNO’s journey to ramp up next generation connectivity.

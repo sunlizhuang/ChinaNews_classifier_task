@@ -1,0 +1,11 @@
+Cut off from Google services due to a U.S. trade ban, Huawei is slowly building an ecosystem of apps and services to replace them. The latest, and one of the most important on this list is TomTom, which will serve as a replacement for Google Maps.
+
+According to Reuters, Dutch navigation and digital mapping company TomTom struck a deal with Huawei, allowing the Chinese giant to use its maps and services in its apps.
+
+The deal was actually closed "some time ago," TomTom spokesman Remco Meerstra told Reuters, but has not been disclosed to the public until now.
+
+Google Maps is an incredibly important part of Google's ecosystem of mobile apps and services. It comes preloaded on Android phones and provides detailed maps of nearly every corner of the world, as well as turn-by-turn navigation. TomTom is a veteran in the space, having produced turn-by-turn navigation software since the late nineties.
+
+The deal is an important step in Huawei's near-impossible mission to offer a viable Google alternative on its future smartphones which run an open-source version of Android but cannot run Google's Play Store, Maps, YouTube and other services (older models, like the Huawei P30 Pro, still have all the Google services on board).
+
+Last week, Huawei offered a $26 million incentive to developers to create apps for its app store, called Huawei Mobile Services (HMS).

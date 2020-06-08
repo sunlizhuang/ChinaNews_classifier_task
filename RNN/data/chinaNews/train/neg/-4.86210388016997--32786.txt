@@ -1,0 +1,47 @@
+Monitoring
+
+Within China: Officials said they would track down people who left Wuhan, a city of 11 million, ahead of the Lunar New Year holiday, especially the many migrant workers who headed back to the countryside to celebrate with their families. They will be registered, visited frequently by medical personnel and taken for treatment if symptoms develop. Xinhua reported that health officials in Beijing asked those returning to Wuhan from anywhere to stay at home for two weeks, record their temperature and seek treatment if they develop a cough or fever.
+
+AD
+
+AD
+
+Elsewhere: Airports globally and border crossings with China have implemented monitoring systems including thermal scanners and questionnaires in an effort to catch cases early. In the U.S., the Centers for Disease Control and Prevention said it is now screening passengers from China at 20 airports, up from five initially. The drawback to this approach, however, is that it does not catch people who have been infected but are still in the incubation stage, and it may miss those whose primary symptom is a cough, not a fever. The passengers are given cards with details about what to watch for. Social media and traditional news outlets have also spread the word. The first two patients identified in the U.S. sought medical attention on their own accord because they were concerned that they might be infected, showing that awareness levels are high.
+
+Contact tracing
+
+When a new case is identified, the patient is put in isolation, often in a hospital, to prevent him or her from spreading the germs. A medical worker takes a thorough history, trying to identify every person who has been within 6 feet (2 meters) of the patient since symptoms emerged. According to the WHO, Chinese authorities place close contacts (family members and others living in the patient’s home, co-workers, possible care-givers and others) under medical observation, which may include isolation at home with regular temperature checks. If there are no symptoms after 14 days, the contacts are released, the WHO said. Other potential contacts could be neighbors, fellow passengers on public transportation, people who attended the same social events, shopped or visited doctors at the same time. Breaking the chain of transmission is what officials believe will ultimately curtail the outbreak and prevent a pandemic, which is an epidemic of global proportions.
+
+AD
+
+AD
+
+Isolation
+
+Isolation is a tricky issue because it’s unclear how well it works or if it’s been put in place quickly enough. The most critical time for isolation is when an infected person sheds the virus, essentially putting it out into the world. Scientists are still trying to determine how this virus sheds. Often it’s when the infected patient is experiencing symptoms, with the virus being spread via the droplets spewed from a cough or sneeze. But Ma Xiaowei, the director of China’s National Health Commission, said on Jan. 26 that, “from our observations, the virus can be contagious during the incubation period,” which he said was “very different” from SARS, or Severe Acute Respiratory Syndrome. He didn’t elaborate on the observations or mode of transmission. The prospect is a frightening one, since asymptomatic carriers could be widely and unknowingly dispersing the pathogen. Some of the most vulnerable people are the health care workers caring for seriously ill patients; 15 cases occurred among workers at a single hospital in Wuhan. In the U.S., people who are flagged for possible concern, including the close contacts of known patients and feverish airline passengers, aren’t being kept in formal isolation, though they are asked to limit their exposure to others.
+
+Travel restrictions
+
+AD
+
+AD
+
+China has imposed a draconian quarantine on Wuhan and more than a dozen other cities in the region, a travel ban covering in excess of 50 million people. The move came ahead of the Lunar New Year holiday period, when an estimated 3 billion trips are made, about 15 million in Wuhan alone. The mayor estimated about 5 million residents left before the Jan. 23 lockdown, according to media reports. Almost half of the more than 2,000 cases of 2019-nCoV reported before the holiday were found outside Hubei province, of which Wuhan is the capital. Hong Kong, the international financial center that functions with some autonomy from China, announced travel restrictions from the mainland. In modern times, quarantines have yielded limited results. Toronto’s use of quarantine wasn’t effective in slowing the SARS epidemic of 2002-2004 there, Richard Schabas, a former public-health physician who was Ontario’s chief medical officer from 1987 to 1997, said in a study in 2004. An impoverished neighborhood in Liberia quarantined during an Ebola outbreak in 2014 responded with violent riots.
+
+Testing
+
+China sequenced the virus’s genome within days of detecting the outbreak and on Jan. 10 posted the information to public databases widely used by researchers. That contrasts with the months of delay seen with its response to the 2002 outbreak of SARS. Speedy access to the new virus’s genetic fingerprint allowed health officials in Japan and Thailand to quickly confirm cases that had been exported from China, followed by the U.S., France and other countries. Still, the process isn’t easy. Medical staff must take swabs from the nose and throat of potentially infected patients, along with blood samples, and send them to laboratories that are equipped to do genetic sequencing. While the work can take four to six hours, shipping the swabs to the laboratory can take much longer. In the U.S., the only facility currently conducting the work is at the CDC in Atlanta. Researchers are working to develop a faster process that can be done closer to the patient’s bedside.
+
+AD
+
+AD
+
+Vaccines and Drug Therapies
+
+Antiviral drugs that have shown signs of helping control other types of coronaviruses, such as remdesivir and lopinavir/ritonavir, are being examined to see if they offer any help for those infected with 2019-nCoV. Pharmaceutical companies including Moderna Inc. and Novavax Inc. say they have begun work on a potential vaccine. Health officials say a version might be available for the first stages of human testing in as little as three months. But developing an effective vaccine generally takes years.
+
+--With assistance from Jason Gale.
+
+To contact the reporter on this story: Michelle Fay Cortez in Minneapolis at mcortez@bloomberg.net
+
+To contact the editors responsible for this story: Sharon Chen at schen462@bloomberg.net, John O’Neil, Paul Geitner

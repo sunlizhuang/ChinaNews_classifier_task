@@ -1,0 +1,43 @@
+TORONTO -- Two Canadian medical experts have expressed skepticism over new research into the newly renamed COVID-19 that suggests the virus could linger in patients without symptoms for longer than the 14-day incubation period currently used globally as a guideline for quarantines.
+
+A team of Chinese researchers examined the medical records of 1,099 confirmed COVID-19 patients in China.
+
+According to their report, which was first published online on Sunday, patients' incubation periods – the time between a patient's contact with the source of transmission and symptoms beginning to show – range from zero to 24 days.
+
+The report raises new questions about how long a patient can pass on the virus and whether or not two weeks is long enough for potentially infected individuals to remain quarantined.
+
+But infectious disease expert Dr. Neil Rau has major doubts about the report, which has not been peer-reviewed.
+
+“I’m skeptical that this is an important finding. I think this is an outlier rather than a common phenomenon,” he told CTVNews.ca in a phone interview on Tuesday.
+
+It is not clear how many of the report’s 1,099 patients had incubation periods of 24 days. That maximum duration was listed under both severe and non-severe cases, suggesting that at least two patients went 24 days without any noticeable symptoms.
+
+However many patients fit that criteria, the number clearly cannot be very large. The same report found that the median incubation period was three days, meaning half of all patients started to show symptoms within three days.
+
+“What if it’s only one person?” Dr. Rau said. “If it’s a real rare outlier, to change the entire practice (around quarantines) has real implications.”
+
+The report team was led by Dr. Zhong Nanshan, who is leading China's emergency medical response to the COVID-19 outbreak and first gained fame for discovering the SARS virus.
+
+The report has not been publicly acknowledged by the World Health Organization, which has recommended a 14-day quarantine period for anyone who may have had contact with the virus.
+
+The WHO guideline has been used by many countries to justify 14-day quarantines. Canadians who returned to the country from Wuhan, China are being subjected to two weeks of quarantine at CFB Trenton in Ontario, while two-week quarantines have also been ordered on cruise ships where the virus has been detected.
+
+Dr. Theresa Tam, Canada's chief public health officer, told reporters Monday that 14 days remains the "global consensus" on quarantine lengths.
+
+"We believe that 14 days is appropriate and again, we'll evaluate that as more information becomes available," she said.
+
+Tam described the reports of patients with 24-day incubation periods as "outliers" and said they should be studied further, but may not represent a significant shift in thinking around the virus.
+
+Rau agreed, saying it’s already more than sufficient for Canada to quarantine individuals from Wuhan.
+
+“You may prevent some spread, but it’s a very drastic approach. It’s incredibly inconvenient,” he said.
+
+As for fears about the new virus, Rau said “it’s a lot of brouhaha about a disease that may be mild for the majority” of those infected.
+
+“It’s a bit scarier than the flu in terms of death rate, but it may not be as transmissible as the flu in terms of getting through the whole population as easily,” he said.
+
+Government estimates suggest that the flu causes about 3,500 deaths and 12,200 hospitalizations in Canada each year. Globally, COVID-19 has killed more than 1,000 people and infected more than 42,000 in at least 25 countries.
+
+Other findings in the report from Zhong's team included that 88 per cent of the 1,099 COVID-19 patients presented with a fever and 68 per cent with a cough, while five per cent had vomiting and four per cent diarrhea.
+
+The report also theorized the possible existence of "super-spreaders," such as the British man who is believed to have infected at least 11 others with the virus before he realized he was sick.

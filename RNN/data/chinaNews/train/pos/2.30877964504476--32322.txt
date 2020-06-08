@@ -1,0 +1,343 @@
+Apple CEO Tim Cook and CFO Luca Maestri spoke with analysts during the company's Q1 2020 earnings call. Here's our ongoing live transcript of their remarks! If you want some quick analysis on Apple's results, we recommend checking out the awesome charts from Six Colors.
+
+Cook's opening remarks
+
+
+
+
+
+Tim Cook
+
+Good afternoon and thanks to all of you for joining us. We're thrilled to report Apple's biggest quarter ever, which set new all-time records in both revenue and earnings. We generated revenue of 91.8 Billion dollars, which is above the high end of our guidance range, with revenue growth accelerating for the third consecutive quarter. Geographically, we set all-time records in the Americas, Europe and the rest of Asia Pacific and saw Greater China return to growth. Our record performance was fueled by iPhone, where December quarter revenue was up 8% year over year and by our fifth consecutive quarter of double-digit growth outside of iPhone, including a new all-time record for services and another blowout quarter for wearables. Our active install base of devices has now surpassed 1.5 Billion, up over 100 million in the last twelve months alone, reaching a new all-time high for each of our main product categories and geographic segments. Not only is our large and growing installed base a powerful testament to the satisfaction, engagement, and loyalty of our customers, but it's also fueling our growth across the board, particularly in services. Let's take each category one by one. On iPhone; revenue in the December quarter was 56 billion dollars. Again, that's up 8% over a year ago, thanks to the exceptional demand for the iPhone 11, iPhone 11 Pro, and iPhone 11 Pro Max. In fact, iPhone 11 was our top-selling model every week during the December quarter, and the three new models were our three most popular iPhones. We had double-digit growth in many developed markets, including the U.S., the U.K., France, and Singapore, and also grew double digits in emerging markets led by strong performances in Brazil, mainland China, India, Thailand, and Turkey. These new models are by far the best iPhones we've ever shipped with advanced technologies, an unprecedented leap in battery life to easily get through the day and a best in class camera experience. We have been wild with the photos. Customers have shared and are all new Night mode photo challenge. This month. Turning to services, Q1 revenue reached 12.7 Billion dollars, an all-time record growing 17% over last year. Once again, we saw double-digit growth in all five of our geographic segments and established new all-time records for multiple categories, including cloud services, music payment services and our App Store Search ad business, as well as setting a December quarter record for the App Store and Apple Care. 2019 was a historic year for our services business and I'd like to touch on some highlights for the app store. 2020 started off strong with customers spending a new single-day record 386 million dollars on New Year's Day alone, a 20% increase over last year. Apple Arcade, our new game subscription service, has been fast off the blocks with a catalog of over 100 new and exclusive games. You won't find anywhere else all playable across Apple devices with new games and expansions added every month. Apple TV+ is off to a rousing start, and I want to congratulate the entire team at the morning show for their multiple Golden Globe nominations. Jennifer Aniston on her Screen Actors Guild award and Billy Crudup on his Critics Choice Award. We continue to focus on telling stories that matter like Little America, which recently premiered to widespread critical acclaim with much more great content still to come. Apple News now draws over 100 million monthly active users in the US, UK, Australia and Canada and provides a curated and personalized experience using on-device intelligence to recommend stories. Apple News+ continues to add new titles offering subscribers seamless access to the world's top publications across all of their devices. For Apple Pay; revenue and transactions more than doubled year over year with a run rate exceeding 15 billion transactions a year. Apple Pay transit support expanded with customers paying for journeys on transport for, and more easily with Apple Pay Express Transit, and in spring of 2020, iPhone and Apple Watch, customers will be able to simply tap to ride trains and buses and even more cities, including Shenzhen and Guangzhou. We are thrilled with the continued growth of Apple Card, and last month customers began using Apple Card monthly installments at Apple Retail and online to purchase new iPhones and pay for them over 24 months. We see great promise for these recently launched services and we're optimistic about what we've got in the pipeline for each of them. Now, turning to wearables, we had another incredible quarter. Setting an all-time record in virtually every market we track around the world, and this product category is now the size of a Fortune 150 company. Demand for AirPods continues to be phenomenal, particularly for our recently launch Air Airpods Pro, our new additions to the AirPods family that features active noise cancelation. Apple Watch had a great start to fiscal 2020, setting an all-time revenue record during the quarter. It continues to have a profound impact on our customers' lives and it continues to further its reach as over 75% of the customers purchasing Apple Watch during the quarter were new to Apple Watch. Both AirPods and Apple Watch were must-have holiday gifts, helping drive unprecedented results for the category. Even as we face supply constraints for Apple Watch Series 3 and Airpods Pro. Mac and iPad generated 7.2 and 6 billion in revenue respectively, and the high level of customer satisfaction and loyalty for both products drove the active installed base of both Mac and iPad to new records in all geographic segments. For iPad, we saw growth in key emerging markets like Mexico, India, Turkey, Poland, Thailand, Malaysia, the Philippines, and Vietnam. With our current lineup of iPad Pro, iPad Air, iPad mini, and iPad, along with the new iPadOS, we give customers an unparalleled tablet experience, integrating hardware, software and services in a way that only Apple can. This was also a very exciting quarter for the Mac as we launched our most powerful notebook ever. The 16-inch MacBook Pro as well as Mac Pro and Pro Display XDR, the most powerful tools Apple has ever put in the hands of pros. And we've already seen a strong response from the pro community, from developers, photographers and music producers to filmmakers and scientists who rely on the Mac to create their life's best work. We also want to take a moment to congratulate all the Grammy-winning and nominated artists this past weekend who rely on Logi Pro 10 and their Mac to create incredible music we all love. I want to call out and celebrate the exceptional work of our retail and online teams. This quarter, we opened a beautiful new store in Kawasaki Japan, and exciting things are taking place inside each and every store. Thanks in part to a doubling in iPhone trade-ins versus last year, our retail and online stores set an all-time record and delivered strong double-digit growth in iPhone. We see a very bright future for these efforts, and we continue to innovate to ensure that everyone who visits an Apple retail location has a great experience. We begin 2020 with our greatest product lineup ever. And we are only deepening our commitment to do our part to make the world a better place. In November, we released a completely redesigned Everyone Can Code curriculum to help introduce more elementary and middle school students to the world of coding. The new curriculum includes even more resources for teachers, a brand new guide for students, and updated swift coding club materials. Today, millions of students and more than 5000 schools worldwide use Everyone Can Code curriculum to bring their ideas to life and develop important skills, including creativity, collaboration, and problem-solving. November also saw the launch of our new research app, the latest in our ongoing effort to put the future of health in the hands of every user. Customers in the U.S. can enroll in three landmark multi-year health studies that we're undertaking with leading academic and research institutions. The Apple Women's Health Study, the Apple Heart and Movement Study and the Apple Hearing Study. As in everything we do, we built user privacy into the research app from the ground up. This quarter, we also announced a 2.5 Billion dollar plan to help address the housing availability and affording crisis in our home state of California. We feel a great responsibility to help the region, we have always called home, stay vibrant and to ensure that it remains a great place for everyone to live and raise a family, including those who do so much to serve the community like firefighters and teachers. In much more recent news. We're closely following the development of the Coronavirus. We're donating to groups that are working to contain the outbreak. We're working closely with our Apple team members and partners in the affected areas, and our thoughts are with all of those affected across the region. As we close the books on a record-breaking December quarter, we are already well underway on some new and exciting developments for the future, Apple strength will always be its boundless creativity and innovation, and this year will be no different. But for now, for more details on the results, I'd like to turn the call over to Luca.
+
+Luca Maestri provides more detail on the quarter
+
+
+
+
+
+Luca Maestri
+
+Thank you, Tim. Good afternoon, everyone. Our business and financial performance in the December quarter were exceptional. As we set new all-time records for revenue, net income and earnings per share. Revenue for the quarter was 91.8 Billion, up 7.5 billion or 9 % from a year ago, in spite of a one billion dollar headwind from foreign exchange. Geographically, we establish all-time revenue records in many major developed and emerging markets, including, among others, the U.S., Canada, Mexico, Brazil, the U.K., Germany, France, Italy, Spain, Poland, Thailand, Malaysia, and Vietnam. Products revenue was 79.1 billion, up 8% as iPhone returned to growth and we had incredibly strong results in wearables, where we set all-time records for both Apple Watch and AirPods. Services revenue grew 17% to a new all-time record, 12.7 billion dollars with double-digit growth in every geographic segment, and new all-time records across our portfolio. Company gross margin was 38.4 %, up 40 basis points sequentially driven by leverage from higher revenue in spite of a -60 basis point impact from foreign exchange. Product gross margin was 34.2%, up 260 basis points sequentially, thanks to leverage and favorable mix. Services gross margin was 64.4%, up 30 basis points sequentially driven by favorable mix. Our reported tax rate for the quarter was 14.2%. Before discrete items, the rate was 16.5%, exactly in line with our guidance. A favorable one-time item impacted the rate by 230 basis points. Net income was an all-time record at 22.2 billion dollars, up 2.3 billion or 11% over last year. Diluted EPS was also an all-time record at $4.99, up 19%. And operating cash flow was a very strong 30.5 billion dollars, an improvement of 3.8 billion over a year ago. Let me get into more detail for each of our revenue categories. iPhone revenue of 56 billion grew 8% year over year as we saw great customer response to the launch of our newest iPhones. We set all-time revenue records in several countries, including the US, Mexico, the UK, France, Spain, Poland, Thailand, Malaysia, and Vietnam. Our active installed base of iPhones has reached an all-time high and is growing in each of our geographic segments. In the U.S., the latest survey of consumers from 451 Research indicates iPhone customer satisfaction of 98% for iPhone11,11Pro, and 11 Pro Macx combined. Among business buyers planning to purchase smartphones in the next quarter, 84% plan to purchase iPhones. Turning to services. We set an all-time revenue record of 12.7 billion with double-digit growth in all of our five geographic segments. As Tim mentioned, we establish new all-time records for Apple Music, Cloud Services, Payment Services and our app store Search Ad business and December quarter records for the App Store and Apple Care. We are well on our way to accomplishing our goal of doubling our fiscal year 16 services revenue during 2020. We've actually already reached that goal on a run-rate basis with the results of the December quarter. Customer engagement in our ecosystem continues to grow and the number of both transacting and paid accounts on our digital content stores reached a new all-time high, with paid accounts growing double digits in all of our geographic segments. We now have over 480 million paid subscriptions across the services on our platform, up 120 million from a year ago. And at this point, we expect to hit our goal of surpassing the 500 million mark already during the March quarter. Given the tremendous momentum we are experiencing across our services offerings, we are increasing our target for paid subscriptions and aim to reach 600 million before the end of calendar 2020. App Store revenue grew strong double digits thanks to robust customer demand for both in-app purchases and subscriptions. Our third party subscription business grew across multiple categories and increased almost 40% year over year. Our first party subscription services also continue to perform extremely well. Apple Music set an all-time revenue record offering a catalog of over 60 million songs to our customers. iCloud also generated an all-time revenue record, growing very strong double digits while offering our customers a safe, secure, and seamless experience across all their devices. It was a December quarter record for Apple Care thanks to strong service agreement attach rates and expanded distribution. Many of our partners have come to appreciate the strength of the AppleCare brand and our ability to deliver the very best service and support in the world. That value resonates with both our partners and our customers, and we are very happy to see that quality of experience delivered to more and more of our users. Next, I'd like to talk about Mac and iPad. Mac revenue was 7.2 Billion and iPad revenue was 6 billion. Both products had a difficult year over year comparison, due to the launches of MacBook Air, Mac Mini, and iPod Pro during the December quarter a year ago and the subsequent channel fill. Despite the tough compare on a demand basis, our performance for both Mac and iPad was around even to last year. Importantly, around half of the customers purchasing Macs and iPads around the world during the quarter were new to that product, and the active installed base for both Mac and iPad reached a new all-time high. The most recent surveys from 451 Research measured a 93% customer satisfaction rating for Apple from consumers and 92% from businesses. And among both consumers and businesses who were planning to purchase tablets in the March quarter, 78% plan to purchase iPads. Wearables, home, and accessories established a new all-time record with revenue of 10 billion up 37% year over year with very strong double-digit performance across all five geographic segments and growth across wearables, accessories, and home. We set all-time records for wearables in virtually every market we track, even as we experience some product shortages due to very strong customer demand for both Apple Watch and AirPods during the quarter. We also continue to see strong demand for our products in the enterprise market as our technology solutions enable businesses to do their best work. 100% of Fortune 500 companies in the health care sector use Apple technology in areas such as patient experience, clinical communications, and nursing workflows. And we're also seeing smaller companies in this sector drive innovation with our technology and apps. One example is Goss Surgical, which uses Coramale [sp?] In iOS to more accurately estimate blood loss during childbirth and surgery. This helps clinicians have more complete and timely information on whether a patient needs an intervention, which can impact both clinical outcomes and cost. Another example is Butterfly Network, a medical imaging company which makes a handheld ultrasound device that connects to iPhone or iPad to enable clinicians to take an ultrasound anywhere at a cost that is dramatically lower than other solutions on the market today. Let me now turn to our cash positions. We ended the quarter with 207 billion in cash plus marketable securities. We issued a 2 billion euro-denominated green bond, retire, one billion dollars of maturing debt and reduced commercial paper by one billion during the quarter, leaving us with total debt of 108 billion. As a result, net cash was 99 billion at the end of the quarter, and we maintain our target of reaching a net cash neutral position over time. We returned nearly 25 billion dollars to shareholders during the December quarter. We began a 10 billion accelerated share repurchase program in November, resulting in the initial delivery and retirement of 30.4 Million shares. We also repurchased 40 million Apple shares for 10 billion dollars through open market transactions and we paid 3.5 Billion in dividends and equivalence. As we have done for the last several years, we will share our plans for the next phase of our capital return program when we report the results for the March quarter. Finally, as we move ahead into the March quarter, I'd like to review our outlook, which includes the types of forward-looking information that Teges [sp?] referred to at the beginning of the call. We expect revenue to be between 63 and 67 billion dollars. The wider than usual revenue range comprehends uncertainty related to the recently unfolding public health situation in China. We expect gross margin to be between 38 and 39 percent. We expect OPEX to be between nine 9.6 And 9.7billion dollars. We expect ONE to be about 250 million and we expect the tax rate to be about 16.5%. Also today, our board of directors has declared a cash dividend of 77 cents per share of common stock, payable on February 13, 2020, to shareholders of record as of February 10, 2020. With that, let's open the call to questions.
+
+Analysts questions
+
+
+
+
+
+Amit Daryanani, Evercore:
+
+Thanks a lot. Good afternoon, guys. I guess first one for me, on wearables, it's fairly impressive to see it's already a 10 million dollar business for you guys. Can you just touch on the growth that you see on the wearable side, how much of the growth is coming from first-time buyers of AirPods or Apple Watch versus folks that seem to be just upgrading the products that they have? Because it looks to us adoption rates are fairly low in your installed base or that there should be a long runway, but not just understand how you see that good divide between those two buckets.
+
+
+
+
+
+Tim Cook
+
+Yeah, Amit, it's Tim. If you look at the wearables as a category within the wearables, home, and accessories revenue, wearables grew 44%. So it was very strong, as you say. Both Apple Watch and AirPods did very well in terms of collecting new customers - Apple Watch in particular - 75% of the customers are new to the Apple Watch. And so it's still very much selling to new customers at this point.
+
+
+
+
+
+Amit Daryanani:
+
+Perfect. Yes. Luca, if you could just touch on gross margins. The March quarter guide, I think, implies gross margins are flat to actually up 10 - 15 basis points. It's rare for you guys to actually have gross margins up in March, I think because you have a fairly high seasonal sales deleverage happening. So what are the offsets that are enabling what looks like a better-than-seasonal guide for gross margins?
+
+
+
+
+
+Luca Maestri
+
+Yes, that's right Amit. It's about flat sequentially and by the way, significantly higher on a year over year basis. But on a sequential basis, you're right. On one side, we've got the loss of leverage from the usual seasonality. But we expect that that loss of leverage will be offset by better mix and cost savings.
+
+
+
+
+
+Tom Forte, D.A Davidson & Co:
+
+Great. Thank you for taking my question. Congrats on the launch of Apple TV+. I wanted to know, internally, how you were gaging success. Is it purely on critical acclaim? Is it a number of consumers that are using the service contribution of service revenue, et cetera? Thank you.
+
+
+
+
+
+Tim Cook
+
+Tom, it's Tim. We are primarily measuring ourselves on the number of subscribers. As you can tell from the way that we launched the product, we started with a very aggressive price at $4.99. And in addition to that, we have our bundle where if you buy pretty much any device, you're getting a year for free. And so we're very focused on subscribers. That said, the product itself is about storytelling and we think if we do that well then we'll find that there will be some number of those that will also be critically acclaimed. And we're seeing that with The Morning Show. We're seeing that with Little America and others.
+
+
+
+
+
+Tom Forte:
+
+Great, and then my second question is, I think you indicated that last month you started offering consumers the ability to use your Apple Card to buy an iPhone on an installment basis. Can you talk about how that's had an impact on your unit sales for iPhones?
+
+
+
+
+
+Tim Cook
+
+The retail stores did fantastic on iPhone. Very strong double-digit growth in iPhone from a year over year point of view, and one of the factors that enabled that was getting to monthly payments on the Apple Card to make it very simple. Of course, that's U.S. only at this point. But the U.S. is a very key market for us. And so it was an important part of it.
+
+
+
+
+
+Shannon Cross, Cross Research:
+
+Thank you very much. I want to go back to revisit China. Tim, can you talk about what you're seeing in the region — what you were seeing in the region prior to the health crisis? And then can you also update us a bit in terms of your manufacturing strategy, dual sourcing, geographic diversification even within the region? Just we have some ideas of how this will be managed. Thank you.
+
+
+
+
+
+Tim Cook
+
+Yeah, thanks, Shannon. In terms of China, the results from last quarter (and then I'll get into the Coronavirus second), for the results from last quarter. We had double-digit growth for iPhone in Mainland China. So that was an important change from where we had been running. We also had double-digit growth in services in Mainland China and we had extremely strong double-digit on wearables and so really there were a number of different factors in terms of the things that customers are responding to. iPhone 11 is doing particularly well there. The product has been very well received with its battery life and the camera is unbelievable. We also, as you probably know, have certain trade-in programs going and financing programs. These have also been well received. And so it's sort of the sum of all of this. And we're attracting quite a large percentage of new customers on products like the Mac. Three-quarters of the customers buying a Mac in China are new and nearly two-thirds of the customers buying iPad are new, and so it was a terrific quarter. We had three of the top four selling smartphones in urban China, according to Kantar. In terms of the Coronavirus, as I mentioned earlier, first and foremost, our thoughts are with all of those that are affected across the region. And as I've mentioned, we're donating to groups that are working to contain the outbreak. We're also working very closely with our team and our partners in the affected areas. And we have limited travel to business-critical situations as of last week. The situation is emerging and we're still gathering lots of data points and monitoring it very closely. As Luca had mentioned, we have a wider than usual revenue range for the second quarter due to the greater uncertainty. I'll talk about supply chain and customer demand some to give you some color. With respect to the supply chain, we do have some suppliers in the Wuhan area. For all of the suppliers, there are alternate sources and we're obviously working on mitigation plans to make up any expected production loss. We factored our best thinking in the guidance that we've provided you. With respect to supply sources that are outside the Wuhan area. The impact is less clear at this time. The reopening of those factories after Chinese New Year has been moved from the end of this month to February 10th, depending upon the supplier location. And we've attempted to account for this delayed start-up through our larger range of outcomes that Luca mentioned earlier. With respect to customer demand and sales. We've currently closed one of our retail stores and a number of channel partners have also closed their storefronts. Many of the stores that remain open have also reduced operating hours. We're taking additional precautions and frequently deep cleaning our stores as well as conducting temperature checks for employees. While our sales within the Wuhan area itself are small, retail traffic has also been impacted outside of this area, across the country in the last few days. And again, we have attempted to account for this in our guidance range that we've provided you. I hope that gets you some color.
+
+
+
+
+
+Shannon Cross:
+
+Yeah, that was really helpful. Luca, maybe if you could just touch some on gross margin perspective, the commodity pricing environment, and availability. Obviously there's been some movement on DRAM and NAND, so if you can talk about how you're thinking about inventory levels and managing that going forward. Thank you.
+
+
+
+
+
+Luca Maestri
+
+Yes. As I said earlier to the question around the gross margin guidance for the March quarter, we are seeing a benign commodity environment. Most commodities have been declining during the December quarter and we expect the same to happen in the March quarter. As always, and as you probably know, we look at the way these prices move. And at times when we feel it's appropriate, we buy certain commodities in advance. And so we will continue that practice as we go through the year.
+
+
+
+
+
+Katy Huberty, Morgan Stanley:
+
+hank you. Good afternoon, Luca, can you address the modest slowdown in services growth this quarter, 17% vs. 18% in September? Which services categories accelerated vs. where did you see some deceleration in the growth?
+
+
+
+
+
+Luca Maestri
+
+Katy, let me make a couple of comments here. For the 17% during the December quarter, we look at it against our fiscal year 19 growth rate, which was 16%, so we feel very good about the results for the December quarter. As Tim and I mentioned during our prepared remarks, it was a very broad-based growth because we grew double digits in services across all the five geographies. We set all-time records for many, many categories music, cloud, search ads, payment services, December records for the App Store and Apple Care. If you remember, we had set two goals for ourselves in the services segment. First, we set a goal to double our fiscal 16 revenue during 2020. And when we look at it on our run-rate basis, we've already achieved that goal with the results of the December quarter. We also set a goal to pass 500 million paid subscriptions during 2020. And given that we are already at 480 at the end of December, we expect to pass that mark during the March quarter. And so now we are setting a new target for ourselves for paid subscriptions. And so we are now aiming to reach 600 million before the end of calendar 2020. So we feel that the services business is going incredibly well. Of course, we have launched new services very recently. For example, Apple TV+ just launched in November. And so while these services did not have a material impact in our December quarter results, we expect that over time this starts contributing to the growth of the services business. But, you know, we feel very happy with the 17%.
+
+
+
+
+
+Katy Huberty:
+
+Thank you for that, Tim, as a follow-up, at some point in the future, Apple will launch a 5G iPhone. How big of a demand driver do you view 5G capability in a handset? And what's your view as to what the killer app will be from a consumer perspective?
+
+
+
+
+
+Tim Cook
+
+You know we don't comment on future products, and so I'll try to sidestep a bit. With respect to 5G, I think we're in the early innings of its deployment on a global basis. We obviously couldn't be prouder of our line up and are very excited about our pipeline as well, and wouldn't trade our position for anybody.
+
+
+
+
+
+Kyle McNeely, Jefferies:
+
+Thanks a lot. So we're seeing some signs of a new spectrum being deployed for 5G deployments and even additional 4G capacity. And it's already having a positive impact for handset upgrades to use that new capacity. Do you get the sense that wireless carriers are getting more incentivized to upgrade handsets to get leverage of these new network investments? How much might this be helping? Do you think it will continue to accelerate?
+
+
+
+
+
+Tim Cook
+
+I think that we've had some great partners, not only in the U.S. but also around the world, that were really helpful this quarter as partners. And so I think that probably a part of that is the level of investments they have and that a part of it is probably making sure that those customers stick with them in an environment where there's a lot of trading back and forth. So I'm optimistic that it will continue.
+
+
+
+
+
+Kyle McNeely:
+
+OK, great. And then the comment that you made about capacity in your wearables division with AirPods Pro and Apple Watch 3; what should we think about the timeline of when those capacity constraints might be alleviated and will they come from capacity additions or the end of the natural work out of, kind of, unit shipments and something on the demand side?
+
+
+
+
+
+Tim Cook
+
+I'm hopeful that the Series 3 will come into balance during this quarter. On AirPods Pro, I don't have an estimate for that for you. I just can't predict when at this point. We seem to be fairly substantially off there and we're working very hard to put in additional capacity.
+
+
+
+
+
+Wamsi Mohan, Bank of America:
+
+Yes. Thank you, Tim. Apple has a very valuable installed base of users. Can you see a future where Apple can become larger in the advertising market as you build out TV+, given you could have the unique position and ability to drive targeted ads to users without compromising on privacy?
+
+
+
+
+
+Tim Cook
+
+I think it is possible to have advertising in a straightforward manner that doesn't encroach on people's privacy. I wouldn't want to conjecture about us in that business. I think for the TV+ business, we feel strongly that what that customer wants is an ad-free product. That's not our aversion to ads. It's what we believed in the customer wants.
+
+
+
+
+
+Wamsi Mohan:
+
+OK. Thank you. And Luca, can you just clarify if the services revenue this quarter had any impact of deferrals associated with TV+ at all, and how can you help us maybe size the impact of the amortization of the content costs associated with TV+ as we think about next couple of years? Thank you.
+
+
+
+
+
+Luca Maestri
+
+So, yes. Of course, we launched the service and so that was a very small contribution to revenue from the deferral. And there was also contribution to revenue from the people, the subscribers that are actually paying for the service. When you think about what goes into the Apple TV+ revenue, at this point, there are two components. There are paid subscribers. These are the customers that pay for the service and we recognize revenue over their subscription period. And then we got the, what we call the Apple TV+ bundled subscribers. These are the customers that buy an eligible hardware device and redeem the offer for a free year of TV+ services. We deferred revenue for this offer based on three items. The first one is the value of the service that is being provided. The one year of Apple TV+. The second one is the number of customers that are eligible for the offer. And the third one is our estimate of the expected number of customers that will redeem the offer. So you need to keep in mind that from our total eligible device sales, you need to make a number of reductions for family sharing, for multiple device purchases, and for geographic availability. Also, the take rate can also be impacted by the availability of local content. And we also require a payment method on file. So this estimate is reviewed quarterly and gets updated based on actual trends of the offer. And so these inputs provide us with the amount of revenue that we deferred for each device sale that then gets recognized over the one-year period that the TV+ service is provided. And so when you take the combination of pay subscribers and bundle subscribers, you get the Apple TV+ revenue. Of course, because we've launched the service very recently, the amount of revenue that we recognized during the quarter was was immaterial to our results. With regard to the cost of developing the content, we essentially, as we incurred these costs, we will put them on the balance sheet and then we amortize them over a certain period of time, depending on the type of content that we produce.
+
+
+
+
+
+Krish Sankar, Cowen & Co.:
+
+Hi. Thanks for taking my question and congrats on the great results. I have two questions. Tim, I just wanted to pick your brain a little bit on the overall smartphone market. There's a general view that when 5G phones come out, they're going to be more expensive due to higher component costs. But at the same time, it looks like you guys have proven that there is a market for low-cost geographies with phones like iPhone SE. So how do you see these two different segments within the smartphone market evolving over the next one to three years? And then at a follow up for Luca.
+
+
+
+
+
+Tim Cook
+
+Again, I want to stay away from commenting about future products, but generally, I think it's important when you think about 5G, is to look around the world at the different deployment schedules and some of those look very different perhaps than what you might be seeing here. And that's very important. In terms of the price, I wouldn't want to comment on the price of handsets that are announced.
+
+
+
+
+
+Krish Sankar:
+
+Got it. No worries, Tim. And then I'll follow to Luca. You know, the OPEX as a percentage of sales for March looks like about 15%, higher than in the prior quarters. Kind of curious how much of that is part of it is driven by some of the Intel modem asset purchases or TV+ in the OPEX. Or how do we think about it in a go-forward basis?
+
+
+
+
+
+Luca Maestri
+
+Yeah, I think we felt good about our OPEX results because they were at the low end of our guidance range. But you know, clearly, we want to make all the necessary investments in the business and from in terms of the new services, not only for TV+ but all the new services that we launched during 2019. This is a period where we're making the necessary investments in advertising and marketing and that level of investment is reflected in our OPEX results. And also, as you correctly stated, we completed the acquisition of the Intel baseband business during the December quarter. And so we reflected that the run rate of the expenses relates to that business partially during the quarter after the completion of the transaction. And that is a very important core technology for the company. So we will continue to make all the necessary investments also, there. There is a third category of expenses that affected the December quarter and it is the fact that our revenue was very strong and we have certain variable expenses, for example, credit card fees, that are associated with that with the higher volume and of course, impacted our OPEX results.
+
+
+
+
+
+Mike Olson, Piper Sandler:
+
+Afternoon. Thanks for taking the questions. So slightly different take on an earlier question on wearables and that is; what impact you think wearables is having on driving people into the Apple ecosystem. You mentioned 75% of watch buyers are new to the Apple Watch, but are many of them new to Apple overall. I'm sure a lot of existing iPhone, iPad, or Mac users are going to be wearables customers. But do you think wearables bring people into the ecosystem to buy other devices in a material way?
+
+
+
+
+
+Tim Cook
+
+[00:05:13] Michael, it's Tim. With each Apple product that a customer buys, I think they get tighter into the ecosystem because that's the reason that they're buying into it, it's that they like the experience, the customer experience. And so from that point of view, I think each of our products can drive another product. I would think in that case, it's more likely that the iPhone comes first. But there's no doubt in my mind that there are some people that came into the ecosystem for the Watch.
+
+
+
+
+
+Mike Olson, Piper Sandler:
+
+And then I think you recently mentioned that augmented reality will pervade our entire lives. And I'm wondering if you could share your thoughts about how you think it starts to impact our lives most significantly. For example, will the inflection point AR come from gaming or industrial usage or some other category. In other words, where will the average person kind of first feel the impact of AR on their lives in a significant way? Thanks.
+
+
+
+
+
+Tim Cook
+
+When you look at AR today, you would see that there are consumer applications, there are enterprise applications. This is the reason I'm so excited about it is, you rarely have a new technology where business and consumer both see it as key to them. And so I think the answer is that that's the reason that I think it's going to pervade your life is because it's going to go across both business and your home life. And I think these things will happen in parallel. There are already companies that are deep into the enterprise business that are working on applications for the enterprise. And of course, you can go on the Store and see thousands of apps that are ARKit enabled at this time. And with even more coming.
+
+
+
+
+
+Chris Caso, Raymond James:
+
+hank you, good afternoon. Yes, the first question is on gross margins and you spoke about the favorable mix. Wondering if you could expand on that a little bit. And clearly, iPhone is doing well within the overall mix of that growing year on year. But if you could talk about what's happening to the mix within iPhone, is that improving as well and also helping margins? And is there anything else you would point to with regard to the overall mix and margins?
+
+
+
+
+
+Luca Maestri
+
+Yes, I think that the mix helped us both in Q1, and it's helping us with the guidance for Q2. And as you said, some of it is mix of iPhones. The customer response for iPhone 11, 11 Pro, and11 Pro Max has beej exceptional. And that clearly has helped our mix. iPhone 11 was our top-selling model throughout the quarter, every single week of the quarter, and so certainly better mix within the iPhone. The other point that I like to point out is that as we move from Q1 to Q2, the proportion of revenue coming from services increases versus the holiday quarter. And given the fact that services at accretive to gross margin for the company, we end up getting a better mix from services as well.
+
+
+
+
+
+Chris Caso:
+
+OK. Thank you. And just to follow one question with regard to OPEX. You know, it has been growing at a faster rate than revenue for, I guess largely over the last three years or so. Can you set up some expectation with regard to, you know, when you get a return on that investment? I understand there are new investments that are happening now. But, you know, how should we think about, you know, potential leverage going forward? Is there a point in time where the OPEX spending, you know, tends to level off and you get some return on that? Or is it just a function of faster revenue growth in the future?
+
+
+
+
+
+Luca Maestri
+
+Well, I would start by saying that our expense-to-revenue ratio is incredibly competitive relative to other companies in our sector. There are years when our OOPEX grows faster than our revenue, but we've also had years in the recent past where the opposite has happened. We continue to believe that we have a lot of great opportunities in front of us. And, you know, if you look at this past year, we launched many new initiatives, for example, on the services front, which we want to support with the appropriate level of investment, not only marketing and advertising, but also in R&D. As I mentioned earlier, we closed the acquisition of the Intel baseband business because we think it is a very important strategic core technology for the company going forward. And I think from the results that you've seen during this quarter and the guidance that we provided for the March quarter, I think we're doing a pretty good job of balancing the level of investments that we are making on the expense front with the level of returns that we get both, in terms of revenue and in terms of profitability that we're getting. Our net income, for example, was up 11% during the December quarter.
+
+
+
+
+
+Samik Chatterjee, JP Morgan:
+
+Hey, thanks for taking the question. Just wanted to kind of ask on the iPhone revenue growth and the fact that you're going to see a return to growth. Based on the velocity of momentum you're seeing for the products exiting the quarter, how comfortable are you feeling about sustaining growth in iPhone revenues through the year? And I have a follow-up.
+
+
+
+
+
+Tim Cook
+
+You know, we have a practice of forecasting the current quarter. And so we've given you the range that we expect for the current quarter and really don't give a range beyond that.
+
+
+
+
+
+Samik Chatterjee:
+
+OK, if I can just maybe then follow up in terms of, obviously you've returned to growth in most of the regions. You report one of the regions that are declining is Japan. So if you can share your thoughts on what actions you need to take there to return that segment, that geographically to grow and what are the product trends there? What's probably the headwind of limiting growth there?
+
+
+
+
+
+Luca Maestri
+
+Yeah. So Japan was down 10% during the December quarter. It was primarily due to iPhone performance, which was challenged because there were some regulatory changes that took effect on the 1st of October, where essentially the regulators decoupled the mobile phone pricing from the two-year contracts and they're capping the maximum amount of carrier discounts that can be made. At the same time, I would say within a more difficult macro environment, iPhone did incredibly well during the quarter. Six of the top seven selling smartphone models in Japan during the December quarter with iPhones. So it was a very strong performance by iPhone in a difficult environment. Also in Japan, we had very strong double-digit growth from services, stronger than company average, and very strong double-digit growth in wearables, also stronger than company average. So we feel very good. You know, Japan is a country where historically we've had great success. The customers are very loyal and very engaged and we have a very strong position there and we feel we have a very good momentum.

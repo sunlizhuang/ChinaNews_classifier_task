@@ -1,0 +1,13 @@
+The United Nations failed to disclose a huge data breach that began last summer and compromised dozens of servers, staff records, health insurance and commercial contract data.
+
+Because of its diplomatic immunity, the UN had no legal obligation to report the security violation to anyone, according to an investigation by The New Humanitarian, which cited a leaked report. The hack affected the UN offices at Vienna and Geneva and the UN Office of the High Commissioner for Human Rights, also in Geneva. But only internal IT teams and the heads of those offices were informed, according to the organization.
+
+“The attack resulted in a compromise of core infrastructure components” and was “serious,” said Stéphane Dujarric, a UN spokesperson. “As the exact nature and scope of the incident could not be determined,” the offices involved “decided not to publicly disclose the breach.”
+
+The hack was especially dangerous to human-rights groups, which are often the target of state-sponsored online spying that can result in arrests or intimidation, according to the report. The breach also adds to increasing evidence that few computer networks are completely secure. Last month, for instance, the Wall Street Journal reported that hackers linked to Chinese intelligence may have stolen data from hundreds of companies by targeting their cloud-storage service providers, exposing the vulnerability of increasingly popular network storage systems.
+
+UN staff members were asked to change their passwords, without being told of the breach and the fact that compromised systems included user and password management, system controls and security firewalls.
+
+The response was “irresponsible,” Sean McDonald, an IT attorney who specializes in international development, told The New Humanitarian. “You can’t be a global governance body and not be accountable for holding yourself to a professional standard.”
+
+How much data was copied and downloaded in the breach which began in July isn’t clear, according to the report. An unidentified UN IT official estimated to the publication that about 400 gigabytes of data were downloaded — and that the breach might have been avoided with a simple software patch which had been proposed years ago.

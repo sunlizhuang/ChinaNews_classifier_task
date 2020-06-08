@@ -1,0 +1,40 @@
+Huawei is unable to license Google Mobile Services because of its placement on the Commerce Department's entity list. The Trump administration put Huawei on the list because it considers the Chinese manufacturer to be a threat to national security due to its allegedly close ties with the communist Chinese government. Once Huawei was placed on the list, the company was banned from accessing the U.S. supply chain it spent $11 billion on in 2018; because of the ban, Huawei is not allowed to enter into any licensing deal with Google.
+
+
+
+
+
+On Friday, Google published a support article that laid out the facts: "On May 16, 2019, the US government placed Huawei on its Entity List. This government action prohibits all US companies, including Google, from collaborating with Huawei. This means that Google is prohibited from working with Huawei on new device models or providing Google’s apps including Gmail, Maps, YouTube, the Play Store and others for preload or download on these devices."
+
+Google tells owners of new Huawei phones not to sideload Google's apps on the devices
+
+
+
+
+
+
+
+Google then mentions that it has been focused on protecting the security of Google users who sport older Huawei phones. The support page noted that "We have continued to work with Huawei, in compliance with government regulations, to provide security updates and updates to Google’s apps and services on existing devices, and we will continue to do so as long as it is permitted. To be clear: US law currently allows Google to only work with Huawei on device models available to the public on or before May 16, 2019.
+
+
+
+
+
+
+
+
+
+Google also made it clear that Huawei phones launched before May 16th, 2019, but now getting released in other areas of the world, are considered new handsets and cannot be licensed to use Google Mobile Services. Explaining why its apps and services cannot be preloaded or sideloaded on new Huawei devices, Google pointed out that "To protect user data privacy, security, and safeguard the overall experience, the Google Play Store, Google Play Protect, and Google’s core apps (including Gmail, YouTube, Maps, and others) are only available on Play Protect certified devices. Play Protect certified devices go through a rigorous security review and compatibility testing process, performed by Google, to ensure user data and app information are kept safe. They also come from the factory with our Google Play Protect software, which provides protection against the device being compromised."
+
+
+
+
+
+The problem is, the U.S. placement of Huawei on the entity list prevents the latter's phones from going through Google's security process; they also do not have Google's malware scanning Play Protect feature. As a result, these handsets are considered uncertified and cannot use Google's apps. Additionally, sideloaded Google apps won't work on Huawei devices because Google doesn't allow these apps to run on uncertified phones where security might be compromised. "Sideloading Google’s apps also carries a high risk of installing an app that has been altered or tampered with in ways that can compromise user security," the company said. You can check to see if your Android phone is certified by opening the Google Play Store and heading to Menu > Settings. Simply look under Play Protect certification .
+
+
+
+
+
+Despite the ban, Huawei still managed to ship 240 million handsets last year. That wasn't enough for it to top Samsung to take over the title of the world's largest smartphone manufacturer, but it did manage to finish ahead of Apple in second place. That's because patriotic Chinese consumers considered Huawei to be the victim of American bullying and turned out in large numbers to buy Huawei's handsets. In China, most of Google's apps are banned anyway which means that the company's international models were the ones impacted by the ban.
+

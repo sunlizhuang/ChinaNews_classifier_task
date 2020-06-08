@@ -1,0 +1,41 @@
+British Prime Minister Boris Johnson has thrown down the gauntlet to U.S. President Donald Trump with last week’s decision to defy his warnings and allow Huawei, the Chinese telecommunications giant, to be part of the United Kingdom’s next-generation 5G telecom infrastructure.
+
+The controversy surrounding Huawei’s role in national telecommunications grids is the most immediate expression of what I call the “new national security economy,” and offers insight into a larger set of problems that governments, companies and societies will confront in an era of deep connectivity and the big data that it generates.
+
+The push to deny Huawei access to 5G telecommunications networks reflects three concerns: fear that its equipment can be used to observe data that it transmits (espionage); fear that the company could manipulate data or install a “kill switch” that would cause equipment to fail in an international crisis, both of which would damage if not cripple a communications system (sabotage); and worry that Huawei benefits from a special relationship with the Chinese government that provides an unfair advantage in market competition.
+
+That advantage not only facilitates the spread of Huawei products — magnifying the first and second dangers — but it also undercuts those other companies as they attempt to generate revenues to retain their competitiveness.
+
+The case against Huawei rests on several charges. First, the company is not to be trusted because its founder and several senior executives worked for China’s military. Second, there is an assumption of a unity of interests among Chinese companies and the government in Beijing, a link that is strengthened by Chinese law, which requires companies to provide the government with data when requested. The U.K.’s National Cyber Security Center concluded that the Chinese state “could compel anyone in China to do anything (which they’ve now codified in their National Intelligence Law).”
+
+Third, Huawei has been charged with — and settled cases — that alleged the theft of intellectual property. Fourth, the United States alleges that Huawei has worked with Chinese security services, an accusation that was reportedly passed on to the German government late last year.
+
+Its defenders parry each charge. Founder Ren Zhengfei does not deny his history with the People’s Liberation Army, but insists that the company is independent of the Chinese government. Senior executives have said that they will not build back doors into their products or hand over data. The company has offered “no spy” agreements with governments that buy its products. In the U.K., which was using Huawei equipment before the 5G decision, the company established a Huawei Cyber Security Evaluation Center staffed by members of the British telecommunications spy agency; it issues regular reports on Huawei products.
+
+Finally, defenders note that no evidence has been made publicly available to substantiate espionage charges.
+
+The truth lies somewhere in the middle. No company can resist the government of the jurisdiction within which it operates when it legally demands information; that is as true in the U.S. as it is in China. Huawei’s ownership structure is not transparent and Chinese law requires Communist Party cells in the operational management of all companies with more than three Party members.
+
+And regardless of the bill of good health Huawei receives in the U.K. — reviews are mixed; the most recent discovered serious security shortcomings, but none thought to have been deliberately engineered — there is nothing to prevent future sabotage. Hardware and software get automatic updates regularly, which could introduce a vulnerability.
+
+Two issues make Huawei especially problematic. The company is the world’s largest telecommunications equipment vendor, with sales in over 170 countries. Its products are integral parts of 3G and 4G networks around the world and systems upgrades invariably build on existing components.
+
+Any policy that seeks to exclude Huawei from 5G networks will require the uprooting of existing systems, which will make upgrades much more expensive; one study estimates increases could range from 14 to 42 percent in Australia, while another calculates that New Zealand could pay 15-35 percent more. This makes even more striking Huawei’s price advantage, which is essential to the success of its 5G offerings, especially for developing countries that seek to build infrastructure at the lowest possible price.
+
+One critical lesson to be drawn from this basic reality — which applies to all calls to reject Chinese aid or assistance — is that denouncing a company or creditor government is not enough. U.S. calls (or demands) to reject Chinese money or products rings hollow in the absence of a realistic alternative. You can’t beat something with nothing.
+
+The second issue is Huawei’s extensive presence, not only around the world but in every piece of the telecommunications network. This means that the risks it creates cannot be eliminated. Rather, they must be managed and this is a second key lesson. No matter which vendor is used, vulnerabilities will exist. A ban is not the answer. The director general of MI5, the U.K.’s domestic intelligence service, has made the same argument, insisting that Huawei’s role and the risks it creates can be managed.
+
+The private sector is lagging in this understanding, however. In a 5G world, the network is so deeply rooted in daily life as to be indistinguishable from life itself. This is one expression of “the new national security economy,” in which all companies must be alert and responding to these risks. The magnitude of that challenge is not yet sinking in.
+
+Japan has opted to ban all telecom equipment that poses a national security risk from government procurement contracts, identifying 14 areas of infrastructure, such as finance and air travel, that it will also protect. (The directive does not mention a company by name.)
+
+Domestic telecommunications providers have said that they will not use Huawei in their 5G networks. That may cause problems for Softbank, the only domestic provider with Huawei in its 4G systems; it was working with Huawei on 5G trials and is now assessing how to proceed.
+
+The Japanese government appears to have learned that first lesson, however, and is offering tax breaks to companies that invest in 5G. Guidelines are still being drawn up, and security must be an integral part of the final rules.
+
+There is another important dimension of Tokyo’s thinking: a desire to build confidence among security partners and encourage inclusion of this country in the “Five Eyes” intelligence network. That coalition was established in the early days of the Cold War and includes five Anglophone countries — Australia, Canada, Great Britain, New Zealand and the U.S. Membership has been fixed, although recently information on certain problems is being shared among a wider group of countries, Japan among them. Japan has long sought to formally join the group.
+
+Three of the “Five Eyes” — Australia, New Zealand and the U.S. — have effectively banned Huawei from their 5G networks, Trump reportedly called Johnson to warn him that a Huawei presence in the U.K. network would force Washington to reassess its intelligence sharing relationship with London. That will be a test for “the U.S.-U.K. special relationship” but one that can be finessed. The real test is how countries adapt to the realities of a 5G world, a world in which Huawei is just the most obvious and immediate risk.
+
+Brad Glosserman is deputy director of and visiting professor at the Center for Rule Making Strategies at Tama University as well as a senior advisor (nonresident) at Pacific Forum. He is the author of “Peak Japan: The End of Great Ambitions.”

@@ -1,0 +1,13 @@
+OPPO’s Shen Yiren said earlier this month when preheating OPPO Find X 2 that he would consider mass production. So there is a high probability that the in-screen camera will not be installed. Today, Redmi’s Lu Weibing also talked about the under-screen camera technology publicly. He stated that with the current technical capabilities, they could not find an effective solution that combines display functions and camera functions. There is still a long way to go to achieve mass production.
+
+Also Read: Which Brand Will Launch The First Phone With Under-Screen Camera?
+
+Lu Weibing said that the application of CUP (Camera Under Panel) on smartphones can achieve the real full-screen effect without sacrificing space. But there are still many difficulties in the current technology implementation. Simply put, it is the contradiction between the screen’s PPI and transmittance.
+
+Why There Is No Chance for Under-Screen Camera’s Mass Production?
+
+The current screen PPI is about 400. And at this level of pixel density, the light transmittance in the camera is very low. This seriously affects the photo effect. If the PPI is lowered and the transmittance is increased, there will be a large gap between the PPI in the camera area and the PPI of the entire screen. In its turn, this will cause phenomena such as color patches in the camera area.
+
+Therefore, with current technical capabilities, it is impossible to find an effective solution that takes into account both display effects and camera effects. Although Xiaomi released CUP-based technology in 2019, it is still far from achieving mass production.
+
+Not long ago, Vision and the Terminal Lab of China Academy of Information and Communication Technology jointly released a white paper entitled ‘Observation and Trend Analysis of Smartphone Imaging Technology 2019’. The white paper believes that with the mature application of artificial intelligence technology in the field of smartphone photography, imaging technology has become one of the important indicators affecting smartphone sales. The white paper predicts that changes in the field of smartphone imaging applications in 2020 will mainly focus on AI algorithm chip-based acceleration products and the resumption of fingerprint recognition chips.

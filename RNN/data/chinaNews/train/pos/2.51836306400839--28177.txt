@@ -1,0 +1,83 @@
+Jinko Solar has ranked first in global PV module shipments for four consecutive years. Every change in technology and every product upgrade by the company logically attracts a lot of attention within the PV industry.
+
+Jinko doesn't launch new products on a frequent basis, however. New modules released by Jinko in the last two years include Cheetah 400W+ in 2018, Swan bi-facial (upgraded from Cheetah) in 2019 and the latest 465W high energy density Tiger module was released at All Energy Australia in Melbourne in October 2019.
+
+It is forecast that the half-cut+tiling ribbon+ multi-busbar solution, as represented by Jinko’s Tiger module, will probably stand out from the metallized module connection solutions to become mainstream technology in 2020 and beyond, being the quickest solution to reach ramped production.
+
+So what’s the actual performance of this module that has received significant interest since its release? PV Tech spoke with Chaojie Zhou, Jinko’s global product management director, to take a closer look at the Tiger module.
+
+PV Tech: Compared to a traditional module, what’s unique about Jinko’s Tiger module?
+
+Chaojie Zhou: The Tiger module adopts a TR tiling ribbon solution, which is in fact a combination of the tiling ribbon, multi-wire 9BB and half-cut solution. Half-cut and multi-wire technology are relatively mature. This new technology used in the Tiger module will offer efficiency gains of more than 10%.
+
+The new module is defined as a high energy density module. The global PV industry is moving faster than ever towards grid parity, and some South American markets, such as Mexico, have already achieved this. Against this backdrop, we wanted to introduce a product with a system cost advantage, which would contribute to a reduction in PV costs and help the promotion of PV products in other segments.
+
+PV Tech: The module uses a tiling ribbon solution. What’s the difference between that and a shingled module and paving technology?
+
+Chaojie Zhou: In fact, we also studied paving technology. Paving technology uses special welding procedures to narrow the gap between cells, but there are still some gaps left. There are no such problems with the tiling ribbon solution. This solution can maximize the module area and is ideal for the new product.
+
+We tried our best to make full use of the module surface to reach the target set for a high energy density module. Conductive adhesive used in a shingled module is a new product however. Its reliability has yet to be qualified.
+
+After manufacturability and reliability assessments, we finally decided on the tiling ribbon solution for the new product. It took us one year from preliminary market research through to product launch.
+
+PV Tech: Is the tiling ribbon solution a proven technology? For example, what about its performance in process stability, material reliability and yield? What are the main processing bottlenecks for this module?
+
+Chaojie Zhou: The Tiling ribbon solution uses flexible welding strips to connect cells. Highly advanced equipment and procedures can guarantee a reliable solution with a cost advantage. In fact, the whole industry is very interested in the high energy density module. Products may vary as manufacturers apply different process parameters and quality control measures.
+
+Take multi-busbar technology as an example. We managed to resolve technical issues related to welding strip alignment, weld solidity and tiling ribbon reliability. The special round welding strip used by the Tiger module enables secondary light reflection, which could effectively improve module output. Compared to a traditional 5BB module, the Tiger module resistance could be increased by around 5.4%. Its improved performance under weak light will generate more power.
+
+Another bottleneck is the impact of mass production on product reliability. It is a technically challenging task. Jinko’s TR module will achieve ramped production in H1 2020.
+
+PV Tech: Are there any changes in size for the Tiger module? For example, what is the wafer size?
+
+Chaojie Zhou: Our Tiger module uses a 163mm wafer. There are a lot of size choices available, which have confused players from both the upstream and downstream. Too many product categories are not necessarily conducive to cost reduction for the industrial chain. That’s why we chose to introduce this new product. We hope it can play a leading role. It will be much easier for customers to make a choice if a product standard is in place.
+
+PV-Tech: 163mm is different from other sizes chosen by several large companies in the industry. Are there any problems with wafer supply?
+
+Chaojie Zhou: We have our own wafer plants, one in Leshan city and one in Xinjiang province. Future market demands will drive upstream supply chain development. Competitive advantage in system cost is the first thing to come to our mind in new product R&D and it is also one of our most important targets. We are not blindly following the trend of the time. Customer and market needs are what matter most. We were the first to launch 158mm successfully in 2018, which made us believe that the Tiger module could achieve the same success in 2020.
+
+PV Tech: As the whole industry is going for larger modules and higher power output, why is Jinko still focusing on increasing energy density for its Tiger module?
+
+Chaojie Zhou: We are not simply aiming at higher power output. It is one tendency of course, and we can also reduce LCOE through improved energy density. It is one direction of our product design. Just imagine the future. Module efficiency cannot always be raised through an enlarged area and modules cannot be enlarged endlessly. Once modules become too large, problems may surface when they are shipped to site. Design and construction will also be affected.
+
+There are many ways to increase power output, including, but not limited to, enlarging module area, encapsulation and improving efficiency. Finally, it will boil down to maximum use of limited module surface, assisted by cell efficiency technology.
+
+From a product standpoint, each new product will be evaluated in terms of system cost and competitiveness, which are key to product development. There are two types of Tiger module, namely the single module and the bi-facial module, with slight differences in size. Capable of generating power from limited space, the Tiger module can not only significantly boost output, but can also deliver excellent efficiency gains.
+
+Increasing cell size is one way of improving module output and Jinko goes further to improve energy density. Size and weight are optimized at the same time to enable a substantial power increase to address customer demand.
+
+PV Tech: Jinko has supplied 300MW of the new Tiger module for a UHV channel project in Hainanzhou, Qinghai province. Was it quite unexpected that the first batch of Tiger modules was shipped domestically in China?
+
+Chaojie Zhou: Module efficiency needed to top 20.4% to qualify for this project. Our products enjoy a great advantage when serving projects with higher technical or efficiency requirements. The Tiger module is capable of offering a higher return on investment for our customers. China’s PV capacity has a big impact on the world and it is our hope that this product can create value for more customers in 2020.
+
+PV Tech: What about the ramped production of the Tiger module and its efficiency? What’s your capacity forecast for next year?
+
+Chaojie Zhou: The Tiger module efficiency tops 460W at present and this figure is expected to rise next year. We’ve already started to produce this module and we are expecting to ramp production in H1 2020. It is forecast that capacity will reach 9-10 GW by the end of 2020.
+
+PV Tech: What are Jinko’s target markets for this module?
+
+Chaojie Zhou: This product is applicable to global markets and we attach great importance to market acceptance. Acceptance of a new product varies with each individual market and individual customer. For example, while customers in some open markets are quick to embrace new products, it will take longer for customers in a conservative market to do so. We will consider such acceptance factors in marketing. Jinko highly values market and customer needs to establish a competitive advantage.
+
+The advantage of the Tiger module is evident in areas where labour and land costs are high. For example, the land price in Australia is relatively low, but its labour cost is rather high. Another example is Japan. Limited land area has prompted Japan to impose stricter requirements on efficiency. As a result, the Tiger module is well-positioned in both countries.
+
+The same is true with Jinko’s domestic projects. The Top Runner and Super Runner Programs, UHV channel projects and the like are all highly demanding on module efficiency. The 300MW Tiger module supplied to the Qinghai Hainanzhou UHV DC project can ideally meet such efficiency requirements.
+
+PV Tech: What about the market response to this new product up till now?
+
+Chaojie Zhou: The new module was released at the Melbourne event in October 2019 and later we received favourable feedback from local customers. Some Australian clients went for the Tiger module right away. We’ve placed around 500MW in orders since its release.
+
+To understand and to clarify market demand, we visit our customers and local markets in preparation for a new product launch. Customer feedback usually centres around whether the new product can help reduce BOS and construction costs. Different customers come with different requirements. For example, an EPC company may be interested in BOS cost, whereas a project owner hopes to gain more advantages in LCOE to compete in multiple tenders.
+
+PV Tech: What are the advantages in system cost and LCOE for the Tiger module？How do you calculate cost reduction?
+
+Chaojie Zhou: Our products are designed and modified based on customer feedback and market response. For the BOS part, we will work with mainstream racking suppliers to evaluate product compatibility. Using a 164MW PV plant as an example - our calculation shows that EPC cost is reduced by more than 1.2% and IRR is increased from 11.23% to 11.52%. This is a project in Australia and, of course, different markets present different cost reduction results.
+
+PV Tech: Jinko is currently the largest company in the PV industry in terms of module shipments. Could you talk a little about your product development strategy?
+
+Chaojie Zhou: Ranking first in shipments for four consecutive years, Jinko has traditionally been a customer-centred and technology-driven company. This leading position is, however, a big challenge for us. We are obliged to decide on the correct technology route to keep ahead.
+
+As far as product strategy is concerned, homogenization will lead to fierce competition in all aspects. That’s the very reason we want differentiation, both in product and in customer needs.
+
+We will not develop new products on a frequent basis. Frequency of new product release all depends on actual demands. Customer needs are our No.1 priority. We are committed to deliver quality products that are of real value to our customers, products that conform to the qualification standards of banks and certification bodies.
+
+In the early days, PV players tended to be engaged in module price wars, but now we are turning to competition on value. Most of our partners are our loyal customers. They choose Jinko because they have faith in us. That’s where our product value lies. We aim to forge long-term strategic relationships, to establish Jinko as a trustworthy partner.

@@ -1,0 +1,43 @@
+India appears to be playing tug of war with itself, at once cracking down on digital commerce while also extending a hand to innovators.
+
+It’s not contradiction, but a stance that favors locally-driven disruption in which gigantic U.S. brands pump tons of money into India’s economy while relegated to a supporting role.
+
+Within hours last week, Indian regulators ordered an antitrust probe of Walmart and Amazon while Jeff Bezos and other Amazon execs traveled to New Delhi to tout a $1 billion investment to digitize local businesses. The message is U.S. investment is welcome, as long as U.S.-driven data mining is kept at bay.
+
+India's potential crackdown on Walmart and Amazon comes just as India’s supreme court considers a near total ban on cryptocurrency. That would shut out Facebook’s Libra project — yet Facebook pushes other payment projects in India, and appears willing to leave India out of its cryptocurrency plans.
+
+Jeff Bezos, founder and chief executive officer of Amazon.com Inc., waves during the opening session of Amazon Sambhav event in New Delhi, India, on Wednesday, Jan. 15. Bloomberg News
+
+Amazon and Walmart did not return requests for comment, but it’s likely that they consider a partial welcome in India to be better than none at all. India’s mobile payments market is set to grow by several thousand percent over the next three years, and the country has an enticing mix of high cash reliance along with wide technology adoption.
+
+“The stakes are very high. If history is a guide for what will happen, it’s likely that there will be only one big winner,” said Rick Oglesby, president of AZ Payments Group.
+
+Walmart’s $16 billion acquisition of Indian e-commerce giant Flipkart gave Walmart an entry to not only process payments in India, but eventually offer other financial services. Amazon’s $1 billion investment in New Delhi followed earlier infusions of more than $5 billion.
+
+“Walmart and Amazon both want to be that winner, and the Indian government is likely to prefer a local provider and/or to have some influence over who wins,” Oglesby said.
+
+Both companies are dueling with local giant Paytm , which recently drew more than $2 billion in investment with a current valuation of $16 billion. Paytm is backed by several large Asian investors, including Softbank and Ant Financial, the operator of Alipay.
+
+Walmart, Amazon, Google, PayPal, Visa and Mastercard have all made substantial investments in India over the past two years. Mastercard has invested at least $2 billion in local payment technology, and operates local innovation hubs. Visa a few months ago entered into local partnerships to build small-business technology. PayPal at the beginning of January detailed plans to offer restaurant technology, and Google has made the most out of a link to India’s national UPI rail, adding tokenization and offering Google Pay support for transportation.
+
+Not everyone thinks India's stance is pressuring outside payment companies.
+
+“The regulatory climate in India is better than it has been at any given time over the past two decades,” said Brian DuCharme, vice president of product for Transaction Network Services, a Reston, Va.-based payment technology company.
+
+TNS this week launched Domestic Wireless Access, a product aimed at merchant acquirers and processors in India that wish to enable mobile and card payments. That follows TNS’ November release of its Secure Internet Gateway, which supports wireless point of sale hardware, in India.
+
+India’s more stringent regulations are mostly based on data sovereignty, which DeCharme contends is an attempt to minimize how multinational companies use payment data to drive revenue streams that may benefit parties outside of India.
+
+“There’s a huge effort to digitize the economy, and one way to do that is to issue payment cards,” he said. “And there’s also an effort to keep that data on soil.”
+
+By allowing foreign companies to process local payments, India is more open than China, which has for years teased openness to outside payment firms, only to pull back. China's more recent softening of its stance in the wake of U.S. trade negotiations has still drawn skepticism.
+
+India's local data storage rules have been criticized. Mastercard has lobbied against the rules, contending local data storage is less safe by hindering sharing among anti-fraud initiatives. The card brand has also argued requiring local data storage works against the international cooperation needed to drive cross-border e-commerce and innovation.
+
+Writing for PaymentsSource in July, Eric Grover, a principal at Intrepid Ventures, argued that India's policies appear to incentivize local or government-backed payment systems such as RuPay over outside companies, hindering competition.
+
+This week Grover said the antitrust probe into Walmart and Amazon also works against open competition among payment firms.
+
+“India is relatively open compared to China, though that’s not a high bar,” Grover said. “In the context of the Indian retail trade group’s accusation against Amazon and Flipkart, anti-competitive is a euphemism for being too competitive.”
+
+But as the world’s largest emerging payments market, India remains a huge opportunity, Grover said, adding firms like Mastercard, Visa and PayPal can’t afford not to invest there.

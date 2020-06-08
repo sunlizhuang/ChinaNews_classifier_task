@@ -1,0 +1,19 @@
+At least five law firms have been hit and held hostage by the Maze ransomware group in the last four days with these attacks being part of a wider campaign possibly affecting between 45 and 180 total victims in January.
+
+Maze is using a somewhat unique tactic with its latest victims. Instead of simply placing a ransom note on the infected system and waiting for payment, the gang places the company name on a website. If a payment is not forthcoming immediately it then places a small amount of the stolen data on the site as proof, reported Brett Callow, threat analyst with Emsisoft.
+
+If payment is received the name is removed. The websites are hosted by two Chinese companies, one a Singapore-based division of Alibaba and the other by Tencent, although there is no indication these entities are involved in the ransomware scheme.
+
+“Hackers claim to have stolen data from at least five law firms – three in the last 24 hours alone – and, in two of the cases, a portion of the stolen data has already been posted online. The data, which includes client information, has been published on the clear web where it can be accessed by anybody with an internet connection,” Callow told SC Media.
+
+Emsisoft has what it believes to be firm data that at least 45 companies were targeted by Maze in January, but Emsisoft believes this represents only about 25 percent of the total number of firms involved.
+
+“My concern, as usual, is disclosure,” Callow said discussing the chart below. “It’s submissions we’ve had for Maze (each one represents an actual incident) and we’d estimate it represents only about 25% of the total number. In other words, there’re a lot more submissions than there are companies listed on the website – which means they pay before being listed.”
+
+Source: Emsisoft
+
+The group has also placed the stolen content on dark forums with instructions telling malicious actors to “Use this information in any nefarious ways that you want.”
+
+Another differentiating factor is Maze attempts to fully monetize its criminal endeavor by demanding $1 million to decrypt the data and then another $1 million to delete the stolen information, although Callow noted “it seems highly unlikely that a criminal enterprise would actually delete that it may be able to monetize at a later date.”
+
+Maze has targeted several high-profile entities within the last few months, including Allied Universal, Southwire and the city of Pensacola. It also recently struck the Canadian firm Bird Construction, which holds several military contracts, and exposed some of the stolen data from Bird subcontractor Suncor and the PII on a few Bird employees, including names, home addresses, phone numbers, banking info., social insurance numbers, tax forms, health numbers, drug and alcohol test results.

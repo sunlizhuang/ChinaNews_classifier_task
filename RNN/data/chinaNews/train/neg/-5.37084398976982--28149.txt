@@ -1,0 +1,57 @@
+As the Wuhan coronavirus story unfolds, the most important thing for clinicians in the United States to do is ask patients who appear to have the flu if they, or someone they have been in contact with, recently returned from China, according to infectious disease experts.
+
+Medical staff in Wuhan railway station during the Wuhan coronavirus outbreak, Jan. 24, 2020.
+
+"We are asking that of everyone with fever and respiratory symptoms who comes to our clinics, hospital, or emergency room. It's a powerful screening tool," said William Schaffner, MD, professor of preventive medicine and infectious diseases at Vanderbilt University Medical Center, Nashville, Tenn.
+
+In addition to fever, common signs of infection include cough, shortness of breath, and breathing difficulties. Some patients have had diarrhea, vomiting, and other gastrointestinal symptoms. In more severe cases, infection can cause pneumonia, severe acute respiratory syndrome, kidney failure, and death. The incubation period appears to be up to 2 weeks, according to the World Health Organization (WHO).
+
+If patients exhibit symptoms and either they or a close contact has returned from China recently, take standard airborne precautions and send specimens — a serum sample, oral and nasal pharyngeal swabs, and lower respiratory tract specimens if available — to the local health department, which will forward them to the Centers for Disease Control and Prevention (CDC) for testing. Turnaround time is 24-48 hours.
+
+The 2019 Novel Coronavirus (2019-nCoV), identified as the cause of an outbreak of respiratory illness first detected in December in association with a live animal market in Wuhan, China, has been implicated in almost 2,000 cases and 56 deaths in that country. Cases have been reported in 13 countries besides China. Five cases of 2019-nCoV infection have been confirmed in the United States, all in people recently returned from Wuhan. As the virus spreads in China, however, it's almost certain more cases will show up in the United States. Travel history is key, Dr. Schaffner and others said.
+
+Plan and Rehearse
+
+The first step to prepare is to use the CDC's Interim Guidance for Healthcare Professionals to make a written plan specific to your practice to respond to a potential case. The plan must include notifying the local health department, the CDC liaison for testing, and tracking down patient contacts.
+
+"It's not good enough to just download CDC's guidance; use it to make your own local plan and know what to do 24/7," said Daniel Lucey, MD, an infectious disease expert at Georgetown University Medical Center, Washington, D.C.
+
+"Know who is on call at the health department on weekends and nights," he said. Know where the patient is going to be isolated; figure out what to do if there's more than one, and tests come back positive. Have masks on hand, and rehearse the response. "Make a coronavirus team, and absolutely have the nurses involved," as well as other providers who may come into contact with a case, he added.
+
+"You want to be able to do as well as your counterparts in Washington state and Chicago," where the first two U.S. cases emerged. "They were prepared. They knew what to do," Dr. Lucey said.
+
+Those first two U.S. patients — a man in Everett, Wash., and a Chicago woman — developed symptoms after returning from Wuhan, a city of 11 million just over 400 miles inland from the port city of Shanghai. On Jan. 26 three more cases were confirmed by the CDC, two in California and one in Arizona, and each had recently traveled to Wuhan. All five patients remain hospitalized, and there's no evidence they spread the infection further. There is also no evidence of human-to-human transmission of other cases exported from China to any other countries, according to the WHO.
+
+WHO declined to declare a global health emergency — a Public Health Emergency of International Concern, in its parlance — on Jan. 23. The step would have triggered travel and trade restrictions in member states, including the United States. For now, at least, the group said it wasn't warranted at this point.
+
+Fatality Rates
+
+The focus right now is China. The outbreak has spread beyond Wuhan to other parts of the country, and there's evidence of fourth-generation spread.
+
+Transportation into and out of Wuhan and other cities has been curtailed, Lunar New Year festivals have been canceled, and the Shanghai Disneyland has been closed, among other measures taken by Chinese officials.
+
+The government could be taking drastic measures in part to prevent the public criticism it took in the early 2000's for the delayed response and lack of transparency during the global outbreak of another wildlife market coronavirus epidemic, severe acute respiratory syndrome (SARS). In a press conference Jan. 22, WHO officials commended the government's containment efforts but did not say they recommended them.
+
+According to WHO, serious cases in China have mostly been in people over 40 years old with significant comorbidities and have skewed towards men. Spread seems to be limited to family members, health care providers, and other close contacts, probably by respiratory droplets. If that pattern holds, WHO officials said, the outbreak is containable.
+
+The fatality rate appears to be around 3%, a good deal lower than the 10% reported for SARS and much lower than the nearly 40% reported for Middle East respiratory syndrome (MERS), another recent coronavirus mutation from the animal trade.
+
+The Wuhan virus fatality rate might drop as milder cases are detected and added to the denominator. "It definitely appears to be less severe than SARS and MERS," said Amesh Adalja, MD, an infectious disease physician in Pittsburgh and emerging infectious disease researcher at Johns Hopkins University, Baltimore.
+
+SARS: Lessons Learned
+
+In general, the world is much better equipped for coronavirus outbreaks than when SARS, in particular, emerged in 2003.
+
+WHO officials in their press conference lauded China for it openness with the current outbreak, and for isolating and sequencing the virus immediately, which gave the world a diagnostic test in the first days of the outbreak, something that wasn't available for SARS. China and other countries also are cooperating and working closely to contain the Wuhan virus.
+
+"What we know today might change tomorrow, so we have to keep tuned in to new information, but we learned a lot from SARS," Dr. Shaffner said. Overall, it's likely "the impact on the United States of this new coronavirus is going to be trivial," he predicted.
+
+Dr. Lucey, however, recalled that the SARS outbreak in Toronto in 2003 started with one missed case. A woman returned asymptomatic from Hong Kong and spread the infection to her family members before she died. Her cause of death wasn't immediately recognized, nor was the reason her family members were sick, since they hadn't been to Hong Kong recently.
+
+The infection ultimately spread to more than 200 people, about half of them health care workers. A few people died.
+
+If a virus is sufficiently contagious, "it just takes one. You don't want to be the one who misses that first patient," Dr. Lucey said.
+
+Currently, there are no antivirals or vaccines for coronaviruses; researchers are working on both, but for now, care is supportive.
+
+This story originally appeared on MDedge.com

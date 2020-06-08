@@ -1,0 +1,67 @@
+News of an outbreak of a new coronavirus first identified in Wuhan, Hubei Province, China raises issues for employers and employees about the appropriate workplace responses.
+
+Reported cases are expanding quickly to other countries, including the U.S. The Centers for Disease Control and Prevention (CDC) maintains a list of locations with confirmed cases throughout the world. Both the CDC and the State Department have issued travel advisories, and the CDC asks everyone who traveled to Wuhan in the last 14 days and experiences symptoms to seek medical care immediately.
+
+Many employers are seeking guidance on how best to respond to workplace concerns, especially those with employees engaged in international travel, as well as employers in the healthcare, airline, and border protection industries.
+
+According to the CDC, the new coronavirus, named 2019-nCoV, is a respiratory illness and is related to, but not the same as, MERS and SARS, both coronaviruses. The CDC reports that some infected persons have shown no symptoms, but others have become severely ill and deaths have been reported. It is not yet clear how easily 2019-n-CoV spreads from person to person. The Occupational Safety and Health Administration (OSHA) reports, “Based on how other similar viruses spread, infected people may be able to spread the 2019-nCoV through their respiratory secretions, especially when they cough or sneeze. Previous outbreaks of coronavirus have been associated with spread from ill people to others through close contact, such as caring for or living with an infected person.”
+
+China authorities have reported spread of the virus from infected patients to healthcare workers. They also have reported that the virus may be transmitted before an individual shows symptoms. However, CDC officials advised in a briefing on January 27 that they have “no clear evidence” that people can transmit the virus before the onset of symptoms.
+
+On January 27, the Department of State issued a Level 3 Travel Advisory for all of China, recommending that individuals “reconsider travel.” It also issued a Level 4 Travel Advisory advising against travel to Hubei Province.
+
+The CDC has issued Warning Level 3 Alert advising against all nonessential travel to China. The Chinese authorities have suspended travel in the area around Wuhan and imposed strict travel restrictions.
+
+Employers should monitor closely these advisories and provide employees guidance if the advisories cover locations where employers have operations or locations where employees may travel.
+
+Limiting Risk of Exposure
+
+The CDC has issued guidance for preventing the spread of the virus in the community. It directs individuals confirmed to have 2019-nCoV, or who are being evaluated for infection, to remain isolated at home and not to go to work, school, or public areas. These individual also should not use public transportation or taxis until a healthcare provider or health department says they can return to their normal activities.
+
+Individuals who have had close contact, as defined by the CDC, with someone who is (1) confirmed to have the virus, or (2) is being evaluated for infection, are directed to monitor their health for 14 days and watch for symptoms, including fever, coughing, shortness of breath or difficult breathing, and other early symptoms (such as chills, body aces, sore throat, headache, diarrhea, nausea/vomiting, and runny nose). The CDC notes that fever will not necessarily be present for all infected individuals. The CDC advises that individuals with close contact with the virus, but who do not have any symptoms “can continue with [their] daily activities, such as going to work, school, or other public areas.” In other words, at this time, the CDC is not recommending that individuals who have had the above close contacts be quarantined and removed from work. However, some employers may voluntarily choose to impose “social distancing” policies, especially in work environments that can support remote work.
+
+In its guidance for healthcare professionals, the CDC describes the individuals who should be evaluated as a Patient Under Investigation (PUI) for 2019-nCoV. Individuals who have a fever and symptoms of lower respiratory illness and have traveled to Wuhan within 14 days before the symptoms began or had close contact with a person who is under investigation for infection while that person was sick should be evaluated as a PUI. Individuals with a fever or symptoms of lower respiratory illness and within the last 14 days had close contact with an ill patient with a laboratory-confirmed case of 2019-nCoV also should be evaluated as a PUI. On January 27, the CDC advised that these criteria are under continuous evaluation.
+
+Along with consulting CDC guidance on 2019-nCoV, OSHA directs employers to review existing resources on MERS for appropriate workplace precautions. OSHA provides guidance to prevent worker exposure to 2019-nCoV for these categories of workers: (1) all workers who may be exposed; (2) healthcare workers; (3) clinical laboratory workers; (4) airline workers; (5) border protection workers; and (6) waste management workers. For business travelers, OSHA directs employers to the CDC travel notices.
+
+Along with workplace safety and health issues, employers must consider other significant employment and labor law issues that will be raised by concerns about 2019-nCoV.
+
+Most employment laws were not written with an outbreak of a deadly virus in mind. Perhaps because of this, in dealing with these issues, employers may find there is no effective “risk-free” approach. Rather, employers may need to evaluate all options and adopt a “risk-management” mindset, choosing the business and legal strategy with which it is most comfortable.
+
+Below are some basic employment law considerations to keep in mind:
+
+The Americans with Disabilities Act (ADA), among others, prohibits employers from: (1) discriminating against individuals who have a disability, including those who are “regarded as” having a disability; and (2) making disability-related inquiries (DRIs) of employees or requiring employees to undergo medical examinations unless it is “job-related and consistent with business necessity.” The ADA also prohibits employers from disclosing confidential medical information, including the identity of an employee with a communicable disease. The law does not require an employer to employ an individual who presents a “direct threat” of harm. A “direct threat” is defined as a significant risk of substantial harm to an employee or others that cannot be eliminated or reduced by a reasonable accommodation. (Determination that an individual poses a “direct threat” is based on an individualized assessment of the individual’s present ability to safely perform the essential functions of the job that relies on the most current medical knowledge or on the best available objective evidence.) The law also does not require an employer to employ an individual who is unable to safely perform the essential functions of the position, with or without a reasonable accommodation. There are also analogous state laws prohibiting discrimination based on a disability.
+
+The Genetic Information Nondiscrimination Act (GINA) prohibits an employer from discriminating against individuals based on genetic information. GINA also strictly limits circumstances where employers may request an employee’s genetic information (which includes information about the manifestation of disease or disorder in the individual’s family members). GINA allows disclosure of genetic information “to a public health agency, if information about the manifestation of a disease or disorder concerns a contagious disease that presents an imminent hazard of death or life-threatening illness.”
+
+Section 7 of the National Labor Relations Act (NLRA) gives non-supervisory, non-managerial employees the right to engage in “protected concerted activity” for their own mutual aid or protection. Activity is “protected” if it is not violent or sufficiently opprobrious. Activity is “concerted” if it is taken by or on behalf of more than one employee and concerns the employees’ terms or conditions of employment, including safety and health. A refusal by some employees to work with an employee who traveled to the area or was exposed to the 2019-nCoV virus out of concern for their own safety may implicate Section 7.
+
+Federal, state, and local leave laws (such as the Family and Medical Leave Act, state family and medical leave laws, state and local paid sick leave laws) may allow employees to take time off for diagnosis and treatment of the employee’s medical condition or that of a family member.
+
+State medical privacy laws generally prohibit disclosure of personal health information. Some require notification to an employee if there has been an unauthorized access or acquisition of that employee’s medical information.
+
+Common law defamation or invasion of privacy claims may arise from identifying someone as having the 2019-nCoV virus when they do not.
+
+The Health Insurance Portability and Accountability Act (HIPAA) restricts whether and under what circumstances an individual’s “protected health information” (PHI) may be used and disclosed. Many of the state medical privacy laws and common law protections mentioned above also apply in this context.
+
+Accordingly, as HIPAA-covered entities prepare to safely treat or process claims for persons who have or may have 2019-nCoV, privacy needs to be considered and included as part of an organization’s protocols and the management of their workforce members. Potential steps to consider include:
+
+Remind workforce members that the covered entity’s use and disclosure of PHI for purposes of treatment and healthcare operations generally is permitted under HIPAA without the need for an authorization from the individual (e.g., patient and plan member).
+
+Implement a strategy for communicating with the media and public health agencies and develop guidelines for addressing disclosures made for public health and safety purposes. Educate workforce members on these strategies and guidelines if they will be involved in such communications.
+
+Handle carefully disclosures to spouses, family members, and close friends, which can be made under some circumstances without an authorization. Educate workforce members on the rules governing such disclosures to help facilitate communications.
+
+Remind workforce members that they may access PHI only as they have been authorized to do so to carry out their jobs. Snooping by hospital workers, plan administrators, or plan sponsors can be a significant problem for HIPAA-covered entities and their business associates. Not only will it affect the individual’s privacy, but leaked information can cause unnecessary fear in the community and displace resources.
+
+Remember that hospital workers who are patients of the hospital in which they work are patients and generally have the same privacy rights as other patients.
+
+Under HIPAA, more stringent state laws need to be considered. (Uses and disclosures permissible under HIPAA may not be permissible under state law.) These distinctions already should be integrated into the covered entity’s policies and procedures.
+
+Healthcare providers in different settings, such as universities where the Family Educational Rights and Privacy Act (FERPA) may apply, have additional considerations related to students.
+
+Experiences with other outbreak suggest that employers should adopt protocols to: 1) guide their responses to individuals who are seeking to return to work after traveling to and from affected regions; 2) manage the risks faced by employees traveling internationally; 3) respond to employees who express concerns related to their own business or personal travel; and 4) respond to employees who express concerns working with employees, customers, or others who have returned from overseas travel or are otherwise suspected of being infected with the 2019-nCoV virus.
+
+Some employee concerns will be reasonably based and consistent with guidance from the World Health Organization, CDC, and OSHA; other concerns may be driven by unfounded fear or speculation.
+
+Employers should continue to monitor the information and recommendations from the CDC, OSHA, the State Department, along with information from other federal, state, and local government agencies involved in the response.

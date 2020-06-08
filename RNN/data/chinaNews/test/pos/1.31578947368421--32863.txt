@@ -1,0 +1,31 @@
+The UK has rebuffed US attempts to have Huawei banned from British 5G mobile network rollouts, deciding instead to allow "high risk" telecoms equipment vendors such as Huawei to take up to 35pc of network configurations.
+
+The move will be seen as a major blow to US president Donald Trump's broader attempts to put further pressure on China in the ongoing trade war between the two superpowers.
+
+In a controversial decision on the eve of Brexit, Johnson ruled that while "high-risk vendors" would be allowed into the non-sensitive parts of the 5G network, they will be excluded from the sensitive core, where data is processed, and they will be banned from all critical networks and locations such as nuclear sites and military bases.
+
+The United States had repeatedly warned London against allowing Huawei into 5G, arguing that the distinction between "edge" and "core" will blur as data is processed throughout 5G networks, making it difficult to contain any security risks.
+
+But Huawei, which employs 300 people in Ireland and is used in of Eir's 5G network here, welcomed the move.
+
+"This evidence-based decision will result in a more advanced, more secure and more cost-effective telecoms infrastructure that's fit for the future," Huawei's vice president Victor Zhang told reporters.
+
+Huawei, the world's biggest producer of telecoms equipment, has said the United States wants to frustrate its growth because no US company could offer the same range of technology at a competitive price.
+
+5G, which will offer much faster data speeds and become the foundation stone of many industries and networks, is seen as one of the biggest innovations since the birth of the internet itself a generation ago.
+
+In what some have compared to the Cold War antagonism with the Soviet Union, the United States is worried that 5G dominance is a milestone towards Chinese technological supremacy that could define the geopolitics of the 21st century.
+
+But as one of the biggest centres for Chinese investment, trading and banking in Europe, Britain sided with Beijing - one of the biggest public breaks with Washington in decades.
+
+"There is no safe option for untrusted vendors to control any part of a 5G network," a Trump administration official said.
+
+"We look forward to working with the UK on a way forward that results in the exclusion of untrusted vendor components from 5G networks."
+
+Eir CEO Carolan Lennon yesterday backed Huawei as an equipment supplier to its 5G mobile network, the biggest in the country.
+
+"I find that hard to accept that it's not to do with the China-US trade issue," she said.
+
+"We're not concerned, we're very happy with them. Most of the telcos in Europe are using them."
+
+Irish Independent

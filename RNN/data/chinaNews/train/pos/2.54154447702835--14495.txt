@@ -1,0 +1,43 @@
+Presently, China is the workshop of the world and a country that simply produces automobiles instead automotive powerhouse because it still relies on Western, Japanese and South Korean technologies and processes. However, the goal of 13th Five Year Plan and “Made in China 2025” is to turn China from the world’s factory into a manufacturing powerhouse. With this in mind, what framework and direction can “Industry 4.0” provide for the transformation and improvement of the auto industry? What are the differences between Chinese and foreign views towards the development of “Industry 4.0”?
+
+In the afternoon on June 9, 2015, five professionals—Zhaoying , the Professor of Institution of Industrial Economics, Chinese Academy of Social Sciences; Sebastian Bersch, General Manager of Siemens IBS China; Hu Zhaohui, Assistant for Vice President of CHANGAN Auto, Head of Centre for Innovation Management and IT; Christoph Rieger, Manager of Assemble Technical Sales and Production of Bosch Rexroth China; Peter Rohde -Chen, Head of Business Development and Presales Freudenberg IT Asia—had in-depth discussions on the topic in a plenary session entitled “From Workshop of the World to Manufacturing Powerhouse.”
+
+First, Industry 4.0 requires intelligent equipment.
+
+The fourth stage of the industrial revolution is ongoing. While the first two industrial revolutions focused on power and electrification, the fourth industrial revolution has added IT applications and other new technologies.
+
+Sebastian Bersch, General Manager of Siemens IBS China pointed out that the first steps of Industry 4.0 include the development of intelligent equipment and the development of intelligent human resources and production processes.
+
+As Sebastian Bersch said, “Equipment intellectualization can help us know what we want to produce during the production process instead of predefining the production. We expect to have more flexibility in production as does China’s largest automobile company.”
+
+The essence of industry 4.0 is customer-centered.
+
+The global industrial community has entered into Industry 4.0, led by German industry. “Made In China 2025” has been released as national strategy for the development of Industry 4.0 in China. The government points to three key steps that can help transition China from a producer to a powerhouse. Meanwhile, the micro-increase of the global market has become normal.
+
+In terms of IT, Hu Zhaohui, President Assistant and Minister of Managing Innovation and IT center of Changan Group, discussed development of new technologies such as cloud computing, big data, 3D printing and mobile internet, 4G and 5G communication technology, and more. The automobile is not just a traditional product but an intellectual craft. Second, the value chain will be affected, with marketing, manufacturing, supply chain and R&D directly impacted through developments in IT. There has been a major change from product-centered to customer-centered, and the production chain has been diversified and extended from single product mode to service and product mode.
+
+Anyway, as a typical manufacturing industry, it is an only route for auto industry to transform, upgrade and implement industry 4.0. The essence of industry 4.0 is customer-centered.
+
+Industry 4.0 is at the Intersection of IT and Industry
+
+In the view of Christoph Rieger, Sales Manager of BOSCH, Industry 4.0 is the perfect intersection of IT and Industry. Automation is the foundation of Industry 4.0. He gives the following as an example: “BOSCH has replaced the production line of three factories. Through the 200 workbench, over 2000 components can be produced. There are nine work stations, each one equipped with a small controller and RFID technology which reveals all the information of the work to be done for every worker. Each of them knows what to do next. Though different workers have different capability and languages, as they enter into the production line, they can be identified automatically by adjusting the language and capability system.”
+
+Automated production and the application of technology have significantly improved the production line, with a 10% increase in the production rate and 30% decrease in waste.
+
+All in all, the application of Industry 4.0 will bring increased production, efficiency, and quality. However, the products of BOSCH have already become a part of Industry 4.0, which represents the connective, touchable, and open standard for technology.
+
+Disparity in the equipment level, the biggest challenge post to China
+
+Industry 4.0 is a practical plan promoted by both government and enterprises. It did not take place by chance. It reflects the strategy of the large and powerful manufacturing country as well as the trends of industrial development and upgrade. The Industry 4.0 is an indispensable part of the industrial restructuring. It will be a major upgrade for developed and emerging countries and should have a profound impact on the industrial chain, division of labor and competition globally.
+
+“Industry 4.0 is not only a revolution in productivity, but also in the mode of production.” said Zhao Ying, Director of the Industrial Development Office of Industry Economic Research Institute of China Academy of Social Science. The core of Industry 4.0 is its applicability and capacity to connect all product equipment, resources and management in the value chain. It will exploit the added value from data and enhance the production procedure to finalize the maximization of customer and manufacturer value. Industry 4.0 offers the potential to transform China’s auto industry into an industrial power. The main challenge in embracing the Industry 4.0 is the huge disparity between China’s industrial equipment level and the international standard.
+
+Data sharing is essential to vertical integration
+
+According to Peter Rohde-Chen, Director of the Business Development Department of The Freudenberg Group, the auto industry needs data sharing to spark vertical integration. Data sharing is the communication among machines. Production enforcement systems also need data sharing. The series of integrations by Freudenberg group has advanced the development of auto industry by perfectly combining the ERP with purchasing, sales, the control department and the financial department.
+
+Peter Rohde-Chen also said, “Vertical integration can maximize the service. For example, the connection of an ERP system can make the purchasing process automatic. Therefore, the supplier can provide the goods in time to benefit your production plan.”
+
+In Industry 4.0, the integration and sharing of data can provide an automatic evaluation of the whole production process, information collection and analysis, and can decrease the fault time through predicted maintenance and increased production efficiency.
+
+-Published on pages#22-23 July-2015 edition MOBILE WORLD Magazine

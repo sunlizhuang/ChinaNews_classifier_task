@@ -1,0 +1,45 @@
+
+
+
+
+by CP Staff February 10, 2020by CP Staff
+
+Four members of the Chinese military are facing charges for allegedly breaking into Equifax Inc. systems in 2017 and stealing data connected with Canadians, the U.S. Department of Justice revealed Monday.
+
+An indictment filed by the department says the breach of the Atlanta-based credit monitoring company’s system compromised a “colossal repository of sensitive personally identifiable information.”
+
+The breach affected the accounts of at least 19,000 Canadians, hundreds of thousands of Britons and 145 million Americans. The hacked information included names, addresses, social insurance and credit card numbers, usernames, passwords and secret question and answer data.
+
+The four Beijing residents that the indictment alleges were involved in the hacking — Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei — are facing charges of computer fraud, economic espionage and conspiracy to commit wire fraud.
+
+The indictment says that over several weeks the group used a software vulnerability and encrypted communication channels to carry out the breach. They allegedly made use of 34 servers located in nearly 20 countries and wiped log files on a daily basis to reduce the likelihood that they would be caught.
+
+“To further disguise their infrastructure, the conspirators obtained access to the servers located outside of China from reseller hosting services, who pursue remote computing services from other providers and then lease those remote compute services to others,” the indictment alleges.
+
+“The conspirators attempted to disguise their unauthorized access to Equifax’s online dispute portal by using existing encrypted communication channels within Equifax’s network to send queries and commands, which allowed them to blend in with normal network activity.”
+
+Equifax, the documents said, did not notice the hackers’ activity for more than six weeks.
+
+The document also accuses the men of stealing trade secrets from the company.
+
+Equifax reached a US$700 million settlement last year with the U.S. government over the data breach, earmarking most of the funds for consumers impacted by the incident.
+
+Meanwhile, the Canadian privacy commissioner’s office released an investigation last year that found Equifax had poor security safeguards, was retaining information too long, had a lack of accountability for Canadians’ information and offered limited protection measures offered to affected individuals after the breach.
+
+Asked by The Canadian Press on Feb. 10 about potential moves the federal government’s public safety ministry and privacy commissioner will make given the new developments, neither outlined any action.
+
+They instead discussed investments in cybersecurity and previous investigations into the incident.
+
+The RCMP said it is maintaining “situational awareness of this investigation and (is) prepared to assist upon request” with an ongoing investigation from the Federal Bureau of Investigation in the U.S. or other international law enforcement partners.
+
+Charles Finlay, the executive director of the Rogers Cybersecure Catalyst organization at Ryerson University in Toronto, called the U.S.’s handling of the situation “aggressive,” but said he didn’t expect the Canadian government to follow suit.
+
+“My suspicion is that the Canadian government will likely wait to se how the U.S. proceedings go,” he said. “The Equifax breach was much much larger in the U.S. than it was in Canada.”
+
+The case is particularly important, he said, because the hackers gained a great deal of information about potential targets and can access more information by leveraging that stolen data. The situation is even more serious because it can involve a state trying to advance their national security interest, he added.
+
+Finlay doesn’t think those whose information was exposed can be “made whole again,” so he said action like the U.S. is taking is warranted.
+
+“And I think we can expect to see more of this,” he said. “It’s not a game. People’s lives are at a stake and we are now beginning to see governments operate in that way.”
+
+— With files from The Associated Press.

@@ -1,0 +1,29 @@
+Total funding to companies involved in providing artificial intelligence (AI) services to the pharmaceutical industry was down by 23% from 2018 to 2019, according to research by Signify Research​.
+
+In 2018, venture capital funding to the sector totaled $1.7bn (€1.5bn) but this fell to approximately $1.3bn in 2019. At the same time, the number of startups being created also reduced, with only four new companies created against a high of 28 in 2017.
+
+Author of the report, Ulrik Kristensen, senior market analyst at Signify Research, suggested reasons for the drop in investment: “Ambitions and expectations have been sky-high for AI use in this sector, but some investors may now start to wonder if they had been too bullish and if the technology is ever going to deliver what has been promised.”​
+
+He added, “Investors, as well as potential new pharma partners, are waiting to see more evidence and proof of concept to demonstrate the functionality and value of these AI solutions.”​
+
+However, despite a drop off in funding interest last year, the potential of the technology is still widely accepted, with a DIA study​, in partnership with Tufts Center for the Study of Drug Development, suggesting that the prospect of AI to reduce drug development time has the industry excited.
+
+As such, the report found that 59% of industry respondents plans to increase the number of AI-focused staff and a further 62% stating that their company is currently partnered with an organization to implement AI.
+
+This is born out in the number of new partnership deals that emerged last year, such as Novo Nordisk’s with e-therapeutics​ and Insilico Medicine’s $200m deal with Jiangsu Chia Tai Fenghai Pharmaceutical​.
+
+With the potential to reduce time on drug development comes with it the potential to save on the billions it is estimated to cost​ to bring a drug through development to commercialization.
+
+As a result, Signify Research’s report noted that though the number of deals across medical imaging (231) and drug development (303) are similar, the financial scale of the deals in the latter category were 3.5 times bigger.
+
+The main players​
+
+Despite being an area with a huge amount of expectation behind it, the geographic spread of the countries involved with leading companies and fund raising was found to be fairly limited.
+
+The three biggest countries by capital raised were the US, UK, and China – each being some distance away from the next closest country and with the US being far ahead of its two rivals.
+
+In total, US AI startups have received $4.1bn in total, with 99 startups being founded that achieved 208 financing deals between them.
+
+By comparison, UK companies only raised $571m through 22 companies and with a total of 51 deals. Chinese secured funding of $272m, but with a far more impressive average funding of $68m per company as the report only sourced four AI startups.
+
+Outside of this top tier, Singapore and Canada were the two closest countries, managing $52m and $45m in funding, respectively.

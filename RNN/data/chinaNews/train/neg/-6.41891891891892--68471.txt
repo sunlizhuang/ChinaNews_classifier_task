@@ -1,0 +1,41 @@
+Data breaches are among the biggest issues of our time, and the US major credit reporting agency Equifax hosted one of the biggest ever, when 44% of Americans—or a total of 147.9 million people--had their personal information revealed. Monday was a day of partial closure on this incident, with the U.S. Justice Department charging four members of the Chinese People’s Liberation Army with the breach, and momentarily taking the heat off Equifax and placing it on national security.
+
+U.S. Attorney General William Barr called the alleged hack “an organized and remarkably brazen criminal heist of sensitive information of nearly half of all Americans.”
+
+Separately, FBI officials said that there is no evidence that the data stolen has been used.
+
+According to the charges, the men ran roughly 9,000 queries on Equifax’s system to steal the data and then covered their tracks by routing traffic through over 30 servers in almost 20 countries.
+
+The four defendants, Wu Zhiyong, Wang Qian, Xu Ke and Liu Lei, were members of the PLA’s 54th Research Institute, a component of the Chinese military.
+
+“In short, this was an organized and remarkably brazen criminal heist of sensitive information of nearly half of all Americans, as well as the hard work and intellectual property of an American company, by a unit of the Chinese military,” Barr said in announcing the charges.
+
+China’s government denied being involved in the hacking incident, with Chinese foreign ministry spokesman Geng Shuang saying that the country’s institutions “never engage in cybertheft of trade secrets”.
+
+Still, the Equifax hack marks Washington’s latest clash with Beijing over the alleged cyber espionage.
+
+Chinese hackers have also been accused of infiltrating computers of steel manufacturers, healthcare institutions, a Marriott hotel chain and the U.S. Office of Personnel Management.
+
+Last July, Equifax agreed to pay up to $700 million to resolve U.S. federal and state investigations into the 2017 hack. Some $275 million is to be divided between 50 US states and territories and a penalty paid to the Consumer Financial Protection Bureau.
+
+It’s not a huge victory for affected users. Equifax was only ordered to pay up to $425 million to compensate consumers. That works out to a whopping $3 per affected individual, approximately.
+
+Related: Is A New Housing Bubble Forming?
+
+The final deadline for the victims to file a claim as part of the settlement was January 22nd, so the individual credit depends on the number of people that filed for the compensation. And with $3 at stake, it’s not likely to result in a rush of late-filed complaints.
+
+The compensation amount is much smaller than even the victims of Yahoo breach received. In that case, they were able to $375 at most, and $125 at least, depending on documented losses related to the breach.
+
+Yahoo has made the major hacking news twice in the past decade. First, in 2013, three billion accounts were compromised; in other words, the entire Yahoo! portfolio of emails at the time. Then, in 2014, 500 million accounts were hacked.
+
+Two massive data breaches undisclosed for some three years and affecting 3.5 billion users cost Yahoo $50 million in settlement damages.
+
+Target also was the focus of a massive cyberattack in 2013, right before the Christmas holiday, when hackers accessed the personal information of 70 million people. Targeting agreed in 2015 to pay the victims up to $10 million collectively.
+
+In 2018, Latvian hacker linked to Target breaches was sentenced to 14 years in prison.
+
+As for Yahoo’s data breach, the US authorities are pointing at Russia. China certainly doesn’t have the market cornered on international high-profile hacking.
+
+By Fred Dunkley for Safehaven.com
+
+More Top Reads From Safehaven.com:

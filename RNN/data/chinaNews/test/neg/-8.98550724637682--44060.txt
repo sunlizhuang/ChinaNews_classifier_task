@@ -1,0 +1,41 @@
+San Francisco: Facebook Inc said it will take down misinformation about China’s fast-spreading coronavirus, in a rare departure from its usual approach to dubious health content that is presenting a fresh challenge for social media companies.
+
+The coronavirus outbreak has stoked a wave of anti-China sentiment around the globe. Hoaxes have spread widely online, promoted by conspiracy theorists and exacerbated by a dearth of information from the cordoned-off zone around China’s central city of Wuhan, where the outbreak began.
+
+Nearly 12,000 people have been infected in China, according to local health authorities, and more than 130 cases reported in at least 25 other countries and regions.
+
+Facebook said in a blog post that it would remove content about the virus “with false claims or conspiracy theories that have been flagged by leading global health organizations and local health authorities,” saying such content would violate its ban on misinformation leading to “physical harm”.
+
+The move is unusually aggressive for the world’s biggest social network, which generally limits the distribution of content containing health misinformation to its 2.9 billion monthly users through restrictions on search results and advertising, but allows the original posts to stay up.
+
+It also puts it at odds with other major US-based social networks. Alphabet Inc’s YouTube, which has 2 billion monthly users and Twitter and Reddit, which have hundreds of millions of users, confirmed they do not consider inaccurate information about health to be a violation of their policies.
+
+Those companies, like Facebook in other cases, rely on techniques such as elevating medical information from authoritative public health sources and warning users about content that has been debunked.
+
+TikTok, owned by China’s Bytedance, and Pinterest Inc do ban health misinformation and are actively removing false coronavirus content, they told Reuters.
+
+Fake news, physical harm
+
+Fact-checking initiative PolitiFact said misinformation about the virus online included hoaxes about its source, its spread, and how to treat it, as well as false conspiracies about its connection to biological warfare and the Chinese government.
+
+Rumors about the coronavirus have also spread widely on Chinese social networks, which are usually quick to remove sensitive content but have in recent days allowed an unusual level of public criticism over the government’s handling of the crisis.
+
+Information in China is tightly controlled, and Chinese laws dictate that rumor-mongers can face years in prison. In the early days of the outbreak, Chinese state media reported that police in Wuhan had detained eight people for spreading rumors about a “local outbreak of unidentifiable pneumonia.”
+
+Suspicion also lingers over accusations that Beijing initially covered up the 2003 Severe Acute Respiratory Syndrome (SARS) outbreak.
+
+A spokeswoman for Tencent Holdings Inc’s Chinese messaging app WeChat, which has 1.15 billion monthly users, told Reuters the company was removing posts containing coronavirus-related misinformation.
+
+The US tech industry’s mostly hands-off approach has angered critics who say social media companies have failed to curb the spread of medical inaccuracies that pose major global health threats.
+
+In particular, misinformation about vaccination has proliferated on social media in many countries in recent years, including during major vaccination campaigns to prevent polio in Pakistan and to immunize against yellow fever in South America.
+
+Facebook, under fierce scrutiny worldwide in recent years over its privacy and content practices, has previously removed vaccine misinformation in Samoa, where a measles outbreak killed dozens late last year.
+
+The spread of illness there was so severe that the company classified anti-vaccination content a risk of physical harm, a spokeswoman told Reuters, calling the move an “extreme action”.
+
+The coronavirus and Samoa decisions indicate Facebook is expanding its definition of “physical harm” to include misinformation contributing to the rapid spread of illness.
+
+The company did not say whether it had acted in a similar way in other cases.
+
+It removed misinformation about polio vaccines in Pakistan, but the imminent harm, in that case, involved risks of violence against the health workers carrying out the immunization campaigns, the spokeswoman said.

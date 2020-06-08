@@ -1,0 +1,121 @@
+Public health experts around the globe are scrambling to understand, track, and contain a new virus that appeared in Wuhan, China, at the beginning of December 2019. The World Health Organization named the disease caused by the virus COVID-19, which references the type of virus and the year it emerged.
+
+You can see where and how many cases of the illness have been reported in this map. So far, there have been over 102,000 confirmed cases and 3,491 deaths. Over 57,000 people have recovered from the illness. The vast majority of the illnesses are still in China, but the rate of new cases there has slowed. The majority of new cases are appearing in other countries outside of China, and there are large outbreaks of the disease in South Korea, Italy, Iran, and Japan. There are over 300 people with confirmed cases of COVID-19 and 14 deaths in the US.
+
+As this important story continues to unfold, The Verge will update this page with all the latest news and analysis. Our hope is to answer all of your questions as people work to understand this virus and contain its spread.
+
+Table of contents
+
+Where did the virus come from?
+
+At the end of December, public health officials from China informed the World Health Organization that they had a problem: an unknown, new virus was causing pneumonia-like illness in the city of Wuhan. They quickly determined that it was a coronavirus and that it was rapidly spreading through and outside of Wuhan.
+
+Coronaviruses are common in animals of all kinds, and they sometimes can evolve into forms that can infect humans. Since the start of the century, two other coronaviruses have jumped to humans, causing the SARS outbreak in 2002 and the MERS outbreak in 2012.
+
+Scientists think this new virus first became capable of jumping to humans at the beginning of December. It originally seemed like the virus first infected people at a seafood market in Wuhan and spread from there. But one analysis of early cases of the illness, published January 24th, found that the first patient to get sick did not have any contact with the market. Experts are still trying to trace the outbreak back to its source.
+
+The type of animal the virus originated from is not clear, although one analysis found that the genetic sequence of the new virus is 96 percent identical to one coronavirus found in bats. Both SARS and MERS originated in bats.
+
+So is this the same as SARS?
+
+The new virus isn’t SARS, although that also began in China. Because it comes from the same viral family as SARS, it has some similarities, but it’s an entirely new virus. However, the commonalities mean scientists and public health officials can use what they’ve learned from the past outbreak to try to stop this one.
+
+China lied to the WHO about SARS. Is it lying about this, too?
+
+During the SARS outbreak, Chinese officials attempted to conceal cases from WHO inspectors and limit information, both internally and externally. This time, officials quickly reported the outbreak of the new virus to the WHO, which praised their quick response and transparency in a press conference. China is also allowing a team of WHO experts to assist Chinese public health officials with the ongoing work, the organization announced January 28th.
+
+The US Department of Health and Human Services also said China has been more transparent than they were with SARS. “The Chinese government’s level of cooperation is completely different from what we experienced in 2003,” said department Secretary Alex Azar during a press conference.
+
+But critics and Chinese citizens were skeptical: there were early concerns that Chinese officials were undercounting the number of illnesses and are classifying deaths that might have been from the virus as being from pneumonia. Wuhan police also investigated citizens for spreading what it called rumors online at the start of the outbreak.
+
+(It’s important to note that China isn’t the only country known for concealing the extent of public health problems. In the US, for example, dozens of cities have concealed the amount of lead in their public water supply.)
+
+How dangerous is this new virus?
+
+Right now, it’s hard to say for sure.
+
+It takes information about both how severe an illness is and how easily it can spread to determine how “bad” it can be. Epidemiologists often use this tool to assess new strains of the flu, for example, to guide decision-making:
+
+If an illness isn’t very severe (and kills only a small percentage of people), but it’s highly transmissible, it can still cause devastating effects — if something affects millions, the small percentage it kills will still be a high number of fatalities.
+
+The WHO named the illness caused by the coronavirus COVID-19 — “co” and “vi” for coronavirus, “d” for disease, and “19” for the year when the disease emerged.
+
+The symptoms of COVID-19, which have ranged from mild, like those in a cold, to severe. Around 80 percent of confirmed cases are mild. That’s 80 percent of the cases that we know about. It’s still possible that there are many more mild cases of the illness that haven’t been flagged, which would shrink the percentage of cases that are severe. About 5 percent of cases are critical, and it appears around half of the people with critical cases of the illness die from it.
+
+So far, the fatality rate for the new illness is around 1 or 2 percent, though it’s too early to say for sure, and that could change as the outbreak progresses. The fatality rate for SARS was about 14 to 15 percent. Most deaths in this outbreak have been in older people and those who have underlying health issues, like heart disease, hypertension, and diabetes. In that group, the fatality rate for the new coronavirus is much higher: it’s around 14 percent for people over the age of 80, for example.
+
+How fast is the virus spreading?
+
+The virus is moving rapidly around the world. In China, sick people have been infecting others through person-to-person transmission since the start of January. The new coronavirus spread quickly in the contained environment on the cruise ship the Diamond Princess. Clusters of high numbers of cases have appeared in Italy, Iran and South Korea, and it’s possible that many more cases outside of China haven’t been detected. Experts say that it may not be possible to contain a wider spread of the virus.
+
+Early evidence suggested that, like other coronaviruses, the virus jumps between people who are in very close contact with each other, and probably spreads when an infected person sneezes or coughs.
+
+Chinese officials have said that they have seen cases where people with the virus infected others before they start showing symptoms, but there isn’t detailed evidence to say if or how much that is happening. Research out of China showed that people without symptoms still have high levels of the virus in their throats and noses, meaning they may be passing it along if they cough or sneeze. A family in Anyang, China, also appeared to be sickened by an asymptomatic family member, reported a study in JAMA.
+
+If that’s happening regularly, containing the spread of the virus will be more complicated. And even if it is happening, evidence shows that it’s probably not significantly affecting the outbreak, said Maria Van Kerkhove, manager in the Emerging and Re-Emerging Diseases Unit at the WHO, in a press conference. “Asymptomatic transmission is not a major driver of transmission,” she said.
+
+Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, said the same in a press conference. “Even if there is some asymptomatic transmission, in all the history of respiratory borne illness, asymptomatic transmission has never been the driver of outbreaks,” he said. “An epidemic is not driven by asymptomatic carriers.”
+
+The WHO says that researchers think each sick person will go on to infect, on average, between 1.4 and 2.5 additional people, though that’s only a preliminary estimate. Other teams of researchers have published their own estimates, with most saying a sick person will infect an average of around two or three people.
+
+Those numbers are called the virus’s R0 (pronounced “R-naught”). The R0 is the mathematical representation of how well an infection might be able to spread. The higher the number, the more potentially spreadable it can be. For comparison, the R0 for SARS was between two and five. But that doesn’t mean each sick person will actually infect that many people; quarantines and other actions taken to control outbreaks of a virus can bring down the number of people a sick person infects.
+
+Can we treat this virus?
+
+There aren’t any proven treatments for COVID-19, but there are dozens of studies underway to try and find some. One leading candidate is remdesivir, an antiviral medication originally developed to treat Ebola. There are clinical trials testing it in patients in China and in the US.
+
+Research teams and pharmaceutical companies are also working to develop a vaccine that can protect people from infection. However, vaccine development takes a long time. Even if everything goes smoothly, it will be around a year to 18 months before one is available, said Anthony Fauci, the director of the National Institute of Allergy and Infectious Diseases.
+
+How can I protect myself?
+
+Based on what we know so far, you can protect yourself with the same measures you’d take (and should be taking) to protect yourself against the flu: wash your hands, cover your mouth when you cough, and stay away from people who are sick. Stay home from work or school if you’re feeling sick. It’s totally normal to feel anxious, and there are ways to reduce that anxiety, like by distracting yourself with other activities or keeping the risks in perspective.
+
+If you live in the US, it’s still more likely that you have the flu or the common cold. It’s still flu season, and high levels of flu activity aren’t expected to die down anytime soon. (It’s not too late to get a flu shot!)
+
+Call your doctor if you live in the US and have a fever, a dry cough, have recently been in China, Iran, Italy, Japan, or South Korea, have been in contact with someone who has been to one of those places, or been in contact with someone who has a confirmed case of COVID-19.
+
+Should I cancel my vacation to Asia?
+
+The US State Department raised the travel advisory for China to a level 4, saying Americans shouldn’t travel to China because of the virus. Level 4 is the most severe warning issued. It applies only to areas with a “greater likelihood of life-threatening risks.” US citizens currently in China should “consider departing using commercial means,” the alert said.
+
+The CDC issued a level 1 travel advisory for Hong Kong, saying that anyone traveling there should take precautions by washing their hands and avoiding sick people. It’s issued level 2 travel advisories for Japan, saying that people who might be at higher risk from the virus — older adults and people with chronic health issues — should not travel there unless absolutely necessary. There are level 3 travel advisories for China, Iran, Italy and South Korea, and the CDC recommends people avoid non-essential travel to those countries.
+
+Many countries have travel restrictions in place and are placing travelers in quarantine if they’re suspected of having the disease or if they’ve been somewhere it’s spreading widely. Anyone taking a trip should prepare for their plans to be disrupted if the situation changes.
+
+How is China trying to stop the virus?
+
+China took aggressive action at the start of the outbreak, shutting down transportation in Wuhan — home to over 11 million people — and cancelling flights and trains in and out of the city. Dozens of other cities were placed under effective quarantine to try and slow the spread of the virus into other countries, and many canceled celebrations for the Lunar New Year, a huge holiday in China.
+
+Wow this is like the Western world cancelling Christmas. For many migrant workers this is their ONLY holiday off all year, and the only time they see their families back in distant villages. https://t.co/mxJ6oDEcn8 — Mei Fong/ 方凤美 (@meifongwriter) January 23, 2020
+
+China also suspended public gatherings, isolated sick people and aggressively tracked their contacts, and had a dedicated network of hospitals to test for the virus.
+
+The number of new infections reported in China has been declining, which indicated to WHO officials that transmission was slowing down — and that their containment measures were working.
+
+How at risk is the United States?
+
+It’s hard to say how significant of an effect it could have in the United States, but the virus is spreading through the country. The CDC is using its guidelines for pandemic influenza as a starting point for preparations. People in the US should prepare for disruptions to everyday life, said Nancy Messonnier, director of the National Center for Immunization and Respiratory Diseases at the CDC, during a press call.
+
+There are over 300 confirmed cases of the virus in the US, which includes people who were diagnosed with COVID-19. after being evacuated by the US State Department from Wuhan and the Diamond Princess cruise ship and placed under quarantine in the US. Fourteen people in the United States have died of the virus, and there is an ongoing outbreak at a nursing home in Washington state.
+
+There are cases in states including California, New York, Washington, Oregon, and Florida in people who did not have contact with a person known to be infected with COVID-19. The source of those illnesses is unknown, and it may mean the virus is spreading through communities in the United States. The virus may have been spreading in Washington for weeks.
+
+In response, the CDC guidelines originally did not allow testing unless a sick person had been in a country with ongoing spread of the virus or who had been in contact with someone with a confirmed case of the disease could be tested, which delayed diagnosis of patients who did not have those risk factors. They’ve since updated the guidance to say that doctor’s can use their best judgement based on a patient’s symptoms and location to decide if they should be tested. In the US, though, there are still a limited number of tests available.
+
+The CDC also says that it plans to do more widespread surveillance for the virus to see if there are cases it is missing, but problems with testing kits slowed its start. Ramping that up is important because other countries are looking more aggressively for cases — and finding them.
+
+Growth in case counts in S Korea, Italy, Iran reflects testing strategy, in part. They are looking more so they are finding more. This is why expanding diagnostic capacity in the US is so urgent. We aren’t doing enough surveillance to understand when/if/how much community spread. — Caitlin Rivers (@cmyeaton) February 26, 2020
+
+US Secretary of Health and Human Services Alex Azar declared a public health emergency in response to the coronavirus at the end of January/ All flights from China to the US are being diverted to seven airports, and any US citizen who has traveled to China will be asked to self-quarantine for 14 days. Any US citizen who has been in the Hubei province (where Wuhan is and where the virus originated) will be held under a formal quarantine for 14 days.
+
+In addition, any foreign national who has traveled to China in the past 14 days will not be allowed to enter the US, unless they have immediate family members there, according to a proclamation from President Trump. That decision is not supported by the WHO, which said countries should not restrict travel or trade in their response to the virus.
+
+Trump announced new travel restrictions on Iran at the start of March. Foreign nationals who have traveled to Iran in the past 14 days will not be allowed to enter the US.
+
+How is the virus affecting businesses that operate in China?
+
+A number of airlines, including United Airlines, British Airways, and Air Canada, are canceling some or all flights to and from China. United Airlines said their decision to do so was due to a drop in demand for those flights.
+
+Tech companies like Apple started limiting employee travel to China even before the US State Department and CDC warned people against traveling there. South Korea’s LG banned travel to China completely, and both Facebook and Razer told employees who had recently returned from China to work from home.
+
+Foxconn, the Taiwanese electronics company that has factories in China and makes products for tech companies like Apple, said the virus won’t impact their production. But China officially extended the Lunar New Year holiday in an effort to curb the virus’ spread, which could delay normal production schedules. In a recent earnings call, Apple says it’s accounted for this uncertainty as it looks ahead to the next quarter.

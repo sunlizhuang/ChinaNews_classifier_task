@@ -1,0 +1,63 @@
+January 31, 2020 — One of the first imaging studies on the coronavirus (2019-nCoV) was published online today as radiologists scramble to find out how the virus presents in medical imaging. In just 30 days after the virus first appeared in China, it has spread to more than 8,200 confirmed cases and more than 170 deaths. Cases are now being reported in several countries, including the United States and Canada.
+
+To address radiology concerns as the coronavirus continues to spread, the Radiological Society of North America (RSNA) has published new research on the virus in its journal Radiology.[1] It was was published in the “Images in Radiology” series. It is a case study from China that explains computed tomography (CT) imaging of the 2019 novel coronavirus pneumonia from a 33-year-old woman. Next week, the journal will publish a special report analyzing 21 cases of 2019-nCoV and an accompanying editorial on the topic, an RSNA spokesperson said.
+
+Imaging exams are a key component in diagnosing 2019-nCoV. Early disease recognition is critical, not only for prompt treatment, but also for patient isolation and effective public health containment and response.
+
+Radiology Case Report on a 2019-nCoV Patient
+
+In the Radiology article, Junqiang Lei, Junfeng Li, Xun Li and Xiaolong Qi from the 2019-nCoV Investigating and Research Team, The First Hospital of Lanzhou University, China, present the case of a 33-year-old woman who presented to the hospital with a five-day history of fever and cough of unknown cause. She worked in Wuhan, China, the epicenter of novel coronavirus outbreak. She had traveled to Lanzhou, China, six days before going to the hospital.
+
+The case details her vitals and lab work, and shows unenhanced chest CT imaging, revealing multiple peripheral ground-glass opacities in both lungs (Figure A).
+
+After receiving three days of treatment, combined with interferon inhalation, the authors said the patient was clinically worse with progressive pulmonary opacities found at repeat chest CT (Figure B).
+
+See the original article for more information.
+
+Coronavirus Timeline
+
+The Centers for Disease Control and Prevention (CDC) is closely monitoring an outbreak of respiratory illness caused by the new coronavirus first identified in Wuhan, China. Chinese authorities identified the first four cases of the new virus Dec, 31, 2019. It is believed the virus originated at a wet food market, where it likely mutated in an animal and made the jump to humans.
+
+Chinese health authorities tested the pathogen and found it belongs to the coronavirus family. This is the same family of viruses that include severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). These viruses are spreads via airborne droplets.
+
+The first fatality from the virus was on Jan. 9, 2020. In the three weeks since then, in China the death toll has risen to more than 213, and the number of confirmed cases was at 9,900 as of Jan. 31. About 130 cases were reported outside of China in 22 other countries.
+
+The first cases reported outside of China were reported starting on Jan. 13. The U.S. started screening travelers coming in from China on Jan. 17. This led to the first confirmed case in the U.S. On Jan. 30, the CDC confirmed the first U.S. person-to-person transmission of the 2019-nCoV virus in the Chicago area.
+
+China suspended travel in and out of the city of Wuhan Jan 23. Mass transit systems were also shutdown in Wuhan and other Chinese cities.
+
+On Jan. 30, the World Health Organization (WHO) designated the outbreak a global public health emergency. This was an effort to increase resources and an international coordination to fight the virus. WHO created an information and guidance page regarding the current outbreak
+
+Also on Jan. 30, the U.S. State Department issued a Level 4 "Do not travel" ban to U.S. citizens who were planning to visit China. The State Department also suggested U.S. citizens in China leave. The advisory also said travelers should be prepared for travel restrictions to be put into effect with little or no advance notice. It also noted several commercial airlines have reduced or suspended routes to and from China.
+
+Corona Virus Symptoms
+
+The CDC said 2019-nCoV symptoms have ranged from people being mildly sick to people being severely ill and dying. Symptoms can include:
+
+• Fever
+
+• Cough
+
+• Shortness of breath
+
+CDC believes, based on information at this time, symptoms may appear in as few as two days, or as long as 14 after exposure. The CDC based this on what was seen previously as the incubation period of the similar Middle East Respiratory Syndrome (MERS) virus.
+
+Clinicians can track details on the spread of the virus at the CDC's 2019-nCoV Situation Summary page.
+
+CDC information for clinical laboratory testing for the virus.
+
+Related Coronavirus Imaging Content:
+
+Infervision in the Frontlines Against the Coronavirus
+
+Infervision in the Frontlines Against the Coronavirus
+
+CT Imaging Features of 2019 Novel Coronavirus (2019-nCoV)
+
+Find more related clinical content Coronavirus (COVID-19)
+
+References:
+
+1. Junqiang Lei, Junfeng Li, Xun Li, Xiaolong Qi. CT Imaging of the 2019 Novel Coronavirus (2019-nCoV) Pneumonia. Radiology. Published Online:Jan 31 2020https://doi.org/10.1148/radiol.2020200236 Accessed Jan 31, 2020
+
+2. Qun Li, Xuhua Guan, Peng Wu, et. al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia. New England Journal of Medicine. Published online Jan. 29, 2020. DOI: 10.1056/NEJMoa2001316. Accessed Jan. 31, 2020.

@@ -1,0 +1,41 @@
+LAS VEGAS -- Smart health tech startups are shifting their focus from the U.S. to Asia, where they see an opportunity to tap a growing awareness of well-being and the continent’s aging population.
+
+At CES, the world's biggest technology show, the latest "smart" health products were on display. Toothbrushes that alert users of missed spots were displayed among belts that can assess the wearer’s risk of falling. Clothing that monitors respiratory patterns shared the floor with the usual array of smartwatches that monitor different vital signs.
+
+Compared with the previous year, the exhibition expanded by 25% for the health and wellness segment.
+
+These devices are equipped with newly developed health sensors, software and wireless connections. Deployment of 5G networks will enable the ability to provide real-time information, such as electrocardiogram or blood sugar levels, through the internet. The new products and services are potentially disruptive to the existing health care industry, where hospitals and doctors are gatekeepers of patient information. Smart health tech has the potential to lower medical costs while improving outcomes.
+
+With over 400 venture capital deals closed in the last two years, "the market could reach $30 billion annually," Goldman Sachs Research said in a May report. For the participants in CES, the Asian market is crucial to sustaining growth.
+
+AerNos, a U.S. air sensor startup, said it is expanding annual production capacity from the current hundreds of units to 100,000 units this year, with much of the sales expansion expected in Asia, according to Executive Vice President Larry Eason. The company is backed by Japan's VLC Holdings, and has a subsidiary in Japan.
+
+The four-year-old company creates a 3mm air sensor chip that can detect multiple gases simultaneously. The chip is currently used largely for air quality monitoring, but "these sensors can be used in a wide range of health care applications," Eason said.
+
+According to Eason, human breaths can be analyzed to detect signs of diseases such as diabetes and cancer, "so it is catching early enough before a crisis." It is working with a partner so that "in the future, your wearables or even smartphones will be able to tell you early to go to the doctor." The partner company is aiming for a launch by 2022 in the U.S. and Japan, he said.
+
+The U.K. research company Research and Markets predict Asia Pacific and Africa to be the fastest growing health care markets, increasing at annual rate of over 13%. As smart health technology evolves, "care that has normally been done in hospital or clinic will be done at home," said Microsoft's global chief medical officer David Rhew at CES.
+
+DnaNudge, a U.K. health tech startup backed by Thailand's former Prime Minister Thaksin Shinawatra and his sister Yingluck Shinawatra, who was also prime minister, is eyeing the Asian markets including Thailand, China and Japan, as well as the U.S. The company's technology gives nutritional advice through a wearable device that uses gene analysis.
+
+CEO Chris Toumazou said he is considering other uses for the device, including in fitness, skin care, supplements and Chinese medicine.
+
+French company Withings showcased smartwatches that can track electrocardiogram and peripheral capillary oxygen saturation levels. (Photo by Akane Okutsu)
+
+French smart scales company Withings, formerly known as Nokia Health, showed off a smartwatch that can measure the electrocardiogram heart activity. It will go on sale in Europe and the U.S. by September, and the official at the booth said the company has applied for a license for health products in Japan.
+
+However, regulations in some Asian countries remain a hurdle for products that deal with medical data. In Japan, Apple Watch also does not provide its electrocardiogram function, which is standard in the U.S.
+
+While Withings obtained a license from the U.S. Food and Drug Administration, which regulates medical devices, "the Japanese regulation is very strict," the company official said, adding that it would take a long time to obtain a license. The official also said it has not applied for the necessary license in China, knowing that it would also be more difficult compared with the U.S.
+
+Japan's Pharmaceuticals and Medical Devices Agency plays a major role in the premarket qualification process. The agency is known for its conservative approach and its time-consuming reviews of devices before granting regulatory approval.
+
+While Asia is the fastest growing market, North America remains the biggest for health care, according to Research and Markets.
+
+Given the relatively tight regulations to adopt wearable health care devices at home, CES saw the growing presence of Asian companies in the health tech sector that are keen to tap the U.S. market.
+
+Huami, one of the world's largest wearable devices companies, backed by Chinese phone maker Xiaomi, launched six new health-related products, including a smart home studio which will be first rolled out in the U.S.
+
+The company's CEO Huang Wang said the company hopes to win over American consumers with affordable prices. "Based in Shenzhen, we have a supply chain that significantly cuts down the costs, which is why we can offer products that none of our American peers can offer," he said.
+
+From Japan, where the population is aging rapidly, startup Xenoma showcased clothing with a sensor that monitors respiration, breathing patterns and when the wearer falls, so that it can alert family members. Samsung Electronics' in-house venture booth focused on convenience and health, such as a company that analyzes one's scalp and recommends products.

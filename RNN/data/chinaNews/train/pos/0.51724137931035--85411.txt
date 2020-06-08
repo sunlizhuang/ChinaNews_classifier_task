@@ -1,0 +1,13 @@
+Due to government restrictions, Google’s apps and services are not available for preload or sideload on new Huawei devices.
+
+To protect user data privacy, security, and safeguard the overall experience, the Google Play Store, Google Play Protect, and Google’s core apps (including Gmail, YouTube, Maps, and others) are only available on Play Protect certified devices.
+
+Play Protect certified devices go through a rigorous security review and compatibility testing process, performed by Google, to ensure user data and app information are kept safe. They also come from the factory with our Google Play Protect software, which provides protection against the device being compromised.
+
+This has been our long-standing approach to user security and privacy and is applied consistently across all device manufacturers.
+
+Because of the government restrictions described above, new Huawei device models made available to the public after May 16, 2019 have not been able to go through this security process nor will they have Play Protect preloaded. As a result, they are considered “uncertified,” and will not be able to utilize Google’s apps and services.
+
+In addition, sideloaded Google apps will not work reliably because we do not allow these services to run on uncertified devices where security may be compromised. Sideloading Google’s apps also carries a high risk of installing an app that has been altered or tampered with in ways that can compromise user security.
+
+To check if your device is certified, open the Google Play Store app on your Android phone, tap “Menu” and look for “Settings.” You will see if your device is certified under “Play Protect certification.” You can learn more on android.com/certified.

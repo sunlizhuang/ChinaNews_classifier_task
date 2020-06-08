@@ -1,0 +1,35 @@
+Huawei may join Xiaomi, OPPO, Vivo in GDSA to battle Google, Apple
+
+The most massive mobile smartphone brands in China are meeting to join forces to take on Google and Apple’s global dominance of the smartphone industry. To make this happen, Huawei is in talks with a group that already involves Xiaomi, OPPO, and Vivo, in what they call their Global Developer Service Alliance (GDSA). The GDSA is a platform that aims to present a new app store (for starters) in a world that’d otherwise have them dependent on Google Play and the Google Services package for Android – and, of course, unable to use iOS or the Apple app/content ecosystem for their devices whatsoever.
+
+Per a Reuters tip from people with knowledge of the matter, Huawei is in talks with the other three major China-based brands to make a giant splash with a global announcement of the GDSA in the near future. Per early documentation for the GDSA viewed by SlashGear, The main aim for the GDSA is to act as “a one-stop services including content distribution, development support, marketing operation, brand promotion and traffic monetization to global developers”
+
+While the latest talks seem to involve Huawei, this group has been organizing in some form since at least August 2, 2019. Of interest, though, is the fact that no public announcement seems to have been made by Xiaomi, OPPO, or Vivo on the subject.
+
+Process for content submission to global market
+
+Below you’ll see a sample system with which developers/content creators will be asked to submit their work to the GDSA. This sample was made for the GDSA before launch, and it is not yet clear whether this same set of graphics/process will be used once the full force of Huawei, Xiaomi, OPPO, and Vivo are onboard.
+
+Above you’ll see steps 1 and 2 for content submission to the GDSA, in effect (and/or testing) for developers in February 2020.
+
+Below you’ll also see a couple of screenshots showing the app update submission process. This is sort of similar to the process for developers for content with Google Play and/or Apple’s App Store and etcetera.
+
+Early Talks
+
+An early document viewed by SlashGear showed mobile manufacturers listed by the GDSA as: Mi, OPPO, Vivo. Mi is a brand used by Xiaomi, and both OPPO and Vivo have the same parent company, BBK Electronics. This group of three also announced a different alliance in early January of 2020. That alliance was just a sort of agreement to work on a wireless data transfer system for phones that’d work between brands… or was it?
+
+It’s not too far a stretch to look to the “Peer-to-Peer Transmission Alliance” as a precursor to the GDSA. It might even have been a sort of proof of concept, showing a brand like Huawei that a team-up between major brands was possible.
+
+According to early documentation, available countries/regions for marketed apps with the GDSA is as follows, separated by the three main brands onboard before Huawei:
+
+• MI: India, Indonesia, Russia, Spain
+
+• OPPO: India, Indonesia, Malaysia, Thailand, Philippines, Vietnam
+
+• Vivo: India, Indonesia, Russia, Vietnam
+
+Also included in early documentation – talk of an advertisement platform that’d allow apps to get priority placement in app stores. Does that sort of program seem familiar to you?
+
+Now we wait to see if Xiaomi, OPPO, Vivo, or indeed Huawei, take the time to make a comment on the situation. We look forward to hearing whether the companies intend to replace the Google Play app store on their devices worldwide, or if they mean only to use the GDSA to send apps to their own app stores already in play. Recent events and comments – re: ditching Google Play – suggest anything could happen!
+
+NOTE: This GDSA should not be confused with the extremely similarly-titled “Global Development Alliance” (GDA) which is part of the United States Agency for International Development (USAID). The GDSA should also not be confused with the ADG, aka Alliance Development Group, though the ADG’s aim is similar: Helping global technologies companies enter and expand into China and Asia since 2001.

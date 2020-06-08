@@ -1,0 +1,37 @@
+The Guardian has now reported that the Kingdom of Saudi Arabia hacked Jeff Bezos’s cell phone, which is what many of us who work in the information warfare area of national security had assessed shortly after The National Enquirer ran their hit piece on him. What we got in today’s reporting, however, were important and disturbing details! (emphasis mine)
+
+The Amazon billionaire Jeff Bezos had his mobile phone “hacked” in 2018 after receiving a WhatsApp message that had apparently been sent from the personal account of the crown prince of Saudi Arabia, sources have told the Guardian. The encrypted message from the number used by Mohammed bin Salman is believed to have included a malicious file that infiltrated the phone of the world’s richest man, according to the results of a digital forensic analysis. This analysis found it “highly probable” that the intrusion into the phone was triggered by an infected video file sent from the account of the Saudi heir to Bezos, the owner of the Washington Post. The two men had been having a seemingly friendly WhatsApp exchange when, on 1 May of that year, the unsolicited file was sent, according to sources who spoke to the Guardian on the condition of anonymity. Large amounts of data were exfiltrated from Bezos’s phone within hours, according to a person familiar with the matter. The Guardian has no knowledge of what was taken from the phone or how it was used.
+
+WhatsApp is notoriously insecure and should not be used! It is now owned by Facebook and there are serious concerns about what Facebook may be doing with the data from the app, including the personally identifying information (PII), of its users. Another security flaw is that the app itself isn’t encrypted, just the information while it is in transit from device (user) to device (user). So any spyware, on either the device on the sending or receiving end of the transmission, can pick up what is being sent and/or received.
+
+The larger issue here is that WhatsApp is very popular. We know from reporting that Jared Kushner uses it to communicate with Muhammed bin Salman, as well as others. From the late Congressman Cummings’ March 2019 letter to White House Counsel Pat Cipollone:
+
+During this period the Committee obtained additional information raising even more concerns about the use of private email and messaging apps by Jared Kushner and other White House officials. For example, during a meeting with Mr. Kushner’s attorney, Abbe Lowell, Mr. Lowell confirmed that Mr. Kushner has been using the messaging app WhatsApp as part of his official White House duties to communicate with foreign leaders.
+
+Jared isn’t the only US official using WhatsApp.
+
+Multiple Trump administration officials are known to have used WhatsApp to carry out sensitive conversations, raising the prospect that their communications have been intercepted. Gordon Sondland, Trump’s ambassador to the European Union and a key figure in in the administration’s campaign to pressure Ukraine to launch investigations that would benefit the president, communicated with other US diplomats about the effort over WhatsApp. During Trump’s run for the presidency campaign chairman Paul Manafort regularly sent polling data to a Russian associate via the app.
+
+The problem isn’t isolated just to Jared and other US officials.
+
+Senior government officials in multiple U.S.-allied countries were targeted earlier this year with hacking software that used Facebook Inc’s (FB.O) WhatsApp to take over users’ phones, according to people familiar with the messaging company’s investigation. Sources familiar with WhatsApp’s internal investigation into the breach said a “significant” portion of the known victims are high-profile government and military officials spread across at least 20 countries on five continents. Many of the nations are U.S. allies, they said
+
+Rudy Giuliani and Lev Parnas were also using WhatsApp!
+
+WhatsApp messages from Parnas to Giuliani and Republican congressional candidate Robert F. Hyde are included in the evidence.
+
+Let’s see what the President’s Cybersecurity Advisor and the First Name in Cybersecurity has to say:
+
+Ruh Roh!
+
+Anyone and everyone who has messaged Muhammed bin Salman using WhatsApp have likely had their phones or tablets compromised. And there is no telling what he collected, who he collected it from, and what he intends to do with it. Though we can be pretty sure it isn’t anything good. WhatsApp is not a secure form of communication. You should not be using it. More importantly, US government officials – from political appointees to civil servants to uniformed personnel to contractors – should not be using it either. Not for personal communications and certainly not for official and work related communication. That the President’s advisors, both those in the White House like his son in law Jared Kushner and those outside of it like Rudy Giuliani, and his other political appointees like Gordon Sondland are using WhatsApp means that over three years worth of official US communications have been compromised. And Muhammad bin Salman is not the only one whose intelligence and security services have compromised WhatsApp. Both the Israelis and the Russians have compromised WhatsApp, So have the Chinese.
+
+Whatever information that Muhammed bin Salman or the Israelis or Putin or Xi have managed to pull off of the phones of US officials, as well as those of other governments, that use WhatsApp is a ticking political warfare information bomb. We don’t know when this information will be used. We don’t know how it will be used. But we do know that it will be used. It may be used subtly to try to force US officials to do something they ordinarily wouldn’t. Or it might be used, as was the case with Bezos’s data, in an almost brutish assault. But it will eventually be used.
+
+Does anyone really want to contemplate what Mark Zuckerberg might do with the information transmitted via WhatsApp, which he owns? Zuckerberg has the ability to blackmail and extort everyone who uses his social media products because those products are designed to suck up everyone’s information and data so that Zuckerberg can monetize it. That is not a good thing.
+
+Every one of these government officials that are using WhatsApp, from Jared Kushner to Ambassador Sondland to those we don’t even know about should have their security clearances suspended pending a full counterintelligence investigation. They have made themselves into insider threats by refusing to follow best information and operational security practices. Rudy Giuliani doesn’t have a security clearance to suspend, but he and his associates who have been using WhatsApp all need to be subjected to a full counterintelligence investigation as well given Giuliani’s pro-bono work as the President’ private attorney and all the activity he has been up to in Ukraine and other parts of Europe.
+
+Open thread!
+
+Information Security Is Essential!Post + Comments (102)
